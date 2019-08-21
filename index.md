@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Lee Kuan Yew World City Prize
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
