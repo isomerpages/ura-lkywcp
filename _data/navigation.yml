@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: About
+    collection: about
+  - title: Nomination
+    collection: nomination
+  - title: Laureates
+    collection: laureates
+  - title: Database
+    collection: database
