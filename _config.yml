@@ -11,6 +11,8 @@ collections:
     output: true
   database:
     output: true
+  prize-jury:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
