@@ -22,6 +22,11 @@ sections:
             - title: Case Studies
               description: Best practices from exemplar cities
               url: /privacy/
+    - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More
+        url: /faq/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
