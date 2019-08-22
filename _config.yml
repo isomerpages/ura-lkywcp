@@ -9,9 +9,7 @@ collections:
     output: true
   laureates:
     output: true
-  media:
-    output: true
-  database:
+  resources:
     output: true
 
 ##################################################################################################################
