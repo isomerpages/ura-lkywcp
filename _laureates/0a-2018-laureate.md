@@ -8,6 +8,8 @@ third_nav_title: Laureates
 |--|--|--|
 | 2018 | Seoul | Asia Pacific |
 
+> ### *Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.*
+
 ![Seoul](/images/laureates/seoul.jpg)
 _Seoullo 7017 © Seoul Metropolitan Government_
 
