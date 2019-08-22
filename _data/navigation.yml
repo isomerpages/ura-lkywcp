@@ -16,4 +16,4 @@ links:
   - title: Laureates
     collection: laureates
   - title: Resources
-    collection: resources
+    resource_room: true
