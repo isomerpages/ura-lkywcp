@@ -4,6 +4,10 @@ permalink: /laureates/laureates/2018-laureate/
 third_nav_title: Laureates
 ---
 
+|Year | City |
+|--|--|
+|2018| Seoul|
+
 ![Seoul](/images/laureates/seoul.jpg)
 _Seoullo 7017 © Seoul Metropolitan Government_
 
