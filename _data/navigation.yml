@@ -7,8 +7,6 @@
 logo: /images/LKYWCP-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     collection: about
   - title: Nomination
@@ -17,3 +15,5 @@ links:
     collection: laureates
   - title: Resources
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
