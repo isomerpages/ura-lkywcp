@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        title: Lee Kuan Yew World City Prize
+        subtitle: Honouring outstanding cities since 2010
+        background: /images/Seoullo 7017-hero.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
