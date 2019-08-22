@@ -17,7 +17,7 @@ sections:
               description: How to apply for the Prize
               url: https://google.com
             - title: Feature Articles 
-              description: Latest articles on city challenges and solutions
+              description: Articles on city-related issues
               url: https://gmail.com
             - title: Case Studies
               description: Best practices from exemplar cities
