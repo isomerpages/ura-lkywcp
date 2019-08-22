@@ -35,7 +35,7 @@ sections:
         - title: New York City
           subtitle: 2012 Prize Laureate
           description: New York City is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC - a  blueprint for a greater and greener city.
-          image: /images/carousel/bilbao.jpg
+          image: /images/carousel/nyc.jpg
           alt: New York City Times Square
         - title: Suzhou
           subtitle: 2014 Prize Laureate
