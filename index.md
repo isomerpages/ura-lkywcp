@@ -13,8 +13,8 @@ sections:
         button: About the Prize
         url: /about/about-the-prize/
         key_highlights:
-            - title: Nomination Guidelines
-              description: How to apply for the Prize
+            - title: Prize Laureates
+              description: 2010 - 2018
               url: https://google.com
             - title: Feature Articles 
               description: Articles on city-related issues
