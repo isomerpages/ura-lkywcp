@@ -3,7 +3,7 @@ title: About The Prize
 permalink: /about/about-the-prize/
 ---
 
-![test image](/images/medallion.jpg)
+![medallion](/images/medallion.jpg)
 
 > ### *“Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community.”*
 > 
