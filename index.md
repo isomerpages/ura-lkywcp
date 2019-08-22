@@ -11,7 +11,7 @@ sections:
         subtitle: Honouring outstanding cities since 2010
         background: /images/Seoullo 7017-hero.jpg
         button: About the Prize
-        url: /contact-us/
+        url: /about/about-the-prize/
         key_highlights:
             - title: Nomination Guidelines
               description: How to apply for the Prize
