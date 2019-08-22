@@ -5,13 +5,13 @@ permalink: /about/about-the-prize/
 
 ![test image](/images/medallion.jpg)
 
-> ## *“Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community.”*
+> ### *“Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community.”*
 > 
 > <div align="right"><font size="2">Dr Cheong Koon Hean<br> 
 > Chairman<br>
 > Nominating Committee 2020</font></div>
 
-## About the Prize
+### About the Prize
 
 The Lee Kuan Yew World City Prize is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
 
@@ -19,7 +19,7 @@ To facilitate the sharing of best practices in urban solutions that are easily r
 
 The Lee Kuan Yew World City Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of S$300,000, sponsored by  [Keppel Corporation](https://www.leekuanyewworldcityprize.com.sg/about/prize-sponsor).
 
-## A Fitting Tribute
+### A Fitting Tribute
 
 The Lee Kuan Yew World City Prize is named after Singapore’s first Prime Minister. Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
 
