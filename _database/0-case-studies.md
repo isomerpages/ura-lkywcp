@@ -1,4 +1,4 @@
 ---
 title: Case Studies
-permalink: /database/case-studies/
+permalink: /resources/case-studies/
 ---
