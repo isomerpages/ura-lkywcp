@@ -5,7 +5,7 @@ permalink: /about/about-the-prize/
 
 ![medallion](/images/medallion.jpg)
 
-> ### *“Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community.”*
+> ### “Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community.”
 > 
 > <div align="right"><font size="3">Dr Cheong Koon Hean<br> 
 > Chairman<br>
