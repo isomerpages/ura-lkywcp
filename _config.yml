@@ -10,6 +10,8 @@ collections:
   laureates:
     output: true
 
+resources_name: resources
+
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
