@@ -24,7 +24,7 @@ sections:
               url: /privacy/
     - resources:
         title: 
-        subtitle: Latest articles
+        subtitle: Latest
         button: More
     - carousel:
         - title: Seoul
