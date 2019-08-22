@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Lee Kuan Yew World City Prize
         subtitle: Honouring outstanding cities since 2010
-        background: /images/Seoullo 7017-hero.jpg
+        background: /images/worldmap-hero.jpg
         button: About the Prize
         url: /about/about-the-prize/
         key_highlights:
