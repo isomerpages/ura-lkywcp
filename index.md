@@ -7,7 +7,7 @@ permalink: /
 notification: Nominations for the 2020 Prize have closed. Thank you for your interest.
 sections:
     - hero:
-        title: Lee Kuan Yew World City Prize
+        title: ## Lee Kuan Yew World City Prize
         subtitle: Honouring outstanding cities since 2010
         background: /images/Seoullo 7017-hero.jpg
         button: About the Prize
