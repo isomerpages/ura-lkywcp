@@ -12,6 +12,8 @@ collections:
   resources:
     output: true
 
+resources_name: Resources
+
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
