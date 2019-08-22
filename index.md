@@ -26,7 +26,6 @@ sections:
         title: Media
         subtitle: Learn more
         button: View More
-        url: /database/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
