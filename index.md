@@ -23,9 +23,9 @@ sections:
               description: Best practices from exemplar cities
               url: /privacy/
     - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title: 
+        subtitle: Latest articles
+        button: More
     - infobar:
         title: Infobar title
         subtitle: Subtitle
