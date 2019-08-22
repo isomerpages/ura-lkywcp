@@ -7,9 +7,9 @@ permalink: /about/about-the-prize/
 
 > #### “Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community.”
 
-**Dr Cheong Koon Hean**
-Chairman
-Nominating Committee 2020
+<div align="right"><font size="3"><b>Dr Cheong Koon Hean</b><br>
+Chairman<br>
+  Nominating Committee 2020</font></div>
 
 #### **About the Prize**
 
