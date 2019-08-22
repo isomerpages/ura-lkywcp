@@ -9,9 +9,9 @@ collections:
     output: true
   laureates:
     output: true
-  database:
+  media:
     output: true
-  prize-jury:
+  database:
     output: true
 
 ##################################################################################################################
