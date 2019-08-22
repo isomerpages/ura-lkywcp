@@ -9,8 +9,6 @@ collections:
     output: true
   laureates:
     output: true
-  resources:
-    output: true
 
 resources_name: Resources
 
