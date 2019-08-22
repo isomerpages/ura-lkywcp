@@ -10,14 +10,14 @@ sections:
         title: Lee Kuan Yew World City Prize
         subtitle: Honouring outstanding cities since 2010
         background: /images/Seoullo 7017-hero.jpg
-        button: Contact Us
+        button: About the Prize
         url: /contact-us/
         key_highlights:
-            - title: About the Prize
-              description: Find out more about the Prize
+            - title: Nomination Guidelines
+              description: How to apply for the Prize
               url: https://google.com
             - title: Feature Articles 
-              description: Read up on the latest city issues
+              description: Latest articles on city challenges and solutions
               url: https://gmail.com
             - title: Case Studies
               description: Best practices from exemplar cities
