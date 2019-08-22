@@ -1,5 +1,5 @@
 ---
-title: 2018 Prize Laureate
+title: 2018 Prize Laureate: Seoul
 permalink: /laureates/laureates/2018-laureate/
 third_nav_title: Laureates
 ---
