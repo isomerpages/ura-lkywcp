@@ -51,7 +51,7 @@ sections:
           subtitle: 2018 Prize Laureate
           description: Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.
           image: /images/carousel/seoul.jpg
-          alt: New York City Times Square
+          alt: Seoullo 7017
     - infobar:
         title: Infobar title
         subtitle: Subtitle
