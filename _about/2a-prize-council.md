@@ -36,7 +36,7 @@ Former Administrator, United Nations Development Programme<br>
 New Zealand<br> 
 [Biography](www.google.com)<br>
 
-<div style="width:150px"><img src="/images/jury/park-won-soon.jpg" alt="Park Won-soon" /></div>
+<div style="width:150px"><img src="/images/jury/park-won-soon.png" alt="Park Won-soon" /></div>
 
 **Mr Park Won-soon**<br> 
 Mayor, Seoul<br> 
