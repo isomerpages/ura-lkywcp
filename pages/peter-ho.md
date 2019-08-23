@@ -5,7 +5,7 @@ permalink: /about/prize-jury/prize-council/peter-ho/
 
 ![Peter Ho](/images/jury/peter-ho.jpg)
 
-###### Mr Peter Ho
+##### Mr Peter Ho
 Chairman 
 Urban Redevelopment Authority  
 Singapore
