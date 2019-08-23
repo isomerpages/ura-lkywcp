@@ -1,5 +1,5 @@
 ---
-title: 2014 - Suzhou
+title: 2014 Laureate - Suzhou
 permalink: /laureates/2014/laureate/
 third_nav_title: 2014
 ---
