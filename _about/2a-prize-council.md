@@ -8,9 +8,7 @@ third_nav_title: Prize Jury
 
 <div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></div>
 
-| Name | Designation | Biography |
-|--|--|--|
-| Mr Peter Ho | Chairman, Urban Redevelopment Authority Singapore | [Click here](www.google.com)
+| **Mr Peter Ho** | Chairman, Urban Redevelopment Authority Singapore | [Biography](www.google.com)
 
 ---
 
