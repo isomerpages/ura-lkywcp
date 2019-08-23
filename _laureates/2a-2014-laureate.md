@@ -8,7 +8,7 @@ third_nav_title: 2014
 |--|--|--|
 | 2014 Prize Laureate | Suzhou | Asia Pacific |
 
-***Suzhou is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.***
+***Suzhou is awarded the 2014 Prize for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.***
 
 ![Suzhou](/images/laureates/suzhou.jpg)
 _Skyline of Jinji Lake Central Business District © Department of Publicity of Suzhou Industrial Park_
