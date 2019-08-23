@@ -6,7 +6,7 @@ third_nav_title: 2010
 
 | Year | City | Region |
 |--|--|--|
-| 2010 | Melbourne | Asia Pacific |
+| 2010 Special Mention | Melbourne | Asia Pacific |
 
 ![Melbourne](/images/special-mentions/melbourne.jpg)
 _© Melbourne City Council_
