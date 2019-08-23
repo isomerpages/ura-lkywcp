@@ -3,10 +3,10 @@ title: Peter Ho
 permalink: /about/prize-jury/prize-council/peter-ho/
 ---
 
-<img src="/images/jury/peter-ho.jpg" alt="Peter Ho" width="150px"/>
+![Peter Ho](/images/jury/peter-ho.jpg){:height="200px" width="150px"}
 
-**Mr Peter Ho**
-Chairman 
+**Mr Peter Ho**<br>
+Chairman<br>
 Urban Redevelopment Authority  
 Singapore
 
