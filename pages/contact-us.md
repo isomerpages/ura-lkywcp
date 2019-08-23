@@ -8,7 +8,7 @@ locations:
     address:
         - 45 Maxwell Road
         - The URA Centre, Tower
-        - #13-01
+        - 13-01
         - Singapore 069118
     maps_link: https://goo.gl/maps/UeauLzGxt7etbUzA9
     operating_hours:
