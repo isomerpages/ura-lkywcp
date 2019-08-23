@@ -6,7 +6,7 @@ third_nav_title: Prize Jury
 
 #### **Chairman of the Prize Council 2020**
 
-<div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></img></div>
+<div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></div>
 
 **Mr Peter Ho**<br> 
 Chairman, Urban Redevelopment Authority<br>
@@ -15,7 +15,7 @@ Singapore<br>
 
 #### **Members of the Prize Council 2020**
 
-<div style="width:150px"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></img></div>
+<div style="width:150px"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></div>
 
 **Mr Flemming Borreskov**<br> 
 President, Catalytic Society<br> 
