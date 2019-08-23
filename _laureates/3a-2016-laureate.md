@@ -1,7 +1,7 @@
 ---
-title: 2016 - Medellín
-permalink: /laureates/laureates/2016-laureate/
-third_nav_title: Laureates
+title: Laureate - Medellín
+permalink: /laureates/2016/laureate/
+third_nav_title: 2016
 ---
 
 | Year | City | Region |
