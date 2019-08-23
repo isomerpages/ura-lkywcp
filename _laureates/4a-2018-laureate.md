@@ -6,9 +6,9 @@ third_nav_title: 2018
 
 | Year | City | Region |
 |--|--|--|
-| 2018 | Seoul | Asia Pacific |
+| 2018 Prize Laureate | Seoul | Asia Pacific |
 
-***Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.***
+***Seoul is awarded the 2018 Prize for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.***
 
 ![Seoul](/images/laureates/seoul.jpg)
 *Seoullo 7017 © Seoul Metropolitan Government*
