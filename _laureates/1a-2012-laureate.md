@@ -1,5 +1,5 @@
 ---
-title: 2012 - New York City
+title: Laureate - New York City
 permalink: /laureates/2012/laureate/
 third_nav_title: 2012
 ---
