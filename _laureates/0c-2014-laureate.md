@@ -1,5 +1,5 @@
 ---
-title: 2014 Prize Laureate - Suzhou
+title: 2014 - Suzhou
 permalink: /laureates/laureates/2014-laureate/
 third_nav_title: Laureates
 ---
