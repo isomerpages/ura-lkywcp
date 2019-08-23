@@ -3,7 +3,7 @@ title: Peter Ho
 permalink: /about/prize-jury/prize-council/peter-ho/
 ---
 
-<div style="width:150px">![Peter Ho](/images/jury/peter-ho.jpg)</div>
+<div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></div>
 
 **Mr Peter Ho**<br>
 Chairman<br>
