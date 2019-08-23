@@ -1,5 +1,5 @@
 ---
-title: 2012 Prize Laureate - New York City
+title: 2012 - New York City
 permalink: /laureates/laureates/2012-laureate/
 third_nav_title: Laureates
 ---
