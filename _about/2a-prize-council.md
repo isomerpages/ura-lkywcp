@@ -13,6 +13,8 @@ Chairman, Urban Redevelopment Authority<br>
 Singapore<br>
 [Biography](http://www.google.com)
 
+---
+
 #### **Members of the Prize Council 2020**
 
 <div style="width:150px"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></div>
