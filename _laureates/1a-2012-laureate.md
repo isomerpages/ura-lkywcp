@@ -1,7 +1,7 @@
 ---
 title: 2012 - New York City
-permalink: /laureates/laureates/2012-laureate/
-third_nav_title: Laureates
+permalink: /laureates/2012/laureate/
+third_nav_title: 2012
 ---
 
 | Year | City | Region |
