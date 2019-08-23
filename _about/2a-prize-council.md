@@ -4,29 +4,21 @@ permalink: /about/prize-jury/prize-council
 third_nav_title: Prize Jury
 ---
 
-#### **Chairman**
+#### **Chairman of the Prize Council 2020**
 
 <div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></div>
 
-| **Mr Peter Ho** | Chairman, Urban Redevelopment Authority Singapore | 
+| **Mr Peter Ho** | Chairman, Urban Redevelopment Authority | Singapore |
 | [Biography](www.google.com) |
 
----
+#### **Members of the Prize Council 2020**
 
-#### **Members**
+<div style="width:150px"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></div>
 
-<div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></div>
+| **Mr Flemming Borreskov** | President, Catalytic Society | Denmark |
+| [Biography](www.google.com) |
 
-**Mr Peter Ho**<br>
-Chairman<br>
-Urban Redevelopment Authority  
-Singapore
+<div style="width:150px"><img src="/images/jury/chan-heng-chee.jpg" alt="Chan Heng Chee" /></div>
 
----
-
-<div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></div>
-
-**Mr Peter Ho**<br>
-Chairman<br>
-Urban Redevelopment Authority  
-Singapore
+| **Ambassador Chan Heng Chee** | Chairman, Lee Kuan Yew Centre for Innovative Cities | Singapore |
+| [Biography](www.google.com) |
