@@ -6,7 +6,7 @@ third_nav_title: 2012
 
 | Year | City | Region |
 |--|--|--|
-| 2012 | New York City | North America |
+| 2012 Prize Laureate | New York City | North America |
 
 ***New York City is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC - a blueprint for a greater and greener city.***
 
