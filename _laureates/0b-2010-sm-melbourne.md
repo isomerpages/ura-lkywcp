@@ -8,7 +8,7 @@ third_nav_title: 2010
 |--|--|--|
 | 2010 | Melbourne | Asia Pacific |
 
-![Aveneida de Abandoibarra](/images/laureates/bilbao.jpg)
+![Melbourne](/images/special-mnentions/melbourne.jpg)
 _© Melbourne City Council_
 
 ### **The Jury's Citation**
