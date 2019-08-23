@@ -1,7 +1,7 @@
 ---
 title: 2014 - Suzhou
-permalink: /laureates/laureates/2014-laureate/
-third_nav_title: Laureates
+permalink: /laureates/2014/laureate/
+third_nav_title: 2014
 ---
 
 | Year | City | Region |
