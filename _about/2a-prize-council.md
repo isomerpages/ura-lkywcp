@@ -10,7 +10,7 @@ third_nav_title: Prize Jury
 
 **Mr Peter Ho**<br> 
 Chairman, Urban Redevelopment Authority, Singapore<br>
-[Biography](http://www.google.com)
+[Biography](/about/prize-jury/prize-council/peter-ho/)
 
 ---
 
