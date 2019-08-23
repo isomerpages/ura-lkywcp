@@ -6,9 +6,9 @@ third_nav_title: 2016
 
 | Year | City | Region |
 |--|--|--|
-| 2016 | Medellín | South America |
+| 2016 Prize Laureate | Medellín | South America |
 
-***Medellín is recognised for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.***
+***Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.***
 
 ![Medellín](/images/laureates/medellin.jpg)
 _Connecting marginalised hillside communities to the rest of the city with the MetroCable in Medellín 
