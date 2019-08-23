@@ -8,7 +8,7 @@ third_nav_title: 2010
 |--|--|--|
 | 2010 | Melbourne | Asia Pacific |
 
-![Melbourne](/images/special-mnentions/melbourne.jpg)
+![Melbourne](/images/special-mentions/melbourne.jpg)
 _© Melbourne City Council_
 
 ### **The Jury's Citation**
