@@ -1,5 +1,5 @@
 ---
-title: 2010 Prize Laureate - Bilbao City Hall
+title: 2010 - Bilbao City Hall
 permalink: /laureates/laureates/2010-laureate/
 third_nav_title: Laureates
 ---
