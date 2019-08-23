@@ -8,7 +8,7 @@ third_nav_title: 2010
 |--|--|--|
 | 2010 Prize Laureate | Bilbao | Europe |
 
-***Bilbao City Hall is recognised for its integrated and holistic approach in urban transformation.***
+***Bilbao City Hall is awarded the inaugural Prize in 2010 for its integrated and holistic approach in urban transformation.***
 
 ![Aveneida de Abandoibarra](/images/laureates/bilbao.jpg)
 _Aveneida de Abandoibarra © BILBAO NEXT – Ayuntamiento de Bilbao_
