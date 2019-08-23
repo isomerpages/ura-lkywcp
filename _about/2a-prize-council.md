@@ -13,14 +13,14 @@ third_nav_title: Prize Jury
 <table class="tg">
   <tr>
     <td class="tg-0pky"><img src="/images/jury/peter-ho.jpg" width="150px" /></td>
-    <td class="tg-0pky">Mr Peter Ho<br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
+    <td class="tg-0pky"><b>Mr Peter Ho</b><br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
     <td class="tg-0pky"><img src="/images/jury/peter-ho.jpg" width="150px" /></td>
-    <td class="tg-0pky">Mr Peter Ho<br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
+    <td class="tg-0pky"><b>Mr Peter Ho</b><br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
   </tr>
   <tr>
     <td class="tg-0pky"><img src="/images/jury/peter-ho.jpg" width="150px" /></td>
-    <td class="tg-0pky">Mr Peter Ho<br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
+    <td class="tg-0pky"><b>Mr Peter Ho</b><br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
     <td class="tg-0pky"><img src="/images/jury/peter-ho.jpg" width="150px" /></td>
-    <td class="tg-0pky">Mr Peter Ho<br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
+    <td class="tg-0pky"><b>Mr Peter Ho</b><br>Chairman<br>Urban Redevelopment Authority<br>Singapore</td>
   </tr>
 </table>
