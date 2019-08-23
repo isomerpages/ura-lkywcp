@@ -1,5 +1,5 @@
 ---
-title: 2016 Prize Laureate - Medellín
+title: 2016 - Medellín
 permalink: /laureates/laureates/2016-laureate/
 third_nav_title: Laureates
 ---
