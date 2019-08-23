@@ -1,5 +1,5 @@
 ---
-title: Peter Ho
+title: Biography - Peter Ho
 permalink: /about/prize-jury/prize-council/peter-ho/
 ---
 
