@@ -1,7 +1,7 @@
 ---
 title: 2010 - Bilbao City Hall
-permalink: /laureates/laureates/2010-laureate/
-third_nav_title: Laureates
+permalink: /laureates/2010/laureate/
+third_nav_title: 2010
 ---
 
 | Year | City | Region |
