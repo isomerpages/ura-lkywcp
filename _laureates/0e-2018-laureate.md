@@ -1,7 +1,7 @@
 ---
-title: 2018 - Seoul
-permalink: /laureates/laureates/2018-laureate/
-third_nav_title: Laureates
+title: Laureate - Seoul
+permalink: /laureates/2018/laureate/
+third_nav_title: 2018
 ---
 
 | Year | City | Region |
