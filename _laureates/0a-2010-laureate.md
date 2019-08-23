@@ -10,6 +10,8 @@ third_nav_title: 2010
 
 ***Bilbao City Hall is recognised for its integrated and holistic approach in urban transformation.***
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9aBW7yF0-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Aveneida de Abandoibarra](/images/laureates/bilbao.jpg)
 _Aveneida de Abandoibarra © BILBAO NEXT – Ayuntamiento de Bilbao_
 
