@@ -6,7 +6,7 @@ third_nav_title: 2010
 
 | Year | City | Region |
 |--|--|--|
-| 2010 | Bilbao | Europe |
+| 2010 Prize Laureate | Bilbao | Europe |
 
 ***Bilbao City Hall is recognised for its integrated and holistic approach in urban transformation.***
 
