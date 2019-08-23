@@ -6,7 +6,7 @@ third_nav_title: 2014
 
 | Year | City | Region |
 |--|--|--|
-| 2014 | Suzhou | Asia Pacific |
+| 2014 Prize Laureate | Suzhou | Asia Pacific |
 
 ***Suzhou is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.***
 
