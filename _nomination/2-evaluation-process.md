@@ -3,7 +3,7 @@ title: Evaluation Process
 permalink: /nomination/evaluation-process/
 ---
 
-All submissions are evaluated through a rigorous two-tier process comprising the Nominating Committee and Prize Council.
+All submissions are evaluated through a rigorous two-tier process comprising the Nominating Committee and Prize Council. The roles of the two panels are as follows: 
 
 | Nominating Committee | Prize Council |
 |:---|:---|
