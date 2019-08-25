@@ -1,14 +1,14 @@
 ---
 layout: homepage
 title: Lee Kuan Yew World City Prize
-description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. 
+description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
 image: /images/LKYWCP-logo.png
 permalink: /
 notification: Nominations for the 2020 Prize have closed. Thank you for your interest.
 sections:
     - hero:
         title: Lee Kuan Yew World City Prize
-        subtitle: A biennial international award honouring outstanding liveable, vibrant and sustainable urban communities around the world
+        subtitle: Honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
         background: /images/worldmap-hero.jpg
         button: About the Prize
         url: /about/about-the-prize/
