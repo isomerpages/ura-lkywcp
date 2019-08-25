@@ -3,7 +3,7 @@ title: Prize Sponsor
 permalink: /about/prize-sponsor/
 ---
 
-<div style="width:500px"><img src="/images/kepcorp.jpg" alt="Keppel Corporation" /></div>
+<div style="width:300px"><img src="/images/kepcorp.jpg" alt="Keppel Corporation" /></div>
 
 #### **Keppel Corporation**
 
