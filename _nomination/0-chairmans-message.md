@@ -3,6 +3,8 @@ title: Chairman's Message
 permalink: /nomination/chairmans-message/
 ---
 
+![10 year anniversary](/images/10-year-anniversary.jpg)
+
 2020 marks the tenth year since the inaugural Prize was awarded to Bilbao City Hall in 2010. Since then, we have garnered many good submissions from many outstanding cities around the world, and subsequently awarded the Prize to New York City (2012), Suzhou (2014) and Medellín (2016). And in 2018, Seoul is awarded for its remarkable transformation journey from a bureaucratic top-down city into an inclusive people-centric city. These winning cities, while very different from each other, each offers invaluable lessons in best practices for urban development and city management, and serves as worthy ambassadors for the Prize. 
 
 The Prize remains the only city prize in the world today that looks at the holistic transformation of the city over a period of at least 10 years. During the jury’s evaluation process for 2018, we have observed that the quality of submissions received are generally very high, and many good cities are making repeated applications to the Prize. This means that the Prize is highly valued and sought after by cities, and we are extremely heartened that it has built itself into an internationally recognised Prize. 
@@ -19,10 +21,8 @@ As the Prize moves into its tenth year and sixth cycle, we believe that these ch
 
 We thank you once again for your support and interest. We hope that the Prize will continue to serve as an avenue for exemplary thought-leadership and the exchange of ideas and best practices among cities, which will eventually lead to the creation of liveable, vibrant and sustainable urban communities. We look forward to receiving your nominations for the 2020 Prize. 
 
-
-
-
-Dr Cheong Koon Hean 
+![Dr Cheong](/images/dr-cheong-signature.png)
+**Dr Cheong Koon Hean**
 Chairman 
 Lee Kuan Yew World City Prize 
 Nominating Committee 2020
