@@ -8,6 +8,8 @@ third_nav_title: Nomination Guidelines
 
 Following a valid Stage A Nomination, the city will be notified via email to prepare and submit a detailed report for Stage B Submission. This report shall be prepared by the city administration after Stage A Nomination.
 
+---
+
 #### **Preparing the Submission (by the city)**
 
 There are three (3) parts to the Stage B Submission:
@@ -37,3 +39,12 @@ The reference letters (maximum of 600 words each) should describe, explain and h
 
 The city may wish to submit additional supporting documents such as city reports, news articles, videos, testimonials or any other relevant materials to support the submission. Please note that only Parts 1 - 3 will be used as the primary evaluation material. 
 
+---
+
+#### **Making the Submission (by the city)**
+
+Please submit the following completed items both online and through physical mail: 
+- Completed Stage B Report
+- Completed Photo Report
+- 2-5 References Letters 
+- Additional Supporting Documents 
