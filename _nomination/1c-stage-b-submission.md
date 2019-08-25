@@ -43,8 +43,16 @@ The city may wish to submit additional supporting documents such as city reports
 
 #### **Making the Submission (by the city)**
 
-Please submit the following completed items both online and through physical mail: 
+Please submit the following completed items online: 
 - Completed Stage B Report
 - Completed Photo Report
 - 2-5 References Letters 
 - Additional Supporting Documents 
+
+Please send 8 copies of the above items to the Prize Secretariat via trackable mail: 
+
+**Lee Kuan Yew World City Prize Secretariat**
+<br>45 Maxwell Road 
+<br>The URA Centre, Tower
+<br>13-01
+<br>Singapore 069118
