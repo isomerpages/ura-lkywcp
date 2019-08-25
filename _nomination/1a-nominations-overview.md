@@ -10,5 +10,5 @@ The Lee Kuan Yew World City Prize is ***awarded to cities only***. Application f
 
 | Stage | Item	| Online Form | Closing Date |
 |:---:|:---|:---|:---|
-| A | Submission of nomination and recommendation letter by the nominator | Closed | ~~29 Mar 2019~~ <br>31 May 2019 <br>6pm (+8 GMT) |
-| B | Submission of detailed report by the city | Closed | 31 May 2019 <br>6pm (+8 GMT) |
+| A | Submission of nomination and recommendation letter by the nominator | Closed | ~~29 Mar 2019~~ <br>31 May 2019, 6pm (+8 GMT) |
+| B | Submission of detailed report by the city | Closed | 31 May 2019, 6pm (+8 GMT) |
