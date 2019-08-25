@@ -23,4 +23,4 @@ Keppel T&T is a leading service provider in the Asia-Pacific and Europe with bus
 
 Keppel Capital is the Group's asset management arm. With assets under management of S$29 billion as at November 2017, Keppel Capital has a diversified portfolio that includes real estate, infrastructure and data centre assets in key global markets.
 
-For more information, please visit www.kepcorp.com
+For more information, please visit [www.kepcorp.com](http://www.kepcorp.com)
