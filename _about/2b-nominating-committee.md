@@ -22,7 +22,7 @@ Chief Executive Officer, Housing & Development Board, Singapore<br>
 Professor, University of Freiburg, Germany<br> 
 [Biography](www.google.com)
 
-<div style="width:150px"><img src="/images/jury/lim-eng-hwee.jpg" alt="Lim Eng Hwee" /></div>
+<div style="width:150px"><img src="/images/jury/lim-eng-hwee.jpeg" alt="Lim Eng Hwee" /></div>
 
 **Mr Lim Eng Hwee**<br> 
 Chief Executive Officer, Urban Redevelopment Authority, Singapore<br> 
@@ -34,7 +34,7 @@ Chief Executive Officer, Urban Redevelopment Authority, Singapore<br>
 Director, Global Foresight, Research and Innovation, ARUP, USA<br> 
 [Biography](www.google.com)<br>
 
-<div style="width:150px"><img src="/images/jury/marilyn-taylor.png" alt="Marilyn Taylor" /></div>
+<div style="width:150px"><img src="/images/jury/marilyn-taylor.jpg" alt="Marilyn Taylor" /></div>
 
 **Prof Marilyn Jordan Taylorn**<br> 
 Professor, Former Dean, School of Design, University of Pennsylvania, USA<br> 
