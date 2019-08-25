@@ -4,7 +4,7 @@ permalink: /about/organisers/clc/
 third_nav_title: Organisers
 ---
 
-![Centre for Liveable Cities](/images/clclogo.png)
+<div style="width:300px"><img src="/images/clclogo.png" alt="Centre for Liveable Cities" /></div>
 
 The Centre for Liveable Cities (CLC) was jointly established by the Ministry of National Development and the Ministry of the Environment and Water Resources in June 2008. The CLC is a policy-oriented Centre that seeks to bring together Singapore's expertise on sustainable urban development in the areas of good governance, urban planning, effective resource management, quality living environment, affordable housing and sustainable transport solutions from across government, industry and academia. The Centre will facilitate the sharing of knowledge and best practices among cities in the region and globally.
 
