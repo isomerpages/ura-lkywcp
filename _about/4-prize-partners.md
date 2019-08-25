@@ -3,7 +3,7 @@ title: Prize Partners
 permalink: /about/prize-partners/
 ---
 
-The Lee Kuan Yew World City Prize is proud to partner with the following leading international organisations and think tanks: 
+The Lee Kuan Yew World City Prize is proud to partner the following leading international organisations and think tanks: 
 
 |:---|:---|---:|
 01 | **American Planning Association** | [Website](http://www.planning.org)
