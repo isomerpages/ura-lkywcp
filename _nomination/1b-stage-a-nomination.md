@@ -19,6 +19,8 @@ The Nominator should be someone belonging to one of the following categories:
 
 **Note:** Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.
 
+---
+
 #### **Making the Nomination (by the Nominator)**
 
 The Nominator must make the nomination for each city using the official Nomination Form, accompanied by a signed Recommendation Letter (maximum 600 words). In the Recommendation Letter, the Nominator should make a case to support why the city should win the Prize, and could address (but not limited to) the following points:
