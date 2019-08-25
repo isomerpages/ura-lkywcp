@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /nominations/guidelines/overview/
+permalink: /nomination/guidelines/overview/
 third_nav_title: Nomination Guidelines
 ---
 
