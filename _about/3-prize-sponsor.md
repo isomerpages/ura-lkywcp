@@ -1,7 +1,9 @@
 ---
-title: Prize Sponsor - Keppel Corporation
+title: Prize Sponsor
 permalink: /about/prize-sponsor/
 ---
+
+#### **Keppel Corporation**
 
 With a global footprint in more than 20 countries, Keppel is a multi-business company providing robust solutions for sustainable urbanisation, to meet the growing need for energy, infrastructure, clean environments, high quality homes and offices, and connectivity. 
 
