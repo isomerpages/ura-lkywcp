@@ -1,7 +1,7 @@
 ---
 title: Overview
-permalink: /about/nominations/overview/
-third_nav_title: Nominations
+permalink: /nominations/guidelines/overview/
+third_nav_title: Nomination Guidelines
 ---
 
 ***Important note: Nominations for the 2020 Prize cycle have closed. The 2022 Prize cycle will open in July 2020. Watch this space!***
