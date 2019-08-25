@@ -4,7 +4,7 @@ permalink: /about/organisers/ura/
 third_nav_title: Organisers
 ---
 
-![Urban Redevelopment Authority](/images/uralogo.png)
+<div style="width:500px"><img src="/images/uralogo.png" alt="Urban Redevelopment Authority" /></div>
 
 The Urban Redevelopment Authority (URA) is Singapore’s land use planning and conservation agency. Our mission is “to make Singapore a great city to live, work and play”. We strive to create an endearing home and a vibrant city through long-term planning and innovation, in partnership with the community. 
 
