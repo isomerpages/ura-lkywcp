@@ -21,7 +21,7 @@ As the Prize moves into its tenth year and sixth cycle, we believe that these ch
 
 We thank you once again for your support and interest. We hope that the Prize will continue to serve as an avenue for exemplary thought-leadership and the exchange of ideas and best practices among cities, which will eventually lead to the creation of liveable, vibrant and sustainable urban communities. We look forward to receiving your nominations for the 2020 Prize. 
 
-![Dr Cheong](/images/dr-cheong-signature.png)
+<div style="width:300px"><img src="/images/dr-cheong-signature.png" alt="Dr Cheong's Signature" /></div>
 **Dr Cheong Koon Hean**
 <br>Chairman 
 <br>Lee Kuan Yew World City Prize 
