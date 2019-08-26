@@ -16,7 +16,7 @@ sections:
             - title: Prize Laureates
               description: 2010 - 2018
               url: https://google.com
-            - title: Feature Articles 
+            - title: Features 
               description: Articles on city-related issues
               url: https://gmail.com
             - title: Case Studies
