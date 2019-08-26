@@ -65,4 +65,4 @@ Summarising its initiatives, [the government noted](https://www1.nyc.gov/site/cp
 
 ---
 
-##### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
+###### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
