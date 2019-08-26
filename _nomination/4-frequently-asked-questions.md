@@ -42,6 +42,8 @@ The nominator and the city will receive an automated e-mail reply to acknowledge
 
 No.
 
+---
+
 #### **C. About the recommendation letter**
 
 **What should the recommendation letter contain?**
@@ -59,3 +61,19 @@ The nominator may wish to address (but not limited to) the following points in t
 **What is the world limit for the recommendation letter?**
 
 The recomendation letter should preferably be around 600 words.
+
+---
+
+#### **D. About the Stage B submission materials**
+
+**Who prepares the Stage B submission materials?**
+
+The city (i.e. city government and/or key partner organisation appointed by the city) is to prepare and submit the Stage B materials to the Prize Secretariat by the Stage B closing date.
+
+**What materials does the city need to submit for Stage B?**
+
+The city is required to prepare and submit a detailed report containing information on the city, key statistics over at least 10 years, overall master plan or strategy, and 3 demonstration projects to illustrate the success of the master plan/strategy. The city is also required to submit a photo report, and 2 - 5 reference letters from independent third parties who are familiar and/or involved in the city's transformation. They city may also wish to submit additional supporting documents, such as annual reports, brochures, etc. For the details of the submission requirements, please click [here](/nomination/guidelines/stage-b/).
+
+**Can the city submit additional materials in other languages other than English?**
+
+The main report and all accompanying materials must be in English. The city may submit additional documents in other languages, however only materials in English will be considered for evaluation.
