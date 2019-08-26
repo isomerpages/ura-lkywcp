@@ -52,10 +52,4 @@ sections:
           description: Bilbao City Hall is recognised for its integrated and holistic approach in urban transformation.
           image: /images/carousel/bilbao.jpg
           alt: Bilbao City Hall
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
 ---
