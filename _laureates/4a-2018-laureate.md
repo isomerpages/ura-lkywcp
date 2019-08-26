@@ -10,6 +10,8 @@ third_nav_title: 2018
 
 ***Seoul is awarded the 2018 Prize for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.***
 
+- [Watch the video](https://vimeo.com/259791111)
+
 ![Seoul](/images/laureates/seoul.jpg)
 *Seoullo 7017 © Seoul Metropolitan Government*
 
