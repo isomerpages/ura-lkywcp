@@ -107,7 +107,7 @@ A broad range of projects is accepted, such as:
 | Economic development | Transport & mobility | Social programmes |
 | Smart city initiatives | Activities & programming |
 
-The demonstration projects should illustrate the success of the city's overall master plan/ strategy, and relate to the creation of liveable, vibrant, and sustainable urban communities, and improve the quality of life for the residents.
+The demonstration projects should illustrate the success of the city's overall master plan/strategy, and relate to the creation of liveable, vibrant, and sustainable urban communities, and improve the quality of life for the residents.
 
 **Can demonstration projects be partially completed/implemented?**
 
