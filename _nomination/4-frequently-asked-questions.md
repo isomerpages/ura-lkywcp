@@ -100,7 +100,21 @@ Yes.
 
 **What type of demonstration projects are eligible?**
 
-A broad range of projects is accepted. Click here to view a non-exhaustive list of possible demonstration project types. The demonstration projects should illustrate the success of the city's overall master plan/ strategy, and relate to the creation of liveable, vibrant, and sustainable urban communities, and improve the quality of life for the residents.
+A broad range of projects is accepted, such as: 
+
+- Governance
+- Urban planning 
+- Urban regeneration 
+- Urban resilience 
+- Disaster risk management 
+- Environmental projects 
+- Economic development initiatives 
+- Transport/mobility 
+- Social programmes
+- Smart city initiatives
+- Activities and programming 
+
+The demonstration projects should illustrate the success of the city's overall master plan/ strategy, and relate to the creation of liveable, vibrant, and sustainable urban communities, and improve the quality of life for the residents.
 
 **Can demonstration projects be partially completed/implemented?**
 
