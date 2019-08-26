@@ -63,8 +63,9 @@ In 2019, the city will issue the country’s first Internet Master Plan, detaili
 
 Summarising its initiatives, [the government noted](https://www1.nyc.gov/site/cpp/index.page): “We can secure our city’s future against the challenges of today and tomorrow. With bold actions to confront our climate crisis, achieve equity and strengthen our democracy, we are building a strong and fair city. Join us.” **<font color="#967942">O</font>**
 
----
-
 ###### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
 
-###### *Realize that a professional bio is meant to make you look like a confident and skilled person. You're not bragging. Just write about who you are and what you can do. You're doing a service by telling others what you can do for them. If they need someone with your skills and they find your bio, that's a win-win.*
+---
+
+| **Hee Seon Jin** |
+| Hee Seon Jin is Deputy Mayor of Urban Regeneration in Seoul Metropolitan Government. He has been in charge of city planning and urban regeneration in Seoul since 2008, and is currently leading urban regeneration policies. He hopes to make Seoul a sustainable city by means of People Powered urban policies; hence, he has a profound interest in the citizen participation in urban regeneration. He gained master degree at Iowa State University, and Ph.D. degree at Yonsei University both in urban planning. |
