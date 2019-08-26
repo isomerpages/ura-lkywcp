@@ -66,3 +66,5 @@ Summarising its initiatives, [the government noted](https://www1.nyc.gov/site/cp
 ---
 
 ###### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
+
+###### *Realize that a professional bio is meant to make you look like a confident and skilled person. You're not bragging. Just write about who you are and what you can do. You're doing a service by telling others what you can do for them. If they need someone with your skills and they find your bio, that's a win-win.*
