@@ -13,6 +13,9 @@ third_nav_title: 2018
 ![Seoul](/images/laureates/seoul.jpg)
 *Seoullo 7017 © Seoul Metropolitan Government*
 
+### **Commemorative Video**  
+Click [here](https://vimeo.com/259791111) to watch the commemorative video. 
+
 ### **The Jury's Citation**  
 Seoul is recognised as the role model for megacities with a will to change. With a leadership that dares to take bold decisions and a government that devises innovative problem-solving methods, the city has successfully turned itself around from a highly bureaucratic top-down city with rising tensions between the government and its people, into the inclusive, socially stable, and highly innovative city found today. As shown in Seoul’s successful and impactful high quality projects to repurpose urban infrastructure, the city has proven itself as an excellent example where leadership, commitment to citizen engagement, data-supported problem-solving decisions, and creative designs can transform the built environment, add vibrancy and improve quality of life.  
   
@@ -27,5 +30,3 @@ Seoul, particularly in its urban core areas, demonstrates boldness in shifting a
 As megacities continue to mature and age, deterioration of its urban infrastructure is inevitable. Seoul is highly innovative in its approach to rejuvenate its modern heritage and is constantly seeking creative ways to inject vibrancy and a breath of fresh air into its urban environment, which the city termed as “development without demolition”. The projects Makercity Sewoon – a rehabilitation of seven commercial superblocks built in the 1970s through the sensitive insertion of new interventions and uses, and Mapo Culture Depot – a conversion of disused oil tanks into a cultural venue and public space, offer new perspectives in repurposing infrastructure while preserving collective memories of the people.  
   
 As cities become larger and more difficult to manage, achieving social sustainability may be a much bigger challenge than extending economic and environmental sustainability. Should Seoul not have taken the bold and unusual step to make its citizens the creators of their own city plan, it could have further aggravated the already built-up tensions between the people and the government, and orchestrated its own decline. By turning the people into active participants of the city’s development, Seoul demonstrated that a truly bottom-up city is possible, where the citizens own their shared city. **<font color="#967942">O</font>** 
-
-> ###### *[Watch the video](https://vimeo.com/259791111)*
