@@ -45,7 +45,37 @@ Centred on the seven building groups (multi-purpose buildings) constructed seque
 
 In the process of Seoul's rapid policy changes, the area surrounding Sewoon Shopping Centre has experienced a number of ups-and-downs, including a near-demolition. In line of the trend for development in 2009 to increase the value of real estate, the plan to establish a broad north-south green axis, demolish and redevelop the surrounding region was finalised but it was soon faced with various social problems such as the destruction of homes and workplaces of existing small traders and store owners, and subsequent conflicts among residents. 
 
+![The rejuvenated Sewoon Shopping Centre](/images/features/2019/sewoon-shopping-centre.jpg/)*The rejuvenated Sewoon Shopping Centre © Urban Redevelopment Authority Singapore*
 
-**<font color="#967942">O</font>**
+As the construction business continued to shrink and the real estate market went into a recession, the need and duty to maintain the urban industrial ecosystem, respect the value of historic and cultural downtown, and reduce excessive burden on the residents reached a consensus and, therefore, the plan switched from the previous complete demolition and redevelopment to a sustainable urban regeneration in June 2013. 
+
+However, the urban regeneration projects faced many difficulties in the beginning as residents lacked not only understanding of urban regeneration but also trust in the city's policies. 
+
+Seoul needed the efforts from administrative and field activists to turn back the hearts of the residents and, under the principle that “urban regeneration must be carried out by collaborating with the residents and be centred on field administration”, started by listening to the opinions of the residents. 
+
+Also, residents, experts and Seoul city administrators put their heads together day and night to devise a plan and determine execution for an urban regeneration of Sewoon Shopping Centre that would satisfy everyone, Sewoon Shopping Centre was gradually transformed by fulfilling commitments made with residents and overcoming difficulties despite voices of concern over the course of the project, which ultimately led to the successful launch of the Sewoon Again Project on September 19, 2017. 
+
+As the hub of 7,000 companies and more than 20,000 engineers, Sewoon Shopping Centre is changing into an innovation base to lead the revival of the urban manufacturing industry in this age of the fourth industrial revolution, and young people with new technology and creative ideas head over to Sewoon Shopping Centre through the Sewoon Again Project through which such creativity of the youth, know-how of technical masters and future technology of new industries are connected to ultimately establish the “Sewoon Platform” and lead the fourth industrial revolution. To operate a variety of programmes such as this, continuous discussions and attempts are being processed. 
+
+Residents sign coexistence agreements themselves and operate a residents’ committee for urban regeneration to autonomously and voluntarily plan and implement the urban regeneration projects. The projects that began from administration are now being carried out by the residents who have protected and will continue to develop the region. 
+
+> #### “Going beyond the top-down method of the past, the essence of Seoul's urban regeneration policies lies in the residents who serve as the main body in the entire process from planning to execution in order to revive the identity of a region, properly combine hardware and software, and implement these in collaboration with public and private governance.”
+
+#### **Is Seoul considering urban regeneration in other regions? If yes, what is the importance of regenerating those regions?**
+
+**HSJ:** For 7 years since urban regeneration was first promoted, things that had been believed to be impossible in Korea began to take place for change. 
+
+In detail, 133 urban regeneration projects are being carried out actively throughout Seoul, and an old overpass that had been a path for cars has been transformed into a walking path for people, thus becoming one of the city’s newest landmarks used by 10 million citizens while its impact even influences private development in surrounding regions. 
+
+Also, Sewoon Shopping Centre, which had been the centre of urban manufacturing industries in the modernisation period in the 70s and 80s, faced the risk of being demolished but, through urban regeneration, was reborn as an innovation base of the fourth industrial revolution. 
+
+Such changes in Seoul’s urban policies have not only spread throughout the city but also have been applied as one of the central policies of the nation, and is firmly believed to be a “new urban regeneration model” for Asian cities that are about to become advanced countries through global exchanges beyond domestic markets. **<font color="#967942">O</font>**
 
 ###### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
+
+---
+
+![Hee Seon Jin](/images/features/2019/hee-seon-jin.png)
+| Hee Seon Jin |
+|:---|
+| Hee Seon Jin is Deputy Mayor of Urban Regeneration in Seoul Metropolitan Government. He has been in charge of city planning and urban regeneration in Seoul since 2008, and is currently leading urban regeneration policies. He hopes to make Seoul a sustainable city by means of People Powered urban policies; hence, he has a profound interest in the citizen participation in urban regeneration. He gained master degree at Iowa State University, and Ph.D. degree at Yonsei University both in urban planning. |
