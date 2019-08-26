@@ -3,9 +3,9 @@ title: FAQ
 permalink: /nomination/faq/
 ---
 
-#### **Stage A Nomination**
+### **Stage A Nomination**
 
-**Who is eligible to nominate?**
+#### **Who is eligible to nominate?**
 
 Nominations for the Lee Kuan Yew World City Prize must be made by independent third parties. For a nomination to be valid, here should be at least one nominator who falls into any of the following categories:
 
