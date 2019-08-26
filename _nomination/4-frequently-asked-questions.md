@@ -40,7 +40,7 @@ The nominator and the city will receive an automated e-mail reply to acknowledge
 
 **Is there an entry fee for making a nomination?**
 
-No.
+No. There are no fees involved for both Stage A and B.
 
 ---
 
@@ -77,3 +77,51 @@ The city is required to prepare and submit a detailed report containing informat
 **Can the city submit additional materials in other languages other than English?**
 
 The main report and all accompanying materials must be in English. The city may submit additional documents in other languages, however only materials in English will be considered for evaluation.
+
+---
+
+#### **E. About the Stage B submission deadline**
+
+**Will the submission still be accepted if the materials are sent before the closing date of Stage B but can only reach the Prize Secretariat after the closing date?**
+
+Yes. The submission will be considered valid, as long as the postmark is before the Stage B closing date. Submissions with postmark after the Stage B closing date will be disqualified.
+
+**How will I know if my submission is received?**
+
+You will receive an acknowledgement email from the Prize Secretariat upon a successful and complete submission. The city is responsible for the safe and timely delivery of all submission materials.
+
+---
+
+#### **F. About the reference letters**
+
+**Can a nominator for Stage A write the reference letter for Stage B?**
+
+Yes.
+
+**What type of demonstration projects are eligible?**
+
+A broad range of projects is accepted. Click here to view a non-exhaustive list of possible demonstration project types. The demonstration projects should illustrate the success of the city's overall master plan/ strategy, and relate to the creation of liveable, vibrant, and sustainable urban communities, and improve the quality of life for the residents.
+
+**Can demonstration projects be partially completed/implemented?**
+
+Yes. However, the completed phase(s) should sufficiently demonstrate the efficacy of the project, i.e. there should be some quantifiable or observable results. The will enable the jurors to make a fair evaluation of the project.
+
+---
+
+#### **G. Others** 
+
+**When will the results be announced?**
+
+The 2020 Prize Laureate will be announced in March 2020. Please [subscribe to our newsletter](https://www.leekuanyewworldcityprize.com.sg/Join%20Mailing%20List) for the latest updates.
+
+**Who will be invited to receive the award?**
+
+The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award Ceremony & Banquet (a highlight event of the World Cities Summit, a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate.
+
+**Will the Laureate city and Special Mention cities be sharing their knowledge and experiences at a public platform?**
+
+The Laureate city will be invited to share the city's knowledge and experiences at the Lee Kuan Yew World City Prize Lecture, while the Special Mention cities will be invited to share their cities' unique urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. The next edition of the World Cities Summit will be held in July 2020. Please subscribe to our newsletter for the latest updates.
+
+**How can I attend the Lee Kuan Yew World City Prize Lecture and Forum?((
+
+You are welcome to attend the Lee Kuan Yew World City Prize Lecture and Forum at the World Cities Summit, a biennial international Summit held in Singapore. The next edition of the World Cities Summit will be held in July 2020. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for more details.
