@@ -13,10 +13,7 @@ third_nav_title: 2018
 ![Seoul](/images/laureates/seoul.jpg)
 *Seoullo 7017 © Seoul Metropolitan Government*
 
-### **Commemorative Video**  
-Click [here](https://vimeo.com/259791111) to watch the commemorative video. 
-
-### **The Jury's Citation**  
+#### **The Jury's Citation**  
 Seoul is recognised as the role model for megacities with a will to change. With a leadership that dares to take bold decisions and a government that devises innovative problem-solving methods, the city has successfully turned itself around from a highly bureaucratic top-down city with rising tensions between the government and its people, into the inclusive, socially stable, and highly innovative city found today. As shown in Seoul’s successful and impactful high quality projects to repurpose urban infrastructure, the city has proven itself as an excellent example where leadership, commitment to citizen engagement, data-supported problem-solving decisions, and creative designs can transform the built environment, add vibrancy and improve quality of life.  
   
 Like many other cities that experienced a very fast pace of urbanisation, Seoul found itself confronting many urban challenges at its peak. Following the city’s democratisation in the 1990s, the government faced increasing resistance from a citizenry which had been largely left out of development decisions in the past, which could have brought the city’s developments to a screeching halt. Moreover, Seoul was burdened at that time with the task of providing for a burgeoning car-based society, which in turn led to other issues such as environmental degradation.  
