@@ -73,8 +73,6 @@ Such changes in Seoul’s urban policies have not only spread throughout the cit
 
 ###### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
 
----
-
 <div style="width:150px"><img src="/images/features/2019/hee-seon-jin.png" alt="Hee Seon Jin" /></div>
 
 | **Hee Seon Jin** |
