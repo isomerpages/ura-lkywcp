@@ -1,5 +1,5 @@
 ---
-title: Interview with Hee Seon Jin: Seoulistic urban regenerationv
+title: Interview with Hee Seon Jin - Seoulistic urban regenerationv
 permalink: /resources/features/seoulistic-urban-regeneration/
 image: /images/features/2019/sewoon-makercity.jpg
 description: How did Seoul transit from a period of rapid top-down urban development into a new era of urban regeneration using people-centric approaches, creating a city for the citizens by the citizens? Seoul’s Deputy Mayor of Urban Regeneration Hee Seon Jin explains this remarkable shift – playfully coined as “Seoulistic urban regeneration”, as well as the process involved to make this happen. 
