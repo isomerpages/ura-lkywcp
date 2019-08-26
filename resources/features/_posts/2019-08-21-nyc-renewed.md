@@ -11,7 +11,8 @@ description: After New York City’s traumatic experience in 2001, it rebuilt an
 
 ***In 2012 Prize Laureate New York City, emerging technologies and trends such as digitalisation is helping the city execute an ambitious vision to adapt and grow sustainably to the year 2050 and beyond.***
 
-![New York City High Line](/images/features/2019/nyc-high-line.jpg/)###### *A greener and greater New York City – the High Line © NYC & Company*
+![New York City High Line](/images/features/2019/nyc-high-line.jpg/)
+###### *A greener and greater New York City – the High Line © NYC & Company*
 
 Few cities have been as consistently visionary as New York City (NYC) in the United States. In the early 1800s, the city’s urban planners designed a street grid that would [accommodate homes and businesses for one million residents](https://www.thirteen.org/metrofocus/2011/12/is-the-grid-locked-reimagining-manhattans-master-plan/) when its population was just 100,000 people. After the city’s devastating experience in 2001, its government responded by not only rebuilding the damaged areas but also unveiling an ambitious new plan, called [PlaNYC](http://www.nyc.gov/html/planyc/downloads/pdf/publications/full_report_2007.pdf), in 2007 to make it an even greener and greater hub of the world. 
 
