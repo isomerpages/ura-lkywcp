@@ -77,4 +77,4 @@ Such changes in Seoul’s urban policies have not only spread throughout the cit
 |:---|
 | Hee Seon Jin is Deputy Mayor of Urban Regeneration in Seoul Metropolitan Government. He has been in charge of city planning and urban regeneration in Seoul since 2008, and is currently leading urban regeneration policies. He hopes to make Seoul a sustainable city by means of People Powered urban policies; hence, he has a profound interest in the citizen participation in urban regeneration. He gained master degree at Iowa State University, and Ph.D. degree at Yonsei University both in urban planning. |
 
-| All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced. |
+| *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.* |
