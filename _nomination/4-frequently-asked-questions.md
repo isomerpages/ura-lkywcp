@@ -122,6 +122,6 @@ The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award C
 
 The Laureate city will be invited to share the city's knowledge and experiences at the Lee Kuan Yew World City Prize Lecture, while the Special Mention cities will be invited to share their cities' unique urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. The next edition of the World Cities Summit will be held in July 2020. Please subscribe to our newsletter for the latest updates.
 
-**How can I attend the Lee Kuan Yew World City Prize Lecture and Forum?((
+**How can I attend the Lee Kuan Yew World City Prize Lecture and Forum?**
 
 You are welcome to attend the Lee Kuan Yew World City Prize Lecture and Forum at the World Cities Summit, a biennial international Summit held in Singapore. The next edition of the World Cities Summit will be held in July 2020. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for more details.
