@@ -59,7 +59,6 @@ As the hub of 7,000 companies and more than 20,000 engineers, Sewoon Shopping Ce
 
 Residents sign coexistence agreements themselves and operate a residents’ committee for urban regeneration to autonomously and voluntarily plan and implement the urban regeneration projects. The projects that began from administration are now being carried out by the residents who have protected and will continue to develop the region. 
 
-<br>
 > #### “Going beyond the top-down method of the past, the essence of Seoul's urban regeneration policies lies in the residents who serve as the main body in the entire process from planning to execution in order to revive the identity of a region, properly combine hardware and software, and implement these in collaboration with public and private governance.”
 
 #### **Is Seoul considering urban regeneration in other regions? If yes, what is the importance of regenerating those regions?**
@@ -74,8 +73,9 @@ Such changes in Seoul’s urban policies have not only spread throughout the cit
 
 ###### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
 
----<br>
+---
 
-<div style="width:150px"><img src="/images/features/2019/hee-seon-jin.png" alt="Hee Seon Jin" /></div>
-| Hee Seon Jin |
+<br><div style="width:150px"><img src="/images/features/2019/hee-seon-jin.png" alt="Hee Seon Jin" /></div>
+| **Hee Seon Jin** |
+|:---|
 | Hee Seon Jin is Deputy Mayor of Urban Regeneration in Seoul Metropolitan Government. He has been in charge of city planning and urban regeneration in Seoul since 2008, and is currently leading urban regeneration policies. He hopes to make Seoul a sustainable city by means of People Powered urban policies; hence, he has a profound interest in the citizen participation in urban regeneration. He gained master degree at Iowa State University, and Ph.D. degree at Yonsei University both in urban planning. |
