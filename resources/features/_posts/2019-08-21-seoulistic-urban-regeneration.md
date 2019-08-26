@@ -71,8 +71,6 @@ Also, Sewoon Shopping Centre, which had been the centre of urban manufacturing i
 
 Such changes in Seoul’s urban policies have not only spread throughout the city but also have been applied as one of the central policies of the nation, and is firmly believed to be a “new urban regeneration model” for Asian cities that are about to become advanced countries through global exchanges beyond domestic markets. **<font color="#967942">O</font>**
 
----
-
 <div style="width:150px"><img src="/images/features/2019/hee-seon-jin.png" alt="Hee Seon Jin" /></div>
 
 | **Hee Seon Jin** |
