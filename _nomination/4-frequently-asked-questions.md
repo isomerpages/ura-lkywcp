@@ -3,7 +3,7 @@ title: FAQ
 permalink: /nomination/faq/
 ---
 
-#### **Who can nominate?**
+#### **A. Who can nominate?**
 
 **Who is eligible to nominate?**
 
@@ -28,7 +28,7 @@ The Prize is awarded to cities and recognises their key leaders and organisation
 
 ---
 
-#### **Making the nominations**
+#### **B. Making the nominations**
 
 **How do I make a Stage A nomination?**
 
@@ -41,3 +41,21 @@ The nominator and the city will receive an automated e-mail reply to acknowledge
 **Is there an entry fee for making a nomination?**
 
 No.
+
+#### **C. About the recommendation letter**
+
+**What should the recommendation letter contain?**
+
+The recommendation letter is an important part of the Stage A Nomination. The nominator should make a case to support why the city should win the Prize and highlight key strategies and / or initiatives that contribute to the holistic transformation of the city over at least 10 years, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
+
+The nominator may wish to address (but not limited to) the following points in their recommendation letter:
+- Demonstrations of good governance and leadership
+- Key strategies that contributed to a significant transformation of the city
+- Institutionalisation of key processes for sustained transformation and long-term benefits
+- Key agents and urban actors/stakeholders involved (e.g. governments, government agencies, consultants, communities) and their roles in the transformation of the city
+- The degree of transformation observed since its implementation and the impact on the people / residents
+- Outstanding demonstration project(s) that contributed to the success of the transformation
+ 
+**What is the world limit for the recommendation letter?**
+
+The recomendation letter should preferably be around 600 words.
