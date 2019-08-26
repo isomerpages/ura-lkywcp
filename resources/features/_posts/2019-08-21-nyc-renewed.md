@@ -27,7 +27,7 @@ Over the past four years, the government has worked with private partners to boo
 
 Consolidated Edison, the largest of New York’s six electric utilities, spent US$1 billion to [upgrade its power infrastructure](https://www.coned.com/en/our-energy-future/our-energy-projects/storm-hardening-enhancement-plan), including by installing stronger, tree-branch-resistant aerial cables and utility poles that can withstand wind speeds of up to 110 miles per hour (177 kilometres per hour). It also redesigned the power lines so that they detach from the poles more easily when heavy tree limbs fall on them, to prevent damage to the poles and enable faster restoration of power after storms. 
 
-> #### “We are pushing ourselves to fight global warming on every front, achieve equity, and build a city where everyone is welcomed in civic life. New York has been a beacon to the world, and we hope this plan will serve as an antidote to the challenges facing our city, our nation and the globe.”
+> “We are pushing ourselves to fight global warming on every front, achieve equity, and build a city where everyone is welcomed in civic life. New York has been a beacon to the world, and we hope this plan will serve as an antidote to the challenges facing our city, our nation and the globe.”
 
 The company also reconfigured its underground networks to minimise outages during floods. It divided two especially vulnerable networks, in Lower Manhattan’s Fulton and Bowling Green, into smaller networks, and installed isolation switches in others so that it can disconnect equipment that may endanger the electric grid if flooded. It expects these and other measures to shrink the extent of outages by 15 to 20 percent during major storms. 
 
