@@ -6,10 +6,10 @@ third_nav_title: Prize Jury
 
 #### **Chairman of the Prize Council 2020**
 
-<table style="width: 100%;" border="0" cellpadding="5px">
+<table style="width: 100%;" border="0" cellpadding="0px">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></td>
+<td style="width: 200px;"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></td>
 <td><strong>Mr Peter Ho</strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore</td>
 </tr>
 <tr>
