@@ -23,10 +23,20 @@ third_nav_title: Prize Jury
 <td style="width: 150px;"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></td>
 <td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark</td>
 </tr>
+</tbody>
+</table>
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
 <tr>
 <td><img src="/images/jury/chan-heng-chee.jpg" alt="Chan Heng Chee" /></td>
 <td><strong>Ambassador Chan Heng Chee</strong><br />Chairman<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore</td>
 </tr>
+</tbody>
+</table>  
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
 <tr>
 <td><img src="/images/jury/helen-clark.jpg" alt="Helen Clark" /></td>
 <td><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand</td>
