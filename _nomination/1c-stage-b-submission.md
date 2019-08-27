@@ -45,12 +45,12 @@ The city may wish to submit additional supporting documents such as city reports
 
 Please submit the following completed items online: 
 
-| i | Completed Stage B Report |
-| ii | Completed Photo Report |
-| iii | 2-5 References Letters |
+| i | Completed Stage B Report *(Word Document format)* |
+| ii | Completed Photo Report *(PowerPoint format)* |
+| iii | 2 - 5 References Letters *(PDF or JPG format)* |
 | iv | Additional Supporting Documents |
 
-Please send 8 copies of the above items to the Prize Secretariat via trackable mail: 
+Please send 8 printed/physical copies of the above items (i) - (iv) to the Prize Secretariat via trackable mail: 
 
 **Lee Kuan Yew World City Prize Secretariat**
 <br>45 Maxwell Road 
