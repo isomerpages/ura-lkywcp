@@ -135,3 +135,6 @@ The Laureate city will be invited to share the city's knowledge and experiences 
 
 The next edition of the World Cities Summit will be held in July 2020. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates.
 
+---
+
+For other enquiries, please [contact us](/contact-us/). 
