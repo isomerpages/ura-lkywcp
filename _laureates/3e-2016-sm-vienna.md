@@ -8,9 +8,7 @@ third_nav_title: 2016
 |---:|
 | Vienna | 
 
-![The Danube River and Danube Island](/images/special-mentions/vienna.jpg)_The Danube River and Danube Island © City of Vienna
-
-_
+![The Danube River and Danube Island](/images/special-mentions/vienna.jpg)_The Danube River and Danube Island © City of Vienna_
 
 #### **The Jury's Citation**
 
