@@ -8,7 +8,7 @@ third_nav_title: 2016
 |---:|
 | Auckland | 
 
-![Auckalnd](/images/special-mentions/auckland.jpg)_Nelson Street Cycleway, Auckland © http://transportblog.co.nz/tag/nelson-st-cycleway_
+![Auckland](/images/special-mentions/auckland.jpg)_Nelson Street Cycleway, Auckland © http://transportblog.co.nz/tag/nelson-st-cycleway_
 
 #### **The Jury's Citation**
 
