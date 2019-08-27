@@ -4,9 +4,9 @@ permalink: /laureates/2016/laureate/
 third_nav_title: 2016
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2016 Prize Laureate | Medellín | South America |
+| 2016 Prize Laureate | 
+|---:|
+| Medellín | 
 
 ***Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.***
 
