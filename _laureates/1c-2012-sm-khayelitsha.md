@@ -6,7 +6,7 @@ third_nav_title: 2012
 
 | 2012 Special Mention | 
 |---:|
-| Khayelitsha |
+| Khayelitsha (AHT Group AG & SUN Development) |
 
 ![Khayelitsha](/images/special-mentions/khayelitsha.jpg)
 _Harare Urban Park © SUN Development, 2010_
