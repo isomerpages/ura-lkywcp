@@ -1,8 +1,8 @@
 ---
-title: Spotlight on Bilbao: how the winning city is reinventing itself yet again
+title: Spotlight on Bilbao - how the winning city is reinventing itself yet again
 permalink: /resources/features/spotlight-bilbao/
 image: /images/features/2019/peunte-de-la-merced.jpg
-description: In New York City - the 2012 Prize Laureate, emerging technologies and trends such as digitalisation is helping the city execute an ambitious vision to adapt and grow sustainably to the year 2050 and beyond. 
+description: The inaugural Prize Laureate city of Bilbao is continuting to set a example through implementing a comprehensive flood protection plan to guard against climate change, a "green ring" project to boost residents' access to nature, a high-speed rail network, and the conversion of a derelict peninsula into a showcase for smart, sustainable and socially-equitable living. 
 ---
 
 | Author |
