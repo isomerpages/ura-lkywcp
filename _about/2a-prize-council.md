@@ -19,31 +19,34 @@ third_nav_title: Prize Jury
 </tbody>
 </table>
 
-<div style="width:150px"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></div>
-
-| **Mr Peter Ho** |
-| Chairman, Urban Redevelopment Authority, Singapore | [Biography](/about/prize-jury/prize-council/peter-ho/) |
-
 ---
 
 #### **Members of the Prize Council 2020**
 
-<div style="width:150px"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></div>
+<table style="width: 100%;" border="0" cellpadding="0px">
+<tbody>
+<tr>
+<td style="width: 200px;"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></td>
+<td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark</td>
+</tr>
+<tr>
+<td><img src="/images/jury/chan-heng-chee.jpg" alt="Chan Heng Chee" /></td>
+<td><strong>Ambassador Chan Heng Chee</strong><br />Chairman<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore</td>
+</tr>
+<tr>
+<td><img src="/images/jury/helen-clark.jpg" alt="Helen Clark" /></td>
+<td><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand</td>
+</tr>
+</tbody>
+</table>
 
-**Mr Flemming Borreskov**<br> 
-President, Catalytic Society, Denmark<br> 
-[Biography](www.google.com)
 
-<div style="width:150px"><img src="/images/jury/chan-heng-chee.jpg" alt="Chan Heng Chee" /></div>
 
-**Ambassador Chan Heng Chee**<br> 
-Chairman, Lee Kuan Yew Centre for Innovative Cities, Singapore<br> 
-[Biography](www.google.com)<br>
 
-<div style="width:150px"><img src="/images/jury/helen-clark.jpg" alt="Helen Clark" /></div>
+<div style="width:150px"></div>
 
-**Ms Helen Clark**<br> 
-Former Administrator, United Nations Development Programme, New Zealand<br> 
+****<br> 
+, , <br> 
 [Biography](www.google.com)<br>
 
 <div style="width:150px"><img src="/images/jury/park-won-soon.png" alt="Park Won-soon" /></div>
