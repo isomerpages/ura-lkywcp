@@ -8,8 +8,7 @@ third_nav_title: Prize Jury
 
 <div style="width:150px"><img src="/images/jury/cheong-koon-hean.jpg" alt="Cheong Koon Hean" /></div>
 
-| **Dr Cheong Koon Hean** | 
-| Chief Executive Officer, Housing & Development Board, Singapore |
+| **Dr Cheong Koon Hean** | Chief Executive Officer, Housing & Development Board, Singapore |
 | [Biography](/about/prize-jury/prize-council/peter-ho/) |
 
 #### **Members of the Nominating Committee 2020**
