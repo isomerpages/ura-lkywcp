@@ -4,9 +4,9 @@ permalink: /laureates/2010/special-mentions/sheila-dikshit/
 third_nav_title: 2010
 ---
 
-| Year | Individual | City |
-|--|--|--|
-| 2010 Special Mention | Sheila Dikshit | Delhi |
+| 2010 Special Mention | 
+|---:|
+| Sheila Dikshit |
 
 ![Sheila Dikshit](/images/special-mentions/sheila-dikshit.jpg)
 
