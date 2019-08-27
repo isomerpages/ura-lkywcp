@@ -4,9 +4,9 @@ permalink: /laureates/2010/special-mentions/jaime-lerner/
 third_nav_title: 2010
 ---
 
-| Year | Individual | City |
-|--|--|--|
-| 2010 Special Mention | Jaime Lerner | Curitiba |
+| 2010 Special Mention | 
+|---:|
+| Jaime Lerner | 
 
 ![Jaime Lerner](/images/special-mentions/jaime-lerner.jpg)
 _© Instituto Jaime Lerner_
