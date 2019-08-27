@@ -4,8 +4,6 @@ permalink: /nomination/guidelines/stage-b/
 third_nav_title: Nomination Guidelines
 ---
 
-#### **Introduction**
-
 Following a valid Stage A Nomination, the city will be notified via email to prepare and submit a detailed report for Stage B Submission. This report shall be prepared by the city administration after Stage A Nomination.
 
 ---
