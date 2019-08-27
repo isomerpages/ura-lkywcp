@@ -25,5 +25,4 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for
 
 #### **Questions?**
 
-- Please refer to the [Frequently Asked Questions](/faq/)
-- [Contact](/contact-us/) the Prize Secretariat
+| [Frequently Asked Questions](/faq/) | [Contact us](/contact-us/) |
