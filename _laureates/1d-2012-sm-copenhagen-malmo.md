@@ -4,9 +4,9 @@ permalink: /laureates/2012/special-mentions/copenhagen-malmo/
 third_nav_title: 2012
 ---
 
-| Year | Cities | Region |
-|--|--|--|
-| 2012 Special Mention | Copenhagen and Malmö | Europe |
+| 2012 Special Mention | 
+|---:|
+| Copenhagen and Malmö |
 
 ![Øresund bridge](/images/special-mentions/copenhagen.jpg)
 _Øresund Bridge © City of Copenhagen_
