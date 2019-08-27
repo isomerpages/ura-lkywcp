@@ -48,15 +48,15 @@ No. There are no fees involved for both Stage A and B.
 
 **What should the recommendation letter contain?**
 
-The recommendation letter is an important part of the Stage A Nomination. The nominator should make a case to support why the city should win the Prize and highlight key strategies and / or initiatives that contribute to the holistic transformation of the city over at least 10 years, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
+The nominator should make a case to support why the city should win the Prize and highlight key strategies and/or initiatives that contribute to the holistic transformation of the city over at least 10 years, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
 
-The nominator may wish to address (but not limited to) the following points in their recommendation letter:
-- Demonstrations of good governance and leadership
-- Key strategies that contributed to a significant transformation of the city
-- Institutionalisation of key processes for sustained transformation and long-term benefits
-- Key agents and urban actors/stakeholders involved (e.g. governments, government agencies, consultants, communities) and their roles in the transformation of the city
-- The degree of transformation observed since its implementation and the impact on the people / residents
-- Outstanding demonstration project(s) that contributed to the success of the transformation
+The following are some guiding points for the recommendation letter:
+
+| 1 | Demonstrations of good governance and leadership |
+| 2 | Institutionalised key processes for sustained transformation and long-term benefits |
+| 3 | Key agents and urban actors/stakeholders involved (e.g. governments, government agencies, consultants, communities) and their roles in the transformation of the city |
+| 4 | The degree of transformation observed since its implementation and the impact on the people/residents |
+| 5 | Outstanding project(s) that contributed to the success of the transformation |
  
 **What is the world limit for the recommendation letter?**
 
@@ -76,7 +76,7 @@ The city is required to prepare and submit a detailed report containing informat
 
 **Can the city submit additional materials in other languages other than English?**
 
-The main report and all accompanying materials must be in English. The city may submit additional documents in other languages, however only materials in English will be considered for evaluation.
+The main report and photo report must be completed in English. The city may submit additional supporting documents in other languages, however only materials in English will be considered for evaluation.
 
 ---
 
@@ -131,4 +131,4 @@ The Laureate city will be invited to share the city's knowledge and experiences 
 
 **How can I attend the Lee Kuan Yew World City Prize Lecture and Forum?**
 
-You are welcome to attend the Lee Kuan Yew World City Prize Lecture and Forum at the World Cities Summit, a biennial international Summit held in Singapore. The next edition of the World Cities Summit will be held in July 2020. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for more details.
+The next edition of the World Cities Summit will be held in July 2020. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates.
