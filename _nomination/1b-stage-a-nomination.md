@@ -4,8 +4,6 @@ permalink: /nomination/guidelines/stage-a/
 third_nav_title: Nomination Guidelines
 ---
 
-#### **Introduction**
-
 The Stage A Nomination(s) must be initiated by independent third parties i.e. "Nominator(s)". Cities that are interested to participate in the Prize should approach a Nominator to nominate them. Likewise, the Nominator should inform the city of his/her intention to nominate the city.
 
 The Nominator should be someone belonging to one of the following categories:
