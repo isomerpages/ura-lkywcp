@@ -3,11 +3,11 @@ title: FAQ
 permalink: /faq/
 ---
 
-#### **A. Who can nominate?**
+#### **A. About the Stage A nominator**
 
 **Who is eligible to nominate?**
 
-Nominations for the Lee Kuan Yew World City Prize must be made by independent third parties. The nominator is someone who belongs to one of the following categories:
+Nominations for the Lee Kuan Yew World City Prize must be made by independent third parties outside of the city administration. The nominator is someone who belongs to one of the following categories:
 
 | 1 | Leading academics (e.g. professors in universities) |
 | 2 | Government officials (outside of the city administration) |
@@ -20,7 +20,7 @@ Self-nominations will not be accepted, i.e. city officials cannot nominate their
 
 **How many nominations can one nominator make?**
 
-There is no limit to the number of nominations a nominator can make. However, each nomination must be accompanied by a fully completed official nomination form and recommendation letter signed by the nominator.
+There is no limit to the number of nominations a nominator can make. However, each nomination must be accompanied by a fully completed official nomination form and recommendation letter signed by the nominator. The nominated city must agree to be nominated and follow through the Stage B submissions. 
 
 **Who can I nominate?**
 
@@ -28,7 +28,7 @@ The Prize is awarded to cities only. As such, you may wish to nominate a city, w
 
 ---
 
-#### **B. Making the nominations**
+#### **B. Making the Stage A nominations**
 
 **How do I make a Stage A nomination?**
 
