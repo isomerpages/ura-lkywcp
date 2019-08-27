@@ -13,15 +13,12 @@ sections:
         button: About the Prize
         url: /about/about-the-prize/
         key_highlights:
-            - title: Prize Laureates
-              description: 2010 - 2018
-              url: https://google.com
             - title: Features 
               description: Articles on city-related issues
-              url: https://gmail.com
+              url: /resources/features/
             - title: Case Studies
               description: Best practices from exemplar cities
-              url: /privacy/
+              url: /resources/case-studies/
     - resources:
         title: 
         subtitle: Latest
