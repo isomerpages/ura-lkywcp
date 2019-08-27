@@ -13,6 +13,9 @@ sections:
         button: About the Prize
         url: /about/about-the-prize/
         key_highlights:
+            - title: Nominations
+              description: Guidelines on how to apply for the Prize
+              url: /nomination/guidelines/overview/
             - title: Features 
               description: Articles on city-related issues
               url: /resources/features/
