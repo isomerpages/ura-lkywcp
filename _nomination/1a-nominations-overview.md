@@ -13,9 +13,7 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for
 | A | Submission of nomination and recommendation letter by the nominator | Closed |
 | B | Submission of detailed report by the city | Closed |
 
----
-
-#### **Important Notes**
+#### **Read me first**
 
 1. Cities that have submitted for previous cycles of the Prize will need to make fresh submissions as reports and materials submitted previously will not be considered.
 2. Submissions postmarked or received by hand after the closing date will not be accepted.
