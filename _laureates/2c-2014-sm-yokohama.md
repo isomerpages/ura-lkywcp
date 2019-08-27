@@ -4,9 +4,9 @@ permalink: /laureates/2014/special-mentions/yokohama/
 third_nav_title: 2014
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2014 Special Mention | Yokohama | Asia Pacific |
+| 2014 Special Mention | 
+|---:|
+| Yokohama | 
 
 ![Yokohama © City of Yokohama](/images/special-mentions/yokohama.jpg)
 _Yokohama © City of Yokohama_
