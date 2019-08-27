@@ -14,7 +14,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Weekends and Public Holidays
+        description: Closed on Weekends and [Singapore Public Holidays](https://www.mom.gov.sg/employment-practices/public-holidays)
 contacts:
   - title: General Enquiries & Feedback
     content:
