@@ -52,4 +52,12 @@ sections:
         title: 
         subtitle: Latest
         button: More
+    - infopic:
+    title: Monthly Newsletter
+    subtitle: Subscribe to our
+    description: A monthly digest with latest news, features, videos and interviews on issues concerning urban governance and city planning.
+    button: Click here
+    url: https://www.ura.gov.sg/corporate/forms/lkywcp-subscription
+    image: /images/subscribe-newsletter.jpg
+    alt: Subscribe to our newsletter
 ---
