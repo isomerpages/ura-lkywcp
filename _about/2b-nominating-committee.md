@@ -6,7 +6,7 @@ third_nav_title: Prize Jury
 
 #### **Chairman of the Nominating Committee 2020**
 
-<img src="/images/jury/cheong-koon-hean.jpg" width="150" alt="Cheong Koon Hean" />
+<div style="width:150px"><img src="/images/jury/cheong-koon-hean.jpg" alt="Cheong Koon Hean" /></div>
 
 | **Dr Cheong Koon Hean** | Chief Executive Officer, Housing & Development Board, Singapore | [Biography](/about/prize-jury/prize-council/peter-ho/) |
 | |
@@ -15,9 +15,8 @@ third_nav_title: Prize Jury
 
 <div style="width:150px"><img src="/images/jury/wulf-daseking.jpg" alt="Wulf Daseking" /></div>
 
-| **Prof Wulf Daseking** |
-| Professor, University of Freiburg, Germany |
-| [Biography](www.google.com) |
+| **Prof Wulf Daseking** | Professor, University of Freiburg, Germany | [Biography](www.google.com) |
+| |
 
 <div style="width:150px"><img src="/images/jury/lim-eng-hwee.jpeg" alt="Lim Eng Hwee" /></div>
 
