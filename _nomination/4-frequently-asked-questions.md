@@ -72,7 +72,9 @@ The city (i.e. city government and/or key partner organisation appointed by the 
 
 **What materials does the city need to submit for Stage B?**
 
-The city is required to prepare and submit a detailed report containing information on the city, key statistics over at least 10 years, overall master plan or strategy, and 3 demonstration projects to illustrate the success of the master plan/strategy. The city is also required to submit a photo report, and 2 - 5 reference letters from independent third parties who are familiar and/or involved in the city's transformation. They city may also wish to submit additional supporting documents, such as annual reports, brochures, etc. For the details of the submission requirements, please click [here](/nomination/guidelines/stage-b/).
+The city is required to prepare and submit a detailed report containing information on the city, key statistics over at least 10 years, overall master plan or strategy, and 3 demonstration projects to illustrate the success of the master plan/strategy. The city is also required to submit a photo report, and 2 - 5 reference letters from independent third parties who are familiar and/or involved in the city's transformation. 
+
+They city may also wish to submit additional supporting documents, such as annual reports, brochures, etc. For the details of the submission requirements, please click [here](/nomination/guidelines/stage-b/).
 
 **Can the city submit additional materials in other languages other than English?**
 
