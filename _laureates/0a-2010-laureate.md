@@ -5,7 +5,7 @@ third_nav_title: 2010
 ---
 
 | 2010 Prize Laureate | 
-|---:|--|--|
+|---:|
 | Bilbao |
 
 ***Bilbao City Hall is awarded the inaugural Prize in 2010 for its integrated and holistic approach in urban transformation.***
