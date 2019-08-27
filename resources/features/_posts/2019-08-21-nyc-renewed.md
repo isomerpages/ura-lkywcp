@@ -62,5 +62,3 @@ Over the past four years, the city has loaned or given away more than 15,000 fre
 In 2019, the city will issue the country’s first Internet Master Plan, detailing the state of the city’s broadband infrastructure, including fixed connections, mobile service, free public WiFi and public computer centres, and establishing clear metrics for what it needs to do to achieve universal, equitable service. The document will also set out measurable benchmarks and strategies specific to every neighbourhood in the city. 
 
 Summarising its initiatives, [the government noted](https://www1.nyc.gov/site/cpp/index.page): “We can secure our city’s future against the challenges of today and tomorrow. With bold actions to confront our climate crisis, achieve equity and strengthen our democracy, we are building a strong and fair city. Join us.” **<font color="#967942">O</font>**
-
-> ###### *All images contained within this page are used with license/permission and shall not be copied, modified, or reproduced.*
