@@ -6,7 +6,7 @@ third_nav_title: Prize Jury
 
 #### **Chairman of the Prize Council 2020**
 
-<table style="width: 100%;" border="0" cellpadding="0px">
+<table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></td>
@@ -17,7 +17,7 @@ third_nav_title: Prize Jury
 
 #### **Members of the Prize Council 2020**
 
-<table style="width: 100%;" border="0" cellpadding="0px">
+<table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></td>
