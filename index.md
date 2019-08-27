@@ -22,10 +22,6 @@ sections:
             - title: Case Studies
               description: Best practices from exemplar cities
               url: /resources/case-studies/
-    - resources:
-        title: 
-        subtitle: Latest
-        button: More
     - carousel:
         - title: Seoul
           subtitle: 2018 Prize Laureate
@@ -52,4 +48,8 @@ sections:
           description: Bilbao City Hall is recognised for its integrated and holistic approach in urban transformation.
           image: /images/carousel/bilbao.jpg
           alt: Bilbao City Hall
+    - resources:
+        title: 
+        subtitle: Latest
+        button: More
 ---
