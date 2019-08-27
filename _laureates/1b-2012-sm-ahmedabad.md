@@ -4,9 +4,9 @@ permalink: /laureates/2012/special-mentions/ahmedabad/
 third_nav_title: 2012
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2012 Special Mention | Ahmedabad | Asia Pacific |
+| 2012 Special Mention | 
+|---:|
+| Ahmedabad | 
 
 ![Ahmedabad](/images/special-mentions/ahmedabad.jpg)
 _© Ahmedabad Municipal Corporation_
