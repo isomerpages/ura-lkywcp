@@ -44,6 +44,7 @@ The city may wish to submit additional supporting documents such as city reports
 #### **Making the Submission (by the city)**
 
 Please submit the following completed items online: 
+
 | i | Completed Stage B Report |
 | ii | Completed Photo Report |
 | iii | 2-5 References Letters |
