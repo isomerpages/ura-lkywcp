@@ -4,9 +4,9 @@ permalink: /laureates/2012/special-mentions/brisbane/
 third_nav_title: 2012
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2012 Special Mention | Brisbane | Asia Pacific |
+| 2012 Special Mention | 
+|---:|
+| Brisbane | 
 
 ![Brisbane](/images/special-mentions/brisbane.jpg)
 _© City of Brisbane_
