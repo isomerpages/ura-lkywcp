@@ -15,17 +15,19 @@ There are three (3) parts to the Stage B Submission:
 **Part 1: Stage B Report** 
 
 The city must prepare the Stage B Report using the official template, and include detailed information on the following: 
-- Background of the city and key statistics
-- Overall master plan or strategy of the city/region
-- 3 demonstration projects to illustrate the success of the master plan/strategy
+
+| i | Background of the city and key statistics |
+| ii | Overall master plan or strategy of the city/region |
+| iii | 3 demonstration projects to illustrate the success of the master plan/strategy |
 
 **Part 2: Photo Report**
 
 The city must prepare the Photo Report using the official template, and include the following:
-- Photos showing the overview of the city
-- Master plan and other plans (if applicable)
-- Photos showing the situation of the city before and after the urban transformation
-- Photos of the 3 demonstration projects, including photos showing the situation before and after their implementation.
+
+| i | Photos showing the overview of the city |
+| ii | Master plan and other plans (if applicable) |
+| iii | Photos showing the situation of the city before and after the urban transformation |
+| iv | Photos of the 3 demonstration projects, including photos showing the situation before and after their implementation. |
 
 **Part 3: Reference Letters**
 
@@ -42,10 +44,10 @@ The city may wish to submit additional supporting documents such as city reports
 #### **Making the Submission (by the city)**
 
 Please submit the following completed items online: 
-- Completed Stage B Report
-- Completed Photo Report
-- 2-5 References Letters 
-- Additional Supporting Documents 
+| i | Completed Stage B Report |
+| ii | Completed Photo Report |
+| iii | 2-5 References Letters |
+| iv | Additional Supporting Documents |
 
 Please send 8 copies of the above items to the Prize Secretariat via trackable mail: 
 
