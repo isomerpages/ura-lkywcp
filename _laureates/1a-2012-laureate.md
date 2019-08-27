@@ -4,9 +4,9 @@ permalink: /laureates/2012/laureate/
 third_nav_title: 2012
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2012 Prize Laureate | New York City | North America |
+| 2012 Prize Laureate | 
+|---:|
+| New York City |
 
 ***New York City is awarded the 2012 Prize for its successful reinvention and rejuvenation of the city framed by PlaNYC - a blueprint for a greater and greener city.***
 
