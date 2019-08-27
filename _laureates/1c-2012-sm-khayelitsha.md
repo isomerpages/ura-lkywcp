@@ -4,9 +4,9 @@ permalink: /laureates/2012/special-mentions/khayelitsha/
 third_nav_title: 2012
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2012 Special Mention | Khayelitsha | Africa |
+| 2012 Special Mention | 
+|---:|
+| Khayelitsha |
 
 ![Khayelitsha](/images/special-mentions/khayelitsha.jpg)
 _Harare Urban Park © SUN Development, 2010_
