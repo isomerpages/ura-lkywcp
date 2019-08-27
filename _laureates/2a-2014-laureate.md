@@ -29,3 +29,7 @@ Thirdly, a significant achievement of Suzhou is its inclusionary policies in the
 Throughout the period of continuing rapid growth, Suzhou has maintained its specific and distinctive local identity and culture, creating a high quality of life for its residents and workers and attracting tourists to share in its past and future. However, in view of the rapid pace of development, it is noted that more attention could be given to the urban design of the city to guide individual development projects. In addition, quality architecture and more appropriate form massing of suitable human scale should be encouraged.
 
 On the whole, the city leaders of Suzhou have demonstrated strong leadership and commitment to develop the city, guided by good governance and structured processes. The clearly articulated long-term vision and planning approach that Suzhou has put in place, combined with competent leadership and strong political support, have enabled the city to tackle urban challenges effectively. Suzhou provides many good lessons for the many rapidly urbanising cities in China as well as in other developing nations. **<font color="#967942">O</font>**
+
+| **Watch** |
+|:---|
+| [Commemorative Video](https://vimeo.com/89570402) |
