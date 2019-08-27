@@ -19,9 +19,9 @@ sections:
             - title: Features 
               description: Articles on city-related issues
               url: /resources/features/
-            - title: Case Studies
-              description: Best practices from exemplar cities
-              url: /resources/case-studies/
+            - title: Newsletter
+              description: Subscribe to our monthly newsletter
+              url: https://www.ura.gov.sg/corporate/forms/lkywcp-subscription
     - resources:
         title: 
         subtitle: Latest
@@ -52,10 +52,4 @@ sections:
           description: Bilbao City Hall is recognised for its integrated and holistic approach in urban transformation.
           image: /images/carousel/bilbao.jpg
           alt: Bilbao City Hall
-    - infobar:
-        title: Newsletter
-        subtitle: Subscribe to our
-        description: A monthly digest with latest news, features, videos and interviews on issues concerning urban governance and city planning.
-        button: Click here
-        url: https://www.ura.gov.sg/corporate/forms/lkywcp-subscription
 ---
