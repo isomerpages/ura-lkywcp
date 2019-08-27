@@ -24,7 +24,7 @@ There is no limit to the number of nominations a nominator can make. However, ea
 
 **Who can I nominate?**
 
-The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced. You may nominate a city, with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable).
+The Prize is awarded to cities only. As such, you may wish to nominate a city, with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable).
 
 ---
 
@@ -32,7 +32,7 @@ The Prize is awarded to cities and recognises their key leaders and organisation
 
 **How do I make a Stage A nomination?**
 
-You may make a nomination for a city using the official nomination form. As a nominator, you will be required to submit a recommendation letter to support your case for why the city should win the Prize. Please ensure that the city is agreeable to be nominated.
+Nominations are to be made using the official nomination form, accompanied by a recommendation letter to support your case why the city should win the Prize. Please ensure that the city has agreed to be nominated and will follow through the Stage B submission process. 
 
 **How will I know if my nomination is received?**
 
