@@ -23,3 +23,7 @@ Recognising the importance of improving existing urban systems and creating new 
 The administration is highly commended for the strong political will that is spearheading change in the city and in the mindset of its residents. The capacity for dialogue between government and civic groups also synergises efforts and allows creative ideas to take root. This is exemplified in bottom-up, high-impact initiatives such as the High Line, where neighbourhoods are renewed and beneficial effects stimulate the city’s economy. Underutilised spaces and roads have also been carefully transformed with limited funds into plazas for the public’s enjoyment. Partnerships with community and business groups not only help to maintain the spaces, but foster a sense of ownership. This has significantly lifted the quality of life in an urban environment.
 
 The city’s transformation is a testament to the dynamic leadership of Mayor Bloomberg, the Departments of Transportation, City Planning and Parks and Recreation, as well as other city agencies, and to the dedicated partnership between the city and its stakeholders to implement a shared vision for the city. It serves as an inspiring model for other mature, high-density global cities to reframe their future in terms of sustainability and offers many innovative and replicable solutions for cities around the world. **<font color="#967942">O</font>**
+
+| **Watch** |
+|:---|
+| [Commemorative Video](https://vimeo.com/56221986) |
