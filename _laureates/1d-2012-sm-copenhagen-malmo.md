@@ -4,7 +4,7 @@ permalink: /laureates/2012/special-mentions/copenhagen-malmo/
 third_nav_title: 2012
 ---
 
-| 2012 Special Mention | 
+| 2012 Joint Special Mention | 
 |---:|
 | Copenhagen and Malmö |
 
