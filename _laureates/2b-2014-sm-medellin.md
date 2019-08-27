@@ -4,12 +4,11 @@ permalink: /laureates/2014/special-mentions/medellin/
 third_nav_title: 2014
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2014 Special Mention | Medellín | South America |
+| 2014 Special Mention | 
+|---:|
+| Medellín | 
 
-![MetroCable in Medellín](/images/special-mentions/medellin.jpg)
-_MetroCable in Medellín © Urban Redevelopment Authority Singapore_
+![MetroCable in Medellín](/images/special-mentions/medellin.jpg)_MetroCable in Medellín © Urban Redevelopment Authority Singapore_
 
 ### **The Jury's Citation**
 Medellín is recognised for its outstanding urban transformation over the past 20 years, notably its significant reduction of homicide rates from 380.6 per 100,000 inhabitants in 1991 to 52.3 per 100,000 inhabitants in 2012, or 86.2 per cent reduction. This is achieved through a bold and visionary leadership, and social innovation through a series of small-scale but high-impact urban acupuncture projects to help tackle some of the city’s most critical issues, namely drug-related crimes, territorial gang conflicts, unemployment and social inequity.
