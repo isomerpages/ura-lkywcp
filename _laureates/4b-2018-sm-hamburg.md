@@ -8,7 +8,7 @@ third_nav_title: 2018
 |---:|
 | Hamburg |
 
-![Hamburg HafenCity](/images/laureates/seoul.jpg)_Hamburg HafenCity © www.mediaserver.hamburg.de/Maxim Schulz_
+![Hamburg HafenCity](/images/special-mentions/hamburg.jpg)_Hamburg HafenCity © www.mediaserver.hamburg.de/Maxim Schulz_
 
 #### **The Jury's Citation**
 
