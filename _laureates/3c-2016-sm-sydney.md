@@ -8,7 +8,7 @@ third_nav_title: 2016
 |---:|
 | Sydney | 
 
-![Sydney](/images/special-mentions/sydney.jpg)_Sydney Harbour © Urban Redevelopment Authority Singapore_
+![Sydney Harbour](/images/special-mentions/sydney.jpg)_Sydney Harbour © Urban Redevelopment Authority Singapore_
 
 #### **The Jury's Citation**
 
