@@ -7,14 +7,14 @@ permalink: /faq/
 
 **Who is eligible to nominate?**
 
-Nominations for the Lee Kuan Yew World City Prize must be made by independent third parties. For a nomination to be valid, here should be at least one nominator who falls into any of the following categories:
+Nominations for the Lee Kuan Yew World City Prize must be made by independent third parties. The nominator is someone who belongs to one of the following categories:
 
-- Leading academics (e.g. professors in universities)
-- Government officials (outside of the city administration)
-- Heads of international organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, or other relevant fields.
-- Organisations in the public or private sectors
-- Non-government organisations (NGOs)
-- Academic institutions
+| 1 | Leading academics (e.g. professors in universities) |
+| 2 | Government officials (outside of the city administration) |
+| 3 | Heads of international organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, or other relevant fields. |
+| 4 | Organisations in the public or private sectors |
+| 5 | Non-government organisations (NGOs) |
+| 6 | Academic institutions |
 
 Self-nominations will not be accepted, i.e. city officials cannot nominate their own city.
 
@@ -24,7 +24,7 @@ There is no limit to the number of nominations a nominator can make. However, ea
 
 **Who can I nominate?**
 
-The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced. You may nominate a city, with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable).
+The Prize is awarded to cities only. As such, you may wish to nominate a city, with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable).
 
 ---
 
@@ -32,7 +32,7 @@ The Prize is awarded to cities and recognises their key leaders and organisation
 
 **How do I make a Stage A nomination?**
 
-You may make a nomination for a city using the official nomination form. As a nominator, you will be required to submit a recommendation letter to support your case for why the city should win the Prize. Please ensure that the city is agreeable to be nominated.
+Nominations are to be made using the official nomination form, accompanied by a recommendation letter to support your case why the city should win the Prize. Please ensure that the city has agreed to be nominated and will follow through the Stage B submission process. 
 
 **How will I know if my nomination is received?**
 
@@ -48,15 +48,15 @@ No. There are no fees involved for both Stage A and B.
 
 **What should the recommendation letter contain?**
 
-The recommendation letter is an important part of the Stage A Nomination. The nominator should make a case to support why the city should win the Prize and highlight key strategies and / or initiatives that contribute to the holistic transformation of the city over at least 10 years, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
+The nominator should make a case to support why the city should win the Prize and highlight key strategies and/or initiatives that contribute to the holistic transformation of the city over at least 10 years, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
 
-The nominator may wish to address (but not limited to) the following points in their recommendation letter:
-- Demonstrations of good governance and leadership
-- Key strategies that contributed to a significant transformation of the city
-- Institutionalisation of key processes for sustained transformation and long-term benefits
-- Key agents and urban actors/stakeholders involved (e.g. governments, government agencies, consultants, communities) and their roles in the transformation of the city
-- The degree of transformation observed since its implementation and the impact on the people / residents
-- Outstanding demonstration project(s) that contributed to the success of the transformation
+The following are some guiding points for the recommendation letter:
+
+| 1 | Demonstrations of good governance and leadership |
+| 2 | Institutionalised key processes for sustained transformation and long-term benefits |
+| 3 | Key agents and urban actors/stakeholders involved (e.g. governments, government agencies, consultants, communities) and their roles in the transformation of the city |
+| 4 | The degree of transformation observed since its implementation and the impact on the people/residents |
+| 5 | Outstanding project(s) that contributed to the success of the transformation |
  
 **What is the world limit for the recommendation letter?**
 
@@ -72,11 +72,13 @@ The city (i.e. city government and/or key partner organisation appointed by the 
 
 **What materials does the city need to submit for Stage B?**
 
-The city is required to prepare and submit a detailed report containing information on the city, key statistics over at least 10 years, overall master plan or strategy, and 3 demonstration projects to illustrate the success of the master plan/strategy. The city is also required to submit a photo report, and 2 - 5 reference letters from independent third parties who are familiar and/or involved in the city's transformation. They city may also wish to submit additional supporting documents, such as annual reports, brochures, etc. For the details of the submission requirements, please click [here](/nomination/guidelines/stage-b/).
+The city is required to prepare and submit a detailed report containing information on the city, key statistics over at least 10 years, overall master plan or strategy, and 3 demonstration projects to illustrate the success of the master plan/strategy. The city is also required to submit a photo report, and 2 - 5 reference letters from independent third parties who are familiar and/or involved in the city's transformation. 
+
+The city may also wish to submit additional supporting documents, such as annual reports, brochures, etc. For the details of the submission requirements, please click [here](/nomination/guidelines/stage-b/).
 
 **Can the city submit additional materials in other languages other than English?**
 
-The main report and all accompanying materials must be in English. The city may submit additional documents in other languages, however only materials in English will be considered for evaluation.
+The main report and photo report must be completed in English. The city may submit additional supporting documents in other languages, however only materials in English will be considered for evaluation.
 
 ---
 
@@ -131,4 +133,5 @@ The Laureate city will be invited to share the city's knowledge and experiences 
 
 **How can I attend the Lee Kuan Yew World City Prize Lecture and Forum?**
 
-You are welcome to attend the Lee Kuan Yew World City Prize Lecture and Forum at the World Cities Summit, a biennial international Summit held in Singapore. The next edition of the World Cities Summit will be held in July 2020. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for more details.
+The next edition of the World Cities Summit will be held in July 2020. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates.
+
