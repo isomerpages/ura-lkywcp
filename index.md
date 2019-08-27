@@ -22,6 +22,10 @@ sections:
             - title: Case Studies
               description: Best practices from exemplar cities
               url: /resources/case-studies/
+    - resources:
+        title: 
+        subtitle: Latest
+        button: More
     - carousel:
         - title: Seoul
           subtitle: 2018 Prize Laureate
@@ -56,8 +60,4 @@ sections:
         url: https://www.ura.gov.sg/corporate/forms/lkywcp-subscription
         image: /images/subscribe-newsletter.jpg/
         alt: Subscribe to our newsletter
-    - resources:
-        title: 
-        subtitle: Latest
-        button: More
 ---
