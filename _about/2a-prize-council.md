@@ -15,8 +15,6 @@ third_nav_title: Prize Jury
 </tbody>
 </table>
 
----
-
 #### **Members of the Prize Council 2020**
 
 <table style="width: 100%;" border="0" cellpadding="0px">
