@@ -49,7 +49,7 @@ sections:
           image: /images/carousel/bilbao.jpg
           alt: Bilbao City Hall
     - infopic:
-        title: Monthly Newsletter
+        title: Newsletter
         subtitle: Subscribe to our
         description: A monthly digest with latest news, features, videos and interviews on issues concerning urban governance and city planning.
         button: Click here
