@@ -4,9 +4,9 @@ permalink: /laureates/2012/special-mentions/vancouver/
 third_nav_title: 2012
 ---
 
-| Year | City | Region |
-|--|--|--|
-| 2012 Special Mention | Vancouver | North America |
+| 2012 Special Mention | 
+|---:|
+| Vancouver | 
 
 ![Vancouver](/images/special-mentions/vancouver.jpg)
 _© City of Vancouver_
