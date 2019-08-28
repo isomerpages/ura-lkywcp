@@ -10,7 +10,7 @@ Director, Global Foresight & Research, ARUP, USA
 
 ---
 
-Dr Chris Luebkeman’s interest in the built environment blossomed early, propelling him to pursue a multi-faceted education, beginning with engineering and culminating in a Doctorate in Architecture from ETH in Zurich, a city to which he remains deeply connected. Chris gained valuable experience as the protégé of esteemed Spanish Architect, Santiago Calatrava. Subsequently he turned to his other love, education, by accepting teaching positions at several prestigious universities. In 1999, Chris joined Arup as the Co-Director for Research and Development. He later formed the Foresight + Research + Innovation team.
+**Dr Chris Luebkeman**’s interest in the built environment blossomed early, propelling him to pursue a multi-faceted education, beginning with engineering and culminating in a Doctorate in Architecture from ETH in Zurich, a city to which he remains deeply connected. Chris gained valuable experience as the protégé of esteemed Spanish Architect, Santiago Calatrava. Subsequently he turned to his other love, education, by accepting teaching positions at several prestigious universities. In 1999, Chris joined Arup as the Co-Director for Research and Development. He later formed the Foresight + Research + Innovation team.
 
 Dr Luebkeman worked with the Land Transport Authority as they were creating their Autonomous Vehicle strategic plan. He is a member of the Urban Redevelopment Authority International Panel of Experts and the Lee Kuan Yew World Prize Nominating Panel. His current focal points are the impact of AI|ML on consulting, the impact of climate change on our existing infrastructure, and the way in which we redefine our urban systems to stay within our planetary boundaries.
 
