@@ -63,6 +63,8 @@ description: his urban regeneration project that spanned some 14 years saw the d
 
 #### **Impacts of the project**
 
+<br>
+
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
