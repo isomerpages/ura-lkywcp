@@ -7,6 +7,8 @@ description: his urban regeneration project that spanned some 14 years saw the d
 
 ***This urban regeneration project that spanned some 14 years saw the dramatic transformation of a dilapidated industrial area in the city centre of Bilbao, Spain into an exciting new mixed-use district anchored by the world-renowned Guggenheim Museum.*** 
 
+<br>
+
 | **City** | Bilbao |
 | **Type** | Urban Regeneration |
 | **Completion** | 1998 - 2014 (14 years) |
@@ -56,3 +58,16 @@ description: his urban regeneration project that spanned some 14 years saw the d
 - Avenida de Abandoibarra – a major avenue and backbone of the area. The carriageways are separated by a 12-metre wide, tree-lined and grassed central reservation on which the tram runs.
 - Bank Park – a facility to connect existing promenades along 800 metres of the waterfront. The city reclaimed almost 6 kilometres of leisure space on both sides of the river. The park features the collection of sculptures, a kind of ‘Memory Lane’ to commemorate the intense industrial activity which used to be the main feature on site.
 - Auskalduna Bridge, Zubizuri Footbridge and Pedro Arrupe Walkway – bridges and walkway that foster communications between both sides of the river. They are physical infrastructures for social interaction, as well as sculptures that strengthen the image of innovation and modernity.
+
+---
+
+<table style="width: 100%;">
+<tbody>
+<tr style="height: 23px;">
+<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png"></td>
+<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png"></td>
+<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png"></td>
+<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png"></td>
+</tr>
+</tbody>
+</table>
