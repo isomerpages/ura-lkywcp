@@ -23,31 +23,21 @@ third_nav_title: Prize Jury
 <td style="width: 150px;"><img src="/images/jury/wulf-daseking.jpg" alt="Wulf Daseking" /></td>
 <td><strong>Prof Wulf Daseking</strong><br />Professor<br />University of Freiburg<br />Germany</td>
 </tr>
+<tr>
+<td><br><img src="/images/jury/lim-eng-hwee.jpeg" alt="Lim Eng Hwee" /><br></td>
+<td><br><strong>Mr Lim Eng Hwee</strong><br />Chief Executive Officer<br />Urban Redevelopment Authority<br />Singapore</td>
+</tr>
+<tr>
+<td><br><img src="/images/jury/chris-luebkeman.jpg" alt="Chris Luebkeman" /><br></td>
+<td><br><strong>Dr Chris Luebkeman</strong><br />Director<br />Global Foresight, Research and Innovation, ARUP<br />USA</td>
+</tr>
+<tr>
+<td><br><img src="/images/jury/marilyn-taylor.jpg" alt="Marilyn Taylor" /><br></td>
+<td><br><strong>Prof Marilyn Jordan Taylor</strong><br />Professor, Former Dean<br />School of Design, University of Pennsylvania<br />USA</td>
+</tr>
+<tr>
+<td><br><img src="/images/jury/wong-mun-summ.jpg" alt="Wong Mun Summ" /><br></td>
+<td><br><strong>Mr Wong Mun Summ</strong><br />Director<br />WOHA Architects<br />Singapore</td>
+</tr>
 </tbody>
 </table>
-
-
-
-<div style="width:150px"><img src="/images/jury/lim-eng-hwee.jpeg" alt="Lim Eng Hwee" /></div>
-
-**Mr Lim Eng Hwee**<br> 
-Chief Executive Officer, Urban Redevelopment Authority, Singapore<br>
-[Biography](www.google.com)
-
-<div style="width:150px"><img src="/images/jury/chris-luebkeman.jpg" alt="Chris Luebkeman" /></div>
-
-**Dr Chris Luebkeman**<br>
-Director, Global Foresight, Research and Innovation, ARUP, USA<br>
-[Biography](www.google.com)
-
-<div style="width:150px"><img src="/images/jury/marilyn-taylor.jpg" alt="Marilyn Taylor" /></div>
-
-**Prof Marilyn Jordan Taylor**<br>
-Professor, Former Dean, School of Design, University of Pennsylvania, USA<br>
-[Biography](www.google.com)
-
-<div style="width:150px"><img src="/images/jury/wong-mun-summ.jpg" alt="Wong Mun Summ" /></div>
-
-**Mr Wong Mun Summ**<br>
-Director, WOHA Architects, Singapore<br>
-[Biography](www.google.com)
