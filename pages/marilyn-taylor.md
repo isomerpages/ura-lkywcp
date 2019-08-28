@@ -1,6 +1,6 @@
 ---
 title: Biography - Marilyn Taylor
-permalink: /about/prize-jury/prize-council/marilyn-taylor/
+permalink: /about/prize-jury/nominating-committee/marilyn-taylor/
 ---
 
 <div style="width:150px"><img src="/images/jury/marilyn-taylor.jpg" alt="Marilyn Taylor" /></div>
