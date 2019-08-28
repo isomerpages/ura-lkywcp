@@ -20,7 +20,7 @@ third_nav_title: Prize Jury
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/wulf-daseking.jpg" alt="Wulf Daseking" /></td>
+<td style="width: 150px;"><img src="/images/jury/wulf-daseking.jpg" alt="Wulf Daseking" /><br></td>
 <td><strong>Prof Wulf Daseking</strong><br />Professor<br />University of Freiburg<br />Germany</td>
 </tr>
 <tr>
