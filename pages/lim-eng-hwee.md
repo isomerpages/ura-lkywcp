@@ -3,7 +3,7 @@ title: Biography - Lim Eng Hwee
 permalink: /about/prize-jury/prize-council/lim-eng-hwee/
 ---
 
-<div style="width:150px"><img src="/images/jury/lim-eng-hwee.jpg" alt="Lim Eng Hwee" /></div>
+<div style="width:150px"><img src="/images/jury/lim-eng-hwee.jpeg" alt="Lim Eng Hwee" /></div>
 
 **Mr Lim Eng Hwee**<br>
 Chief Executive Officer, Urban Redevelopment Authority, Singapore
