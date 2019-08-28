@@ -64,10 +64,10 @@ description: his urban regeneration project that spanned some 14 years saw the d
 <table style="width: 100%;">
 <tbody>
 <tr style="height: 23px;">
-<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
-<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
-<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
-<td style="width: 25%; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
+<td style="width: 50; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
+<td style="width: 50; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
+<td style="width: 50; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
+<td style="width: 50; text-align: center; vertical-align: middle; height: 23px;"><img src="/images/case-studies/icon-people.png" width="50"></td>
 </tr>
 </tbody>
 </table>
