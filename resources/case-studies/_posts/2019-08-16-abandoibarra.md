@@ -95,4 +95,4 @@ Guggenheim Museum has maintained 3,816 jobs during the first year, and increased
 
 - A city can be regenerated through the use of culture, internationalisation and design excellence.
 - The vision should not only focus on economic growth, but also look at the social and quality of life considerations.
-- Abandoibarra serves as a reference in terms of strategic vision and good governance. It constitutes an inspirational source for other cities with underprivileged areas of great potential.
+- Abandoibarra serves as a reference in terms of strategic vision and good governance. It constitutes an inspirational source for other cities with underprivileged areas of great potential. **<font color="#967942">O</font>**
