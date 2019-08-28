@@ -5,13 +5,13 @@ image: /images/case-studies/abandoibarra-map.jpg
 description: his urban regeneration project that spanned some 14 years saw the dramatic transformation of a dilapidated industrial area in the city centre of Bilbao, Spain into an exciting new mixed-use district anchored by the world-renowned Guggenheim Museum. 
 ---
 
+***This urban regeneration project that spanned some 14 years saw the dramatic transformation of a dilapidated industrial area in the city centre of Bilbao, Spain into an exciting new mixed-use district anchored by the world-renowned Guggenheim Museum.*** 
+
 | **City** | Bilbao |
 | **Type** | Urban Regeneration |
 | **Completion** | 1998 - 2014 (14 years) |
 | **Size** | 34.85 hectares |
 | **Scale** | Medium |
-
-***This urban regeneration project that spanned some 14 years saw the dramatic transformation of a dilapidated industrial area in the city centre of Bilbao, Spain into an exciting new mixed-use district anchored by the world-renowned Guggenheim Museum.*** 
 
 #### **In brief**
 
@@ -31,3 +31,28 @@ description: his urban regeneration project that spanned some 14 years saw the d
 - Decline of mining, steel and shipbuilding industries, which conditioned the urban structure along the river.
 - Rising unemployment of about 22.5% in the 1970s and 1980s, due to deindustrialisation and disinvestment both from abroad and other parts of Spain.
 - Negative environmental impact on the river from industries and port activities.
+
+---
+
+#### **Leadership and governance**
+
+![Land ownership of Abandoibarra](/images/case-studies/abandoibarra-land-ownership.png/)*Land ownership of Abandoibarra © Bilbao City Hall*
+
+- Abandoibarra was highlighted in the first General Urban Plan by Bilbao Town Hall in 1987, as the most representative ‘opportunity site’ left out by deindustrialisation and economic decline that could be redeveloped to lead the process of urban revitalisation.
+- Its operation inaugurates the shift from urban government to governance. The new mode of urban governance involves the transfer of planning and implementation powers traditionally held by local institutions to a new managing institution, Bilbao Ria 2000.
+- Bilbao Ria 2000 is a non-profitmaking entity owned equally by Basque Administration and the State Administration. It coordinates and executes projects in relation to town planning, transportation and the environment, with the intention of recovering former industrial space around the city.
+- Bilbao Ria 2000’s shareholders, which are all public companies or institutions, transfer land belonging to them in central areas of Bilbao and Barakaldo, and the Town Halls upgrade the land. Bilbao Ria 2000 invests in building works on the land and sells off the resultant plots to finance its activities.
+- A multi-package approach was adopted in the delivery of the project. Instead of leasing the land to one private developer for integrated development, it has been divided into smaller land parcels for leasing in phases to different developers for developments.
+
+---
+
+#### **Creativity and innovation**
+
+![Pedro Arrupe Walkway](/images/case-studies/pedro-arrupe-walkway.jpg/)*Pedro Arrupe Walkway © Bilbao City Hall*
+
+- Abandoibarra demonstrated that the use of culture, internationalisation and design excellence as key catalysts have enabled the successful regeneration of the city. Through constant re-invention and evolvement, the city progressed from an industrial to a knowledge-based economy.
+- Bilbao Guggenheim Museum – the symbol of transformation. It played an outstanding role as a driving force for shifting Bilbao’s personality towards a more cosmopolitan character with a closer relationship to contemporary culture.
+- Euskalduna Palace Conference and Music Centre – the second building built in the area after Guggenheim Museum. It was designed in weathering steel as a symbol of the last vessel built in the old Euskalduna shipyard, which had occupied the space for decades.
+- Avenida de Abandoibarra – a major avenue and backbone of the area. The carriageways are separated by a 12-metre wide, tree-lined and grassed central reservation on which the tram runs.
+- Bank Park – a facility to connect existing promenades along 800 metres of the waterfront. The city reclaimed almost 6 kilometres of leisure space on both sides of the river. The park features the collection of sculptures, a kind of ‘Memory Lane’ to commemorate the intense industrial activity which used to be the main feature on site.
+- Auskalduna Bridge, Zubizuri Footbridge and Pedro Arrupe Walkway – bridges and walkway that foster communications between both sides of the river. They are physical infrastructures for social interaction, as well as sculptures that strengthen the image of innovation and modernity.
