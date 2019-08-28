@@ -66,15 +66,15 @@ description: his urban regeneration project that spanned some 14 years saw the d
 <table style="width: 100%;" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 100px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-people.png" alt="Icon People" /></td>
+<td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-people.png" alt="Icon People" /></td>
 <td style="text-align: left; vertical-align: middle;">Average of 1 million visitors per year at Guggenheim Museum</td>
-<td style="width: 100px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-people.png" alt="Icon People" /></td>
+<td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-plane.png" alt="Icon Plane" /></td>
 <td style="text-align: left; vertical-align: middle;">Airport passengers increased from 1.4 million to 3.8 million between 1994 and 2005</td>
 </tr>
 <tr>
-<td style="width: 100px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-people.png" alt="Icon People" /></td>
+<td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-briefcase.png" alt="Icon Briefcase" /></td>
 <td style="text-align: left; vertical-align: middle;">10.9% increase in jobs provided by Guggenheim Museum between 1997 and 2006</td>
-<td style="text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-people.png" alt="Icon People" /></td>
+<td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-speech.png" alt="Icon Speech" /></td>
 <td style="text-align: left; vertical-align: middle;">10 times increase in the number of conference delegates to 178,000 per year</td>
 </tr>
 </tbody>
