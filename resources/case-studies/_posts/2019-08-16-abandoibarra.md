@@ -67,15 +67,15 @@ description: his urban regeneration project that spanned some 14 years saw the d
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-people.png" alt="Icon People" /></td>
-<td style="text-align: left; vertical-align: middle;">Average 1m visitors per year at Guggenheim Museum</td>
+<td style="text-align: left; vertical-align: top;">Average 1m visitors per year at Guggenheim Museum</td>
 <td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-plane.png" alt="Icon Plane" /></td>
-<td style="text-align: left; vertical-align: middle;">Airport passengers increased from 1.4m to 3.8m from 1994 - 2005</td>
+<td style="text-align: left; vertical-align: top;">Airport passengers increased from 1.4m to 3.8m from 1994 - 2005</td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-briefcase.png" alt="Icon Briefcase" /></td>
-<td style="text-align: left; vertical-align: middle;">10.9% increase in jobs by Guggenheim Museum from 1997 - 2006</td>
+<td style="text-align: left; vertical-align: top;">10.9% increase in jobs by Guggenheim Museum from 1997 - 2006</td>
 <td style="width: 80px; text-align: center; vertical-align: middle;"><img src="/images/case-studies/icon-speech.png" alt="Icon Speech" /></td>
-<td style="text-align: left; vertical-align: middle;">10x increase in conference delegates to 178,000 per year</td>
+<td style="text-align: left; vertical-align: top;">10x increase in conference delegates to 178,000 per year</td>
 </tr>
 </tbody>
 </table>
