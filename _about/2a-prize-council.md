@@ -10,7 +10,7 @@ third_nav_title: Prize Jury
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></td>
-<td><strong>Mr Peter Ho</strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore</td>
+<td><strong>Mr Peter Ho</strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/about/prize-jury/prize-council/peter-ho/">Biography</a></td>
 </tr>
 </tbody>
 </table>
