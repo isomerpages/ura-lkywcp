@@ -5,71 +5,57 @@ image: /images/features/2019/public-spaces-toronto.jpg
 description: In a world inundated with more complex urban challenges, Jennifer Keesmaat is hopeful. Toronto’s Chief City Planner from 2012 to 2017, Jennifer has taught at the University of Toronto, served as chief executive officer of a non-profit organisation established to create affordable urban rental housing, and has even run for city mayor. Jennifer talks about redefining the use of streets and the way residents are engaged to create more inclusive cities. 
 ---
 
+| Author |
+|---:|
+| Jennifer Eveland |
+
 ***In a world inundated with more complex urban challenges, Jennifer Keesmaat is hopeful. Toronto’s Chief City Planner from 2012 to 2017, Jennifer has taught at the University of Toronto, served as chief executive officer of a non-profit organisation established to create affordable urban rental housing, and has even run for city mayor. Jennifer talks about redefining the use of streets and the way residents are engaged to create more inclusive cities.***
 
-![Public spaces in Toronto](/images/features/2019/public-spaces-toronto.jpg/)*Public spaces in Toronto © City of Toronto *
+![Public spaces in Toronto](/images/features/2019/public-spaces-toronto.jpg/)*Public spaces in Toronto © City of Toronto*
 
-#### **Why is urban regeneration important to the city of Seoul?**
+#### **Tackling challenges through urban renewal**
 
-**Hee Seon Jin (HSJ):** Seoul is a historic city of coexistence that possesses remains of an ancient city from 2,000 years ago and a 600-year-old medieval capital. Though a majority of the city was destroyed during the Korean War in 1950, it went through rapid restoration, also known as the "Miracle on the Hangang Riverside", in the midst of an industrialisation process. 
+Optimism may seem easy in a city that is consistently voted one of the world’s most liveable, yet Toronto, Canada’s largest metropolis by population, faces problems common to many cities, such as homelessness and lack of affordable housing, economic and ethnic segregation, and general apathy, to name a few. Where Toronto falls short, urban renewal seeks to address the hard issues. 
 
-The population, which was just 3,420,000 in 1964, increased by more than four times and 2 million houses were constructed to solve the shortage of housing. In fact, 95% of Seoul's current area has been built within the last 50 years. 
+“Urban renewal, at its centre, must be about creating cities that are increasingly inclusive and open to cultural diversity, entrepreneurialism and mobility choices,” says Jennifer. “At the heart of that is access to safe and affordable housing.” 
 
-As side effects of such rapid industrialisation, however, old streets and alleys disappeared and modern skyscrapers brought slumming of antique spaces as only business values were sought without an overall planning of the infrastructure. 
+In this context, one of Toronto’s finest examples of urban renewal is the downtown St. Lawrence neighbourhood. Built in the 1970s on former industrial land, the city-funded housing project introduced a new built form typology – midrise – into the landscape of a city that was otherwise dominated by dual extremes of urban sprawl and point towers. 
 
-Also, an explosive rise in housing prices in newly developed areas has led to instability in citizens' living situations and gentrification of natives, presenting the two extremes sides of development through which local history and communities were painfully disbanded. 
+Anchoring the neighbourhood is a linear park that is constantly in use and surrounded by schools, community service facilities and housing built to accommodate residents across the economic spectrum. In the four decades since the neighbourhood’s establishment, data gathered on the residents of St. Lawrence indicate that the project has overwhelmingly succeeded in lifting its poorest residents out of poverty, what Jennifer believes is due in large part to the precinct’s balance of high-density and mixed-use environments.
 
-Amidst such a process of change, as the world entered the "age of low growth" in the aftermath of the 2008 global financial crisis, quantitative expansion of development-oriented cities reached its limit and the global trend shifted to qualitative growth of sustainable cities. 
+> “My work is about demonstrating that we can overcome constraints of the past. In this era of uncertainty around our climate, human migration, displacement, growing radicalisation and exclusion, building cities that are sustainable and for everyone is a fundamentally hopeful act.”
 
-A city that has carried out remarkable economic growth and thus been a model for developing countries in Asia, Seoul also changed the basic direction of its urban policies from "urban development" to "urban regeneration" in 2013 according to the changing trends and, based on mature citizenship, it innovatively converted its political direction to "Seoulistic urban regeneration" that nurtures and develops a city that "citizens" desire by the "citizens" themselves. It was an astounding conversion for Seoul, which had been well used to urban development. 
+#### **Determining the right density** 
 
-Going beyond the top-down method of the past, the essence of Seoul's urban regeneration policies lies in the residents who serve as the main body in the entire process from planning to execution in order to revive the identity of a region, properly combine hardware (development, repair, preservation) and software (economy, culture, welfare), and implement these in collaboration with public and private governance. 
+“From a planning perspective, you can say that the right amount of density is ‘x number of units per acre’, but from my perspective it’s more important to ask how we are providing the right amount of density to create liveable, walkable communities with a mix of uses, while at the same time not compromising any of our quality of life drivers,” says Jennifer. 
 
-#### **How does Seoul determine the areas for regeneration? What are the criteria?** 
+In terms of the mix of uses, Jennifer says it’s critical to ensure that we’re designing cities in such a way that activities undertaken often and repeatedly can be done within walking distance of home. “When we talk about getting the mix of uses right, it’s about providing those amenities that are needed to support everyday life.” 
 
-**HSJ:** The essence of "Seoulistic urban regeneration" is gradual expansion of areas for regeneration according to the level of maturity in a region's competency through formation of residents' consensus and reinforcement of the promoters' capabilities prior to designation of urban regeneration areas. 
+A cautionary example she shares is the trend in North America to separate schools from community life, either due to education systems that send children to schools outside of their communities or because planners stopped designing neighbourhoods around them. 
 
-In detail, 10 residents of a region that desires urban regeneration gather to conduct various activities such as workshops and resident meetings to think about local issues and find solutions themselves. 
+#### **Redefining the use of streets**
 
-In the progress of such activities, regions that show excellent performance are selected as urban regeneration areas and actively promote urban regeneration projects. 
+Principles of density and mixed use don’t only apply to neighbourhoods but to streets as well. Jennifer describes “complete streets” based on the idea that streets can be designed to accommodate multiple users such as people who walk, cycle, take transit or drive, as well as multiple uses like sidewalk cafés, benches, greenery and shade, lighting, utilities and stormwater management. Whereas previously, the old street design model asked “How can we move cars through as quickly as possible?” she suggests that the redesign process begin by asking, “Who do we want to use this street?” and “How can we ensure the safety of all users, especially the most vulnerable ones?” 
 
-When selecting urban regeneration areas among the resident competency reinforcement regions, a selection committee consisting of external specialists in the private sector is formed and a review is conducted in a fair manner by obtaining impartiality and legitimacy on additional selection of vitalisation regions. 
+“It’s fundamentally a counter to the approach that was used in the past, and I would even argue it’s the opposite, because in order to prioritise making all users safe, invariably, you’re going to have to move cars more slowly,” she says. 
 
-Even if a region is not selected as an urban regeneration area, an additional reserve stage is installed to continuously strengthen the residents' capabilities and can be selected as regeneration areas in the future once their competency reaches maturity. 
+Toronto faced the challenges of going car-lite in 2017 when it redesigned King Street, a major commercial thoroughfare in one of the city’s densest and most congested areas. The move limited vehicle access and prioritised public transit and pedestrians, resulting in faster streetcars or trams and more versatile use of curb and sidewalk space. 
 
-#### **When restoring the Sewoon Shopping Centre, which issues did Seoul face and how did Seoul overcome them?** 
+One of the biggest challenges was getting public opinion on board. “It’s actually a philosophical issue that a community or a city has to go through whereby they start to rethink and reposition what streets are for,” says Jennifer. “In order to make a city that’s designed for pedestrians, you do have to confront and wrestle to the ground the role of the car in the city.” 
 
-**HSJ:** Sewoon Shopping Centre is situated in the historic centre of Seoul where the decline of Seoul's old town due to continuous changes in the urban structure may be seen, from war damage restoration in the 1950s and development and growth between the 1960s and 1970s to development of up-and-coming regions after the 1980s. 
+![King Street transit pilot](/images/features/2019/king-street-toronto.jpg/)*The ongoing King Street transit pilot is giving priority to streetcars or trams over private vehicles © City of Toronto*
 
-Centred on the seven building groups (multi-purpose buildings) constructed sequentially from 1967 to 1972, the surrounding area of Sewoon Shopping Centre grew as the hub commercial district of Seoul and the mecca of downtown industries such as electricity and electronics up to the 1980s; however, the commercial district soon faced an accelerated decline to have become one of the city's most underdeveloped regions concentrated with outdated machines and facilities as well as many small manufacturing companies in printing, metal, machinery, lighting and electricity industries. 
+#### **Finding new ways to engage residents**
 
-In the process of Seoul's rapid policy changes, the area surrounding Sewoon Shopping Centre has experienced a number of ups-and-downs, including a near-demolition. In line of the trend for development in 2009 to increase the value of real estate, the plan to establish a broad north-south green axis, demolish and redevelop the surrounding region was finalised but it was soon faced with various social problems such as the destruction of homes and workplaces of existing small traders and store owners, and subsequent conflicts among residents. 
+To garner public support for planning projects, the city has established a number of innovative strategies that go above and beyond traditional public meetings.
 
-![The rejuvenated Sewoon Shopping Centre](/images/features/2019/sewoon-shopping-centre.jpg/)*The rejuvenated Sewoon Shopping Centre © Urban Redevelopment Authority Singapore*
+Planners in Public Spaces, or PIPS, is a programme that started in 2013 to send planners out to various areas within the city to engage people in these places who wouldn’t normally attend public meetings, which Jennifer says tend to be dominated by those who already feel empowered by the planning process. PIPS proved to be an enormously successful way to approach community consultation. 
 
-As the construction business continued to shrink and the real estate market went into a recession, the need and duty to maintain the urban industrial ecosystem, respect the value of historic and cultural downtown, and reduce excessive burden on the residents reached a consensus and, therefore, the plan switched from the previous complete demolition and redevelopment to a sustainable urban regeneration in June 2013. 
+Another initiative is the Planning Review Panel (PRP), the first of its kind in the world. Launched in 2015, the PRP is a 32-member advisory panel made up of resident volunteers selected via a random civic lottery. Panel members represent the diverse demographics of city residents with regards to age, gender, race and homeowner status to ensure a variety of perspectives and input that are representative of the diverse interests that exist in the city. Over the span of two years, the panel met 16 times to learn about city planning issues and offer their viewpoints and produced reports on their recommendations. 
 
-However, the urban regeneration projects faced many difficulties in the beginning as residents lacked not only understanding of urban regeneration but also trust in the city's policies. 
+Both PIPs and the PRP were initiated during Jennifer’s tenure as Chief City Planner, and it’s what she says excites and motivates her most about her work. “I’m engaged every day in collaborating with people who believe that we can, through the design of our cities, overcome some of the greatest challenges of our time.”
 
-Seoul needed the efforts from administrative and field activists to turn back the hearts of the residents and, under the principle that “urban regeneration must be carried out by collaborating with the residents and be centred on field administration”, started by listening to the opinions of the residents. 
-
-Also, residents, experts and Seoul city administrators put their heads together day and night to devise a plan and determine execution for an urban regeneration of Sewoon Shopping Centre that would satisfy everyone, Sewoon Shopping Centre was gradually transformed by fulfilling commitments made with residents and overcoming difficulties despite voices of concern over the course of the project, which ultimately led to the successful launch of the Sewoon Again Project on September 19, 2017. 
-
-As the hub of 7,000 companies and more than 20,000 engineers, Sewoon Shopping Centre is changing into an innovation base to lead the revival of the urban manufacturing industry in this age of the fourth industrial revolution, and young people with new technology and creative ideas head over to Sewoon Shopping Centre through the Sewoon Again Project through which such creativity of the youth, know-how of technical masters and future technology of new industries are connected to ultimately establish the “Sewoon Platform” and lead the fourth industrial revolution. To operate a variety of programmes such as this, continuous discussions and attempts are being processed. 
-
-Residents sign coexistence agreements themselves and operate a residents’ committee for urban regeneration to autonomously and voluntarily plan and implement the urban regeneration projects. The projects that began from administration are now being carried out by the residents who have protected and will continue to develop the region. 
-
-> “Going beyond the top-down method of the past, the essence of Seoul's urban regeneration policies lies in the residents who serve as the main body in the entire process from planning to execution in order to revive the identity of a region, properly combine hardware and software, and implement these in collaboration with public and private governance.”
-
-#### **Is Seoul considering urban regeneration in other regions? If yes, what is the importance of regenerating those regions?**
-
-**HSJ:** For 7 years since urban regeneration was first promoted, things that had been believed to be impossible in Korea began to take place for change. 
-
-In detail, 133 urban regeneration projects are being carried out actively throughout Seoul, and an old overpass that had been a path for cars has been transformed into a walking path for people, thus becoming one of the city’s newest landmarks used by 10 million citizens while its impact even influences private development in surrounding regions. 
-
-Also, Sewoon Shopping Centre, which had been the centre of urban manufacturing industries in the modernisation period in the 70s and 80s, faced the risk of being demolished but, through urban regeneration, was reborn as an innovation base of the fourth industrial revolution. 
-
-Such changes in Seoul’s urban policies have not only spread throughout the city but also have been applied as one of the central policies of the nation, and is firmly believed to be a “new urban regeneration model” for Asian cities that are about to become advanced countries through global exchanges beyond domestic markets. **<font color="#967942">O</font>**
+**<font color="#967942">O</font>**
 
 <div style="width:150px"><img src="/images/features/2019/jennifer-keesmaat.jpg" alt="Jennifer Keesmaat" /></div>
 
