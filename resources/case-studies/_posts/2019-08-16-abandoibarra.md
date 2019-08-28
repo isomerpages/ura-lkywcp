@@ -61,7 +61,7 @@ description: his urban regeneration project that spanned some 14 years saw the d
 
 ---
 
-<br>
+#### **Impacts of the project**
 
 <table style="width: 100%;" cellpadding="10">
 <tbody>
@@ -79,3 +79,10 @@ description: his urban regeneration project that spanned some 14 years saw the d
 </tr>
 </tbody>
 </table>
+
+- The Bilbao effect or Guggenheim effect – it is not just about achieving urban transformation, economic and social vibrancy through a few iconic buildings. Rather, it is about a strong leadership and a commitment to a systematic and long term plan, based on solid processes and supporting infrastructure.
+- Strong boost for tourist sector since the inauguration of Guggenheim Museum in 1997, attracting an average of 1 million visitors per year since its opening.
+- Airport passengers increased from 1.4 million in 1994 to 3.8 million in 2005.
+Guggenheim Museum has maintained 3,816 jobs during the first year, and increased to 4,232 jobs (or 10.9% increase) in the year 2006.
+- The urban regeneration attracts private sector investment. The large energy company Iberdrola has decided to build its new headquarter on the site. The Iberdrola Tower has become the new financial and business icon of Bilbao.
+- The number of conference delegates arriving in the city increased tenfold to 178,000 per year. 
