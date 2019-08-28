@@ -1,6 +1,6 @@
 ---
 title: Biography - Flemming Borreskov
-permalink: /about/prize-jury/prize-council/flemming-borreskov/
+permalink: /about/prize-jury/nominating-committee/flemming-borreskov/
 ---
 
 <div style="width:150px"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></div>
