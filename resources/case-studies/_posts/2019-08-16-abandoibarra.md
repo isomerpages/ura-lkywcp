@@ -64,7 +64,7 @@ description: his urban regeneration project that spanned some 14 years saw the d
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 50px;"><img src="images/case-studies/icon-people.png" alt="Icon People" /></td>
+<td style="width: 50px;"><img src="/images/case-studies/icon-people.png" alt="Icon People" /></td>
 <td>Average of 1 million visitors per year at Guggenheim Museum</td>
 </tr>
 </tbody>
