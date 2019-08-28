@@ -86,3 +86,13 @@ description: his urban regeneration project that spanned some 14 years saw the d
 Guggenheim Museum has maintained 3,816 jobs during the first year, and increased to 4,232 jobs (or 10.9% increase) in the year 2006.
 - The urban regeneration attracts private sector investment. The large energy company Iberdrola has decided to build its new headquarter on the site. The Iberdrola Tower has become the new financial and business icon of Bilbao.
 - The number of conference delegates arriving in the city increased tenfold to 178,000 per year. 
+
+---
+
+#### **Replicable ideas**
+
+![Abandoibarra after the transformation](/images/case-studies/abandoibarra-after.jpg/)*Abandoibarra after the transformation © Bilbao City Hall*
+
+- A city can be regenerated through the use of culture, internationalisation and design excellence.
+- The vision should not only focus on economic growth, but also look at the social and quality of life considerations.
+- Abandoibarra serves as a reference in terms of strategic vision and good governance. It constitutes an inspirational source for other cities with underprivileged areas of great potential.
