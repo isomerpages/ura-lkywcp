@@ -3,7 +3,7 @@ title: Biography - Park Won-soon
 permalink: /about/prize-jury/prize-council/park-won-soon/
 ---
 
-<div style="width:150px"><img src="/images/jury/park-won-soon.jpg" alt="Park Won-soon" /></div>
+<div style="width:150px"><img src="/images/jury/park-won-soon.png" alt="Park Won-soon" /></div>
 
 **Mr Park Won-soon**<br>
 Mayor, Seoul, Republic of Korea
