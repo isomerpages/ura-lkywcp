@@ -1,6 +1,6 @@
 ---
 title: Biography - Wulf Daseking
-permalink: /about/prize-jury/prize-council/wulf-daseking/
+permalink: /about/prize-jury/nominating-committee/wulf-daseking/
 ---
 
 <div style="width:150px"><img src="/images/jury/wulf-daseking.jpg" alt="Wulf Daseking" /></div>
