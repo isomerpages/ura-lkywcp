@@ -10,7 +10,7 @@ Former Administrator, United Nations Development Programme, New Zealand
 
 ---
 
-Ms Helen Clark was the Administrator of the United Nations Development Programme from April 2009 until April 2017 and was the first woman to lead the organisation. She was also the Chair of the United Nations Development Group, a committee consisting of the heads of all UN funds, programmes and departments working on development issues. 
+**Ms Helen Clark** was the Administrator of the United Nations Development Programme from April 2009 until April 2017 and was the first woman to lead the organisation. She was also the Chair of the United Nations Development Group, a committee consisting of the heads of all UN funds, programmes and departments working on development issues. 
 
 Prior to her appointment with UNDP, Helen Clark served for nine years as Prime Minister of New Zealand, serving three successive terms from 1999 - 2008. Throughout her tenure as Prime Minister, Helen Clark engaged widely in policy development and advocacy across the international, economic, social and cultural spheres. 
 
