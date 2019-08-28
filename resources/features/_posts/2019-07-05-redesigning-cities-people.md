@@ -53,11 +53,9 @@ Planners in Public Spaces, or PIPS, is a programme that started in 2013 to send 
 
 Another initiative is the Planning Review Panel (PRP), the first of its kind in the world. Launched in 2015, the PRP is a 32-member advisory panel made up of resident volunteers selected via a random civic lottery. Panel members represent the diverse demographics of city residents with regards to age, gender, race and homeowner status to ensure a variety of perspectives and input that are representative of the diverse interests that exist in the city. Over the span of two years, the panel met 16 times to learn about city planning issues and offer their viewpoints and produced reports on their recommendations. 
 
-Both PIPs and the PRP were initiated during Jennifer’s tenure as Chief City Planner, and it’s what she says excites and motivates her most about her work. “I’m engaged every day in collaborating with people who believe that we can, through the design of our cities, overcome some of the greatest challenges of our time.”
+Both PIPs and the PRP were initiated during Jennifer’s tenure as Chief City Planner, and it’s what she says excites and motivates her most about her work. “I’m engaged every day in collaborating with people who believe that we can, through the design of our cities, overcome some of the greatest challenges of our time.” **<font color="#967942">O</font>**
 
-**<font color="#967942">O</font>**
-
-<div style="width:150px"><img src="/images/features/2019/jennifer-keesmaat.jpg" alt="Jennifer Keesmaat" /></div>
+<br><div style="width:150px"><img src="/images/features/2019/jennifer-keesmaat.jpg" alt="Jennifer Keesmaat" /></div>
 
 | **Jennifer Keesmaat** |
 |:---|
