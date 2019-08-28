@@ -10,7 +10,7 @@ Chief Executive Officer, Housing & Development Board, Singapore
 
 ---
 
-**r Cheong Koon Hean** is the CEO of the Housing & Development Board since 2010. She oversees 1 million public housing flats and leads the development of well designed, community-centric, sustainable and smart towns. She was the CEO of the Urban Redevelopment Authority from 2004 to 2010, in charge of strategic land use planning, conservation of built heritage, promotion of design excellence and the real estate market. She was credited with major urban transformations of Singapore, including Marina Bay. 
+**Dr Cheong Koon Hean** is the CEO of the Housing & Development Board since 2010. She oversees 1 million public housing flats and leads the development of well designed, community-centric, sustainable and smart towns. She was the CEO of the Urban Redevelopment Authority from 2004 to 2010, in charge of strategic land use planning, conservation of built heritage, promotion of design excellence and the real estate market. She was credited with major urban transformations of Singapore, including Marina Bay. 
 
 Dr Cheong is currently on the Boards of HDB, NUS, and the Civil Service College. Active internationally, she is a member of the World Economic Forum’s Real Estate and Urbanisation Global Agenda Council, the Deputy President of the International Federation for Housing and Planning, and a nominating committee member of the Lee Kuan Yew World City Prize.
 
