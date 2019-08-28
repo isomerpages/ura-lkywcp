@@ -69,7 +69,9 @@ In detail, 133 urban regeneration projects are being carried out actively throug
 
 Also, Sewoon Shopping Centre, which had been the centre of urban manufacturing industries in the modernisation period in the 70s and 80s, faced the risk of being demolished but, through urban regeneration, was reborn as an innovation base of the fourth industrial revolution. 
 
-Such changes in Seoul’s urban policies have not only spread throughout the city but also have been applied as one of the central policies of the nation, and is firmly believed to be a “new urban regeneration model” for Asian cities that are about to become advanced countries through global exchanges beyond domestic markets. **<font color="#967942">O</font>** <br>
+Such changes in Seoul’s urban policies have not only spread throughout the city but also have been applied as one of the central policies of the nation, and is firmly believed to be a “new urban regeneration model” for Asian cities that are about to become advanced countries through global exchanges beyond domestic markets. **<font color="#967942">O</font>** 
+
+<br>
 
 <div style="width:150px"><img src="/images/features/2019/hee-seon-jin.png" alt="Hee Seon Jin" /></div>
 
