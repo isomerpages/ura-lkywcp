@@ -55,7 +55,9 @@ Another initiative is the Planning Review Panel (PRP), the first of its kind in 
 
 Both PIPs and the PRP were initiated during Jennifer’s tenure as Chief City Planner, and it’s what she says excites and motivates her most about her work. “I’m engaged every day in collaborating with people who believe that we can, through the design of our cities, overcome some of the greatest challenges of our time.” **<font color="#967942">O</font>**
 
-<br><div style="width:150px"><img src="/images/features/2019/jennifer-keesmaat.jpg" alt="Jennifer Keesmaat" /></div>
+<br>
+
+<div style="width:150px"><img src="/images/features/2019/jennifer-keesmaat.jpg" alt="Jennifer Keesmaat" /></div>
 
 | **Jennifer Keesmaat** |
 |:---|
