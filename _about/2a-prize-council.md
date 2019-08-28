@@ -21,23 +21,23 @@ third_nav_title: Prize Jury
 <tbody>
 <tr>
 <td style="width: 150px;"><br><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /><br></td>
-<td><strong>Mr Flemming Borre<br>skov</strong><br />President<br />Catalytic Society<br />Denmark</td>
+<td><br><strong>Mr Flemming Borre<br>skov</strong><br />President<br />Catalytic Society<br />Denmark</td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/chan-heng-chee.jpg" alt="Chan Heng Chee" /><br></td>
-<td><strong>Ambassador Chan Heng Chee</strong><br />Chairman<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore</td>
+<td><br><strong>Ambassador Chan Heng Chee</strong><br />Chairman<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore</td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/helen-clark.jpg" alt="Helen Clark" /><br></td>
-<td><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand</td>
+<td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand</td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/park-won-soon.png" alt="Park Won-soon" /><br></td>
-<td><strong>Mr Park Won-soon</strong><br />Mayor<br />Seoul<br />Republic of Korea</td>
+<td><br><strong>Mr Park Won-soon</strong><br />Mayor<br />Seoul<br />Republic of Korea</td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/ilmar-reepalu.jpg" alt="Ilmar Reepalu" /><br></td>
-<td><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden</td>
+<td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden</td>
 </tr> 
 </tbody>
 </table>
