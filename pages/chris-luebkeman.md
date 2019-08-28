@@ -1,6 +1,6 @@
 ---
 title: Biography - Chris Luebkeman
-permalink: /about/prize-jury/prize-council/chris-luebkeman/
+permalink: /about/prize-jury/nominating-committee/chris-luebkeman/
 ---
 
 <div style="width:150px"><img src="/images/jury/chris-luebkeman.jpg" alt="Chris Luebkeman" /></div>
