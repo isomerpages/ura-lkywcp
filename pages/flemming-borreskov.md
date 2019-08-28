@@ -25,4 +25,4 @@ Flemming Borreskov holds a number of Danish board positions as well as various i
 - Special Advisor to International Federation for Housing and Planning
 - Initiator of the Strategic Urban Governance Masterclass Program for Danish Urban Executives
 
-Flemming Borreskov holds a MSc in Economics from Copenhagen University.
+Flemming Borreskov holds a MSc in Economics from Copenhagen University. **<font color="#967942">O</font>**
