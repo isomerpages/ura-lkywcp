@@ -6,19 +6,27 @@ third_nav_title: Prize Jury
 
 #### **Chairman of the Nominating Committee 2020**
 
-<div style="width:150px"><img src="/images/jury/cheong-koon-hean.jpg" alt="Cheong Koon Hean" /></div>
-
-**Dr Cheong Koon Hean**<br>
-Chief Executive Officer, Housing & Development Board, Singapore<br>
-[Biography](/about/prize-jury/prize-council/peter-ho/)
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="/images/jury/cheong-koon-hean.jpg" alt="Cheong Koon Hean" /></td>
+<td><strong>Dr Cheong Koon Hean</strong><br />Chief Executive Officer<br />Housing & Development Board<br />Singapore</td>
+</tr>
+</tbody>
+</table>
 
 #### **Members of the Nominating Committee 2020**
 
-<div style="width:150px"><img src="/images/jury/wulf-daseking.jpg" alt="Wulf Daseking" /></div>
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="/images/jury/wulf-daseking.jpg" alt="Wulf Daseking" /></td>
+<td><strong>Prof Wulf Daseking</strong><br />Professor<br />University of Freiburg<br />Germany</td>
+</tr>
+</tbody>
+</table>
 
-**Prof Wulf Daseking**<br> 
-Professor, University of Freiburg, Germany<br>
-[Biography](www.google.com)
+
 
 <div style="width:150px"><img src="/images/jury/lim-eng-hwee.jpeg" alt="Lim Eng Hwee" /></div>
 
