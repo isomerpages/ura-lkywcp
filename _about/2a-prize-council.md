@@ -20,8 +20,8 @@ third_nav_title: Prize Jury
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><br><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /><br></td>
-<td><br><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark</td>
+<td style="width: 150px;"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /><br></td>
+<td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark</td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/chan-heng-chee.jpg" alt="Chan Heng Chee" /><br></td>
