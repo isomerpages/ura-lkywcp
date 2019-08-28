@@ -80,6 +80,8 @@ description: his urban regeneration project that spanned some 14 years saw the d
 </tbody>
 </table>
 
+<br>
+
 - The Bilbao effect or Guggenheim effect – it is not just about achieving urban transformation, economic and social vibrancy through a few iconic buildings. Rather, it is about a strong leadership and a commitment to a systematic and long term plan, based on solid processes and supporting infrastructure.
 - Strong boost for tourist sector since the inauguration of Guggenheim Museum in 1997, attracting an average of 1 million visitors per year since its opening.
 - Airport passengers increased from 1.4 million in 1994 to 3.8 million in 2005.
