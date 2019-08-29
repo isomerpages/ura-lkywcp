@@ -21,7 +21,8 @@ Armed with fresh ideas and new technologies, many cities are remaking their tran
 
 > “Armed with fresh ideas and new technologies, many cities are remaking their transportation infrastructure, systems and policies to favour cleaner and more efficient mobility methods such as walking, cycling, public transit and other shared vehicles.”
 
-Redesigning streets for people, not cars 
+#### **Redesigning streets for people, not cars** 
+
 Like many other cities, Barcelona is already heavily built-up, leaving little room for new transport solutions that require plenty of space. Undeterred, the government has revived an idea first mooted in the city in the early 1990s: “superblocks” that would each push most of the vehicular traffic within a grid of nine existing buildings to its perimeter, freeing up the streets within for wider sidewalks, bicycle lanes and community spaces such as parks, plazas and playgrounds. 
 
 When researchers studied one of the three older superblocks built in the 1990s, they found that car traffic in the surrounding neighbourhood had fallen by about 15 percent, while walking and cycling were up by 10 percent and 30 percent respectively. Since 2016, the city has created two more superblocks, in the Poblenou and Sant Antoni districts, and many more are in the works. While there was some opposition to the Poblenou superblock in the beginning, “many of the people who were against it are now happy with it,” said Ms Sílvia Casorrán of the Poblenou Neighbours Association. 
@@ -32,7 +33,8 @@ On the other side of the world, the city of Hamburg in Germany is carrying out a
 
 ![People and tram near the Oslo City Hall](/images/features/2019/oslo-city-hall.jpg/)*People and tram near the Oslo City Hall. Photo: ojimorena © 123rf.com*
 
-Public transport at your command 
+#### **Public transport at your command** 
+
 While walking and cycling are the most sustainable and healthiest forms of transport in any city, public buses and trains are needed too for longer journeys. Many cities, including Sydney in Australia and Belleville in Ontario, Canada, are using new technologies such as smartphone applications and artificial intelligence to improve their public transit systems and make them more appealing to commuters who may otherwise opt for private vehicles. 
 
 In Sydney, the government has been trialling on-demand public buses in different parts of the city, with an eye to reducing private car use, helping residents with mobility issues and solving the first-and-last-mile problem. Commuters can book the buses to transport them from their homes or nearby locations to local transport hubs and other destinations. Mr Victor Dominello, who represents Sydney’s Ryde district, said: “The service will encourage more people out of their cars and onto public transport.”
@@ -43,7 +45,8 @@ Data analytics also plays a key role in Singapore’s ground-breaking “Beeline
 
 > “Many cities are using new technologies such as smartphone applications and artificial intelligence to improve their public transit systems and make them more appealing to commuters who may otherwise opt for private vehicles.”
 
-Start young for success 
+#### **Start young for success** 
+
 Beyond infrastructural innovations, some cities are also using policy interventions to nudge residents towards walking, cycling, personal mobility devices and public transport. In Curitiba, Brazil, citizens can trade their trash for bus tokens and food at recycling centres, helping the government to achieve two social goals at once. Since the government introduced the exchange programme, the city’s recycling rate has risen to about 70 percent, and about 85 percent of its citizens use the public bus system. 
 
 The city of Kingston in Ontario, Canada, for its part, has found extraordinary success with its Transit High School Bus Pass Project, which emphasises early education about public transport. Each year, government officials take new high school students on a public bus ride to teach them about transfers, proper etiquette on the buses and other important information about the city’s public transit system. The students are also given a free bus pass at the end of the orientation. After the project was started in 2012, the city’s bus ridership soared by more than 70 percent within five years, and the Federation of Canadian Municipalities is now exploring ways to replicate the programme in other cities. 
