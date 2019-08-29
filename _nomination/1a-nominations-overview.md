@@ -8,20 +8,10 @@ third_nav_title: Nomination Guidelines
 
 The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for the Prize is in 2 stages as follows: 
 
-| Stage A Nomination |
-|:---|
-| Submission of nomination and recommendation letter by the nominator |
-| [More info](nomination/guidelines/stage-a) |
-
-| Stage B Submission |
-|:---|
-| Submission of detailed report by the city |
-| [More info](nomination/guidelines/stage-b) |
-
-| Stage | Item | Closing Date |
-|:---:|:---|:---|:---|
-| [A](/nomination/guidelines/stage-a/) | Submission of nomination and recommendation letter by the nominator | Closed |
-| [B](/nomination/guidelines/stage-b/) | Submission of detailed report by the city | Closed |
+| Stage A Nomination | Stage B Submission |
+|:---|:---|
+| Submission of nomination and recommendation letter by the nominator | Submission of detailed report by the city |
+| [More info](nomination/guidelines/stage-a) | [More info](nomination/guidelines/stage-b) |
 
 #### **Read me first**
 
