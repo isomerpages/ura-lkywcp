@@ -4,7 +4,7 @@ permalink: /about/prize-jury/nominating-committee
 third_nav_title: Prize Jury
 ---
 
-#### **Chairman of the Nominating Committee 2020**
+#### **Chairman**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
@@ -15,7 +15,7 @@ third_nav_title: Prize Jury
 </tbody>
 </table>
 
-#### **Members of the Nominating Committee 2020**
+#### **Members**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
