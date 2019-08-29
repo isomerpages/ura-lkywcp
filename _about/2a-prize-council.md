@@ -9,7 +9,7 @@ third_nav_title: Prize Jury
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></td>
+<td style="width: 100px;"><img src="/images/jury/peter-ho.jpg" alt="Peter Ho" /></td>
 <td><strong>Mr Peter Ho</strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/about/prize-jury/prize-council/peter-ho/">Biography</a></td>
 </tr>
 </tbody>
@@ -20,7 +20,7 @@ third_nav_title: Prize Jury
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /><br></td>
+<td style="width: 100px;"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /><br></td>
 <td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Biography</a></td>
 </tr>
 <tr>
