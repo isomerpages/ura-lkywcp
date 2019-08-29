@@ -27,8 +27,8 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for
 </tr>
 <tr>
 <td style="width: 20%; text-align: left; vertical-align: top;"><b>More info</b></td>
-<td style="width: 40%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-a">More info</a></td>
-<td style="width: 40%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-b">More info</a></td>
+<td style="width: 40%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-a">Click here</a></td>
+<td style="width: 40%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-b">Click here</a></td>
 </tr>
 </tbody>
 </table>
