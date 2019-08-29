@@ -74,8 +74,6 @@ Another important aspect is to start with easier and lower-cost activities first
 | 1 | Pedestrian figures are based on research by Mitsubishi Estate on pedestrian traffic from 10:00 a.m. to 8:00 p.m. in 10 locations in the Marunouchi and Yurakucho areas. Retrieved from OMY Area Management Association publication, p4. |
 | 2 | Figures are calculated by the Council for Area Development and Management and the Advisory Committee using the economic census; data is as of April 2017. Retrieved from OMY Area Management Association publication, p3. |
 
-<br>
-
 <div style="width:150px"><img src="/images/features/2019/miki-yasui.jpg" alt="Miki Yasui" /></div>
 
 | **Dr Miki Yasui** |
@@ -87,7 +85,5 @@ Another important aspect is to start with easier and lower-cost activities first
 | **Hiroaki Fujii** |
 |:---|
 | Hiroaki Fujii is the General Manager of the Area Management Promotion Office under the Urban Development Promotion Department in Mitsubishi Estate Co. Ltd. He is also the executive officer of the OMY Area Management Association and the Japan Area Management Network. |
-
-<br>
 
 ###### *This article was first published in Skyline Issue 11, 2019, March 2019 © Urban Redevelopment Authority. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
