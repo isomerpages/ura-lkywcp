@@ -11,16 +11,24 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for
 <table style="width: 100%;">
 <tbody>
 <tr>
-  <td style="width: 50%; text-align: left; vertical-align: top;"><b>Stage A Nomination</b></td>
-<td style="width: 50%; text-align: left; vertical-align: top;"><b>Stage B Submission</b></td>
+<td style="width: 20%; text-align: left; vertical-align: top;"><b>Stage</b></td>
+<td style="width: 40%; text-align: left; vertical-align: top;"><b>Stage A Nomination</b></td>
+<td style="width: 40%; text-align: left; vertical-align: top;"><b>Stage B Submission</b></td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: left; vertical-align: top;">Submission of nomination and recommendation letter by the nominator</td>
-<td style="width: 50%; text-align: left; vertical-align: top;">Submission of detailed report by the nominated city</td>
+<td style="width: 20%; text-align: left; vertical-align: top;"><b>Detail</b></td>
+<td style="width: 40%; text-align: left; vertical-align: top;">Submission of nomination and recommendation letter by the nominator</td>
+<td style="width: 40%; text-align: left; vertical-align: top;">Submission of detailed report by the nominated city</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-a">More info</a></td>
-<td style="width: 50%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-b">More info</a></td>
+<td style="width: 20%; text-align: left; vertical-align: top;"><b>Closing date</b></td>
+<td style="width: 40%; text-align: left; vertical-align: top;">Closed</td>
+<td style="width: 40%; text-align: left; vertical-align: top;">Closed</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: left; vertical-align: top;"><b>More info</b></td>
+<td style="width: 40%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-a">More info</a></td>
+<td style="width: 40%; text-align: left; vertical-align: top;"><a href="/nomination/guidelines/stage-b">More info</a></td>
 </tr>
 </tbody>
 </table>
