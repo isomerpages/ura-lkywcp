@@ -36,7 +36,7 @@ third_nav_title: Prize Jury
 <td><br><strong>Prof Marilyn Jordan Taylor</strong><br />Professor, Former Dean<br />School of Design, University of Pennsylvania<br />USA<br><a href="/about/prize-jury/nominating-committee/marilyn-taylor/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/wong-mun-summ-gold.png" alt="Wong Mun Summ" /><br></td>
+<td><br><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /><br></td>
 <td><br><strong>Mr Wong Mun Summ</strong><br />Director<br />WOHA Architects<br />Singapore<br><a href="/about/prize-jury/nominating-committee/wong-mun-summ/">Biography</a></td>
 </tr>
 </tbody>
