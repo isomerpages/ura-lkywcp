@@ -62,3 +62,5 @@ Both PIPs and the PRP were initiated during Jennifer’s tenure as Chief City Pl
 | **Jennifer Keesmaat** |
 |:---|
 | As the former Chief Planner for the City of Toronto, Jennifer Keesmaat creates places where people flourish. Over the past decade, she has been recognised by institutes such as the Canadian Institute of Planners and the Ontario Professional Planners Institute for her work in municipalities across Canada with a variety of awards for planning excellence. Her work is focused on the creation of complete communities, the facilitation of collaboration across sectors and engagement with residents, municipal staff, business leaders and other stakeholders. |
+
+###### *This article was first published in Skyline Issue 10, 2019 © Urban Redevelopment Authority. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
