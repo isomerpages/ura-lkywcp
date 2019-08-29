@@ -80,13 +80,13 @@ Another important aspect is to start with easier and lower-cost activities first
 
 <br>
 
-<div style="width:100px"><img src="/images/features/2019/miki-yasui.jpg" alt="Miki Yasui" /></div>
+<div style="width:150px"><img src="/images/features/2019/miki-yasui.png" alt="Miki Yasui" /></div>
 
 | **Dr Miki Yasui** |
 |:---|
 | Dr Miki Yasui is a professor at the Hosei University. She is also the Vice-Chair of the Japan Area Management Network and Board Member of the IDA International Downtown Association. Her interests are in community management, urban governance and public private partnership in shaping and developing public spaces. |
 
-<div style="width:100px"><img src="/images/features/2019/hiroaki-fujii.jpg" alt="Hiroaki Fujii" /></div>
+<div style="width:150px"><img src="/images/features/2019/hiroaki-fujii.png" alt="Hiroaki Fujii" /></div>
 
 | **Hiroaki Fujii** |
 |:---|
