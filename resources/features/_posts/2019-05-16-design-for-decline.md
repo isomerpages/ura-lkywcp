@@ -9,7 +9,7 @@ description: In several countries across the world, the woes of urbanisation are
 |---:|
 | Feng Zengkun |
 
-***In several countries across the world, the woes of urbanisation are going hand-in-hand with a much less documented challenge: the problem of cities shrinking due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure that is too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries and trying other strategies.***
+***In some countries, the woes of urbanisation go hand-in-hand with a much less documented challenge: shrinking cities due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure that is too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries and trying other strategies.***
 
 ![The city of Toyama in Japan](/images/features/2019/toyama-japan.jpg/)*The city of Toyama in Japan. Photo: Sean Pavone©123rf.com*
 
