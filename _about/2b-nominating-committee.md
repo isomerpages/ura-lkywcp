@@ -9,7 +9,7 @@ third_nav_title: Prize Jury
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/cheong-koon-hean.jpg" alt="Cheong Koon Hean" /></td>
+<td style="width: 150px;"><img src="/images/jury/cheong-koon-hean.png" alt="Cheong Koon Hean" /></td>
 <td><strong>Dr Cheong Koon Hean</strong><br />Chief Executive Officer<br />Housing & Development Board<br />Singapore<br><a href="/about/prize-jury/nominating-committee/cheong-koon-hean/">Biography</a></td>
 </tr>
 </tbody>
