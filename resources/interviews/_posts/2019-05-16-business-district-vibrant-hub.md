@@ -5,6 +5,10 @@ image: /images/features/2019/marunouchi-urban-terrace.jpg
 description: In the last 20 years, the Otemachi-Marunouchi-Yurakucho (OMY) district in Tokyo, a prime business area, has transformed from a suit-and-tie office environment into a vibrant and lively hub that attracts people even during the weekends. Dr Miki Yasui, Vice-Chair of the Japan Area Management Network and Hiroaki Fujii from Mitsubishi Estate leading the OMY Area Management Association reflect on lessons learnt in the transformation of OMY district and how other areas in Japan are also catching on.
 ---
 
+| Author |
+|---:|
+| Serene Tng |
+
 ***In the last 20 years, the Otemachi-Marunouchi-Yurakucho (OMY) district in Tokyo, a prime business area, has transformed from a suit-and-tie office environment into a vibrant and lively hub that attracts people even during the weekends. Dr Miki Yasui, Vice-Chair of the Japan Area Management Network and Hiroaki Fujii from Mitsubishi Estate leading the OMY Area Management Association reflect on lessons learnt in the transformation of OMY district and how other areas in Japan are also catching on.***
 
 ![Marunouchi Naka-dori Avenue](/images/features/2019/marunouchi-urban-terrace.jpg/)*Workers and visitors enjoying the Marunouchi Naka-dori Avenue that runs through the centre of the OMY district. It has been closed for traffic from 2017. © OMY Area Management Association*
