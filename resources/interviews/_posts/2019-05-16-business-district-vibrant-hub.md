@@ -69,6 +69,11 @@ Another important aspect is to start with easier and lower-cost activities first
 
 **HF:** I hope that through place-making efforts, more of the city centre and local areas can be further connected to bring greater vitality to each of these areas. I would also like to involve more workers in place-making activities for the OMY district, to reflect more of their views in planning future events and programmes. **<font color="#967942">O</font>** 
 
+| Notes |
+|:---|
+| 1 | Pedestrian figures are based on research by Mitsubishi Estate on pedestrian traffic from 10:00 a.m. to 8:00 p.m. in 10 locations in the Marunouchi and Yurakucho areas. Retrieved from OMY Area Management Association publication, p4. |
+| 2 | Figures are calculated by the Council for Area Development and Management and the Advisory Committee using the economic census; data is as of April 2017. Retrieved from OMY Area Management Association publication, p3. |
+
 <br>
 
 <div style="width:150px"><img src="/images/features/2019/miki-yasui.jpg" alt="Miki Yasui" /></div>
@@ -85,8 +90,4 @@ Another important aspect is to start with easier and lower-cost activities first
 
 <br>
 
-| Notes |
-|:---|
-| This article was first published in Skyline Issue 11, 2019, March 2019 © Urban Redevelopment Authority. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).* |
-| 1 Pedestrian figures are based on research by Mitsubishi Estate on pedestrian traffic from 10:00 a.m. to 8:00 p.m. in 10 locations in the Marunouchi and Yurakucho areas. Retrieved from OMY Area Management Association publication, p4. |
-| 2 Figures are calculated by the Council for Area Development and Management and the Advisory Committee using the economic census; data is as of April 2017. Retrieved from OMY Area Management Association publication, p3. |
+###### *This article was first published in Skyline Issue 11, 2019, March 2019 © Urban Redevelopment Authority. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
