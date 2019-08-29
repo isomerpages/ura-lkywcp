@@ -88,5 +88,5 @@ Another important aspect is to start with easier and lower-cost activities first
 | Notes |
 |:---|
 | This article was first published in Skyline Issue 11, 2019, March 2019 © Urban Redevelopment Authority. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).* |
-| 1 | Pedestrian figures are based on research by Mitsubishi Estate on pedestrian traffic from 10:00 a.m. to 8:00 p.m. in 10 locations in the Marunouchi and Yurakucho areas. Retrieved from OMY Area Management Association publication, p4. |
-| 2 | Figures are calculated by the Council for Area Development and Management and the Advisory Committee using the economic census; data is as of April 2017. Retrieved from OMY Area Management Association publication, p3. |
+| 1 Pedestrian figures are based on research by Mitsubishi Estate on pedestrian traffic from 10:00 a.m. to 8:00 p.m. in 10 locations in the Marunouchi and Yurakucho areas. Retrieved from OMY Area Management Association publication, p4. |
+| 2 Figures are calculated by the Council for Area Development and Management and the Advisory Committee using the economic census; data is as of April 2017. Retrieved from OMY Area Management Association publication, p3. |
