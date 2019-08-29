@@ -9,72 +9,76 @@ description: In the last 20 years, the Otemachi-Marunouchi-Yurakucho (OMY) distr
 
 ![Marunouchi Naka-dori Avenue](/images/features/2019/marunouchi-urban-terrace.jpg/)*Workers and visitors enjoying the Marunouchi Naka-dori Avenue that runs through the centre of the OMY district. It has been closed for traffic from 2017. © OMY Area Management Association*
 
-#### **Why is urban regeneration important to the city of Seoul?**
+In the last 20 years, the Otemachi-Marunouchi-Yurakucho (OMY) district in Tokyo, a prime business area, has transformed from a suit-and-tie office environment into a vibrant and lively hub that attracts people even during the weekends. Behind the change is a strong public-private partnership based on a shared vision. 
 
-**Hee Seon Jin (HSJ):** Seoul is a historic city of coexistence that possesses remains of an ancient city from 2,000 years ago and a 600-year-old medieval capital. Though a majority of the city was destroyed during the Korean War in 1950, it went through rapid restoration, also known as the "Miracle on the Hangang Riverside", in the midst of an industrialisation process. 
+Place-making efforts for the area took off from 2002 with the formation of the OMY Area Management Association, led by developer and land owner Mitsubishi Estate Co. Ltd which owns one third of the OMY area. This was set up against a backdrop of urban renewal efforts for the district and with an already growing private sector involvement through other groups (for example, the Council for Area Development and Management and the Advisory Committee on the OMY Area Development) that have shaped planning principles and guidelines for the area. 
 
-The population, which was just 3,420,000 in 1964, increased by more than four times and 2 million houses were constructed to solve the shortage of housing. In fact, 95% of Seoul's current area has been built within the last 50 years. 
+As a result of both renewal and place-making efforts, the number of retail shops has increased from 280 in 2002 to 870 in 2017. More are also visiting the district. In the weekends, pedestrian figures have more than doubled from about 23,250 in 2002 to 57,276 in 2016.1 
 
-As side effects of such rapid industrialisation, however, old streets and alleys disappeared and modern skyscrapers brought slumming of antique spaces as only business values were sought without an overall planning of the infrastructure. 
+Dr Miki Yasui, Vice-Chair of the Japan Area Management Network and Hiroaki Fujii from Mitsubishi Estate leading the OMY Area Management Association reflect on lessons learnt and how other areas in Japan are also catching on. 
 
-Also, an explosive rise in housing prices in newly developed areas has led to instability in citizens' living situations and gentrification of natives, presenting the two extremes sides of development through which local history and communities were painfully disbanded. 
+> “In many cities, there may be 60 or 70 per cent of buildings that are more than 50 years old. We need to make cities younger again. One of the ways to do this is through rejuvenation.”
 
-Amidst such a process of change, as the world entered the "age of low growth" in the aftermath of the 2008 global financial crisis, quantitative expansion of development-oriented cities reached its limit and the global trend shifted to qualitative growth of sustainable cities. 
+#### **Why are cities focusing more on rejuvenation?**
 
-A city that has carried out remarkable economic growth and thus been a model for developing countries in Asia, Seoul also changed the basic direction of its urban policies from "urban development" to "urban regeneration" in 2013 according to the changing trends and, based on mature citizenship, it innovatively converted its political direction to "Seoulistic urban regeneration" that nurtures and develops a city that "citizens" desire by the "citizens" themselves. It was an astounding conversion for Seoul, which had been well used to urban development. 
+**Dr Miki Yasui (MY):** Many buildings were built around the 1940s to 1970s. It’s not only in Tokyo but in other cities as well. In many cities, there may be 60 or 70 per cent of buildings that are more than 50 years old. We need to make cities younger again. One of the ways to do this is through rejuvenation. 
 
-Going beyond the top-down method of the past, the essence of Seoul's urban regeneration policies lies in the residents who serve as the main body in the entire process from planning to execution in order to revive the identity of a region, properly combine hardware (development, repair, preservation) and software (economy, culture, welfare), and implement these in collaboration with public and private governance. 
+Beyond just renovating the older buildings, we can use existing resources. For example, a street can be converted into a plaza that people can relax in or socialise with friends. Vacant houses in local areas can be repurposed. This is happening everywhere in Japan. Schemes are being developed to enable entrepreneurs or residents to use old facilities or public spaces such as parks and streets for various activities. All these contribute to the rejuvenation of the city. 
 
-#### **How does Seoul determine the areas for regeneration? What are the criteria?** 
+#### **What are some shifts you have observed in recent renewal efforts?** 
 
-**HSJ:** The essence of "Seoulistic urban regeneration" is gradual expansion of areas for regeneration according to the level of maturity in a region's competency through formation of residents' consensus and reinforcement of the promoters' capabilities prior to designation of urban regeneration areas. 
+**MY:** There is a lot more dialogue and interest in the importance of urban renewal efforts in contributing to the economy and society. More and more developers and property owners are also seeing the value in helping to make their surrounding areas more attractive, recognising that this also enhances their own individual developments. 
 
-In detail, 10 residents of a region that desires urban regeneration gather to conduct various activities such as workshops and resident meetings to think about local issues and find solutions themselves. 
+The value of the building and the immediate area correlates with each other. Taking public contributions more seriously, we are seeing developers and companies keen to collaborate with workers or residents to ensure the long term viability and sustainability of areas. 
 
-In the progress of such activities, regions that show excellent performance are selected as urban regeneration areas and actively promote urban regeneration projects. 
+![Marunouchi before and after](/images/features/2019/marunouchi-before-after.jpg/)*The Marunouchi area in the OMY district in the past and today, turning from an office environment into a lively, vibrant mixed-use area. © Tokyo Metropolitan Government*
 
-When selecting urban regeneration areas among the resident competency reinforcement regions, a selection committee consisting of external specialists in the private sector is formed and a review is conducted in a fair manner by obtaining impartiality and legitimacy on additional selection of vitalisation regions. 
+#### **How has the OMY district evolved and what has contributed to the change?** 
 
-Even if a region is not selected as an urban regeneration area, an additional reserve stage is installed to continuously strengthen the residents' capabilities and can be selected as regeneration areas in the future once their competency reaches maturity. 
+**Hiroaki Fujii (HF):** The OMY district is located between the Tokyo Central Station and the Imperial Palace. It is at the very centre of Tokyo and Japan. Within a site area of 120 hectares, there are more than 100 buildings. 4,300 companies are located here with 280,000 workers2. It used to be an area that was mainly used for offices. But in the last 20 years, the area has changed to a more mixed-use district. Today, you can see lots of shops, cafés, restaurants, hotels, museums, fitness clubs — all kinds of facilities are available and many activities can be seen too. 
 
-#### **When restoring the Sewoon Shopping Centre, which issues did Seoul face and how did Seoul overcome them?** 
+What has contributed to these changes is a shared vision for the district developed together between the public and private sectors. The vision also considers both the hardware and software of the city. It is not just about making a plan for the redevelopment of buildings but the plan has to also include the operational aspects in terms of how to generate and sustain vibrancy in the area. 
 
-**HSJ:** Sewoon Shopping Centre is situated in the historic centre of Seoul where the decline of Seoul's old town due to continuous changes in the urban structure may be seen, from war damage restoration in the 1950s and development and growth between the 1960s and 1970s to development of up-and-coming regions after the 1980s. 
+#### **How do you sustain the vibrancy of the district?** 
 
-Centred on the seven building groups (multi-purpose buildings) constructed sequentially from 1967 to 1972, the surrounding area of Sewoon Shopping Centre grew as the hub commercial district of Seoul and the mecca of downtown industries such as electricity and electronics up to the 1980s; however, the commercial district soon faced an accelerated decline to have become one of the city's most underdeveloped regions concentrated with outdated machines and facilities as well as many small manufacturing companies in printing, metal, machinery, lighting and electricity industries. 
+**HF:** Frequency and variety of events and activities are important. Working around the four seasons we have in Japan, we plan special programmes for each season. We are mindful of planning activities around where people walk, to entice them to want to linger longer in the area as they move from one point to another. 
 
-In the process of Seoul's rapid policy changes, the area surrounding Sewoon Shopping Centre has experienced a number of ups-and-downs, including a near-demolition. In line of the trend for development in 2009 to increase the value of real estate, the plan to establish a broad north-south green axis, demolish and redevelop the surrounding region was finalised but it was soon faced with various social problems such as the destruction of homes and workplaces of existing small traders and store owners, and subsequent conflicts among residents. 
+We also look at the volume of retail required to attract people. When we redeveloped the Marunouchi building, we planned for a critical mass of retailers, but we also changed the use from a bank to cafés and restaurants along the street to create a livelier atmosphere. 
 
-![The rejuvenated Sewoon Shopping Centre](/images/features/2019/sewoon-shopping-centre.jpg/)*The rejuvenated Sewoon Shopping Centre © Urban Redevelopment Authority Singapore*
+![Marunouchi today](/images/features/2019/marunouchi-today.jpg/)*Lushly planted sidewalks, ample seating places and shops create a casual environment in the Marunouchi area. © Urban Redevelopment Authority Singapore*
 
-As the construction business continued to shrink and the real estate market went into a recession, the need and duty to maintain the urban industrial ecosystem, respect the value of historic and cultural downtown, and reduce excessive burden on the residents reached a consensus and, therefore, the plan switched from the previous complete demolition and redevelopment to a sustainable urban regeneration in June 2013. 
+#### **What is one unexpected thing you did in your place-making efforts?**
 
-However, the urban regeneration projects faced many difficulties in the beginning as residents lacked not only understanding of urban regeneration but also trust in the city's policies. 
+**HF:** As part of our place-making efforts, we set up tables and chairs on the streets every day and organise many kinds of events mainly during the weekends. For us to even do these things meaningfully, we had to first look at the guidelines for utilising public spaces. We volunteered to draft the guidelines and this was eventually authorised by the government. It was a rewarding experience being able to contribute to shaping how public spaces can be used. 
 
-Seoul needed the efforts from administrative and field activists to turn back the hearts of the residents and, under the principle that “urban regeneration must be carried out by collaborating with the residents and be centred on field administration”, started by listening to the opinions of the residents. 
+#### **What contributes to successful place-making for an area?** 
 
-Also, residents, experts and Seoul city administrators put their heads together day and night to devise a plan and determine execution for an urban regeneration of Sewoon Shopping Centre that would satisfy everyone, Sewoon Shopping Centre was gradually transformed by fulfilling commitments made with residents and overcoming difficulties despite voices of concern over the course of the project, which ultimately led to the successful launch of the Sewoon Again Project on September 19, 2017. 
+**MY:** Place-making efforts should focus on building social capital in terms of creating strong relationships within place management associations and with stakeholders and residents. This is important if we want to ensure the success of plans and activities for the area. Place management groups need to create conducive platforms for meaningful and open dialogue and communication in charting the vision and plans for the area. 
 
-As the hub of 7,000 companies and more than 20,000 engineers, Sewoon Shopping Centre is changing into an innovation base to lead the revival of the urban manufacturing industry in this age of the fourth industrial revolution, and young people with new technology and creative ideas head over to Sewoon Shopping Centre through the Sewoon Again Project through which such creativity of the youth, know-how of technical masters and future technology of new industries are connected to ultimately establish the “Sewoon Platform” and lead the fourth industrial revolution. To operate a variety of programmes such as this, continuous discussions and attempts are being processed. 
+Another important aspect is to start with easier and lower-cost activities first. In the past, we worked really hard to develop visions for areas but sometimes, these can be too daunting and challenging to implement. It is more effective to focus on smaller and simpler activities first in the shorter term, while we keep our eye on fulfilling the larger vision in the long run. So it’s really a step-by-step process. Maybe in the first year, we organise a street party for a day and in the second year, we can stretch it to 10 days and so on. 
 
-Residents sign coexistence agreements themselves and operate a residents’ committee for urban regeneration to autonomously and voluntarily plan and implement the urban regeneration projects. The projects that began from administration are now being carried out by the residents who have protected and will continue to develop the region. 
+**HF:** Pilot programmes, social experiments and trials are certainly effective. As a result of us implementing some social experiments, many have become more aligned to the visions and plans for the area. Having a strong leader to drive the place-making efforts is also important. 
 
-> “Going beyond the top-down method of the past, the essence of Seoul's urban regeneration policies lies in the residents who serve as the main body in the entire process from planning to execution in order to revive the identity of a region, properly combine hardware and software, and implement these in collaboration with public and private governance.”
+![Marunouchi Summer Festival](/images/features/2019/marunouchi-summer-festival.jpg/)*The hallmark of summer in the OMY district is the Summer Festival. © OMY Area Management Association*
 
-#### **Is Seoul considering urban regeneration in other regions? If yes, what is the importance of regenerating those regions?**
+#### **Besides the OMY district, where else is place-making taking place?**
 
-**HSJ:** For 7 years since urban regeneration was first promoted, things that had been believed to be impossible in Korea began to take place for change. 
+**MY:** We are seeing more of such efforts taking place in mixed-use residential areas where there are high-rise residential buildings. In such areas, the local residents may not have any relationship with the community or local government but are attracted to the interesting events going on. They may initially volunteer at various events and gradually get more involved. 
 
-In detail, 133 urban regeneration projects are being carried out actively throughout Seoul, and an old overpass that had been a path for cars has been transformed into a walking path for people, thus becoming one of the city’s newest landmarks used by 10 million citizens while its impact even influences private development in surrounding regions. 
+#### **What do you hope to see more of in future?** 
 
-Also, Sewoon Shopping Centre, which had been the centre of urban manufacturing industries in the modernisation period in the 70s and 80s, faced the risk of being demolished but, through urban regeneration, was reborn as an innovation base of the fourth industrial revolution. 
-
-Such changes in Seoul’s urban policies have not only spread throughout the city but also have been applied as one of the central policies of the nation, and is firmly believed to be a “new urban regeneration model” for Asian cities that are about to become advanced countries through global exchanges beyond domestic markets. **<font color="#967942">O</font>** 
+**HF:** I hope that through place-making efforts, more of the city centre and local areas can be further connected to bring greater vitality to each of these areas. I would also like to involve more workers in place-making activities for the OMY district, to reflect more of their views in planning future events and programmes. **<font color="#967942">O</font>** 
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2019/hee-seon-jin.png" alt="Hee Seon Jin" /></div>
+<div style="width:150px"><img src="/images/features/2019/miki-yasui.jpg" alt="Miki Yasui" /></div>
 
-| **Hee Seon Jin** |
+| **Dr Miki Yasui** |
 |:---|
-| Hee Seon Jin is Deputy Mayor of Urban Regeneration in Seoul Metropolitan Government. He has been in charge of city planning and urban regeneration in Seoul since 2008, and is currently leading urban regeneration policies. He hopes to make Seoul a sustainable city by means of People Powered urban policies; hence, he has a profound interest in the citizen participation in urban regeneration. He gained master degree at Iowa State University, and Ph.D. degree at Yonsei University both in urban planning. |
+| Dr Miki Yasui is a professor at the Hosei University. She is also the Vice-Chair of the Japan Area Management Network and Board Member of the IDA International Downtown Association. Her interests are in community management, urban governance and public private partnership in shaping and developing public spaces. |
+
+<div style="width:150px"><img src="/images/features/2019/hiroaki-fujii.jpg" alt="Hiroaki Fujii" /></div>
+
+| **Hiroaki Fujii** |
+|:---|
+| Hiroaki Fujii is the General Manager of the Area Management Promotion Office under the Urban Development Promotion Department in Mitsubishi Estate Co. Ltd. He is also the executive officer of the OMY Area Management Association and the Japan Area Management Network. |
