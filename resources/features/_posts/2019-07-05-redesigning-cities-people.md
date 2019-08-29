@@ -57,7 +57,7 @@ Both PIPs and the PRP were initiated during Jennifer’s tenure as Chief City Pl
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2019/jennifer-keesmaat.jpg" alt="Jennifer Keesmaat" /></div>
+<div style="width:150px"><img src="/images/features/2019/jennifer-keesmaat.png" alt="Jennifer Keesmaat" /></div>
 
 | **Jennifer Keesmaat** |
 |:---|
