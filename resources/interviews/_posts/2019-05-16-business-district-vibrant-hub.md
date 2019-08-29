@@ -82,3 +82,5 @@ Another important aspect is to start with easier and lower-cost activities first
 | **Hiroaki Fujii** |
 |:---|
 | Hiroaki Fujii is the General Manager of the Area Management Promotion Office under the Urban Development Promotion Department in Mitsubishi Estate Co. Ltd. He is also the executive officer of the OMY Area Management Association and the Japan Area Management Network. |
+
+###### *This article was first published in Skyline Issue 11, 2019, March 2019 © Urban Redevelopment Authority. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
