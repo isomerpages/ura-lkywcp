@@ -25,5 +25,14 @@ Hamburg’s population is growing and expected to reach 1.9 million by 2030. Pop
 
 ---
 
+#### **HafenCity: more city in the city** 
+
+HafenCity is a redevelopment of a former inner-city brownfield site that radically transformed the underused 157 hectares of harbour and industrial space into a dynamic mixed-use district, while complementing the adjacent Speicherstadt district. It is a demonstration of the city’s focus on densification in the built-up area of the city and utilising inner city space more efficiently rather than building on peripheral areas, following the strategy of “More City in the City”. 
+
+HafenCity is a plan-led urban development and one of its major objectives is the urban mix of housing, workplaces and recreational use on a small scale. It deviates from the old model of dedicated office districts, in that there are no single use buildings and users are ‘forced to meet their neighbours’, leading to cohesion and integration. Like all major urban development projects in Hamburg, new projects in HafenCity consist of three equal parts: one third social housing, one third condominiums, and one third privately funded rental housing. This ensures the right conditions for a good social mix and diverse urban neighbourhoods. 
+
+![Aerial view of HafenCity before redevelopment](/images/features/2019/hafencity-before.jpg/)*Aerial view of HafenCity before redevelopment © City of Hamburg*
+
+
 
 **<font color="#967942">O</font>**
