@@ -33,6 +33,30 @@ HafenCity is a plan-led urban development and one of its major objectives is the
 
 ![Aerial view of HafenCity before redevelopment](/images/features/2019/hafencity-before.jpg/)*Aerial view of HafenCity before redevelopment © City of Hamburg*
 
+![HafenCity today](/images/features/2019/hafencity-today.jpg/)*HafenCity today © www.mediaserver.hamburg.de/Andreas Vallbracht*
+
+![Marco-Polo-Terrassen](/images/features/2019/marco-polo-terrassen.jpg/)*Marco-Polo-Terrassen © Thomas Hampel/EBBE&FLUT*
+
+![Public waterfront showing the diversity of mixed developments](/images/features/2019/hafencity-waterfront.jpg/)*Public waterfront showing the diversity of mixed developments © Thomas Hampel/EBBE&FLUT*
+
+![Office buildings around Sandtorpark](/images/features/2019/hafencity-sandtorpark.jpg/)*Office buildings around Sandtorpark © Thomas Hampel/EBBE&FLUT*
+
+![HafenCity is developed as a city of short distances that promote walking and cycling](/images/features/2019/hafencity-short-distances.jpg/)*HafenCity is developed as a city of short distances that promote walking and cycling © Thomas Hampel/EBBE&FLUT*
+
+![Play spaces for everyone](/images/features/2019/hafencity-play-spaces.jpg/)*Play spaces for everyone © Thomas Hampel/EBBE&FLUT*
+
+![Residential developments that incorporate affordable housing components](/images/features/2019/hafencity-residential.jpg/)*Residential developments that incorporate affordable housing components © Thomas Hampel/EBBE&FLUT*
+
+![Oberhafen – railroad yard as cultural quarter](/images/features/2019/hafencity-oberhafen.jpg/)*Oberhafen – railroad yard as cultural quarter © Thomas Hampel/EBBE&FLUT*
+
+---
+
+#### **A living laboratory of innovative urban solutions** 
+
+After the great storm surge of 1962 that claimed the lives of hundreds of people in Wilhelmsburg in the south of the city – the largest river island in Europe, many residents left the area. In subsequent years this area became a “problem area”. Following a Conference and a policy paper in the 2000s, Hamburg developed the International Building Exhibition (IBA) as a powerful tool to develop and boost the growth of the booming metropolis. 
+
+IBA implemented some 70 innovative projects in the area, many of which are experimental and/or demonstrative in nature, seeking to address the many urban issues that Hamburg and many other cities face today. Similar to that of HafenCity, IBA adopts an integrated holistic approach which is broadly decoupled economically from political budgeting processes. 
+
 
 
 **<font color="#967942">O</font>**
