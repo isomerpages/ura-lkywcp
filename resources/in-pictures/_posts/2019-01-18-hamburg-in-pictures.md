@@ -57,6 +57,12 @@ After the great storm surge of 1962 that claimed the lives of hundreds of people
 
 IBA implemented some 70 innovative projects in the area, many of which are experimental and/or demonstrative in nature, seeking to address the many urban issues that Hamburg and many other cities face today. Similar to that of HafenCity, IBA adopts an integrated holistic approach which is broadly decoupled economically from political budgeting processes. 
 
+![The extent of Wilhelmsburg](/images/features/2019/wilhelmsburg.jpg/)*The extent of Wilhelmsburg © IBA Hamburg GmbH*
+
+![New developments in Wilhelmsburg with access to public transportation](/images/features/2019/wilhelmsburg-new-developments.jpg/)*New developments in Wilhelmsburg with access to public transportation © IBA Hamburg GmbH/Falcon Crest Air*
+
+![Social housing in Wilhelmsburg – before](/images/features/2019/wilhelmsburg-housing-before.jpg/)![Social housing in Wilhelmsburg – after](/images/features/2019/wilhelmsburg-housing-after.jpg/)*Social housing in Wilhelmsburg – before and after showing the interventions to create a more intimate and liveable environment © Johanna Kähler (top), IBA Hamburg GmbH/Martin Kunze (bottom)*
+
 
 
 **<font color="#967942">O</font>**
