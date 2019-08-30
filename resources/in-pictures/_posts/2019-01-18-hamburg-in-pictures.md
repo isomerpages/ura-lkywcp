@@ -77,8 +77,10 @@ An example of such an inclusive planning process is Hamburger Deckel – the dec
 
 When completed, the decks will provide several additional benefits besides protection from traffic noise – enable land along autobahn to be developed; safe crossings for school children; and pedestrian/cycling shortcuts reconnecting previously divided parks.
 
+![Aerial view of the motorway Autobahn A7 in 2016](/images/features/2019/hamburg-a7.jpg/)*Aerial view of the motorway (Autobahn A7) in 2016 – an urban artery leading to the tunnel under the River Elbe © Ministry of Urban Development and Housing/Matthias Friedel*
 
+![Current noise protection measures along the A7](/images/features/2019/hamburg-a7-noise-barriers.jpg/)*Current noise protection measures along the A7 © Ministry of Urban Development*
 
+![A7 before and after](/images/features/2019/hamburg-a7-before-after.jpg/)*The A7 today (left) and a visualisation of the future Autobahndeckel over the A7 (right) © Ministry of Urban Development © Ministry of Urban Development (left), DEGES/V-KON (right)*
 
-
-**<font color="#967942">O</font>**
+![Visualisation of the future Autobahndeckel](/images/features/2019/hamburg-autobahndeckel.jpg/)*Visualisation of the future Autobahndeckel © DEGES/V-KON*
