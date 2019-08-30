@@ -63,6 +63,22 @@ IBA implemented some 70 innovative projects in the area, many of which are exper
 
 ![Social housing in Wilhelmsburg – before](/images/features/2019/wilhelmsburg-housing-before.jpg/)![Social housing in Wilhelmsburg – after](/images/features/2019/wilhelmsburg-housing-after.jpg/)*Social housing in Wilhelmsburg – before and after showing the interventions to create a more intimate and liveable environment © Johanna Kähler (top), IBA Hamburg GmbH/Martin Kunze (bottom)*
 
+![World War 2 bunker - before](/images/features/2019/wilhelmsburg-bunker-before.jpg/)![World War 2 bunker - after](/images/features/2019/wilhelmsburg-bunker-after.jpg/)*A former World War II bunker is converted into a renewable energy power plant © IBA Hamburg GmbH/Martin Kunze*
+
+![Energy hill - before](/images/features/2019/wilhelmsburg-energyhill-before.jpg/)![Energy hill - after](/images/features/2019/wilhelmsburg-energyhill-after.jpg/)*A former landfill site is converted into “Energy Hill” – a renewable energy for 40,000 households and a viewing point © IBA Hamburg GmbH/www.luftbilder.de*
+
+---
+
+#### **Inclusive planning processes**
+
+Over the last decade, Hamburg has made it a point to involve citizens in urban planning on a level that by far exceeds the statutory provisions stipulated by building and planning law. People have the opportunity to participate in the very early stages of planning – the results often lay the groundwork for the actual planning – through various channels including but not limited to workshops, face-to-face interviews, online participation, surveys or town hall meetings. 
+
+An example of such an inclusive planning process is Hamburger Deckel – the decking over for parts of the Autobahn A7, which currently divides densely populated neighbourhoods of the city, to provide noise protection. The conversations and discussions with citizens enabled the administration to convince gardeners holding allotment gardens within the implementation site to give up their existing plots and be compensated with new ones to be built on top of the new decks. 
+
+When completed, the decks will provide several additional benefits besides protection from traffic noise – enable land along autobahn to be developed; safe crossings for school children; and pedestrian/cycling shortcuts reconnecting previously divided parks.
+
+
+
 
 
 **<font color="#967942">O</font>**
