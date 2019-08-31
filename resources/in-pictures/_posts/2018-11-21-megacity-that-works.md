@@ -55,9 +55,9 @@ Mitsubishi Estate – a real estate developer and major landowner in the OMY Dis
 
 The Umi-no-Mori (sea forest) project – a conversion of a garbage dump in the Tokyo Bay into a park, creatively transforms a previously inaccessible and unsightly place into a new public space. The project is an innovation in creating more public spaces in the city and offering more recreational opportunities for the people. Since its inauguration in 2008, the project involved some 23,366 people selected by the public and 478 organisations in the planting of trees, giving them a sense of ownership. The park is slated to complete in 2020 and would increase the provision greenery in the city, as well as help raise awareness on the importance of recycling. 
 
-![Umi-no-mori before](/images/features/2018/umi-no-mori-before.jpg/)*Before the transformation: an unsightly waste landfill site is about to be transformed into a new park © Urban Redevelopment Authority Singapore*
+![Umi-no-mori before](/images/features/2018/umi-nomori-before.jpg/)*Before the transformation: an unsightly waste landfill site is about to be transformed into a new park © Urban Redevelopment Authority Singapore*
 
 ![Umi-no-mori in the process of transformation](/images/features/2018/umi-no-mori-aerial.jpg/)*In the process of transformation © Urban Redevelopment Authority Singapore*
 
-![Umi-no-mori tree planting](/images/features/2018/umi-no-mori-tree-planting.jpg/)*The tree-planting process for Umi-no-Mori took over 7 years. The park is slated to open in 2020. © Urban Redevelopment Authority Singapore*
+![Umi-no-mori tree planting](/images/features/2018/umi-no-more-tree-planting.jpg/)*The tree-planting process for Umi-no-Mori took over 7 years. The park is slated to open in 2020. © Urban Redevelopment Authority Singapore*
 
