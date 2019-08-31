@@ -13,7 +13,7 @@ description: As a successful megacity, Tokyo understands that long-term and cont
 
 In the second half of 20th century, Tokyo developed to cope with the rising challenges due to urbanisation, increasing population, and rapid economic expansion. The city pursued urban infrastructure development to support its rapid population and economic growth, which led to its prosperity at the end of 20th century. By taking a conscientious and long-term approach in its urban development, Tokyo today is a city that is widely reputed for its high efficiency, technological advancements, and excellent public transportation. 
 
-![Tokyo - before](/images/features/2019/tokyo-before.jpg/)![Tokyo - after](/images/features/2019/tokyo-after.jpg/)*Tokyo before and after © Tokyo Metropolitan Government*
+![Tokyo - before](/images/features/2018/tokyo-before.jpg/)![Tokyo - after](/images/features/2018/tokyo-after.jpg/)*Tokyo before and after © Tokyo Metropolitan Government*
 
 ---
 
@@ -22,3 +22,16 @@ In the second half of 20th century, Tokyo developed to cope with the rising chal
 Tokyo’s public transportation network today is arguably one of the world’s most extensive and complex. In most parts of central Tokyo, it takes approximately 5-10 minutes on foot to reach the nearest train station, and 64% of the area within the JR Yamanote loop line is within 5 minutes to the nearest train station. 
 
 The modal split for transportation by train in the city’s 23 Special Wards is 48%, higher than any other city in the world. Approximately 80% of commuters in the city use public transportation such as trains and buses. The city’s measures to ease congestion, such as construction of new lines, adding tracks to existing lines, making trains longer, and enhancing through-services between railway operators, has seen its congestion rate improved over the years. 
+
+![Tokyo in the past: a car-based city that is often clogged by traffic jams](/images/features/2018/tokyo-transport-before.jpg/)*Tokyo in the past: a car-based city that is often clogged by traffic jams © Tokyo Metropolitan Government*
+
+![Tokyo today: an efficient city based on a highly advanced public transportation network](/images/features/2018/tokyo-transport-after.jpg/)*Tokyo today: an efficient city based on a highly advanced public transportation network © Tokyo Metropolitan Government*
+
+---
+
+#### **From sombre suit-and-tie to vibrant and inclusive business environments**
+
+The city employs a strategy of multiple centres and continually renews them as vibrant business centres to enhance Tokyo’s international competitiveness. The Central Business District of Otemachi, Marunouchi and Yurakucho (OMY District) between the Imperial Palace and Tokyo Station is one such urban renewal area that has been revitalised. 
+
+Mitsubishi Estate – a real estate developer and major landowner in the OMY District, understood the development of good public infrastructure that benefits the community would in turn benefit the private developments themselves, and took the lead in collaborating with other landowners to revise the district master plan, turning around what could have been a sterile concrete jungle into a far more hospitable environment lined with plentiful public spaces for all to enjoy. 
+
