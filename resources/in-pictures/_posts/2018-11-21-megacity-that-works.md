@@ -35,3 +35,20 @@ The city employs a strategy of multiple centres and continually renews them as v
 
 Mitsubishi Estate – a real estate developer and major landowner in the OMY District, understood the development of good public infrastructure that benefits the community would in turn benefit the private developments themselves, and took the lead in collaborating with other landowners to revise the district master plan, turning around what could have been a sterile concrete jungle into a far more hospitable environment lined with plentiful public spaces for all to enjoy. 
 
+![Marunouchi in the past: a sterile business environment](/images/features/2018/tokyo-marunoucho-before.jpg/)*Marunouchi in the past: a sterile business environment © Tokyo Metropolitan Government*
+
+![Marunouchi today: a vibrant and inclusive business environment](/images/features/2018/tokyo-marunoucho-after.jpg/)*Marunouchi today: a vibrant and inclusive business environment © Urban Redevelopment Authority Singapore*
+
+![Marunouchi train station](/images/features/2018/marunouchi-train-station.jpg/)*A special scheme that allows the transfer of built area to surrounding developments made the restoration of the Tokyo Station to its former glory possible © Urban Redevelopment Authority Singapore*
+
+![Marunouchi sidewalks](/images/features/2018/marunouchi-sidewalks.jpg/)*Lushly planted sidewalks, ample seating places and shops create a casual environment in the Marunouchi district that appeals to not just the businessmen © Urban Redevelopment Authority Singapore*
+
+![Marunouchi outdoor areas](/images/features/2018/marunouchi-outdoor-areas.jpg/)*Outdoor areas within developments in the Marunouchi district offer a place of respite for office workers © Urban Redevelopment Authority Singapore*
+
+![Marunouchi underground links](/images/features/2018/marunouchi-underground-links.jpg/)*Developments within the Marunouchi district are seamlessly connected to one another via underground links © Urban Redevelopment Authority Singapore*
+
+![Marunouchi underground art](/images/features/2018/marunouchi-underground-art.jpg/)*Underground links are adorned with artwork to provide visual relief © Urban Redevelopment Authority Singapore*
+
+---
+
+
