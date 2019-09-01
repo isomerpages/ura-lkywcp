@@ -17,7 +17,7 @@ The city first introduced its Kampung Improvement Programme (KIP) in 1969 to bri
 
 ![Surabaya today is a clean and green city](/images/features/2018/surabaya-today.jpg/)*Surabaya today is a clean and green city © City of Surabaya*
 
-![Kampung Maspati](/images/features/2018/kampung-maspati-1.jpg/)![Kampung Maspati](/images/features/2018/kampung-maspati-2.jpg/)*Kampung Maspati © City of Surabaya*
+![Kampung Maspati](/images/features/2018/kampung-maspati-1.jpg/)![Kampung Maspati](/images/features/2018/kumpung-maspati-2.jpg/)*Kampung Maspati © City of Surabaya*
 
 ---
 
@@ -51,4 +51,14 @@ Faced with increasing challenges in solid waste and environmental management, Su
 
 Surabaya’s efforts in rejuvenating its urban parks has seen the increase in the number of green spaces to about 100 spots across the city. The city now has 11 major city parks with different themes, the most prominent being Bungkul Park, which was transformed into a friendly digital park and awarded the best city park in Asia by UN Habitat in 2013. Reading corners and mobile libraries are also conveniently located in these parks to provide citizens easy and casual access to information. 
 
+![A community waste bank – transforming trash into cash](/images/features/2018/surabaya-waste-bank.jpg/)*A community waste bank – transforming trash into cash © City of Surabaya*
 
+![A composting house](/images/features/2018/surabaya-composting.jpg/)*A composting house © City of Surabaya*
+
+![A water purification installation](/images/features/2018/surabaya-water-purification.jpg/)*A water purification installation © City of Surabaya*
+
+![Cleaning activities at Kampung Gadukan](/images/features/2018/kampung-gudakan-1.jpg/)![Cleaning activities at Kampung Gadukan](/images/features/2018/kampung-gudakan-2.jpg/)*Cleaning activities at Kampung Gadukan © City of Surabaya*
+
+![Bungkul Park](/images/features/2018/bungkul-park-1.jpg/)![Bungkul Park](/images/features/2018/bungkul-park-2.jpg/)*Bungkul Park – one of the rejuvenated parks in Surabaya © City of Surabaya*
+
+![Mobile libraries for the community](/images/features/2018/surabaya-mobile-library-1.jpg/)![Mobile libraries for the community](/images/features/2018/surabaya-mobile-library-2.jpg/)*Mobile libraries for the community © Lee Kuan Yew World City Prize*
