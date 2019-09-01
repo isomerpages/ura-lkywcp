@@ -31,7 +31,7 @@ The Pahlawan Ekonomi Programme empowers women and housewives in the city to beco
 
 The city government actively promotes urban farming on vacant public land for both self-consumption and as an additional source of income for the community. Private land owners are also encouraged to open up their unused lands for fish farming for a 1/3 return, where farmers can also profit from the sales of fishes. 
 
-![Rice cake Kampung, Banyu Urip](/images/features/2018/bunyu-urip.jpg/)*Rice cake Kampung, Banyu Urip © City of Surabaya*
+![Rice cake Kampung, Banyu Urip](/images/features/2018/banyu-urip.jpg/)*Rice cake Kampung, Banyu Urip © City of Surabaya*
 
 ![Bag prominent Kampung, Jl. Gadukan Baru](/images/features/2018/bag-prominent-kampung.jpg/)*Bag prominent Kampung, Jl. Gadukan Baru © City of Surabaya*
 
