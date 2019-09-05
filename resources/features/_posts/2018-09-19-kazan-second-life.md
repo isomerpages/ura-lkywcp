@@ -19,7 +19,7 @@ In the span of a decade, the city has built hundreds of sports facilities and cr
 
 Since Mayor of Kazan Ilsur Metshin took office in 2006 and implemented these and other initiatives, they have produced remarkable results. Citizens’ average life expectancy has increased by 9 years to 73.8 years, while the mortality rate has fallen by 19 percent. In a sign of residents’ newfound confidence in the city’s future, the number of registered marriages has also increased by 1.5 times, and the number of births has risen by more than 2 times. 
 
-After Kazan was awarded a Special Mention in the biennial Lee Kuan Yew World City Prize in March 2018 for its achievements, Ms Daria Sannikova, Head of Kazan’s Committee for Tourism Development, said in an interview with Singapore’s Urban Redevelopment Authority of the city’s transformation: “We have gone from being a dying city to being a growing one.” 
+After Kazan was awarded a Special Mention in the biennial Lee Kuan Yew World City Prize in March 2018 for its [achievements](/laureates/2018/special-mentions/kazan/), Ms Daria Sannikova, Head of Kazan’s Committee for Tourism Development, said in an interview with Singapore’s Urban Redevelopment Authority of the city’s transformation: “We have gone from being a dying city to being a growing one.” 
 
 For many other cities across the world, Kazan’s experience shows a way out of the vicious circle of poor public health and crime, exodus of young people and families, and deteriorating infrastructure that once mired it. Here’s a look at how Kazan remade itself. 
 
@@ -45,13 +45,13 @@ The dual focus on constructing new facilities and nudging residents to use them 
 
 To build on the momentum, Kazan has invested heavily in nutrition programmes and “teenage clubs” to give new generations a better start in life and guide them on their journey to adulthood. The government’s Department of Food and Social Catering provides hot meals to children in school, and part of the municipal budget is used to pay for lunch for schoolchildren from low-income families. 
 
-Between 2006 and 2015, the said Department delivered 300 million hot meals to students, 50 million of which were free-of-charge. In 2017, Ms Guzel Ananieva, its director, said in a government meeting: “The needs of growing children are taken into account when developing the menu for kindergartens and schools. Only natural products are used.”
+Between 2006 and 2015, the said Department delivered 300 million hot meals to students, [50 million of which were free-of-charge](https://metshin.ru/en/posts/16050). In 2017, Ms Guzel Ananieva, its director, said in a government meeting: “The needs of growing children are taken into account when developing the menu for kindergartens and schools. [Only natural products are used](https://metshin.ru/en/posts/18674).”
 
-Children, teenagers and young adults under 35 years old can also choose from nearly 60 teenage clubs that offer a range of free activities. The government periodically repairs and upgrades the facilities to incorporate new options to keep the youth’s interest. 
+Children, teenagers and young adults under 35 years old can also choose from nearly 60 teenage clubs that [offer a range of free activities](https://metshin.ru/en/posts/19625). The government periodically repairs and upgrades the facilities to incorporate new options to keep the youth’s interest. 
 
-In late 2017, for example, the government overhauled one of the clubs, called “Arena”, that previously offered karate, choreography and breakdancing classes. The club now also has the equipment, trainers and space for fencing, taekwondo, rhythmic gymnastics, modern dance, 3D modelling, robotics and intellectual games such as speed-cubing, which involves solving puzzles such as Rubik’s Cubes as quickly as possible. 
+In late 2017, for example, the government overhauled one of the clubs, called “Arena”, that previously offered karate, choreography and breakdancing classes. The club now also has the equipment, trainers and space for fencing, taekwondo, rhythmic gymnastics, modern dance, 3D modelling, robotics and intellectual games such as speed-cubing, which involves solving puzzles such as Rubik’s Cubes [as quickly as possible](https://metshin.ru/en/posts/18880). 
 
-Mayor Metshin noted in a government meeting in June 2018 that the teenage clubs have helped to curb juvenile delinquency in the city. He said: “All these years, the clubs have pulled young people off the streets. We want them to feel as though they are the owners of the sites, and learn to cherish them.”
+Mayor Metshin noted in a government meeting in June 2018 that the teenage clubs have helped to curb juvenile delinquency in the city. He said: “All these years, the clubs have pulled young people off the streets. We want them to feel as though they are the owners of the sites, and [learn to cherish them](https://metshin.ru/en/posts/19636).”
 
 > “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life. There is a constant dialogue of cultures and religions. People visit one another’s traditional festivities, and their appreciation does not stop at their own cultures, but extends to those of their neighbours.”
 
@@ -65,9 +65,9 @@ Still, amidst the city’s remarkable transformation, one thing has stayed the s
 
 While the city has always been diverse, successive governments have put in place policies to preserve the peace and promote dialogue among different groups. With immigration and racial tensions on the rise in many parts of the world, Kazan’s noteworthy religious, cultural and social harmony serves as a model of respect for diversity in societies. 
 
-The city has displayed sensitivity to different faiths, restoring or rebuilding three key religious landmarks in the past few decades: the Qolşärif Mosque, Annunciation Cathedral and Great Synagogue. More recently, a new funeral complex is divided almost equally into two cemeteries for Orthodox Christians and Muslims respectively, with a church and a mosque erected in the allocated spaces. 
+The city has displayed sensitivity to different faiths, restoring or rebuilding three key religious landmarks in the past few decades: the [Qolşärif Mosque](https://www.rferl.org/a/1059451.html), [Annunciation Cathedral](http://welcome2018.com/en/places/kazan/236368/) and [Great Synagogue](https://www.chabad.org/news/article_cdo/aid/3059790/jewish/Restoration-of-100-Year-Old-Synagogue-Celebrated-in-Kazan-Russia.htm). More recently, a new funeral complex is divided almost equally into two cemeteries for Orthodox Christians and Muslims respectively, with a church and a mosque erected [in the allocated spaces](https://metshin.ru/en/posts/19618). 
 
-Mayor Metshin’s administration is also overhauling the city’s “houses of culture”, partly to spur greater interaction and cooperation among cultural organisations. In April 2018, one of the centres was reopened with a new information centre, waiting areas and a co-working zone for organisations to implement joint projects. 
+Mayor Metshin’s administration is also overhauling the city’s “houses of culture”, partly to spur greater interaction and cooperation among cultural organisations. In April 2018, one of the centres was reopened with a new information centre, waiting areas and a co-working zone for organisations to implement [joint projects](https://metshin.ru/en/posts/19409). 
 
 “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life. There is a constant dialogue of cultures and religions. People visit one another’s traditional festivities, and their appreciation does not stop at their own cultures, but extends to those of their neighbours,” said Ms Sannikova. 
 
@@ -83,6 +83,6 @@ Looking back at Kazan’s journey, she offered this advice to other, struggling 
 
 <div style="width:150px"><img src="/images/features/2018/daria-sannikova.png" alt="Daria Sannikova" /></div>
 
-| **Ilsur Daria Sannikova** |
+| **Daria Sannikova** |
 |:---|
 | Daria Sannikova has been working in the field of hospitality since 2006. Between 2010 and 2014, she worked as executive director of the Association of Restaurateurs and Hoteliers of Kazan and the Republic of Tatarstan. While Daria Sannikova remained in her position in with the Association of Restaurateurs and Hoteliers of Kazan, the number of participants in the Association went up by 50 enterprises. In 2013, she contributed greatly to the organisation of catering during the Universiade in Kazan. |
