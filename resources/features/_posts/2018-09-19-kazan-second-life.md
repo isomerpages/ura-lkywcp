@@ -53,7 +53,7 @@ In late 2017, for example, the government overhauled one of the clubs, called �
 
 Mayor Metshin noted in a government meeting in June 2018 that the teenage clubs have helped to curb juvenile delinquency in the city. He said: “All these years, the clubs have pulled young people off the streets. We want them to feel as though they are the owners of the sites, and [learn to cherish them](https://metshin.ru/en/posts/19636).”
 
-> “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life. There is a constant dialogue of cultures and religions. People visit one another’s traditional festivities, and their appreciation does not stop at their own cultures, but extends to those of their neighbours.”
+> “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life.”
 
 #### **A model for diversity**
 
