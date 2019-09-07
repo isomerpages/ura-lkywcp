@@ -15,7 +15,13 @@ Kazan recognises that good quality of life begins with a healthy population. The
 
 ![Kazan Arena](/images/features/2018/kazan-arena.jpg/)*The Kazan Arena was constructed to host the Summer Universiade 2013 and has been well-used by citizens after the events. © Kazan*
 
-![Kazan Arena](/images/features/2018/kazan-arena2.jpg/)*Kazan Arena © Urban Redevelopment Authority Singapore*
+![Kazan Arena](/images/features/2018/kazan-arena2.jpg/)*Kazan Arena © Lee Kuan Yew World City Prize*
+
+![Kazan Rowing Sports Centre](/images/features/2018/kazan-rowing-centre.jpg/)*Kazan Rowing Sports Centre © Kazan*
+
+![Kazan Aquatics Centre](/images/features/2018/kazan-aquatics-centre.jpg/)*Kazan Aquatics Centre © Lee Kuan Yew World City Prize*
+
+![Youths participating in sports](/images/features/2018/kazan-youth-sports.jpg/)*Youths participating in sports © Lee Kuan Yew World City Prize*
 
 ---
 
