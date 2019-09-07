@@ -25,4 +25,21 @@ Kazan recognises that good quality of life begins with a healthy population. The
 
 ---
 
+#### **Preserving history and culture**
+
+After Ivan the Terrible besieged Kazan in 1550, the city’s Muslim population were forced to stay outside the inner city, residing in a suburb at the intersection of the Bulak canal and urban posad. The settlement then came to be known as the Tatar Sloboda. Over the course of several centuries, the Tatar Sloboda helped to preserve and develop Tatar traditions and culture. Over the last decade, the city has focused on the restoration of this historic district to preserve the city’s cultural heritage.
+
+![Tatar Settlement before restoration](/images/features/2018/tatar-settlement-before.jpg/)![Tatar Settlement after restoration](/images/features/2018/tatar-settlement-after.jpg/)*The Tatar Settlement before and after restoration © Kazan*
+
+![Bauman Street – before rejuvenation](/images/features/2018/bauman-street-before.jpg/)![Bauman Street – after rejuvenation](/images/features/2018/bauman-street-after.jpg/)*Bauman Street – before and after rejuvenation © Kazan*
+
+![Tatar Settlement before rejuvenation](/images/features/2018/tatar-settlement-before2.jpg/)*Images showing the Tatar Settlement before rejuvenation © Lee Kuan Yew World City Prize*
+
+![Tatar Settlement after rejuvenation](/images/features/2018/tatar-settlement-after2.jpg/)*The rejuvenated Tatar Settlement  © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Creating a pleasant urban environment**
+
+Kazan has embarked on a number of environmental development, or urban greenery projects, with the aim of improving the city through architecture, landscaping and by creating public gardens and recreational areas. These public improvement projects not only beautify the city, they also have a positive influence on the users’ behaviour. The city noted that in areas where the projects have been completed, people take greater care of the environment and no longer leave rubbish in the parks.
 
