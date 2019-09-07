@@ -8,12 +8,12 @@ The Stage A Nomination(s) must be initiated by independent third parties i.e. "N
 
 The Nominator should be someone belonging to one of the following categories:
 
-- Leading academics (e.g. professors in universities)
-- Government officials (outside of the city administration)
-- Heads of international organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, or other relevant fields
-- Organisations in the public or private sectors
-- Non-government organisations (NGOs)
-- Academic institutions
+| 1 | Leading academics (e.g. professors in universities) |
+| 2 | Government officials (outside of the city administration) |
+| 3 | Heads of international organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, or other relevant fields. |
+| 4 | Organisations in the public or private sectors |
+| 5 | Non-government organisations (NGOs) |
+| 6 | Academic institutions |
 
 **Note:** Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.
 
