@@ -17,7 +17,7 @@ Kazan recognises that good quality of life begins with a healthy population. The
 
 ![Kazan Arena](/images/features/2018/kazan-arena2.jpg/)*Kazan Arena © Lee Kuan Yew World City Prize*
 
-![Kazan Rowing Sports Centre](/images/features/2018/kazan-rowing-centre.jpg/)*Kazan Rowing Sports Centre © Kazan*
+![Kazan Rowing Sports Centre](/images/features/2018/kazan-rowing-sports-centre.jpg/)*Kazan Rowing Sports Centre © Kazan*
 
 ![Kazan Aquatics Centre](/images/features/2018/kazan-aquatics-centre.jpg/)*Kazan Aquatics Centre © Lee Kuan Yew World City Prize*
 
@@ -42,4 +42,24 @@ After Ivan the Terrible besieged Kazan in 1550, the city’s Muslim population w
 #### **Creating a pleasant urban environment**
 
 Kazan has embarked on a number of environmental development, or urban greenery projects, with the aim of improving the city through architecture, landscaping and by creating public gardens and recreational areas. These public improvement projects not only beautify the city, they also have a positive influence on the users’ behaviour. The city noted that in areas where the projects have been completed, people take greater care of the environment and no longer leave rubbish in the parks.
+
+![Kazan waterfront](/images/features/2018/kazan-waterfront.jpg/)*Kazan waterfront © Kazan*
+
+![Kazan waterfront](/images/features/2018/kazan-waterfront2.jpg/)*Kazan waterfront – a promenade of activities for the people © Kazan*
+
+![Bulak River before rejuvenation](/images/features/2018/bulak-river-before.jpg/)![Bulak River after rejuvenation](/images/features/2018/bulak-river-after.jpg/)*The rejuvenated Bulak River © Kazan*
+
+![Millennium Park](/images/features/2018/millennium-park.jpg/)*Millennium Park © Kazan*
+
+---
+
+#### **Promoting family life**
+
+The Kazan Family Centre is a distinctive building in the shape of a cauldron, created by Russian sculptor Dashi Namdakov. It serves as both a venue for wedding solemnisations, as well as a symbol of marriage and family life. The centre has seen celebrations of renewed vows between couples who have been married for over 50 years, and frequently organises activities that promote family life. The success of the centre’s push for marriage and family life can be seen in the city’s increasing child birth rates, multiple child births, and less divorces.
+
+
+
+
+
+
 
