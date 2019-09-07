@@ -61,7 +61,7 @@ In 2016, the Tokyo government unveiled a [four-year Action Plan 2020](http://www
 
 The government also pledged to make the city more accessible to the elderly and people with disabilities, as part of its work to prepare for the Tokyo Summer Paralympics 2020. It has started to overhaul its subway system to make it more [disabled-friendly](https://www.straitstimes.com/asia/east-asia/tokyo-works-to-boost-awareness-on-disability-before-paralympics). “In 2025, we will be a super-aged society. Through the Paralympics, we want to make Tokyo a city which is accessible to all,” [said Tokyo governor Yuriko Koike](https://www.japantimes.co.jp/news/2016/10/21/national/tokyo-governor-vows-use-2020-games-tackle-demands-graying-society/#.Wxl2eKl9jVo) at a forum in 2016.
 
-![Kazan arena](/images/features/2018/kazan-arena2.jpg/)*The Kazan Arena was built for the 2013 Summer Universiade and is part of the city’s strategy to improve the quality of life through adoption of sports and a healthy lifestyle © Kazan*
+![Kazan arena](/images/features/2018/kazan-arena.jpg/)*The Kazan Arena was built for the 2013 Summer Universiade and is part of the city’s strategy to improve the quality of life through adoption of sports and a healthy lifestyle © Kazan*
 
 #### **Partnering with businesses**
 
