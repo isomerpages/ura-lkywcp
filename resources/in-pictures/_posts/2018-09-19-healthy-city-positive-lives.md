@@ -1,7 +1,7 @@
 ---
 title: Kazan in pictures - healthy city, positive lives
 permalink: /resources/in-pictures/kazan/
-image: /images/features/2018/kampung-gudakan-2.jpg
+image: /images/features/2018/kazan-arena2.jpg
 description: In Kazan, the development of urban infrastructure and promoting of a healthy lifestyle with more opportunities for creative and sporting activities shifted the people’s interests positively and improved the city’s quality of life. In this photo essay, we look at the various strategies that the city has adopted to turn itself around from a drab city into a healthy city now known for sports, and social and religious harmony..
 ---
 
@@ -67,6 +67,10 @@ The Kazan Family Centre is a distinctive building in the shape of a cauldron, cr
 
 Kazan is a city of diverse cultures, with 115 different nationalities of people, 36 national cultural organisations, 180 religious communities and 9,000 foreign students. The respect, friendship and tolerance that the Kazan people have for one another is highly evident. Every temple is open to everyone, regardless of individual beliefs. Inter-racial or inter-faith marriages are common. Religious leaders unanimously agree that there is no need to force one’s opinions on others; the importance of mutual love and that ultimately it is about interaction as human beings. As a result, there is no religious pressure and racism in Kazan. Civil harmony as a way of life sends a strong message to a world that is often engulfed in friction, hatred and violence due to race or religion.
 
+![The Qolşärif Mosque in the Kazan Kremlin](/images/features/2018/qolsarif-mosque.jpg/)*The Qolşärif Mosque in the Kazan Kremlin © Kazan*
 
+![The Annunciation Cathedral in the Kazan Kremlin ](/images/features/2018/qolsarif-mosque.jpg/)*The Annunciation Cathedral in the Kazan Kremlin © Lee Kuan Yew World City Prize*
 
+![The Epiphany Cathedral](/images/features/2018/epiphany-cathedral.jpg/)*The Epiphany Cathedral © Kazan*
 
+![The Temple of All Religions – a tourist attraction and a symbol of religious harmony in Kazan](/images/features/2018/temple-all-religions.jpg/)*The Temple of All Religions – a tourist attraction and a symbol of religious harmony in Kazan © Kazan*
