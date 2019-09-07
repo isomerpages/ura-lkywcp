@@ -11,78 +11,74 @@ description: Over the past decade, the city of Hamburg in Germany has revitalise
 
 ***Over the past decade, the city of Hamburg in Germany has revitalised its underused, neglected and abandoned spaces to create more space for homes, offices, shops and public amenities. It has transformed a once stigmatised area of the city into a model of sustainable living, and is covering its major highway with landscape decks to curb pollution and create more land for parks and greenery. Its creative use of brownfields and urban renewal projects offer valuable lessons for other cities.***
 
-![Mass sports in Kazan](/images/features/2018/mass-sports-kazan.jpg/)*Mass sports in Kazan © City of Kazan*
+![Autobahndeckel](/images/features/2018/autobahndeckel.jpg/)*The Autobahndeckel project that will cover the A7 highway with landscape decks © DEGES/V-KON*
 
-What do the World Cup, World Fencing Championships, FINA World Aquatics Championship and World University Summer Games have in common? Over the past five years, the city of Kazan in Russia has hosted all of these elite international sporting events. 
+Visit Hamburg in Germany today and you will find a city in the midst of a transformation. In the past decade, its government has started projects to rejuvenate districts, redevelop abandoned and underused areas and make better use of the spaces allocated to the city’s transport system.
 
-In the span of a decade, the city has built hundreds of sports facilities and created social programmes to improve its residents’ health and life expectancy, turning itself into a world-class sports hub in the process. Allied to this push has been investments in schools and child nutrition to give future generations a better start and build on the improvements. 
+These efforts, some of which are ongoing, have helped Hamburg to become “an attractive and welcoming city of opportunities” that can meet its growing population’s increasing demand for housing and urban mobility, noted the jury for the 2018 Lee Kuan Yew World City Prize when it recognised the city among three others with a Special Mention in March 2018.
 
-Since Mayor of Kazan Ilsur Metshin took office in 2006 and implemented these and other initiatives, they have produced remarkable results. Citizens’ average life expectancy has increased by 9 years to 73.8 years, while the mortality rate has fallen by 19 percent. In a sign of residents’ newfound confidence in the city’s future, the number of registered marriages has also increased by 1.5 times, and the number of births has risen by more than 2 times. 
+These works will also help the city to prepare for the future, including the impact of climate change, said Professor Jürgen Bruns-Berentelg, Chief Executive Officer of HafenCity Hamburg GmbH – a public company tasked with some of the projects – in a recent interview with the Urban Redevelopment Authority of Singapore.
 
-After Kazan was awarded a Special Mention in the biennial Lee Kuan Yew World City Prize in March 2018 for its [achievements](/laureates/2018/special-mentions/kazan/), Ms Daria Sannikova, Head of Kazan’s Committee for Tourism Development, said in an interview with Singapore’s Urban Redevelopment Authority of the city’s transformation: “We have gone from being a dying city to being a growing one.” 
+He added that Hamburg’s varied experience in urban regeneration offers valuable lessons for other cities: “We have shown that it is possible to expand the inner city, increase housing densification, reduce traffic within neighbourhoods and create more green spaces by making use of existing spaces in a far more efficient way.”
 
-For many other cities across the world, Kazan’s experience shows a way out of the vicious circle of poor public health and crime, exodus of young people and families, and deteriorating infrastructure that once mired it. Here’s a look at how Kazan remade itself. 
+> “We have shown that it is possible to expand the inner city, increase housing densification, reduce traffic within neighbourhoods and create more green spaces by making use of existing spaces in a far more efficient way.”
 
-> “We are proud that Kazan is now referred to as the Sports Capital of Russia, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.”
+#### **Revitalising neighbourhoods***
 
-#### **Supporting sports for life**
+In 2007, Wilhelmsburg, an area south of Hamburg’s River Elbe, was considered a struggling part of the city. After a flood in 1962 that devastated the area and caused many residents to flee, it became sparsely populated and one of the poorest areas in the city, with crime and high school drop-out rates that were about twice of the city-wide average.
 
-The Kazan government’s investments in sports have focused on two objectives: making exercise as convenient and affordable as possible to all residents. To this end, it built not only dozens of new sports centres, but also hundreds of free sports grounds, with easy-to-use equipment such as pull-up bars and parallel bars, in the yards of residential developments. 
+In 2002, more than 100 residents of the area worked with the authorities to create a White Paper that envisioned better schools for children and jobs for young people, high-quality and family-friendly residential buildings, and a better transport network. The Hamburg government then created an International Building Exhibition (IBA), a government-owned company with its own budget and mandate, to redevelop Wilhelmsburg and two other areas, Veddel and the Harburg upriver port.
 
-“These sports grounds have proven to be an effective alternative for people who cannot afford to go to the gym. The number of Kazan citizens who practice outdoor exercises on the pull-up and parallel bars is well into the thousands and growing,” said Ms Sannikova. 
+By 2013, IBA Hamburg had initiated or completed 70 projects across all three areas to provide 1,733 homes, 100,000 square metres of commercial space, eight schools, two senior citizens’ homes, three day-care nurseries, four sports facilities, a commercial park, a centre for artists and creative workers and more than 70 hectares of green space. It also attracted more than 140 partners, including corporations and organisations, and more than 700 million euros of private investment for the project.
 
-The government has also sought to host international sports meets and use them as opportunities to construct more sporting infrastructure. For its successful bid for the 2013 Summer Universiade, also known as the World University Summer Games, it erected 30 sports venues that are still used by about 30,000 citizens regularly. 
+Wilhelmsburg, which was home to factories, a rubbish dump, public housing and mostly working-class Turkish immigrant neighbourhoods, was transformed into a model of sustainable living. A tower built during World War II to house anti-aircraft guns was converted into a solar power plant and biogas-fuelled heat and power station to provide renewable electricity and heat to 800 local households.
 
-Still, providing the hardware alone would not have been enough. To motivate all residents to use them frequently, hundreds of competitions have been organised in the city at different expertise and age levels. More than 7,000 children and youth take part in annual hockey and football tournaments, and more than 35,000 people participate in a national event, called the “Spartiakiad”, which involves eight sports: volleyball, badminton, cycling, mini-football, track and field athletic, swimming, skiing and table tennis. 
+“By building more and better homes, improving the schools and creating spaces for commercial enterprises, we encouraged more people to move to Wilhelmsburg without pushing existing residents out,” said Prof Bruns-Berentelg. IBA Hamburg also tested and constructed experimental buildings in the area, including “hybrid houses” with modular spaces that can be easily converted from offices to apartments or shops, and vice versa.
 
-The government has also implemented social initiatives to target two age groups: children, to inculcate a lifelong love of sports, and the elderly, who may need encouragement to keep fit and stay healthy. “As early as kindergarten, children start to attend sports sessions and participate in competitions. The elderly are granted free visits to swimming pools in sports centres,” said Ms Sannikova. 
+Work on Wilhelmsburg is ongoing, including projects to retrofit old buildings to reduce their energy use, and to expand the area’s production of renewable energy. Such energy is expected to meet all of the area’s electricity needs by 2025 and heating demand by 2050.
 
-The dual focus on constructing new facilities and nudging residents to use them has paid off handsomely. Between 2006 and 2018, the proportion of citizens who are involved in sports regularly surged from less than 10 percent to 42 percent. Ms Sannikova remarked: “We are proud that Kazan is now referred to as the Sports Capital of Russia, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.” 
+![Aerial view of Wilhelmsburg](/images/features/2018/wilhelmsburg-aerial.jpg/)*Aerial view of Wilhelmsburg © IBA Hamburg GmbH / Falcon Crest Air*
 
-![The Kazan Arena](/images/features/2018/kazan-arena.jpg/)*The Kazan Arena © City of Kazan*
+#### **Reviving brownfields**
 
-#### **Giving youths a head start**
+While the Hamburg government’s achievements in Wilhelmsburg set a high bar for the rejuvenation of run-down districts, its ongoing projects in the city’s Altona borough and HafenCity quarter show the way to redevelop abandoned or underused industrial sites.
 
-To build on the momentum, Kazan has invested heavily in nutrition programmes and “teenage clubs” to give new generations a better start in life and guide them on their journey to adulthood. The government’s Department of Food and Social Catering provides hot meals to children in school, and part of the municipal budget is used to pay for lunch for schoolchildren from low-income families. 
+In 2014, the government started building the first phase of a mixed-use district on 13 hectares of land in Altona previously occupied by a disused railway freight station and a derelict brewery. The ongoing construction will produce 1,600 homes, the first part of a park that will eventually span nearly 3 hectares, public squares, four day-care centres and a school.
 
-Between 2006 and 2015, the said Department delivered 300 million hot meals to students, [50 million of which were free-of-charge](https://metshin.ru/en/posts/16050). In 2017, Ms Guzel Ananieva, its director, said in a government meeting: “The needs of growing children are taken into account when developing the menu for kindergartens and schools. [Only natural products are used](https://metshin.ru/en/posts/18674).”
+The second and final phase of the project is slated to start in 2024 after the relocation of the still operational Altona railway station. In 2015, Deutsche Bahn, the railway company in charge of the station, sold its site to the Hamburg government after estimating that only about 60 percent of it was being used effectively. The move will free up 16 hectares of land for 1,900 more apartments and other public amenities in the area.
 
-Children, teenagers and young adults under 35 years old can also choose from nearly 60 teenage clubs that [offer a range of free activities](https://metshin.ru/en/posts/19625). The government periodically repairs and upgrades the facilities to incorporate new options to keep the youth’s interest. 
+In keeping with the government’s social goals, the eventual 3,500 residential units will be divided into one-third state-subsidised social housing, one-third rental apartments and one-third privately-owned homes. At least 20 percent of the total floor area will also be reserved for building cooperatives to encourage residents to take care of the neighbourhood.
 
-In late 2017, for example, the government overhauled one of the clubs, called “Arena”, that previously offered karate, choreography and breakdancing classes. The club now also has the equipment, trainers and space for fencing, taekwondo, rhythmic gymnastics, modern dance, 3D modelling, robotics and intellectual games such as speed-cubing, which involves solving puzzles such as Rubik’s Cubes [as quickly as possible](https://metshin.ru/en/posts/18880). 
+“We are also looking at ways to reduce traffic in the new district by keeping car-based traffic out and making it more efficient for people to walk. This will increase the residents’ general well-being. The Altona project is an important example of how we can reuse former railroad areas within Hamburg,” said Prof Bruns-Berentelg.
 
-Mayor Metshin noted in a government meeting in June 2018 that the teenage clubs have helped to curb juvenile delinquency in the city. He said: “All these years, the clubs have pulled young people off the streets. We want them to feel as though they are the owners of the sites, and [learn to cherish them](https://metshin.ru/en/posts/19636).”
+The HafenCity project, on the other hand, capitalises on areas on the Elbe’s north bank that have been underused or unused because they were not suitable for container operations. These spaces are being redeveloped into a new city centre district that will provide homes for more than 13,000 people and create up to 45,000 jobs when it is completed by 2025.
 
-> “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life.”
+While the Hamburg government is building HafenCity from scratch, it has taken measures to ensure that the new district has a high degree of visual and spatial connectivity with the rest of the city, Prof Bruns-Berentelg said. “Where the new developments connect to the existing city, we use the same materials and even colours to bring the two together,” he said.
 
-#### **A model for diversity**
+New mid-rise and high-rise buildings intended to increase Hamburg’s housing and commercial density are concentrated in the middle of HafenCity, away from its perimeter where it meets the rest of the traditionally low-rise city. The district’s layout also enables people to see the city’s old churches and city hall tower from many points, improving the sense of integration.
 
-Looking ahead, the Kazan government has several priorities, including improving and expanding the city’s healthcare infrastructure. It has completed works on 90 percent of the facilities designated for repairs, including hospitals, clinics, polyclinics, counselling centres and first-aid stations, and is opening more primary care and paediatrician offices in suburbs and new residential areas. 
+“Another important lesson that HafenCity can offer to other cities is that it is very much financed by its own activities and not by transfers from the government,” said Prof Bruns-Berentelg. Proceeds from building site sales will fund infrastructure, roads, bridges, promenades and parks, the relocation of businesses and site clearance costs.
 
-Since 2010, the government has also planted 200,000 trees, hundreds of thousands of bushes and millions of flowers to green the city, and it intends to do more. “With the support of the Republic of Tatarstan, the federal centre and businesses, we have repaired more than half of the yards in Kazan, and are continuing with this work,” said Ms Sannikova. 
+> “In Wilhelmsburg, Altona and HafenCity, and with all these projects, what we have seen is that we can generate new paths of development in the city and achieve great progress.”
 
-Still, amidst the city’s remarkable transformation, one thing has stayed the same: the peaceful co-existence of its diverse population. Kazan now has 115 nationalities, 36 cultural organisations, 80 religious communities and 9,000 foreign students, and its population comprises approximately 50 percent Orthodox Christians and 50 percent Muslims. 
+#### **Rethinking transport**
 
-While the city has always been diverse, successive governments have put in place policies to preserve the peace and promote dialogue among different groups. With immigration and racial tensions on the rise in many parts of the world, Kazan’s noteworthy religious, cultural and social harmony serves as a model of respect for diversity in societies. 
+For decades, the major A7 highway connecting Germany to Scandinavia has cut through Hamburg, dividing some of the city’s neighbourhoods and polluting them with noise and dirty air from the heavy trucks that use the motorway. By 2022, the Hamburg government will complete an ambitious ongoing project to cover three sections of the highway in the city totalling 3.5 kilometres, turning them into tunnels and creating 25 hectares of usable space on the roofs.
 
-The city has displayed sensitivity to different faiths, restoring or rebuilding three key religious landmarks in the past few decades: the [Qolşärif Mosque](https://www.rferl.org/a/1059451.html), [Annunciation Cathedral](http://welcome2018.com/en/places/kazan/236368/) and [Great Synagogue](https://www.chabad.org/news/article_cdo/aid/3059790/jewish/Restoration-of-100-Year-Old-Synagogue-Celebrated-in-Kazan-Russia.htm). More recently, a new funeral complex is divided almost equally into two cemeteries for Orthodox Christians and Muslims respectively, with a church and a mosque erected [in the allocated spaces](https://metshin.ru/en/posts/19618). 
+The covers will not only reconnect Hamburg’s Schnelsen, Stellingen and Altona districts on either side of the highway, but also reduce the noise and pollution from it. “In a few years, there will also be little to remind residents of the motorway traffic queues that occur where the A7 cuts through Hamburg’s western districts. Instead, the new areas on top of the covers will serve Hamburg’s population with space for recreation and leisure,” the government said.
 
-Mayor Metshin’s administration is also overhauling the city’s “houses of culture”, partly to spur greater interaction and cooperation among cultural organisations. In April 2018, one of the centres was reopened with a new information centre, waiting areas and a co-working zone for organisations to implement [joint projects](https://metshin.ru/en/posts/19409). 
+The 560-metre-long cover in Schnelsen will have a meadow bounded by a promenade and allotments for gardeners. The landscape on the 893-metre-long cover in Stellingen will also have a meadow and allotments, as well as a promenade along its entire length, a tree park and a tree-lined square. The Altona cover is the project’s most extensive, at about 2 kilometres, and will consist of a green corridor extending all the way from an existing park to the Elbe.
 
-“Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life. There is a constant dialogue of cultures and religions. People visit one another’s traditional festivities, and their appreciation does not stop at their own cultures, but extends to those of their neighbours,” said Ms Sannikova. 
+The Hamburg government noted that the covers will also turn several nearby areas into attractive sites for housing and other developments. About 1,700 new homes are already proposed for one of the areas. “We can accomplish several goals at once: new parks and allotments in addition to urgently required housing in centrally-located neighbourhoods that will no longer suffer from motorway noise,” said Ms Petra Störmer, head of the project’s group at the Ministry of Urban Development and Environment.
 
-Looking back at Kazan’s journey, she offered this advice to other, struggling cities: “There have always been and will be difficulties. That is what keeps you alert and looking for the best solutions. The only way to overcome them is through a conscientious search for the best solutions, and partnership with society.” **<font color="#967942">O</font>**
+Prof Bruns-Berentelg said that the project shows how cities can rethink and adapt their transport systems to benefit residents. “Such major traffic arteries may be necessary so that you cannot reduce their dimensions, but you can always come up with creative solutions to make better use of them,” he said.
+
+He summarised: “In Wilhelmsburg, Altona and HafenCity, and with all these projects, what we have seen is that we can generate new paths of development in the city and achieve great progress.” **<font color="#967942">O</font>**
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2018/ilsur-metshin.png" alt="Ilsur Metshin" /></div>
+<div style="width:150px"><img src="/images/features/2018/jurgen-bruns.png" alt="Jürgen Bruns-Berentelg" /></div>
 
-| **Ilsur Metshin** |
+| **Jürgen Bruns-Berentelg** |
 |:---|
-| Ilsur Metshin graduated in law in 1991 from the Kazan State University. Between 1993 and 2005, he served in the administration of the Soviet district in Kazan, the Vakhitovkiy district the Nizhnekamsk region and the Nizhnekamsk city (Tatarstan). Deputy of the State Council of Tatarstan from 2000 to 2004, he was elected Mayor of Kazan in November 2005. Vice-President of UCLG and President of the Eurasia section of UCLG previously, he is Co-President of UCLG since 2010. Since 2006, Ilsur Metshin is also Vice-President of the Organization of World Heritage; the International Assembly of Capitals and Big Cities; and the Russian Alliance of Historical Cities and Regions. |
-
-<div style="width:150px"><img src="/images/features/2018/daria-sannikova.png" alt="Daria Sannikova" /></div>
-
-| **Daria Sannikova** |
-|:---|
-| Daria Sannikova has been working in the field of hospitality since 2006. Between 2010 and 2014, she worked as executive director of the Association of Restaurateurs and Hoteliers of Kazan and the Republic of Tatarstan. While Daria Sannikova remained in her position in with the Association of Restaurateurs and Hoteliers of Kazan, the number of participants in the Association went up by 50 enterprises. In 2013, she contributed greatly to the organisation of catering during the Universiade in Kazan. |
+| Since 2003, Jürgen Bruns-Berentelg has been CEO of HafenCity Hamburg GmbH, a public company owned by the City State of Hamburg, second most populous city in Germany and center of a metropolitan region of 5 million Inhabitants, charged with the development of HafenCity and other areas. The HafenCity Hamburg development area represents a mixed use 40% expansion of the core city area of Hamburg. The goal is to develop a highly sustainable and outstanding new downtown in the European tradition of urbanism. |
