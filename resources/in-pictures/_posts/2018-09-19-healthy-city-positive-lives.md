@@ -69,7 +69,7 @@ Kazan is a city of diverse cultures, with 115 different nationalities of people,
 
 ![The Qolşärif Mosque in the Kazan Kremlin](/images/features/2018/qolsarif-mosque.jpg/)*The Qolşärif Mosque in the Kazan Kremlin © Kazan*
 
-![The Annunciation Cathedral in the Kazan Kremlin ](/images/features/2018/qolsarif-mosque.jpg/)*The Annunciation Cathedral in the Kazan Kremlin © Lee Kuan Yew World City Prize*
+![The Annunciation Cathedral in the Kazan Kremlin ](/images/features/2018/annunciation-cathedral.jpg/)*The Annunciation Cathedral in the Kazan Kremlin © Lee Kuan Yew World City Prize*
 
 ![The Epiphany Cathedral](/images/features/2018/epiphany-cathedral.jpg/)*The Epiphany Cathedral © Kazan*
 
