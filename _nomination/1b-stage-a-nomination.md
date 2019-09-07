@@ -23,7 +23,7 @@ The Nominator should be someone belonging to one of the following categories:
 
 The Nominator must make the nomination for each city using the official Nomination Form, accompanied by a signed Recommendation Letter (maximum 600 words). In the Recommendation Letter, the Nominator should make a case to support why the city should win the Prize, and could address (but not limited to) the following points:
 
-- Outstanding leadership and governance
-- Successful urban transformation and/or urban solutions with long-term impact
-- Creative/innovative urban solutions
-- Potential good learning points for other cities around the world  
+| 1 | Outstanding leadership and governance |
+| 2 | Successful urban transformation and/or urban solutions with long-term impact |
+| 3 | Creative/innovative urban solutions |
+| 4 | Potential good learning points for other cities around the world |  
