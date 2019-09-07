@@ -81,6 +81,8 @@ Looking back at Kazan’s journey, she offered this advice to other, struggling 
 |:---|
 | Ilsur Metshin was elected as Mayor of Kazan in 2006. Ilsur Metshin serves on the board of the Union of Russian cities and is the chairman of the Association of the cities of Volga region, was elected to the supreme governing body of the party management - the General Council of the party "United Russia". Ilsur Metshin was among Russian representatives in the Chamber of Local Authorities in the Congress of Local and Regional authorities of the Council of Europe's in 2016-2020 years by the order of the President of the Russian Federation. International experts speak highly of the professionalism of the mayor of Kazan. Year in, year out, he has been re-elected to leading positions of major international organisations: the World Organization "United Cities and Local Governments" and the Organisation of World Heritage Cities. |
 
+<br>
+
 <div style="width:150px"><img src="/images/features/2018/daria-sannikova.png" alt="Daria Sannikova" /></div>
 
 | **Daria Sannikova** |
