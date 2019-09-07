@@ -52,8 +52,4 @@ Please submit the following completed items online:
 
 Please send **8 printed/physical copies** of the above items (i) - (iv) to the Prize Secretariat via trackable mail: 
 
-| **Lee Kuan Yew World City Prize Secretariat**
-<br>45 Maxwell Road 
-<br>The URA Centre, Tower
-<br>13-01
-<br>Singapore 069118 |
+| **Lee Kuan Yew World City Prize Secretariat**<br>45 Maxwell Road <br>The URA Centre, Tower<br>13-01<br>Singapore 069118 |
