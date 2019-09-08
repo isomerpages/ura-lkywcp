@@ -37,6 +37,28 @@ The existing shop-owners are relocated within the same complex, while new uses a
 
 Elevated bridges that had been torn down were rebuilt to reconnect the complex’s seven blocks, and new studios and retail units were added along pedestrian walkways.
 
+![Makercity Sewoon](/images/features/2018/sewoon-makercity2.jpg/)*Makercity Sewoon © Seoul Metropolitan Government*
+
+![Rooftop activity space at Makercity Sewoon](/images/features/2018/sewoon-makercity-rooftop.jpg/)*Rooftop activity space at Makercity Sewoon © Seoul Metropolitan Government*
+
+![Insertion of a second story walkway](/images/features/2018/sewoon-makercity-insertion.jpg/)*Insertion of a second story walkway © Lee Kuan Yew World City Prize*
+
+![An elevated walkway that connects the superblocks](/images/features/2018/sewoon-makercity-walkway.jpg/)*An elevated walkway that connects the superblocks © Lee Kuan Yew World City Prize*
+
+![New studios and retail units added along pedestrian walkways](/images/features/2018/sewoon-makercity-shops.jpg/)*New studios and retail units added along pedestrian walkways © Lee Kuan Yew World City Prize*
+
+![Young start-ups in a business incubation space](/images/features/2018/sewoon-makercity-startups.jpg/)*Young start-ups in a business incubation space © Seoul Metropolitan Government*
+
+---
+
+#### **Mapo Culture Depot – from disused oil tanks to an arts and culture hub**
+
+The Mapo Culture Depot is the repurposing of the disused oil tanks at the former oil depot at Maebong into a spacious park and cultural venue with galleries and performance spaces, a multipurpose pavilion, an outdoor amphitheatre, and a café.
+
+The oil storage facility was abandoned since the early 2000s due to the construction of the Seoul World Cup Stadium nearby in preparation for the city’s co-hosting of the 2002 World Cup. By repurposing the abandoned facility and returning the space to the people, the city demonstrates creativity in conserving its industrial heritage and putting them to new uses.
+
+
+
 
 
 
