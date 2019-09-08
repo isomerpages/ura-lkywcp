@@ -20,3 +20,18 @@ Seoul is the capital and largest metropolis of South Korea. With a population of
 #### **Cheonggyecheon – before and after**
 
 Following the instatement of local autonomy in the mid-1990s, the city focused on a series of innovative urban regeneration projects that brought about benefits for the entire city. The removal of the ageing Cheonggyecheon highway to restore the stream underneath was the starting point in the city’s efforts in urban regeneration and engaging stakeholders through conflict management strategies in order to realise a common vision.
+
+![Cheonggyecheon in the 1990s](/images/features/2018/cheonggyecheon-before.jpg/)![Cheonggyecheon today](/images/features/2018/cheonggyecheon-after.jpg/)*Cheonggyecheon - before and after © Seoul Metropolitan Government*
+
+---
+
+#### **Cheonggyecheon – a green haven in the city**
+
+More than 10 years after its completion, Cheonggyecheon is today a green haven in the middle of the city, and a respite from the hustle and bustle of its surroundings, which has in turn benefited from the restoration project. The success of Cheonggyecheon catalysed the demolition of a number of elevated highways in Seoul, induced public demand for the demolition of others and resistance to building new ones, and helped pave the way for less resistance in the city’s subsequent urban redevelopment projects.
+
+
+
+
+
+
+
