@@ -11,80 +11,74 @@ description: Seoul, the 2018 Prize Laureate, transformed into a vibrant and soci
 
 ***Seoul, the 2018 Prize Laureate, transformed into a vibrant and socially-inclusive city by making bold decisions such as giving its citizens a greater say over development projects. Here’s a look at its government’s innovative citizen engagement initiatives, which include setting aside part of its annual budget for citizen-proposed projects, setting up support centres to help residents implement community improvement ideas and creating a conflict management division to avert potential public unhappiness over projects.***
 
-![Seoullo 7017](/images/features/2018/seoullo-7017.jpg/)*Seoullo 7017 converted the former Seoul Station Overpass into a lush sky garden © Seoul Metropolitan Government*
+![Mayor Park Won-soon at a citizen engagement session in Seoul](/images/features/2018/seoul-citizen-engagement.jpg/)*Mayor Park Won-soon at a citizen engagement session in Seoul © Seoul Metropolitan Government*
 
-Visit the Mapo Culture Depot in Seoul, South Korea, and you will find a spacious park filled with a multipurpose pavilion, an outdoor amphitheatre, exhibition spaces and a cafeteria for visitors. Just a few years ago, however, it was a disused oil storage facility that had been shut down since 2000 due to its [potential risk to a nearby soccer stadium](http://english.seoul.go.kr/wp-content/uploads/2015/10/White-Paper-on-Conflict-Management-of-Seoul.pdfhttp://www.koreaherald.com/view.php?ud=20171130000686).
+By 2050, about two in three people will live in cities across the world, making citizen engagement in the urban planning process more important than ever. Without citizens’ support and help, city development projects could be stymied, run into difficulties, or fail to meet their needs.
 
-Since the 1990s, Seoul has embarked on a series of projects to rejuvenate its deteriorating neighbourhoods, reclaim its abandoned spaces, restore its natural greenery and streams and change its car-oriented transportation system to one that prioritises walking, cycling and public transport services.
+“Furthermore, when residents are involved in proposing and developing ideas for their cities, they tend to come up with good ideas because they are the ones witnessing the problems and solutions in their daily lives,” said Mr Park Won-Soon, the Mayor of Seoul in South Korea, in an interview with Singapore’s Urban Redevelopment Authority in March 2018.
 
-These efforts have helped the city become more vibrant and sustainable, and improved its citizens’ quality of life, which are among the reasons that the city was awarded the [2018 Lee Kuan Yew World City Prize](/laureates/2018/laureate/). The Prize jurors noted that the city’s transformation points the way for other cities struggling with transportation and urban decay issues.
+Seoul’s commitment to and success in citizen engagement is one of the reasons that the city was awarded the 2018 Lee Kuan Yew World City Prize. The Prize jurors noted in the citation for the city that it had faced many urban challenges due to its rapid rate of urbanisation, like many other cities.
 
-> “The underlying emphasis is on improving sustainability and the quality of life. That is the essence of preparing for the future.”
+“Through rigorous engagement and negotiation with conflicting parties, the city changed from a highly bureaucratic, top-down city with rising tensions between the government and its people, to the inclusive, socially stable and highly innovative city that it is today,” the jurors wrote in the citation.
 
-#### **A car-lite society**
+#### **Planning a future together**
 
-In an interview with the Urban Redevelopment Authority (URA) in March 2018, Seoul’s Mayor Park Won-soon noted that the government’s efforts to promote walking, cycling and public transportation have helped to reduce congestion in the streets and improve people’s health. “When you have fewer cars, you have cleaner and fresher air,” he explained.
+The drafting of the 2030 Seoul Master Plan, which sets the Seoul Metropolitan Government’s direction and priorities for the next 15 years, was an exemplar of how governments and citizens can work together to improve urban planning.
 
-The Seoul Metropolitan Government has installed thousands of bicycle stations across the city, equipped them with more than 20,000 bicycles for sharing, and introduced bicycle lanes. “We are also looking at converting more car lanes into pedestrian or bike lanes, and having more public transport-only zones and pedestrian-friendly boulevards,” Mr Park said.
+> “When residents are involved in proposing and developing ideas for their cities, they tend to come up with good ideas because they are the ones witnessing the problems and solutions in their daily lives.”
 
-In 2014, the government broke new ground by creating the city’s first transit mall – a street or set of streets where private vehicles are banned or greatly restricted – along the [Yonsei-ro street](http://english.seoul.go.kr/opening-of-sinchon-yonsei-ro-seouls-first-transit-mall/). Located near to the Yonsei University, the street was infamous for its frequent traffic jams, poor walkability and vehicle-related accidents.
+In the past, the city’s master plans had been developed by experts and bureaucrats, with little input from the citizens themselves. This led to several problems, including the plans’ inadequacy in dealing with social issues such as the rise of single-person households, social polarisation and worsening gender inequality, said researchers at the Seoul Institute, which is the Seoul Metropolitan Government’s official think-tank, in a 2017 report on the role of governance in Seoul’s urban transformation.
 
-Today, private vehicles are banned from passing through or stopping in the street. Vehicles entering the street for business purposes can do so only during restricted day-time hours and must obtain prior approval. On the other hand, vans carrying more than 16 passengers, emergency vehicles and bicycles are allowed in the street at all times. At the same time, the government has increased the number of bus routes and buses serving the area.
+“I wanted our citizens to be more involved, to be at the heart of the planning process, because I believe in collective wisdom and intelligence. I think citizens know what works for them in their daily lives, whether it is in the design of streets or composition of retail outlets,” said Mr Park.
 
-![The Yonsei-ro Transit Mall](/images/features/2018/yonsei-ro.jpg/)*The Yonsei-ro Transit Mall © Lee Kuan Yew World City Prize*
+Under his direction, the Seoul Metropolitan Government convened a 100-member Citizen Participatory Group, comprising people of all ages and from all walks of life, to help draft the 2030 master plan. This group, together with city officials, planning experts and local politicians, conducted numerous roundtable discussions to chart the future of Seoul, identify challenges on the horizon and propose solutions.
 
-In a 2017 report on the role of governance in Seoul’s urban transformation, researchers at the Seoul Institute, the government’s official think-tank, noted that the transit mall has had [a positive impact in many ways](http://global.si.re.kr/content/role-governance-urban-transformation-seoul). After it was opened, the number of traffic accidents in the area fell by 35 percent in a six-month period compared to the same period in the previous year, and more people started using buses instead, the researchers said.
+The previous, 2020 Seoul Master Plan spanned 687 pages and included 12 subsidiary plans with 52 objectives in total. “Its scope was so broad and the content so technical that it was difficult for citizens to read and understand,” the Seoul Metropolitan Government noted on its website in a post-mortem of the plan.
 
-Other projects have underlined the city’s commitment to reclaiming spaces previously ceded to cars. In the 1970s, the Cheonggyecheon stream was paved over and an elevated highway constructed above it to cope with rising traffic volumes. By the 1990s, the 5.8 km-long highway was dilapidated and constantly posed safety risks despite costly yearly repairs.
+In contrast, the 2030 plan is much more concise and readable: in about 200 pages, the document lays out five key issues in Seoul’s future, 17 goals and 58 strategies to achieve them. It also gives voice to issues concerning welfare, education, culture, the environment and other non-physical aspects of the city, which had been neglected in the previous master plans.
 
-In August 2003, the highway was demolished and the stream restored over the next two years. This was a significant turning point in the city’s evolution as its planners had decided that the project would serve as a focal point for urban regeneration in the heart of Seoul and spur more sustainable development.
+The goals, for example, now include establishing a social environment where women and the elderly are encouraged to join and stay in the workforce, the preservation and management of historical landscapes, promoting creative small and medium-sized enterprises and customising welfare services based on each area’s needs.
 
-To make up for the highway, which transported more than 170,000 vehicles a day, the government built 200 km of bus-only lanes and initiated free transfers between buses and the subway. This helped the city to reduce its residents’ use of cars. Urban planning experts and government officials now visit Seoul to learn more about the restoration project.
+In their 2017 report, the Seoul Institute researchers summarised: “Before the 2030 Seoul Master Plan, citizens were involved only indirectly in urban planning, either by taking part in surveys or choosing from proposed options. The 2030 master plan contains strategies for the better future of the citizens, by the citizens and for the citizens. This is an important step for Seoul to progress, not just in material prosperity, but in a way that its citizens desire.”
 
-#### **New leases of life**
+![The Seoul Master Plan 2030](/images/features/2018/seoul-masterplan-2030.jpg/)*The Seoul Master Plan 2030. Screengrab © Lee Kuan Yew World City Prize*
 
-Seoul has also creatively revitalised several of its mature and deteriorating estates. In the 1960s and 1970s, the Dongdaemun district was a manufacturing hub where sewing factories and fashion outlets flourished. By 2006, the factories had moved abroad in search of cheaper labour, and vacancy rates in the area’s shopping malls were reaching as high as 50 percent due to the rise of online shopping.
+#### **Helping people to help themselves**
 
-The government developed a plan to refashion the Dongdaemun area as a [world-class centre for culture and design](http://english.seoul.go.kr/dongdaemun-design-plaza-koreas-design-mecca/). The Dongdaemun Stadium was demolished and replaced with the plan’s centrepiece: the now-iconic Dongdaemun Design Plaza.
+Besides giving citizens a larger say in the city’s future, the Seoul Metropolitan Government also launched two initiatives in 2012 to help them to improve their immediate surroundings more quickly: the Participatory Budget System and the Community Building Project.
 
-![The Dongdaemun Design Plaza](/images/features/2018/ddp.jpg/)*The Dongdaemun Design Plaza © Lee Kuan Yew World City Prize*
+Since 2012, about five percent of the city’s annual budget – amounting to about 50 billion won each year between 2012 and 2016, and about 60 billion won each year in 2017 and 2018 – has been set aside for public spending projects proposed by citizens.
 
-The areas around the plaza were transformed into creative districts for fashion, broadcasting, movies, gaming and financial and retail services. Since the plaza’s opening in 2014, it has sparked 881.7 billion won (US$817.2 million) worth of production and created 5,129 jobs, [according to estimates by the government](http://urbansdgplatform.org/profile/profile_caseView_detail.msc?no_case=195).
+Under this Participatory Budget System, people who live, work and attend school in Seoul can vote online on the projects, to determine which ones should be implemented first. In 2017, nearly 117,000 people voted, up from 103,500 people in 2015. Before that, the vote was limited to a committee of 250 people selected through a random electronic draw.
 
-In the 1960s, the Sewoon Sangga complex, comprised of seven large buildings laid out in a row, was built as South Korea’s first mixed-use residential and commercial property. After leading the development of the city’s electronic and electrical industries in the 1970s and 1980s, it began to decline as its functions were overtaken by other areas such as Gangnam.
+Over the past six years, many community projects have received funding through the budget. These include ones to: install gas safety valves in the homes of low-income elderly people who live alone in Dongdaemun-gu; open a community restaurant that makes bean sprout dishes with bean sprouts grown in senior citizen centres in Eunpyeong-gu; and carry out initiatives to stop bullying and school violence in Geumcheon-gu.
 
-In 2014, Mr Park announced that the complex would be redeveloped into “Makercity Sewoon”, a hub for technology, manufacturing and business start-ups. Elevated bridges that had been torn down were rebuilt to reconnect the complex’s seven blocks, and new studios and retail units were added along pedestrian walkways.
+In 2014, a project to improve the Changdong Culture and Sports Centre’s facilities for people with disabilities received 9.5 million won. The money was used to install an accessible restroom, put handrails in the hallways and elevators and create a separate counter at the information desk for people with disabilities.
 
-Start-ups can now use business incubation spaces in the complex, called “Makers’ Cubes”, for creative development activities, such as the design and fine-tuning of drones and smart medical devices. The Seoul Metropolitan City Social Economy Support Centre has also opened an office there to [provide help to social economic organisations](http://english.seoul.go.kr/sewoon-shopping-center-leads-4th-industrial-revolution/).
+The Community Building Project, on the other hand, provides help, such as training and consulting, to residents who have ideas to improve their neighbourhoods. In 2012, the Seoul Metropolitan Government created a Community Building Division under its Seoul Innovation Bureau to oversee the initiative. Since then, it has opened Town Community Support Centres across Seoul where residents can seek help to implement their ideas. The centres also publicise examples of effective projects.
 
-Seoul’s Deputy Mayor Jin Hee Seon told the URA: “As the hub of 7,000 companies and more than 20,000 engineers, the Sewoon complex is changing into an innovation base to lead the revival of our urban manufacturing industry in this age of the fourth industrial revolution.”
+In the neighbourhood of Seokgwan-dong, the residents of the Seokgwan Doosan Apartments complex, which consists of 25 buildings with 1,998 households, received assistance to carry out their energy-saving ideas. For example, the residents installed LED lights in the basement car park that reduced electricity charges by 18 million won each month. They also conduct an energy-saving class which has been attended by residents from other estates.
 
-He added that Seoul has prioritised urban regeneration over urban development since 2013, and now has 133 ongoing urban regeneration projects throughout the city. “These changes in our urban policies have been applied elsewhere in South Korea, and can serve as a new model for urban regeneration for Asian cities,” he said.
+![A public engagement process in Seoul](/images/features/2018/seoul-public-engagement.jpg/)*A public engagement process in Seoul © Seoul Metropolitan Government*
 
-![Makercity Sewoon](/images/features/2018/sewoon-makercity.jpg/)*New studios and retail units added along an elevated pedestrian walkway at Makercity Sewoon © Lee Kuan Yew World City Prize*
+“As much as possible, we try to transfer more power to the people, because when they make suggestions, discuss among themselves, decide and even participate in the implementation process, it makes our administration more productive and efficient,” said Mr Park.
 
-#### **Preparing Seoul for the future**
+#### **Creating a harmonious society**
 
-One of Seoul’s most lauded projects was the transformation of the Seoul Station Overpass into a sky garden. The overpass was built in 1970 as a major driveway to connect western and central Seoul. After more than 40 years of heavy use, it was closed in 2015 due to safety concerns.
+As cities grow and more people move into them, land use decisions and development projects can become more fraught and prone to conflict. Here, too, the Seoul Metropolitan Government under Mr Park has pioneered innovative processes and solutions to prevent and resolve disagreements. In 2012, the government established a Conflict Mediation Division with the goal of averting and managing public conflicts. It has also published a White Paper on Conflict Management on its website.
 
-While some had called for the overpass to be demolished, Mr Park, inspired by New York’s High Line, decided to convert it into a park instead. “Instead of tearing it down, we decided to transform it into a pedestrian road, aiming to not only revive the elevated road but also turn it into a place where people can come together,” [he said](https://www.straitstimes.com/asia/east-asia/say-hello-to-new-sky-park-seoullo).
+Mr Park, who worked as a human rights lawyer and founded a non-profit organisation aimed at promoting participatory democracy and securing human rights in South Korea before being elected mayor, explained: “In a democratic society, the freedom of expression is very important. If there are complaints, we should be brave and embrace them, and have deep discussions so that we can come to harmonious conclusions with residents.”
 
-Seoullo 7017 – the park was named after the overpass’s construction in 1970 and the completion of its transformation in 2017 – opened in May 2017. It features more than 24,000 plants and trees that grow in giant pots that also double as benches, as well as event spaces, shops and five eateries. It has 17 entry points now and more links will be built to adjacent neighbourhoods.
+After the Seoul Metropolitan Council confirms each year’s budget, the Conflict Mediation Division analyses all of the slated projects and identifies those that could cause public unhappiness. The government divisions responsible for those projects craft, with the help of professional mediators, resolution strategies that outline the potential causes of conflict, the positions that disputing parties may take, and solutions that could prevent the problems.
 
-Renowned Dutch architect Mr Winy Maas, who designed the park, said that it preserves the overpass’s history, adds greenery to the city, reduces the use of cars and promotes walking, all of which dovetail with Mr Park’s priorities for Seoul. Mr Maas added: “The garden is unique to Seoul, and makes the city a nicer and better city for its citizens.”
+> “Seoul, like many other cities, will face many challenges. An engaged citizen is a great citizen, and a great citizen can help to make a great city and a great country.”
 
-For Mr Park, these priorities are part and parcel of preparing Seoul for the future. He said: “We have many projects going on concurrently, spanning regeneration, transportation, new infrastructure and so on. But to me, the underlying emphasis is on improving sustainability and the quality of life. That is the essence of preparing for the future.” **<font color="#967942">O</font>**
+If disagreements do occur, a conflict mediation agency conducts in-depth interviews with the parties and designs a settlement drafting process. Third-party professional mediators are brought in to help if necessary.
 
-<br>
+In 2013, the Conflict Mediation Division had one of its greatest successes when it resolved a two-year-long dispute between a housing redevelopment association and a couple. After the couple was forcibly evicted from their business premises in 2011, they protested in front of government buildings daily, and negotiations helmed by the Seoul city government failed.
 
-<div style="width:150px"><img src="/images/features/2019/hee-seon-jin.png" alt="Hee Seon Jin" /></div>
+When the Conflict Mediation Division took over the case in 2013, it brought in professional mediators and attorneys who specialised in redevelopment compensation. Months of negotiations bore fruit after more help was offered to the couple, including a special loan to help them to start a new business elsewhere.
 
-| **Hee Seon Jin** |
-|:---|
-| Hee Seon Jin is Deputy Mayor of Urban Regeneration in Seoul Metropolitan Government. He has been in charge of city planning and urban regeneration in Seoul since 2008, and is currently leading urban regeneration policies. He hopes to make Seoul a sustainable city by means of People Powered urban policies; hence, he has a profound interest in the citizen participation in urban regeneration. He gained master degree at Iowa State University, and Ph.D. degree at Yonsei University both in urban planning. |
+Mr Park noted that conflicts, while undesirable, are another form of engagement by citizens: “We want to protect citizens’ right to give their opinions on policies, and guarantee that they have institutional platforms for them to do so.”
 
-<div style="width:150px"><img src="/images/features/2018/winy-maas.png" alt="Winy Maas" /></div>
-
-| **Winy Maas** |
-|:---|
-| Winy Maas is one of the co-founding directors of the globally operating architecture and urban planning firm MVRDV, based in Rotterdam, Netherlands, known for projects such as the Expo 2000 and the vision for greater Paris, Grand Paris Plus Petit. He is also professor at and director of The Why Factory, a research institute for the future city, he founded in 2008 at TU Delft. |
+He said of the importance of citizen engagement: “Seoul, like many other cities, will face many challenges. An engaged citizen is a great citizen, and a great citizen can help to make a great city and a great country.” **<font color="#967942">O</font>**
