@@ -69,5 +69,8 @@ The Yonsei-ro Transit Mall is a pilot project to promote a pedestrian-oriented e
 
 What used to be a narrow street congested with buses, cars, and people, the Yonsei-ro Transit Mall has shifted its focus towards public transport, cyclist and pedestrians, and is today one of the busiest tourist attractions in Seoul with increased street vibrancy.
 
+![Yonsei-ro Transit Mall today](/images/features/2018/yonsei-ro1.jpg/)*Yonsei-ro Transit Mall today © Lee Kuan Yew World City Prize*
 
+![Yonsei-ro Transit Mall today](/images/features/2018/yonsei-ro2.jpg/)*Yonsei-ro Transit Mall today © Lee Kuan Yew World City Prize*
 
+![Yonsei-ro Transit Mall today](/images/features/2018/yonsei-ro3.jpg/)*Yonsei-ro Transit Mall today © Seoul Metropolitan Government*
