@@ -21,9 +21,10 @@ The rising mercury not only poses health risks in the form of heat exhaustion an
 
 To combat the projected rise in temperatures and occurrence of heatwaves, cities from New York City in the United States to Ahmedabad in India and Penrith in Australia have been developing heat action plans and implementing sustainable mitigation measures.
 
-“The rising mercury not only poses health risks in the form of heat exhaustion and heat strokes, but could also stress cities’ energy systems through the increased use of air-conditioning and disproportionately affect low-income families who cannot afford cooling technologies such as air-conditioners and refrigerators.”
+> “The rising mercury not only poses health risks in the form of heat exhaustion and heat strokes, but could also stress cities’ energy systems through the increased use of air-conditioning and disproportionately affect low-income families who cannot afford cooling technologies such as air-conditioners and refrigerators.”
 
-White roofs and green streets
+#### **White roofs and green streets**
+
 Both New York City and Ahmedabad have started carrying out “cool roof” programmes to reduce their urban temperatures. Ahmedabad’s latest Heat Action Plan 2017 notes that “simple low-cost options such as lime-based white wash, tarp-like coverings or white ceramic tiles can help to bring roof temperatures down by as much as 30 degrees Celsius and reduce indoor temperatures by 3 to 7 degrees Celsius”.
 
 In New York City, the government’s Cool Roofs Programme has coated more than 5.7 million square feet (529,547 square metres) of rooftop space with a white reflective coating to lower temperatures.
@@ -34,7 +35,8 @@ The city of Melbourne in Australia has also taken to greening its streets to bea
 
 ![Sydney aims to increase its tree canopy cover in the city by 50% by 2030](/images/features/2018/sydney-tree-canopy.jpg/)*Sydney aims to increase its tree canopy cover in the city by 50% by 2030 © Sydney*
 
-Keeping public spaces cool
+#### **Keeping public spaces cool**
+
 Other cities in Australia are looking into innovative ways to cool their streets, buildings and public spaces too. Apart from committing to a 50 percent increase in tree canopy cover by 2030, Sydney has begun to test the use of lighter-coloured pavement in one street to see if that will lower the street’s temperature by reducing its heat absorption.
 
 Another potential solution is to build roads with porous surfaces that allow water to seep in and even grass to grow through them, as such roads would absorb less heat, although some experts have cautioned against measures that may increase the city’s humidity excessively and thus worsen the risk of heat stress.
@@ -47,9 +49,10 @@ In 2015, Penrith in New South Wales, Australia, adopted a comprehensive “Cooli
 
 It has incorporated urban heat considerations into the design of new community spaces and upgrading of existing ones. These include installing water-retention features such as rain gardens, swales and wetlands that can both reduce the risk of flooding and cool their surroundings. The council is also auditing the city’s bus stops, parks, pedestrian areas around schools and other public spaces to ensure that they have sufficient shading, and identifying government buildings that should be painted in lighter colours or have heat-reflective roofs.
 
-“Cooling the city will have direct and lasting social, economic and environmental benefits as more people are encouraged to walk and visit the city.”
+> “Cooling the city will have direct and lasting social, economic and environmental benefits as more people are encouraged to walk and visit the city.”
 
-Smart layouts, cooler cities
+#### **Smart layouts, cooler cities**
+
 Cities across the world are also experimenting with building designs and urban layouts that can keep heat at bay. In Guiyang, China, the authorities have studied the wind’s patterns, and linked green belts, water bodies such as rivers and reservoirs, and artificial paths including railways, highways and major roads to form corridors for wind to blow through the city.
 
 In Singapore, the government is using urban environmental modelling to design and orient blocks of flats to maximise wind flow and shade in estates. The National Research Foundation is also funding a multi-institute initiative, called Cooling Singapore, to develop a road map to reduce the country’s temperature.
@@ -63,7 +66,7 @@ The district cooling system in Singapore’s Marina Bay precinct has slashed its
 
 “Instead of buildings having individual chiller plant rooms and cooling towers, a centralised network can provide greater energy efficiency and more economies of scale,” said the country’s Minister for National Development Lawrence Wong in a speech in 2016.
 
-“Cooling is essential to human health and prosperity, and is becoming more important as the world urbanises, economies grow and the planet heats up.”
+> “Cooling is essential to human health and prosperity, and is becoming more important as the world urbanises, economies grow and the planet heats up.”
 
 Malaysia has also invested in the systems. Its largest one, in Cyberjaya, a town with a science park in the west coast state of Selangor, helped to reap the equivalent of 8.2 gigawatt hours in electricity savings and avoid 4,100 tonnes of carbon dioxide emissions between 2012 and mid-2017.
 
