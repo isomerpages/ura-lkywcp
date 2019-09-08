@@ -57,8 +57,10 @@ The Mapo Culture Depot is the repurposing of the disused oil tanks at the former
 
 The oil storage facility was abandoned since the early 2000s due to the construction of the Seoul World Cup Stadium nearby in preparation for the city’s co-hosting of the 2002 World Cup. By repurposing the abandoned facility and returning the space to the people, the city demonstrates creativity in conserving its industrial heritage and putting them to new uses.
 
+![Mapo Culture Depot](/images/features/2018/mapo-culture-depot.jpg/)*An overview of the Mapo Culture Depot, with the Seoul World Cup Stadium in the background © Seoul Metropolitan Government*
 
+![An outdoor amphitheatre](/images/features/2018/mapo-amphitheatre.jpg/)*An outdoor amphitheatre, with the structure of the former oil tank standing in the background © Seoul Metropolitan Government*
 
+![Performance and exhibition spaces housed within former oil tanks](/images/features/2018/mapo-performance-spaces.jpg/)*Performance and exhibition spaces housed within former oil tanks © Lee Kuan Yew World City Prize*
 
-
-
+![A newly constructed building in the form of an oil tank housing exhibition spaces](/images/features/2018/mapo-exterior.jpg/)*A newly constructed building in the form of an oil tank housing exhibition spaces, and cladded in materials inspired by the oil tanks © Lee Kuan Yew World City Prize*
