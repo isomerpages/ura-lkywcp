@@ -22,9 +22,10 @@ At the same time, cities run the risk of escalating existing stresses and disrup
 
 As centres of immigration, cities can play a powerful role in engendering integration and in doing so, enable new populations to create cities that are more resilient and dynamic.
 
-“Immigration is an increasingly important urban trend, and poses opportunities and risks for cities. From economic to socio-cultural development, immigrants have been shown to be significant contributors in their host countries.”
+> “Immigration is an increasingly important urban trend, and poses opportunities and risks for cities. From economic to socio-cultural development, immigrants have been shown to be significant contributors in their host countries.”
 
-Engendering social cohesion
+#### **Engendering social cohesion**
+
 With large-scale immigration, a common challenge faced by cities is social tensions arising from linguistic and cultural differences. To mitigate that, many cities have adopted cultural immersion programmes for immigrants as a first step to ensure social cohesion.
 
 The city of Vienna, Austria, where half of the population come from an immigrant background6, focuses on integrating immigrants through German language classes. In 2004, to strengthen social cohesion, the city passed its first anti-discrimination law. In the case of Seoul, Republic of Korea, the government has taken a pre-emptive approach even though immigrants only constitute 2.65% of the population7. In 2009, it piloted a programme for foreign residents to learn the Korean language and understand Korean social and cultural norms.
@@ -39,9 +40,10 @@ With the current high influx of refugees and migrants in Europe now, Frankfurt�
 
 For Frankfurt-based project ANKOMMER: Perspecktive Deutschland, supported by non-profit organisations, the strategy is to fund innovative start-ups that enable social and economic participation of refugees. One such project sees a start-up training and hiring refugees as seamstresses as a way to ease into life, culture and work in Germany. Multiple community organisations in Frankfurt, from non-profits to religious institutions, have also marshalled grassroots volunteers for various projects such as language instruction, collection of clothes and everyday items for refugees, and serving as interpreters and city guides.
 
-“With large-scale immigration, a common challenge faced by cities is social tensions arising from linguistic and cultural differences. To mitigate that, many cities have adopted cultural immersion programmes for immigrants as a first step to ensure social cohesion.”
+> “With large-scale immigration, a common challenge faced by cities is social tensions arising from linguistic and cultural differences. To mitigate that, many cities have adopted cultural immersion programmes for immigrants as a first step to ensure social cohesion.”
 
-Building resilient cities through integration
+#### **Building resilient cities through integration**
+
 Even though cities are resource-rich, immigrants may face barriers in accessing what they have to offer, which in turn may affect the resilience of host cities. For instance, where immigrants face restrictions in employment, the host city’s unemployment rate likewise increases, with corresponding social consequences such as a rise in property-related crime.
 
 Urban planners, organisations and agencies play a crucial role in engaging immigrant communities to build more resilient cities. Toronto, Canada, for example, has established an immigrant employment council with programmes such as matching skilled immigrants to industry mentors and helping immigrants build professional networks.
@@ -54,11 +56,12 @@ Starting in the early 2000s, LAPD began prioritising community relations. “We 
 
 Building public trust also means investing in relationships with community leaders such as school principals, church leaders and civic activists. The efforts have been paying off. “For example, we are getting significant tip-offs from the communities now on activities such as human trafficking and narcotic deals. When there are signs of emerging social unrest or riots, we are able to work quickly with community leaders to instil calm and order,” says Rodriguez. “Community policing allows immigrant communities to come forward and be part of the solution.”
 
-“Cities need to move away from reactive, short-term responses, and invest in long-term policies that recognise immigration as a permanent feature of urbanisation.”
+> “Cities need to move away from reactive, short-term responses, and invest in long-term policies that recognise immigration as a permanent feature of urbanisation.”
 
 In 2016, surveys show that 73.4% of the city’s residents approve of the work LAPD, with high ratings from Hispanic and Asian communities. More than 70% of all communities across ethnicities feel that police are responsive to their needs11. While crime is still significant in the city, crime rates have also been steadily declining since the 1990s.
 
-Integration as the future for global cities
+#### **Integration as the future for global cities**
+
 For the first time in human history, the majority of the world’s population reside in cities. The trend in urbanisation, coupled with immigration trends, points towards a near future where sizeable immigrant communities are hallmarks of global cities.
 
 To effect integration, cities need to move away from reactive, short-term responses, and invest in long-term policies that recognise immigration as a permanent feature of urbanisation. As the cities of Frankfurt and Los Angeles illustrate, such an approach requires city authorities to partner stakeholders including non-profit organisations, government agencies and immigrant communities.
@@ -67,7 +70,14 @@ Meaningful integration will allow cities to tap on the economic and cultural cap
 
 | Notes |
 |:---|
-| 1 | Joint Research Centre (European Commission). 2017. The Cultural and Creative Cities Monitor, pp. 25-28 |
-| 2 | Ibid, p. 28 |
-| 3 | European Parliament, Directorate General for Internal Policies. 2013. European Capitals for Culture: Success Strategies and Long-term Effects, p.9. |
-| 4 | Culture for Cities and Regions. An Acupuncture Strategy to Foster the Cultural and Creative Industries. |
+| 1 | United Nations. 2016. 244 million international migrants living abroad worldwide, new UN statistics reveal. January 16. [Link](http://www.un.org/sustainabledevelopment/blog/2016/01/244-million-international-migrants-living-abroad-worldwide-new-un-statistics-reveal) |
+| 2 | McKinsey Global Institute. 2016. People on the Move: Global Migration’s Impact and Opportunity. McKinsey & Company, p. 3 |
+| 3 | International Organization for Migration. 2015. World Migration Report 2015. France: International Organization for Migration, p. 1 |
+| 4 | Anon. 2017. “Immigrants are bringing entrepreneur flair to Germany”. The Economist. 4 February. [Link](https://www.economist.com/news/europe/21716053-while-native-germans-are-growing-less-eager-start-businesses-new-arrivals-are-ever-more) |
+| 5 | Vandor, Peter and Nikolaus Franke. 2016. “Why are immigrants more entrepreneurial”, Harvard Business Review. 27 October. [Link](https://hbr.org/2016/10/why-are-immigrants-more-entrepreneurial) |
+| 6 | City of Vienna. 2016. Facts and figures – Viennese population according to migration background. [Link](https://www.wien.gv.at/english/social/integration/basic-work/facts-figures.html) | 
+| 7 | Seoul Metropolitan Government. 2016. Population. [Link](http://english.seoul.go.kr) |
+| 8 | City of Frankfurt. 2017. Population. [Link](https://www.frankfurt.de) |
+| 9 | City of Frankfurt. 2017. Integration and Diversity Portal. [Link](http://www.vielfalt-bewegt-frankfurt.de/en) |
+| 10 | 100 Resilient Cities. 2016. Global Migration: Resilient Cities at the Forefront, p. 40 |
+| 11 | Los Angeles Police Department. 2016. Report of the Los Angeles Police Department on the Prevention and Elimination of Biased Policing. 15 November, p. 7-9 |
