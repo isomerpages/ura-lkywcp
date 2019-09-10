@@ -49,6 +49,4 @@ But apart from rebuilding their city, Higashimatsushima’s citizens sought to g
 
 Higashimatsushima offers an example of a smart city that embraces a socially and culturally driven approach to technology, as well as a city where local communities have a say in how technology shapes their lives. In Higashimatsushima, citizens have chosen to use technology to future-proof their city, while in Barcelona and Bandung, citizens are using technology to enhance their everyday lives. Songdo, too, is showing how smart cities can succeed by addressing not just technological but social needs. Such efforts point the way forward for cities that aim to become not just smart, but truly sustainable living environments. **<font color="#967942">O</font>**
 
-<br>
-
 ###### *The author wishes to thank Jason Pomeroy, architect and urbanist at Pomeroy Studio, for his input and insights for part of the content of this article.*
