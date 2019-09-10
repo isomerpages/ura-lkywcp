@@ -17,16 +17,18 @@ The residents of Songdo in South Korea live in a city that is filled with so man
 
 Smart cities have often been typecast as urban centres that are primarily technology-driven. But the above examples offer a snapshot of the diversity of smart cities across the world and how these cities are evolving in both concept and practice to redefine the very concept of a smart city.
 
-Being both smart and sustainable
+#### **Being both smart and sustainable**
+
 Take Songdo, an International Business District that was created from scratch on 600 hectares of reclaimed land off Incheon. This city ticks all the technological boxes, from a citywide network of sensors that monitor its streets and buildings to a waste management system with 55 km of pipes that sort and treat dry waste to generate heat for buildings. Apartments and offices also incorporate built-in videoconferencing systems that allow residents to chat with friends and colleagues and even offer on-line learning courses.
 
 But technology can be both a draw and drawback for smart cities. Songdo’s built-in videoconferencing system, though state-of-the-art when first rolled out, was soon rendered all but obsolete by mobile apps such as FaceTime. The city’s intensive level of surveillance has also raised questions about security as well as personal privacy issues.
 
 Still, people have been flocking to Songdo from far denser cities such as Seoul. Songdo was completed in 2015 but by 2016 was home to 100,000 people, who were drawn to this smart city not just for its technology but also its high quality social infrastructure that includes excellent schools, open spaces, ample parks, and a strong vision for urban environmental sustainability.
 
-“Smart cities have often been typecast as urban centres that are primarily technology-driven. But these examples offer a snapshot of the diversity of smart cities across the world and how these cities are evolving in both concept and practice to redefine the very concept of a smart city.”
+> “Smart cities have often been typecast as urban centres that are primarily technology-driven. But these examples offer a snapshot of the diversity of smart cities across the world and how these cities are evolving in both concept and practice to redefine the very concept of a smart city.”
 
-Citizens and smart cities
+#### **Citizens and smart cities**
+
 As cities embark on technology-driven paths, they must confront and address the role of citizens as well as the risk that some communities may get left behind in the drive to become smart cities. Songdo, for one, has faced criticism for having an overly top-down approach that gives residents little say in its planning.
 
 In contrast, Bandung in Indonesia has embraced a bottom-up approach to making a smart city, by placing technology in the hands of its residents, literally. From just 100,000 residents in 1945, this West Java city is now home to 2.5 million and faces severe strains on its infrastructure. For Ridwan Kamil, a former architect who was elected mayor in 2013, social media was a clear choice for municipal communication given the city’s young population (60% of Bandung’s residents are aged 40 or less, and the city has 2.1 million Facebook users).
@@ -35,11 +37,12 @@ To this end, Bandung created a dedicated Command Centre that collects data from 
 
 Deploying technology on the ground, literally, also characterises Barcelona’s smart city efforts. To tackle traffic congestion in this Spanish city, road-embedded sensors, with the aid of citywide Wi-Fi, guide drivers to available parking lots, which they can pay for online. Lamp-posts sport LEDs (light emitting diodes) that light up when pedestrians are near and dim to conserve energy when streets are empty. Residents can also get “smart” with a Smart Citizen Kit developed by FabLab Barcelona that allows people to monitor, share and compare the quality of their living environment.
 
-“As cities embark on technology-driven paths, they must confront and address the role of citizens as well as the risk that some communities may get left behind in the drive to become smart cities.”
+> “As cities embark on technology-driven paths, they must confront and address the role of citizens as well as the risk that some communities may get left behind in the drive to become smart cities.”
 
 Meanwhile, Amsterdam Smart City in the Netherlands has spawned multiple projects that harness technology to improve everyday liveability and urban sustainability. To promote energy independence, City-zen is a programme that allows households to store and trade surplus solar energy with each other, while Vehicle2Grid offers energy storage and transfer between households and electric cars. The needs of an ageing society are also a key concern, with initiatives such as Klup (a social app for seniors to find companions and activities), Amstelhuis (a residential facility and living lab for senior-friendly environments), and a concerted effort by the city council to engage senior citizens as co-researchers in planning a age-friendly city.
 
-The future of smart cities
+#### **The future of smart cities**
+
 Another smart city with citizens at its forefront is Higashimatsushima. This city, which was badly hit by the earthquake and tsunami that struck east Japan in 2011, is certainly technologically advanced; the city was able to recycle 90% of its earthquake debris to rebuild itself after the natural disaster.
 
 But apart from rebuilding their city, Higashimatsushima’s citizens sought to go further to ensure that cataclysmic events would not disable the city in the future. With the support of their local government, they established Japan’s first solar microgrid system to supply at least half the city’s energy needs. The microgrid would also ensure that vital, life-saving services such as hospitals continue to work even when links to the national grid are lost.
