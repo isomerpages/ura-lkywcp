@@ -51,4 +51,4 @@ Higashimatsushima offers an example of a smart city that embraces a socially and
 
 <br>
 
-###### *The author wishes to thank Jason Pomeroy, architect and urbanist at Pomeroy Studio, for his input and insights for part of the content of this article. This article was first published in June 2017. All images contained within this page are used with license and shall not be copied, modified, or reproduced.*
+###### *The author wishes to thank Jason Pomeroy, architect and urbanist at Pomeroy Studio, for his input and insights for part of the content of this article.*
