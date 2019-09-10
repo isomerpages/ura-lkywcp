@@ -33,7 +33,7 @@ Certainly, safer neighbourhoods in Medellín today are giving peace of mind to b
 
 Escobar points out that apart from manufacturing and industry, Medellín is moving towards becoming “a service-oriented city” in sectors such as film-making, education and digital technology. “We want to make Medellín the best city for education in Colombia,” he says, adding that this entails offering courses in languages such as Korean, Mandarin and Japanese, which would help open doors to new and important markets.
 
-![The residents of Medellín enjoying the public spaces in the city](/images/features/2017/medellin-public-spaces.jpg/)*The residents of Medellín enjoying the public spaces in the city © Medellín*
+![The residents of Medellín enjoying the public spaces in the city](/images/features/2017/medellin-public-space.jpg/)*The residents of Medellín enjoying the public spaces in the city © Medellín*
 
 Technology is expected to be a major driver for Medellín’s future development. Medellín is the only city in Colombia to have a Plan for Science, Technology and Innovation, which aims to make it Latin America’s capital of innovation by 2021. One key thrust of this plan, is a smart district called Medellínnovation. Located in the northern part of the city, Medellínnovation is a cluster of neighbourhoods where entrepreneurs and their families can live and work in the midst of major research institutions, firms at the forefront of infocomm technology and biomedical research, as well as a stimulating environment of parks and public spaces.
 
