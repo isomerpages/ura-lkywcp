@@ -55,3 +55,50 @@ Toronto transformed its waterfront from industrial port lands that cut off publi
 
 ![Toronto Waterfront](/images/features/2016/toronto-waterfront.jpg/)*Toronto Waterfront © Lee Kuan Yew World City Prize*
 
+---
+
+#### **Complete Streets**
+
+Toronto places emphasis on ‘Complete Streets’ in the design of its Waterfront district – streets that support all modes of transportation equally.
+
+![Toronto's complete street strategy](/images/features/2016/toronto-complete-street.jpg/)*Toronto's complete street strategy © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Good urban design**
+
+The city recognised that crowded downtowns would need to make the most of small spaces. The Wavedecks as seen in this photo create exciting new places on former industrial slips that had never been designed with public gathering or recreation in mind.
+
+![Toronto Wavedecks](/images/features/2016/toronto-wavedeck2.jpg/)*Toronto Wavedecks © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Sugar Beach**
+
+Sugar Beach is a whimsical new park that transformed a surface parking lot in a former industrial area into Toronto’s second urban beach at the water’s edge. The park’s brightly coloured pink beach umbrellas welcome visitors to the new waterfront neighbourhood of East Bayfront.
+
+![Toronto Sugar Beach](/images/features/2016/toronto-sugar-beach.jpg/)*Toronto Sugar Beach © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Sherbourne Common**
+
+The water features in Sherbourne Common are designed to attract visitors as well as educate them about water quality, and how the water is collected, treated and made usable again.
+
+![Sherbourne Common](/images/features/2016/toronto-sherbourne-common.jpg/)*Sherbourne Common © Lee Kuan Yew World City Prize*
+
+---
+
+#### **PATH underground system**
+
+Toronto has over 40 years of experience developing the PATH underground system, originally intended to accommodate rush-hour demands of downtown commuters and direct underground connection between Union Station and 4 other subway stops. Today, it has evolved into a well-used pedestrian network that offers convenience and year-round climate controlled comfort space for both commuters and residents alike. The Brookfield Place designed by Spanish Architect Santiago Calatrava (pictured above) is one such place that the PATH network connects to.
+
+![PATH underground system](/images/features/2016/toronto-path.jpg/)*PATH underground system © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Celebrating the city spaces**
+
+Festivals such as Nuit Blanche bring people onto the streets to enjoy the many public spaces in the city.
+
+![Toronto Nuit Blanche 2015](/images/features/2016/toronto-path.jpg/)*Toronto Nuit Blanche 2015 © Lee Kuan Yew World City Prize*
