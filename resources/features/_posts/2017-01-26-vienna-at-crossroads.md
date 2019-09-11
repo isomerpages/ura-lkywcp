@@ -13,7 +13,7 @@ description: Vienna’s progress in environmental stewardship, an example of whi
 
 ![The Danube](/images/features/2017/vienna-danube.jpg/)*The Danube © Vienna*
 
-Mention Vienna and the graceful lilt of Johann Strauss Jr’s Blue Danube Waltz comes to mind. Indeed, the Danube, which flows through the capital of Austria, h![The Danube](/images/features/2017/vienna-danube.jpg/)*The Danube © Vienna*as defined Vienna’s history and landscape for centuries. The river connects the city to the wider European region and also serves as a scenic and historic waterway that attracts both residents and visitors from all over the world.
+Mention Vienna and the graceful lilt of Johann Strauss Jr’s Blue Danube Waltz comes to mind. Indeed, the Danube, which flows through the capital of Austria, has defined Vienna’s history and landscape for centuries. The river connects the city to the wider European region and also serves as a scenic and historic waterway that attracts both residents and visitors from all over the world.
 
 Many people may be unaware that the Danube had a darker side. Devastating springtime floods once swept through the city, damaging infrastructure and disrupting lives. Dykes and other structures were erected to stem the floods. But as floods grew in severity after the Second World War, the city saw the need for a long-term solution.
 
