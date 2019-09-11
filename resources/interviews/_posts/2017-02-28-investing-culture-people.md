@@ -27,8 +27,8 @@ As you know, our most important cultural icon is the Guggenheim Museum for moder
 
 For instance, one of our most renowned features is our cuisine and gastronomy: there are only two million people in the Basque Country but we have 30 Michelin-starred restaurants. The opening of the Azkuna Zentroa, named after the former Mayor of Bilbao, the late Iñaki Azkuna (1943 – 2014) is the latest development on our cultural front. This is a major cultural and sports facility for both our population and the more than one million guests we receive every year.
 
-| **Azkuna Zentroa** |
-| Opened in 2010 as Alhóndiga Bilbao, Azkuna Zentroa serves as an integrated centre for arts, cultural, leisure and sports activities. The centre’s ultra-modern facilities are housed within a wine warehouse built in 1905, which was restored as part of Bilbao’s urban renewal efforts to transform from an industrial metropolis into a modern city of culture. It was renamed Azkuna Zentroa on 16 March 2015 to honour Iñaki Azkuna, Mayor of Bilbao from 1999-2014. |
+> | **Azkuna Zentroa** |
+> | Opened in 2010 as Alhóndiga Bilbao, Azkuna Zentroa serves as an integrated centre for arts, cultural, leisure and sports activities. The centre’s ultra-modern facilities are housed within a wine warehouse built in 1905, which was restored as part of Bilbao’s urban renewal efforts to transform from an industrial metropolis into a modern city of culture. It was renamed Azkuna Zentroa on 16 March 2015 to honour Iñaki Azkuna, Mayor of Bilbao from 1999-2014. |
 
 ![The new Azkuna Zentroa cultural centre](/images/features/2017/azkuna-zentroa.jpg/)*The new Azkuna Zentroa cultural centre © Azkuna Zentroa, Leisure and Culture*
 
