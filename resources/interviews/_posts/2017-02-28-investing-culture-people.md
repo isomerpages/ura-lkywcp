@@ -28,6 +28,7 @@ As you know, our most important cultural icon is the Guggenheim Museum for moder
 For instance, one of our most renowned features is our cuisine and gastronomy: there are only two million people in the Basque Country but we have 30 Michelin-starred restaurants. The opening of the Azkuna Zentroa, named after the former Mayor of Bilbao, the late Iñaki Azkuna (1943 – 2014) is the latest development on our cultural front. This is a major cultural and sports facility for both our population and the more than one million guests we receive every year.
 
 > | **Azkuna Zentroa** |
+> |:---:|
 > | Opened in 2010 as Alhóndiga Bilbao, Azkuna Zentroa serves as an integrated centre for arts, cultural, leisure and sports activities. The centre’s ultra-modern facilities are housed within a wine warehouse built in 1905, which was restored as part of Bilbao’s urban renewal efforts to transform from an industrial metropolis into a modern city of culture. It was renamed Azkuna Zentroa on 16 March 2015 to honour Iñaki Azkuna, Mayor of Bilbao from 1999-2014. |
 
 ![The new Azkuna Zentroa cultural centre](/images/features/2017/azkuna-zentroa.jpg/)*The new Azkuna Zentroa cultural centre © Azkuna Zentroa, Leisure and Culture*
@@ -47,6 +48,7 @@ One way we are doing this is by tapping on our experience in urban transformatio
 Attracting people with knowledge and talent will be another key challenge. We want to be a smart city. In a way we are already a smart city due to our strong culture of innovation, which is not only technology but also the strong collaboration between agencies, institutions and enterprises. As a result of these public-private partnerships, we have achieved good results in our urban transformation and we want to continue to improve on this.
 
 > | **Zorrotzaurre: Industrial peninsula to Island of Talent** |
+> |:---:|
 > | Like many other parts of Bilbao, Zorrotzaurre was an industrial area in the 1960s but became derelict by the 1980s. To rejuvenate the area, Bilbao approved a master plan in 2012, led by Zaha Hadid Architects, to transform Zorrotzaure into a new urban quarter with affordable housing, environmentally friendly business zones and ample green, cultural and creative spaces for residents and visitors. |
 
 ![The new Zorrotzaurre district](/images/features/2017/zorrotzaurre.jpg/)*The new Zorrotzaurre district © Zorrotzaurre Management Commission*
