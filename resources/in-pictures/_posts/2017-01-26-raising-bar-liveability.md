@@ -95,4 +95,4 @@ Vienna’s approach to housing is both unique and progressive: over 50% of housi
 
 Vienna believes in environmental education, especially among the youth, to maintain its high quality of life and sustainability. For instance, Ulli Sima, City Councillor for the Environment (pictured above), has been at the forefront in reaching out to schoolchildren to instil good environmental habits from an early age. 
 
-![City Councillor Ulli Sima with schoolchildren ](/images/features/2017/vienna-environmental-education.jpg/)*City Councillor Ulli Sima with schoolchildren © City of Vienna*
+![City Councillor Ulli Sima with schoolchildren ](/images/features/2017/vienna-environment-education.jpg/)*City Councillor Ulli Sima with schoolchildren © City of Vienna*
