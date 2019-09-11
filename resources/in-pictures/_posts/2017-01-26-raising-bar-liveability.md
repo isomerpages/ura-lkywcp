@@ -33,4 +33,30 @@ Today, there are many leisure and sports activities freely available for the peo
 
 ![Danube Island Festival](/images/features/2017/danube-island-festival.jpg/)*Danube Island Festival © Vienna*
 
+---
+
+#### **Beyond the Museum City Archetype**
+
+Unlike some other European cities that are similarly steeped in long history, Vienna does not stagnate as a “museum city” but instead continues to innovate itself. Tourism is a significant contributor to Vienna’s economy, and its tourist infrastructure such as hotels, restaurants, and tourism enterprises are well used by both visitors and locals alike, contributing to its high quality of urban life.
+
+![St. Stephen’s Cathedral](/images/features/2017/st-stephens-cathedral.jpg/)*St. Stephen’s Cathedral © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Beyond its UNESCO World Heritage Status**
+
+Despite the limited changes that the city can make due to its UNESCO World Heritage Site status, Vienna is continually innovating and has injected vibrancy through focused developments in 13 key areas that will have impacts across the entire city.
+
+![Vienna's historic centre](/images/features/2017/vienna-centre.jpg/)*Vienna's historic centre © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Reconnecting to its Neighbours**
+
+The Wien Hauptbahnhof or Vienna Central Railway Station with its stunning diamond-shaped roof and located just outside the UNESCO World Heritage city centre, is a major redevelopment of the former railway station and transformed the former terminus into an interchange between Eastern and Western Europe.
+
+![Vienna's train station](/images/features/2017/vienna-train-station.jpg/)![Vienna's train station](/images/features/2017/vienna-train-station2.jpg/)*Wien Hauptbahnhof © Lee Kuan Yew World City Prize*
+
+---
+
 
