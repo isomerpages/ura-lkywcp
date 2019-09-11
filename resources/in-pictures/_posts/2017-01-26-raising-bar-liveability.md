@@ -9,9 +9,9 @@ description: Vienna is consistently ranked as one of the most liveable cities in
 
 ---
 
-#### **Seoul – before and after**
+#### **01: Between the East and West**
 
-Seoul is the capital and largest metropolis of South Korea. With a population of 10.2 million in 2016, it is a megacity and the world’s 16th largest city. Seoul experienced a tremendous growth spurt between the 1960s and 2000, with its population increasing from 1.7 million in 1960 to 10.5 million in 2000 (or 6.2 times increase). At the same time, its car population has increased from 8,000 to 2.5 million (or 312.5 times increase). Such a rapid growth over a relatively short period had a great impact on the spatial transformation of the city, at the expense of quality of life.
+Vienna is a historic “Emperor’s city” with over 2 millennia of history, once an important city of the Holy Roman Empire, then the capital of the Austrian-Hungarian Empire and now the capital of the Republic of Austria. Following decades of being the eastern “dead end” of Western Europe after the second World War, the city capitalised on the opportunity of the fall of the Iron Curtain in the early 90s to reposition itself as the heart of Europe, with connections to its east and west.
 
 ![Seoul in the 1970s](/images/features/2018/seoul-before.jpg/)![Seoul today](/images/features/2018/seoul-after.jpg/)*Seoul - before and after © Seoul Metropolitan Government*
 
