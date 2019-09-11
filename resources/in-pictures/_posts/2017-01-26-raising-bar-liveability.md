@@ -15,7 +15,7 @@ Vienna is a historic “Emperor’s city” with over 2 millennia of history, on
 
 ![Vienna’s historic city centre](/images/features/2017/vienna-aerial.jpg/)*Vienna’s historic city centre © Lee Kuan Yew World City Prize*
 
-![Schönbrunn Palace](/images/features/2017/schonbrunn-palace.jpg/)*Schönbrunn Palace © Lee Kuan Yew World City Prize*
+![Schönbrunn Palace](/images/features/2017/schobrunn-palace.jpg/)*Schönbrunn Palace © Lee Kuan Yew World City Prize*
 
 ---
 
@@ -24,3 +24,13 @@ Vienna is a historic “Emperor’s city” with over 2 millennia of history, on
 Vienna’s urban development evolved with the Danube, one of the biggest rivers of the European continent that runs through the city and 9 other countries in the region. The development of the New Danube and Danube Island, and safeguarding of more than 50% of land areas as green spaces demonstrate not only Vienna’s resolve to maintain a high quality of life in the city, but also to raise the bar by setting the benchmark as an environmentally responsible city to its Danube-sharing neighbours.v
 
 ![The Danube Island and New Danube](/images/features/2017/danube-island.jpg/)*The Danube Island and New Danube (on the extreme right) © Lee Kuan Yew World City Prize*
+
+---
+
+#### **A New Public Space in the City**
+
+Today, there are many leisure and sports activities freely available for the people of Vienna on Danube Island, with a host of facilities such as extensive paths, shallow beaches, barbecue spots, sports facilities, restaurants and bars, and a water body suitable for water sports. The Danube Island is also host to the Danube Island Festival – the biggest open-air event in Europe for over 25 years.
+
+![Danube Island Festival](/images/features/2017/danube-island-festival.jpg/)*Danube Island Festival © Vienna*
+
+
