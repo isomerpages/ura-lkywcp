@@ -9,89 +9,49 @@ description: Toronto was named a Special Mention city at the Lee Kuan Yew World 
 
 ---
 
-#### **Between the East and West**
+#### **Canada’s largest and most prosperous city**
 
-Vienna is a historic “Emperor’s city” with over 2 millennia of history, once an important city of the Holy Roman Empire, then the capital of the Austrian-Hungarian Empire and now the capital of the Republic of Austria. Following decades of being the eastern “dead end” of Western Europe after the second World War, the city capitalised on the opportunity of the fall of the Iron Curtain in the early 90s to reposition itself as the heart of Europe, with connections to its east and west.
-
-![Vienna’s historic city centre](/images/features/2017/vienna-aerial.jpg/)*Vienna’s historic city centre © Lee Kuan Yew World City Prize*
-
-![Schönbrunn Palace](/images/features/2017/schobrunn-palace.jpg/)*Schönbrunn Palace © Lee Kuan Yew World City Prize*
-
----
-
-#### **Canada’s largest and most prosperous city
 Toronto is Canada’s largest and most prosperous city. Its location on Lake Ontario connects it to the Great Lakes watershed, which contains 20% of the entire Earth’s fresh water supply, so it is blessed with a resource scarce in many other places.
 
-![The Danube Island and New Danube](/images/features/2017/danube-island.jpg/)*The Danube Island and New Danube (on the extreme right) © Lee Kuan Yew World City Prize*
+![Toronto City Hall](/images/features/2016/toronto-city-hall.jpg/)*Toronto City Hall © Lee Kuan Yew World City Prize*
 
 ---
 
-#### **A New Public Space in the City**
+#### **Diverse city**
 
-Today, there are many leisure and sports activities freely available for the people of Vienna on Danube Island, with a host of facilities such as extensive paths, shallow beaches, barbecue spots, sports facilities, restaurants and bars, and a water body suitable for water sports. The Danube Island is also host to the Danube Island Festival – the biggest open-air event in Europe for over 25 years.
+Toronto is one of the most diverse cities in the world, with non-native Canadians making up 49% of its 2.8 million population. Toronto residents comprise over 230 ethnic origins and 45% of the population identifies their mother tongue as distinct from Canada’s two official languages.
 
-![Danube Island Festival](/images/features/2017/danube-island-festival.jpg/)*Danube Island Festival © Vienna*
-
----
-
-#### **Beyond the Museum City Archetype**
-
-Unlike some other European cities that are similarly steeped in long history, Vienna does not stagnate as a “museum city” but instead continues to innovate itself. Tourism is a significant contributor to Vienna’s economy, and its tourist infrastructure such as hotels, restaurants, and tourism enterprises are well used by both visitors and locals alike, contributing to its high quality of urban life.
-
-![St. Stephen’s Cathedral](/images/features/2017/st-stephens-cathedral.jpg/)*St. Stephen’s Cathedral © Lee Kuan Yew World City Prize*
+![Brookfield Place in Toronto](/images/features/2016/toronto-santiago.jpg/)*Brookfield Place in Toronto © Lee Kuan Yew World City Prize*
 
 ---
 
-#### **Beyond its UNESCO World Heritage Status**
+#### **Toronto is growing**
 
-Despite the limited changes that the city can make due to its UNESCO World Heritage Site status, Vienna is continually innovating and has injected vibrancy through focused developments in 13 key areas that will have impacts across the entire city.
+Toronto is the fastest-growing large city in North America, with 80,000 – 100,000 new residents arriving to the metro area per year. There are currently 147 buildings over 20 storeys under construction.
 
-![Vienna's historic centre](/images/features/2017/vienna-centre.jpg/)*Vienna's historic centre © Lee Kuan Yew World City Prize*
-
----
-
-#### **Reconnecting to its Neighbours**
-
-The Wien Hauptbahnhof or Vienna Central Railway Station with its stunning diamond-shaped roof and located just outside the UNESCO World Heritage city centre, is a major redevelopment of the former railway station and transformed the former terminus into an interchange between Eastern and Western Europe.
-
-![Vienna's train station](/images/features/2017/vienna-train-station.jpg/)![Vienna's train station](/images/features/2017/vienna-train-station2.jpg/)*Wien Hauptbahnhof © Lee Kuan Yew World City Prize*
+![A residential development in Toronto](/images/features/2016/toronto-residential.jpg/)*A residential development in Toronto © Lee Kuan Yew World City Prize*
 
 ---
 
-#### **Cutting-edge Architecture**
+#### **Toronto Public Library**
 
-The Prater-Messe-Krieau-Stadion area is one of Vienna’s 13 key development areas, where a new WU (Vienna University of Economics and Business) Campus is developed next to the historic Prater entertainment district. The Campus houses cutting-edge buildings designed by world-renowned architectural practices such as Zaha Hadid Architects, CRAB Studio (Peter Cook), and Atelier Hitoshi Abe.
+The Toronto Public Library system was created with the formation of Greater Toronto in 1998, bringing together seven separate library systems into one. The library has created equitable access to world class library programmes, spaces, and collections to all corners of the city.
 
-![Library & Learning Centre designed by Zaha Hadid Architects](/images/features/2017/vienna-zaha.jpg/)*Library & Learning Centre designed by Zaha Hadid Architects © Lee Kuan Yew World City Prize*
-
-![Departments Building designed by Estudio Carme Pinós S. L.](/images/features/2017/vienna-departments-building.jpg/)*Departments Building designed by Estudio Carme Pinós S. L. © Lee Kuan Yew World City Prize*
-
-![Teaching Centre and Departments Building designed by BUSarchitektur](/images/features/2017/vienna-teaching-centre.jpg/)*Teaching Centre and Departments Building designed by BUSarchitektur © Lee Kuan Yew World City Prize*
-
-![Departments and Administration Building designed by CRAB Studio](/images/features/2017/vienna-crab-studio.jpg/)*Departments and Administration Building designed by CRAB Studio © Lee Kuan Yew World City Prize*
+![Toronto Public Library](/images/features/2016/toronto-public-library.jpg/)*Toronto Public Library © Lee Kuan Yew World City Prize*
 
 ---
 
-#### **Ensuring Clean Water to the City**
+#### **Welcoming newcomers to the city**
 
-Clean water is a key criterion of the quality of life and citizen satisfaction in Vienna. Natural spring water from the Lower Austrian and Styrian Limestone Alps was first supplied directly to the city in 1873. The city employs various ways to ensure safe storage and supply of clean water to its residents, such as underground reservoirs as pictured above.
+A newcomer to the city often makes their first stop to the local library, where a person – often once a newcomer themselves – at a dedicated desk provides the settlement information that they need.
 
-![Vienna's water supply](/images/features/2017/vienna-water.jpg/)*Vienna's water supply © Lee Kuan Yew World City Prize*
-
----
-
-#### **Housing the People**
-
-Vienna’s approach to housing is both unique and progressive: over 50% of housing in the city is comprised of low cost rentals to ensure sufficient housing for people of low income, and prevent the formation of ghettos. The city’s long-term social housing programme began from the 1920s and heavily influenced by the art deco style (such as Karl-Marx-Hof pictured above), and evolved through the years with new experimental housing developments, as well as renewal programmes to continually refurbish the older flats with modern facilities.
-
-![Karl Marx-Hof Social Housing](/images/features/2017/vienna-social-housing.jpg/)*Karl Marx-Hof Social Housing © Lee Kuan Yew World City Prize*
-
-![Modern housing in Vienna](/images/features/2017/vienna-housing.jpg/)*Modern housing in Vienna © Lee Kuan Yew World City Prize*
+![Welcoming newcomers to the city at Toronto Public Library](/images/features/2016/toronto-newcomers.jpg/)*Welcoming newcomers to the city at Toronto Public Library © Lee Kuan Yew World City Prize*
 
 ---
 
-#### **Environmental Education**
+#### **Toronto Waterfront**
 
-Vienna believes in environmental education, especially among the youth, to maintain its high quality of life and sustainability. For instance, Ulli Sima, City Councillor for the Environment (pictured above), has been at the forefront in reaching out to schoolchildren to instil good environmental habits from an early age. 
+Toronto transformed its waterfront from industrial port lands that cut off public access to the waters into a well-designed, publicly accessible, and attractive district.
 
-![City Councillor Ulli Sima with schoolchildren ](/images/features/2017/vienna-environment-education.jpg/)*City Councillor Ulli Sima with schoolchildren © City of Vienna*
+![Toronto Waterfront](/images/features/2016/toronto-waterfront.jpg/)*Toronto Waterfront © Lee Kuan Yew World City Prize*
+
