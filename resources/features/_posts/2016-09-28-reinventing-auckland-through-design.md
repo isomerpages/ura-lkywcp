@@ -33,7 +33,7 @@ Auckland’s drive for good design gained stronger momentum by 2010, when the ci
 
 In 2013, the city released the first Auckland Design Manual, a resource for stakeholders in design, building and development to share their guidance and best practices. Within the same year, Auckland approved its public art policy, aimed at incorporating art in public spaces. This string of initiatives within a few years propelled the city’s embrace of sound urban design.
 
-![Lorne Street](/images/features/2016/lourne-street.jpg/)*Lorne Street is an example of shared spaces in the city – where pedestrians have the right of way. © Auckland Council*
+![Lorne Street](/images/features/2016/lorne-street.jpg/)*Lorne Street is an example of shared spaces in the city – where pedestrians have the right of way. © Auckland Council*
 
 #### **Reclaiming the city, project by project**
 
