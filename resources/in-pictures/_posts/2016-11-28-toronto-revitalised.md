@@ -101,4 +101,4 @@ Toronto has over 40 years of experience developing the PATH underground system, 
 
 Festivals such as Nuit Blanche bring people onto the streets to enjoy the many public spaces in the city.
 
-![Toronto Nuit Blanche 2015](/images/features/2016/toronto-path.jpg/)*Toronto Nuit Blanche 2015 © Lee Kuan Yew World City Prize*
+![Toronto Nuit Blanche 2015](/images/features/2016/toronto-nuit-blanche.jpg/)*Toronto Nuit Blanche 2015 © Lee Kuan Yew World City Prize*
