@@ -47,7 +47,7 @@ The intensive community engagement also allowed the city to tap on their people�
 
 > “The world is not static, so we need to continue checking in to make sure that we are delivering on what the community most needs.”
 
-#### **Realising a Shared Vision**
+#### **Realising a shared vision**
 
 Less than a decade on, the change in Sydney is already palpable. More than 250 public projects have been completed, such as playgrounds, parks, pools, libraries, theatres and community spaces, bringing much needed revitalisation to Sydney’s neighbourhoods and public spaces. Sydney’s oldest industrial estate is undergoing transformation to become a new connected town centre, called Green Square, driven by sound urban design and architecture.
 
