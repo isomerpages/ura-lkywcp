@@ -65,7 +65,7 @@ The Prater-Messe-Krieau-Stadion area is one of Vienna’s 13 key development are
 
 ![Library & Learning Centre designed by Zaha Hadid Architects](/images/features/2017/vienna-zaha.jpg/)*Library & Learning Centre designed by Zaha Hadid Architects © Lee Kuan Yew World City Prize*
 
-![Departments Building designed by Estudio Carme Pinós S. L.](/images/features/2017/vienna-departments-buildling.jpg/)*Departments Building designed by Estudio Carme Pinós S. L. © Lee Kuan Yew World City Prize*
+![Departments Building designed by Estudio Carme Pinós S. L.](/images/features/2017/vienna-departments-buidling.jpg/)*Departments Building designed by Estudio Carme Pinós S. L. © Lee Kuan Yew World City Prize*
 
 ![Teaching Centre and Departments Building designed by BUSarchitektur](/images/features/2017/vienna-teaching-centre.jpg/)*Teaching Centre and Departments Building designed by BUSarchitektur © Lee Kuan Yew World City Prize*
 
