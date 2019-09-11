@@ -13,7 +13,7 @@ description: Like many developing cities, Medellín experienced a rapid surge in
 
 ![A network of escalators in Comuna 13](/images/features/2016/comuna13.jpg/)*A network of escalators in Comuna 13 San Javier helped improved vertical mobility in the neighbourhood © Carlos Escobar*
 
-The story of Medellín’s population surge is one echoed across many developing cities in Latin America, Asia and Africa. Rapid urbanisation since the 1950s saw an increase in opportunities for work and education in the city, turning Medellín into a migration magnet. In 1940, Medellín’s population hovered around 170,000. By the end of the 1990s, it had burgeoned to almost 2 million1.
+The story of Medellín’s population surge is one echoed across many developing cities in Latin America, Asia and Africa. Rapid urbanisation since the 1950s saw an increase in opportunities for work and education in the city, turning Medellín into a migration magnet. In 1940, Medellín’s population hovered around 170,000. By the end of the 1990s, it had burgeoned to almost 2 million<sup>1</sup>.
 
 Widespread informal housing quickly followed the mass migration, leading to a proliferation in informal high-density barrios (neighbourhoods). Many of these barrios spread upwards to the mountains encircling the city, which is located in a valley. Aníbal Gaviria Correa, who was mayor of Medellín from 2012 to 2015, describes, “We are a city of mountains, and many of our citizens live in informal settlements in parts of the mountains. This is a problem because sometimes we have landslides and people are killed.”
 
