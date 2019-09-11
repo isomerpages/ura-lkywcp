@@ -23,7 +23,7 @@ Participation matters, and goes hand in hand with strong leadership and good gov
 
 On his part, Daseking observes that city leaders and planners are learning that it is in fact “much easier to bring projects forward when citizens are included in the discussion from the first step.” A culture of participatory planning, he says, can mean that “project delivery becomes smoother and faster, and the exchange of ideas drive up quality too.”
 
-“I think many people focus too much on the strategic or long-term plan, [and] tend to forget that to create cities for people – liveable, sustainable and vibrant cities – it takes leadership and good governance.”
+> “I think many people focus too much on the strategic or long-term plan, [and] tend to forget that to create cities for people – liveable, sustainable and vibrant cities – it takes leadership and good governance.”
 
 #### **Reaching out to the wider metropolitan region**
 
