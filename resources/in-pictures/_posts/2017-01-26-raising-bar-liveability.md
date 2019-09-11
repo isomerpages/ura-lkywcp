@@ -59,4 +59,40 @@ The Wien Hauptbahnhof or Vienna Central Railway Station with its stunning diamon
 
 ---
 
+#### **Cutting-edge Architecture**
 
+The Prater-Messe-Krieau-Stadion area is one of Vienna’s 13 key development areas, where a new WU (Vienna University of Economics and Business) Campus is developed next to the historic Prater entertainment district. The Campus houses cutting-edge buildings designed by world-renowned architectural practices such as Zaha Hadid Architects, CRAB Studio (Peter Cook), and Atelier Hitoshi Abe.
+
+![Library & Learning Centre designed by Zaha Hadid Architects](/images/features/2017/vienna-zaha.jpg/)*Library & Learning Centre designed by Zaha Hadid Architects © Lee Kuan Yew World City Prize*
+
+![Departments Building designed by Estudio Carme Pinós S. L.](/images/features/2017/vienna-departments-building.jpg/)*Departments Building designed by Estudio Carme Pinós S. L. © Lee Kuan Yew World City Prize*
+
+![Teaching Centre and Departments Building designed by BUSarchitektur](/images/features/2017/vienna-teaching-centre.jpg/)*Teaching Centre and Departments Building designed by BUSarchitektur © Lee Kuan Yew World City Prize*
+
+![Departments and Administration Building designed by CRAB Studio](/images/features/2017/vienna-crab-studio.jpg/)*Departments and Administration Building designed by CRAB Studio © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Ensuring Clean Water to the City**
+
+Clean water is a key criterion of the quality of life and citizen satisfaction in Vienna. Natural spring water from the Lower Austrian and Styrian Limestone Alps was first supplied directly to the city in 1873. The city employs various ways to ensure safe storage and supply of clean water to its residents, such as underground reservoirs as pictured above.
+
+![Vienna's water supply](/images/features/2017/vienna-water.jpg/)*Vienna's water supply © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Housing the People**
+
+Vienna’s approach to housing is both unique and progressive: over 50% of housing in the city is comprised of low cost rentals to ensure sufficient housing for people of low income, and prevent the formation of ghettos. The city’s long-term social housing programme began from the 1920s and heavily influenced by the art deco style (such as Karl-Marx-Hof pictured above), and evolved through the years with new experimental housing developments, as well as renewal programmes to continually refurbish the older flats with modern facilities.
+
+![Karl Marx-Hof Social Housing](/images/features/2017/vienna-social-housing.jpg/)*Karl Marx-Hof Social Housing © Lee Kuan Yew World City Prize*
+
+![Modern housing in Vienna](/images/features/2017/vienna-housing.jpg/)*Modern housing in Vienna © Lee Kuan Yew World City Prize*
+
+---
+
+#### **Environmental Education**
+
+Vienna believes in environmental education, especially among the youth, to maintain its high quality of life and sustainability. For instance, Ulli Sima, City Councillor for the Environment (pictured above), has been at the forefront in reaching out to schoolchildren to instil good environmental habits from an early age. 
+
+![City Councillor Ulli Sima with schoolchildren ](/images/features/2017/vienna-environmental-education.jpg/)*City Councillor Ulli Sima with schoolchildren © City of Vienna*
