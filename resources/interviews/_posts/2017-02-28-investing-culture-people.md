@@ -46,8 +46,8 @@ One way we are doing this is by tapping on our experience in urban transformatio
 
 Attracting people with knowledge and talent will be another key challenge. We want to be a smart city. In a way we are already a smart city due to our strong culture of innovation, which is not only technology but also the strong collaboration between agencies, institutions and enterprises. As a result of these public-private partnerships, we have achieved good results in our urban transformation and we want to continue to improve on this.
 
-| **Zorrotzaurre: Industrial peninsula to Island of Talent** |
-| Like many other parts of Bilbao, Zorrotzaurre was an industrial area in the 1960s but became derelict by the 1980s. To rejuvenate the area, Bilbao approved a master plan in 2012, led by Zaha Hadid Architects, to transform Zorrotzaure into a new urban quarter with affordable housing, environmentally friendly business zones and ample green, cultural and creative spaces for residents and visitors. |
+> | **Zorrotzaurre: Industrial peninsula to Island of Talent** |
+> | Like many other parts of Bilbao, Zorrotzaurre was an industrial area in the 1960s but became derelict by the 1980s. To rejuvenate the area, Bilbao approved a master plan in 2012, led by Zaha Hadid Architects, to transform Zorrotzaure into a new urban quarter with affordable housing, environmentally friendly business zones and ample green, cultural and creative spaces for residents and visitors. |
 
 ![The new Zorrotzaurre district](/images/features/2017/zorrotzaurre.jpg/)*The new Zorrotzaurre district © Zorrotzaurre Management Commission*
 
