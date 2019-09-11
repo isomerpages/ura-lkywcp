@@ -21,7 +21,7 @@ Vienna is a historic “Emperor’s city” with over 2 millennia of history, on
 
 #### **Blue Danube**
 
-Vienna’s urban development evolved with the Danube, one of the biggest rivers of the European continent that runs through the city and 9 other countries in the region. The development of the New Danube and Danube Island, and safeguarding of more than 50% of land areas as green spaces demonstrate not only Vienna’s resolve to maintain a high quality of life in the city, but also to raise the bar by setting the benchmark as an environmentally responsible city to its Danube-sharing neighbours.v
+Vienna’s urban development evolved with the Danube, one of the biggest rivers of the European continent that runs through the city and 9 other countries in the region. The development of the New Danube and Danube Island, and safeguarding of more than 50% of land areas as green spaces demonstrate not only Vienna’s resolve to maintain a high quality of life in the city, but also to raise the bar by setting the benchmark as an environmentally responsible city to its Danube-sharing neighbours.
 
 ![The Danube Island and New Danube](/images/features/2017/danube-island.jpg/)*The Danube Island and New Danube (on the extreme right) © Lee Kuan Yew World City Prize*
 
