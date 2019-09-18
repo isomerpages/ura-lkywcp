@@ -17,9 +17,10 @@ We are not alone on this planet. It may seem unbelievable, but humanity shares t
 
 At the same time, we now live in a largely, and increasingly, urban world; by 2050, nearly two-thirds of the world’s population will reside in urban zones. But as cities expand, they run the risk of losing habitats rich in biodiversity as well as the ecosystem services provided by these natural environments. Such ecosystem services, which are often taken for granted and extremely costly to replace when lost, include the provision of freshwater catchment areas; protection from floods, storms and erosion; carbon capture and storage; and climate and pollution control.
 
-“Cities, far from being barren concrete jungles, are emerging as havens for many species of plants and animals, which have learnt to survive in built-up environments or thrive in urban parks, gardens and other green lungs.”
+> “Cities, far from being barren concrete jungles, are emerging as havens for many species of plants and animals, which have learnt to survive in built-up environments or thrive in urban parks, gardens and other green lungs.”
 
-The value of biodiversity
+#### **The value of biodiversity**
+
 The ecosystem services provided by biodiversity affect us in very direct ways. Forests and wetlands supply the oxygen we breathe and absorb the carbon dioxide that would other contribute to climate change. Bees, birds and butterflies perform essential pollination services for many crops; when their habitats are destroyed, the ecosystem services provided by these creatures are also threatened and may be very costly, if not impossible, to replace.
 
 In addition, natural habitats and their biodiversity are increasingly seen as vital components of liveable cities. They provide spaces for recreation and help to restore physical and mental health. Urban parks and forests also contribute to a sense of belonging and well-being, by offering what Timothy Beatley, Teresa Heinz Professor of Sustainable Communities at the University of Virginia, USA, calls “opportunities to experience awe and wonder”. In Japan, for instance, city folk have embraced the practice of shinrin-yoku or ‘forest-bathing’, by regularly walking through lush forests in order to lower their stress levels and recharge their spirits.
@@ -38,16 +39,18 @@ Professor Lehmann cites the recent example of a heatwave that killed more than a
 
 Professor Beatley, who founded the Biophilic Cities Network of cities seeking to incorporate nature as an essential element of their urban design, is in agreement with this, stating his view that biophilic cities “are more resilient in the face of climate change and other challenges.”
 
-“Urban greenery has benefits such as increased wellness, growing bird populations and providing the ageing population with new meeting places.”
+> “Urban greenery has benefits such as increased wellness, growing bird populations and providing the ageing population with new meeting places.”
 
-Measuring urban biodiversity
+#### **Measuring urban biodiversity**
+
 A crucial step to protecting urban biodiversity is knowing how much of it exists and which habitats are of high value for their biodiversity and ecosystem services. This process requires a different methodology from that used in country-wide studies; hence, a dedicated tool called the City Biodiversity Index (CBI) has been developed by Singapore’s National Parks Board with the co-operation of the United Nations, and was launched in 2010 at the 9th Meeting of the Conference of Parties to the Convention on Biological Diversity at Nagoya, Japan.
 
 Dr Lena Chan of the National Parks Board, who helped develop the CBI, explains that the Index serves “as a long-term monitoring tool for city governments to evaluate their biodiversity conservation efforts”. Since its launch, the CBI has been applied by 24 city governments worldwide. “Academics have applied the index to a further 14 cities,” Dr Chan reveals. “In addition, twelve more city governments are currently in the process of applying the index.”
 
 The CBI offers cities a self-assessment tool to measure their biodiversity and determine where protection is most needed. “The scores can help the cities decide on how to prioritise their resources,” explains Dr Chan. “For example, the city council may allocate more financial and manpower resources to indicators that have low scores so that they can improve on the areas of weakness. The parameters measured by the CBI include: the proportion of natural areas in a city; the proportion of protected natural areas; an assessment of the ecosystem, recreational and educational services of natural areas; institutional capacity; and public participation and partnerships. Sharing his view on the index, Professor Lehmann said, “Singapore has developed a world-class methodology with the Cities Biodiversity Index.”
 
-Creating green cities and corridors
+#### **Creating green cities and corridors**
+
 A growing number of cities worldwide have made natural habitats an integral part of their planning and development. One city that stands out in its proportion of green spaces is Austria’s capital, Vienna, where meadows, gardens, parks and woods make up nearly 50% of the metropolitan area. This green cityscape arose from a deliberate zoning plan that protects designated green areas and valuable ecosystems. In addition, the city authorities periodically acquires land that is set aside as parks, which number some 2,000 across a city of 200 sq. km. Households are also encouraged to grow trees in their courtyards and plant rooftop vegetation, and the city works with environmental groups to nurture suitable wildlife habitats such as butterfly meadows, bird-nesting areas and urban wetlands.
 
 Elsewhere, Professor Lehmann offers the example of Australia’s “202020 Vision”, which was launched in 2012. “The ‘202020 Vision’ explores how business, government, education and community in Australia can work together to increase green space and create 20% more green space in our urban areas by 2020,” he explained. “It has been a very successful initiative to incorporate urban greenery in every new masterplan and project. We have seen a real shift in attitudes towards street trees, the creation of urban forests and community gardens.”
@@ -56,9 +59,10 @@ Melbourne, which is part of the 2020202 Vision network, has been making huge str
 
 Such efforts recognise that public engagement and involvement are vital to get people invested in preserving and caring for the nature around them. Professor Beatley offers another example in the Indian city of Bangalore, where residents have been taking part in an Urban Slender Loris Project to monitor small nocturnal primates that dwell in the city’s trees. For him, this is a prime example of citizen science that “gets citizens personally engaged and curious about what is in their city, and enlists their support to learn more about the biology of this species.” Meanwhile, in San Francisco, USA, a programme called the Bay Area Puma Project is educating schoolchildren about coexistence with the pumas or mountain lions in the area. “For me, the agenda is also about sharing space, about reimagining cities as places we share with other form of life,” states Professor Beatley. “Can you imagine living in a city where you might have a glimpse of a mountain lion? I want to live in a city where that’s possible.”
 
-“In an era when cities will confront the effects of climate change and higher average temperatures, planners must combine private and public investment to facilitate cooler cities, which are cities that stay cooler, even in future heatwaves.”
+> “In an era when cities will confront the effects of climate change and higher average temperatures, planners must combine private and public investment to facilitate cooler cities, which are cities that stay cooler, even in future heatwaves.”
 
-Healthier habitats for humanity
+#### **Healthier habitats for humanity**
+
 Looking ahead, Professor Lehmann expressed his view that strategies for urban greenery must “also include developing and emerging cities.” These cities with a population of 500,000 to a million, he remarked, often grow much faster than established megacities and require a forward-looking planning strategy that “includes green corridors, green belts or community gardens with increased shade” in order to improve the quality of life for as many residents as possible.
 
 Professor Lehmann cited Havana in Cuba, Bogotá in Colombia and Curitiba in Brazil as developing cities that have successfully invested in urban greenery and thereby raised their liveability. “The time has come to learn from these positive cases of cities that have managed to achieve progress outside of Europe and North America, and replicate the formula through a buy-in of communities, developers and planners,” he stated.
