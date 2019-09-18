@@ -43,7 +43,7 @@ The Danube River that flows through Vienna is also being tamed through a long-te
 
 Environmental sustainability also headlines Sydney’s vision to become a “Green, Global and Connected City”, which is being realised through programmes such as the Greening Sydney Plan for comprehensive urban greening initiatives and the Cycle Strategy and Action Plan 2007–2017. The latter aims to make cycling a first choice transport option, alongside walking and public transit, through a citywide cycleway network.
 
-![Sydney aims to increase its urban canopy cover](/images/features/2016/sydney-tree.jpg/)*Sydney aims to increase its urban canopy cover © City of Sydney*
+![Sydney aims to increase its urban canopy cover](/images/features/2016/sydney-tree.jpg/)*Sydney aims to increase its urban canopy cover © Sydney*
 
 Meanwhile, the Greening Sydney Plan seeks to increase 50% of its urban canopy cover by 2030 by creating more tree-lined streets, acquiring land for parks and making greenery a requirement in new developments. Having more green spaces also contributes to better community relations and confidence, as seen in Redfern, a crime-ridden inner-city neighbourhood that turned around following an injection of public parks and playgrounds.
 
