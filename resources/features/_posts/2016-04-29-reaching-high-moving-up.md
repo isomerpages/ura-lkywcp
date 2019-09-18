@@ -1,7 +1,7 @@
 ---
 title: Reaching high and moving up - Medellín's mountains of achievements
 permalink: /resources/features/reaching-high-moving-up/
-image: /images/features/2016/medellin-metrocable.jpg
+image: /images/features/2016/medellion-metrocable.jpg
 description: The city of Medellín in Colombia has built upon its Special Mention award in 2014 to become the 2016 Lee Kuan Yew World City Prize Laureate. The city’s former Mayor Aníbal Gaviria Correa and former Director of Planning Jorge Pérez Jaramillo were in Singapore in March 2016 to attend the Media Conference announcing this year’s Laureate and Special Mentions – Auckland, Sydney, Toronto and Vienna – and share the story of how the world’s most dangerous city was transformed into a “City of Life”.
   
 ---
@@ -12,7 +12,7 @@ description: The city of Medellín in Colombia has built upon its Special Mentio
 
 ***The city of Medellín in Colombia has built upon its Special Mention award in 2014 to become the 2016 Lee Kuan Yew World City Prize Laureate. The city’s former Mayor Aníbal Gaviria Correa and former Director of Planning Jorge Pérez Jaramillo were in Singapore in March 2016 to attend the Media Conference announcing this year’s Laureate and Special Mentions – Auckland, Sydney, Toronto and Vienna – and share the story of how the world’s most dangerous city was transformed into a “City of Life”.***
 
-![The MetroCable](/images/features/2016/medellin-metrocable.jpg/)*The MetroCable © Municipality of Medellín*
+![The MetroCable](/images/features/2016/medellion-metrocable.jpg/)*The MetroCable © Municipality of Medellín*
 
 Medellín (pronounced ‘Medejin’) in the 1990s, as Aníbal Gaviria Correa recalled, was a place of “pain and a dark night”. It was “like a war,” said Gaviria of Colombia’s second-largest city, which was then wrecked by poverty and crime that made it “the most violent city in the world” with nearly 400 homicides per 100,000 residents. For Gaviria, who served as Medellín’s Mayor from 2012-2015, the pain is also personal; his elder brother, a former provincial governor, was kidnapped and later murdered by guerrillas during a march for peace that began in Medellín in 2003.
 
