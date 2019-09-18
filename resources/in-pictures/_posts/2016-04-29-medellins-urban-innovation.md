@@ -51,7 +51,7 @@ Public spaces are integrated at the base of the MetroCable pylons, an example of
 
 #### **Escalators at Comuna 13 San Javier**
 
-A set of escalators at Comuna 13 San Javier – once the most violent neighbourhood in the city – helped to improve mobility in the hillside neighbourhood. This is coupled with upgraded footpaths and roads, as well as pocket parks and wall mural artwork, and improved the quality of life in the neighbourhood. Guides are also employed from the local community at Comuna 13 San Javier to ensure a safe ride on the escalators for everyone.
+A set of escalators at Comuna 13 San Javier – once the most violent neighbourhood in the city – helped to improve mobility in the hillside neighbourhood. This is coupled with upgraded footpaths and roads, as well as pocket parks and wall mural artwork, and improved the quality of life in the neighbourhood. Guides (bottom photo) are also employed from the local community at Comuna 13 San Javier to ensure a safe ride on the escalators for everyone.
  
 ![Escalators at Comuna 13 San Javier](/images/features/2016/escalators.jpg/)![Escalators at Comuna 13 San Javier](/images/features/2016/escalators2.jpg/)*© Lee Kuan Yew World City Prize*
 
