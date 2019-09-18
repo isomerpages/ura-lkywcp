@@ -67,7 +67,7 @@ The stunning Spanish Library Park or Parque Biblioteca España designed by Archi
 
 #### **Life Articulated Units**
 
-The Life Articulated Units or Unidades de Vida Articulada are community spaces built around existing water tanks in the city to return these previously under-utilised spaces back to the people, allowing many communal activities and festivals to take place. 
+The Life Articulated Units or *Unidades de Vida Articulada* are community spaces built around existing water tanks in the city to return these previously under-utilised spaces back to the people, allowing many communal activities and festivals to take place. 
  
 ![Life Articulated Units](/images/features/2016/life-articulated-units.jpg/)*© Medellín*
 
