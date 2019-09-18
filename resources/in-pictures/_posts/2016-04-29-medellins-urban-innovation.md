@@ -51,8 +51,62 @@ Public spaces are integrated at the base of the MetroCable pylons, an example of
 
 #### **Escalators at Comuna 13 San Javier**
 
-A set of escalators at Comuna 13 San Javier – once the most violent neighbourhood in the city – helped to improve mobility in the hillside neighbourhood. This is coupled with upgraded footpaths and roads, as well as pocket parks and wall mural artwork, and improved the quality of life in the neighbourhood.
+A set of escalators at Comuna 13 San Javier – once the most violent neighbourhood in the city – helped to improve mobility in the hillside neighbourhood. This is coupled with upgraded footpaths and roads, as well as pocket parks and wall mural artwork, and improved the quality of life in the neighbourhood. Guides are also employed from the local community at Comuna 13 San Javier to ensure a safe ride on the escalators for everyone.
  
-![Escalators at Comuna 13 San Javier](/images/features/2016/escalators.jpg/)*© Lee Kuan Yew World City Prize*
+![Escalators at Comuna 13 San Javier](/images/features/2016/escalators.jpg/)![Escalators at Comuna 13 San Javier](/images/features/2016/escalators2.jpg/)*© Lee Kuan Yew World City Prize*
 
 ---
+
+#### **Library Parks**
+
+The stunning Spanish Library Park or Parque Biblioteca España designed by Architect Giancarlo Mazzanti in 2007 is one of many library parks in Medellín built in the poorest neighbourhoods, providing easy access points to learning and information for the local residents.
+ 
+![Spanish Library Park](/images/features/2016/library-park.jpg/)*© Lee Kuan Yew World City Prize*
+
+---
+
+#### **Life Articulated Units**
+
+The Life Articulated Units or Unidades de Vida Articulada are community spaces built around existing water tanks in the city to return these previously under-utilised spaces back to the people, allowing many communal activities and festivals to take place. 
+ 
+![Life Articulated Units](/images/features/2016/life-articulated-units.jpg/)*© Medellín*
+
+---
+
+#### **Circumvent Garden**
+
+At the urban-rural edge, the Circumvent Garden or Jardin Circunvalar de Medellín provides communal spaces, such as the ‘Walk of Life’ pedestrian footpath pictured here, while limiting urban expansion. 
+ 
+![Circumvent Garden](/images/features/2016/circumvent-garden2.jpg/)*© Medellín*
+
+---
+
+#### **Moravia Garden**
+
+In another part of the city, a former waste dump and barren landfill was transformed into Moravia Garden, a botanical “garden of life” managed by members of the community. 
+ 
+![Moravia Garden](/images/features/2016/moravia-garden.jpg/)*© Medellín*
+
+---
+
+#### **Citizens’ empowerment**
+
+The citizens are empowered to use up to five percent of the local budget for community uses, such as the Good Start Programme centred on early childhood education to develop the youngest segment of the population. 
+
+![Children](/images/features/2016/good-start-programme.jpg/)*© Lee Kuan Yew World City Prize*
+
+---
+
+#### **Metro Culture**
+
+Local students are employed as Metro guides to foster a “Metro Culture” by inculcating good social behaviour on the Metro system as well as public spaces.  
+
+![Metro Culture](/images/features/2016/metro-culture.jpg/)*© Lee Kuan Yew World City Prize*
+
+---
+
+#### **Information on the go**
+
+The “Running Words” initiative (top photo) is an open bookshelf located at Metro stations, allowing commuters to take a book for free, read on the go, lend it to a friend or family member, and return later. Small libraries (bottom photo) here are located conveniently in Metro stations, allowing commuters access to information on the go.   
+
+![Running words](/images/features/2016/running-words.jpg/)![Metro library](/images/features/2016/metro-library.jpg/)*© Lee Kuan Yew World City Prize*
