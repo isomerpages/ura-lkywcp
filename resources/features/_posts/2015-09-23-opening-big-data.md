@@ -13,7 +13,7 @@ description: With advancement in big data analytics, urban planners and city gov
 
 ![Big data](/images/features/2015/big-data.jpg/)*Image © Kris Krüg 2013*
 
-Technology company IBM estimates that the world produces some 2.5 quintillion bytes of data every day. Sensors, mobile phones, machines, wearable technology and social media – these are just some of the diverse sources feeding the data torrent. As technology and the Internet of Things become increasingly intertwined with work and life, the volume of data generation likewise is set to grow in tandem.
+Technology company IBM estimates that the world produces [some 2.5 quintillion bytes of data every day](http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html). Sensors, mobile phones, machines, wearable technology and social media – these are just some of the diverse sources feeding the data torrent. As technology and the Internet of Things become increasingly intertwined with work and life, the volume of data generation likewise is set to grow in tandem.
 
 Large data sets are not new to urban planning. Municipal authorities have always worked with disparate and voluminous data sets such as utilities usage, traffic patterns, household information and income distribution etc. What has transformed the landscape now is two-fold – the exponential growth in data volume, and the extensive coverage of data arising from the surge in number of connected devices and sensors in the city.
 
@@ -37,7 +37,7 @@ Nonetheless, these approaches still grant limited, or rather, specific access to
 
 #### **Open data initiatives: for and against**
 
-According to the World Bank, more than 250 governments at national, subnational and city levels and almost 50 countries have launched open data initiatives to date, wherein the data is both technically and legally open. This means that users are able to download raw, machine-readable data, and reuse and repurpose it legally.
+According to the World Bank, more than 250 governments at national, subnational and city levels and [almost 50 countries have launched open data initiatives to date](http://opendatatoolkit.worldbank.org/en/open-data-in-60-seconds.html), wherein the data is both technically and legally open. This means that users are able to download raw, machine-readable data, and reuse and repurpose it legally.
 
 The arguments for such projects are well-established. The government’s data is funded by taxpayers and therefore should be publicly accessible. Opening raw data has its extolled benefits. It can help catalyse urban innovation, create business opportunities, improve urban governance and living conditions, inform policy making and bring about greater transparency and accountability in governance. It also allows governments to access the expertise of a much larger, more diverse set of users as they explore and use the data.
 
@@ -49,7 +49,7 @@ Despite these pressing concerns, city governments worldwide are beginning to see
 
 #### **Catalysing data-driven solutions**
 
-When it launched in 2009, the United States of America’s open data project had only 47 sets of data. Six years on, there are over 130,000 sets of government data and users range from civic hackers (citizens who collaborate with others to solve civic problems using open data), designers to researchers and developers.
+When it launched in 2009, the United States of America’s open data project had only 47 sets of data. Six years on, there are [over 130,000 sets of government data](https://www.data.gov/meta/data-gov-turns-six/) and users range from civic hackers (citizens who collaborate with others to solve civic problems using open data), designers to researchers and developers.
 
 The litmus test of open data projects lies in the application. In the case of the United States of America, they found a slew of companies harvesting the data to create services and products, from tracking and comparing price of organic produce across states, visualisation of agricultural yields and job matching to geospatial analysis and travel deals sites. Companies who have benefitted from the open data spread across a spectrum, from multinationals such as LinkedIn and Foursquare to localised, smaller entities.
 
