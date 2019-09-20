@@ -19,22 +19,24 @@ Over time, humankind has become highly equipped to deal with such challenges, an
 
 “Building resilience is a forward-looking, target-driven approach to urban development, which uses a wide range of measures addressing all elements of urban systems,” says Margareta Wahlström, Assistant Secretary-General, United Nations Office for Disaster Risk Reduction.
 
-“Building resilience is a forward-looking, target-driven approach to urban development, which uses a wide range of measures addressing all elements of urban systems.”
+> “Building resilience is a forward-looking, target-driven approach to urban development, which uses a wide range of measures addressing all elements of urban systems.”
 
 “Ensuring these targets are met demands all levels of communities and governments work together to ensure the safety of all people and to protect the economic, social, environmental, and cultural assets and attributes that define the unique character of each city,” she adds.
 
 With the number of natural disasters and socio-economic challenges on the rise globally, cities, non-government organisations and multilateral agencies have formed working groups with the aim of better managing a wide range of events, including hurricanes, forest fires, economic demise and civic disturbances. One such group is the 100 Resilient Cities Network, which helps cities become more resilient to physical, social and economic challenges and serves as a forum for city leaders to learn and share global best practices. As of January 2015, there are almost 70 member cities representing more than 40 countries worldwide.
 
-Natural disaster mitigation
+#### **Natural disaster mitigation**
+
 Civic authorities are increasingly turning to technologies like predictive analytics, smart hardware and software, and social media to protect them against acts of God and black swan events. In addition, urban planners are also using more conventional technologies like civil engineering and natural engineering. The former is where urban planners enhance the ability of natural systems to protect towns and cities – for instance, the installation of waterways to divert stormwater away from flood-prone areas. Natural engineering includes protective infrastructure like sea walls and dykes; environmental technologies like clean energy and water conservation and purification; and transportation networks, which enable residents to easily evacuate threatened areas.
 
 “Most natural disasters involve one or both of two types of stresses. On one hand there is chronic stress – damage that is been done over a long period of time (for example, deforestation) – and on the other there are acute events: disasters themselves. These often interact,” explains Dr Peter Williams, Chief Technology Officer at IBM’s Big Green Innovations unit.
 
 “In Northern India, for instance, decades of deforestation (chronic stress) have given rise to an increase in city flash floods (acute stress). This is because forests act as watersheds, absorbing rainfall and slowly releasing the water into rivers and streams. Without them, water flows directly into waterways at a much faster pace and hence causes flash floods,” he adds.
 
-“City leaders must continuously engage with their constituents in order to have an in-depth understanding of challenges on the ground.”
+> “City leaders must continuously engage with their constituents in order to have an in-depth understanding of challenges on the ground.”
 
-Community engagement
+#### **Community engagement**
+
 While use of engineering systems and information technology can lessen the impact of natural disasters, preparedness and coordination between public authorities, residents and businesses plays an equally important role in protecting cities.
 
 The Municipality of San Francisco in Cebu Province, the Philippines, exemplifies the critical role communication plays in protecting urban areas. Remarkably, the municipality experienced no fatalities during Typhoon Haiyan. The city’s leadership prepared residents and businesses and advised all the city’s stakeholders on how best to safeguard themselves from typhoons. Using road shows and mass media like radio, newspapers and social platforms, the municipality was able to educate residents on how best to shelter from typhoons. As a result, despite most of the area’s buildings and infrastructure being flattened by Haiyan, injuries were minimal.
@@ -43,7 +45,8 @@ The Municipality of San Francisco in Cebu Province, the Philippines, exemplifies
 
 “Cities and national authorities must incorporate all three models in order to maximise their resilience to floods, hurricanes and so forth. Furthermore, city leaders must continuously engage with their constituents in order to have an in-depth understanding of challenges on the ground,” he adds.
 
-Cyber-risks
+#### **Cyber-risks**
+
 The advent of technology has also resulted in cities facing a new test of their resilience: the growing threat that cybercrime poses to their livelihood. While this is a recent phenomenon, the range of risks and the diversity of perpetrators have greatly expanded over the past few years. Web-based threats generally fall into two categories: malware and advanced persistent threats. The former merely exists on the Internet and does not target a specific computer or institution. The latter, however, is aimed at a specific person or organisation with the aim of causing disruption, financial loss or reputational damage.
 
 “Perpetrators target cities with the aim of achieving many different outcomes. These include financial reward by means of bribery or theft; disruption or damage to physical and digital assets; and exposure of confidential information, which could be viewed as controversial by the general public,” explains Pierre Noel, Chief Security Officer, Asia, Microsoft.
@@ -54,7 +57,8 @@ In order to counter these threats, municipal authorities must have a holistic pe
 
 “Few countries are better protected against the threat of cyber-attacks than Singapore. The nation has invested in state-of-the art defence systems and has implemented robust processes to counter the risks,” adds Noel. “Being a city-state, Singapore also benefits from having government agencies collectively monitor cyber-security issues.
 
-Towards robust resilience
+#### **Towards robust resilience**
+
 To protect against both cyber-attacks and other risks like natural disasters, Noel recommends appointing a Chief Resilience Officer (CRO). As part of their role, CROs will assess all threats and communicate the implications of these to all stakeholders, including other government entities, industry and residents. Cities can therefore determine where gaps in their resilience reside and what must be done to amend these.
 
 Given the range of risks threatening today’s cities, as well as the sheer number of people that can be affected by them, protecting urban areas requires the cooperation of all stakeholders that make them function. These include politicians, community and youth groups, civil society, academia and businesses.
