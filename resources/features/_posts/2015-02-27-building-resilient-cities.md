@@ -13,7 +13,7 @@ description: With more than half of the world’s population living in urban are
 
 ![Punggol Eco-Town](/images/features/2015/punggol.jpg/)*Punggol Eco-Town © Lee Kuan Yew World City Prize*
 
-The concept of protecting cities from acts of God and manmade threats is nothing new. Since prehistoric times, both formal and informal settlements have sought to guard their livelihoods from an array of risks, including droughts, famine, floods, social unrest, hostile enemies and more. In 12th century Cambodia, for instance, the Khmer Empire was at its height and its capital city of Angkor was a thriving metropolis of around 750,000 people. However, a series of mega-monsoons, interspersed with catastrophic droughts, contributed to the decline and fall of an empire that had thrived for almost 700 years.
+The concept of protecting cities from acts of God and manmade threats is nothing new. Since prehistoric times, both formal and informal settlements have sought to guard their livelihoods from an array of risks, including droughts, famine, floods, social unrest, hostile enemies and more. In 12th century Cambodia, for instance, the Khmer Empire was at its height and its capital city of Angkor was a thriving metropolis of around 750,000 people. However, a series of mega-monsoons, interspersed with catastrophic droughts, contributed to the [decline and fall of an empire that had thrived for almost 700 years](http://archaeology.about.com/od/medieval/qt/Collapse-Of-Angkor.htm).
 
 Over time, humankind has become highly equipped to deal with such challenges, and utilises a variety of sophisticated components to build resilient cities today. These include robust infrastructure, sound communication systems, good governance, and buy-in from residents, businesses and community groups.
 
@@ -23,7 +23,7 @@ Over time, humankind has become highly equipped to deal with such challenges, an
 
 “Ensuring these targets are met demands all levels of communities and governments work together to ensure the safety of all people and to protect the economic, social, environmental, and cultural assets and attributes that define the unique character of each city,” she adds.
 
-With the number of natural disasters and socio-economic challenges on the rise globally, cities, non-government organisations and multilateral agencies have formed working groups with the aim of better managing a wide range of events, including hurricanes, forest fires, economic demise and civic disturbances. One such group is the 100 Resilient Cities Network, which helps cities become more resilient to physical, social and economic challenges and serves as a forum for city leaders to learn and share global best practices. As of January 2015, there are almost 70 member cities representing more than 40 countries worldwide.
+With the number of [natural disasters](http://www.livescience.com/414-scientists-natural-disasters-common.html) and [socio-economic](http://www.ilo.org/global/research/global-reports/weso/2015/WCMS_337069/lang--en/index.htm) challenges on the rise globally, cities, non-government organisations and multilateral agencies have formed working groups with the aim of better managing a wide range of events, including hurricanes, forest fires, economic demise and civic disturbances. One such group is the 100 Resilient Cities Network, which helps cities become more resilient to physical, social and economic challenges and serves as a forum for city leaders to learn and share global best practices. As of January 2015, there are almost 70 member cities [representing more than 40 countries worldwide](http://www.100resilientcities.org/cities#/-_/).
 
 #### **Natural disaster mitigation**
 
@@ -65,7 +65,7 @@ Given the range of risks threatening today’s cities, as well as the sheer numb
 
 When local leaders involve citizens in the decision-making process, city resilience is strengthened and more accurately reflects the needs of residents and businesses.
 
-For example, a public private partnership between Japanese electronics firm Panasonic and three agencies – (Economic Development Board (EDB), Energy Market Authority (EMA) and the Housing & Development Board (HDB) in Singapore - aims to integrate solar technology, lithium-ion batteries and a Home Energy Management System (HEMS) in an existing public housing block in Punggol Eco-Town.
+For example, a public private partnership between Japanese electronics firm Panasonic and three agencies – (Economic Development Board (EDB), Energy Market Authority (EMA) and the Housing & Development Board (HDB) in Singapore - aims to integrate solar technology, lithium-ion batteries and a Home Energy Management System (HEMS) in an existing public housing block in [Punggol Eco-Town](https://www.nccs.gov.sg/nccs-2012/docs/NCCS-2012-Publication.pdf).
 
 Singapore faces low risks of natural disasters, yet strives to build urban resilience against climate change and to overcome natural limitations of land and water resources. A multi-agency Resilience Working Group was set up in 2010 to assess its physical vulnerabilities to climate change. The Resilience Framework is developed to guide the formulation of a national adaptation plan to safeguard Singapore against potential climate change impacts up to the year 2100.
 
