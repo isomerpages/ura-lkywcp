@@ -35,25 +35,25 @@ We see cities more greatly impacted by disaster when leaders fail to consider th
 
 > “Developing resilience is vital because urban disasters are going to affect growing numbers of people.”
 
-#### **Are Western cities better prepared against the threat of natural disasters when compared their counterparts in emerging markets?
+#### **Are Western cities better prepared against the threat of natural disasters when compared their counterparts in emerging markets?**
 
 **PW:** Levels of preparation in places like North America, Europe, Australia and Singapore are generally greater than those found in the developing world, due to greater institutional strength and financial capacity. However, there are some extremely well prepared cities in the developing world and there are some underprepared cities in the West.
 
 For instance, the Municipality of San Francisco in Cebu Province, the Philippines, demonstrated its resilience during Typhoon Haiyan, where unlike other cities across the country it experienced no fatalities. This is because the city’s leadership had prepared adequately for such an event. In 2011, the municipality produced a 10-point checklist aimed at mitigating the impact of natural disasters, addressing areas like roles and responsibilities; the allocation of shelters; and educating the public on the how to act during catastrophes. Despite much of the city’s buildings and infrastructure being flattened by the typhoon, injuries were minimal.
 
-#### **What technologies can help shield urban areas from natural disasters?
+#### **What technologies can help shield urban areas from natural disasters?**
 
 **PW:** Cities can protect themselves by deploying three types of technology: natural engineering; civil engineering; and information technology (IT). Natural engineering is where urban planners enhance the ability of natural systems to protect towns and cities. For instance, in terms of water management these range from the installation of waterways to divert stormwater to laying porous pavements to prevent flooding. Civil engineering includes protective infrastructure like sea walls and dykes; environmental technologies like clean energy and water conservation and purification; and transportation networks, which enable residents to easily evacuate threatened areas.
 
 However, cities are increasingly turning to IT to better protect themselves against the impact of natural disasters. Use of big data analytics and other monitoring tools allow urban planners to model and understand how an event may unfold and how it will disrupt a city. It also enables civic authorities to be proactive in the management of critical assets. For instance, if a city loses use of an electricity substation due to flooding, sensors will alert the asset’s operator of its shutdown. In turn, authorities are able to take contingency action and avoid additional fallout from this particular incident. IT therefore grants cities advanced warning over possible failures, advises its leaders on the best course of protective action, and provides analytics to model future events. Finally, IT in the form of mobile computing (smart phones) and web sites allows citizens to be better informed; to signal that they do or do not need help; and not least to help each other when emergency authorities may be overwhelmed.
 
-#### **Can you provide examples of how IBM has helped civic authorities better understand and protect themselves against natural disasters?
+#### **Can you provide examples of how IBM has helped civic authorities better understand and protect themselves against natural disasters?**
 
 **PW:** Recently, IBM undertook a project to model the propensity of the seabed off the coast of the South of France to generate tsunamis and storm surges. The region experiences storm surges and strong currents that are unpredictable and can cause much damage and disruption to onshore assets and can catch residents and authorities unaware. The company provided local authorities with in-depth insight into the patterns of these surges, as well as providing them with the tools needed to predict the outcome of these incidents.
 
 IBM also works with the Government of South Australia to crowdsource data with the aim of containing bush fires. A common trait among these fires is their ability to jump from one place to another, due to the high winds generated around them. This means that while emergency services may have contained an incident in one place it is likely that fire has already spread elsewhere. By analysing text and images posted on social media in real-time, state authorities are able to track incidents that may not be detected through traditional systems like CCTV and aerial observation. This process also grants authorities additional oversight regarding evacuation routes and traffic flows to and from disaster areas.
 
-#### **How can cities best govern their resilience initiatives?
+#### **How can cities best govern their resilience initiatives?**
 
 **PW:** Cities can manage their natural disaster defence programmes through three complementary models. These are: a top-down approach, where an authority instructs residents and businesses on the best course of action; a “side-to-side” approach, which involves citizens coordinating their actions with one another; and a bottom-up model, where citizens feedback to authorities and what they need.
 
