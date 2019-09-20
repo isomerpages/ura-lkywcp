@@ -47,7 +47,7 @@ This partnership between the public and private sectors plays a critical role in
 
 > “Medellín has served as an experience we can and want to share with the world.”
 
-#### **Key lessons: Inclusive policies for sustainable development**
+#### **Key lessons - Inclusive policies for sustainable development**
 
 Medellín’s commitment to sustained innovative urban development has been widely recognised. The city’s leadership credits this to good planning and good communication, which has ensured that development initiatives are led by the people of Medellín – and not by the government.
 
