@@ -21,9 +21,10 @@ While the influence of globalisation and zoning on modern society and cities has
 
 “I was told in school that cities are bad, and free-standing buildings are good. I was also told to keep residents, workplaces and recreational areas separate; and that the idea of cities spread over several-tens of kilometres was good. But at no point did anyone question whether these structures made the quality of life better for residents. Only decades later did we realise that they do not,” Gehl adds.
 
-“What happened during this era of urban expansion is that cities lost their sense of human scale – they simply became too large, which encouraged ownership of the motorcar.”
+> “What happened during this era of urban expansion is that cities lost their sense of human scale – they simply became too large, which encouraged ownership of the motorcar.”
 
-Scalability
+#### **Scalability**
+
 The professor points towards the cities of old, where towns and villages were relatively small-scale when compared to those of today and comprised more greenery and walkways; people could freely interact with fellow residents in common areas such as town squares. Furthermore, residential areas were intertwined with places of work, which allowed residents to walk to work and ensured that such areas remained vibrant after office hours. Towns and other urban areas were places that were enjoyed rather than merely somewhere to work, according to Gehl.
 
 “What happened during this era of urban expansion is that cities lost their sense of human scale – they simply became too large, which encouraged ownership of the motorcar. Ultimately city authorities want to make the journeys of people easier, but this must not be at the expense of the environment or human health,” says Gehl.
@@ -36,18 +37,20 @@ Travel has become a necessity of the modern world, the professor acknowledges. H
 
 “No place in the world seems to be a more logical choice than New York: it is such a dense city, it is very flat, the climate is generally quite nice, and the streets are generally very wide, so there is ample room for bike lanes and trees,” he adds.
 
-Attractive cities
+#### **Attractive cities**
+
 Aesthetics are an added consideration for urban planners. Gehl notes that in the past, it was assumed that having developing cities spread over several kilometres made such places more liveable and visually pleasing for residents. However, the professor argues otherwise, claiming that good architecture can flourish in both compact and expansive settings – along with luscious greenery, culture and entertainment, and other recreational spaces. Furthermore, by interspersing green areas and places of recreation between residential and work districts, urban planners encourage work-life balance – a key component of liveable and sustainable cities.
 
 Singapore is such a place, says the professor. Through comprehensive urban planning, the city-state has fused all of the above factors and has become highly liveable and sustainable, while housing a high-density population. Other cities Gehl commends for their consideration of social and environmental matters include Auckland, Copenhagen, New York, Melbourne, Stockholm and Vancouver.
 
 A city’s visual attractiveness is a core component in making it liveable and sustainable, claims the professor: “For people walking through the city, beautiful space, carefully planned details and genuine materials provide valuable experiences on their own merits and as a valuable extra layer to the other qualities the city has to offer.”
 
-![Argyle Square, Melbourne](/images/features/2014/argyle-square.jpg/)*Argyle Square, Melbourne © City of Melbourne*
+![Argyle Square, Melbourne](/images/features/2014/argyle-street.jpg/)*Argyle Square, Melbourne © City of Melbourne*
 
 He adds: “Trees, landscaping and flowers play a key role among the elements in city space. In addition to their immediate aesthetic qualities, the green elements in the city have a symbolic value. The presence of green elements passes on a message about recreation, introspection, beauty, sustainability and the diversity of nature.”
 
-People-centric models
+#### **People-centric models**
+
 Gehl gives the following as benefits of returning to traditional urban models and lessening motorcar usage: urban areas become less spread out and more compact; cities become more aesthetically and environmentally pleasing to residents and workers; the city population becomes fitter and healthier; and everybody becomes more appreciative of the environment where they live and work. Hence, cities become more liveable.
 
 “Sustainable cities of the 21st century should be lively cities, safe cities, sustainable cities and healthy cities. All of these qualities can be achieved, more or less, through one policy – encouraging citizens to walk and cycle, making our cities more sustainable with less use of fossil fuels and less energy consumption,” he says.
