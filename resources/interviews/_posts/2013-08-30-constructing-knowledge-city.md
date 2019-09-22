@@ -1,5 +1,5 @@
 ---
-title: Andoni Aldekoa on constructing a knowledge city - Bilbao 2.0
+title: Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city
 permalink: /resources/interviews/constructing-knowledge-city/
 image: /images/features/2013/andoni-aldekoa.jpg
 description: In 2010, Bilbao City Hall was awarded the inaugural Lee Kuan Yew World City Prize in recognition of its transformation of the city of Bilbao from being in industrial decline, to a modern and vibrant city. Howard James spoke with Andoni Aldekoa, Chief Executive Officer of Bilbao City Council, about the next stage in the city’s development.
