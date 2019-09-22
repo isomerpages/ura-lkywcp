@@ -45,7 +45,7 @@ The city’s widespread transport network was also critical in offering Medellí
 
 #### **Common challenges, shared solutions**
 
-Cities remain arguably the most important global actors on the world stage, which will house around two-thirds of the world’s population by 2050. Cities are responsible for 67% of global energy consumption, produce more than 70% of greenhouse gas emissions, and are the acknowledged drivers of the global economy with 600 urban centres generating about 60% of global GDP. With urbanisation a seemingly irrevocable trend, WCS attendees were united in the belief that cities must be placed at the forefront of tackling sustainable growth.
+Cities remain arguably the most important global actors on the world stage, which will [house around two-thirds of the world’s population by 2050](http://www.who.int/gho/urban_health/situation_trends/urban_population_growth_text/en/). Cities are responsible for 67% of global energy consumption, [produce more than 70% of greenhouse gas emissions](http://urban.ias.unu.edu/index.php/cities-and-climate-change/), and are the acknowledged drivers of the global economy with [600 urban centres generating about 60% of global GDP](http://www.mckinsey.com/insights/urbanization/urban_world). With urbanisation a seemingly irrevocable trend, WCS attendees were united in the belief that cities must be placed at the forefront of tackling sustainable growth.
 
 The World Cities Summit is a platform for leaders and industry experts around the world to convene to address common challenges of rapid urbanisation and share integrated urban solutions and forge new partnerships.
 
