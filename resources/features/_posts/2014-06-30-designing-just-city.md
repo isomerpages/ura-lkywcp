@@ -21,25 +21,28 @@ Fainstein is sceptical of city rankings published by various think tanks, believ
 
 Rather, the professor believes that looking at the people within the city and their quality of life is a better measure of a city’s success.
 
-Equitable cities
+#### **Equitable cities**
+
 An equitable city is defined by Fainstein as one that is planned, executed and managed with all components of society in mind. New developments and policies should benefit the worse-off such that they become better off. The concept of equitable planning is driven by a need to better all sections of society to the benefit of all. “If you have more equity and more people better educated, then more people will have a chance at opportunity, and they are also likely to contribute to economic growth,” Fainstein says.
 
 New York City’s The High Line illustrates Fainstein’s point on equitable planning. The project is a public park adapted from an obsolete railroad track, which would have been torn down were it not for the lobbying from grassroots organisations. The High Line became a city icon and a tourist destination, fuelling billions of dollars of investment into the area that was entirely funded by the private sector.
 
 Besides reaping economic rewards, equitable planning can circumvent several psychosocial risks, as identified by the British professor Richard Wilkinson. The author of The Spirit Level strongly believes that the ill effects of inequality can lead to mental illness, drug addiction, obesity, imprisonment, unequal opportunities and poor child health. Planning for equitable cities thus addresses issues that go beyond the rich-poor divide.
 
-Inclusivity
+#### **Inclusivity**
+
 Laying the foundations of an equitable city requires civic authorities to adopt an inclusive mode of planning and policymaking. Indeed, Fainstein argues that any such planning must be done strictly in consultation with local communities and the population at large.
 
 This is where New York City is widely regarded to have excelled in. Before any major land use decision is made, the city will consult the public, including community groups, community-based development organisations, local businesses and political organisations, to name a few. And, the views of each group are considered prior to any decision being made.
 
-“A just city will ultimately benefit all its residents and their quality of life. Whether by reducing crime, encouraging social cohesion or forging a closer rapport and sense of ownership between a city and its residents, the principles of social justice can harness real and tangible value for a city.”
+> “A just city will ultimately benefit all its residents and their quality of life. Whether by reducing crime, encouraging social cohesion or forging a closer rapport and sense of ownership between a city and its residents, the principles of social justice can harness real and tangible value for a city.”
 
 Using the axed proposed expressway along New York City’s Hudson River as an example, Fainstein recalls how the project was challenged by the general public on the basis that it would adversely affect the natural habitat of a certain species of fish that lives in the river. City planners eventually nixed the project.
 
 This argument for incorporating inclusivity into urban planning and development has been growing. A 2009 report on South America published by the Urban Age programme at the London School of Economics and Political Science (LSE) argues that only through a rigorous participatory process can cities create a master plan that “express[es] all the forces that effectively build the city”. The report concludes that if the entire population – including the poor – understand, approve and then monitor the master plan, the city can henceforth better understand its territory and legitimise its spaces.
 
-Fostering diversity
+#### **Fostering diversity**
+
 A ‘just city’ must openly foster diversity, which Fainstein defines on ethnic, programmatic and typological terms. The professor cites Singapore’s Housing Development Board (HDB) as a good example of planning for diversity: not only does HDB integrate various ethnicities in each estate, it also ensures that the majority of Singaporeans are eligible to own public housing.
 
 Studies have shown that heterogeneity can act as a bulwark against rampant crime rates. To gauge their correlation, an Urban Age report looked at the urban renewal of the Cidade Tiradentes district in Sao Paulo, Brazil. The district was transformed from one wracked by crime into a safer, more mixed neighbourhood through public planning and a series of urban interventions.
