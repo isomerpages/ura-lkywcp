@@ -46,3 +46,11 @@ Of course, green walls are not exclusively the domain of shiny new buildings –
 Some local councils are beginning to encourage green walls by providing planning advice. In the UK, Brighton & Hove City Council, in partnership with the charitable organisation Food Matters, is encouraging builders to incorporate measures to enable food growing in new developments, and some edible vertical gardens have emerged as a result. From residential aged care to student accommodation, developments in the region are now hubs of urban food-growing, with innovative features such as productive edible grape vines, fruit trees, and salads and herbs used as part of green walls.
 
 The use of green walls to support biodiversity is currently being examined. Most studies have focused on green roofs in the urban environment and their ability to provide habitat for a wide range of animal and plant species. Plants, birds and insects have been known to thrive in some rooftop environments, and new research into the connection between green roofs and green walls may provide the push we need to embrace green walls for good. **<font color="#967942">O</font>**
+
+<br>
+
+<div style="width:150px"><img src="/images/features/2013/jane-henley.png" alt="Jane Henley" /></div>
+
+| **Jane Henley** |
+|:---|
+| Jane Henley is the past CEO of World Green Building Council. She has been at the forefront of international Green Building movement for the past 10 years. During this time she ran the largest international organization driving the growth of the green building market. She is a past director of the United Nations Sustainable Building Climate Initiative board (UNEP-SBCI). Ms Henley was the Chairperson of the popular ‘Business Case for Green Building (2013). |
