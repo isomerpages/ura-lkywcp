@@ -13,14 +13,16 @@ description: By 2030, one-eighth of the world’s population will be residing in
 
 ![Nanjing Road, Shanghai.](/images/features/2013/nanjing-road.jpg/)*Nanjing Road, Shanghai. Image © GlobalCitizen01*
 
-Economic transition
+#### **Economic transition**
+
 The majority of Chinese cities are presently industry-focused, as the nation’s competitive edge has predominantly been its low-cost manufacturing base. However, as China’s middle class grows and expectation of better wages and working and living standards increases, Chinese cities are gradually moving towards a knowledge-based economy model.
 
 China’s leadership is trying to steer the economy away from heavy industry, and is actively seeking to build a stronger commerce base in the country’s cities. To do so successfully, China’s cities must be attractive propositions in order to retain and attract talent, argues Dr Alfonso Vegara President Fundacion Metropoli, a Spanish foundation dedicated to developing urban innovations.
 
 Enabling this blue-collar to white-collar transition with minimum social, environmental and economic impact will not be easy. How urban authorities manage this transition will be a key determiner in the future shape of China and its cities.
 
-Social integration
+#### **Social integration**
+
 According to the World Bank, China’s urban population outnumbered that of rural areas for the first time at the end of 2011. Rural-to-urban migration is already creating pressures to offer better housing, transportation and job opportunities to urban residents. Failure to meet the needs of the urban populace could lead to social unrest. In 2010, China’s Development Research Centre warned that rural workers could become a serious threat to social stability if they were not better integrated.
 
 Land disputes, as a result of growing urban populations, have the potential to become a cause of social unrest in China. A senior communist party official, Chen Xiwen, head of the Office of Central Rural Work Leading Group, warned that China’s urbanisation could trigger violent clashes over expropriation of farmland for urban development. Issues such as environmental pollution, health and sanitation problems, homelessness and crime also have the potential to generate social discontent if left unaddressed.
@@ -29,7 +31,8 @@ However, despite these pressures, the Chinese government has managed the issue o
 
 Chinese cities also seem to be coping better than their peers from other emerging economies and have not suffered from the crime and civic violence seen in rapidly urbanising cities elsewhere. This, argues Sir Peter Hall, Professor of Planning at the Bartlett School of Architecture and Planning, University College London, is due to China’s urban authorities ability to create socio-economic prospects. “[Chinese cities] offer better opportunities for lower-income people to rise up the scale,” says Hall.
 
-Environmental stewardship
+#### **Environmental stewardship**
+
 As vital to the socio-economic development of a country as cities are, their social and economic cohesion cannot be achieved at the cost of neglecting the environment. And, until recently, China’s urban development had been at the expense of the environment.
 
 Chinese cities continue to house an array of polluting factories from multiple industries. Furthermore, companies circumventing recently introduced waste management controls have created both environmental and health problems in urban areas. As a result, the World Bank estimates that around 750,000 Chinese die prematurely each year due to pollution-related causes.
@@ -48,7 +51,10 @@ There is also growing awareness that urban development in China must also preser
 
 Dr Qiu believes this is indicative of a change in Chinese urban leadership. “Many of China’s municipal governments have revised their development goals and methods, putting more emphasis on building liveable and sustainable cities,” he says.
 
-Towards sustainable cities
+> "Many of China’s municipal governments have revised their development goals and methods, putting more emphasis on building liveable and sustainable cities."
+
+#### **Towards sustainable cities**
+
 To be sustainable, cities need to have comprehensive, long-term planning to tackle urban challenges. However, what works in cities elsewhere may not be applicable to Chinese cities.
 
 Urban development in many Western cities has been successfully driven by public-private partnerships (PPPs) that merge private sector skills with the vision of civic leadership. However, according to Dr Qiu, China’s political system, where local authorities are inextricably linked to both private and state-owned companies, makes implementing PPPs logistically and politically difficult. “Without adequate information and legal constraints, it’s still premature to promote PPPs in sustainable cities,” explains Dr Qiu.
