@@ -35,7 +35,7 @@ However, becoming a high-value city is more than merely achieving economic prosp
 
 “There are many other considerations that operate below the surface, unseen and often unknown to most people. For example, comprehensive infrastructure planning, protection of nature and ecologically sensitive areas, and energy conservation strategies and policies.”
 
-#### ** The challenge and value of transformation**
+#### **The challenge and value of transformation**
 
 The transformation from low-value industrial hub to one characterised by housing services and technology-driven enterprises is highly challenging for businesses and state authorities alike. Globally, very few cities have been able to make this change successfully.
 
