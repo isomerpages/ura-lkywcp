@@ -21,9 +21,10 @@ For a city to truly become a global city, Sassen argues that it must fulfil two 
 
 Global cities are always evolving, argues Sassen. They are complex frontiers that constantly present challenges and opportunities to both citizens and visitors. These cities’ flexibility and adaptability contribute to their dynamism. Authorities must revel in this unique attribute, rather than attempt to hinder their perpetual change.
 
-“A global city allows business to capitalise on the city’s labour pool and its expertise, but it is also a place where innovation and the exchange of ideas take place. Residents of a global city have diverse backgrounds, and their multitude of cultural heritages influences the global city’s unique ambience.”
+> “A global city allows business to capitalise on the city’s labour pool and its expertise, but it is also a place where innovation and the exchange of ideas take place. Residents of a global city have diverse backgrounds, and their multitude of cultural heritages influences the global city’s unique ambience.”
 
-Social equality
+#### **Social equality**
+
 A key component of becoming a global city is social equality. Aspiring global cities must ensure that wealth is evenly distributed and that basic amenities such as housing, education and public transport are affordable. In Sassen’s view, the world must work harder to maintain social order and protect their citizens against the growing number of “mass elites” who earn significantly higher proportion of national income.
 
 She makes particular reference to the rise of the super-prime housing market, properties costing an average of around US$8 million, in cities like London, New York and Hong Kong. Expatriate-friendly environments have brought in ultra-wealthy foreigners that drive the super-prime market. However, Sassen argues that is not a positive means of growing foreign investment, as it inflates local housing prices and makes such properties unaffordable for natives.
@@ -32,7 +33,8 @@ Sassen says that the appeal of London – which is scheduled to hit the megacity
 
 Research by David Satterthwaite of the International Institute for Environment and Development shows one billion people globally now live in informal settlements and lack basic infrastructure or services. This is acutely felt in Asia, which has the greatest concentration of megacities on the planet. One possible answer lies in the success of Singapore’s Housing Development Board scheme. Sassen points to it as providing affordable housing for locals, which is unavailable to foreign investors, as a means of countering the challenges associated with super-prime housing markets.
 
-Innovate not ‘over-technologise’
+#### **Innovate not ‘over-technologise'**
+
 “It’s inevitable that in cities with high-rise buildings and sophisticated transport systems you need a lot of good technology. But the more smart technology you pump into a building, the more that building will become obsolete quickly.”
 
 Sassen claims today’s cities “over-technologise”, and more must be done to share a city’s technological capabilities with residents. This could be achieved through greater availability of open source technologies that allow ordinary users to access free software to help enhance their skills and general quality of life.
@@ -41,9 +43,10 @@ In addition, technological innovation in other fields will further develop the s
 
 In developing economies, water supply and sewage infrastructure is often unable to keep pace with megacities’ population growth. “Cities have real problems discarding sewage and often do it improperly,” says Sassen. “In Denmark, however, they are already making plastic out of sewage. It’s a new vanguard in terms of environmental sustainability and we need more of these types of solutions to meet the needs of today’s cities,” asserts Sassen.
 
-“Global cities are characterised by a balance between their physical and social requirements and an appreciation of cities’ built-up and somewhat-restricted land space. Cities that harbour well-designed public spaces, amenities and transportation networks do so through consideration of the surrounding environment and well thought out urban planning.”
+> “Global cities are characterised by a balance between their physical and social requirements and an appreciation of cities’ built-up and somewhat-restricted land space.”
 
-Cities that speak
+#### **Cities that speak**
+
 Global cities are characterised by a balance between their physical and social requirements and an appreciation of cities’ built-up and somewhat-restricted land space. Cities that harbour well-designed public spaces, amenities and transportation networks do so through consideration of the surrounding environment and well thought out urban planning.
 
 Sassen labels this interaction between a city’s physical environment and its residents as “cities that talk back'. “If we pay attention to the physical spaces of cities and think carefully about what works and what does not, cities are talking to their planners. Think of this not in the talking sense, but more as an act of empowerment,” she explains.
@@ -52,7 +55,8 @@ Many of the world’s largest urban concentrations are unable to achieve this. L
 
 This is not insurmountable, believes Sassen. “If you look back to the 1980s in New York City, the Riverside Park area in Upper West Side Manhattan experienced high crime rates. But, as the city grew in prosperity and younger educated workers moved into the neighbourhood, the area changed. People bought dogs to protect themselves, and as they walked these dogs at night crime rates subsequently fell. This is another example of where a city talks back and counters a specific problem,” says Sassen.
 
-Towards unique cities
+#### **Towards unique cities**
+
 Core to the aspirations of all global cities is the desire to remain unique. The professor asserts cities must not focus on competing with each other, but rather must focus on developing their unique attributes. Using aircraft manufacturing conglomerate Boeing as an example, Sassen highlights why the company chose Chicago over New York City to house its global headquarters: “Chicago has a deep history of innovation, manufacturing and logistics. New York, however, boasts skills and expertise in the financial services, retail and commerce sectors – areas that are not central to Boeing’s core businesses.” Cities must therefore promote their own unique attributes in attempting to attract investment.
 
 The transition from megacity towards global city is not an easy path. However, to make this happen, the megacity must embrace its cultural diversity; encourage social vibrancy; and advance technological innovation. Furthermore, all cities – not just megacities – must achieve these while simultaneously ensuring it is a place of opportunity for businesses and residents.
