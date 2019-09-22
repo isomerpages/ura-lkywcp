@@ -15,7 +15,8 @@ description: World Cities Summit (WCS) 2014 brought together decision makers and
 
 “Year by year, cities have grown in importance. Urbanisation is proceeding at an unprecedented scale. [Since 2012] more than 100 million people have moved into cities from the countryside,” said Singapore Prime Minister, Lee Hsien Loong in his speech at the joint opening ceremony for the 2014 World Cities Summit, Singapore International Water Week and CleanEnviro Summit Singapore. WCS provides a bi-annual platform for government leaders, industry experts, representatives of international organisations and academics to learn from their peers’ expertise and experiences in developing solutions for the global urban population.
 
-Building sustainable, successful cities
+#### **Building sustainable, successful cities**
+
 Sustainability as a prerequisite for a successful city was a topic that was raised across every WCS session. Cities, it was agreed, must deliver long-term social, economic and environmental benefits to all urban stakeholders. Key to delivering this sustainable growth is long-term vision and planning. Given cities’ long development cycles, sustained sound governance is critical to ensure that they see their urban development through to completion.
 
 Suzhou, the 2014 Lee Kuan Yew World City Prize Laureate, made a conscious decision over two decades ago to ensure that social, environmental, cultural and economic factors were incorporated into its development planning. “Suzhou’s demonstration of sound planning principles and good urban management” empowered it to achieve economic and social progress, while still preserving the city’s “significant cultural heritage”, said Professor Kishore Mahbubani, Dean, Lee Kuan Yew School of Public Policy, National University of Singapore and Chairman of the Prize Nominating Committee. Consequently, Suzhou has managed to balance economic growth, while ensuring environmental and architectural heritage protection.
@@ -26,7 +27,8 @@ The issues of sustainability and resilience were addressed by numerous speakers 
 
 ![Mr Aníbal Gaviria](/images/features/2014/anibal-gaviria.jpg/)*Mr Aníbal Gaviria, then-Mayor of Medellín, Colombia sharing on the city’s significant urban transformation at the Lee Kuan Yew World City Prize Lecture, World Cities Summit 2014.*
 
-Why cities must be liveable
+#### **Why cities must be liveable**
+
 The liveability of cities, especially in developing nations facing exponential growth and increasing socio-economic migration, was a key challenge and much-discussed topic at WCS. All attendees were united in their belief that cities must deliver liveability for all residents – whether that involved developing green, environmentally friendly urban spaces, building socially integrated societies, giving residents access to economic opportunities, or ensuring public safety.
 
 At the Lee Kuan Yew World City Prize Forum, Mr Kazumi Kobayashi, Director General of the Policy Bureau, Yokohama, Japan, described how the city had been in danger of losing its most marketable asset – its iconic, scenic waterfront – due to heavy industrial pollution. The city embarked on an urban redevelopment plan that saw parks, greenways and private and public land forming a matrix of interconnected green belt areas across Yokohama. It also achieved a remarkable 43.2% reduction of waste from 1.61 million tonnes in 2001 to 0.93 million tonnes in 2010 after the city government invested in educating citizens about waste management best practices. Yokohama’s efforts in promoting environmental measures earned it the 2014 Lee Kuan Yew World City Prize Special Mention.
@@ -41,7 +43,8 @@ A key liveability issue for delegates from cities in both the developed and the 
 
 The city’s widespread transport network was also critical in offering Medellín’s marginalised communities access to both amenities and economic opportunities. This includes MetroCable, the world’s first cable car system for daily commuting. MetroCable was designed to reach Medellín’s underdeveloped hilly suburbs, which were previously inaccessible by the city’s mass transport metro system. Operating since 2004, the network now carries 30,000 people daily.
 
-Common challenges, shared solutions
+#### **Common challenges, shared solutions**
+
 Cities remain arguably the most important global actors on the world stage, which will house around two-thirds of the world’s population by 2050. Cities are responsible for 67% of global energy consumption, produce more than 70% of greenhouse gas emissions, and are the acknowledged drivers of the global economy with 600 urban centres generating about 60% of global GDP. With urbanisation a seemingly irrevocable trend, WCS attendees were united in the belief that cities must be placed at the forefront of tackling sustainable growth.
 
 The World Cities Summit is a platform for leaders and industry experts around the world to convene to address common challenges of rapid urbanisation and share integrated urban solutions and forge new partnerships.
