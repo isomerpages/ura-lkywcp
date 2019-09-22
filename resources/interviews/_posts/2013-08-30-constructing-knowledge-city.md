@@ -21,11 +21,11 @@ description: In 2010, Bilbao City Hall was awarded the inaugural Lee Kuan Yew Wo
 
 **AA:** First of all, we need to emphasise the advantage that the Bilbao brand represents, as this is synonymous with Guggenheim, culture, transformation and excellence all over the world. However, we need to ensure that Bilbao is also associated with knowledge, business, university, technology and design – a complete competitive metropolis in a world of cities. This is why we have also given a definitive boost to the Zorrozaurre project, which together with the nearby areas of Zorrotza and Punta Zorrotza, will make it possible to develop areas of high added-value industrial activity. Industry is a vital part of Bilbao’s past and we would like it to be one of the pillars of its future development.
 
-#### **Which sectors is the city focusing on and why?
+#### **Which sectors is the city focusing on and why?**
 
 AA: Bilbao is a major service centre for businesses in its metropolitan area, which creates capacity and competitiveness. The city's investment in tertiary education has up skilled the region's workforce. And the challenge now facing Bilbao – a city-region endowed with industrial estates, research centres and top-class infrastructures – is to develop an economic policy that can combine research and advanced services for companies found towards the top of the value chain, as well as for those associated with other industries and tourism.
 
-#### **How is the city going to finance these projects, especially bearing in mind the current economic crisis in Spain? Through public-private associations? What about the city’s plan to attract foreign direct investment from such distant places as Asia and North and South America?
+#### **How is the city going to finance these projects, especially bearing in mind the current economic crisis in Spain? Through public-private associations? What about the city’s plan to attract foreign direct investment from such distant places as Asia and North and South America?**
 
 **AA:** The urban transformation of Bilbao has benefited from the inter-institutional company, Bilbao Ría 2000, which had the support of local, autonomous and state institutions. The restrictions on private sector resources due to the current economic crisis mean we face the challenge of including private companies in this concept of partnership. At the same time, as a result of the presence of Bilbao at the Expo 2010 in Shanghai, we are developing an international relations network backed up by our trustworthiness as a reliable enterprising city.
 
