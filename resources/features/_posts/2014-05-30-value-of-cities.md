@@ -25,16 +25,18 @@ A low-cost, yet literate workforce and pro-foreign investment policies attracted
 
 “Our view is that we will see significant investment in high-value manufacturing for traditional industries and for government-backed investments in advanced technology industries.”
 
-“China is going through an unprecedented transformation, with a greater focus on moving up the value chain in terms of productivity and labour input.”
+> “China is going through an unprecedented transformation, with a greater focus on moving up the value chain in terms of productivity and labour input.”
 
-Beyond economic prosperity
+#### **Beyond economic prosperity**
+
 China and many other developing nations are investing heavily to move their cities up the value chain. The benefits of becoming a high-value city are manifold. Workforces become better educated; investment in infrastructure, science, and research and development increases; social services grow; and recreational activities and cultural places of interest flourish. Also, technological advancements in energy efficiency and smart transportation networks create less pollution and enable people and goods to move from one place to another with ease.
 
 However, becoming a high-value city is more than merely achieving economic prosperity. “A city is not made of bricks and mortar alone. The quality of its people and their achievements are just as important,” notes Dr Liu Thai Ker, member of the Lee Kuan Yew World City Prize Nominating Committee.
 
 “There are many other considerations that operate below the surface, unseen and often unknown to most people. For example, comprehensive infrastructure planning, protection of nature and ecologically sensitive areas, and energy conservation strategies and policies.”
 
-The challenge and value of transformation
+#### ** The challenge and value of transformation**
+
 The transformation from low-value industrial hub to one characterised by housing services and technology-driven enterprises is highly challenging for businesses and state authorities alike. Globally, very few cities have been able to make this change successfully.
 
 In theory, cities that house high-value economic sectors should embrace social welfare and environmental stewardship, but this is not always the case. Challenges invariably remain. For example, many economically developing cites often struggle to accommodate the migrant workers they attract. Similarly, city authorities can be tempted by investment-driven initiatives that compromise the natural environment or overlook social interests. This can result in a city’s liveability and environmental quality deteriorating in the bid to become high-value.
@@ -43,7 +45,8 @@ Conversely, housing low-value industries does not automatically decrease a city�
 
 “No matter how backward a city is, as long as its top leaders are committed to improving the city to better standards and learning the sound values of urban development, it is a good start. This needs to be complemented by an enlightened administrative system in which the leaders focus mainly on important policy decisions, and the planners must be given ample freedom and creative space to carry out their work,” says Dr Liu.
 
-The Suzhou story
+#### **The Suzhou story**
+
 While there are no templates for success, the city of Suzhou’s vision to both house high-value industries and provide a highly liveable environment for its residents is exemplary. Its city leaders developed and then meticulously followed the 1996-2010 Master Plan to achieve both traits in less than 20 years.
 
 ![Beautiful Stone Lake District](/images/features/2014/stone-lake2.jpg/)*Beautiful Stone Lake District © Suzhou Suyuan Management Co Ltd*
@@ -56,7 +59,8 @@ Sound policymaking and balancing economic transformation with cultural preservat
 
 The city’s leaders also rejected low-value industries and sought innovative, high-value and service-oriented businesses, which are environmentally friendly. Combined with inclusive policies to help integrate migrant workers and efforts to reduce pollution and environmental degradation, this commitment to growth and liveability has seen Suzhou transform into a highly liveable, socially integrated and economically vibrant city.
 
-Value of highly liveable cities
+#### **Value of highly liveable cities**
+
 Suzhou exemplifies the aim of developing cities to become both high-value and highly liveable. Its leaders made the conscious decision to balance economic vibrancy with social equality and environmental preservation more than 20 years ago. Today, the results demonstrate that the concept of sustainable cities can be implemented in the developing, as well as in the developed world.
 
 Cities’ value lies not only in financial prosperity, but also in how they satisfy their resident’s multiple needs and enhance the natural environment. In the long term, Suzhou’s development is one that many cities will aspire to. Says Mr Xu, “Suzhou will continue to encourage innovation and foreign investment; encourage greater rural-urban integration; attract more talent; increase social well-being; and ensure that all of these actions are done in a sustainable manner.” **<font color="#967942">O</font>**
