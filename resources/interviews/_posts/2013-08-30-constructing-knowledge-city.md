@@ -23,7 +23,7 @@ description: In 2010, Bilbao City Hall was awarded the inaugural Lee Kuan Yew Wo
 
 #### **Which sectors is the city focusing on and why?**
 
-AA: Bilbao is a major service centre for businesses in its metropolitan area, which creates capacity and competitiveness. The city's investment in tertiary education has up skilled the region's workforce. And the challenge now facing Bilbao – a city-region endowed with industrial estates, research centres and top-class infrastructures – is to develop an economic policy that can combine research and advanced services for companies found towards the top of the value chain, as well as for those associated with other industries and tourism.
+**AA:** Bilbao is a major service centre for businesses in its metropolitan area, which creates capacity and competitiveness. The city's investment in tertiary education has up skilled the region's workforce. And the challenge now facing Bilbao – a city-region endowed with industrial estates, research centres and top-class infrastructures – is to develop an economic policy that can combine research and advanced services for companies found towards the top of the value chain, as well as for those associated with other industries and tourism.
 
 #### **How is the city going to finance these projects, especially bearing in mind the current economic crisis in Spain? Through public-private associations? What about the city’s plan to attract foreign direct investment from such distant places as Asia and North and South America?**
 
