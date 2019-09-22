@@ -21,7 +21,7 @@ However, many claim the term today depicts a city that adheres to the three core
 
 “Today we know much more about designing and building eco-cities than we did in the 1990s. At that time sustainability was more or less about being environmentally sustainable. Today, however, sustainability is much more recognised and mainstream,” Borreskov explains.
 
-“[Eco-city] today depicts a city that adheres to the three core pillars of sustainability: environmental stewardship, social equality and economic prosperity.”
+> “Eco-city today depicts a city that adheres to the three core pillars of sustainability: environmental stewardship, social equality and economic prosperity.”
 
 “We have come to recognise that sustainability has three dimensions: environment and resources; social and cultural cohesion; and economic and financial dimension. We have also realised that we should aim for creating cities for people – cities that are designed and built for the human scale and are vibrant,” he adds.
 
@@ -31,16 +31,18 @@ Eco-cities come in all shapes and sizes. Research conducted in 2011 by the Inter
 
 The urbanist names the IBA Hamburg project in Germany and Masdar City in the UAE. He says the former exemplifies a hybrid model that mixes retrofitting with building on new land, while the latter demonstrates the ability to build a sustainable city in a harsh desert climate.
 
-Drivers of today’s eco-cities
+#### **Drivers of today’s eco-cities**
+
 It is widely accepted among urbanists that in order to be referred to as an eco-city, cities must embrace the three core pillars of sustainability.
 
 However, behind these principals, a host of other factors influence the modern eco-city. Affordability and demand on the parts of the general public and government policymakers are two notable factors, as are energy- and resource-efficiency and land conservation.
 
 “People want eco-cities only if they can choose freely and can afford to pay for them. Wise politicians and business people listen to their constituents and clientele, and strive to deliver what the people want. As energy prices go up eco-cities will become more competitive. In addition, land scarcity is also driving up prices on building rights, making the densification process unavoidable,” says Borreskov.
 
-“Eco-cities have to focus more on economic sustainability in the light of today’s economic glut […] We have to do more with fewer financial means.”
+> “Eco-cities have to focus more on economic sustainability in the light of today’s economic glut. We have to do more with fewer financial means.”
 
-Financing
+#### **Financing**
+
 There are seemingly countless facets to facilitating the modern eco-city. These range from manpower, to planning and government policies. Investment from both the public and private sectors is arguably the most important requirement, as without the capital to either retrofit or build a city from scratch any such plan remains just that – a plan.
 
 In the developing world, initiatives that partner the public and private sector have facilitated the development of eco-cities. In China, for instance, eco-cities like the Tianjin Eco-city exemplify the joint efforts of not only the public and private sector, but also how national governments can work with one another with the assistance of private corporations.
@@ -55,14 +57,16 @@ To make eco-cities a safe investment, governments must ensure they are economica
 
 “Eco-cities have to focus more on economic sustainability in the light of today’s economic glut, just as everyone else has to, whether we are talking about businesses or city-governments, or national governments for that matter. We have to do more with fewer financial means. It is not going to be easy, but it is imperative that we continuously work on this dimension as well,” argues Borreskov.
 
-Technological advancement
+#### **Technological advancement**
+
 Technology is another key enabler of the present-day eco-city. Indeed, it is through technological development that cities are able to become more energy-and resource-efficient; to set up transportation systems and networks that move people and goods from one destination to another more quickly, using less fuel; to design and construct buildings and public areas that are socially, environmentally and economically viable; and which allow businesses and residents to go about their daily activities in a more efficient manner.
 
 “Smart-city technology has helped spur the development of today’s eco-cities. It is much more than just the advent of the Internet. The smart-city concept is about management of traffic, electricity, water, sewage, waste and many other things. We have only seen the tip of the iceberg. Over the next 10 to 20 years this is going to revolutionise our way of designing and managing cities,” remarks Borreskov.
 
-“Arguably the most significant aspect of eco-cities is their growth potential. Eco-cities could play the role of helping combat the impact and stresses of urban – and therefore global – population growth and climate change.”
+> “Arguably the most significant aspect of eco-cities is their growth potential. Eco-cities could play the role of helping combat the impact and stresses of urban – and therefore global – population growth and climate change.”
 
-Public buy-in
+#### **Public buy-in**
+
 Public acceptance of eco-cities is paramount to their future success, as it is people that must live and work in these places. Listening to the needs of residents and the business community is thus a key prerequisite to any eco-city venture. Furthermore, developers must also be wary that opinions change and living expectations continuously rise.
 
 In failing to meet the requirements of those that live and work in eco-cities, their administrators increase the risk of economic, social and environmental degradation – the very attributes the eco-city is designed to counter.
@@ -71,7 +75,8 @@ Educating both the public and potential investors about the benefits of eco-citi
 
 “When people talk about the challenges confronting today’s cities, developers and planners must demonstrate how the eco-city will benefit people,” says Borreskov. “Without this fundamental approach it is almost impossible for people to imagine what it will be like to live and work in an eco-city.”
 
-Towards tomorrow’s eco-city
+#### **Towards tomorrow’s eco-city**
+
 The concept of the eco-city has progressed much since its inception in the 1970s. It has moved from being an urban area characterised by environmentally friendly attributes, to one that also promotes social and economic uplift.
 
 Despite their proliferation, the make-up and characteristics of eco-cities differ widely. Indeed, it could be argued that no two eco-cities are the same, when considering traits like geographical topology and climate. The majority of eco-cities in the West are retrofits that are designed to rejuvenate century-old dwellings that have experienced economic degradation. Conversely, a large number of purpose-built projects can be found in the developing world, where suitable land is less scarce and where the need to ‘start from scratch’ is more pressing. Furthermore, the size and scale of projects vary significantly, irrespective of where they are located.
