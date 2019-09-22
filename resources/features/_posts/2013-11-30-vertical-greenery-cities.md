@@ -31,7 +31,7 @@ However, Assoc. Prof. Tan believes that vertical greenery’s benefits, combined
 
 There is no one-size-fits-all solution to vertical greenery. In many cities, in both the developed and developing world, there is increasing economic disparity. Engaging with vertical greenery projects is not a priority for many at the bottom of the economic scale. However, where urban planners keep socio-geographical context in mind, appropriate best practices can be exported. For examples, public officials from Guangzhou have been travelling to Singapore to assess what strategies, policies and technologies could be effectively transferred. Guangzhou has replicated both surface-level greening practices, such as Singapore’s codified planting of trees alongside roadsides, and its vertical greening of bridges and flyovers.
 
-“China is incorporating vertical greenery as part of their overall cityscape design, while cities like New York have shown that urban landscapes can be redesigned effectively to vertically introduce green space.”
+> “China is incorporating vertical greenery as part of their overall cityscape design, while cities like New York have shown that urban landscapes can be redesigned effectively to vertically introduce green space.”
 
 China is also incorporating vertical greenery as part of their overall cityscape design, while cities like New York have shown that urban landscapes can be redesigned effectively to vertically introduce green space. “Governments can help to promote the use of vertical greenery by reducing the cost of installation through subsidies, while regulatory frameworks provide a holistic, albeit generalised, manner of ensuring urban sustainability,” says Prof. Wong.
 
