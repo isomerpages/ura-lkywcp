@@ -19,7 +19,7 @@ China’s economic success, which sprung from its vast industrial base and high 
 
 “Suzhou has always been one of China’s most beautiful cities. It could have been destroyed by modernisation and industrialisation,” says Professor Kishore Mahbubani, Chairman of the Prize Nominating Committee. “Instead, Suzhou’s leaders took a holistic approach and sought to achieve the triple goals of economic and social progress, as well as the preservation of its significant historical heritage.”
 
-Balancing the needs of a growing city with cultural and environmental considerations was an integral part of Suzhou’s 1996–2010 master plan, which was outlined in the early 1990s. During the development stage of the plan, the city’s leaders were keenly aware of the social and environmental pressures caused by rapid economic growth. At that time, China’s GDP was growing at a rate of around 10 percent annually, fuelled by heavy industry and a throng of low value-chain businesses.
+Balancing the needs of a growing city with cultural and environmental considerations was an integral part of Suzhou’s 1996–2010 master plan, which was [outlined in the early 1990s](http://www.jchs.harvard.edu/sites/jchs.harvard.edu/files/di_w00-4.pdf). During the development stage of the plan, the city’s leaders were keenly aware of the social and environmental pressures caused by rapid economic growth. At that time, China’s GDP was growing at a rate of around 10 percent annually, fuelled by heavy industry and a throng of low value-chain businesses.
 
 > “A particular emphasis was placed on protecting the environment and natural habitat, as well as maintaining Suzhou’s cultural and historical heritage.”
 
@@ -29,7 +29,7 @@ Suzhou’s city planners consciously decided to steer the city towards sectors a
 
 “Not only has this made the city cleaner, it has also elevated the value of Suzhou’s economy. The city’s planners were very aware of the interconnectivity between enterprise, the economy and the environment,” Xu adds.
 
-Indeed, the city’s focus on innovative, high-value and service-oriented businesses has attracted much foreign investment. Many of the latter are housed in Suzhou’s four economic development zones, which offer incentives for domestic and foreign companies. In addition, a new central business district was built in order to preserve historical buildings and other points of interest.
+Indeed, the city’s focus on innovative, high-value and service-oriented businesses has attracted much foreign investment. Many of the latter are housed in Suzhou’s four economic development zones, which offer [incentives for domestic and foreign companies](http://www.suzhou.gov.cn/zgszeng/investmentguide/investment8environment/economic8data/201111/t20111103). In addition, a new central business district was built in order to preserve historical buildings and other points of interest.
 
 #### **Social policies**
 
