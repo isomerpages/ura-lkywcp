@@ -11,7 +11,7 @@ description: The world is unpredictable. Sudden changes – be they environmenta
 
 ***The world is unpredictable. Sudden changes – be they environmental, economic or socio-political – can reshape the established order, disrupt existing patterns and institutions and transform previously unassailable assumptions. To build resilience in this environment is to make cities’ communities, institutions and systems better prepared to face an inherently unpredictable world.***
 
-![Mr Jeffrey Rhoda](/images/features/2014/jeffrey-rhoda.jpg/)*Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation speaks at the ‘The Future of Urban Living’ Conference Singapore in October 2013. Image © Novus Media Solutions.*
+![Mr Jeffrey Rhoda](/images/features/2014/jeffrey-rhoda.jpg/)*Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation speaks at the ‘The Future of Urban Living’ Conference Singapore in October 2013. Image © Novus Media Solutions*
 
 Cities are defined by their ability to respond to the unpredictable. Changes – be it environmental, economic, social or political – are often unexpected, and urban authorities can scramble to respond to events. This is often not through lack of preparedness or anticipation, but when faced with unprecedented change – be it financial collapse or natural disaster – a city’s response is often framed in or based on pre-determined contexts.
 
@@ -51,7 +51,7 @@ History is full of examples of how cities have – and failed to – respond to 
 
 In the late nineteenth century, with its previous significance as a port city much diminished, Boston transformed into an industrial centre of manufacturing on the back of its large pool of immigrant Irish labour. With American industry in decline by the 1950s, Boston again reinvented itself in the 1980s – this time as a high-tech service-based economy whose top four exports are all skills-based.
 
-The example of Boston and Venice is a salient lesson in the importance of resilience. Quoting the economist Edward Glaeser, Mr Ho noted, “The ability to re-orientate and create new value hinges on economic diversity and complexity.” Cities must not assume that tomorrow will be like today; doing so risks being unprepared to face the challenges and opportunities of the future.  **<font color="#967942">O</font>**
+The example of Boston and Venice is a salient lesson in the importance of resilience. Quoting the economist Edward Glaeser, Mr Ho noted, “The ability to re-orientate and create new value hinges on economic diversity and complexity.” Cities must not assume that tomorrow will be like today; doing so risks being unprepared to face the challenges and opportunities of the future. **<font color="#967942">O</font>**
 
 | Notes |
 |:---|
