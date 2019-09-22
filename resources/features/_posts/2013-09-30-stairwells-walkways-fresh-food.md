@@ -1,6 +1,6 @@
 ---
 title: Stairwells, walkways and fresh food – making today’s cities healthier cities
-permalink: /resources/features/healthy-cities/
+permalink: /resources/features/stairwells-walkways-fresh-food/
 image: /images/features/2013/healthy-cities.jpg
 description: Today’s cities are high-density environments that house large populations, experience high volumes of traffic, and consume vast quantities of processed food and beverages that are imported from afar. Dr Karen Lee, Adjunct Professor at the schools of public health at universities of Alberta and Toronto, shares insight on what cities must do to keep their residents healthy while mitigating pollution and controlling levels of waste.
 ---
