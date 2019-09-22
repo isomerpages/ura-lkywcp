@@ -11,7 +11,7 @@ description: The term ‘eco-cities’ is synonymous with urban areas that, at s
 
 ***The term ‘eco-cities’ is synonymous with urban areas that, at scale, promote environmental preservation. However, decorating cities with boulevards and green buildings, as well as adopting energy- and waste-efficient technologies, are merely small parts of the modern eco-city. What do urbanists mean when they use this term; what socio-economic trends drive their development; and what do eco-cities need in order to function successfully?***
 
-![Man cycling](/images/features/2014/cycling.jpg/)*One of the principles of eco-cities is a modal shift of private car usage to public transportation. Promoting cycling for short-distance trips can help to encourage that shift. Image © Dylan Passmore.*
+![Man cycling](/images/features/2014/cycling.jpg/)*One of the principles of eco-cities is a modal shift of private car usage to public transportation. Promoting cycling for short-distance trips can help to encourage that shift. Image © Dylan Passmore*
 
 The concept of making cities environmentally sustainable is nothing new. In Europe and the US, the Garden City movement of the 1890s and the post-World War II New Town phenomenon were based on the idea of creating urban areas that merged contemporary and spacious housing with modern infrastructure and greenery. Both were seen as attempts to reinvent the city in the post-industrial era.
 
