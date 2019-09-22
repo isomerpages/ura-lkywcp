@@ -13,7 +13,7 @@ description: Today’s cities are high-density environments that house large pop
 
 ![Cycling](/images/features/2013/healthy-cities.jpg/)*Promoting physical activity in the city. Image © Christopher Porter*
 
-According to the World Health Organization (WHO), two-thirds of all deaths globally in 2011 were caused by non-communicable diseases, such as cardiovascular diseases, cancers, diabetes and chronic lung diseases – the vast majority of which stem from unhealthy eating, physical inactivity, tobacco use and alcohol consumption. According to Dr Karen Lee, the design of today’s cities can significantly create supportive environments for the lifestyle behaviours needed to mitigate these threats.
+According to the World Health Organisation (WHO), two-thirds of all deaths globally in 2011 were caused by non-communicable diseases, such as cardiovascular diseases, cancers, diabetes and chronic lung diseases – the vast majority of which stem from unhealthy eating, physical inactivity, tobacco use and alcohol consumption. According to Dr Karen Lee, the design of today’s cities can significantly create supportive environments for the lifestyle behaviours needed to mitigate these threats.
 
 Like the WHO, Dr Lee argues that one key factor to creating healthier cities starts with supporting its populace to be physically active as a part of everyday life. This is achieved through encouraging active and sustainable forms of transport, such as cycling and use of public transport, which usually starts and ends with walking. Furthermore, using stairs and ramps rather elevators and escalators also increases physical activity.
 
