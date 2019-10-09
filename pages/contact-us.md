@@ -2,31 +2,23 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: the Prize Secretariat
 locations:
-  - title: Main Office
+  - title: Lee Kuan Yew World City Prize Secretariat
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 45 Maxwell Road
+        - The URA Centre, Tower
+        - 13-01
+        - Singapore 069118
+    maps_link: https://goo.gl/maps/UeauLzGxt7etbUzA9
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        description: Closed on Weekends and Singapore Public Holidays
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - phone: +65 6321 6532 
+    - email: leekuanyew_worldcityprize@ura.gov.sg
+    - other: 
 ---

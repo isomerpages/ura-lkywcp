@@ -1,6 +1,6 @@
-title: Title
+title: Lee Kuan Yew World City Prize
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 
 collections:
   about:
@@ -9,8 +9,8 @@ collections:
     output: true
   laureates:
     output: true
-  database:
-    output: true
+
+resources_name: resources
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

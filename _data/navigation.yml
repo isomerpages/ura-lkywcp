@@ -4,16 +4,16 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/LKYWCP-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     collection: about
   - title: Nomination
     collection: nomination
   - title: Laureates
     collection: laureates
-  - title: Database
-    collection: database
+  - title: Resources
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
