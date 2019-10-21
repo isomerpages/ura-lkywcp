@@ -9,7 +9,7 @@ collections:
     output: true
   laureates:
     output: true
-
+google_analytics: UA-150435020-1
 resources_name: resources
 
 ##################################################################################################################
