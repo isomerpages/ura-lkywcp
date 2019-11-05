@@ -21,7 +21,7 @@ sections:
               url: /resources/features/
             - title: Newsletter
               description: Subscribe to our monthly newsletter
-              url: https://www.ura.gov.sg/corporate/forms/lkywcp-subscription
+              url: http://eepurl.com/gHnTCf
     - carousel:
         - title: Seoul
           subtitle: 2018 Prize Laureate
