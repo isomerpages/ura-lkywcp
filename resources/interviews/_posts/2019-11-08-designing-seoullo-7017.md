@@ -11,7 +11,7 @@ description: Completed in 2017, Seoullo 7017 in Seoul transformed a former highw
 
 #### **What were some of the key considerations in the design of Seoullo 7017?**
 
-**Winy Maas (WM):** The Mayor wanted to make Seoullo 7017 as something more than the High Line in New York. He wanted something more contextual and unique for Seoul, rather than a direct copy. With this in mind, we designed a linear park and a plant library in an almost barcode-like fashion that allow the citizens of Seoul to experience the variety of greenery that is laid out from A to Z in the Korean alphabet. 
+**Winy Maas (WM):** The Mayor of Seoul wanted to make Seoullo 7017 as something more than the High Line in New York. He wanted something more contextual and unique for Seoul, rather than a direct copy. With this in mind, we designed a linear park and a plant library in an almost barcode-like fashion that allow the citizens of Seoul to experience the variety of greenery that is laid out from A to Z in the Korean alphabet. 
 
 Secondly, our design is intended to be fine-grained and intimate, and to respond well to the urban conditions around it. The urban furniture, kiosks, cafes, stairs and bridges have been carefully planned according to contextual urban thinking. 
 
