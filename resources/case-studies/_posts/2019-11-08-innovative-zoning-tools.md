@@ -39,7 +39,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Leadership and governance**
 
-- The planning and design of the High Line park was created through a partnership between public partners and city agencies, including the NYC Department of City Planning, Park Department, The Friends of the High Line (FHL), and the city’s Economic - - Development Corporation. The proposal to save the High Line was supported by the Bloomberg administration.
+- The planning and design of the High Line park was created through a partnership between public partners and city agencies, including the NYC Department of City Planning, Park Department, The Friends of the High Line (FHL), and the city’s Economic Development Corporation. The proposal to save the High Line was supported by the Bloomberg administration.
 - The Department of City Planning played a central role in the development of the High Line, and in leveraging the park by creating special development corridor with innovative land use and design rules that resulted in a surrounding envelop of architecturally celebrated buildings and a veritable beehive of mixed uses.
 - The Department of City Planning worked together with the community to create a new special zoning district and an innovative floor-area transfer mechanism, to balance the multiple goals of preserving the neighbourhood identity, unlocking development potential and preserving light, air and views around the open space.
 
