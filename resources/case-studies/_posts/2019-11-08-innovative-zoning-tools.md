@@ -47,7 +47,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Creativity and innovation**
 
-![Floor area transfer mechanism](/images/features/2019/floor-area-transfer-mechanism.jpg/)*Floor area transfer mechanism © NYC Department of City Planning*
+![Floor area transfer mechanism](/images/features/2019/floor-area-transfer-mechanism.png/)*Floor area transfer mechanism © NYC Department of City Planning*
 
 - The West Chelsea plan demonstrates that innovative zoning tools can be a powerful tool for unlocking development potential and creating new public assets that benefit the entire city.
 - The unique floor area transfer mechanism allows owners below the High Line to transfer their development rights to sites within a designated area, thus enabling these sites to realise their developmental potential and spur unrealised growth potential within the district.  It also preserves light, air and views around the High Line open space.
@@ -63,15 +63,15 @@ description: The High Line in New York City needs no introduction. Its huge succ
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/icon-office.png" alt="Icon People" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/workers.png" alt="workers" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Unemployment rate halved from 22.5% to 11.5% (1983-2010)<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/icon-money.png" alt="Icon Plane" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/company.png" alt="company" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>GNP increased from $18,750 to $38,600 (1996-2009)<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/icon-bus.png" alt="Icon Briefcase" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/park.png" alt="park" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Public transport usage increased from 23% to 33% (1997-2007)<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/icon-bicycle.png" alt="Icon Speech" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/exhibition.png" alt="exhibition" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Green and public space per resident increased from 6m² to 24.5m² (1999-2008)<br></td>
 </tr>
 </tbody>
