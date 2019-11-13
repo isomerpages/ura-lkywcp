@@ -21,7 +21,7 @@ sections:
               url: /resources/features/
             - title: Newsletter
               description: Subscribe to our monthly newsletter
-              url: http://eepurl.com/gHnTCf
+              url: https://mailchi.mp/ura/lkywcp-newsletter
     - carousel:
         - title: Seoul
           subtitle: 2018 Prize Laureate
