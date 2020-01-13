@@ -21,7 +21,7 @@ Each year, about 77 million people move to cities globally, increasing the deman
 
 By developing underground spaces, cities can limit sprawl and reap other benefits. They could better protect vital infrastructure, such as water reservoirs and treatment plants, from extreme weather events that are expected to become more common in the coming decades. Advances in technology have also widened the range of what can be sited beneath the surface. From Singapore to Bangkok in Thailand and Helsinki in Finland, the following are some examples of cities that have broken new ground in underground urban planning. 
 
-Rethinking the underground
+#### **Rethinking the underground**
 
 In Paris, the focus has been on redeveloping existing underground spaces. The city’s car use has declined by 32 percent since 1992, leaving many underground carparks underused4. It is also sitting on 32 square kilometres of abandoned quarries, 16 disused metro stations, and other unused facilities such as tunnels and cellars5. In 2017, Paris Mayor Anne Hidalgo noted of the subterranean spaces6: “They are an incredible wealth for the city, and we should be doing something with them.”
 
@@ -33,7 +33,7 @@ In 2017, the government completed a feasibility study that identified 48 areas i
 
 The government summarised the benefits of going underground, which apply to not just Hong Kong but also other land-starved cities: “Good underground planning and effective use of underground space can enhance the connectivity with the surroundings, improve the urban environment at ground level, create space for different commercial and public facilities, and optimise the development potential of scarce land resources in the long term.”
 
-One space, many uses
+#### **One space, many uses**
 
 With ingenuity, underground developments can also serve multiple purposes at the same time. In Kuala Lumpur, Malaysia, the Stormwater Management and Road Tunnel in the city centre has reduced flood risks by 45 percent, including in previously flood-prone areas such as Masjid Jamek, Lebuh Ampang and Jalan Tun Perak, and cut motorists’ traveling times12.
 
@@ -43,7 +43,7 @@ Helsinki, a leader in subterranean development, has demonstrated the dual advant
 
 Other cities have shown that some underground land uses pair naturally with specific above-ground ones. In Bangkok, a 44,500-square-metre park at Chulalongkorn University feeds stormwater into underground tanks for flood protection14. The park is inclined at three degrees to facilitate the flow of stormwater into the containers, and is filled with plants that filter and clean the water so that it can be reused to maintain the greenery or discharged more safely into the public drainage system. The synergistic pairing has been such a success that the city is replicating it with a larger, 145,600-square-metre park at its Thammasat University.
 
-Legislate for success
+#### **Legislate for success**
 
 To ensure that underground construction goes more smoothly, cities can take a leaf from Singapore15. The city-state is developing a three-dimensional map of its underground, including the specific locations of utilities and planned uses in each district, to help building owners and land developers craft proposals for subterranean spaces. It has also established a national geological office and amended laws so that the government owns underground space more than 30 metres below the surface and can acquire specific stratums of space. Such legislative moves enable cities to develop underground public projects more easily. 
 
