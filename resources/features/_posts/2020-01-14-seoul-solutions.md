@@ -45,7 +45,7 @@ In 2017, the government announced that it would rejuvenate the complex and its s
 
 The universities will develop on-site campuses to host education and entrepreneurship programmes for students, while CJ Corporation, a South Korean conglomerate, will provide coding classes for elementary and middle school pupils in the area. LG Uplus, the cellular carrier owned by the LG Corporation, will establish a 5G cellular network technologies testbed, and the Woori Bank will offer low-interest loans to local merchants. 
 
-![Nodeulseom Island](/images/features/2020/nodeulseom-island.jpg/)*Nodeulseom Island © Seoul Metropolitan Government*
+![Nodeulseom Island](/images/features/2020/nodeulseoum-island.jpg/)*Nodeulseom Island © Seoul Metropolitan Government*
 
 Closer to the city’s Han River, the Nodeulseom Island has been upgraded into a music-centred cultural hotspot. The artificial island was originally a manmade sandy plain that extended into the river from one bank to support a bridge across the river. The plain was a popular area for leisure and recreational activities, serving as a beach in the summer and a skating rink in the winter. When further developments in the river turned it into an island, it became inaccessible and disused.
 
