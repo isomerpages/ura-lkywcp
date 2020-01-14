@@ -35,11 +35,11 @@ These measures are expected to help about 25,000 couples each year, which means 
 
 Since his inauguration, the city has supplied 140,000 new public homes. “We will increase the ratio of public houses to over 10 percent to secure a safety net for young people and other citizens. We will increase our housing supply until it has an impact on the housing market. We will do our best so that the new developments are self-sufficient, with houses, recreational facilities and jobs, and lead to further local development,” he said. 
 
-![Yongsan Y Valley](/images/features/2020/yongsan-y-valley.jpg/)*Rejuvenating the Yongsan Electronic Shopping Centre into a new Thinkers Alley © Seoul Metropolitan Government*
-
 #### **Giving new purpose to old places**
 
 Other urban regeneration projects will help the city to replace sunset industries with sunrise ones, and strengthen evergreen sectors. When the Yongsan Electronics Shopping Centre opened in 1987, it was South Korea’s largest retail complex selling electronic products, with a total floor area of about two million square metres across multiple malls. After a decade as a premier shopping nexus for computers and videogames, however, the institution’s business was derailed by 1997 Asian financial crisis and the rise of the Internet and e-commerce. Over time, its vacancy rate rose to 22.7 percent. 
+
+![Yongsan Y Valley](/images/features/2020/yongsan-y-valley.jpg/)*Rejuvenating the Yongsan Electronic Shopping Centre into a new Thinkers Alley © Seoul Metropolitan Government*
 
 In 2017, the government announced that it would rejuvenate the complex and its surrounding area as a “Digital Maker City” that also supports youth education and entrepreneurship in advanced digital technologies. It has partnered 15 institutions, including universities and companies, to bring this vision to life. As a first step, a “Yongsan Electronics’ Thinkers Alley” spanning 6,000 square metres has been set up for anyone to design prototypes of their ideas and receive entrepreneurial support and education. 
 
@@ -51,11 +51,11 @@ Closer to the city’s Han River, the Nodeulseom Island has been upgraded into a
 
 For over three years since 2013, the government mediated discussions with citizens and experts about the island’s future. It eventually organised a competition to solicit proposals, which resulted in the decision to build a music-centred cultural complex on the island. Today, [the complex is accessible from the bridge](http://english.seoul.go.kr/opening-of-nodeulseom-a-music-island-with-a-cultural-complex/), and houses a multipurpose hall for lectures and events, a concert hall, a bookstore that champions independent bookshops and publishers, a restaurant, and more. 
 
-![The new Gyeongchun Line Forest Park](/images/features/2020/gyeongchun-forest-park.jpg/)*The new Gyeongchun Line Forest Park © Seoul Metropolitan Government*
-
 #### **A grand plan for greenery**
 
 As Seoul continues to reinvent its urban spaces to make better use of them, it has also taken care to expand its greenery to improve its liveability. In the late 1990s and 2000s, the Gyeongchun rail line was realigned, creating spans of defunct railway tracks. In 2013, the government started to convert a six-kilometre stretch, from the Kwangwoon University Station to the city limit, into bicycle and foot paths, and build a 182,000-square-metre park around them.
+
+![The new Gyeongchun Line Forest Park](/images/features/2020/gyeongchun-forest-park.jpg/)*The new Gyeongchun Line Forest Park © Seoul Metropolitan Government*
 
 The new Gyeongchun Line Forest Park was opened in sections from 2015 to 2017, and has gardens as well as rest areas resembling train station waiting rooms. The bicycle and foot paths also connect institutions and tourist attractions such as the Seoul National University of Science and Technology, Seoul Women’s University and Taereung Royal Tombs. “By using the original railroad tracks, Gyeongchun Line Forest Park has been reborn as a space filled with memories, encounters, sharing and community,” the government said. 
 
