@@ -11,7 +11,7 @@ description: After winning the Lee Kuan Yew World City Prize in 2018, Seoul in S
 
 ***After winning the Lee Kuan Yew World City Prize in 2018, Seoul in South Korea is going full speed ahead with new and ongoing urban regeneration initiatives to tackle emerging challenges. From innovative interventions to dampen rising housing prices, to a grand plan for greenery, Seoul is on a path to a safe and sustainable future.***
 
-![Medellín is today a model city of social innovation](/images/features/2019/medellin-today.jpg/)*Medellín is today a model city of social innovation © ACI Medellín*
+![Seoul](/images/features/2020/seoul-solutions.jpg/)*© Seoul Metropolitan Government*
 
 Every city faces evolving challenges and needs. Since the 2000s, Seoul in South Korea has revolutionised its urban planning to consult citizens more and earlier about development projects, emphasise healthy and sustainable modes of transport, and encourage innovation in business. Its efforts, which have turned it into an inclusive, socially stable and forward-looking city, also led to the city [winning the Lee Kuan Yew World City Prize in 2018](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr18-14).
 
