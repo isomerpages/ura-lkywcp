@@ -35,6 +35,8 @@ These measures are expected to help about 25,000 couples each year, which means 
 
 Since his inauguration, the city has supplied 140,000 new public homes. “We will increase the ratio of public houses to over 10 percent to secure a safety net for young people and other citizens. We will increase our housing supply until it has an impact on the housing market. We will do our best so that the new developments are self-sufficient, with houses, recreational facilities and jobs, and lead to further local development,” he said. 
 
+![Yongsan Y Valley](/images/features/2020/yongsan-y-valley.jpg/)*Rejuvenating the Yongsan Electronic Shopping Centre into a new Thinkers Alley © Seoul Metropolitan Government*
+
 #### **Giving new purpose to old places**
 
 Other urban regeneration projects will help the city to replace sunset industries with sunrise ones, and strengthen evergreen sectors. When the Yongsan Electronics Shopping Centre opened in 1987, it was South Korea’s largest retail complex selling electronic products, with a total floor area of about two million square metres across multiple malls. After a decade as a premier shopping nexus for computers and videogames, however, the institution’s business was derailed by 1997 Asian financial crisis and the rise of the Internet and e-commerce. Over time, its vacancy rate rose to 22.7 percent. 
@@ -43,9 +45,13 @@ In 2017, the government announced that it would rejuvenate the complex and its s
 
 The universities will develop on-site campuses to host education and entrepreneurship programmes for students, while CJ Corporation, a South Korean conglomerate, will provide coding classes for elementary and middle school pupils in the area. LG Uplus, the cellular carrier owned by the LG Corporation, will establish a 5G cellular network technologies testbed, and the Woori Bank will offer low-interest loans to local merchants. 
 
+![Nodeulseom Island](/images/features/2020/nodeulseom-island.jpg/)*Nodeulseom Island © Seoul Metropolitan Government*
+
 Closer to the city’s Han River, the Nodeulseom Island has been upgraded into a music-centred cultural hotspot. The artificial island was originally a manmade sandy plain that extended into the river from one bank to support a bridge across the river. The plain was a popular area for leisure and recreational activities, serving as a beach in the summer and a skating rink in the winter. When further developments in the river turned it into an island, it became inaccessible and disused.
 
 For over three years since 2013, the government mediated discussions with citizens and experts about the island’s future. It eventually organised a competition to solicit proposals, which resulted in the decision to build a music-centred cultural complex on the island. Today, [the complex is accessible from the bridge](http://english.seoul.go.kr/opening-of-nodeulseom-a-music-island-with-a-cultural-complex/), and houses a multipurpose hall for lectures and events, a concert hall, a bookstore that champions independent bookshops and publishers, a restaurant, and more. 
+
+![The new Gyeongchun Line Forest Park](/images/features/2020/gyeongchun-forest-park.jpg/)*The new Gyeongchun Line Forest Park © Seoul Metropolitan Government*
 
 #### **A grand plan for greenery**
 
