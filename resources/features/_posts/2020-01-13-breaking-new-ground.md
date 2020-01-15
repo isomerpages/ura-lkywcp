@@ -11,7 +11,7 @@ description: From Singapore to Bangkok to Paris, cities are making more and bett
 
 ***From Singapore to Bangkok to Paris, cities are making more and better use of their subterranean spaces beyond the conventional laying of utility pipes and railway lines. By excavating caverns for public facilities, and reinventing existing underground spaces, cities can create new room for growth and improve residents’ quality of life.***
 
-![Medellín is today a model city of social innovation](/images/features/2019/medellin-today.jpg/)*Medellín is today a model city of social innovation © ACI Medellín*
+![Underground spaces](/images/features/2020/underground.jpg/)*Underground spaces © Nataliya Kalabina@123rf.com*
 
 For the past few months, commuters passing through Seoul’s Sangdo subway station may have noticed an extraordinary sight: [an automated underground farm with robots growing plants](http://english.seoul.go.kr/seoul-opens-koreas-first-smart-metro-farm-at-sangdo-station/) in a previously disused part of the station. The smart “metro farm” opened by the city’s government in September 2019 was only the first: four others have since been established in the Dapsimni, Cheonwang, Euljiro 3-ga and Chungjeongno stations respectively. 
 
