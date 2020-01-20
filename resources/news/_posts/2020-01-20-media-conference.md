@@ -6,6 +6,9 @@ description: After winning the Lee Kuan Yew World City Prize in 2018, Seoul in S
 ---
 
 ![Media Conference](/images/features/2020/media-conference.jpg/)
+<br>
+
+| 16 March 2020<br>Monday<br>0900 - 1200 | Andaz Singapore<br>Level 3<br>The Glasshouse
 
 > **Date:** 16 March 2020, Monday<br>
 > **Time:** 0900 - 1200<br>
@@ -18,7 +21,7 @@ A Media Conference will be held in Singapore on 16 March 2020, Monday to announc
 In attendance will be representatives from the 2020 Prize Laureates and the past Prize Laureates (*the speakers line-up to be announced*). 
 
 #### **Programme**
-
+<br>
 
 | 0800 | Registration<br>Welcome coffee/tea |
 | 0900 | Media Conference<br>Presentation by 2020 Prize Laureate | 
