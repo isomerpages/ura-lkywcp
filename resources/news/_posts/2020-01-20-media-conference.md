@@ -42,5 +42,5 @@ This event is by-invitation only. Please register your interest at this [link](w
 
 #### **Enquiries**
 
-- For media enquiries, please contact Ms Jessica Lim jessica_lim@ura.gov.sg 
-- For all other enquiries, please contact leekuanyew_worldcityprize@ura.gov.sg 
+- For media enquiries, please contact Ms Jessica Lim [jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg)
+- For all other enquiries, please contact [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
