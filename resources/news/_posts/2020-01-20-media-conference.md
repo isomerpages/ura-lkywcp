@@ -21,21 +21,21 @@ To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will
 
 #### **Programme**
 
-|||
+| Time | Programme |
+|:--|:--|
 | 0800 | Registration<br>Welcome coffee/tea |
 | 0900 | **MEDIA CONFERENCE**<br>Announcement and showcase of 2020 Prize Laureate<br>Presentation by 2020 Prize Laureate | 
 | 1000 | Coffee break |
 | 1030 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
 | 1200 | End of event |
-|||
 
 #### **Registration and enquiries**
 
 This event is by-invitation only. Please register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
 
-|||
-| **MEDIA ENQUIRIES**<br>Ms Jessica Lim<br>[jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg) | **GENERAL ENQUIRIES**<br>Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
-|||
+| Media Enquiries | General Enquiries |
+|:--|:--| 
+| Ms Jessica Lim<br>[jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
 
 #### **Directions**
 
@@ -46,6 +46,7 @@ This event is by-invitation only. Please register your interest at this [link](w
 
 By public transportation: 
 
-|||
-| **NEAREST TRAIN STATION**<br>Direct underpass connection to the Bugis MRT station (Downtown and East West Lines) | **NEAREST BUS STOP**<br>A 2-minute walk to the Parkview Square bus stop (01139) on North Bridge Road | 
-|||
+| Nearest train station | Nearest bus stop |
+|:--|:--|
+| Direct underpass connection to the Bugis MRT station (Downtown and East West Lines) | A 2-minute walk to the Parkview Square bus stop (01139) on North Bridge Road | 
+
