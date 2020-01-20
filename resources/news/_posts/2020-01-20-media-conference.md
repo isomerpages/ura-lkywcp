@@ -7,7 +7,9 @@ description: After winning the Lee Kuan Yew World City Prize in 2018, Seoul in S
 
 ![Media Conference](/images/features/2020/media-conference.jpg/)<br>
 
+|||
 | **DATE** | 16 March 2020<br>Monday<br>0900 - 1200 | **VENUE** | Andaz Singapore<br>Level 3<br>The Glasshouse |
+|||
 
 #### **Media Conference** 
 
