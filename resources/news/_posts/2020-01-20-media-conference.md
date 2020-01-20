@@ -7,8 +7,8 @@ description: After winning the Lee Kuan Yew World City Prize in 2018, Seoul in S
 
 ![Media Conference](/images/features/2020/media-conference.jpg/)<br>
 
-|||
-| **DATE** | 16 March 2020<br>Monday<br>0900 - 1200 | **VENUE** | Andaz Singapore<br>Level 3<br>The Glasshouse |
+| **Date** | **Venue** |
+| 16 March 2020<br>Monday<br>0900 - 1200 | Andaz Singapore<br>Level 3<br>The Glasshouse |
 
 #### **Media Conference** 
 
@@ -16,7 +16,7 @@ The Lee Kuan Yew World City Prize 2020 Laureate will be unveiled at a dedicated 
 
 #### **Special Lecture** 
 
-To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of **"Beyond excellence: exemplary cities that continue to transform themselves"**, the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize. 
+To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of ***"Beyond excellence: exemplary cities that continue to transform themselves"***, the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize. 
 
 #### **Programme**
 
@@ -32,8 +32,7 @@ To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will
 
 This event is by-invitation only. Please register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
 
-| Media Enquiries | General Enquiries |
-|:--|:--| 
+| **Media Enquiries** | **General Enquiries** |
 | Ms Jessica Lim<br>[jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
 
 #### **Directions**
@@ -45,7 +44,6 @@ This event is by-invitation only. Please register your interest at this [link](w
 
 By public transportation: 
 
-| Nearest train station | Nearest bus stop |
-|:--|:--|
+| **Nearest train station** | **Nearest bus stop** |
 | Direct underpass connection to the Bugis MRT station (Downtown and East West Lines) | A 2-minute walk to the Parkview Square bus stop (01139) on North Bridge Road | 
 
