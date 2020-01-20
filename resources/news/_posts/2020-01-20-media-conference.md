@@ -13,16 +13,18 @@ description: After winning the Lee Kuan Yew World City Prize in 2018, Seoul in S
 
 #### **About the event** 
 
+**MEDIA CONFERENCE**<br>
 The Lee Kuan Yew World City Prize 2020 Laureate will be unveiled at a dedicated Media Conference held in Singapore on 16 March 2020, Monday. Join us at this event to find out who the latest winner of the Prize is. 
 
+**SPECIAL LECTURE**<br>
 To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of **"Beyond excellence: exemplary cities that continue to transform themselves"**, the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize. 
 
 #### **Programme**
 
 | 0800 | Registration<br>Welcome coffee/tea |
-| 0900 | **Media Conference**<br>Presentation by 2020 Prize Laureate | 
+| 0900 | **MEDIA CONFERENCE**<br>Presentation by 2020 Prize Laureate | 
 | 1000 | Coffee break |
-| 1030 | **Special Lecture**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
+| 1030 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
 | 1200 | End of event |
 
 #### **Registration and enquiries**
