@@ -29,7 +29,7 @@ In attendance will be representatives from the 2020 Prize Laureates and the past
 
 This event is by-invitation only. Please register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
 
-| **Media enquiries**<br>Ms Jessica Lim<br>[jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg) | **General enquiries**<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
+| **Media enquiries**<br>Ms Jessica Lim<br>[jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg) | **General enquiries**<br>Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
 
 #### **Directions**
 
