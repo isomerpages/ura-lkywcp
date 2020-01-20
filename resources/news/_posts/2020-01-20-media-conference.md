@@ -19,14 +19,10 @@ In attendance will be representatives from the 2020 Prize Laureates and the past
 
 #### **Programme**
 
-| 0800 | Registration |
-|      | Welcome coffee/tea |
-| 0900 | Media Conference |
-|      | Presentation by 2020 Prize Laureate | 
+| 0800 | Registration<br>Welcome coffee/tea |
+| 0900 | Media Conference<br>Presentation by 2020 Prize Laureate | 
 | 1000 | Coffee break |
-| 1030 | Special Lecture |
-|      | Presentations by past Prize Laureates | 
-|      | Question-and-Answer session | 
+| 1030 | Special Lecture<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
 | 1200 | End of event |
 
 **<font color="#967942">O</font>**
