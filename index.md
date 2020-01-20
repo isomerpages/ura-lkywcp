@@ -4,7 +4,7 @@ title: Lee Kuan Yew World City Prize
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
 image: /images/LKYWCP-logo.png
 permalink: /
-notification: The Media Conference + Special Lecture will be held on 16 March 2020 at Andaz Singapore. Register [here](www.google.com).
+notification: The Media Conference + Special Lecture will be held on 16 March 2020 at Andaz Singapore. Register [here](https://www.google.com/).
 sections:
     - hero:
         title: Lee Kuan Yew World City Prize
