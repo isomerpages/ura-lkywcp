@@ -18,7 +18,8 @@ A Media Conference will be held in Singapore on 16 March 2020, Monday to announc
 In attendance will be representatives from the 2020 Prize Laureates and the past Prize Laureates (*the speakers line-up to be announced*). 
 
 #### **Programme**
-<br>
+
+
 | 0800 | Registration<br>Welcome coffee/tea |
 | 0900 | Media Conference<br>Presentation by 2020 Prize Laureate | 
 | 1000 | Coffee break |
