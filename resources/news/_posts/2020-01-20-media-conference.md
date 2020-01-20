@@ -22,7 +22,7 @@ To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will
 #### **Programme**
 
 | 0800 | Registration<br>Welcome coffee/tea |
-| 0900 | **MEDIA CONFERENCE**<br>Presentation by 2020 Prize Laureate | 
+| 0900 | **MEDIA CONFERENCE**<br>Announcement and showcase of 2020 Prize Laureate<br>Presentation by 2020 Prize Laureate | 
 | 1000 | Coffee break |
 | 1030 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
 | 1200 | End of event |
