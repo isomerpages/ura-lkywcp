@@ -25,4 +25,6 @@ In attendance will be representatives from the 2020 Prize Laureates and the past
 | 1030 | Special Lecture<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
 | 1200 | End of event |
 
-**<font color="#967942">O</font>**
+#### **Registration**
+
+This event is by-invitation only. Please register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.**<font color="#967942">O</font>**
