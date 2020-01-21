@@ -5,16 +5,12 @@ image: /images/features/2020/media-conference.jpg
 description: After winning the Lee Kuan Yew World City Prize in 2018, Seoul in South Korea is going full speed ahead with new and ongoing urban regeneration initiatives to tackle emerging challenges. From innovative interventions to dampen rising housing prices, to a grand plan for greenery, Seoul is on a path to a safe and sustainable future.
 ---
 
-![Media Conference](/images/features/2020/media-conference.jpg/)<br>
+![Media Conference](/images/features/2020/special-lecture.jpg/)<br>
 
 | **Date** | **Venue** |
 | 16 March 2020<br>Monday<br>0900 - 1200 | Andaz Singapore<br>Level 3<br>The Glasshouse |
 
-#### **Media Conference** 
-
-The Lee Kuan Yew World City Prize 2020 Laureate will be unveiled at a dedicated Media Conference held in Singapore on 16 March 2020, Monday. Join us at this event to find out who the latest winner of the Prize is. 
-
-#### **Special Lecture** 
+#### **10th Anniversary Special Lecture** 
 
 To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of ***"Beyond excellence: exemplary cities that continue to transform themselves"***, the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize. 
 
@@ -22,15 +18,13 @@ To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will
 
 | Time | Programme |
 |:--|:--|
-| 0800 | Registration<br>Welcome coffee/tea |
-| 0900 | **MEDIA CONFERENCE**<br>Announcement and showcase of 2020 Prize Laureate<br>Presentation by 2020 Prize Laureate | 
-| 1000 | Coffee break |
-| 1030 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
-| 1200 | End of event |
+| 1530 | Registration<br>Welcome coffee/tea |
+| 1600 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
+| 1730 | End of event |
 
 #### **Registration and enquiries**
 
-This event is by-invitation only. Please register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
+Register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
 
 | **Media Enquiries** | **General Enquiries** |
 | Ms Jessica Lim<br>[jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
