@@ -2,7 +2,7 @@
 title: 10th anniversary special lecture
 permalink: /resources/news/special-lecture/
 image: /images/features/2020/special-lecture.jpg
-description: To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of Beyond excellence: exemplary cities that continue to transform themselves, the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize.
+description: To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of "Beyond excellence - exemplary cities that continue to transform themselves", the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize.
 ---
 
 ![Media Conference](/images/features/2020/special-lecture.jpg/)<br>
