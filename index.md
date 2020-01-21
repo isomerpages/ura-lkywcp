@@ -4,7 +4,7 @@ title: Lee Kuan Yew World City Prize
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
 image: /images/LKYWCP-logo.png
 permalink: /
-notification: A Media Conference + Special Lecture will be held on 16 Mar 2020 in Singapore. More info and registration <a href="https://ura-lkywcp-staging.netlify.com/resources/news/media-conference-2020/">here</a>.
+notification: The 2020 Prize Laureate will be announced at a Media Conference on 16 Mar 2020 in Singapore. A Special Lecture will also be held to commemorate the 10th anniversary of the Prize. More info and registration <a href="https://ura-lkywcp-staging.netlify.com/resources/news/media-conference-2020/">here</a>.
 sections:
     - hero:
         title: Lee Kuan Yew World City Prize
