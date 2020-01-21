@@ -33,7 +33,7 @@ To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will
 Register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
 
 | **Media Enquiries** | **General Enquiries** |
-| Ms Jessica Lim<br>[jessica_lim@ura.gov.sg](mailto:jessica_lim@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
+| Ms Serene Tan<br>[serene_tan@ura.gov.sg](mailto:serene_tan@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
 
 #### **Directions**
 
