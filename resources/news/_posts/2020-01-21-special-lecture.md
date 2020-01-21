@@ -8,7 +8,7 @@ description: To commemorate the 10th anniversary of the Prize in 2020, a Special
 ![Media Conference](/images/features/2020/special-lecture.jpg/)<br>
 
 | **Date** | **Venue** |
-| 16 March 2020<br>Monday<br>0900 - 1200 | Andaz Singapore<br>Level 3<br>The Glasshouse |
+| 16 March 2020<br>Monday<br>1600 - 1800 | Andaz Singapore<br>Level 3<br>The Glasshouse |
 
 #### **10th Anniversary Special Lecture** 
 
