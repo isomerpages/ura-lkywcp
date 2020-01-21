@@ -10,6 +10,10 @@ description: To commemorate the 10th anniversary of the Prize in 2020, a Special
 | **Date** | **Venue** |
 | 16 March 2020<br>Monday<br>1400 - 1730 | Andaz Singapore<br>Level 3<br>The Glasshouse |
 
+#### **Media Conference** 
+
+The 2020 Prize Laureate will be announced at a dedicated Media Conference. Join us as we unveil the latest winner of the Lee Kuan Yew World City Prize. 
+
 #### **10th Anniversary Special Lecture** 
 
 To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference to announce the 2020 Prize Laureate. Based on the theme of ***"Beyond excellence: exemplary cities that continue to transform themselves"***, the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize. 
