@@ -28,6 +28,10 @@ To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will
 | 1600 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
 | 1730 | End of event |
 
+#### **Speakers**
+
+To be updated. 
+
 #### **Registration and enquiries**
 
 Register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
