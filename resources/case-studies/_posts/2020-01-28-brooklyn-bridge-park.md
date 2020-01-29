@@ -66,15 +66,15 @@ The park is governed by a 17-member board of directors appointed by the Mayor of
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/workers.png" alt="workers" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>8 million visitors per year<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Over $300 million economic output<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/company.png" alt="company" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>USD $2 billion private investment<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Increased in visitorship<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/park.png" alt="park" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Improved quality of life<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Created 150 construction jobs per year<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/exhibition.png" alt="exhibition" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Art gallery district increased<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Increase in residential sales<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
