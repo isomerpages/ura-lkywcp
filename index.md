@@ -8,7 +8,7 @@ notification: This year in 2020, we celebrate the 10th anniversary of the Lee Ku
 sections:
     - hero:
         title: Lee Kuan Yew World City Prize
-        subtitle: [ 2010 — 2020 ] Celebrating 10 years of the Prize
+        subtitle: 2010 — 2020 | Celebrating 10 years of the Prize
         background: /images/worldmap-hero.jpg
         button: About the Prize
         url: /about/about-the-prize/
