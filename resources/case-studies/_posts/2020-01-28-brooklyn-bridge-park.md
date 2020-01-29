@@ -77,7 +77,7 @@ The park is governed by a 17-member board of directors appointed by the Mayor of
 <td style="text-align: left; vertical-align: top;"><br>Increase in residential sales<br></td>
 </tr>
 </tbody>
-</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
+</table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
 
 - The project transformed a derelict industrial Brooklyn waterfront into an attractive and accessible urban park.  
 - Increase in sales of residential units of the neighbourhoods adjacent to the park.  
