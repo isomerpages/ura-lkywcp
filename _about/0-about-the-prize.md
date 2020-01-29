@@ -27,7 +27,7 @@ The Lee Kuan Yew World City Prize is named after Singapore’s first Prime Minis
 
 The Lee Kuan Yew World City Prize is co-organised by the [Urban Redevelopment Authority of Singapore](/about/organisers/ura/) (URA) and the [Centre for Liveable Cities](/about/organisers/clc/) (CLC). 
 
-<a id="chinese">#### **奖项简介**</a>
+#### **<a id="chinese">奖项简介</a>**
 
 由新加坡市区重建局 (Urban Redevelopment Authority of Singapore)及宜居城市中心(Centre for Liveable Cities)联合颁发的李光耀世界城市奖是每两年颁发一次的国际性大奖，旨在表扬对创造宜居、富有活力及可持续发展的城市社区做出的卓越成就和贡献。此奖项用于奖励以远见卓识、良好治理和创新思维解决城市面临之许多挑战，并能以纵观全局的方式为不同社区带来社会、经济及环境效益的城市及其领导人和组织。
 
@@ -37,23 +37,15 @@ The Lee Kuan Yew World City Prize is co-organised by the [Urban Redevelopment Au
 
 得主将会获得一份得奖证书、以及由吉宝企业赞助的一枚金质奖章与300, 000 新元现金奖。
 
-#### **賞について**
+#### **<a id="japanese">賞について</a>**
 
-リークアン・ユー・ワールド・シティ・プライズ（世
-界都市賞）は、住みやすく、活気があり、サステナブ
-ルな都市創造に対する功績を称える国際的な賞で、２年
-に１度開催されています。この賞では、都市が直面する
-さまざまな課題に対処し、社会的、経済的、環境的な
-メリットを総合的なアプローチで地域にもたらす、優
-れたガバナンスやイノベーション、先見性を持つ都市
-ならびにその主なリーダーや組織を評価することを目
-指しています。
-この賞は、世界の都市の利益になるような、実用的で
-費用効果の高いソリューションやアイデアを重視しています。
-受賞者には、賞状、金メダル、30万シンガポールドルがスポンサーのケッペル・コーポレー
-ション(Keppel Corporation)より贈られます。
-共催：シンガポール都市再開発庁（Urban Redevelopment Authority of Singapore）、シンガポ
-ール都市生活センター（Centre for Liveable Cities）
+リークアン・ユー・ワールド・シティ・プライズ（世界都市賞）は、住みやすく、活気があり、サステナブルな都市創造に対する功績を称える国際的な賞で、２年
+に１度開催されています。この賞では、都市が直面するさまざまな課題に対処し、社会的、経済的、環境的なメリットを総合的なアプローチで地域にもたらす、優
+れたガバナンスやイノベーション、先見性を持つ都市ならびにその主なリーダーや組織を評価することを目指しています。
+
+この賞は、世界の都市の利益になるような、実用的で費用効果の高いソリューションやアイデアを重視しています。受賞者には、賞状、金メダル、30万シンガポールドルがスポンサーのケッペル・コーポレーション(Keppel Corporation)より贈られます。
+
+共催：シンガポール都市再開発庁（Urban Redevelopment Authority of Singapore）、シンガポール都市生活センター（Centre for Liveable Cities）
 
 | **Download** |
 |:---|
