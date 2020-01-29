@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Lee Kuan Yew World City Prize
         subtitle: 2010 — 2020  |  Celebrating 10 years of the Prize
-        background: /images/worldmap-hero.jpg
+        background: /images/worldmap-hero2.png
         button: About the Prize
         url: /about/about-the-prize/
         key_highlights:
