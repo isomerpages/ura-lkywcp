@@ -1,5 +1,5 @@
 ---
-title: Media Conference / Special Lecture
+title: Lee Kuan Yew World City Prize 2020 Media Conference / Special Lecture
 permalink: /resources/news/special-lecture/
 image: /images/features/2020/media-conference-eventbrite.jpg
 description: Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. To celebrate 10 years of the Prize, the past Laureates will also speak on their cities' ongoing urban initiatives and achievements since winning the Prize.
