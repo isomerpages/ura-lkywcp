@@ -12,7 +12,7 @@ description: To commemorate the 10th anniversary of the Prize in 2020, a Special
 
 #### **Media Conference** 
 
-The 2020 Prize Laureate will be announced at a dedicated Media Conference. Join us as we unveil the sixth and latest winner of the Lee Kuan Yew World City Prize. 
+Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. 
 
 #### **10th Anniversary Special Lecture** 
 
