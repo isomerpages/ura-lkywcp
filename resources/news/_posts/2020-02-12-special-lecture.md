@@ -1,14 +1,14 @@
 ---
 title: Media conference + special lecture
 permalink: /resources/news/special-lecture/
-image: /images/features/2020/media-conference.jpg
+image: /images/features/2020/media-conference-eventbrite.jpg
 description: To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of "Beyond excellence - exemplary cities that continue to transform themselves", the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize.
 ---
 
-![Media Conference](/images/features/2020/media-conference.jpg/)<br>
+![Media Conference](/images/features/2020/media-conference-eventbrite.jpg/)<br>
 
 | **Date** | **Venue** |
-| 16 March 2020<br>Monday<br>1400 - 1800 | Andaz Singapore<br>Level 3<br>The Glasshouse |
+| 8 May 2020<br>Monday<br>1400 - 1800 | Andaz Singapore<br>The Glasshouse<br>Level 3 |
 
 #### **Media Conference** 
 
@@ -16,7 +16,7 @@ The 2020 Prize Laureate will be announced at a dedicated Media Conference. Join 
 
 #### **10th Anniversary Special Lecture** 
 
-To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of ***"Beyond excellence: exemplary cities that continue to transform themselves"***, the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize. 
+To celebrate 10 years of the Prize, the past Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize, based on the theme of ***"Beyond excellence: exemplary cities that continue to transform themselves"*** at this Special Lecture. 
 
 #### **Programme**
 
@@ -34,7 +34,7 @@ To be updated.
 
 #### **Registration and enquiries**
 
-Register your interest at this [link](www.google.com). Limited seats on a first-come-first-served basis.
+Register your interest at this [link](lkywcp2020.eventbrite.sg). Limited seats on a first-come-first-served basis.
 
 | **Media Enquiries** | **General Enquiries** |
 | Ms Serene Tan<br>[serene_tan@ura.gov.sg](mailto:serene_tan@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
