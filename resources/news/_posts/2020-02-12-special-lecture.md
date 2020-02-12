@@ -26,7 +26,7 @@ To celebrate 10 years of the Prize, the past Laureates will speak on their citie
 | 1430 | **MEDIA CONFERENCE**<br>Announcement and showcase of 2020 Prize Laureate<br>Presentation by 2020 Prize Laureate<br>Media interviews |
 | 1530 | Coffee break |
 | 1600 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
-| 1730 | End of event |
+| 1800 | End of event |
 
 #### **Speakers**
 
