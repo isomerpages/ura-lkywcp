@@ -8,7 +8,7 @@ description: To commemorate the 10th anniversary of the Prize in 2020, a Special
 ![Media Conference](/images/features/2020/media-conference-eventbrite.jpg/)<br>
 
 | **Date** | **Venue** |
-| 8 May 2020<br>Friday<br>1400 - 1800 | Andaz Singapore<br>The Glasshouse<br>Level 3 |
+| Friday<br>8 May 2020<br>1400 - 1800 | Andaz Singapore<br>The Glasshouse<br>Level 3 |
 
 #### **Media Conference** 
 
