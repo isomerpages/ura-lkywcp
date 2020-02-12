@@ -39,7 +39,7 @@ Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. To celebra
 Register your interest at this [link](lkywcp2020.eventbrite.sg). Limited seats on a first-come-first-served basis.
 
 | **Media Enquiries** | **General Enquiries** |
-| Ms Chan Yeng Heng<br>[heng_chan_yeng@ura.gov.sg](mailto:serene_tan@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
+| Ms Chan Yeng Heng<br>[heng_chan_yeng@ura.gov.sg](mailto:heng_chan_yeng@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
 
 #### **Directions**
 
