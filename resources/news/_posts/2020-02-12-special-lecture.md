@@ -2,7 +2,7 @@
 title: Media conference + special lecture
 permalink: /resources/news/special-lecture/
 image: /images/features/2020/media-conference-eventbrite.jpg
-description: To commemorate the 10th anniversary of the Prize in 2020, a Special Lecture will be held in conjunction with the Media Conference. Based on the theme of "Beyond excellence - exemplary cities that continue to transform themselves", the past Prize Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize.
+description: Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. To celebrate 10 years of the Prize, the past Laureates will also speak on their cities' ongoing urban initiatives and achievements since winning the Prize, based on the theme of "Beyond excellence: exemplary cities that continue to transform themselves".
 ---
 
 ![Media Conference](/images/features/2020/media-conference-eventbrite.jpg/)<br>
@@ -39,7 +39,7 @@ Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. To celebra
 Register your interest at this [link](lkywcp2020.eventbrite.sg). Limited seats on a first-come-first-served basis.
 
 | **Media Enquiries** | **General Enquiries** |
-| Ms Serene Tan<br>[serene_tan@ura.gov.sg](mailto:serene_tan@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
+| Ms Chan Yeng <u>Heng</u><br>[heng_chan_yeng@ura.gov.sg](mailto:serene_tan@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
 
 #### **Directions**
 
