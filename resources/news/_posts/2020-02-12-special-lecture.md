@@ -10,13 +10,9 @@ description: To commemorate the 10th anniversary of the Prize in 2020, a Special
 | **Date** | **Venue** |
 | Friday<br>8 May 2020<br>1400 - 1800 | Andaz Singapore<br>The Glasshouse<br>Level 3 |
 
-#### **Media Conference** 
+#### **About the event** 
 
-Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. 
-
-#### **10th Anniversary Special Lecture** 
-
-To celebrate 10 years of the Prize, the past Laureates will speak on their cities' ongoing urban initiatives and achievements since winning the Prize, based on the theme of ***"Beyond excellence: exemplary cities that continue to transform themselves"*** at this Special Lecture. 
+Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. To celebrate 10 years of the Prize, the past Laureates will also speak on their cities' ongoing urban initiatives and achievements since winning the Prize, based on the theme of ***"Beyond excellence: exemplary cities that continue to transform themselves"***. 
 
 #### **Programme**
 
@@ -24,7 +20,6 @@ To celebrate 10 years of the Prize, the past Laureates will speak on their citie
 |:--|:--|
 | 1400 | Registration<br>Welcome coffee/tea |
 | 1430 | **MEDIA CONFERENCE**<br>Announcement and showcase of 2020 Prize Laureate<br>Presentation by 2020 Prize Laureate<br>Media interviews |
-| 1530 | Coffee break |
 | 1600 | **SPECIAL LECTURE**<br>Presentations by past Prize Laureates<br>Question-and-Answer session | 
 | 1800 | End of event |
 
