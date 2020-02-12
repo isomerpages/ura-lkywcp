@@ -30,7 +30,14 @@ To celebrate 10 years of the Prize, the past Laureates will speak on their citie
 
 #### **Speakers**
 
-To be updated. 
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="/images/features/2020/jorge-perez.png" alt="Jorge Perez" /></td>
+<td><strong>Mr Jorge Pérez Jaramillo</strong><br />Advisor to Governor for Planning and Habitat of Antioquia<br />Medellín<br />Colombia<br><a href="/about/prize-jury/prize-council/peter-ho/">Biography</a></td>
+</tr>
+</tbody>
+</table>
 
 #### **Registration and enquiries**
 
