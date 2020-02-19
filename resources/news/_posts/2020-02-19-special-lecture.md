@@ -25,14 +25,7 @@ Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. To celebra
 
 #### **Speakers**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/features/2020/jorge-perez.png" alt="Jorge Perez" /></td>
-<td><strong>Mr Jorge Pérez Jaramillo</strong><br />Advisor to Governor for Planning and Habitat of Antioquia<br />Former Planning Director of Medellín<br>Medellín, Colombia</td>
-</tr>
-</tbody>
-</table>
+*To be updated.*
 
 #### **Registration and enquiries**
 
