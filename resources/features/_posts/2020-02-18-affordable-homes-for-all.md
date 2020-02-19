@@ -11,7 +11,7 @@ description: Cities from Sydney to Los Angeles are grappling with soaring home p
 
 ***Cities from Sydney to Los Angeles are grappling with soaring home prices and a growing lack of affordable accommodation for residents. From novel ways to adapt residential estates to self-sustaining financing models, these are some examples of new infrastructural and legislative ideas.***
 
-![Housing for all](/images/features/2020/housing-green.jpg/)*Illustration: macrovector © 123rf.com*
+![Housing for all](/images/features/2020/housing-green.jpg/)*Illustration: venimo © 123rf.com*
 
 More people are moving to cities, but homes in them are becoming increasingly unaffordable. In 2019, property consultancy Knight Frank found that the average real house price in 32 major cities worldwide is rising much faster than their residents’ average real income, signalling a growing problem in housing affordability1. Between 2013 and 2018, the average real house price in the cities, which includes Sydney, Berlin, Tokyo, Amsterdam, London, Hong Kong, Vancouver and Kuala Lumpur, rose by 24 percent, compared to just 8 percent for their residents’ average real income.
 
@@ -19,7 +19,7 @@ The Knight Frank survey echoed findings by many other organisations. According t
 
 To provide more affordable housing and arrest the growth in home prices, many cities are taking steps to adapt their residential estates to house more people, turn underused spaces such as car parks into homes, and ensure the proper use of existing housing stock. 
 
-Making housing denser
+#### **Making housing denser**
 
 For many cities, finding ways to accommodate more people in existing residential areas is a priority. In Sydney, the government is persuading homeowners with spare spaces on their properties to convert them into self-contained rental apartments. Its Rightsize Service helps residents to finance modifications to change suitable spaces, such as their garage, backyard, or second floor after the children have moved out, into separate apartments4. In exchange, a not-for-profit housing provider manages the new apartment for five years, renting it from the homeowner at market rate and subletting it to eligible tenants at a reduced rate capped at 30 percent of their income.  
 
@@ -29,13 +29,15 @@ The city offers financing and technical advice to build the ADUs, and gives a on
 
 In Maputo, the capital of Mozambique, on the other hand, the focus is on transforming informal settlements that have become part of the urban landscape. While their single-storey, makeshift houses serve as affordable homes for low-income residents, they are an inefficient use of land. The government has come up with an elegant and self-sustaining solution7: demolish the ramshackle homes, build well-designed, two-storey, two-home properties in their place, give one to the low-income family for a nominal fee, and sell the other to finance the operation. Residents can choose whether or not to participate in the initiative. 
 
-Repurpose for results
+![Housing for all](/images/features/2020/housing-green.jpg/)*Providing affordable housing for its residents is an increasing challenge for cities as they grow. Illustration: Bakhtiar Zein  © 123rf.com*
+
+#### **Repurpose for results**
 
 Emerging trends may also free up land that can be used for additional housing. With the drive towards car-lite societies and the rise of online shopping, more car parks, especially the multi-storeyed ones typically found near shopping centres, will become superfluous. In Britain, where nearly half of all car parks are publicly owned, cities are taking advantage of their dwindling use to build accommodation on them. Harrow will construct 450 affordable homes on the sites of three car parks, while Coventry and Norwich will redevelop some of theirs into student housing8. Bristol is also experimenting with different ways to erect affordable homes on car parks, including building them on stilts so that the parking spaces can still be used9. 
 
 Office space conversions are another potential solution for housing shortages. Paris in France plans to use oversupplied office spaces to create the majority of its targeted 30,000 new affordable homes in the next six years12. The homes, to be funded by a public-private partnership, will have rents at least 20 percent lower than market rates. As more companies adopt hotdesking and activity-based work, which require less office space, such conversions will become an increasingly viable option for cities.
 
-A legislative approach
+#### **A legislative approach**
 
 While these infrastructural solutions will increase the availability of affordable housing, policy interventions may be needed too to ensure the proper use of homes. Home-sharing services such as Airbnb have, in some cities, led to more people buying or renting apartments only to sublet them to tourists for profit. Many cities have passed laws to limit such activity. 
 
