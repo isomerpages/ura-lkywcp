@@ -19,7 +19,7 @@ In a recent report3, the World Economic Forum (WEF) outlined the potential conse
 
 To reap the benefits of e-commerce while averting the problems caused by e-commerce deliveries, cities are experimenting with a range of infrastructural and legislative solutions. The following are some of the successful measures that have been implemented in cities ranging from Singapore to Sydney, and Shanghai to Seattle. 
 
-Reshaping the delivery landscape
+#### **Reshaping the delivery landscape**
 
 For several cities, setting up centralised delivery and collection points for parcels has been key to preventing traffic bottlenecks. In Seattle in the US, researchers at the University of Washington’s Urban Freight Lab found that delivery vans and trucks were spending 60 percent of their delivery time at the curb while their drivers searched for specific offices and apartments in high-rise buildings4. In 2018, the researchers trialled a locker system at a downtown office building, slashing the vehicles’ average parking time outside the building from 27 minutes to six minutes. The city’s government is now working with the researchers to install more of the lockers, including at transport hubs. 
 
@@ -29,7 +29,7 @@ Other cities have built depots on the fringes of busy areas to consolidate packa
 
 A similar project in Berlin, Germany, achieved equally impressive results. In a year-long, government-funded trial that ended in May 20198, the nation’s five largest parcel service firms used electric-powered cargo bicycles to deliver packages within the Prenzlauer Berg district from a centrally-located depot. “Our experience showed that the bicycles can be as efficient as conventional vans,” said Mr Gerd Seber, Group Manager of Sustainability and Innovation at DPD Germany, one of the firms9. He noted that while the bicycles have a smaller carrying capacity, their riders can navigate traffic more easily and do not have to look for parking spaces. Their use also averted 11 tonnes of greenhouse gas emissions during the trial. The government is in talks to establish permanent depots throughout the city to institutionalise this mode of parcel delivery.
 
-Regulations and reservations
+#### **Regulations and reservations**
 
 For cities without the space or resources to make infrastructural changes, policy ones may help too. In New York City (NYC) in the US, the rise of e-commerce has brought chaos to the streets, with more than 1.5 million packages delivered daily10. Delivery trucks now routinely double-park on roads, blocking bus and bicycle lanes. In 2018, the vehicles racked up more than 471,000 parking violations, a 34 percent increase from 2013. 
 
@@ -39,7 +39,7 @@ Many cities, including NYC, Stockholm in Sweden, Paris in France and Barcelona i
 
 Implementing curb-space reservations has also worked wonders for some cities. In a three-month trial in late 2019, Washington, DC, in the US required taxi and delivery companies to use an app to reserve time slots to pick up and drop off passengers and packages at specific places13. On-demand delivery services such as Uber Eats, followed by freight and parcel delivery companies, were the most frequent users of the app. “We saw that the drivers were able to save time from not having to circle the block multiple times to find a (parking) space”, improving traffic flow as well, said the city’s Department of Transportation Director Jeff Marootian14. Double-parking in the selected areas and nearby streets also fell by 64 percent.
 
-Into the air and under the ground
+#### **Into the air and under the ground**
 
 Advances in technology will open up new modes of delivery for cities. Many countries are already experimenting with using drones for deliveries. Reykjavik, the capital of Iceland, has allowed the company behind the country’s largest native online marketplace to deliver packages via drone since 2017. The partnership, which began with one tightly-prescribed path for the drones, now spans 13 routes with detours of up to 700 metres permitted, effectively covering half of the city15. Drone delivery trials are underway in more than 20 countries, including Germany, Britain and Indonesia16. 
 
