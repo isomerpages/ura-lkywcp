@@ -19,6 +19,8 @@ In a recent report3, the World Economic Forum (WEF) outlined the potential conse
 
 To reap the benefits of e-commerce while averting the problems caused by e-commerce deliveries, cities are experimenting with a range of infrastructural and legislative solutions. The following are some of the successful measures that have been implemented in cities ranging from Singapore to Sydney, and Shanghai to Seattle. 
 
+![E-commerce](/images/features/2020/delivering-the-goods.jpg/)*E-commerce brings convenience to consumers but puts constraints on city infrastructure. Photo: georgejmclittle © 123rf.com*
+
 #### **Reshaping the delivery landscape**
 
 For several cities, setting up centralised delivery and collection points for parcels has been key to preventing traffic bottlenecks. In Seattle in the US, researchers at the University of Washington’s Urban Freight Lab found that delivery vans and trucks were spending 60 percent of their delivery time at the curb while their drivers searched for specific offices and apartments in high-rise buildings4. In 2018, the researchers trialled a locker system at a downtown office building, slashing the vehicles’ average parking time outside the building from 27 minutes to six minutes. The city’s government is now working with the researchers to install more of the lockers, including at transport hubs. 
@@ -38,6 +40,8 @@ To arrest the problem, the government introduced a pilot programme in 2019 to tu
 Many cities, including NYC, Stockholm in Sweden, Paris in France and Barcelona in Spain, are also encouraging or requiring businesses with late-night operating hours to take delivery of their goods at night, to ease traffic congestion during the day. In NYC, about 500 companies, including grocery stores and pharmacies, now accept deliveries between 7 pm and 6 am under a city-administered programme, and the government is aiming to enlist 400 more businesses. In Paris, large freight trucks are banned from entering the city during the day, and instead do so at night to deliver packages to small warehouses located near homes12. Similar restrictions are in place in Seoul in South Korea and Manila in the Philippines.  
 
 Implementing curb-space reservations has also worked wonders for some cities. In a three-month trial in late 2019, Washington, DC, in the US required taxi and delivery companies to use an app to reserve time slots to pick up and drop off passengers and packages at specific places13. On-demand delivery services such as Uber Eats, followed by freight and parcel delivery companies, were the most frequent users of the app. “We saw that the drivers were able to save time from not having to circle the block multiple times to find a (parking) space”, improving traffic flow as well, said the city’s Department of Transportation Director Jeff Marootian14. Double-parking in the selected areas and nearby streets also fell by 64 percent.
+
+![Drone](/images/features/2020/delivering-the-goods.jpg/)*Could drones be the future of small goods delivery? Photo: Kittipong Jirasukhanont © 123rf.com*
 
 #### **Into the air and under the ground**
 
