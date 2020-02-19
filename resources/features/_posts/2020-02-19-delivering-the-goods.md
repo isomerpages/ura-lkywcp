@@ -19,7 +19,7 @@ In a [recent report](https://www.weforum.org/reports/the-future-of-the-last-mile
 
 To reap the benefits of e-commerce while averting the problems caused by e-commerce deliveries, cities are experimenting with a range of infrastructural and legislative solutions. The following are some of the successful measures that have been implemented in cities ranging from Singapore to Sydney, and Shanghai to Seattle. 
 
-![E-commerce](/images/features/2020/delivering-the-goods.jpg/)*E-commerce brings convenience to consumers but puts constraints on city infrastructure. Photo: georgejmclittle © 123rf.com*
+![E-commerce](/images/features/2020/online-shopping.jpg/)*E-commerce brings convenience to consumers but puts constraints on city infrastructure. Photo: georgejmclittle © 123rf.com*
 
 #### **Reshaping the delivery landscape**
 
@@ -31,6 +31,8 @@ Other cities have built depots on the fringes of busy areas to consolidate packa
 
 A similar project in Berlin, Germany, achieved equally impressive results. In a [year-long, government-funded trial](https://nationaler-radverkehrsplan.de/en/node/21322) that ended in May 2019, the nation’s five largest parcel service firms used electric-powered cargo bicycles to deliver packages within the Prenzlauer Berg district from a centrally-located depot. “Our experience showed that the bicycles can be as efficient as conventional vans,” [said Mr Gerd Seber](https://www.dpd.com/de/en/2019/05/24/komodo-anbieterneutrales-mikrodepot-in-berlin-geht-in-die-verlaengerung/), Group Manager of Sustainability and Innovation at DPD Germany, one of the firms9. He noted that while the bicycles have a smaller carrying capacity, their riders can navigate traffic more easily and do not have to look for parking spaces. Their use also averted 11 tonnes of greenhouse gas emissions during the trial. The government is in talks to establish permanent depots throughout the city to institutionalise this mode of parcel delivery.
 
+> "There has never been a time of greater change for ‘last-mile’ delivery. Consumers are ordering more things online and expecting more control and faster deliveries. Cities are struggling with traffic congestion and air pollution. Without a doubt, there is an urgent need for action, and effective interventions must be put in place."
+
 #### **Regulations and reservations**
 
 For cities without the space or resources to make infrastructural changes, policy ones may help too. In New York City (NYC) in the US, the rise of e-commerce has brought chaos to the streets, with [more than 1.5 million packages delivered daily](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Delivery trucks now routinely double-park on roads, blocking bus and bicycle lanes. In 2018, the vehicles racked up more than 471,000 parking violations, a 34 percent increase from 2013. 
@@ -41,7 +43,7 @@ Many cities, including NYC, Stockholm in Sweden, Paris in France and Barcelona i
 
 Implementing curb-space reservations has also worked wonders for some cities. In a three-month trial in late 2019, Washington, DC, in the US required taxi and delivery companies to [use an app to reserve time slots to pick up and drop off passengers and packages at specific places](https://usa.streetsblog.org/2019/11/14/garcon-d-c-requires-curb-reservations-for-deliveries/). On-demand delivery services such as Uber Eats, followed by freight and parcel delivery companies, were the most frequent users of the app. “We saw that the drivers were able to save time from not having to circle the block multiple times to find a (parking) space”, improving traffic flow as well, [said the city’s Department of Transportation Director Jeff Marootian](https://www.smartcitiesdive.com/news/curbflow-pilot-reduced-double-parking-in-dc-by-64/567268/). Double-parking in the selected areas and nearby streets also fell by 64 percent.
 
-![Drone](/images/features/2020/delivering-the-goods.jpg/)*Could drones be the future of small goods delivery? Photo: Kittipong Jirasukhanont © 123rf.com*
+![Drone](/images/features/2020/drone.jpg/)*Could drones be the future of small goods delivery? Photo: Kittipong Jirasukhanont © 123rf.com*
 
 #### **Into the air and under the ground**
 
