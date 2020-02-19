@@ -19,6 +19,8 @@ The Knight Frank survey echoed findings by many other organisations. [According 
 
 To provide more affordable housing and arrest the growth in home prices, many cities are taking steps to adapt their residential estates to house more people, turn underused spaces such as car parks into homes, and ensure the proper use of existing housing stock. 
 
+> "Cities in all regions face serious affordability challenges when it comes to housing, and housing affordability deteriorates as cities face increases in population.”
+
 #### **Making housing denser**
 
 For many cities, finding ways to accommodate more people in existing residential areas is a priority. In Sydney, the government is persuading homeowners with spare spaces on their properties to convert them into self-contained rental apartments. Its [Rightsize Service](https://www.cityofsydney.nsw.gov.au/vision/planning-for-2050/alternative-housing/rightsize-service) helps residents to finance modifications to change suitable spaces, such as their garage, backyard, or second floor after the children have moved out, into separate apartments. In exchange, a not-for-profit housing provider manages the new apartment for five years, renting it from the homeowner at market rate and subletting it to eligible tenants at a reduced rate capped at 30 percent of their income.  
@@ -29,13 +31,15 @@ The city offers [financing and technical advice to build the ADUs](https://adu.l
 
 In Maputo, the capital of Mozambique, on the other hand, the focus is on transforming informal settlements that have become part of the urban landscape. While their single-storey, makeshift houses serve as affordable homes for low-income residents, they are an inefficient use of land. The government has come up with an [elegant and self-sustaining solution](https://www.casaminha.co/): demolish the ramshackle homes, build well-designed, two-storey, two-home properties in their place, give one to the low-income family for a nominal fee, and sell the other to finance the operation. Residents can choose whether or not to participate in the initiative. 
 
-![Housing for all](/images/features/2020/housing-green.jpg/)*Providing affordable housing for its residents is an increasing challenge for cities as they grow. Illustration: Bakhtiar Zein  © 123rf.com*
+![Housing for all](/images/features/2020/affordable-housing.jpg/)*Providing affordable housing for its residents is an increasing challenge for cities as they grow. Illustration: Bakhtiar Zein © 123rf.com*
 
 #### **Repurpose for results**
 
 Emerging trends may also free up land that can be used for additional housing. With the drive towards car-lite societies and the rise of online shopping, more car parks, especially the multi-storeyed ones typically found near shopping centres, will become superfluous. In Britain, where nearly half of all car parks are publicly owned, [cities are taking advantage of their dwindling use to build accommodation on them](https://www.theguardian.com/cities/2019/nov/07/from-bars-to-pod-homes-how-underused-car-parks-are-being-transformed). Harrow will construct 450 affordable homes on the sites of three car parks, while Coventry and Norwich will redevelop some of theirs into student housing. Bristol is also [experimenting with different ways to erect affordable homes on car parks](https://www.bristolhousingfestival.org.uk/projects), including building them on stilts so that the parking spaces can still be used. 
 
 Office space conversions are another potential solution for housing shortages. Paris in France plans to use oversupplied office spaces to [create the majority of its targeted 30,000 new affordable homes in the next six years](https://www.citylab.com/transportation/2020/01/paris-municipal-election-anne-hidalgo-green-proposal-housing/604975/). The homes, to be funded by a public-private partnership, will have rents at least 20 percent lower than market rates. As more companies adopt hotdesking and activity-based work, which require less office space, such conversions will become an increasingly viable option for cities.
+
+> “There’s no one-size-fits-all solution to address homeless and improving housing affordability across countries. Cities need to invest more in affordable housing, and policy makers must adopt different solutions according to their specific city contexts.”
 
 #### **A legislative approach**
 
