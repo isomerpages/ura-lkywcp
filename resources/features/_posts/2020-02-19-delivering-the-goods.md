@@ -11,7 +11,7 @@ description: The sharp increase in e-commerce is posing a dilemma to cities: how
 
 ***The sharp increase in e-commerce is posing a dilemma to cities: how to encourage such trade while preventing the traffic congestion caused by delivery vehicles. To achieve the twin goals, cities are experimenting with a range of infrastructural and legislative solutions, from mini-depots and self-pick-up points, to reservation systems for curb-side parking.***
 
-![Seoul](/images/features/2020/delivering-the-goods.jpg/)*© Seoul Metropolitan Government*
+![Delivering the goods](/images/features/2020/delivering-the-goods.jpg/)*Illustration: macrovector © 123rf.com*
 
 For online shoppers, buying a product may be as simple as clicking on a few buttons on a website and waiting for the delivery. For cities, however, coping with the traffic problems caused by e-commerce deliveries has become a complex issue in need of innovative solutions. In China, the number of express delivery parcels soared from nine billion in 2013 to more than 60 billion in 20191, with the figure expected to keep growing as more citizens join the middle class. In the United States, the urban traffic related to e-commerce doubled between 2009 and 2018, and is slated to double again within five years, by 20232. 
 
