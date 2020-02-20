@@ -29,7 +29,7 @@ Join us as we unveil the Lee Kuan Yew World City Prize 2020 Laureate. To celebra
 
 #### **Registration and enquiries**
 
-Register your interest at this [link](https://form.gov.sg/5e4dfc9d66472d0011c59db0).
+Register your interest [here](https://form.gov.sg/5e4dfc9d66472d0011c59db0).
 
 | **Media Enquiries** | **General Enquiries** |
 | Ms Chan Yeng <u>Heng</u><br>[heng_chan_yeng@ura.gov.sg](mailto:heng_chan_yeng@ura.gov.sg) | Prize Secretariat<br>[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg) |
