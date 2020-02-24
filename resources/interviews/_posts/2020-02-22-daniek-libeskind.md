@@ -28,7 +28,6 @@ The Jewish Museum in Berlin which opened in 2001 was Daniel’s first major proj
 #### **What contributes to our sense of place?**
 
 **DL:** Our sense of place is about being human. Animals have nests and burrows. Only human beings have something more than a habitat. They have a home. There is a difference between a habitat and a home, just as there is a difference between biology and the human spirit. This is the profound aspect of being involved in architecture and creating a place. You are creating a home which goes beyond the physical necessities of life. It is not about how many square metres of space you have – it is about the quality of that space. 
-
 <br>
 > "The Chinese have the concept of the unseen unicorn. The idea is that the unicorn is ever present, but most people only see the white horse. They do not see the unicorn that is hidden and in proximity."
 
