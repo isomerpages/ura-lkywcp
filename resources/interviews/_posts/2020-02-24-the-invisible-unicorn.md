@@ -41,8 +41,8 @@ I am proud of the outcome of the project as well as the enthusiastic spirit that
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2019/winy-maas.jpg" alt="Winy Maas" /></div>
+<div style="width:150px"><img src="/images/features/2020/daniel-libeskind2.jpg" alt="Daniel Libeskind" /></div>
 
-| **Winy Maas** |
+| **Daniel Libeskind** |
 |:---|
-| Winy Maas is a co-founder and principal architect of MVRDV, an interdisciplinary studio that works at the intersection of architecture and urbanism. The award-winning Dutch practice was set up by Maas alongside Jacob van Rijs and Nathalie de Vries in 1993 and has established an international identity with a wide variety of buildings, cities and landscapes that are innovative, experimental, and theoretical. |
+| Daniel Libeskind is a Polish-American architect, artist, professor and set designer. Libeskind founded Studio Daniel Libeskind in 1989 with his wife, Nina, and is its principal design architect. He is known for the design and completion of the Jewish Museum in Berlin, Germany, that opened in 2001. |
