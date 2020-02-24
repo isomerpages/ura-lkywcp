@@ -29,13 +29,13 @@ The Jewish Museum in Berlin which opened in 2001 was Daniel’s first major proj
 
 **DL:** Our sense of place is about being human. Animals have nests and burrows. Only human beings have something more than a habitat. They have a home. There is a difference between a habitat and a home, just as there is a difference between biology and the human spirit. This is the profound aspect of being involved in architecture and creating a place. You are creating a home which goes beyond the physical necessities of life. It is not about how many square metres of space you have – it is about the quality of that space. 
 
+> "The Chinese have the concept of the unseen unicorn. The idea is that the unicorn is ever present, but most people only see the white horse. They do not see the unicorn that is hidden and in proximity."
+
 #### **How do you go about understanding the essence of a place?**
 
 **DL:** You have to know what surrounds you by putting your head and ears on the earth in order to listen, not only to the voices around you but to the inaudible voices. You have to use your eyes to see the invisible parts of the site, not just what you can photograph with your camera. This is the kind of connection that you should search for when you work on a project.
 
-#### **Are there other ways in which you 'listen' to the ground?**
-
-**DL:** I never go to the site with my camera. I sometimes do not even go with a sketch book or any motive. The Chinese have the concept of the unseen unicorn. The idea is that the unicorn is ever present, but most people only see the white horse. They do not see the unicorn that is hidden and in proximity. 
+The Chinese have the concept of the unseen unicorn. The idea is that the unicorn is ever present, but most people only see the white horse. They do not see the unicorn that is hidden and in proximity. 
 
 So the site in the same way is like the invisible unicorn. It is there and is ever present, but is camouflaged by our expectations. You have to open up to the unexpected. If you do not expect the unexpected, you will miss it – it will just go by you! And that is the time that triggers the eureka moment. 
 
@@ -71,4 +71,4 @@ It is very important to imbue the site with symbolic and democratic meanings and
 |:---|
 | Daniel Libeskind is a Polish-American architect, artist, professor and set designer. Libeskind founded Studio Daniel Libeskind in 1989 with his wife, Nina, and is its principal design architect. He is known for the design and completion of the Jewish Museum in Berlin, Germany, that opened in 2001. |
 
-###### *This article was first published in Skyline Issue 12, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
+###### *This article is adapted from and was first published in Skyline Issue 12, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
