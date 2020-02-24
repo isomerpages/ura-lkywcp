@@ -1,6 +1,6 @@
 ---
-title: Daniel Libeskind on 'the invisible unicorn'
-permalink: /resources/interviews/the-invisible-unicorn/
+title: Daniel Libeskind on designing for the past and future
+permalink: /resources/interviews/daniel-libeskind/
 image: /images/features/2020/daniel-libeskind.jpg
 description: World-renowned architect Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition. In this interview, he shares the importance of memory to the design of physical spaces and what it means to design for the past and future.
 ---
