@@ -2,10 +2,10 @@
 title: Daniel Libeskind on 'the invisible unicorn'
 permalink: /resources/interviews/the-invisible-unicorn/
 image: /images/features/2020/daniel-libeskind.jpg
-description: Invisible unicorns and connecting to the heart - world renowned Polish-American architect Daniel Libeskind reveals the essence of designing for both the past and the future.
+description: World-renowned architect Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition. In this interview, he shares the importance of memory to the design of physical spaces and what it means to design for the past and future.
 ---
 
-***Invisible unicorns and connecting to the heart - in this interview, world renowned Polish-American architect Daniel Libeskind reveals the essence of designing for both the past and the future.***
+***World-renowned architect Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition. In this interview, he shares the importance of memory to the design of physical spaces and what it means to design for the past and future.***
 
 ![Daniel Libeskind](/images/features/2020/daniel-libeskind.jpg/)*Daniel Libeskind © Urban Redevelopment Authority Singapore*
 
@@ -68,8 +68,10 @@ It is very important to imbue the site with symbolic and democratic meanings and
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2020/daniel-libeskind2.jpg" alt="Daniel Libeskind" /></div>
+<div style="width:150px"><img src="/images/features/2020/daniel-libeskind2.png" alt="Daniel Libeskind" /></div>
 
 | **Daniel Libeskind** |
 |:---|
 | Daniel Libeskind is a Polish-American architect, artist, professor and set designer. Libeskind founded Studio Daniel Libeskind in 1989 with his wife, Nina, and is its principal design architect. He is known for the design and completion of the Jewish Museum in Berlin, Germany, that opened in 2001. |
+
+###### *This article was first published in Skyline Issue 12, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
