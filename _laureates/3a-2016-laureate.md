@@ -29,4 +29,4 @@ Medellín has come a long way from its past, sending a powerful signal that incl
 
 | **Watch** |
 |:---|
-| [Commemorative Video](https://vimeo.com/158880335) |
+| [Commemorative Video](https://www.youtube.com/watch?v=P5BzIa90x1A) |
