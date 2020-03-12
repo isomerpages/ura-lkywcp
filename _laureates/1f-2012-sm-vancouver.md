@@ -12,7 +12,8 @@ third_nav_title: 2012
 _© City of Vancouver_
 
 #### **The Jury's Citation**
-The City of Vancouver is an exemplary demonstration of strong visioning, community values and long-term planning. Over the last 40 years the city showed foresight and boldness in resisting two of the major North American urban trends – the introduction of freeways into the city centre and the loss of residents to the suburbs. Instead the city embarked on an inner-city densification process supported by innovative planning, which has contributed to a more liveable and vibrant city life.
+
+**VANCOUVER** is recognised for being an exemplary demonstration of strong visioning, community values and long-term planning. Over the last 40 years the city showed foresight and boldness in resisting two of the major North American urban trends – the introduction of freeways into the city centre and the loss of residents to the suburbs. Instead the city embarked on an inner-city densification process supported by innovative planning, which has contributed to a more liveable and vibrant city life.
 
 Vancouver works hard to prove that it is worthy of its spectacular setting. It is highly commendable that the City has harnessed, rather than taken for granted, its extraordinary natural setting to inform every aspect of city planning. Today, the City is characterised by exceptional urban design that accentuates the loveliness of its surrounding. For instance, building heights are zealously, controlled to maintain a breath-taking view of the mountainous skyline and ocean backdrop. In addition, neighbourhoods are carefully designed such that the barriers between the private, social and natural spaces are seemingly absent, encouraging the diffusion of vibrancy and appreciation of the outdoors.
 
