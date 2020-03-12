@@ -12,7 +12,8 @@ third_nav_title: 2012
 _Øresund Bridge © City of Copenhagen_
 
 #### **The Jury's Citation**
-The cities of Copenhagen in Denmark and Malmö in Sweden were nominated separately, yet the jury felt that they deserved a joint commendation due to their close collaboration at government and business levels, and shared vision of a holistic set of economic, environmental and socially sustainable goals.
+
+**COPENHAGEN AND MALMÖ** are jointly recognised for their close collaboration at government and business levels, and shared vision of a holistic set of economic, environmental and socially sustainable goals.
 
 The two metropolitan areas are separated by the Øresund Strait, which has lent its name to the Øresund Region comprising southern Sweden and eastern Denmark and the most densely populated area in Scandinavia with a population of 3.7 million. Since 2000 the cities have been linked by the Øresund Bridge, the longest road and rail bridge in Europe, which embodies their successful collaboration on infrastructure projects. By pooling resources and sharing public infrastructure, such as the Copenhagen Airport and the Copenhagen-Malmo Port, both cities achieve benefits at multiple scales, generate greater economic vitality in the region and extend their influence beyond national boundaries.
 
