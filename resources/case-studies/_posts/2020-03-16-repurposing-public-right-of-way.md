@@ -17,11 +17,11 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **In brief**
 
-![Brooklyn Bridge Park before](/images/features/2020/bbp-before.jpg/)![Brooklyn Bridge Park after](/images/features/2020/bbp-after.jpg/)*A visualisation to show the full build-out to Brooklyn Bridge Park before and after © NYC Department of Parks & Recreation*
+![Times Square before and after](/images/features/2020/times-square-before-after.jpg/)*Times Square before and after © NYC Department of Transportation*
 
 - A plan to repurpose and redistribute New York City (NYC)’s road spaces to walking, biking and new public spaces, while calming traffic and improving safety. 
 - Part of PlaNYC’s vision to encourage active living, reduce carbon emissions and create more walkable communities. 
-- The NYC Plaza programme led by NYC Department of Transformation (DOT) converts underutilised road spaces into vibrant neighbourhood amenities/plazas by partnering local non-profit organisations and communities.
+- The NYC Plaza programme led by NYC Department of Transportation (DOT) converts underutilised road spaces into vibrant neighbourhood amenities/plazas by partnering local non-profit organisations and communities.
 - Times Square is most visible example, transformed almost overnight and with little expense from a place dominated by cars to one visited by hundreds of thousands of people daily. 
 
 ---
