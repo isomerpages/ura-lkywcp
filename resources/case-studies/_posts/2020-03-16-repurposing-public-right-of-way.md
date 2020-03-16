@@ -1,18 +1,18 @@
 ---
-title: Repurposing the right of way
-permalink: /resources/case-studies/repurposing-right-of-way/
+title: Re-purposing the public right of way
+permalink: /resources/case-studies/repurposing-public-right-of-way/
 image: /images/features/2020/times-square-yoga.jpg
-description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East River shoreline, is a revitalisation of the area’s post-industrial waterfront. In this case study, we learn about how this project helps to reclaim derelict industrial areas, create new parkland and reconnect New York residents to the waterfront in an environmentally sustainable manner.
+description: Under its overall strategy to encourage active living, reduce carbon emissions and create more walkable communities, New York City is redistributing its road spaces in this ongoing initiative to create more sustainable modes of walking and biking, and new spaces for recreation and rest, while simultaneously calming traffic and improving safety.
 ---
 
-***Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East River shoreline, is a revitalisation of the area’s post-industrial waterfront. In this case study, we learn about how this project helps to reclaim derelict industrial areas, create new parkland and reconnect New York residents to the waterfront in an environmentally sustainable manner.*** 
+***Under its overall strategy to encourage active living, reduce carbon emissions and create more walkable communities, New York City is redistributing its road spaces in this ongoing initiative to create more sustainable modes of walking and biking, and new spaces for recreation and rest, while simultaneously calming traffic and improving safety.*** 
 
 <br>
 
 | **City** | New York City |
 | **Type** | Urban regeneration |
-| **Completion** | Ongoing since 2008 |
-| **Size** | 34 hectares |
+| **Completion** | Ongoing |
+| **Size** | Citywide |
 | **Scale** | Large |
 
 #### **In brief**
