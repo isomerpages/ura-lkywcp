@@ -66,15 +66,15 @@ description: Under its overall strategy to encourage active living, reduce carbo
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/money.png" alt="money" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/walking.png" alt="walking" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Pedestrian volume in Times Square increased 11%<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/people.png" alt="people" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/cycling.png" alt="cycling" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Commuter cycling increased more than 45%<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/construction.png" alt="construction" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/accident.png" alt="accident" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Injuries to motorists and passengers decreaased 63%<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/house.png" alt="house" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/rent.png" alt="rent" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Average asking rent increased 71%<br></td>
 </tr>
 </tbody>
