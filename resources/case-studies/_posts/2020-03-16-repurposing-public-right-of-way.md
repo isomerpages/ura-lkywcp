@@ -78,7 +78,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 <td style="text-align: left; vertical-align: top;"><br>Average asking rent increased 71%<br></td>
 </tr>
 </tbody>
-</table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
+</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
 
 - Pedestrian volume in Times Square increased by 11%, injuries to motorists and passengers decreased by 63% with and pedestrian injuries decreased 35%. 
 - Several new flagship stores opened in Times Square, with the average asking rent increased by 71% since 2009 despite a severe economic downturn.
