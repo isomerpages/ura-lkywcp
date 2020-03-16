@@ -67,15 +67,15 @@ description: Under its overall strategy to encourage active living, reduce carbo
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/money.png" alt="money" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Over $300 million economic output<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Pedestrian volume in Times Square increased 11%<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/people.png" alt="people" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Increased in visitorship<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Commuter cycling increased more than 45%<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/construction.png" alt="construction" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Created 150 construction jobs per year<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Injuries to motorists and passengers decreaased 63%<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/house.png" alt="house" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Increase in residential sales<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Average asking rent increased 71%<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
