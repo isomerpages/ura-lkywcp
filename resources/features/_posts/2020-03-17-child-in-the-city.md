@@ -2,14 +2,14 @@
 title: Child in the city
 permalink: /resources/features/child-in-the-city/
 image: /images/features/2020/child-city.jpg
-description: More than a billion children are growing up in cities today, and youths will make up a majority of urbanites by 2050. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.
+description: Nearly one in three people living in cities and towns today is a child. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.
 ---
 
 | Author |
 |---:|
 | Feng Zengkun |
 
-***More than a billion children are growing up in cities today, and youths will make up a majority of urbanites by 2050. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.***
+***Nearly one in three people living in cities and towns today is a child. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.***
 
 ![Child in the city](/images/features/2020/child-city.jpg/)*Photo: bowie15 © 123rf.com*
 
