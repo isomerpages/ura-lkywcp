@@ -1,7 +1,7 @@
 ---
 title: Child in the city
-permalink: /resources/features/water-wise/
-image: /images/features/2020/child-in-the-city.jpg
+permalink: /resources/features/child-in-the-city/
+image: /images/features/2020/child-city.jpg
 description: More than a billion children are growing up in cities today, and youths will make up a majority of urbanites by 2050. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.
 ---
 
@@ -19,6 +19,8 @@ Across the US and other countries, more cities are taking steps to become child-
 
 In 2018, the United Nations Children’s Fund [created a new handbook and website](https://www.unicef.org/publications/index_103349.html) to highlight the importance of respecting and realising children’s rights in the development of cities and communities. A year later, it organised [the first international Child-Friendly Cities Summit in Cologne, Germany](https://childfriendlycities.org/mayors-commit-to-action-for-children-at-the-child-friendly-cities-summit/), which was attended by mayors, technical experts, children and young people from 180 cities in 53 countries. Cologne Mayor Henriette Reker said: “It is our action at the local government level that has a huge influence on children’s lives and well-being. We must ensure that children’s rights, wishes and needs are taken into account.” 
 
+> "It is imperative that we design and build cities that meet the needs of children: seeking their input during the design process, providing them with access to play and education, and facilitating their social and cultural interactions."
+
 #### **Cities for children**
 
 For cities such as Rotterdam in the Netherlands and Jakarta in Indonesia, becoming more child-friendly has meant literally making more space for the little ones. After Rotterdam was voted in a 2006 national poll as the worst Dutch city in which to raise a child, it invested 15 million euros (approximately USD $16.9 million) and set conditions for infrastructure such as housing and public spaces in a project called [“Building Blocks for a Child-Friendly Rotterdam”](https://docplayer.net/34800827-Rotterdam-city-with-a-future-how-to-build-a-child-friendly-city.html). 
@@ -34,6 +36,8 @@ While creating spaces for children is critical, ensuring that they can reach tho
 In Antwerp, city authorities have not only widened pavements and implemented crossing points for safety but made the streets more fun for children by adding play features. Mr Wim Seghers, a consultant who led the street transformation plan, said: “It can be something as a simple as a concrete stepping stone. When children find it on their route, they sit on it, lie on it, jump on and off, and they have fun. It makes the route more attractive and child-friendly.”
 
 For cities with limited space, temporary road closures can be an effective way to make more room for children. In London, Britain, the [“Play Streets” programme](https://www.london.gov.uk/sites/default/files/ggbd_making_london_child-friendly.pdf) encourages residents to apply to their local council for help in organising regular road closures, for example for three hours on the first Sunday of every month, to enable children to play in the street and become physically active and healthier. Residents have to get approval from at least 70 percent of the households on their street. If they are successful, the council provides road closure signs, high visibility vests for volunteers and play kit bags for free. In the Camden district alone, [12 streets have joined the programme](https://www.camden.gov.uk/play-streets), with the council noting that it has brought residents together.
+
+![Making cities safer and more inclusive for children](/images/features/2020/child-cycling.jpg/)*Making cities safer and more inclusive for children. Photo: Irina Schmidt © 123rf.com*
 
 #### **Children in charge** 
 
