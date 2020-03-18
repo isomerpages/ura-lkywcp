@@ -19,7 +19,7 @@ As climate change continues to change weather patterns, the growing trend of lon
 
 To ensure enough water for all, cities must boost their supplies, decrease their demand and tackle mismanagement issues, such as water that leaks out of distribution networks and goes to waste. 
 
-Shoring up supplies
+#### **Shoring up supplies**
 
 While many cities are investing in water supply sources that are not weather-dependent, such as desalination plants to treat seawater and treatment plants to recycle wastewater, not all cities may be able to afford such technologies and their operational costs. To maximise their ability to harvest and use rainwater in an era of shorter rainy seasons but heavier showers, many cities are turning to multipurpose infrastructure to retain more water for immediate use, and underground water storage to accumulate long-term supplies. These measures also have the additional benefit of reducing their flood risks. 
 
@@ -31,7 +31,7 @@ Cities that cannot afford extensive infrastructural investments to collect and t
 
 The project is slated to cost just 200 million pesos (approximately USD $9 million), a small part of the city’s budget. About 15,000 systems have been installed and harvested 600 million litres of rainwater in 2019, benefiting 90,000 residents12. 
 
-Putting a dent in demand
+#### **Putting a dent in demand**
 
 As cities shore up their water supplies, finding ways to minimise demand is also key. In Vancouver, Canada, the government has helped to reduce the city’s per capita water consumption by 22 percent from 2006 through a variety of means, including regulations13.
 
@@ -41,7 +41,7 @@ For Singapore, smart technology is central to water conservation efforts. Betwee
 
 Emerging technologies could lead to water savings in other ways. The city of Phoenix in the US is trialling hydrogels that could revolutionise landscaping maintenance in city parks, sports fields, golf courses and other green spaces17. The hydrogels, which look like table salt granules, can absorb and hold up to 400 times their weight in water and slowly release it. Seeded into soil, they would absorb rainwater, preventing it from turning into runoff or pooling on top of soaked soil and evaporating later, and then dispense it over time to keep greenery healthy. The hydrogels have been injected into the soil underlying the 12 acres (48,600 square metres) of soccer fields at Arizona State University, and are expected to decrease the water needed to maintain them by 16.7 million litres per year, or 40 percent of the current use.
 
-Plugging the gaps
+#### **Plugging the gaps**
 
 While supply and demand are the two sides of cities’ water equation, a third component has come under increasing scrutiny: water that leaks out of pipe networks, also known as non-revenue water. In 2019, London, Britain’s capital, lost over 500 million litres of water per day, which could have met the needs of 3.5 million residents, due to leaks in its ageing pipe system18. 
 
