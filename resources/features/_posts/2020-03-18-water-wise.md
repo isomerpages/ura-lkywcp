@@ -1,5 +1,5 @@
 ---
-title: Water-wise - tackling water insecurity
+title: Water-wise – tackling water insecurity
 permalink: /resources/features/water-wise/
 image: /images/features/2020/drink-water.jpg
 description: About a quarter of the world's population live in extremely water-stressed areas, and many cities have already experienced severe water shortages. To protect themselves, more cities are aiming to soak up more rainfall and store more water, tap digitalisation and artificial intelligence to reduce pipe leaks, and encourage residents to conserve more water through regulations and smart technologies.
