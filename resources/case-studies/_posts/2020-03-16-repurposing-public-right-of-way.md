@@ -28,7 +28,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **Key issues faced before the implementation of the project**
 
-![Pier 1 Bridge before the transformation](/images/features/2020/bbp-before2.jpg/)*Pier 1 Bridge before the transformation © Julienne Schaer*
+![14th street before](/images/features/2020/14th-street-before.jpg/)*Broadway 14th Street before the transformation © NYC DOT*
 
 - Increasing population in the city – projected increase of 1 million people by 2030. 
 - Congested, poorly designed, and visually unappealing streets and sidewalks in Times Square.
@@ -37,8 +37,6 @@ description: Under its overall strategy to encourage active living, reduce carbo
 ---
 
 #### **Leadership and governance**
-
-![Pier 1 during the construction](/images/features/2020/bbp-construction.jpg/)*Pier 1 during the construction © Julienne Schaer*
 
 - New plaza sites are nominated through a community-based process and selected by the city. 
 - The sites are then planned and designed by the city in consultation with the community. 
@@ -49,7 +47,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **Creativity and innovation**
 
-![Pier 6 features a slide mountain that creates a dynamic play area emphasising interaction with the natural environment](/images/features/2020/bbp-mountain-slide.jpg/)*Pier 6 features a slide mountain that creates a dynamic play area emphasising interaction with the natural environment © Julienne Schaer*
+![Broadway after](/images/features/2020/broadway-after.jpg/)*Broadway after the transformation © NYC DOT*
 
 - Instead of developing new sites, public spaces are reclaimed from existing infrastructure – a significant shift in the allocation and prioritisation of public spaces. 
 - Sections along Broadway are reclaimed to create “instant public plazas” using paint, planters and seating – an effective and low-cost way to test public responses before longer-term plans. 
@@ -90,7 +88,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **Replicable ideas**
 
-![Brooklyn Bridge Park after revitalisation](/images/features/2020/brooklyn-bridge-park.jpg/)*Brooklyn Bridge Park after revitalisation © Julienne Schaer*
+![Times Square](/images/features/2020/times-square-yoga.jpg/)*Mass yoga session at Times Square © NYC DOT*
 
 - Many cities face similar constraints to NYC, i.e. dense population and built-up infrastructure with minimal available land for new roads or public spaces.
 - NYC’s experiences offer replicable ideas, e.g. audits of current conditions, community outreach, and using temporary and inexpensive pilots to test new ideas. 
