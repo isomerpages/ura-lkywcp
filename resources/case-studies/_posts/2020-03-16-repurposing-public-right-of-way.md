@@ -41,7 +41,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - New plaza sites are nominated through a community-based process and selected by the city. 
 - The sites are then planned and designed by the city in consultation with the community. 
 - The city funds the construction and partners not-for-profit organisations to maintain the spaces.
-- The city further supports plaza partners through supplementary activities such as [“Weekend Walks”](https://www1.nyc.gov/html/dot/weekendwalks/html/home/home.shtml) and public art installation.
+- The city further supports plaza partners through supplementary activities such as “[Weekend Walks](https://www1.nyc.gov/html/dot/weekendwalks/html/home/home.shtml)" and public art installation.
 
 ---
 
