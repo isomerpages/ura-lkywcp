@@ -31,6 +31,8 @@ Cities that cannot afford extensive infrastructural investments to collect and t
 
 The project is slated to cost just 200 million pesos (approximately USD $9 million), a small part of the city’s budget. [About 15,000 systems have been installed](https://islaurbana.org/english/urban-systems-2/) and harvested 600 million litres of rainwater in 2019, benefiting 90,000 residents. 
 
+![Bishan Park](/images/features/2020/bishan-park.jpg/)*A water-retention system in Singapore's Bishan Park. Photo: Dongli Zhang © 123rf.com*
+
 #### **Putting a dent in demand**
 
 As cities shore up their water supplies, finding ways to minimise demand is also key. In Vancouver, Canada, the government has [helped to reduce the city’s per capita water consumption by 22 percent from 2006](https://vancouver.ca/green-vancouver/clean-water.aspx#water-progress) through a variety of means, including regulations.
@@ -40,6 +42,8 @@ As cities shore up their water supplies, finding ways to minimise demand is also
 For Singapore, smart technology is central to water conservation efforts. Between 2021 and 2023, the city-state will [install about 300,000 smart water meters in homes as well as commercial and industrial buildings](https://www.pub.gov.sg/smartwatermeterprogramme/about) to offer residents and businesses a real-time look at their water use, with the goal of alerting them to leaks and persuading them to curtail consumption. Two earlier trials in 2016 and 2018 respectively validated the benefits of the smart meters, with the 800 participating households saving about five percent of water on average, partly due to changes in daily routines, such as taking shorter showers.
 
 Emerging technologies could lead to water savings in other ways. The city of Phoenix in the US is [trialling hydrogels that could revolutionise landscaping maintenance](https://www.phoenix.gov/news/waterservices/2396) in city parks, sports fields, golf courses and other green spaces. The hydrogels, which look like table salt granules, can absorb and hold up to 400 times their weight in water and slowly release it. Seeded into soil, they would absorb rainwater, preventing it from turning into runoff or pooling on top of soaked soil and evaporating later, and then dispense it over time to keep greenery healthy. The hydrogels have been injected into the soil underlying the 12 acres (48,600 square metres) of soccer fields at Arizona State University, and are expected to decrease the water needed to maintain them by 16.7 million litres per year, or 40 percent of the current use.
+
+> "Water stresses are poised to worsen unless countries act. Only by taking action now and investing in better management can we solve water issues for the good of people, economies and the planet."
 
 #### **Plugging the gaps**
 
