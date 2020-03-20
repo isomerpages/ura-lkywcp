@@ -15,4 +15,4 @@ For any enquiries, please get in touch with us at [leekuanyew_worldcityprize@ura
 
 Thank you.
 
-Lee Kuan Yew World City Prize Secretariat **<font color="#967942">O</font>** 
+**Lee Kuan Yew World City Prize Secretariat** **<font color="#967942">O</font>** 
