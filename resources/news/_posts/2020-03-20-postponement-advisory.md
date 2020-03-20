@@ -5,7 +5,7 @@ image:
 description: Announcement of 2020 Prize Laureate postponed to a later date, World Cities Summit rescheduled to 20 – 24 June 2021
 ---
 
-#### **Postponement advisory note**
+#### **Advisory note**
 
 Under normal circumstances, the result of the 2020 cycle of the Lee Kuan Yew World City Prize would be announced in March 2020. Due to the ongoing Covid-19 global pandemic and taking into considerations travel restrictions, safety and well-being of participants, the announcement of the 2020 Prize Laureate will be postponed to a later date in 2020. 
 
