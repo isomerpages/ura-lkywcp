@@ -1,5 +1,5 @@
 ---
-title: About The Prize
+title: About the Prize
 permalink: /about/about-the-prize/
 ---
 
