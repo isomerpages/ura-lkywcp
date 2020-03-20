@@ -11,7 +11,7 @@ Under normal circumstances, the result of the 2020 cycle of the Lee Kuan Yew Wor
 
 Likewise, [World Cities Summit (WCS)](https://www.worldcitiessummit.com.sg/) — where the Lee Kuan Yew World City Prize Lecture & Forum and Lee Kuan Yew Prize Award Ceremony & Banquet are held — will be postponed to **20 – 24 June 2021**. 
 
-For any enquiries, please get in touch with us at [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). For the latest developments on the Covid-19 situation in Singapore, please visit the Singapore’s Ministry of Health’s [website](https://www.moh.gov.sg/).
+For any enquiries, please get in touch with us at [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). For the latest developments on the COVID-19 situation in Singapore, please visit the Singapore’s Ministry of Health’s [website](https://www.moh.gov.sg/).
 
 Thank you.
 
