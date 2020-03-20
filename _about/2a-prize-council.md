@@ -4,7 +4,7 @@ permalink: /about/prize-jury/prize-council
 third_nav_title: Prize Jury
 ---
 
-#### **Chairman of the Prize Council 2020**
+#### **Chair of the Prize Council 2020**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
