@@ -16,9 +16,9 @@ sections:
             - title: Nominations
               description: Nomination guidelines
               url: /nomination/guidelines/overview/
-            - title: Features 
-              description: Articles on city-related issues
-              url: /resources/features/
+            - title: Resources 
+              description: Latest city-related features
+              url: /resources/
             - title: Newsletter
               description: Subscribe to our monthly newsletter
               url: https://mailchi.mp/ura/lkywcp-newsletter
