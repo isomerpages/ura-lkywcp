@@ -4,7 +4,7 @@ permalink: /about/prize-jury/nominating-committee
 third_nav_title: Prize Jury
 ---
 
-#### **Chairman**
+#### **Chair**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
