@@ -23,6 +23,6 @@ We thank you once again for your support and interest. We hope that the Prize wi
 
 <div style="width:150px"><img src="/images/dr-cheong-signature.png" alt="Dr Cheong's Signature" /></div>
 **Dr Cheong Koon Hean**
-<br>Chairman 
+<br>Chair 
 <br>Lee Kuan Yew World City Prize 
 <br>Nominating Committee 2020

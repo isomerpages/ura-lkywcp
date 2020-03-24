@@ -14,7 +14,8 @@ third_nav_title: 2010
 _Aveneida de Abandoibarra © BILBAO NEXT – Ayuntamiento de Bilbao_
 
 #### **The Jury's Citation**
-Bilbao City Hall has been named the inaugural Lee Kuan Yew World City Prize Laureate in recognition of its integrated and holistic approach in urban transformation. Bilbao City Hall has demonstrated that urban regeneration can be a powerful social and economic driver to catalyse change, strengthen the urban fabric, inject vibrancy and improve the quality of life for its citizens. 
+
+**BILBAO CITY HALL** has been named the inaugural Lee Kuan Yew World City Prize Laureate in recognition of its integrated and holistic approach in urban transformation. Bilbao City Hall has demonstrated that urban regeneration can be a powerful social and economic driver to catalyse change, strengthen the urban fabric, inject vibrancy and improve the quality of life for its citizens. 
 
 Bilbao City Hall has been instrumental in regenerating and transforming the city of Bilbao from an obsolete and dilapidated industrial city into a knowledge-based economy. The success of Bilbao is largely attributed to its integrated and holistic approach to achieve economic, social and physical transformations. Its emphasis on environmental cleanup, use of culture, internationalisation and design, major improvements to its infrastructure, as well as the restoration of its historic areas over some 25 years have successfully rejuvenated the city. More significantly, the city was able to connect investment in infrastructure with social integration. The river, which was once a physical and social barrier, is now a hub for social and cultural integration and a centre for innovation and creativity.
 
