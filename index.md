@@ -7,9 +7,9 @@ permalink: /
 notification: Due to the ongoing COVID-19 global pandemic, the announcement of 2020 Prize Laureate will be postponed to a later date. | <a href="/resources/news/postponement-advisory/">More info</a>
 sections:
     - hero:
-        title: 
+        title: Lee Kuan Yew World City Prize
         subtitle: Celebrating 10 years of honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
-        background: /images/worldmap-hero4.jpg
+        background: /images/worldmap-hero3.jpg
         button: About the Prize
         url: /about/about-the-prize/
         key_highlights:
