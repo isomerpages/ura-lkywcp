@@ -90,6 +90,6 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 ![Times Square](/images/features/2020/times-square-yoga.jpg/)*Mass yoga session at Times Square © NYC DOT*
 
-- Many cities face similar constraints to NYC, i.e. dense population and built-up infrastructure with minimal available land for new roads or public spaces.
+- Many cities face similar constraints as NYC, i.e. dense population and built-up infrastructure with minimal available land for new roads or public spaces.
 - NYC’s experiences offer replicable ideas, e.g. audits of current conditions, community outreach, and using temporary and inexpensive pilots to test new ideas. 
 - Implementation of public plazas and a comprehensive bicycle network influenced cities from Baltimore to Berlin, São Paulo and Sydney. **<font color="#967942">O</font>**
