@@ -19,6 +19,8 @@ While recent studies have found that cities as a whole are [still not doing enou
 
 While the forward-looking cities’ initiatives to reduce their environmental footprint target the gamut of their infrastructure and operations, many are zeroing in on their buildings and transport networks, as these two sectors are the largest contributors to urban emissions. A [landmark 2019 report by more than 50 organisations](https://urbantransitions.global/en/publication/climate-emergency-urban-opportunity/), including the United Nations, World Resources Institute and World Economic Forum, calculated that cities could use existing technologies and practices to slash their emissions by 90 percent by 2050, with the largest reductions to be found in the building and transportation sectors. 
 
+> “All cities have a stake in the fight against climate change. Global climate action begins at the local level, and by working together, we can have a much bigger impact.”
+
 #### **A bulls-eye on buildings**
 
 Vancouver in Canada and Cambridge in the United States are among the pioneering cities that have introduced ambitious environmental goals for their buildings. In Vancouver, the government launched a ‘Zero Emissions Building Plan’ in 2016 that specified progressive emissions limits and other requirements for construction, [with an eye to achieving net zero emissions for new buildings by 2030](https://vancouver.ca/green-vancouver/zero-emissions-buildings.aspx).
@@ -33,8 +35,6 @@ The city of Cambridge has set out similar zero emissions timelines for new build
 
 In 2019, the city announced another energy efficiency initiative, called the [‘Cambridge Building Energy Retrofit Programme’](https://www.cambridgema.gov/Services/buildingretrofitprogram), that is targeted at larger buildings with a gross floor area of more than 25,000 square feet (2,322 square metres) or over 50 units. Under the programme, owners, managers and tenants of such buildings can get help in collecting and analysing data about their energy use, finding technologies to reduce it, and financing the investments. The city is also considering other measures, such as an independently managed fund that would be financed by carbon offset purchases and used to support emissions-reduction projects.
 
-> "Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes."
-
 #### **The road to greener transport**
 
 Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes. Since some residents will still need or want to use private vehicles, however, cities are also promoting electric vehicles as an eco-friendly option. 
@@ -47,7 +47,7 @@ The cities of London in Britain and Barcelona in Spain, for their part, have rel
 
 Barcelona’s low-emissions zone, on the other hand, [encompasses the entire city as well as some of its satellite towns](https://www.theguardian.com/world/2019/dec/31/barcelona-to-open-southern-europes-biggest-low-emissions-zone). Very pollutive vehicles, namely petrol and diesel ones purchased before 2000 and 2006 respectively, are banned from the zone and fined 100 euros to 500 euros (approximately USD $109 to USD $546) for each entry. The zone, which took effect in January 2020, is expected to reduce the city’s air pollution by 20 percent within four years.
 
-> “All cities have a stake in the fight against climate change. Global climate action begins at the local level, and by working together, we can have a much bigger impact.”
+> "Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes."
 
 #### **Clean energy for the climate fight**
 
