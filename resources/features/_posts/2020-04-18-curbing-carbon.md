@@ -65,7 +65,7 @@ In 2010, it built on its commitment by requiring all city-owned buildings, inclu
 
 **More info:** 
 
-- [https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf](https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf
+- [https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf](https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf)
 
 #### **06: Clean up transport**
 
