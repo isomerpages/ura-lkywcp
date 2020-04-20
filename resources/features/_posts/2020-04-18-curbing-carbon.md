@@ -11,7 +11,7 @@ description: With the United Nations warning that the world has just one decade 
 
 ***With the United Nations warning that the world has just one decade left to [avert catastrophic climate change](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), more cities are taking aim at their greenhouse gas emissions. From energy efficiency grades and limits for buildings to cooling systems that harness seawater and innovative loans for sustainability projects, these are 10 ways that cities have curtailed their emissions.***
 
-![Sustainable city](/images/features/2020/curbing-carbon.jpg/)*Photo: batsheba © 123rf.com*
+![Sustainable city](/images/features/2020/curbing-carbon.jpg/)*Illustration: batsheba © 123rf.com*
 
 #### **01: Empower residents**
 
