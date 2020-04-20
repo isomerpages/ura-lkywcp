@@ -43,7 +43,7 @@ The law, which took effect in January 2020, applies to more than 40,000 of the c
 
 **More info:** 
 
-- [https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.htmlhttps://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html](https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.htmlhttps://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html)
+- [https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html](https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html)
 
 #### **04: Finance environmental upgrades**
 
