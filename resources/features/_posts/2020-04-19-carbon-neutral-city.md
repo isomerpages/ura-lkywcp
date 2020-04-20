@@ -11,7 +11,7 @@ description: To curtail climate change and its negative impact, more than 100 ci
 
 ***To curtail climate change and its negative impact, more than 100 cities, including Boston, Oslo and Vancouver, have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The cities’ three major targets: emissions from their buildings, transport systems and energy sources. Here’s a look at how these and other cities are shrinking their environmental footprint through tried-and-tested as well as novel initiatives.***
 
-![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Illustration: Lukyanov Vladislav © 123rf.com*
+![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Photo: wklzzz © 123rf.com*
 
 The fight against climate change hinges on cities’ actions. Today, cities house more than half of the world’s population, and are [responsible for about three quarters of all greenhouse gas emissions](https://www.unenvironment.org/explore-topics/resource-efficiency/what-we-do/cities/cities-and-climate-change). By taking steps to reduce their emissions, they can limit climate change and its negative consequences for them, such as rising sea levels and more intense downpours that increase their risk of floods.
  
@@ -33,6 +33,8 @@ The city of Cambridge has set out similar zero emissions timelines for new build
 
 In 2019, the city announced another energy efficiency initiative, called the [‘Cambridge Building Energy Retrofit Programme’](https://www.cambridgema.gov/Services/buildingretrofitprogram), that is targeted at larger buildings with a gross floor area of more than 25,000 square feet (2,322 square metres) or over 50 units. Under the programme, owners, managers and tenants of such buildings can get help in collecting and analysing data about their energy use, finding technologies to reduce it, and financing the investments. The city is also considering other measures, such as an independently managed fund that would be financed by carbon offset purchases and used to support emissions-reduction projects.
 
+> "Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes."
+
 #### **The road to greener transport**
 
 Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes. Since some residents will still need or want to use private vehicles, however, cities are also promoting electric vehicles as an eco-friendly option. 
@@ -44,6 +46,8 @@ Additionally, [electric vehicle buyers do not have to pay national taxes or fees
 The cities of London in Britain and Barcelona in Spain, for their part, have relied on punitive fees to discourage the use of pollutive vehicles. Since April 2019, drivers entering an ultra-low emissions zone in central London [must pay a daily fee if their vehicles exceed strict emissions ceilings](https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/mayors-ultra-low-emission-zone-london). By September 2019, the proportion of compliant vehicles traveling in the zone had [increased from 61 percent to 77 percent](https://www.london.gov.uk/press-releases/mayoral/ulez-reduces-polluting-cars-by-13500-every-day), with a corresponding decrease in emissions. To continue this improvement, the city will expand the zone in October 2021 to cover an area that is about 18 times larger than the existing one. 
 
 Barcelona’s low-emissions zone, on the other hand, [encompasses the entire city as well as some of its satellite towns](https://www.theguardian.com/world/2019/dec/31/barcelona-to-open-southern-europes-biggest-low-emissions-zone). Very pollutive vehicles, namely petrol and diesel ones purchased before 2000 and 2006 respectively, are banned from the zone and fined 100 euros to 500 euros (approximately USD $109 to USD $546) for each entry. The zone, which took effect in January 2020, is expected to reduce the city’s air pollution by 20 percent within four years.
+
+> “All cities have a stake in the fight against climate change. Global climate action begins at the local level, and by working together, we can have a much bigger impact.”
 
 #### **Clean energy for the climate fight**
 
