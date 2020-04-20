@@ -15,7 +15,7 @@ description: With the United Nations warning that the world has just one decade 
 
 #### **01: Empower residents**
 
-In Helsinki, Finland, the government is helping residents choose more sustainable ways of living by listing eco-friendly restaurants, bars, hotels, shops, venues, attractions and other businesses and events on its ‘Think Sustainably’ website. To qualify, the organisations have to meet a minimum number of criteria. 
+In **Helsinki, Finland**, the government is helping residents choose more sustainable ways of living by listing eco-friendly restaurants, bars, hotels, shops, venues, attractions and other businesses and events on its ‘Think Sustainably’ website. To qualify, the organisations have to meet a minimum number of criteria. 
 
 In the ‘restaurants, cafes and bars’ category, the establishment has to satisfy at least 10 of 17 criteria, which include using mostly LED lights, not using disposable tableware, donating or discounting leftover food, and recycling more than stipulated by regional waste management guidelines. 
 
