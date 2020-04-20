@@ -1,5 +1,5 @@
 ---
-title: Curbing carbon - 10 ways cities can cut their emissions
+title: Curbing carbon — 10 ways cities can cut their emissions
 permalink: /resources/features/curbing-carbon/
 image: /images/features/2020/curbing-carbon.jpg
 description: With the United Nations warning that the world has just one decade left to avert catastrophic climate change, more cities are taking aim at their greenhouse gas emissions. From energy efficiency grades and limits for buildings to cooling systems that harness seawater and innovative loans for sustainability projects, these are 10 ways that cities have curtailed their emissions.
@@ -21,7 +21,9 @@ In the ‘restaurants, cafes and bars’ category, the establishment has to sati
 
 The government said: “Individual choices matter. In order to stop further climate warming, every Finn should reduce their carbon footprint from 10.3 tonnes to 2.5 tonnes by 2030. The ‘Think Sustainably’ service grants everyone the opportunity to be part of a larger change.”  
 
-https://www.myhelsinki.fi/en/think-sustainably/think-sustainably-criteria
+**More info:** 
+
+- [https://www.myhelsinki.fi/en/think-sustainably/think-sustainably-criteria](https://www.myhelsinki.fi/en/think-sustainably/think-sustainably-criteria)
 
 #### **02: Encourage greener homes**
 
@@ -29,7 +31,9 @@ Environmental-friendliness begins at home too. In Petaling Jaya, Malaysia, house
 
 They can earn points by covering more than 50 percent of their homes’ open spaces in greenery, installing solar panels, solar heaters, rainwater water harvesting systems and water-efficient fixtures, practicing composting and recycling, and using bicycles, hybrid vehicles and public transportation for their commute. 
 
-https://www.thestar.com.my/metro/metro-news/2019/05/29/mbpj-offers-waivers-for-green-households
+**More info:** 
+
+- [https://www.thestar.com.my/metro/metro-news/2019/05/29/mbpj-offers-waivers-for-green-households](https://www.thestar.com.my/metro/metro-news/2019/05/29/mbpj-offers-waivers-for-green-households)
 
 #### **03: Give buildings grades**
 
@@ -37,7 +41,9 @@ With buildings responsible for the bulk of urban emissions, cities are experimen
 
 The law, which took effect in January 2020, applies to more than 40,000 of the city’s one million buildings, and is aimed at nudging the owners of underperforming buildings to make improvements. Furthermore, by 2024, large and mid-size buildings, with some exceptions, will also have to meet emissions limits, failing which their owners will have to pay steep fines. 
 
-https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.htmlhttps://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html
+**More info:** 
+
+- [https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.htmlhttps://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html](https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.htmlhttps://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html)
 
 #### **04: Finance environmental upgrades**
 
@@ -47,7 +53,9 @@ The fund disburses up to AUD $500,000 (approximately USD $321,000) for individua
 
 So far, the fund has loaned over AUD $30 million (approximately USD $19 million) to projects that have forestalled over 300,000 tonnes of emissions. In 2017, an investment group tapped the fund to modernise an old building in Melbourne’s banking district, reducing its electricity and gas bills by 32 percent and 16 percent respectively. 
 
-https://sustainableaustraliafund.com.au/
+**More info:** 
+
+- [https://sustainableaustraliafund.com.au/](https://sustainableaustraliafund.com.au/)
 
 #### **05: Set energy efficiency standards**
 
@@ -55,7 +63,9 @@ Frankfurt, Germany, is another city that has made eco-friendly buildings a prior
 
 In 2010, it built on its commitment by requiring all city-owned buildings, including affordable housing apartment blocks, to meet the same standards. Today, the city has more than 300,000 square metres of gross floor area that conform to the standards, and over 50 building projects in the pipeline that will do so as well.
 
-https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf
+**More info:** 
+
+- [https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf](https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf
 
 #### **06: Clean up transport**
 
@@ -63,7 +73,9 @@ In transport, Bristol is leading the way in Britain. In 2019, the city’s counc
 
 Commercial diesel vehicles will also have to pay a fee to enter a larger ‘Clean Air Zone’ if they do not meet strict emissions standards. Bristol Mayor Marvin Rees said: “We have a moral, ecological and legal duty to clean up the air we breathe.”
 
-https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117
+**More info:** 
+
+- [https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117](https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117)
 
 #### **07: Switch to electric vehicles**
 
@@ -73,7 +85,9 @@ Almost all of its 21,689 commercial taxis also now run on electricity, with the 
 
 After the electrification of the taxis is complete, the city will roll out 500 electric garbage trucks, and subsequently implement electric road sweepers, utility vans, forklifts, cement-mixing trucks and other vehicles. It has also mandated that ride-hailing services must use electric vehicles, and food delivery and mail and parcel delivery services are following suit. 
 
-https://www.cbc.ca/news/canada/manitoba/opinion-cicek-shenzhen-china-electric-vehicles-1.5156436
+**More info:** 
+
+- [https://www.cbc.ca/news/canada/manitoba/opinion-cicek-shenzhen-china-electric-vehicles-1.5156436](https://www.cbc.ca/news/canada/manitoba/opinion-cicek-shenzhen-china-electric-vehicles-1.5156436)
 
 #### **08: Light the way**
 
@@ -83,9 +97,11 @@ Previously, the city also retrofitted traffic lights at 2,900 intersections with
 
 Other cities are deploying smart systems as well to dim their street lights at night when there is no one around, to reap further savings3. 
 
-https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/april/SmartLightingProgram.html
-https://www.c40.org/case_studies/led-traffic-lights-reduce-energy-use-in-chicago-by-85
-https://www.smartcitylab.com/blog/urban-environment/lighting-the-road-to-smart-cities-and-sustainability/
+**More info:**
+
+- [https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/april/SmartLightingProgram.html](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/april/SmartLightingProgram.html)
+- [https://www.c40.org/case_studies/led-traffic-lights-reduce-energy-use-in-chicago-by-85](https://www.c40.org/case_studies/led-traffic-lights-reduce-energy-use-in-chicago-by-85)
+- [https://www.smartcitylab.com/blog/urban-environment/lighting-the-road-to-smart-cities-and-sustainability/](https://www.smartcitylab.com/blog/urban-environment/lighting-the-road-to-smart-cities-and-sustainability/)
 
 #### **09: Improve cooling systems**
 
@@ -95,8 +111,10 @@ The utility uses seawater from the city’s harbour to chill the water at the ce
 
 In both cases, tapping the seawater results in significant energy and thus emissions savings. By implementing the seawater-enhanced district cooling system, Copenhagen has averted up to 30,000 tonnes of emissions each year2. 
 
-https://stateofgreen.com/en/partners/state-of-green/news/cooling-the-city-with-seawater-from-the-harbour/
-https://stateofgreen.com/en/sectors/district-energy/district-cooling-helps-solve-energy-issues/
+**More info:**
+
+- [https://stateofgreen.com/en/partners/state-of-green/news/cooling-the-city-with-seawater-from-the-harbour/](https://stateofgreen.com/en/partners/state-of-green/news/cooling-the-city-with-seawater-from-the-harbour/)
+- [https://stateofgreen.com/en/sectors/district-energy/district-cooling-helps-solve-energy-issues/](https://stateofgreen.com/en/sectors/district-energy/district-cooling-helps-solve-energy-issues/)
 
 #### **10: Optimise port operations** 
 
@@ -106,6 +124,8 @@ Cities with port operations can look to Rotterdam in the Netherlands for tips on
 
 According to an analysis by the Port of Rotterdam Authority and a research group, supplying more accurate data to ships could help them to prevent four percent, or 134,000 tonnes, of emissions every year3. Even more reductions could be achieved if the ships were better informed at least 12 hours before their scheduled arrival. 
 
-https://news.trust.org/item/20181023035909-rwaox/?source=package&id=aa24e134-65bf-4d02-903c-b6202a8981df
-https://www.portofrotterdam.com/en/port-forward/portxchange
-https://www.portofrotterdam.com/en/news-and-press-releases/just-in-time-sailing-saves-hundreds-of-thousands-of-tonnes-of-co2 **<font color="#967942">O</font>**
+**More info:**
+
+- [https://news.trust.org/item/20181023035909-rwaox/?source=package&id=aa24e134-65bf-4d02-903c-b6202a8981df](https://news.trust.org/item/20181023035909-rwaox/?source=package&id=aa24e134-65bf-4d02-903c-b6202a8981df)
+- [https://www.portofrotterdam.com/en/port-forward/portxchange](https://www.portofrotterdam.com/en/port-forward/portxchange)
+- [https://www.portofrotterdam.com/en/news-and-press-releases/just-in-time-sailing-saves-hundreds-of-thousands-of-tonnes-of-co2](https://www.portofrotterdam.com/en/news-and-press-releases/just-in-time-sailing-saves-hundreds-of-thousands-of-tonnes-of-co2)
