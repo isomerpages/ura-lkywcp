@@ -13,48 +13,99 @@ description: With the United Nations warning that the world has just one decade 
 
 ![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Photo: wklzzz © 123rf.com*
 
-The fight against climate change hinges on cities’ actions. Today, cities house more than half of the world’s population, and are [responsible for about three quarters of all greenhouse gas emissions](https://www.unenvironment.org/explore-topics/resource-efficiency/what-we-do/cities/cities-and-climate-change). By taking steps to reduce their emissions, they can limit climate change and its negative consequences for them, such as rising sea levels and more intense downpours that increase their risk of floods.
- 
-While recent studies have found that cities as a whole are [still not doing enough to curb climate change](https://qz.com/1760352/cities-are-set-to-miss-80-percent-of-their-2020-emission-reduction-goals/), some cities are leading the way. In late 2019, the governments of nearly 100 cities pledged to support a global ‘Green New Deal’ to [peak emissions by 2020 and halve them by 2030](https://www.c40.org/press_releases/global-gnd). Furthermore, [over 100 cities have outlined plans to become carbon neutral by 2050 or earlier](http://sdg.iisd.org/news/77-countries-100-cities-commit-to-net-zero-carbon-emissions-by-2050-at-climate-summit/), which means that they will produce no more emissions than they can offset through measures such as planting trees, which absorb carbon dioxide. 
+#### **01: Empower residents**
 
-While the forward-looking cities’ initiatives to reduce their environmental footprint target the gamut of their infrastructure and operations, many are zeroing in on their buildings and transport networks, as these two sectors are the largest contributors to urban emissions. A [landmark 2019 report by more than 50 organisations](https://urbantransitions.global/en/publication/climate-emergency-urban-opportunity/), including the United Nations, World Resources Institute and World Economic Forum, calculated that cities could use existing technologies and practices to slash their emissions by 90 percent by 2050, with the largest reductions to be found in the building and transportation sectors. 
+In Helsinki, Finland, the government is helping residents choose more sustainable ways of living by listing eco-friendly restaurants, bars, hotels, shops, venues, attractions and other businesses and events on its ‘Think Sustainably’ website. To qualify, the organisations have to meet a minimum number of criteria. 
 
-#### **A bulls-eye on buildings**
+In the ‘restaurants, cafes and bars’ category, the establishment has to satisfy at least 10 of 17 criteria, which include using mostly LED lights, not using disposable tableware, donating or discounting leftover food, and recycling more than stipulated by regional waste management guidelines. 
 
-Vancouver in Canada and Cambridge in the United States are among the pioneering cities that have introduced ambitious environmental goals for their buildings. In Vancouver, the government launched a ‘Zero Emissions Building Plan’ in 2016 that specified progressive emissions limits and other requirements for construction, [with an eye to achieving net zero emissions for new buildings by 2030](https://vancouver.ca/green-vancouver/zero-emissions-buildings.aspx).
+The government said: “Individual choices matter. In order to stop further climate warming, every Finn should reduce their carbon footprint from 10.3 tonnes to 2.5 tonnes by 2030. The ‘Think Sustainably’ service grants everyone the opportunity to be part of a larger change.”  
 
-When submitting applications for new buildings and major renovations, property developers now have to report the projects’ expected embodied emissions. These emissions can make up a substantial portion of a building’s total emissions, and are incurred in producing, transporting and assembling its construction materials, replacing them over the course of the building’s use, and delivering them to a landfill or recycling depot when the building is demolished. With this reporting requirement in place since 2017, the city aims to cut projects’ average embodied emissions by 40 percent between 2018 and 2030, including the use of more environmentally-friendly materials. 
+https://www.myhelsinki.fi/en/think-sustainably/think-sustainably-criteria
 
-All new buildings also have to meet emissions limits that will be lowered in phases until 2030, when all new developments are required to have net zero emissions. Mr Sean Pander, the city’s Green Building Manager, [explained](https://www.fastcompany.com/90421205/how-vancouver-is-pushing-for-all-its-new-buildings-to-be-zero-emissions): “Our roadmap makes it easier for builders and manufacturers to plan and innovate. They’re aware of what’s coming, and assured that the demand for technology will continue to grow.”
+#### **02: Encourage greener homes**
 
-To lead by example, the government has mandated that all new city-owned buildings must attain ‘Passive House standards’, which are extremely stringent energy efficiency standards, or their equivalent, and use zero-emissions fuel sources where possible. It also established a ‘Zero Emissions Building Centre of Excellence’ to host training sessions and produce case studies for developers. 
+Environmental-friendliness begins at home too. In Petaling Jaya, Malaysia, households can receive tax rebates of up to MYR 500 (approximately USD $115) for making their homes more sustainable. Applicants are assessed on their energy and water usage, waste management, their homes’ biodiversity and their means of transport. 
 
-The city of Cambridge has set out similar zero emissions timelines for new buildings, and also encourages the retrofitting of existing developments [to make them more sustainable](https://www.cambridgema.gov/CDD/Projects/Climate/NetZeroTaskForce). In 2017, it started a voluntary [‘Multi-family Energy Pilot Programme’](https://www.cambridgema.gov/news/detail.aspx?path=/sitecore/content/home/cdd/news/2018/10/multifamilyenergypilot2) to provide free energy efficiency and retrofitting assessments for residential buildings with at least five units. Once the buildings’ owners and tenants have a better understanding of the retrofit opportunities, an advisor assists them in identifying vendors, comparing bids, reviewing their financials, and applying for loans if necessary.
+They can earn points by covering more than 50 percent of their homes’ open spaces in greenery, installing solar panels, solar heaters, rainwater water harvesting systems and water-efficient fixtures, practicing composting and recycling, and using bicycles, hybrid vehicles and public transportation for their commute. 
 
-In 2019, the city announced another energy efficiency initiative, called the [‘Cambridge Building Energy Retrofit Programme’](https://www.cambridgema.gov/Services/buildingretrofitprogram), that is targeted at larger buildings with a gross floor area of more than 25,000 square feet (2,322 square metres) or over 50 units. Under the programme, owners, managers and tenants of such buildings can get help in collecting and analysing data about their energy use, finding technologies to reduce it, and financing the investments. The city is also considering other measures, such as an independently managed fund that would be financed by carbon offset purchases and used to support emissions-reduction projects.
+https://www.thestar.com.my/metro/metro-news/2019/05/29/mbpj-offers-waivers-for-green-households
 
-> "Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes."
+#### **03: Give buildings grades**
 
-#### **The road to greener transport**
+With buildings responsible for the bulk of urban emissions, cities are experimenting with many methods to make them more eco-friendly. In New York City in the United States, owners of large and mid-size buildings must submit their properties’ annual energy use data to the government and prominently display the letter grades – from A to D – that they receive.
 
-Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes. Since some residents will still need or want to use private vehicles, however, cities are also promoting electric vehicles as an eco-friendly option. 
+The law, which took effect in January 2020, applies to more than 40,000 of the city’s one million buildings, and is aimed at nudging the owners of underperforming buildings to make improvements. Furthermore, by 2024, large and mid-size buildings, with some exceptions, will also have to meet emissions limits, failing which their owners will have to pay steep fines. 
 
-In Oslo, Norway, where transportation accounts for about 60 percent of the city’s emissions, the government has [focused on building infrastructure and offering incentives](http://carbonneutralcities.org/wp-content/uploads/2018/09/CNCA-Game-Changers-Report-2018.pdf) to coax residents to switch to electric vehicles if they must use private transport. The city’s building code requires half of new buildings’ shared parking spaces to have electric vehicle chargers, and the other half to be ready for such installations. The city is also constructing parking garages for electric vehicles only, and developing a charging centre for taxis, freight and service vehicles.
- 
-Additionally, [electric vehicle buyers do not have to pay national taxes or fees on their purchase](https://www.theguardian.com/environment/2020/apr/19/norway-and-the-a-ha-moment-that-made-electric-cars-the-answer), unlike those who opt for fossil fuel vehicles. Due to this policy, many electric vehicles cost about the same as their fossil fuel counterparts. Electric vehicle drivers also pay lower parking fees and road tolls, and can drive in the bus lane if they have others in their vehicles. In 2018, [nearly 60 percent of all cars sold in Oslo were electric or hybrid ones](https://www.citylab.com/environment/2018/12/norway-electric-vehicle-models-incentives-car-free-oslo/578932/), reflecting the success of its initiatives. 
+https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.htmlhttps://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html
 
-The cities of London in Britain and Barcelona in Spain, for their part, have relied on punitive fees to discourage the use of pollutive vehicles. Since April 2019, drivers entering an ultra-low emissions zone in central London [must pay a daily fee if their vehicles exceed strict emissions ceilings](https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/mayors-ultra-low-emission-zone-london). By September 2019, the proportion of compliant vehicles traveling in the zone had [increased from 61 percent to 77 percent](https://www.london.gov.uk/press-releases/mayoral/ulez-reduces-polluting-cars-by-13500-every-day), with a corresponding decrease in emissions. To continue this improvement, the city will expand the zone in October 2021 to cover an area that is about 18 times larger than the existing one. 
+#### **04: Finance environmental upgrades**
 
-Barcelona’s low-emissions zone, on the other hand, [encompasses the entire city as well as some of its satellite towns](https://www.theguardian.com/world/2019/dec/31/barcelona-to-open-southern-europes-biggest-low-emissions-zone). Very pollutive vehicles, namely petrol and diesel ones purchased before 2000 and 2006 respectively, are banned from the zone and fined 100 euros to 500 euros (approximately USD $109 to USD $546) for each entry. The zone, which took effect in January 2020, is expected to reduce the city’s air pollution by 20 percent within four years.
+Building upgrades to improve their sustainability can be costly. In 2002, Melbourne, Australia, set up a ‘Sustainable Melbourne Fund’ to provide loans for such projects. Since then, the initiative has been expanded nationwide and renamed the ‘Sustainable Australia Fund’. 
 
-> “All cities have a stake in the fight against climate change. Global climate action begins at the local level, and by working together, we can have a much bigger impact.”
+The fund disburses up to AUD $500,000 (approximately USD $321,000) for individual projects. Unlike other loans, no capital or security is required, and the repayments can be split between the building’s landlord and tenants. These and other unique terms of the loans are designed to overcome the barriers to environmental upgrades, including business cashflow.
 
-#### **Clean energy for the climate fight**
+So far, the fund has loaned over AUD $30 million (approximately USD $19 million) to projects that have forestalled over 300,000 tonnes of emissions. In 2017, an investment group tapped the fund to modernise an old building in Melbourne’s banking district, reducing its electricity and gas bills by 32 percent and 16 percent respectively. 
 
-As cities progress in transforming their buildings and transport systems, many are also investing in renewable energy as a low or zero emissions replacement for fossil fuels. In Seoul, South Korea, more than 160,000 homes already have solar panels to generate electricity. To further reduce the city’s emissions by more than half a million tonnes per year, the government [plans to fit additional panels on every public building with suitable space by 2022](https://www.weforum.org/agenda/2019/11/solar-power-seoul-south-korea/), as well as help a quarter of its four million households to install them.
+https://sustainableaustraliafund.com.au/
 
-Other cities are turning to more innovative spaces for their renewable energy systems. The city-state of Singapore will [build one of the world’s largest floating solar panel arrays on the surface of its Tengah Reservoir](https://www.straitstimes.com/singapore/environment/sembcorp-to-build-singapores-largest-floating-solar-farm-covering-45-football). The solar farm will be completed in 2021, stretch across an area about the size of 45 football fields, generate enough electricity to power about 16,000 four-room flats, and reduce the city’s emissions by about 32 kilotonnes annually, equivalent to removing 7,000 cars from its roads. 
+#### **05: Set energy efficiency standards**
 
-Several cities have also developed novel ways to finance renewable energy installations, which may have considerable upfront costs. In the United States, 20 cities, including Boston, Chicago, Evanston, Los Angeles, Orlando, Phoenix and Portland, have partnered to offer renewable energy project developers the opportunity to [fulfil their collective municipal energy demand](https://www.boston.gov/news/mayor-walsh-calls-renewable-energy-developers-multi-city-large-scale-projects). By aggregating their demand, the cities hope to purchase renewable energy at a larger scale to reduce costs. 
+Frankfurt, Germany, is another city that has made eco-friendly buildings a priority. In 2007, it announced that all new municipal buildings must meet ‘Passive House standards’, which are a set of strict energy efficiency standards. These include using at most 15 kilowatt-hours of electricity per square metre of living space for heating. 
 
-Evanston Mayor Steve Hagerty said: “All cities have a stake in the fight against climate change. Global climate action begins at the local level, and by working together, we can have a much bigger impact.” **<font color="#967942">O</font>**
+In 2010, it built on its commitment by requiring all city-owned buildings, including affordable housing apartment blocks, to meet the same standards. Today, the city has more than 300,000 square metres of gross floor area that conform to the standards, and over 50 building projects in the pipeline that will do so as well.
+
+https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf
+
+#### **06: Clean up transport**
+
+In transport, Bristol is leading the way in Britain. In 2019, the city’s council approved a first-in-the-nation plan to minimise pollution from vehicles. If given the green light by the central government, all private diesel vehicles except buses, taxis and emergency service vehicles will be banned from entering part of the city centre between 7 am and 3 pm from March 2021.
+
+Commercial diesel vehicles will also have to pay a fee to enter a larger ‘Clean Air Zone’ if they do not meet strict emissions standards. Bristol Mayor Marvin Rees said: “We have a moral, ecological and legal duty to clean up the air we breathe.”
+
+https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117
+
+#### **07: Switch to electric vehicles**
+
+On the other side of the world, Shenzhen in China is stripping emissions from its transport system by electrifying a wide variety of vehicles. By 2017, it had replaced its entire fleet of 16,359 public buses with electric ones, and built 510 charging stations and 8,000 charging poles across the city to support them. 
+
+Almost all of its 21,689 commercial taxis also now run on electricity, with the remaining one percent that still use petrol slated to be substituted soon. These two initiatives alone have reduced the city’s emissions by 2.2 million tonnes per year, equivalent to removing about 500,000 cars from its roads.
+
+After the electrification of the taxis is complete, the city will roll out 500 electric garbage trucks, and subsequently implement electric road sweepers, utility vans, forklifts, cement-mixing trucks and other vehicles. It has also mandated that ride-hailing services must use electric vehicles, and food delivery and mail and parcel delivery services are following suit. 
+
+https://www.cbc.ca/news/canada/manitoba/opinion-cicek-shenzhen-china-electric-vehicles-1.5156436
+
+#### **08: Light the way**
+
+Other cities are relooking other parts of their municipal infrastructure and operations to find ways to reduce emissions. In Chicago in the United States, the government is replacing 270,000, or 85 percent, of the city’s streetlights with high-quality LED fixtures that will use up to 75 percent less electricity and shrink its environmental footprint1. 
+
+Previously, the city also retrofitted traffic lights at 2,900 intersections with LED ones, decreasing their energy use by 85 percent and its emissions by over 23,000 tonnes annually2. 
+
+Other cities are deploying smart systems as well to dim their street lights at night when there is no one around, to reap further savings3. 
+
+https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/april/SmartLightingProgram.html
+https://www.c40.org/case_studies/led-traffic-lights-reduce-energy-use-in-chicago-by-85
+https://www.smartcitylab.com/blog/urban-environment/lighting-the-road-to-smart-cities-and-sustainability/
+
+#### **09: Improve cooling systems**
+
+Compared to traditional air-conditioners, district cooling systems use much less energy. Such systems work by cooling water at centralised plants, and then sending the chilled water through a network of pipes to cool buildings. In Copenhagen, Denmark, water utility HOFOR has found a way to further improve their energy efficiency. 
+
+The utility uses seawater from the city’s harbour to chill the water at the centralised plants1. During the winter, the seawater is cold enough to be used directly for this chilling process. In the summer, when the seawater is not cold enough, it is used instead to cool the machines that chill the water. 
+
+In both cases, tapping the seawater results in significant energy and thus emissions savings. By implementing the seawater-enhanced district cooling system, Copenhagen has averted up to 30,000 tonnes of emissions each year2. 
+
+https://stateofgreen.com/en/partners/state-of-green/news/cooling-the-city-with-seawater-from-the-harbour/
+https://stateofgreen.com/en/sectors/district-energy/district-cooling-helps-solve-energy-issues/
+
+#### **10: Optimise port operations** 
+
+Cities with port operations can look to Rotterdam in the Netherlands for tips on how to cut their emissions. Since 2017, the city has scored ships that use its port on how much nitrogen oxide, sulphur oxide and carbon dioxide they emit, and offered discounts on port costs to the greener ships1. 
+
+ In 2018, it also launched ‘PortXchange’2, a digital platform for shipping companies and service providers to exchange information about their visits to the port. Most vessels arrive too early at the port. If they are updated about when their berths will become available, they can reduce their sailing speed accordingly, save fuel and minimise emissions. 
+
+According to an analysis by the Port of Rotterdam Authority and a research group, supplying more accurate data to ships could help them to prevent four percent, or 134,000 tonnes, of emissions every year3. Even more reductions could be achieved if the ships were better informed at least 12 hours before their scheduled arrival. 
+
+https://news.trust.org/item/20181023035909-rwaox/?source=package&id=aa24e134-65bf-4d02-903c-b6202a8981df
+https://www.portofrotterdam.com/en/port-forward/portxchange
+https://www.portofrotterdam.com/en/news-and-press-releases/just-in-time-sailing-saves-hundreds-of-thousands-of-tonnes-of-co2 **<font color="#967942">O</font>**
