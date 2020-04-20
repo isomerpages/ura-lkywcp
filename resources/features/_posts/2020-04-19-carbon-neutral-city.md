@@ -35,6 +35,8 @@ The city of Cambridge has set out similar zero emissions timelines for new build
 
 In 2019, the city announced another energy efficiency initiative, called the [‘Cambridge Building Energy Retrofit Programme’](https://www.cambridgema.gov/Services/buildingretrofitprogram), that is targeted at larger buildings with a gross floor area of more than 25,000 square feet (2,322 square metres) or over 50 units. Under the programme, owners, managers and tenants of such buildings can get help in collecting and analysing data about their energy use, finding technologies to reduce it, and financing the investments. The city is also considering other measures, such as an independently managed fund that would be financed by carbon offset purchases and used to support emissions-reduction projects.
 
+![Electric car charging station in Oslo](/images/features/2020/electric-car-oslo.jpg/)*Electric car charging station in Oslo. Photo: Iuliia Mazur © 123rf.com*
+
 #### **The road to greener transport**
 
 Transportation is the other major source of emissions for cities. To curb emissions, many cities are boosting the availability and reach of their public transport, and expanding their pedestrian and bicycle path networks, to spur residents to use these more sustainable travel modes. Since some residents will still need or want to use private vehicles, however, cities are also promoting electric vehicles as an eco-friendly option. 
