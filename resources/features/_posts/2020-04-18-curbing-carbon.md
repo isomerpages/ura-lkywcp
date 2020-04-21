@@ -21,17 +21,23 @@ In the ‘restaurants, cafes and bars’ category, the establishment has to sati
 
 The government said: “Individual choices matter. In order to stop further climate warming, every Finn should reduce their carbon footprint from 10.3 tonnes to 2.5 tonnes by 2030. The ‘Think Sustainably’ service grants everyone the opportunity to be part of a larger change.”  
 
+---
+
 #### **02: Encourage greener homes**
 
 Environmental-friendliness begins at home too. In **Petaling Jaya**, Malaysia, households can [receive tax rebates of up to MYR 500 (approximately USD $115) for making their homes more sustainable](https://www.thestar.com.my/metro/metro-news/2019/05/29/mbpj-offers-waivers-for-green-households). Applicants are assessed on their energy and water usage, waste management, their homes’ biodiversity and their means of transport. 
 
 They can earn points by covering more than 50 percent of their homes’ open spaces in greenery, installing solar panels, solar heaters, rainwater water harvesting systems and water-efficient fixtures, practicing composting and recycling, and using bicycles, hybrid vehicles and public transportation for their commute. 
 
+---
+
 #### **03: Give buildings grades**
 
 With buildings responsible for the bulk of urban emissions, cities are experimenting with many methods to make them more eco-friendly. In **New York City** in the United States, owners of large and mid-size buildings must submit their properties’ annual energy use data to the government and prominently display the letter grades – from A to D – that they receive.
 
 [The law, which took effect in January 2020](https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html), applies to more than 40,000 of the city’s one million buildings, and is aimed at nudging the owners of underperforming buildings to make improvements. Furthermore, by 2024, large and mid-size buildings, with some exceptions, will also have to meet emissions limits, failing which their owners will have to pay steep fines. 
+
+---
 
 #### **04: Finance environmental upgrades**
 
@@ -41,6 +47,8 @@ The fund disburses up to AUD $500,000 (approximately USD $321,000) for individua
 
 So far, the fund has loaned over AUD $30 million (approximately USD $19 million) to projects that have forestalled over 300,000 tonnes of emissions. In 2017, an investment group tapped the fund to modernise an old building in Melbourne’s banking district, reducing its electricity and gas bills by 32 percent and 16 percent respectively. 
 
+---
+
 #### **05: Set energy efficiency standards**
 
 Frankfurt, Germany, is another city that has made eco-friendly buildings a priority. In 2007, it announced that all new municipal buildings must meet [‘Passive House standards’](https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf), which are a set of strict energy efficiency standards. These include using at most 15 kilowatt-hours of electricity per square metre of living space for heating. 
@@ -49,11 +57,15 @@ In 2010, it built on its commitment by requiring all city-owned buildings, inclu
 
 ![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg/)*Transport in Bristol. Photo: bagwold © 123rf.com*
 
+---
+
 #### **06: Clean up transport**
 
 In transport, **Bristol** is leading the way in Britain. In 2019, the city’s council approved a [first-in-the-nation plan to minimise pollution from vehicles](https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117). If given the green light by the central government, all private diesel vehicles except buses, taxis and emergency service vehicles will be banned from entering part of the city centre between 7 am and 3 pm from March 2021.
 
 Commercial diesel vehicles will also have to pay a fee to enter a larger ‘Clean Air Zone’ if they do not meet strict emissions standards. Bristol Mayor Marvin Rees said: “We have a moral, ecological and legal duty to clean up the air we breathe.”
+
+---
 
 #### **07: Switch to electric vehicles**
 
@@ -63,6 +75,8 @@ Almost all of its 21,689 commercial taxis also now run on electricity, with the 
 
 After the electrification of the taxis is complete, the city will roll out 500 electric garbage trucks, and subsequently implement electric road sweepers, utility vans, forklifts, cement-mixing trucks and other vehicles. It has also mandated that ride-hailing services must use electric vehicles, and food delivery and mail and parcel delivery services are following suit. 
 
+---
+
 #### **08: Light the way**
 
 Other cities are relooking other parts of their municipal infrastructure and operations to find ways to reduce emissions. In **Chicago** in the United States, the government is replacing 270,000, or 85 percent, of the city’s streetlights with high-quality LED fixtures that will [use up to 75 percent less electricity and shrink its environmental footprint](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/april/SmartLightingProgram.html). 
@@ -71,6 +85,8 @@ Previously, the city also retrofitted traffic lights at 2,900 intersections with
 
 Other cities are [deploying smart systems](https://www.smartcitylab.com/blog/urban-environment/lighting-the-road-to-smart-cities-and-sustainability/) as well to dim their street lights at night when there is no one around, to reap further savings. 
 
+---
+
 #### **09: Improve cooling systems**
 
 Compared to traditional air-conditioners, district cooling systems use much less energy. Such systems work by cooling water at centralised plants, and then sending the chilled water through a network of pipes to cool buildings. In Copenhagen, Denmark, water utility HOFOR has found a way to further improve their energy efficiency. 
@@ -78,6 +94,8 @@ Compared to traditional air-conditioners, district cooling systems use much less
 The utility [uses seawater from the city’s harbour to [chill the water at the centralised plant](https://stateofgreen.com/en/partners/state-of-green/news/cooling-the-city-with-seawater-from-the-harbour/). During the winter, the seawater is cold enough to be used directly for this chilling process. In the summer, when the seawater is not cold enough, it is used instead to cool the machines that chill the water. 
 
 In both cases, tapping the seawater results in significant energy and thus emissions savings. By implementing the seawater-enhanced district cooling system, Copenhagen has [averted up to 30,000 tonnes of emissions each year](https://stateofgreen.com/en/sectors/district-energy/district-cooling-helps-solve-energy-issues/). 
+
+---
 
 #### **10: Optimise port operations** 
 
