@@ -89,7 +89,7 @@ Other cities are [deploying smart systems](https://www.smartcitylab.com/blog/urb
 
 #### **09: Improve cooling systems**
 
-Compared to traditional air-conditioners, district cooling systems use much less energy. Such systems work by cooling water at centralised plants, and then sending the chilled water through a network of pipes to cool buildings. In Copenhagen, Denmark, water utility HOFOR has found a way to further improve their energy efficiency. 
+Compared to traditional air-conditioners, district cooling systems use much less energy. Such systems work by cooling water at centralised plants, and then sending the chilled water through a network of pipes to cool buildings. In **Copenhagen**, Denmark, water utility HOFOR has found a way to further improve their energy efficiency. 
 
 The utility [uses seawater from the city’s harbour to [chill the water at the centralised plant](https://stateofgreen.com/en/partners/state-of-green/news/cooling-the-city-with-seawater-from-the-harbour/). During the winter, the seawater is cold enough to be used directly for this chilling process. In the summer, when the seawater is not cold enough, it is used instead to cool the machines that chill the water. 
 
@@ -99,7 +99,7 @@ In both cases, tapping the seawater results in significant energy and thus emiss
 
 #### **10: Optimise port operations** 
 
-Cities with port operations can look to Rotterdam in the Netherlands for tips on how to cut their emissions. Since 2017, the city has scored ships that use its port on how much nitrogen oxide, sulphur oxide and carbon dioxide they emit, and [offered discounts on port costs to the greener ships](https://news.trust.org/item/20181023035909-rwaox/?source=package&id=aa24e134-65bf-4d02-903c-b6202a8981df). 
+Cities with port operations can look to **Rotterdam** in the Netherlands for tips on how to cut their emissions. Since 2017, the city has scored ships that use its port on how much nitrogen oxide, sulphur oxide and carbon dioxide they emit, and [offered discounts on port costs to the greener ships](https://news.trust.org/item/20181023035909-rwaox/?source=package&id=aa24e134-65bf-4d02-903c-b6202a8981df). 
 
  In 2018, it also launched [‘PortXchange’](https://www.portofrotterdam.com/en/port-forward/portxchange), a digital platform for shipping companies and service providers to exchange information about their visits to the port. Most vessels arrive too early at the port. If they are updated about when their berths will become available, they can reduce their sailing speed accordingly, save fuel and minimise emissions. 
 
