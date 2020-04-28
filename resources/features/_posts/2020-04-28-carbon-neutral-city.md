@@ -11,7 +11,7 @@ description: To curtail climate change and its negative impact, more than 100 ci
 
 ***To curtail climate change and its negative impact, more than 100 cities, including Boston, Oslo and Vancouver, have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The cities’ three major targets: emissions from their buildings, transport systems and energy sources. Here’s a look at how these and other cities are shrinking their environmental footprint through tried-and-tested as well as novel initiatives.***
 
-![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Photo: wklzzz © 123rf.com*
+![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Illustration: elenabsl © 123rf.com*
 
 The fight against climate change hinges on cities’ actions. Today, cities house more than half of the world’s population, and are [responsible for about three quarters of all greenhouse gas emissions](https://www.unenvironment.org/explore-topics/resource-efficiency/what-we-do/cities/cities-and-climate-change). By taking steps to reduce their emissions, they can limit climate change and its negative consequences for them, such as rising sea levels and more intense downpours that increase their risk of floods.
  
