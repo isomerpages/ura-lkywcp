@@ -13,94 +13,86 @@ description: By setting up urban farms, cities can reduce the emissions involved
 
 ![Sustainable city](/images/features/2020/curbing-carbon.jpg/)*Illustration: batsheba © 123rf.com*
 
-#### **01: Empower residents**
+#### **01: Reaching new heights**
 
-In **Helsinki**, Finland, the government is helping residents choose more sustainable ways of living by listing eco-friendly restaurants, bars, hotels, shops, venues, attractions and other businesses and events on its [‘Think Sustainably’](https://www.myhelsinki.fi/en/think-sustainably/think-sustainably-criteria) website. To qualify, the organisations have to meet a minimum number of criteria. 
+In India, the state of **Bihar** is [subsidising half the cost of building urban rooftop farms](https://www.hindustantimes.com/patna/gaya-set-for-roof-top-farming-70-apply/story-PUDpS1G96j00gbCX4P0sOL.html), beginning with the city of Gaya. “Rooftop farming not only provides an additional income for residents but ensures green cover across urban areas,” said the state’s Department of Horticulture.
 
-In the ‘restaurants, cafes and bars’ category, the establishment has to satisfy at least 10 of 17 criteria, which include using mostly LED lights, not using disposable tableware, donating or discounting leftover food, and recycling more than stipulated by regional waste management guidelines. 
-
-The government said: “Individual choices matter. In order to stop further climate warming, every Finn should reduce their carbon footprint from 10.3 tonnes to 2.5 tonnes by 2030. The ‘Think Sustainably’ service grants everyone the opportunity to be part of a larger change.”  
+It is also providing would-be farmers with training, seeds and plants, and other important equipment such as irrigation systems. “We have identified the species that will be ideal for the farms, including vegetables, medicinal plants, and ornamental varieties that add to the beauty of the farms,” it said.   
 
 ---
 
-#### **02: Encourage greener homes**
+#### **02: Stacking up**
 
-Environmental-friendliness begins at home too. In **Petaling Jaya**, Malaysia, households can [receive tax rebates of up to MYR 500 (approximately USD $115) for making their homes more sustainable](https://www.thestar.com.my/metro/metro-news/2019/05/29/mbpj-offers-waivers-for-green-households). Applicants are assessed on their energy and water usage, waste management, their homes’ biodiversity and their means of transport. 
+For the city of **Dubai** in the United Arab Emirates, vertical farms will be an essential part of its future food security. In such farms, plants are stacked on top on one another with their roots submerged in nutrient-rich water, reducing the use of water by up to 99 percent compared with traditional farming in the field. 
 
-They can earn points by covering more than 50 percent of their homes’ open spaces in greenery, installing solar panels, solar heaters, rainwater water harvesting systems and water-efficient fixtures, practicing composting and recycling, and using bicycles, hybrid vehicles and public transportation for their commute. 
+The government has [allocated 7,600 square metres of land to establish 12 vertical farms in the city](https://www.thenational.ae/uae/environment/dubai-government-agrees-on-deal-to-start-up-12-vertical-farms-in-the-city-1.748247) under a partnership with a local biotechnology firm, which will construct the farms and supporting infrastructure such as a water desalination plant, LED lighting and automatic irrigation systems. 
 
----
-
-#### **03: Give buildings grades**
-
-With buildings responsible for the bulk of urban emissions, cities are experimenting with many methods to make them more eco-friendly. In **New York City** in the United States, owners of large and mid-size buildings must submit their properties’ annual energy use data to the government and prominently display the letter grades – from A to D – that they receive.
-
-[The law, which took effect in January 2020](https://www.nytimes.com/2019/11/21/nyregion/nyc-building-grades-letters.html), applies to more than 40,000 of the city’s one million buildings, and is aimed at nudging the owners of underperforming buildings to make improvements. Furthermore, by 2024, large and mid-size buildings, with some exceptions, will also have to meet emissions limits, failing which their owners will have to pay steep fines. 
+Separately, the catering arm of the state-owned Emirates Airlines is [partnering a different vertical farming firm to construct a vertical farm in the city](https://www.emiratesflightcatering.com/about-us/news-press/emirates-flight-catering-builds-world-s-largest-vertical-farming-facility-in-dubai/) that will be one of the largest in the world. The facility will span more than 130,000 square feet (approximately 12,100 square metres) and generate 2,700 kilograms of leafy greens daily for the airline’s in-flight meals.  
 
 ---
 
-#### **04: Finance environmental upgrades**
+#### **03: Floating possibilities**
 
-Building upgrades to improve their sustainability can be costly. In 2002, **Melbourne**, Australia, set up a ‘Sustainable Melbourne Fund’ to provide loans for such projects. Since then, the initiative has been expanded nationwide and renamed the [‘Sustainable Australia Fund’](https://sustainableaustraliafund.com.au/). 
+Cities with substantial water bodies could benefit from floating farms. **Rotterdam** in the Netherlands is leading the way with [the world’s first floating farm for dairy cows](https://www.smithsonianmag.com/innovation/will-cities-future-have-floating-farms-180972634/) that opened in 2019. The farm is located in the city’s Merwehaven harbour and houses 40 cows which produce about 800 litres of milk every day. The milk is then sold at the farm and retail stores.
 
-The fund disburses up to AUD $500,000 (approximately USD $321,000) for individual projects. Unlike other loans, no capital or security is required, and the repayments can be split between the building’s landlord and tenants. These and other unique terms of the loans are designed to overcome the barriers to environmental upgrades, including business cashflow.
-
-So far, the fund has loaned over AUD $30 million (approximately USD $19 million) to projects that have forestalled over 300,000 tonnes of emissions. In 2017, an investment group tapped the fund to modernise an old building in Melbourne’s banking district, reducing its electricity and gas bills by 32 percent and 16 percent respectively. 
+The cows feed on the city’s food waste and grass clippings, and their manure is used as fertiliser. Their urine is also collected and separated into salts, which are added to the fertiliser, and water, which is diverted to cool machinery. With the farm’s success, the city is considering using floating platforms to grow vegetables and rear chickens. 
 
 ---
 
-#### **05: Set energy efficiency standards**
+#### **04: Harvests at home**
 
-Frankfurt, Germany, is another city that has made eco-friendly buildings a priority. In 2007, it announced that all new municipal buildings must meet [‘Passive House standards’](https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf), which are a set of strict energy efficiency standards. These include using at most 15 kilowatt-hours of electricity per square metre of living space for heating. 
+For many residents in the city of **Medellín**, Colombia, farm to table is a matter of a few steps. Under the government’s [‘Huertas con Vos’ programme](https://www.acimedellin.org/urban-and-rural-kitchen-gardens-are-an-alternative-in-medellin-to-increase-food-security/?lang=en), which translates to ‘Gardens with You’, families can attend workshops to learn how to plant, care for and harvest vegetables in their homes. They also receive tool kits that include a rake, watering can, fertiliser and seeds. 
 
-In 2010, it built on its commitment by requiring all city-owned buildings, including affordable housing apartment blocks, to meet the same standards. Today, the city has more than 300,000 square metres of gross floor area that conform to the standards, and over 50 building projects in the pipeline that will do so as well.
+“The initiative enables families to improve their food security, save up to COP $70,000 (approximately USD $18) per month, and strengthen relationships,” said the city’s Secretary for Social Inclusion Paulina Suárez Roldán. Households that produce more than 50 kilograms of food per year can also get assistance to sell their surplus crops. 
+
+---
+
+#### **05: Growing together**
+
+To encourage more people to grow their own produce, **Melbourne**, Australia has [created community gardens across the city](https://www.melbourne.vic.gov.au/residents/home-neighbourhood/gardens-and-green-spaces/Pages/community-gardens-compost-hubs.aspx), including several that are reserved for lower-income residents living in public housing. “These gardens provide an opportunity to grow food and plants, learn new skills and meet new people,” said the government.
+
+The city also [published an online booklet](https://www.melbourne.vic.gov.au/residents/home-neighbourhood/gardens-and-green-spaces/Pages/sustainable-gardening-in-the-city-.aspx) to guide citizens in cultivating crops in other spaces, such as their homes’ balconies and backyards and apartment blocks’ rooftops and courtyards. The tips include using straw-based mulch for vegetable plants and layering compost or manure on top of soil patches at the end of each growing season to maintain their health.
 
 ![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg/)*Transport in Bristol. Photo: bagwold © 123rf.com*
 
 ---
 
-#### **06: Clean up transport**
+#### **06: Helping hands**
 
-In transport, **Bristol** is leading the way in Britain. In 2019, the city’s council approved a [first-in-the-nation plan to minimise pollution from vehicles](https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117). If given the green light by the central government, all private diesel vehicles except buses, taxis and emergency service vehicles will be banned from entering part of the city centre between 7 am and 3 pm from March 2021.
+In **Seoul**, South Korea, residents can [apply for financial and professional support from the government to set up urban farms](https://www.koreatimes.co.kr/www/nation/2018/10/281_256714.html). Between 2012 and 2018, the total area of such green spaces increased six-fold to about 1.7 million square metres, with the majority found in small patches between apartment blocks and on rooftops.
 
-Commercial diesel vehicles will also have to pay a fee to enter a larger ‘Clean Air Zone’ if they do not meet strict emissions standards. Bristol Mayor Marvin Rees said: “We have a moral, ecological and legal duty to clean up the air we breathe.”
-
----
-
-#### **07: Switch to electric vehicles**
-
-On the other side of the world, **Shenzhen** in China is stripping emissions from its transport system by [electrifying a wide variety of vehicles](https://www.cbc.ca/news/canada/manitoba/opinion-cicek-shenzhen-china-electric-vehicles-1.5156436). By 2017, it had replaced its entire fleet of 16,359 public buses with electric ones, and built 510 charging stations and 8,000 charging poles across the city to support them. 
-
-Almost all of its 21,689 commercial taxis also now run on electricity, with the remaining one percent that still use petrol slated to be substituted soon. These two initiatives alone have reduced the city’s emissions by 2.2 million tonnes per year, equivalent to removing about 500,000 cars from its roads.
-
-After the electrification of the taxis is complete, the city will roll out 500 electric garbage trucks, and subsequently implement electric road sweepers, utility vans, forklifts, cement-mixing trucks and other vehicles. It has also mandated that ride-hailing services must use electric vehicles, and food delivery and mail and parcel delivery services are following suit. 
+The government funds up to 100 percent of the initial installation fees of accepted projects. Each district also receives five million won (approximately USD $4,054) annually to hire experts to give lectures and personalised gardening tips, such as how to raise soil productivity and use safe pesticides, to urban farming communities.
 
 ---
 
-#### **08: Light the way**
+#### **07: One-stop resource centres**
 
-Other cities are relooking other parts of their municipal infrastructure and operations to find ways to reduce emissions. In **Chicago** in the United States, the government is replacing 270,000, or 85 percent, of the city’s streetlights with high-quality LED fixtures that will [use up to 75 percent less electricity and shrink its environmental footprint](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/april/SmartLightingProgram.html). 
+Hobbyist farmers in **San Francisco** in the United States can [visit Urban Agriculture Resource Centres](http://sfrecpark.org/1404/Urban-Agriculture-Resources) to pick up free supplies, take gardening classes and meet likeminded people. Some of the centres also have [demonstration plant beds and help-desks with master gardeners](https://www.sfexaminer.com/news/sf-plans-to-launch-an-urban-agriculture-resource-center-for-community-gardeners/) to give advice and solve problems with plants.
 
-Previously, the city also retrofitted traffic lights at 2,900 intersections with LED ones, [decreasing their energy use by 85 percent and its emissions by over 23,000 tonnes annually](https://www.c40.org/case_studies/led-traffic-lights-reduce-energy-use-in-chicago-by-85). 
-
-Other cities are [deploying smart systems](https://www.smartcitylab.com/blog/urban-environment/lighting-the-road-to-smart-cities-and-sustainability/) as well to dim their street lights at night when there is no one around, to reap further savings. 
+“You can walk up with a leaf from your plant and they will tell you what is wrong with it and how to manage it organically,” said Ms Mei Ling Hui, the city’s programme manager of community gardens and urban agriculture. “You can also ask them questions such as which kinds of tomatoes will grow well in your neighbourhood.” 
 
 ---
 
-#### **09: Improve cooling systems**
+#### **08: A communal effort**
 
-Compared to traditional air-conditioners, district cooling systems use much less energy. Such systems work by cooling water at centralised plants, and then sending the chilled water through a network of pipes to cool buildings. In **Copenhagen**, Denmark, water utility HOFOR has found a way to further improve their energy efficiency. 
+In urban agriculture as in other things, many hands make light work. The city of **London, Ontario**, in Canada has [developed an online ‘Urban Agriculture Inventory’](https://www.london.ca/business/Planning-Development/current-topics/Pages/Urban-Ag-Strategy.aspx) where residents can review and suggest potential sites for farms and vegetable plots, as well as share information about where to get technical advice and resources1.
 
-The utility [uses seawater from the city’s harbour to [chill the water at the centralised plant](https://stateofgreen.com/en/partners/state-of-green/news/cooling-the-city-with-seawater-from-the-harbour/). During the winter, the seawater is cold enough to be used directly for this chilling process. In the summer, when the seawater is not cold enough, it is used instead to cool the machines that chill the water. 
-
-In both cases, tapping the seawater results in significant energy and thus emissions savings. By implementing the seawater-enhanced district cooling system, Copenhagen has [averted up to 30,000 tonnes of emissions each year](https://stateofgreen.com/en/sectors/district-energy/district-cooling-helps-solve-energy-issues/). 
+The city also collaborates with community partners on various projects. For instance, while it is replacing the plants in municipal planter boxes with native fruit, nut and other edible species, its partners are helping to distribute topsoil, mulch, compost, rain-harvesting barrels and other useful items to residents growing food. 
 
 ---
 
-#### **10: Optimise port operations** 
+#### **09: A champion in government**
 
-Cities with port operations can look to **Rotterdam** in the Netherlands for tips on how to cut their emissions. Since 2017, the city has scored ships that use its port on how much nitrogen oxide, sulphur oxide and carbon dioxide they emit, and [offered discounts on port costs to the greener ships](https://news.trust.org/item/20181023035909-rwaox/?source=package&id=aa24e134-65bf-4d02-903c-b6202a8981df). 
+In **Washington, DC** in the United States, the Office of Urban Agriculture [advocates for and advances efforts across different government agencies](https://doee.dc.gov/release/mayor-bowser-announces-kate-lee-director-new-doee-office-urban-agriculture). These include tax rebates for private property owners that lease their land and rooftops to urban farmers, and the rental of public land for cultivation.
 
- In 2018, it also launched [‘PortXchange’](https://www.portofrotterdam.com/en/port-forward/portxchange), a digital platform for shipping companies and service providers to exchange information about their visits to the port. Most vessels arrive too early at the port. If they are updated about when their berths will become available, they can reduce their sailing speed accordingly, save fuel and minimise emissions. 
+The office is also working with schools to develop vegetable gardens, and to ensure that children at public schools receive at least 10 hours of garden-based learning per year, so that they have a better understanding of urban agriculture and the connections between food systems, nutrition, environmental sustainability and health. 
 
-According to an analysis by the Port of Rotterdam Authority and a research group, supplying more accurate data to ships could help them to [prevent four percent, or 134,000 tonnes, of emissions every year](https://www.portofrotterdam.com/en/news-and-press-releases/just-in-time-sailing-saves-hundreds-of-thousands-of-tonnes-of-co2). Even more reductions could be achieved if the ships were better informed at least 12 hours before their scheduled arrival. **<font color="#967942">O</font>**
+By 2032, the city aims to have 20 more acres (approximately 80,940 square metres) of land dedicated to growing food, as well as five acres (approximately 20,230 square metres) of food-producing landscaping on public land.
+
+---
+
+#### **10: Designing for growth** 
+
+As cities mature, redevelopment projects are an opportunity to integrate urban agriculture into neighbourhoods. In China, **Shanghai** is [rebuilding its Sunqiao district to incorporate urban farms among its homes, offices and public spaces](https://www.businessinsider.sg/sunqiao-shanghai-farming-district-2017-4?r=US&IR=T). These will grow leafy greens such as spinach, kale and watercress that comprise more than half of the Shanghainese diet.
+
+The [design for the district](https://www.sasaki.com/projects/sunqiao-urban-agricultural-district/) includes the placement of high-rise towers so that they do not cast shadows on intended farmland. A wetlands park will also have floating pallets of crops and learning stations to educate the public about them. The district’s designers said: “Sunqiao will celebrate food production as one of the most important functions of a city.” **<font color="#967942">O</font>**
