@@ -29,6 +29,8 @@ Seattle in the United States, on the other hand, has encouraged residents to gro
 
 Beyond rooftops and roadside planting strips, other spaces in a city could be ripe for urban agriculture too. In Tokyo, Japan, the authorities have [utilised vacant spaces under elevated train tracks to propagate plants](https://www.straitstimes.com/asia/east-asia/goats-pigs-and-veggies-crop-up-in-urban-tokyo), including kale, endives and basil. The cultivated crops are sold to restaurants in the city. Owners of shopping centres and office towers have set aside units or even entire floors to grow vegetables which are harvested and served in their cafes and cafeterias. Official statistics show that the [produce grown in Tokyo alone can feed at least 700,000 people](http://english.agrinews.co.jp/?p=8976), and the city also organised and hosted an inaugural Urban Agriculture World Summit in 2019 to learn from others.
 
+![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Illustration: elenabsl © 123rf.com*
+
 #### **From vacant lots to vegetable plots**
 
 As cities age, regeneration projects are another way to add more agricultural spaces. Since 2016, the government of Paris, France, has [offered public land to agricultural firms under its ‘Parisculteurs’ project to increase the city’s greenery through redevelopment](https://www.aljazeera.com/news/2019/12/eat-city-urban-farmers-paris-191205152844562.html). The renovated Paris Expo Porte de Versailles Exhibition Centre, which is being opened in stages, will be the project’s biggest accomplishment to date, with a 14,000-square-metre rooftop farm slated to grow over 30 varieties of fruits and vegetables. 
