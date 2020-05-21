@@ -72,7 +72,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/waves.png" alt="water" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Water quality of Pingjiang River and waterways improved<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Water quality improved<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/male-tourist.png" alt="tourist" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>>2 million tourists each year<br></td>
 </tr>
