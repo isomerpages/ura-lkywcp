@@ -17,7 +17,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **In brief**
 
-![Stone Lake District](/images/features/2020/stone-lake-map.jpg/)*Schematic map of Stone Lake District (in red) with its larger surroundings © Suzhou*
+![Pingjiang Historic District](/images/features/2020/pingjiang-map.jpg/)*Map showing location of Pingjiang Historic District © Suzhou*
 
 - Suzhou emphasises the preservation of its ancient city while modernising through new townships in its urban development.
 - The 116.5ha Pingjiang Historic District is one of the city’s preserved areas, and features a chessboard pattern formed by intertwined water and road networks, including 13 ancient bridges over a 3.5km river. 
@@ -37,6 +37,8 @@ description: At risk of losing its heritage and character in its rapid modernisa
 ---
 
 #### **Leadership and governance**
+
+![Governance structure of Pingjiang Historic District](/images/features/2020/pingjiang-chart.jpg/)*Governance structure of Pingjiang Historic District © Suzhou*
 
 - To minimise the destruction to the city’s character and heritage due to modernisation, the city adopted a comprehensive approach to preservation rather than an ad hoc manner. 
 - The project is implemented on a government-led, market-operated approach: funded through bank loan and initiation capital from the government, a company ‘Pingjiang Historic District Company’ was established in 2002 as the main body overseeing the project. 
@@ -87,7 +89,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Replicable ideas**
 
-![Stone Lake District](/images/features/2020/stone-lake.jpg/)*Stone Lake District © kevinxp © 123rf.com*
+![Pingjiang Historic District today](/images/features/2020/balancing-old-new.jpg/)*Pingjiang Historic District today © Suzhou*
 
 - Cities should recognise the importance of cultural conservation at city-wide level, even as the drive for modernisation gains momentum.
 - It is important for cities to plan for and invest in their future. By committing to infrastructure investment, cities can achieve the twin goals of facilitating economic growth and improving quality of life. 
