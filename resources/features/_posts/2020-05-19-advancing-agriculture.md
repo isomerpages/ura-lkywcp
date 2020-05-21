@@ -11,7 +11,7 @@ description: By setting up urban farms, cities can reduce the emissions involved
 
 ***By setting up urban farms, cities can reduce the emissions involved in transporting food, increase their greenery, slow stormwater runoff to avert floods and become more resilient. From subsidising rooftop farms to creating one-stop centres for free supplies, these are 10 ways that cities are supporting urban agriculture.***
 
-![Sustainable city](/images/features/2020/curbing-carbon.jpg/)*Illustration: batsheba © 123rf.com*
+![Urban farming](/images/features/2020/advancing-agriculture.jpg/)*Illustration: Oxana © 123rf.com*
 
 #### **01: Reaching new heights**
 
