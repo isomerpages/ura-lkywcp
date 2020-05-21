@@ -11,7 +11,7 @@ description: Cities can provide significant amounts of vegetables and other crop
 
 ***Cities can provide significant amounts of vegetables and other crops to help feed the world as its population grows, according to a recent study. Many cities are already building rooftop farms, converting greenery into vegetable plots and encouraging residents to become part-time farmers through a variety of means.***
 
-![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Illustration: elenabsl © 123rf.com*
+![Urban agriculture](/images/features/2020/feeding-the-city.jpg/)*Man holding a bucket full of lettuce in front of his urban farm. Photo: ferli © 123rf.com*
 
 By 2050, the world will need to produce up to 70 percent more food to feed about two billion more people, [according to projections by the United Nations and scientists](https://theconversation.com/we-dont-need-to-double-world-food-production-by-2050-heres-why-74211). While improving farming practices and minimising food waste are essential to meeting this challenge, growing more food in cities could also mean the difference between success and failure. 
 
