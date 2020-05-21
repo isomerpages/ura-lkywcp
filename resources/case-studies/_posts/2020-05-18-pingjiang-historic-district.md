@@ -48,9 +48,9 @@ description: This innovative relocation housing policy helped Suzhou restore the
 
 - Under a guiding principle of ‘repair the old, retain the old’, traditional architecture, ancient bridges and other intangible heritage are protected and restored. 
 - The following strategies are adopted for classification of projects: 
-  i. Careful and thorough preservation of buildings and bridges with high historic value and in good conditions
-  ii. Complete preservation of exterior and main structures, and reconfiguration of representative residence interiors 
-  iii. Demolition of buildings incompatible with the overall style of the district
+  - Careful and thorough preservation of buildings and bridges with high historic value and in good conditions
+  - Complete preservation of exterior and main structures, and reconfiguration of representative residence interiors 
+  - Demolition of buildings incompatible with the overall style of the district
 - Existing social networks are maintained during the project, and residents continue to live and work within the district, preserving the traditional culture and customs. 
 - The district is transformed into a platform that celebrates Suzhou’s traditions, such as Pingjiang Sun-dry Book Festival and Lantern Festival, allows future growth and promotes tourism, which in turn creates jobs and income for the residents. 
 
@@ -62,15 +62,15 @@ description: This innovative relocation housing policy helped Suzhou restore the
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/lake.png" alt="lake" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>>200ha of enclosed aquaculture facilities on lake surface dismantled<br></td>
+  <td style="text-align: left; vertical-align: top;"><br>>30,000m<sup>2</sup> traditional architecture restored<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/factory.png" alt="factory" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>>40ha of land freed up with relocation of factories<br></td>
+<td style="text-align: left; vertical-align: top;"><br>70 roads and alleyways repaired<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/plant-trees.png" alt="plant trees" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>>30,000 trees planted in 11,000ha of green space<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Water quality of Pingjiang River and waterways improved<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>600,000 visitors within 4 months of opening<br></td>
+<td style="text-align: left; vertical-align: top;"><br>>2 million tourists each year<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
