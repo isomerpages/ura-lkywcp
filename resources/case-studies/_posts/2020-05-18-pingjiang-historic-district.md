@@ -29,6 +29,8 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Key issues faced before the implementation of the project**
 
+![Pingjiang Historic District before the transformation](/images/features/2020/pingjiang-before.jpg/)*Pingjiang Historic District before the transformation © Suzhou*
+
 - Urgent need for urban (re)development due to rapid economic and demographic growth, which in turn resulted in demolition or irreparable damage to historic streets. 
 - The city was at risk of losing its character, architectural heritage and environment due to its rapid expansion. 
 
@@ -44,7 +46,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Creativity and innovation**
 
-![1 for 3 housing](/images/features/2020/1-for-3.jpg/)*1-for-3 housing policy © Suzhou*
+![Utilities pipes installation in Pingjiang Historic District](/images/features/2020/pipe-installation.jpg/)*Utilities pipes installation in Pingjiang Historic District © Suzhou*
 
 - Under a guiding principle of ‘repair the old, retain the old’, traditional architecture, ancient bridges and other intangible heritage are protected and restored. 
 - The following strategies are adopted for classification of projects: 
