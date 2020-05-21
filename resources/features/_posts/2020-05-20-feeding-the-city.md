@@ -29,7 +29,7 @@ Seattle in the United States, on the other hand, has encouraged residents to gro
 
 Beyond rooftops and roadside planting strips, other spaces in a city could be ripe for urban agriculture too. In Tokyo, Japan, the authorities have [utilised vacant spaces under elevated train tracks to propagate plants](https://www.straitstimes.com/asia/east-asia/goats-pigs-and-veggies-crop-up-in-urban-tokyo), including kale, endives and basil. The cultivated crops are sold to restaurants in the city. Owners of shopping centres and office towers have set aside units or even entire floors to grow vegetables which are harvested and served in their cafes and cafeterias. Official statistics show that the [produce grown in Tokyo alone can feed at least 700,000 people](http://english.agrinews.co.jp/?p=8976), and the city also organised and hosted an inaugural Urban Agriculture World Summit in 2019 to learn from others.
 
-![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)*Illustration: elenabsl © 123rf.com*
+> "Urban agriculture alone will never feed the world, but it can vastly improve the natural capital in cities and produce a range of benefits beyond just food."
 
 #### **From vacant lots to vegetable plots**
 
