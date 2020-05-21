@@ -53,7 +53,7 @@ To encourage more people to grow their own produce, **Melbourne**, Australia has
 
 The city also [published an online booklet](https://www.melbourne.vic.gov.au/residents/home-neighbourhood/gardens-and-green-spaces/Pages/sustainable-gardening-in-the-city-.aspx) to guide citizens in cultivating crops in other spaces, such as their homes’ balconies and backyards and apartment blocks’ rooftops and courtyards. The tips include using straw-based mulch for vegetable plants and layering compost or manure on top of soil patches at the end of each growing season to maintain their health.
 
-![Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands](/images/features/2020/rotterdam-veg-garden.jpg/)*Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands.. Photo: Hilda Weges © 123rf.com*
+![Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands](/images/features/2020/rotterdam-veg-garden.jpg/)*Vegetable roofgarden on top of an office building in the city centre of Rotterdam, Netherlands. Photo: Hilda Weges © 123rf.com*
 
 ---
 
