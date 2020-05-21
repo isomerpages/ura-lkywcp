@@ -2,10 +2,10 @@
 title: Balancing the old and new
 permalink: /resources/case-studies/pingjiang-historic-district/
 image: /images/features/2020/pingjiang-historic-district.jpg
-description: This innovative relocation housing policy helped Suzhou restore the ecological site of Stone Lake and improve the quality of the environment, while also ensuring that the displaced rural farmers meet both their housing and income needs.
+description: At risk of losing its heritage and character in its rapid modernisation, the 2014 Prize Laureate Suzhou embarked on a comprehensive approach to heritage perservation that also emphasised intangible qualities. The Pingjiang Historic District is an exemplar of the city's efforts.
 ---
 
-***This innovative relocation housing policy helped Suzhou restore the ecological site of Stone Lake and improve the quality of the environment, while also ensuring that the displaced rural farmers meet both their housing and income needs.*** 
+***At risk of losing its heritage and character in its rapid modernisation, the 2014 Prize Laureate Suzhou embarked on a comprehensive approach to heritage perservation that also emphasised intangible qualities. The Pingjiang Historic District is an exemplar of the city's efforts.*** 
 
 <br>
 
