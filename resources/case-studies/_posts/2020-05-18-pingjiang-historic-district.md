@@ -65,15 +65,15 @@ description: At risk of losing its heritage and character in its rapid modernisa
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/lake.png" alt="lake" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/chinese-arch.png" alt="chinese arch" /><br></td>
   <td style="text-align: left; vertical-align: top;"><br>>30,000m<sup>2</sup> traditional architecture restored<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/factory.png" alt="factory" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/roads.png" alt="road" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>70 roads and alleyways repaired<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/plant-trees.png" alt="plant trees" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/waves.png" alt="water" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Water quality of Pingjiang River and waterways improved<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/male-tourist.png" alt="tourist" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>>2 million tourists each year<br></td>
 </tr>
 </tbody>
