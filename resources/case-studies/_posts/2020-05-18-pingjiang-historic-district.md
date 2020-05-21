@@ -77,7 +77,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 <td style="text-align: left; vertical-align: top;"><br>>2 million tourists each year<br></td>
 </tr>
 </tbody>
-</table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
+</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
 
 - More than 30,000m<sup>2</sup> traditional architecture, such as Shou’an Bridge, Shengli Bridge, Tongli Bridge and more than 600m of piers and embankment restored.
 - More than 16km of roads and alleyways repaired, with underground parking spaces for schools and commercial streets constructed within the district.
