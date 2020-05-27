@@ -37,6 +37,8 @@ Cities with substantial water bodies could benefit from floating farms. **Rotter
 
 The cows feed on the city’s food waste and grass clippings, and their manure is used as fertiliser. Their urine is also collected and separated into salts, which are added to the fertiliser, and water, which is diverted to cool machinery. With the farm’s success, the city is considering using floating platforms to grow vegetables and rear chickens. 
 
+![Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands](/images/features/2020/rotterdam-veg-garden.jpg/)*Vegetable roofgarden on top of an office building in the city centre of Rotterdam, Netherlands. Photo: Hilda Weges © 123rf.com*
+
 ---
 
 #### **04: Harvests at home**
@@ -52,8 +54,6 @@ For many residents in the city of **Medellín**, Colombia, farm to table is a ma
 To encourage more people to grow their own produce, **Melbourne**, Australia has [created community gardens across the city](https://www.melbourne.vic.gov.au/residents/home-neighbourhood/gardens-and-green-spaces/Pages/community-gardens-compost-hubs.aspx), including several that are reserved for lower-income residents living in public housing. “These gardens provide an opportunity to grow food and plants, learn new skills and meet new people,” said the government.
 
 The city also [published an online booklet](https://www.melbourne.vic.gov.au/residents/home-neighbourhood/gardens-and-green-spaces/Pages/sustainable-gardening-in-the-city-.aspx) to guide citizens in cultivating crops in other spaces, such as their homes’ balconies and backyards and apartment blocks’ rooftops and courtyards. The tips include using straw-based mulch for vegetable plants and layering compost or manure on top of soil patches at the end of each growing season to maintain their health.
-
-![Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands](/images/features/2020/rotterdam-veg-garden.jpg/)*Vegetable roofgarden on top of an office building in the city centre of Rotterdam, Netherlands. Photo: Hilda Weges © 123rf.com*
 
 ---
 
