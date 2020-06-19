@@ -1,7 +1,7 @@
 ---
 title: Inclusive social policies in Suzhou
 permalink: /resources/case-studies/inclusive-social-policies-suzhou/
-image: /images/features/2020/suzhou-sunset.jpg
+image: /images/features/2020/suzhou-children.jpg
 description: Besides economic development and environmental protection, the 2014 Prize Laureate Suzhou introduced innovative social policies to ensure fair and equal treatment for all for a sustained future. 
 
 ---
@@ -18,7 +18,7 @@ description: Besides economic development and environmental protection, the 2014
 
 #### **In brief**
 
-![Inclusive social policies in Suzhou](/images/features/2020/suzhou-sunset.jpg/)*View of people sitting during sunset at Moon Harbor on Jinji Lake in Suzhou. Photo: Gabriel Murad © 123rf.com*
+![Inclusive social policies in Suzhou](/images/features/2020/suzhou-children.jpg/)*Children of migrant workers in Suzhou are given equal opportunities as their counterparts. Photo: _fla © 123rf.com*
 
 - Suzhou’s economic growth is complemented by innovative social policies that facilitated the integration of migrant workers, where they are given equal access to health and educational benefits as local residents, and contributed to social stability. 
 - These inclusionary policies are regarded as one of the significant achievements of Suzhou.
@@ -85,5 +85,7 @@ As a result of its social policies, Suzhou has been awarded as the most popular 
 ---
 
 #### **Replicable ideas**
+
+![A community event in Suzhou](/images/features/2020/suzhou-community.jpg/)*A community event in Suzhou © Suzhou*
 
 - It is important for a city to have inclusionary policies in the treatment of migrant workers, in order to bring about greater community integration and social stability. **<font color="#967942">O</font>**
