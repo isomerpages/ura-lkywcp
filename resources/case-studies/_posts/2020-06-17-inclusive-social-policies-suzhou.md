@@ -27,8 +27,6 @@ description: Besides economic development and environmental protection, the 2014
 
 #### **Key issues faced before the implementation of the project**
 
-![Pingjiang Historic District before the transformation](/images/features/2020/pingjiang-before.jpg/)*Pingjiang Historic District before the transformation © Suzhou*
-
 - Surge of migrant workers to the city seeking jobs as a result of rapid economic growth.
  A lack of protection for these migrant workers. 
 - Disparity in quality of life between rural and urban areas in terms of housing, education and employment opportunities.
@@ -38,8 +36,6 @@ description: Besides economic development and environmental protection, the 2014
 
 #### **Leadership and governance**
 
-![Governance structure of Pingjiang Historic District](/images/features/2020/pingjiang-chart.jpg/)*Governance structure of Pingjiang Historic District © Suzhou*
-
 - The Municipal Government acts as the key legislation agency in implementing plans and projects for the city, and coordinates sub-departments, such as district-level governments, Urban and Rural Planning Committee, Municipal Planning Bureau, etc. 
 - Community residents and relevant enterprises provide feedback for specific urban transformation plans to align results with their requirements. 
 - Suzhou Municipal People’s Congress examines and approves these transformation plans, and formalises them as laws and regulations after their approval, to ensure the sustainability of the transformation.
@@ -48,8 +44,6 @@ description: Besides economic development and environmental protection, the 2014
 ---
 
 #### **Creativity and innovation**
-
-![Utilities pipes installation in Pingjiang Historic District](/images/features/2020/pipe-installation.jpg/)*Utilities pipes installation in Pingjiang Historic District © Suzhou*
 
 - A ‘Residence Permit’ allows non-native residents to access citizen-equivalent benefits in nine areas including education, healthcare and employment. 
 - The city built public rental housing, manages private rental housing, and introduced housing fund policy among other measures to improve the living conditions of non-native residents. 
