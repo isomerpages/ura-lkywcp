@@ -11,7 +11,7 @@ description: Cities with growing populations and limited space are increasingly 
 
 ***Cities with growing populations and limited space are increasingly turning to the vacant space above their railway tracks and low-rise buildings to construct new homes, offices, parks and other essential infrastructure and amenities.***
 
-![Urban agriculture](/images/features/2020/out-of-thin-air.jpg/)*Man holding a bucket full of lettuce in front of his urban farm. Photo: ferli © 123rf.com*
+![Aerial view of a train yard](/images/features/2020/out-of-thin-air.jpg/)*Cities are exploring the possibilities of making use of the airspace above their train yards. Photo: Tewin Kijthamrongworakul © 123rf.com*
 
 In March 2020, New York City in the United States [unveiled the masterplan for its proposed Sunnyside Yard neighbourhood](https://api.sunnysideyard.nyc/files/2020-03/200302_SSY_MPH_Executive%20Summary_0.pdf) that will be built on top of an active train yard in the Queens borough. The city plans to deck over about 80 percent of the yard to create 113 acres (approximately 465,400 square metres) of land that will be used for 12,000 affordable homes and 60 acres (approximately 243,000 square metres) of parks, schools, libraries, plazas and other social infrastructure.
 
@@ -28,6 +28,8 @@ Toronto in Canada, on the other hand, [plans to build a 20-acre (approximately 8
 For Sydney, Australia, the railyards next to its Central Station are the [key to a vast expansion of its Central Business District](https://www.planningportal.nsw.gov.au/draftplans/exhibition/draft-strategic-vision-central-state-significant-precinct-ssp-0). The city will erect decks over them to lay the foundation for a 240,000-square-metre innovation and technology precinct that is targeted to supply 25,000 new jobs by 2036. While plans for the precinct are currently in the consultation stage, Australian software giant Atlassian has [inked an agreement with the government to be an anchor tenant](https://www.itnews.com.au/news/nsw-govt-plans-huge-infill-for-sydneys-new-tech-precinct-532587) and offer about 4,000 jobs. 
 
 The urban redevelopment project is the [largest-ever in the state of New South Wales (NSW)](https://www.smh.com.au/national/nsw/the-next-barangaroo-dramatic-makeover-of-central-to-hide-train-lines-20191026-p534gz.html). Transport for NSW, the agency that is leading the project, said: “The precinct will revitalise southern Central Sydney, improve connections to surrounding employment, education, health and cultural institutions, and foster economic growth through a new and well-connected commercial hub for Sydney.”
+
+![plattenbau](/images/features/2020/plattenbau.jpg/)*Berlin is exploring vertical extensions above typical 'plattenbau' apartment buildings. Photo: helloitsme © 123rf.com*
 
 #### **Stacking up**
 
