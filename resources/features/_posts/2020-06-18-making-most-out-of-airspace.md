@@ -35,7 +35,7 @@ Cities have also turned to drones for help in the midst of the COVID-19 pandemic
 
 In **Vilnius**, the capital of Lithuania, drones were tasked to distribute leaflets with information about quarantines to citizens. These and other cities’ experience demonstrate how drones could play a role in future outbreak response measures. 
 
-![Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands](/images/features/2020/rotterdam-veg-garden.jpg/)*Vegetable roofgarden on top of an office building in the city centre of Rotterdam, Netherlands. Photo: Hilda Weges © 123rf.com*
+![Use of drones in COVID-19](/images/features/2020/drone-covid.jpg/)*Cities using drones during the COVID-19 global pandemic. Illustration: Анна Лукiна © 123rf.com*
 
 ---
 
