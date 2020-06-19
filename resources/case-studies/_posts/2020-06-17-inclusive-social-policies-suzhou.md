@@ -27,8 +27,7 @@ description: Besides economic development and environmental protection, the 2014
 
 #### **Key issues faced before the implementation of the project**
 
-- Surge of migrant workers to the city seeking jobs as a result of rapid economic growth.
- A lack of protection for these migrant workers. 
+- Surge of migrant workers to the city seeking jobs as a result of rapid economic growth, with a lack of protection for these  workers. 
 - Disparity in quality of life between rural and urban areas in terms of housing, education and employment opportunities.
 - Inadequate public services and social security for migrant workers.
 
