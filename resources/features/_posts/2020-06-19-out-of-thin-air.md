@@ -29,7 +29,7 @@ For Sydney, Australia, the railyards next to its Central Station are the [key to
 
 The urban redevelopment project is the [largest-ever in the state of New South Wales (NSW)](https://www.smh.com.au/national/nsw/the-next-barangaroo-dramatic-makeover-of-central-to-hide-train-lines-20191026-p534gz.html). Transport for NSW, the agency that is leading the project, said: “The precinct will revitalise southern Central Sydney, improve connections to surrounding employment, education, health and cultural institutions, and foster economic growth through a new and well-connected commercial hub for Sydney.”
 
-![plattenbau](/images/features/2020/plattenbau.jpg/)*Berlin is exploring vertical extensions above typical 'plattenbau' apartment buildings. Photo: helloitsme © 123rf.com*
+![plattenbau](/images/features/2020/plattenbau.jpg/)*Berlin is looking at vertical extensions above typical 'plattenbau' apartment buildings. Photo: helloitsme © 123rf.com*
 
 #### **Stacking up**
 
@@ -40,6 +40,8 @@ Berlin, Germany, for its part, has partnered social housing association Howoge t
 Another city that is looking to its rooftops for more housing is London in Britain. In 2019, the city loaned GBP $10 million (approximately USD $12.5 million) to a firm specialising in modular rooftop homes to [install at least 500 of them in 20 sites by 2022](https://www.london.gov.uk/decisions/dd2326-affordable-homes-programme-2016-2021-mayors-innovation-fund). The homes will be fabricated offsite before being hoisted onto the rooftops for installation, and will tap on the buildings’ existing utility networks. The firm can sell or rent 250 of the homes at market rates to make a profit, but must reserve the remaining units as affordable housing for vulnerable groups of residents. 
 
 [The city said of the collaboration](https://www.apexairspace.co.uk/mayor-london-backs-apex-airspace-10-million/): “London’s housing crisis has been decades in the making, and we need to use every possible opportunity to build more council, social-rented and other genuinely affordable homes.” It added that the partnership could establish a viable model for delivering lower-cost homes that could be replicated by others to ease the city’s shortage of them. The project is also in line with Britain’s wider efforts to spur building extensions in areas that need them. In March 2020, the Ministry of Housing, Communities and Local Government announced that it planned to [grant owners of apartment blocks the right to add up to two storeys without having to seek permission from the authorities](https://www.theguardian.com/society/2020/mar/12/property-owners-right-build-upwards-without-planning-permission). 
+
+> "To avoid urban sprawl and provide municipal services efficiently, many urban centres have come to the conclusion that they need to make better use of the space above their train yards, short buildings and other low-rise infrastructure."
 
 #### **Minding wind and shade**
 
