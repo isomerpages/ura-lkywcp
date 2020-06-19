@@ -2,11 +2,11 @@
 title: Inclusive social policies in Suzhou
 permalink: /resources/case-studies/inclusive-social-policies-suzhou/
 image: /images/features/2020/inclusive-social-policies-suzhou.jpg
-description: Besides economic development such as its Jinji Lake CBD and environmental protection such as its Stone Lake District, the 2014 Prize Laureate city of Suzhou understands that its transformation cannot be complete without social sustainability. Its innovative social policies ensure fair and equal treatment for all for a sustained future. 
+description: Besides economic development and environmental protection, the 2014 Prize Laureate Suzhou introduced innovative social policies to ensure fair and equal treatment for all for a sustained future. 
 
 ---
 
-***Besides economic development such as its Jinji Lake CBD and environmental protection such as its Stone Lake District, the 2014 Prize Laureate city of Suzhou understands that its transformation cannot be complete without social sustainability. Its innovative social policies ensure fair and equal treatment for all for a sustained future.*** 
+***Besides economic development and environmental protection, the 2014 Prize Laureate Suzhou introduced innovative social policies to ensure fair and equal treatment for all for a sustained future.*** 
 
 <br>
 
