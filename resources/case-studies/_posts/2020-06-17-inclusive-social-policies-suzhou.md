@@ -58,15 +58,15 @@ description: Besides economic development and environmental protection, the 2014
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/chinese-arch.png" alt="chinese arch" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/work.png" alt="work" /><br></td>
   <td style="text-align: left; vertical-align: top;"><br>Unemployment rate decreased<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/roads.png" alt="road" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/wallet.png" alt="wallet" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Average disposable income for urban households increased<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/waves.png" alt="water" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/leisure.png" alt="leisure" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Per capita area of public green areas increased<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/male-tourist.png" alt="tourist" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/worker.png" alt="worker" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Most popular city for migrant workers nationwide<br></td>
 </tr>
 </tbody>
