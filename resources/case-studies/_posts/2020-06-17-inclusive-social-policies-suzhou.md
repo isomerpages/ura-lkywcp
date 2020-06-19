@@ -66,15 +66,15 @@ description: Besides economic development such as its Jinji Lake CBD and environ
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/chinese-arch.png" alt="chinese arch" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>>30,000m<sup>2</sup> traditional architecture restored<br></td>
+  <td style="text-align: left; vertical-align: top;"><br>Unemployment rate decreased<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/roads.png" alt="road" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>70 roads and alleyways repaired<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Average disposable income for urban households increased<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/waves.png" alt="water" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Water quality improved<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Per capita area of public green areas increased<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/male-tourist.png" alt="tourist" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>>2 million tourists each year<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Most popular city for migrant workers nationwide<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
