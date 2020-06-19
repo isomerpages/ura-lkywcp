@@ -70,7 +70,7 @@ description: Besides economic development and environmental protection, the 2014
 <td style="text-align: left; vertical-align: top;"><br>Most popular city for migrant workers nationwide<br></td>
 </tr>
 </tbody>
-</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
+</table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
 
 - Unemployment rates decreased from the peak of 4.08% in 2002 to less than 3% in 2013, with employees in tertiary industry accounting for over half of the total employed population.
 - Improvement in pay scale sees the average disposable income for urban households increase from RMB 10,617 (approximately USD $1,726) in 2002 to RMB 37,531 (approximately USD $6,103) in 2012. 
