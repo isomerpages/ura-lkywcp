@@ -19,3 +19,8 @@ Vienna is highly commendable for its stewardship of the environment. The city re
 In an age with pressing climate change issues, Vienna is far-sighted in its approach towards flood protection in the Danube River. The city adopted a series of protection measures since 1884 that culminated in the 20-year development of the New Danube and Danube Island completed in 1989. The solution is not only effective: the New Danube designed for a combined discharge flow rate of 14,000 m3/s comfortably exceeded the maximum flow rates of the catastrophic floods of 2002 and 2013 and helped prevented major damages, but also creative: the 21km New Danube serves as a closed water body for recreational activities during non-flood times, while the Danube Island – created from the excavated soils of the New Danube – provides a large public park for the city.
 
 Vienna is already widely recognised as one of the most liveable cities in the world today. Yet, the city does not rest on its laurels but continues to raise the bar of sustainability and liveability, under the long-term leadership of Mayor Dr. Michael Häupl and assisted by the Executive Policy Group looking into all aspects of quality of life in the city. Vienna is a role model in its commitment to good environment and sends an important environmental message to other cities around the world. **<font color="#967942">O</font>**
+
+#### **More resources**
+
+| **In pictures** | - [Vienna in pictures - raising the bar of liveability](/resources/in-pictures/vienna/) |
+| **Features** | - [4 different cities, 3 common themes - the 2016 Special Mention cities](/resources/features/four-different-cities/) <br> - [Looking east and west - Vienna at the crossroads](/resources/features/vienna-at-crossroads/) |
