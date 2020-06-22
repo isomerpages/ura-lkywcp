@@ -29,11 +29,6 @@ The city’s transformation is a testament to the dynamic partnership between it
 
 #### **More resources**
 
-| **Commemorative video** | 
-- [Watch on YouTube](https://www.youtube.com/watch?v=ShSBnodjk9w) |
-| **Case studies** | 
-- [Innovative zoning tools – West Chelsea & High Line Plan](/resources/case-studies/west-chelsea-high-line-plan/) <br> 
-- [Brooklyn Bridge Park](/resources/case-studies/brooklyn-bridge-park/) <br> 
-- [Re-purposing the public right of way](/resources/case-studies/repurposing-public-right-of-way/) |
-| **Features** | 
-- [New York City renewed - how a world icon is looking ahead to 2050](/resources/features/nyc-renewed/) |
+| **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=ShSBnodjk9w) |
+| **Case studies** | - [Innovative zoning tools – West Chelsea & High Line Plan](/resources/case-studies/west-chelsea-high-line-plan/) <br> - [Brooklyn Bridge Park](/resources/case-studies/brooklyn-bridge-park/) <br> - [Re-purposing the public right of way](/resources/case-studies/repurposing-public-right-of-way/) |
+| **Features** | - [New York City renewed - how a world icon is looking ahead to 2050](/resources/features/nyc-renewed/) |
