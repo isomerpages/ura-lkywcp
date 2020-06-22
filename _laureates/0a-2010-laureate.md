@@ -46,10 +46,11 @@ More significantly, the success of Bilbao lies in its ability to achieve alignme
 | [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) |
 | [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) |
 
+| **Features** |
+|:---|
+| [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
+
 | **Interviews** |
 |:---|
 | [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) |
 | [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
-
-| **Features** |
-| [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
