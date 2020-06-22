@@ -31,6 +31,8 @@ Throughout the period of continuing rapid growth, Suzhou has maintained its spec
 
 On the whole, the city leaders of Suzhou have demonstrated strong leadership and commitment to develop the city, guided by good governance and structured processes. The clearly articulated long-term vision and planning approach that Suzhou has put in place, combined with competent leadership and strong political support, have enabled the city to tackle urban challenges effectively. Suzhou provides many good lessons for the many rapidly urbanising cities in China as well as in other developing nations. **<font color="#967942">O</font>**
 
-| **Watch** |
-|:---|
-| [Commemorative Video](https://www.youtube.com/watch?v=JECzIhaxMlg) |
+#### **More resources**
+
+| **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=JECzIhaxMlg) |
+| **Case studies** | - [1-for-3 housing policy at Stone Lake District](/resources/case-studies/1-for-3-housing/) <br> - [Balancing the old and new](/resources/case-studies/pingjiang-historic-district/) |
+| **Features** | - [Epitomising liveable and sustainable cities - the Suzhou story](/resources/features/epitomising-liveable-sustainable-cities/) <br> - [A marriage of culture and commerce – the Suzhou success story](/resources/features/marriage-culture-commerce/) |
