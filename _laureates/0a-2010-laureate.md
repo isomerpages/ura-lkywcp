@@ -37,8 +37,8 @@ Bilbao City Hall has been instrumental in regenerating and transforming the city
 
 More significantly, the success of Bilbao lies in its ability to achieve alignment of objectives and vision amongst government, businesses and the community. The formation of the Bilbao Ria 2000 was an effective demonstration of strong Public-Private Partnership to ensure the successful implementation of the city’s plans and projects. **<font color="#967942">O</font>**
 
-| **More resources** |
-|:---|
+#### **More resources** 
+
 | **Commemorative video** | [Click here](https://www.youtube.com/watch?v=R9aBW7yF0-0) |
 | **Case studies** | [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) <br> [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) |
 | **Features** | [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
