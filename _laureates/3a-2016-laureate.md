@@ -28,6 +28,8 @@ Social integration is a massive challenge for many cities around the world, but 
 
 Medellín has come a long way from its past, sending a powerful signal that inclusive and collaborative governance can overturn even the most difficult circumstances. On the whole, what the city has achieved is not only an inspiration for cities looking to overcome similar challenges, but also provides many valuable lessons for all cities worldwide. However, its success is at once remarkable and fragile. Successive city leaders will have to build upon what had been put in place thus far; urban solutions and creation of jobs must continue to keep pace with growth in order to prevent the reappearance of past problems. As the wave of positive change that has swept Medellín settles, the city will have to manage the evolving expectations of its people. It is noted that key challenges remain, particularly the shortage of social housing for the underprivileged and those whose existing dwellings cannot be formalised, as well as the need for a clearer and cohesive urban plan at the metropolitan level to guide the development of the region. It is imperative that efforts to ensure the basic needs of citizens are met be sustained, for it is the message of hope that has given people unfettered belief and galvanised them to come together and steer Medellín in the right direction. **<font color="#967942">O</font>**
 
-| **Watch** |
-|:---|
-| [Commemorative Video](https://www.youtube.com/watch?v=P5BzIa90x1A) |
+#### **More resources** 
+
+| **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=P5BzIa90x1A) |
+| **In pictures** | - [Medellín in pictures - model for urban innovations](/resources/in-pictures/medellin/) |
+| **Features** | - [Medellín transformed - from murder capital to model city](/resources/features/medellin-transformed/) <br> - [Transforming barrios, transforming Medellín](/resources/features/transforming-barrios-transforming-medellin/) <br> - [Reaching high and moving up - Medellín's mountains of achievements](/resources/features/reaching-high-moving-up/) <br> - [Safe, smart and connected - Medellín moves forward as a city of innovation](/resources/features/safe-smart-connected/) <br> - [Medellín – a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) |

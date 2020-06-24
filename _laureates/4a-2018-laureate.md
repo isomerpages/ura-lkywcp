@@ -29,6 +29,9 @@ As megacities continue to mature and age, deterioration of its urban infrastruct
   
 As cities become larger and more difficult to manage, achieving social sustainability may be a much bigger challenge than extending economic and environmental sustainability. Should Seoul not have taken the bold and unusual step to make its citizens the creators of their own city plan, it could have further aggravated the already built-up tensions between the people and the government, and orchestrated its own decline. By turning the people into active participants of the city’s development, Seoul demonstrated that a truly bottom-up city is possible, where the citizens own their shared city. **<font color="#967942">O</font>** 
 
-| **Watch** |
-|:---|
-| [Commemorative Video](https://www.youtube.com/watch?v=lpvnAsDj2dA) |
+#### **More resources**
+
+| **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=lpvnAsDj2dA) |
+| **In pictures** | - [Seoul in pictures - catalysing change, improving quality of life](/resources/in-pictures/seoul/) <br> - [Seoul in pictures II - development without demolition](/resources/in-pictures/seoul2/) |
+| **Features** | - [Power to the people - the success of citizen engagement in Seoul](/resources/features/power-to-people/) <br> - [Seoul rejuvenated - creating a people-first city](/resources/features/seoul-rejuvenated/) <br> - [Seoul solutions - tackling rising urban challenges](/resources/features/seoul-solutions/) |
+| **Interviews** | - [Winy Maas on designing Seoullo 7017](/resources/interviews/designing-seoullo-7017/) <br> - [Hee Seon Jin on Seoulistic urban regeneration](/resources/interviews/seoulistic-urban-regeneration/) |

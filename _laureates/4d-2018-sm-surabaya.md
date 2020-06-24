@@ -21,3 +21,9 @@ Surabaya’s strong drive to promote greening in the city deserves praise. The c
 Surabaya efforts to promote inclusive learning and develop the young population are exemplary. With 35% of the city’s annual budget allocated for education, the city has improved the literacy level of the community through providing free education for the under- privileged, setting up reading corners and mobile libraries across the city and in the parks, and offering free computer classes and foreign language training to its residents. 
 
 The involvement and commitment of both the people and the Mayor working closely together for a better quality of life, is clearly felt through the palpable vibrancy of the kampungs. Surabaya has distinguished itself as a forward-looking emerging city and is an inspiration to other cities in developing economies who are looking to learn from a well-managed city now characterised by economic growth, social harmony, and environmental sustainability. **<font color="#967942">O</font>** 
+
+#### **More resources**
+
+| **In pictures** | - [Surabaya in pictures - a modern kampung city](/resources/in-pictures/surabaya/) |
+| **Features** | - [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) <br> - [Surabaya - preserving the past, conserving the future](/resources/features/preserving-past-conserving-future/) |
+| **Interviews** | - [Tri Rismaharini on developing a ground-up Surabaya](/resources/interviews/developing-groundup-surabaya/) |

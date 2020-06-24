@@ -21,3 +21,8 @@ Hamburg’s strategy of inclusiveness is exemplary. The city’s culture of coop
 Hamburg is also commendable for its push towards sustainable urban development through the ongoing conversion of its transportation system to one based on renewable energy and its innovative initiative “switch”, which intend to reduce private car usage through the introduction of alternative mobility options at key transportation nodes. 
 
 With excellent urban initiatives creating a conducive environment for its inhabitants and imbuing the city with an uplifting spirit, Hamburg stands out as an exemplary model for other cities who are looking for ways to enhance economic competitiveness through education, workforce support, and high quality of life. **<font color="#967942">O</font>** 
+
+#### **More resources** 
+
+| **In pictures** | - [Hamburg in pictures - a welcoming city of opportunities](/resources/in-pictures/hamburg/) |
+| **Features** | - [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) <br> - [Hamburg transformed - how the city leads in urban regeneration](/resources/features/hamburg-transformed/) |
