@@ -33,7 +33,7 @@ third_nav_title: Prize Jury
 </tr>
 <tr>
 <td><br><img src="/images/jury/park-won-soon.png" alt="The Late Park Won-soon" /><br></td>
-<td><br><strong>Mr Park Won-soon</strong><br />Former Mayor<br />Seoul<br />Republic of Korea</td>
+<td><br><strong>The Late Park Won-soon</strong><br />Former Mayor<br />Seoul<br />Republic of Korea</td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
