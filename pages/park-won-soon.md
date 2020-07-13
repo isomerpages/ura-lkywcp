@@ -1,6 +1,6 @@
 ---
 title: Biography - Park Won-soon
-permalink: /about/prize-jury/prize-council/park-won-soon/
+permalink: /about/prize-jury/prize-council/superseded-park-won-soon/
 ---
 
 <div style="width:150px"><img src="/images/jury/park-won-soon.png" alt="Park Won-soon" /></div>
