@@ -11,11 +11,11 @@ description: Seoul, the 2018 Prize Laureate, transformed into a vibrant and soci
 
 ***Seoul, the 2018 Prize Laureate, transformed into a vibrant and socially-inclusive city by making bold decisions such as giving its citizens a greater say over development projects. Here’s a look at its government’s innovative citizen engagement initiatives, which include setting aside part of its annual budget for citizen-proposed projects, setting up support centres to help residents implement community improvement ideas and creating a conflict management division to avert potential public unhappiness over projects.***
 
-![Mayor Park Won-soon at a citizen engagement session in Seoul](/images/features/2018/seoul-citizen-engagement.jpg/)*Mayor Park Won-soon at a citizen engagement session in Seoul © Seoul Metropolitan Government*
+![Former Mayor the late Park Won-soon at a citizen engagement session in Seoul](/images/features/2018/seoul-citizen-engagement.jpg/)*A citizen engagement session in Seoul © Seoul Metropolitan Government*
 
 By 2050, about two in three people will live in cities across the world, making citizen engagement in the urban planning process [more important than ever](http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html). Without citizens’ support and help, city development projects could be stymied, run into difficulties, or fail to meet their needs.
 
-“Furthermore, when residents are involved in proposing and developing ideas for their cities, they tend to come up with good ideas because they are the ones witnessing the problems and solutions in their daily lives,” said Mr Park Won-Soon, the Mayor of Seoul in South Korea, in an interview with Singapore’s Urban Redevelopment Authority in March 2018.
+“Furthermore, when residents are involved in proposing and developing ideas for their cities, they tend to come up with good ideas because they are the ones witnessing the problems and solutions in their daily lives,” said the late Park Won-Soon, the former Mayor of Seoul in South Korea, in an interview with Singapore’s Urban Redevelopment Authority in March 2018.
 
 Seoul’s commitment to and success in citizen engagement is one of the reasons that the city was [awarded the 2018 Lee Kuan Yew World City Prize](/laureates/2018/laureate/). The Prize jurors noted in the citation for the city that it had faced many urban challenges due to its rapid rate of urbanisation, like many other cities.
 
