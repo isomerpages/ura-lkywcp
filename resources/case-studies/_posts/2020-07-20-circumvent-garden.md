@@ -59,15 +59,15 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/work.png" alt="work" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Unemployment rate decreased<br></td>
+  <td style="text-align: left; vertical-align: top;"><br>120,000 new trees planted<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/wallet.png" alt="wallet" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Average disposable income for urban households increased<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Public spaces increased<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/leisure.png" alt="leisure" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Per capita area of public green areas increased<br></td>
+<td style="text-align: left; vertical-align: top;"><br>2,500 local residents trained in agro-ecology<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/worker.png" alt="worker" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Most popular city for migrant workers nationwide<br></td>
+<td style="text-align: left; vertical-align: top;"><br>3.8km of ‘Path of Life’ footpath built<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
