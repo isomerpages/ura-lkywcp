@@ -52,7 +52,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 - The Circumvent Garden controls further urban expansion by defining the city limits, setting a physical boundary beyond which building is not allowed. 
 - The city took the unusual step of legalising existing informal settlements that were structurally sound and improving them, rather than evicting them. Those at risk of landslides are relocated within the same neighbourhood under a ‘sustainable neighbourhood’ programme. 
 - Local residents are trained in farming, construction and landscaping, generating a sense of ownership through active community participation and ensuring social sustainability. 
-- The project also aims to increase the city’s public spaces (such as sports facilities and community farms) from 3.8m2 to 15m2 per inhabitant under the city masterplan. 
+- The project also aims to increase the city’s public spaces (such as sports facilities and community farms) from 3.8m<sup>2</sup> to 15m<sup>2</sup> per inhabitant under the city masterplan. 
 - Multi-modal routes connect the once-isolated areas to the rest of city, hence opening up to jobs and opportunities, and act as a social equaliser that helps to break down boundaries and reduce crime.
 
 ---
@@ -78,9 +78,9 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 - 41ha of ecological restoration were completed to protect the Pan de Azúcar hill and the distances from creeks. 
 - 120,000 new trees are planted, of which 50,000 are crop trees, allowing harvest and generation of economy. 
-- Over 12,000 garden varieties are planted to beautify the surroundings of the transformed spaces, and 31,000m2 of gardens are planted that benefit some 490 families for self-sufficiency through barter trades and sales for surpluses.
+- Over 12,000 garden varieties are planted to beautify the surroundings of the transformed spaces, and 31,000m<sup>2</sup> of gardens are planted that benefit some 490 families for self-sufficiency through barter trades and sales for surpluses.
 - Two eco-parks are built and three others under construction, which will be connected to a footpath called ‘Camino de la Vida’ (Path of Life), with 3.8km already built. 
-- Under the targets of the city masterplan, the project aims to increase public space from 3.8 m2 to 15m2 per inhabitant.
+- Under the targets of the city masterplan, the project aims to increase public space from 3.8m<sup>2</sup> to 15m<sup>2</sup> per inhabitant.
 - More than 49,000 people are mobilised in the processes of socialisation, participation, workshops, tours and events.
 - Around 2,500 people are trained in agro-ecology, partnerships, construction, and landscape work, with 95% of the workers being local residents, of which 30% are women.
 
@@ -88,6 +88,6 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Replicable ideas**
 
-![Urban farming at the Circumvent Garden](/images/features/2020/circumvent-garden-urban-farm.jpg/)*Urban farming at the Circumvent Garden © Suzhou*
+![Urban farming at the Circumvent Garden](/images/features/2020/circumvent-garden-urban-farm.jpg/)*Urban farming at the Circumvent Garden © ACI Medellín*
 
 - The non-conventional approach of how the city approached the issue of illegal settlers on the state-owned land along the urban-rural fringe could inspire other cities in similar situations to achieve a win-win scenario for all. **<font color="#967942">O</font>**
