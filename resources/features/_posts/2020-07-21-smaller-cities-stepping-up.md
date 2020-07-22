@@ -15,82 +15,76 @@ description: More secondary cities are taking the initiative to attract new resi
 
 #### **01: A national effort**
 
-Small cities in New Zealand such as Whakatāne and Dunedin are tapping into the national government’s NZD $3 billion (approximately USD $1.96 billion) Provincial Growth Fund to develop their local assets and strengthen their economies1. The fund, launched in 2018, aims to boost growth and create jobs in regions outside of the country’s metropolises. 
+Small cities in New Zealand such as **Whakatāne and Dunedin** are tapping into the national government’s NZD $3 billion (approximately USD $1.96 billion) [Provincial Growth Fund](https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12000424) to develop their local assets and strengthen their economies. The fund, launched in 2018, aims to boost growth and create jobs in regions outside of the country’s metropolises. 
 
-Whakatāne2, a port city, is building a new commercial boat harbour and a visitor hub as well revitalising its riverfront and town centre to improve its tourism business. Dunedin3, which has emerging gaming and digital services sectors, will invest in a Centre of Digital Excellence that is slated to create as many as 50 small videogame studios and five large studios.   
-
----
-
-#### **02: A roadmap to flight**
-
-Commercial flying taxis are also slated to become part of the transport network in South Korea by 2025, with the national government [unveiling an urban mobility roadmap in June 2020](http://www.koreaherald.com/view.php?ud=20200608000639) to show how it plans to achieve the goal. It is currently developing an air taxi for individual passengers that will be able to travel up to 50 kilometres between city centres and suburbs, and may create other vehicles that can cover longer distances or ferry more people.
-
-The air taxis will be trialled in **Seoul** in 2024, where they will fly between the city’s Incheon and Gimpo International Airports, Cheongnyangni train station and Coex mall. The taxi service is projected to reduce travel times by up to 70 percent when it is fully commercialised.  
+Whakatāne, a port city, is [building a new commercial boat harbour and a visitor hub as well revitalising its riverfront and town centre](https://www.growregions.govt.nz/about-us/news-and-announcements/whakatane-set-for-economic-growth/) to improve its tourism business. Dunedin, which has emerging gaming and digital services sectors, will [invest in a Centre of Digital Excellence](https://www.growregions.govt.nz/about-us/news-and-announcements/pgf-makes-dunedin-ites-happy/) that is slated to create as many as 50 small videogame studios and five large studios.   
 
 ---
 
-#### **03: Combating COVID-19**
+#### **02: Help from abroad**
 
-Cities have also turned to drones for help in the midst of the COVID-19 pandemic. In **Nice** in France, the police have been [using drones equipped with loudspeakers to remind residents to keep their distance from one another in public spaces](https://www.reuters.com/article/us-health-coronavirus-france-drone/on-french-riviera-overhead-police-drone-gives-coronavirus-orders-idUSKBN2171N5). **Burgas**, a city in Bulgaria, on the other hand, has [enlisted drones with thermal cameras to detect people outdoors who have high temperatures](https://www.themayor.eu/en/how-drones-help-cities-during-the-coronavirus-pandemic). 
+Secondary cities in Vietnam have improved their urban infrastructure and accelerated their development by reaching out to international organisations for funding and technical assistance. **Dong Dang**, which shares a border with China, [constructed a new immigration and customs facility with help from the Asian Development Bank](https://www.livablecities.info/vietnam-secondary-cities) to process a rapidly growing volume of cross-border goods more quickly.
 
-In **Vilnius**, the capital of Lithuania, drones were tasked to distribute leaflets with information about quarantines to citizens. These and other cities’ experience demonstrate how drones could play a role in future outbreak response measures. 
+---
+
+#### **03: A targeted approach**
+
+Other secondary cities are dipping into their budgets to attract new residents. In the United States, the city of **North Platte** in Nebraska [pays local employers up to USD $5,000 for each job vacancy](http://www.nparea.com/worknp), with the money to be used for incentive packages for new employees. These incentives can include reimbursements for relocation expenses, help with student loan repayments, and the payment of course fees for specialised training certificates. 
+
+Cities in Grant County, Washington, such as Quincy, Ephrata, and Warden, for their part, have a [‘Grant for Grads’ initiative](https://givetogrant.org/grant-for-grads/) that awards graduates from colleges, universities and technical schools up to USD $5,000 to buy a home in them. Those who want to rent a flat or home are given monthly payments equivalent to 20 percent of their rents, up to a total of USD $2,500. 
 
 ![Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus](/images/features/2020/drone-covid2.jpg/)*Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus. Photo: Vasilis Ververidis © 123rf.com*
 
 ---
 
-#### **04: In an emergency**
+#### **04: Land for relocation**
 
-**Daejeon**, the fifth-largest city in South Korea, is [relying on drones to improve its emergency services](https://www.smartcitiesworld.net/special-reports/special-reports/daejeon-pilots-drones-to-save-golden-time-in-emergencies). The government is trialling a system wherein a drone can reach any location in the city within two minutes, capture real-time video of the reported incident and send it to a data hub that monitors the city’s municipal services.    
+With housing at a premium in many major cities in the United States, **Plainville** in Kansas and **Curtis** in Nebraska are betting that the availability of free land will help them to increase their population. People who move to Plainville can get free land to build new homes, and those who do so will receive tax rebates on the properties for 10 years on a declining scale, with the [total savings equivalent to half of the amount that they would have paid](http://rookscounty.net/free_homesites).
 
-The information is then relayed to the emergency services responders so that they can better prepare en route and take more effective action once they arrive at the location. Depending on the trial’s results, the city may expand the drones’ use and place one on the rooftop of each of its 26 emergency centres.
-
----
-
-#### **05: Saving lives**
-
-People who have heart attacks in **Gothenburg**, Sweden, [could be saved by drones delivering automated external defibrillators](https://www.everdrone.com/news/2020/5/15/autonomous-drones-are-now-delivering-defibrillators-to-80000-residents-in-sweden). SOS Alarm, the country’s national emergency call centre, is working with the Karolinska Institute’s Centre for Resuscitation Science and an autonomous drone firm to test the use of such drones in the city from June to September 2020.
-
-Three drone systems have been placed in different locations to respond to incidents of cardiac arrest that are reported to SOS Alarm and are within a six-kilometre radius. “The drone is dispatched at the same time as the ambulance and will certainly be the first to arrive, and our operators are ready to instruct bystanders on how to initiate the life-saving device,” said Mr Mattias Regnell, Head of Innovation and Research at SOS Alarm.
+Newcomers to Curtis, on the other hand, can [apply for free commercial and industrial sites and government grants to set up their businesses](https://www.curtisnebraska.com/copy-of-medicine-valley-economic-de). Families are also eligible for free residential lots, grants of up to USD $4,000 to help them pay for the construction of their homes, and up to USD $1,000 in cash if they have at least one child. 
 
 ---
 
-#### **06: Fighting crime**
+#### **05: Easing the transition**
 
-For several police departments in Mexico’s cities, drones have acted as eyes in the sky to aid in arrests and deter crime. In 2019, the **Mexico City** Police Department [started deploying camera-equipped drones to enhance security at large public events](https://www.theyucatantimes.com/2019/04/mexico-city-police-launch-new-drone-program/), provide responding officers with live video feeds of the scene, and assist in other operations.
+Migrating can be a daunting process even in the best of times. In Germany, several small cities such as **Cottbus and Calau** in Brandenburg are [aiming to seal the deal with prospective residents](https://www.nbcnews.com/news/world/decades-after-fall-berlin-wall-east-german-towns-try-lure-n1078636) by providing free job consultations, introductions to local businesses in need of skilled workers, and support in finding housing and schools for their children. 
 
-Officers are trained to teleoperate the drones from the department’s command centre to the locations of emergency calls. “Our team is able to gain a level of visibility that was never before possible, helping us to drive efficiencies and better serve our community,” said Mr Edgar Martinez, the department’s Director of Cybersecurity and Intelligence.
-
----
-
-#### **07: An eye for inspections**
-
-With more households in **Sacramento** in the United States putting up solar panels on their homes’ rooftops, the city has [invested in a drone to help check the installations](https://www.cityofsacramento.org/Community-Development/Building/Building-Programs/Drone-Inspection-Program). The government said that the drone could also be used for other inspections in the future, adding that several measures will be taken to protect residents’ privacy. These include disabling the drone’s recording function when it is examining a building. 
-
-Other cities in the United States have also proposed using drones for inspections. In **New York City**, officials have tabled a bill to [legalise the use of drones to follow up on complaints about unsafe building façades or construction work](https://www.dezeen.com/2020/01/06/drone-building-inspection-new-york-city-bill/). 
+These and other efforts have enabled **Lauchhammer**, another city in the region, to bring in more than 2,000 new residents since 2016.
 
 ---
 
-#### **08: Fit for firefighting**
+#### **06: A new path for immigrants**
 
-As climate change increases the likelihood and duration of dry spells, wildfires may become more common in some cities. In 2015, the **Los Angeles** Fire Department (LAFD) was one of the first fire departments in the United States to [create a drone programme that is now essential to its firefighting efforts](https://www.kcrw.com/news/shows/kcrw-features/las-fire-department-is-using-drones-to-stop-californias-wildfires), especially against wildfires.  
+Canada accepts many immigrants each year, but most of them choose to live in its major cities such as Toronto, Montreal and Vancouver. To change this, the country launched a [‘Rural and Northern Immigration Pilot’](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html) in 2019 that creates a path to permanent residency for skilled foreigners who want to live and work in one of the participating small cities1.
 
-In the past, its firefighters had to search for the fires and depend on their experience to avoid being trapped by them. Now, the department launches drones with thermal cameras and heat sensors to survey the ground so that it can direct firefighters and better position water drops to douse the fires. 
-
-Mr David Danielson, one of the programme’s lead pilots, said of its impact: “A picture is worth a thousand words. You’re creating situational awareness, mitigating risk, preventing injury to the firefighters and preserving the property that you’re trying to save.” 
+As part of the pilot, the cities, which include **Timmins** in Ontario, **Claresholm** in Alberta, and **Vernon** in British Columbia, compile and advertise their available jobs on their government websites, and recommend those who obtain them for permanent residency if they meet the requirements. The pilot is [expected to approve up to 2,750 people and their families for permanent residency each year](https://www.cicnews.com/2019/11/two-rural-and-northern-immigration-pilot-communities-now-accepting-applications-1113194.html#gs.aq15vo).
 
 ---
 
-#### **09: A defence against drones**
+#### **07: Different roles for different cities**
 
-While cities have benefited from the use of drones, they also need to defend themselves from malicious actors who may exploit the technology for mischief. Over the past few years, for example, drones have disrupted flights in Singapore, London, Madrid and other cities. 
+By cooperating with one another and their national government to develop differentiated roles in industry, secondary cities can reduce the competition among them and accelerate their economic development. Uganda’s [‘Vision 2040’ blueprint](https://www.arup.com/-/media/arup/files/publications/f/future-cities-africa--uganda.pdf) exemplifies this by identifying clear anchor sectors for several secondary cities, including tourism for **Fort Portal**, oil refining for **Hoima**, and mining for **Moroto**. 
 
-In **Tokyo**, Japan, the government has [installed detection systems across the city to locate suspicious drones quickly](https://asia.nikkei.com/Spotlight/Tokyo-2020-Olympics/Japan-plans-defenses-against-drones-at-Olympic-venues) and enable the police to disable them. The systems identify signals emitted by unmanned aerial vehicles (UAVs) in flight to pinpoint their position and altitude. The police have their own drones which can fire nets to capture others, as well as jamming equipment that blocks the communication between a UAV and its pilot.
+Hoima is on track to begin construction on its [first crude oil refinery](https://www.newvision.co.ug/news/1513828/uganda-eyes-oil-barrel) soon, with the project estimated to [create 8,000 jobs for its residents](https://platform.africainvestmentforum.com/projects/details/191601). Fort Portal, which is located close to the country’s national parks and nature reserves, scenic crater lakes and mountain ranges, has also [made strides in erecting more hotels and guest houses](https://www.monitor.co.ug/artsculture/Travel/Fort-Portal-eyes-tourism-city-status-/691238-4771838-lhhoc9z/index.html). 
 
 ---
 
-#### **10: Rules for use** 
+#### **08: Forging partnerships**
 
-**Singapore** has passed legislation that [encourages the responsible use of drones](https://www.caas.gov.sg/public-passengers/unmanned-aircraft/ua-regulatory-requirements). For instance, unmanned aircraft (UA) that weigh over 250 grams must be registered before they can be used, and people who are caught operating an unregistered UA could be fined up to SGD $10,000 (approximately USD $7,200), or jailed up to six months, or both. 
+**Nottingham** in Britain has nurtured alliances with similarly-sized cities in other countries, including **Karlsruhe** in Germany. The two cities have hosted each other’s researchers and musicians, and organised cultural exchanges for students in their schools, [among other collaborations](http://www.nottinghamkarlsruhe50.com/about/). In 2015, Nottingham also [completed an integrated tram network](http://www.mynottinghamnews.co.uk/nottinghams-extended-tram-network-will-boost-citys-economy-4/) that was modelled after a similar system in Karlsruhe2.  
 
-The city-state is also ensuring that people who want to use heavier UA are qualified to do so. As an example, from February 2021, people who want to fly a UA that exceeds seven kilograms for recreational purposes must be at least 16 years old and first pass both a theory test as well as a practical assessment to obtain a UA pilot license. **<font color="#967942">O</font>**
+---
+
+#### **09: Supporting domestic travel**
+
+While many secondary cities are focused on increasing their population, some are positioning themselves as premiere locations for holidays, business meetings, conferences and seminars. In May 2020, the Tourism Authority of Thailand and other organisations announced that they would work with the country’s secondary cities on a [domestic tourism marketing campaign](https://www.travelweekly-asia.com/Destination-Travel/Support-local-Thailand-to-promote-domestic-tourism-in-second-tier-cities) to help them recover from the impact of Covid-19 crisis. 
+
+In 2018 and 2019, residents who travelled to cities in 55 second-tier provinces, such as **Chiang Rai and Ranong**, could also [claim income tax deductions of up to THB $15,000 (approximately USD $479)](https://www.bangkokpost.com/business/1663680/tax-break-for-second-tier-provinces-stays) based on their accommodation, food, tour guide and other expenses. Companies could also [apply for corporate tax deductions](https://www.nationthailand.com/Travel_log/30335871) if they spent money on organising staff training seminars in the 55 provinces. 
+
+---
+
+#### **10: Connecting cities** 
+
+Secondary cities can also get a shot in the arm by co-investing in high-speed railways to connect them to major cities. Since the high-speed rail line between Paris and Bordeaux in France opened in 2017, reducing the travel time between them from three and a half hours to about two hours, the number of train passengers going from Paris and its surrounding areas to Bordeaux per year has [increased by 78 percent as of 2019](https://www.lisea.fr/wp-content/uploads/2020/06/LISEA_Activity-report-2019.pdf). 
+
+With the success of the Paris-Bordeaux line, [another high-speed railway to link Bordeaux to London in Britain is in the works](https://www.independent.co.uk/news/world/europe/london-bordeaux-trains-high-speed-rail-france-sncf-a9381056.html), and could begin operating by 2022. **<font color="#967942">O</font>**
