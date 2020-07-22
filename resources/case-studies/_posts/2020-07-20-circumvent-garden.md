@@ -62,15 +62,15 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/work.png" alt="work" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/treez.png" alt="tree" /><br></td>
   <td style="text-align: left; vertical-align: top;"><br>120,000 new trees planted<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/wallet.png" alt="wallet" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/parkz.png" alt="park" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Public spaces increased<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/leisure.png" alt="leisure" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/farmerz.png" alt="farmer" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>2,500 local residents trained in agro-ecology<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/worker.png" alt="worker" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/pathz.png" alt="path" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>3.8km of ‘Path of Life’ footpath built<br></td>
 </tr>
 </tbody>
