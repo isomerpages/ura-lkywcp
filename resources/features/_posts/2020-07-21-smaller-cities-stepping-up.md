@@ -11,7 +11,7 @@ description: More secondary cities are taking the initiative to attract new resi
 
 ***More secondary cities are taking the initiative to attract new residents and businesses, either by themselves or with the help of their national governments. From free land for newcomers to support in finding jobs, housing and schools, these are 10 ways that the cities are stepping up to the plate.***
 
-![Urban farming](/images/features/2020/making-most-out-of-airspace.jpg/)*Illustration: irstone © 123rf.com*
+![How smaller cities are stepping up](/images/features/2020/smaller-cities.jpg/)*Illustration: bloomua © 123rf.com*
 
 #### **01: A national effort**
 
@@ -33,8 +33,6 @@ Other secondary cities are dipping into their budgets to attract new residents. 
 
 Cities in Grant County, Washington, such as Quincy, Ephrata, and Warden, for their part, have a [‘Grant for Grads’ initiative](https://givetogrant.org/grant-for-grads/) that awards graduates from colleges, universities and technical schools up to USD $5,000 to buy a home in them. Those who want to rent a flat or home are given monthly payments equivalent to 20 percent of their rents, up to a total of USD $2,500. 
 
-![Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus](/images/features/2020/drone-covid2.jpg/)*Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus. Photo: Vasilis Ververidis © 123rf.com*
-
 ---
 
 #### **04: Land for relocation**
@@ -44,6 +42,8 @@ With housing at a premium in many major cities in the United States, **Plainvill
 Newcomers to Curtis, on the other hand, can [apply for free commercial and industrial sites and government grants to set up their businesses](https://www.curtisnebraska.com/copy-of-medicine-valley-economic-de). Families are also eligible for free residential lots, grants of up to USD $4,000 to help them pay for the construction of their homes, and up to USD $1,000 in cash if they have at least one child. 
 
 ---
+
+![The small city of Cottbus in Germany](/images/features/2020/cottbus.jpg/)*The small city of Cottbus in Germany. Photo: Henryk Sadura © 123rf.com*
 
 #### **05: Easing the transition**
 
