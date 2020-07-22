@@ -2,11 +2,11 @@
 title: Advancing pedagogical urbanism in Medellín's Circumvent Garden
 permalink: /resources/case-studies/circumvent-garden/
 image: /images/features/2020/suzhou-children.jpg
-description: Pedagogical urbanism refers to how transformed public spaces can teach residents on how to connect with one another and become more engaged citizens. The Circumvent Garden in Medellín illustrates how illegal settlers were converted into active players in the city's transformation. 
+description: Pedagogical urbanism refers to how transformed public spaces can teach residents on how to connect with one another and become more engaged citizens. The Circumvent Garden in Medellín demonstrates how illegal settlers were converted into active players in the city's transformation. 
 
 ---
 
-***Pedagogical urbanism refers to how transformed public spaces can teach residents on how to connect with one another and become more engaged citizens. The Circumvent Garden in Medellín illustrates how illegal settlers were converted into active players in the city's transformation.*** 
+***Pedagogical urbanism refers to how transformed public spaces can teach residents on how to connect with one another and become more engaged citizens. The Circumvent Garden in Medellín demonstrates how illegal settlers were converted into active players in the city's transformation.*** 
 
 <br>
 
