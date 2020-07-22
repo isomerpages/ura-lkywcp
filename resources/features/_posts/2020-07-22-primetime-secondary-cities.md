@@ -11,7 +11,7 @@ description: Smaller cities known as secondary cities are increasingly stepping 
 
 ***Smaller cities known as secondary cities are increasingly stepping into the limelight and partnering with one another and larger cities to boost their development, as nations seek to reduce the population pressure on their major cities and add new economic growth engines.***
 
-![Aerial view of a train yard](/images/features/2020/secondary-cities.jpg/)*Cities are exploring the possibilities of making use of the airspace above their train yards. Photo: Tewin Kijthamrongworakul © 123rf.com*
+![Vietnam's Cần Thơ is one of the world's fastest-growing small cities](/images/features/2020/secondary-cities.jpg/)*Vietnam's Cần Thơ is one of the world's fastest-growing small cities. Photo: Brian Scantlebury © 123rf.com*
 
 Major cities such as London, New York and Paris have dominated the cultural space and been the dream destinations of many migrants, but smaller secondary cities are increasingly taking their place in the sun. Such cities are [typically defined as having 500,000 to three million residents](https://www.weforum.org/agenda/2016/02/who-has-the-largest-migrant-population/), or [less than half of the population of their nations’ largest cities](https://www.citiesalliance.org/how-we-work/our-themes/secondary-cities), and they [currently produce about 15 percent of the world’s gross domestic product and serve as conduits and hubs for global and national supply chains.](https://www.citiesalliance.org/sites/default/files/2019-11/Connecting%20Systems%20of%20Secondary%20Systems%202%20pager.pdf)      
 
@@ -33,6 +33,8 @@ Another redistributive effort is taking place in China, between capital Beijing,
 
 Between 2014 and 2018, [more than CNY $1.8 trillion (approximately USD $257.5 billion) of capital flowed from Beijing and Tianjin to Hebei](http://www.chinadaily.com.cn/a/201902/25/WS5c73b633a3106c65c34eb4c8.html). Beijing Hyundai, an automotive company based in Beijing, opened a plant in Cangzhou, generating over 6,000 jobs and attracting about 20 supporting companies to the city. “More of Beijing’s low-end industries are likely to be transferred to Hebei,” the government added. 
 
+![A highspeed railway from capital city Jakarta could help spur the smaller city of Bandung](/images/features/2020/bandung-city.jpg/)*A highspeed railway from capital city Jakarta could help spur the development of smaller city of Bandung. Photo: ximagination © 123rf.com*
+
 #### **Making the connection**
 
 As major cities aim to rein in their growing populations and smaller cities around them try to increase theirs, investing in more and faster transport links between them could accomplish both of these goals. In 2019, the Australian national government created a [National Faster Rail Agency](https://www.nfra.gov.au/about) and unveiled a [20-year ‘Faster Rail Plan’](https://investment.infrastructure.gov.au/files/national_rail_program/Faster-Rail-Plan.pdf) to build high-speed connections between its states’ capitals and their secondary cities.
@@ -40,6 +42,8 @@ As major cities aim to rein in their growing populations and smaller cities arou
 The government has committed AUD $2 billion (approximately USD $1.4 billion) to deliver faster rail service between Melbourne and Geelong that will cut the travel time from about one hour to half an hour. The project’s details are being finalised. It is also studying other connections, from Melbourne to Greater Shepparton, Sydney to Newcastle, and Brisbane to the Sunshine Coast, Moreton Bay and Toowoomba. Furthermore, it will set aside AUD $40 million (approximately USD $27.8 million) to investigate the economic viability of high-speed rail lines from those three state capitals to other cities and regions.
 
 In Indonesia, [a high-speed railway between capital Jakarta and the secondary city of Bandung](https://www.pwc.com/id/en/media-centre/infrastructure-news/june-2020/no-changes-to-completion-target-high-speed-railway-and-patimban-projects-to-carry-on.html) is also expected to yield dividends for both areas when it is completed in 2022. [By slashing the travel time between them from more than three hours by train to about 40 minutes](https://www.straitstimes.com/asia/se-asia/south-east-asias-first-high-speed-rail-ready-for-construction-china-railway-corp), the 142-kilometre railway could spur people to live in Bandung and other cities along its route instead of Jakarta, boosting the smaller cities’ economies and limiting the population growth in the capital. To make the project more economical and expand its benefits, [Indonesia’s President Joko Widodo has also approved plans to extend the railway](https://jakartaglobe.id/business/jokowi-wants-jakartabandung-fast-train-to-extend-to-surabaya) to Surabaya, another secondary city.
+
+> "Secondary cities are the key to more inclusive growth, with opportunities distributed equitably across the whole of society, rather than concentrated in a few exclusive hubs."
 
 #### **Stronger together**
 
