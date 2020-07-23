@@ -11,7 +11,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 <br>
 
 | **City** | Medellín |
-| **Type** | Urban regeneration/ social programmes |
+| **Type** | Urban regeneration/social programmes |
 | **Completion** | 2030 |
 | **Size** | 11,110 ha |
 | **Scale** | Large |
