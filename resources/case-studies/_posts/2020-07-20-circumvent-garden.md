@@ -27,6 +27,8 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Key issues faced before the implementation of the project**
 
+![Path of Life](/images/features/2020/circumvent-garden-path.jpg/)*Path of Life. Photo: ACI Medellín*
+
 - Indiscriminate use of land and expansion of the urban-rural periphery have resulted in the degradation of the ecosystem and loss of natural groundcover, exposing the area to adverse weather events and increased geological risk. 
 - Serious socio-spatial segregation, with the poorest and most marginalised communities living in illegal hillside settlements. 
 - Inaccessibility of these informal settlements leading to their disconnection from the rest of the city.
@@ -36,7 +38,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Leadership and governance**
 
-![Path of Life](/images/features/2020/circumvent-garden-path.jpg/)*Path of Life. Photo: ACI Medellín*
+![Inclusive workforce](/images/features/2020/inclusive-workforce.jpg/)*An inclusive workforce to transform the area. Photo: ACI Medellín*
 
 - Medellín emphasises good governance, transparency, social security and a participative society, with a strong common focus on improving quality of life, especially in its poorest areas.
 - Recognising that citizen participation is important for good governance, the city leaders prioritised equal opportunities for all for a comprehensive human development. The development of the Circumvent Garden is an example of how even illegal settlers were given equal opportunities. 
@@ -47,7 +49,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Creativity and innovation**
 
-![Training residents at Circumvent Garden](/images/features/2020/circumvent-garden-training.jpg/)*A centre to train residents at Circumvent Garden. Photo: ACI Medellín*
+![Training residents at Circumvent Garden](/images/features/2020/community-training.jpg/)*A centre to train residents at Circumvent Garden. Photo: ACI Medellín*
 
 - The Circumvent Garden controls further urban expansion by defining the city limits, setting a physical boundary beyond which building is not allowed. 
 - The city took the unusual step of legalising existing informal settlements that were structurally sound and improving them, rather than evicting them. Those at risk of landslides are relocated within the same neighbourhood under a ‘sustainable neighbourhood’ programme. 
