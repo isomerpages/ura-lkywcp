@@ -19,8 +19,8 @@ sections:
             - title: Resources 
               description: Latest city-related features
               url: /resources/
-            - title: Newsletter
-              description: Subscribe to our monthly newsletter
+            - title: Sign up
+              description: Get our latest news in your inbox
               url: https://mailchi.mp/ura/lkywcp-newsletter
     - carousel:
         - title: Seoul

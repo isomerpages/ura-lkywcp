@@ -79,7 +79,7 @@ description: Besides economic development and environmental protection, the 2014
 - The social insurance system of both urban and rural areas is optimised, with all permanent residents having access to high standard of medical care. Seniors are also provided with old-age insurance. 
 - In 2012, 15,772 public rental houses were added. Over 700,000 houses were built, reconstructed, rented and incorporated into housing management for 2.15 million non-native residents, account for 33% of all housing. 83,000 households also received housing loan amounting to a total value of RMB 20.55 billion (approximately USD $3.34 billion). 
 - The number of non-native students in public schools reached 227,900 in 2012.
-As a result of its social policies, Suzhou has been awarded as the most popular city for migrant workers nationwide. 
+- As a result of its social policies, Suzhou has been awarded as the most popular city for migrant workers nationwide. 
 
 ---
 
