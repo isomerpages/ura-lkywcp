@@ -1,4 +1,4 @@
----
+zzzz---
 title: Primetime for secondary cities
 permalink: /resources/features/primetime-secondary-cities/
 image: /images/features/2020/secondary-cities.jpg
@@ -33,7 +33,7 @@ Another redistributive effort is taking place in China, between capital Beijing,
 
 Between 2014 and 2018, [more than CNY $1.8 trillion (approximately USD $257.5 billion) of capital flowed from Beijing and Tianjin to Hebei](http://www.chinadaily.com.cn/a/201902/25/WS5c73b633a3106c65c34eb4c8.html). Beijing Hyundai, an automotive company based in Beijing, opened a plant in Cangzhou, generating over 6,000 jobs and attracting about 20 supporting companies to the city. “More of Beijing’s low-end industries are likely to be transferred to Hebei,” the government added. 
 
-![A highspeed railway from capital city Jakarta could help spur the smaller city of Bandung](/images/features/2020/bandung-city.jpg/)*A highspeed railway from capital city Jakarta could help spur the development of smaller city of Bandung. Photo: ximagination © 123rf.com*
+> "Secondary cities are the key to more inclusive growth, with opportunities distributed equitably across the whole of society, rather than concentrated in a few exclusive hubs."
 
 #### **Making the connection**
 
@@ -43,7 +43,7 @@ The government has committed AUD $2 billion (approximately USD $1.4 billion) to 
 
 In Indonesia, [a high-speed railway between capital Jakarta and the secondary city of Bandung](https://www.pwc.com/id/en/media-centre/infrastructure-news/june-2020/no-changes-to-completion-target-high-speed-railway-and-patimban-projects-to-carry-on.html) is also expected to yield dividends for both areas when it is completed in 2022. [By slashing the travel time between them from more than three hours by train to about 40 minutes](https://www.straitstimes.com/asia/se-asia/south-east-asias-first-high-speed-rail-ready-for-construction-china-railway-corp), the 142-kilometre railway could spur people to live in Bandung and other cities along its route instead of Jakarta, boosting the smaller cities’ economies and limiting the population growth in the capital. To make the project more economical and expand its benefits, [Indonesia’s President Joko Widodo has also approved plans to extend the railway](https://jakartaglobe.id/business/jokowi-wants-jakartabandung-fast-train-to-extend-to-surabaya) to Surabaya, another secondary city.
 
-> "Secondary cities are the key to more inclusive growth, with opportunities distributed equitably across the whole of society, rather than concentrated in a few exclusive hubs."
+![A highspeed railway from capital city Jakarta could help spur the smaller city of Bandung](/images/features/2020/bandung-city.jpg/)*A highspeed railway from capital city Jakarta could help spur the development of smaller city of Bandung. Photo: ximagination © 123rf.com*
 
 #### **Stronger together**
 
