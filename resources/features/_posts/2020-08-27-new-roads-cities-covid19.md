@@ -19,7 +19,7 @@ Although this ’Stay Healthy Streets‘ initiative was intended to be a tempora
 
 Across the world, cities are adapting to the pressures of the pandemic and taking steps to protect their citizens’ health. The disruption caused by the coronavirus, however, has also given them a rare window to reinvent their land use. Nowhere is this more apparent than in the streets. Cities are introducing new plans and accelerating existing ones to repurpose their roads for a variety of uses, not only to satisfy the need for physical distancing but to lay the groundwork for a more resilient, sustainable and healthier future.
 
-> "We must invest in a sustainable, resilient and equitable recovery, not only to address the immediate Covid-19 pandemic, but to ensure that we are prepared for future shocks."
+> "As we rebuild our city, we have the opportunity to build lasting, positive change towards a more liveable, safer city for all."
 
 #### **Making room for safe distancing**
 
@@ -42,6 +42,8 @@ The city of Montreal in Canada, for its part, has started limiting traffic on se
 In a similar bid to give pedestrians and cyclists more space, Madrid in Spain will [trial a car-lite area within its central Salamanca or Retiro districts by the end of this year](https://translate.google.com/translate?hl=en&sl=es&u=https://elpais.com/sociedad/2020-06-27/supermanzanas-o-como-devolver-al-peaton-la-ciudad-robada-por-los-coches.html&prev=search&pto=aue), by redirecting almost all road traffic within 12 adjacent blocks of buildings to their perimeter. Although residents who live within the car-lite zone will be allowed to drive in and out of it, their vehicular speed limit will be lowered to 10 kilometres per hour for pedestrians’ safety. If the pilot project is successful, the city will expand it to other neighbourhoods. Both Montreal and Madrid are [taking inspiration from the Spanish capital of Barcelona’s “superblocks”](https://theconversation.com/superblocks-barcelonas-car-free-zones-could-extend-lives-and-boost-mental-health-123295), which divert cars and public transport to the perimeter of nine-block grids. 
 
 Other cities, including Portland in the United States and Melbourne in Australia, are enacting similar plans. In Portland, for example, the authorities are [adding bicycle lanes to selected roads in some neighbourhoods](https://bikeportland.org/2020/06/25/pbot-has-funding-and-plan-to-vastly-improve-biking-in-northwest-317655) so that nearly all residents and shops are within 500 feet (approximately 150 metres) of one of the lanes.
+
+> "We must invest in a sustainable, resilient and equitable recovery, not only to address the immediate Covid-19 pandemic, but to ensure that we are prepared for future shocks."
 
 #### **Changing the city**
 
