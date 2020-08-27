@@ -11,7 +11,7 @@ description: As cities adapt to life in the COVID-19 era, many are seizing the m
 
 ***As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this first in a series of articles, we look at how cities are repurposing streets to make room for businesses, cyclists and pedestrians, transform travel and reinvent neighbourhoods.***
 
-![Vietnam's Cần Thơ is one of the world's fastest-growing small cities](/images/features/2020/secondary-cities.jpg/)*Vietnam's Cần Thơ is one of the world's fastest-growing small cities. Photo: Brian Scantlebury © 123rf.com*
+![Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes](/images/features/2020/milan-cycling.jpg/)*Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes. Photo: photolime © 123rf.com*
 
 As the Covid-19 coronavirus spread in the United States earlier this year, the city of Seattle, like many others, asked residents to stay at home and venture out only to buy groceries and exercise. To help those with no parks near them, the city closed over 20 miles (approximately 32 kilometres) of roads in areas with low car ownership and limited open space to most vehicles, so that people could walk, cycle and exercise outdoors1. 
 
