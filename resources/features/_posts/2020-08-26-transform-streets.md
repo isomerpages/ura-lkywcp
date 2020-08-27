@@ -53,13 +53,13 @@ Taking another approach to improve access to bicycles, **Chicago** in the United
 
 To motivate people to consider cycling for everyday journeys, the cities of **Glasgow and Edinburgh** in Scotland [made the shared bicycles in their cities temporarily free to rent for the first 30 minutes](https://www.polisnetwork.eu/article/glasgow-and-edinburgh-launch-temporary-free-bike-share/?id=122791). Edinburgh also [launched a discounted pass to its bicycle sharing programme](https://www.edinburghlive.co.uk/news/edinburgh-news/just-eat-bike-month-pass-18580042) that cost just GBP 10 (approximately USD $12) for four months’ access.
 
-Mr Michael Matheson, Scotland’s Cabinet Secretary for Transport, Infrastructure and Connectivity, [said at the launch of the free bicycle hire offer](https://www.glasgowchamberofcommerce.com/covid-19-hub/helping-your-city/2020/july/28/glasgow-saddles-up-for-free-cycle-hire-offer/): “We have seen increased rates of cycling and use of our public hire bicycle schemes across the lockdown period, and this offer will help maintain this shift in travel behaviour at a critical time in our Covid-19 response.” 
+Mr Michael Matheson, Scotland’s Cabinet Secretary for Transport, Infrastructure and Connectivity, [said at the launch of the free bicycle hire offer](https://www.glasgowchamberofcommerce.com/covid-19-hub/helping-your-city/2020/july/28/glasgow-saddles-up-for-free-cycle-hire-offer/): “We have seen increased rates of cycling and use of our public hire bicycle schemes across the lockdown period, and this offer will help maintain this shift in travel behaviour at a critical time in our COVID-19 response.” 
 
 ---
 
 #### **07: Beyond bicycles**
 
-In July, the city of **Middlesbrough** became the first in Britain to [introduce an electric scooter rental programme](https://www.theguardian.com/environment/2020/jul/03/e-scooters-go-on-trial-in-middlesbrough-to-aid-uks-green-recovery) after the country legalised their use on roads in a bid to reduce the return to cars in the wake of the Covid-19 crisis. [The scooters have a top speed of 12.5 miles](https://www.bbc.com/news/uk-england-tees-53649361) (approximately 20 kilometres) per hour, and renters must be at least 18 years old. 
+In July, the city of **Middlesbrough** became the first in Britain to [introduce an electric scooter rental programme](https://www.theguardian.com/environment/2020/jul/03/e-scooters-go-on-trial-in-middlesbrough-to-aid-uks-green-recovery) after the country legalised their use on roads in a bid to reduce the return to cars in the wake of the COVID-19 crisis. [The scooters have a top speed of 12.5 miles](https://www.bbc.com/news/uk-england-tees-53649361) (approximately 20 kilometres) per hour, and renters must be at least 18 years old. 
 
 With the programme’s success, the neighbouring cities of Hartlepool and Redcar have started similar rental schemes. Ms Rachel Maclean, Britain’s Minister for the Future of Transport and Decarbonisation, [said that the government is assessing the cities’ experience](https://sg.news.yahoo.com/uk-allows-e-scooter-rentals-195831005.html): “E-scooters may offer the potential for convenient, clean and cost-effective travel that also helps ease the burden on the transport network, provides another green alternative to get around and allows for social distancing.” 
 
@@ -67,7 +67,7 @@ With the programme’s success, the neighbouring cities of Hartlepool and Redcar
 
 #### **08: Slow down for safety**
 
-As part of its plan to protect the greater number of cyclists, pedestrians and other vulnerable road users that have emerged during the Covid-19 pandemic, **Dublin** in Ireland has proposed bylaws to [reduce the vehicular speed limit across the city and its suburbs](https://www.irishtimes.com/news/environment/coronavirus-speed-limits-to-be-cut-to-30km-h-across-dublin-city-council-roads-1.4268992) to 30 kilometres per hour, including on most major arterial roads.
+As part of its plan to protect the greater number of cyclists, pedestrians and other vulnerable road users that have emerged during the COVID-19 pandemic, **Dublin** in Ireland has proposed bylaws to [reduce the vehicular speed limit across the city and its suburbs](https://www.irishtimes.com/news/environment/coronavirus-speed-limits-to-be-cut-to-30km-h-across-dublin-city-council-roads-1.4268992) to 30 kilometres per hour, including on most major arterial roads.
 
 The proposal is currently in the public consultation stage, and the city aims to have the limit in place by the end of this year.   
 
@@ -75,7 +75,7 @@ The proposal is currently in the public consultation stage, and the city aims to
 
 #### **09: Adjusting traffic signals**
 
-**Brussels** in Belgium has [reprogrammed traffic lights at about 100 intersections](https://www.brusselstimes.com/brussels/105236/belgium-speeds-up-traffic-lights-due-empty-roads/) to favour cyclists and pedestrians too, with fewer cars on the city’s roads since the start of the Covid-19 pandemic. “Cyclists and pedestrians will have the green light longer and more often so we do not have jams at the lights,” said Brussels’ Minister for Mobility Elke Van den Brandt. Pedestrians who want to cross the usually busy Rue Belliard major street, for instance, will be able to wait up to 40 seconds less. 
+**Brussels** in Belgium has [reprogrammed traffic lights at about 100 intersections](https://www.brusselstimes.com/brussels/105236/belgium-speeds-up-traffic-lights-due-empty-roads/) to favour cyclists and pedestrians too, with fewer cars on the city’s roads since the start of the COVID-19 pandemic. “Cyclists and pedestrians will have the green light longer and more often so we do not have jams at the lights,” said Brussels’ Minister for Mobility Elke Van den Brandt. Pedestrians who want to cross the usually busy Rue Belliard major street, for instance, will be able to wait up to 40 seconds less. 
 
 ---
 
@@ -83,6 +83,6 @@ The proposal is currently in the public consultation stage, and the city aims to
 
 ![Crossing in Sydney](/images/features/2020/sydney-crossing.jpg/)*Crossing in Sydney. Photo: Kate Trifo*
 
-With more pedestrians in the city, **Sydney** in Australia has [deployed automated pedestrian crossing signals](https://transportnsw.info/news/2020/automated-pedestrian-crossings-in-nsw) to reduce their risk of contracting the Covid-19 coronavirus through second-hand contact. “Pedestrians no longer need to push a button to activate the signal, and can cross the road safely while limiting contact with high-touch surfaces,” the city said. About 270 intersections in 23 locations now have the automated signals.
+With more pedestrians in the city, **Sydney** in Australia has [deployed automated pedestrian crossing signals](https://transportnsw.info/news/2020/automated-pedestrian-crossings-in-nsw) to reduce their risk of contracting the COVID-19 coronavirus through second-hand contact. “Pedestrians no longer need to push a button to activate the signal, and can cross the road safely while limiting contact with high-touch surfaces,” the city said. About 270 intersections in 23 locations now have the automated signals.
 
 The city is also [trialling touchless infrared sensors for pedestrian crossings in other areas](https://www.zdnet.com/article/nsw-government-trials-touchless-pedestrian-crossing-sensors-to-minimise-covid-19-spread/), where people can activate the crossing signal by hovering a hand over the sensor instead of pressing a button. **<font color="#967942">O</font>**
