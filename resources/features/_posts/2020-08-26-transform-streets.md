@@ -81,6 +81,8 @@ The proposal is currently in the public consultation stage, and the city aims to
 
 #### **10: Contactless crossings** 
 
+![Crossing in Sydney](/images/features/2020/sydney-crossing.jpg/)*Crossing in Sydney. Photo: Kate Trifo*
+
 With more pedestrians in the city, **Sydney** in Australia has [deployed automated pedestrian crossing signals](https://transportnsw.info/news/2020/automated-pedestrian-crossings-in-nsw) to reduce their risk of contracting the Covid-19 coronavirus through second-hand contact. “Pedestrians no longer need to push a button to activate the signal, and can cross the road safely while limiting contact with high-touch surfaces,” the city said. About 270 intersections in 23 locations now have the automated signals.
 
 The city is also [trialling touchless infrared sensors for pedestrian crossings in other areas](https://www.zdnet.com/article/nsw-government-trials-touchless-pedestrian-crossing-sensors-to-minimise-covid-19-spread/), where people can activate the crossing signal by hovering a hand over the sensor instead of pressing a button. **<font color="#967942">O</font>**
