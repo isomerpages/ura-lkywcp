@@ -41,9 +41,9 @@ Furthermore, the city is [subsiding the cost of buying scooters](https://www.pol
 
 ---
 
-![Cycling in Chicago](/images/features/2020/chicago-cycling.jpg/)*Cycling in Chicago. Photo: Chait Goli*
-
 #### **05: Encouraging longer-term use**
+
+![Cycling in Chicago](/images/features/2020/chicago-cycling.jpg/)*Cycling in Chicago. Photo: Chait Goli*
 
 Taking another approach to improve access to bicycles, **Chicago** in the United States worked with its bike-share partner to offer steep membership discounts for its bicycle sharing programme. From March to May 2020, [the cost of an annual membership was halved](https://abc7chicago.com/divvy-free-rides-chicago-coronavirus-health-care-workers/6137214/) from USD $99 to USD $49.50, while the price of single rides was reduced from USD $3 to USD $1.
 
