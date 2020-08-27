@@ -19,7 +19,7 @@ Although this ’Stay Healthy Streets‘ initiative was intended to be a tempora
 
 Across the world, cities are adapting to the pressures of the pandemic and taking steps to protect their citizens’ health. The disruption caused by the coronavirus, however, has also given them a rare window to reinvent their land use. Nowhere is this more apparent than in the streets. Cities are introducing new plans and accelerating existing ones to repurpose their roads for a variety of uses, not only to satisfy the need for physical distancing but to lay the groundwork for a more resilient, sustainable and healthier future.
 
-Making room for safe distancing
+#### **Making room for safe distancing**
 
 Like Seattle, Vancouver in Canada and Milan in Italy are altering roads to make room for residents. Under its ’Making Streets for People‘ plan3, Vancouver has removed parking lots next to sidewalks and adapted curb lanes, which are the road lanes alongside pavements, so that businesses can set up or expand their outdoor seating areas, and customers can queue up farther apart from one another. These modifications will enable the shops to maintain their capacity while meeting the city’s physical distancing rules. The city has also lowered the speed limit for some streets to 30 kilometres per hour, and closed others to traffic entirely, for people to exercise outdoors safely. 
 
@@ -27,7 +27,7 @@ The government said that some of these temporary conversions, which includes rev
 
 Similarly, Milan is widening pedestrian paths and transforming 35 kilometres of streets into permanent cycling lanes between May and December 2020 to accommodate more active travel and improve access to parks and other public spaces4. It is also pedestrianising some streets adjacent to these public spaces to increase their capacity. “In our ‘new normal’, it is necessary to rethink the way we use streets, especially in neighbourhoods with fewer green areas, to increase the available space for children to play and exercise and to encourage organisers to host events outdoors,” the city said. 
 
-The new neighbourhood
+#### **The new neighbourhood**
 
 For some cities, the retooling of streets is a crucial component in ambitious plans to reimagine neighbourhoods. By constructing and connecting cycling lanes, or restricting traffic on groups of streets to produce car-lite or car-free zones, cities are making it easier and safer for people to cycle or walk to shops and services in their vicinity while observing social distancing. This will increase footfall to local businesses, aiding in their recovery from the impact of Covid-19. In the longer term, such neighbourhoods will also benefit from less motor-related noise and air pollution, and help to foster stronger bonds within communities.
 
@@ -39,7 +39,7 @@ In a similar bid to give pedestrians and cyclists more space, Madrid in Spain wi
 
 Other cities, including Portland in the United States and Melbourne in Australia, are enacting similar plans. In Portland, for example, the authorities are adding bicycle lanes to selected roads in some neighbourhoods so that nearly all residents and shops are within 500 feet (approximately 150 metres) of one of the lanes13.
 
-Changing the city
+#### **Changing the city**
 
 Among the most comprehensive transformations of roads is the one taking place in London, Britain. In May 2020, the city unveiled a project called ’London Streetspace’ to reshape its roads to handle a ten-fold increase in cycling and five-fold increase in walking14. 
 
