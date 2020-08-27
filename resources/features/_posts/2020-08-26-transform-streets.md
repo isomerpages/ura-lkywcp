@@ -41,7 +41,7 @@ Furthermore, the city is [subsiding the cost of buying scooters](https://www.pol
 
 ---
 
-![The small city of Cottbus in Germany](/images/features/2020/cottbus.jpg/)*The small city of Cottbus in Germany. Photo: Henryk Sadura © 123rf.com*
+![Cycling in Chicago](/images/features/2020/chicago-cycling.jpg/)*Cycling in Chicago. Photo: Chait Goli*
 
 #### **05: Encouraging longer-term use**
 
