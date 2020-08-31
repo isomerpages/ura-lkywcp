@@ -11,7 +11,7 @@ description: As cities repurpose streets to meet COVID-19 demands and beyond, s
 
 ***As cities repurpose streets to meet COVID-19 demands and beyond, several of them have introduced additional initiatives to support the shift in road use, such as subsidies for bicycles and bike repairs, dramatic reductions in speed limits to protect pedestrians, and more.***
 
-![10 cities that are transforming their streets](/images/features/2020/transform-streets.jpg/)*Illustration: zubada © 123rf.com*
+![10 cities that are transforming their streets](/images/features/2020/transform-streets.jpg/)*Illustration: stockgiu © 123rf.com*
 
 #### **01: Help for a rainy day**
 
