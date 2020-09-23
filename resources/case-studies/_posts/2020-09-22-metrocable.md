@@ -66,16 +66,16 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/water-tank.png" alt="water tank" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>20 sites identified<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/investment.png" alt="investment" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>COP 250,000 million investment<br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/metro.png" alt="metro" /><br></td>
+  <td style="text-align: left; vertical-align: top;"><br>Metro mobolised over 2 billion passengers<br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/time.png" alt="time" /><br></td>
+<td style="text-align: left; vertical-align: top;"><br>Travel time reduced<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/inhabitants.png" alt="inhabitants" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>1.6 million inhabitants benefited<br></td>
+<td style="text-align: left; vertical-align: top;"><br>230,000 residents at Santo Domingo benefited<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/public-spacez.png" alt="public space" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>165,000m<sup>2</sup> of new public spaces<br></td>
+<td style="text-align: left; vertical-align: top;"><br>New public spaces generated<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
