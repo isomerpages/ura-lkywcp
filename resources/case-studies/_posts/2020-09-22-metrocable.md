@@ -17,7 +17,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **In brief**
 
-![UVA La Libertad in Santa Elena](/images/features/2020/medellin-metrocable.jpg/)*UVA La Libertad in Santa Elena. Photo: Empresas Publicas de Medellín*
+![Children playing while the MetroCable soars overhead](/images/features/2020/medellin-metrocable.jpg/)*Children playing while the MetroCable soars overhead. Photo: ACI Medellín*
 
 - In 2004, Medellín introduced the MetroCable at Santo Domingo Savio – the world’s first cable car system for daily commuting, at a cost of USD $24 million. 
 - For the first time, the previously inaccessible and marginalised communities in this neighbourhood were given a direct access to the rest of the city, hence opening up a world of opportunities for them. 
@@ -27,7 +27,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Key issues faced before the implementation of the project**
 
-![Water tank compounds showing up as dark spots in the neighbourhoods](/images/features/2020/dark-spots.jpg/)*Water tank compounds showing up as dark spots in the neighbourhoods. Photo: Empresas Publicas de Medellín*
+![Construction of MetroCable Picacho](/images/features/2020/metrocable-picacho.jpg/)*Construction of MetroCable Picacho. Photo: ACI Medellín*
 
 - Located in the Aburrá Valley in the central Andes, Medellín saw a significant industrial boom in the mid-20th century, and an increase of its population by almost ten times, comprising mostly rural-urban migration at its peripherals. 
 - The city centre and the city’s richest population are located in the valley, well served by amenities. On the other hand, illegal settlements are located on inaccessible mountainous areas, lacking public spaces, transport options, and opportunities for education and employment. 
@@ -40,7 +40,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Leadership and governance**
 
-![UVA La Libertad in Santa Elena](/images/features/2020/uva-la-libertad.jpg/)*UVA La Libertad in Santa Elena. Photo: Empresas Publicas de Medellín*
+![MetroCable at Santo Domingo](/images/features/2020/metrocable-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore.*
 
 - The city set up the public transport company ‘Empresa de Transporte Masivo del Valle de Aburrá Limitada – Metro de Medellín Ltda’ in 1979 with the purpose of building, administrating and operating a mass transport system. 
 - To carry out this project, the Municipality of Medellín and the Department of Antioquia (province) started a joint venture with equal stakes, making the creation of the said company possible. 
@@ -53,7 +53,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Creativity and innovation**
 
-![UVA de Los Sueños](/images/features/2020/uva-los-suenos.jpg/)*UVA de Los Sueños. Photo: Empresas Publicas de Medellín*
+![A metro library](/images/features/2020/metro-library.jpg/)*A metro library. Photo: Urban Redevelopment Authority Singapore*
 
 - The Metro company recognised its role of social responsibility and has implemented various measures for greater social inclusion. For example, ‘Cultura Metro’ (Metro Culture) is an initiative where local guides are employed to educate the public on good public behaviour in metro stations and trains. Likewise, a ‘Metro Friends’ programme reaches out to children on how to take care of public spaces. 
 - Metro stations also double up as a node for quick access to information, with the integration of computer rooms, artworks celebrating local historic figures, small libraries, and open bookshelves where commuters can borrow books to read on the go and return later. 
@@ -91,7 +91,7 @@ The new Tranvia tram system connects some 60,000 people on a daily basis, along 
 
 #### **Replicable ideas**
 
-![UVA Versalles](/images/features/2020/uva-versalles.jpg/)*UVA Versalles. Photo: Empresas Publicas de Medellín*
+![Public spaces at the base of MetroCable pylons](/images/features/2020/metrocable-pylons.jpg/)*Public spaces at the base of MetroCable pylons. Photo: Urban Redevelopment Authority Singapore.*
 
 - The MetroCable was perceived as a success when it first opened in 2004. It has since inspired many other Latin American cities with similar topographies, such as Rio de Janeiro and La Paz, to adopt cable cars as a form of daily commuting public transport tool.  
 - Cities facing similar challenges could learn from Medellín’s approach of an integrated stakeholder engagement process, where all parties are involved in the planning of the MetroCable system to ensure its success and local buy-in. **<font color="#967942">O</font>**
