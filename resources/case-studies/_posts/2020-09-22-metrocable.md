@@ -40,7 +40,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Leadership and governance**
 
-![MetroCable at Santo Domingo](/images/features/2020/metrocable-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore.*
+![MetroCable at Santo Domingo](/images/features/2020/santo-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore.*
 
 - The city set up the public transport company ‘Empresa de Transporte Masivo del Valle de Aburrá Limitada – Metro de Medellín Ltda’ in 1979 with the purpose of building, administrating and operating a mass transport system. 
 - To carry out this project, the Municipality of Medellín and the Department of Antioquia (province) started a joint venture with equal stakes, making the creation of the said company possible. 
