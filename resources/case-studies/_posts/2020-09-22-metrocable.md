@@ -17,7 +17,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **In brief**
 
-![Children playing while the MetroCable soars overhead](/images/features/2020/medellin-metrocable.jpg/)*Children playing while the MetroCable soars overhead. Photo: ACI Medellín*
+![Children playing while the MetroCable soars overhead](/images/features/2020/metrocable-medellin.jpg/)*Children playing while the MetroCable soars overhead. Photo: ACI Medellín*
 
 - In 2004, Medellín introduced the MetroCable at Santo Domingo Savio – the world’s first cable car system for daily commuting, at a cost of USD $24 million. 
 - For the first time, the previously inaccessible and marginalised communities in this neighbourhood were given a direct access to the rest of the city, hence opening up a world of opportunities for them. 
