@@ -91,7 +91,7 @@ The new Tranvia tram system connects some 60,000 people on a daily basis, along 
 
 #### **Replicable ideas**
 
-![Public spaces at the base of MetroCable pylons](/images/features/2020/metrocable-pylons.jpg/)*Public spaces at the base of MetroCable pylons. Photo: Urban Redevelopment Authority Singapore.*
+![Public spaces at the base of MetroCable pylons](/images/features/2020/metrocable-pylon.jpg/)*Public spaces at the base of MetroCable pylons. Photo: Urban Redevelopment Authority Singapore.*
 
 - The MetroCable was perceived as a success when it first opened in 2004. It has since inspired many other Latin American cities with similar topographies, such as Rio de Janeiro and La Paz, to adopt cable cars as a form of daily commuting public transport tool.  
 - Cities facing similar challenges could learn from Medellín’s approach of an integrated stakeholder engagement process, where all parties are involved in the planning of the MetroCable system to ensure its success and local buy-in. **<font color="#967942">O</font>**
