@@ -2,11 +2,11 @@
 title: Connecting people to opportunities
 permalink: /resources/case-studies/metrocable/
 image: /images/features/2020/metrocable-medellin.jpg
-description: Medellín’s MetroCable is the first of its kind in the world – a cable car system designed as mass transit. It connects marginalised communities on inaccessible mountain areas to the city centre, opens opportunities to employment and education, and breaks down socioeconomic stratification.
+description: Medellín’s MetroCable is the first of its kind in the world – a cable car system designed as mass transit. It connects marginalised communities in inaccessible mountain areas to the city centre, opens opportunities to employment and education, and breaks down socioeconomic stratification.
 
 ---
 
-***Medellín’s MetroCable is the first of its kind in the world – a cable car system designed as mass transit. It connects marginalised communities on inaccessible mountain areas to the city centre, opens opportunities to employment and education, and breaks down socioeconomic stratification.*** 
+***Medellín’s MetroCable is the first of its kind in the world – a cable car system designed as mass transit. It connects marginalised communities in inaccessible mountain areas to the city centre, opens opportunities to employment and education, and breaks down socioeconomic stratification.*** 
 
 <br>
 
