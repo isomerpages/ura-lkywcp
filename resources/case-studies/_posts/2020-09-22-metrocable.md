@@ -40,7 +40,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Leadership and governance**
 
-![MetroCable at Santo Domingo](/images/features/2020/santo-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore.*
+![MetroCable at Santo Domingo](/images/features/2020/santo-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore*
 
 - The city set up the public transport company ‘Empresa de Transporte Masivo del Valle de Aburrá Limitada – Metro de Medellín Ltda’ in 1979 with the purpose of building, administrating and operating a mass transport system. 
 - To carry out this project, the Municipality of Medellín and the Department of Antioquia (province) started a joint venture with equal stakes, making the creation of the said company possible. 
@@ -91,7 +91,7 @@ The new Tranvia tram system connects some 60,000 people on a daily basis, along 
 
 #### **Replicable ideas**
 
-![Public spaces at the base of MetroCable pylons](/images/features/2020/metrocable-pylon.jpg/)*Public spaces at the base of MetroCable pylons. Photo: Urban Redevelopment Authority Singapore.*
+![Public spaces at the base of MetroCable pylons](/images/features/2020/metrocable-pylon.jpg/)*Public spaces at the base of MetroCable pylons. Photo: Urban Redevelopment Authority Singapore*
 
 - The MetroCable was perceived as a success when it first opened in 2004. It has since inspired many other Latin American cities with similar topographies, such as Rio de Janeiro and La Paz, to adopt cable cars as a form of daily commuting public transport tool.  
 - Cities facing similar challenges could learn from Medellín’s approach of an integrated stakeholder engagement process, where all parties are involved in the planning of the MetroCable system to ensure its success and local buy-in. **<font color="#967942">O</font>**
