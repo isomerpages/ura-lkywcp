@@ -14,76 +14,82 @@ description: With the COVID-19 pandemic exposing and widening digital divides am
 
 ![10 ways to close the digital gap](/images/features/2020/closing-digital-gap.jpg/)*Illustration: [Freepik](http://www.freepik.com)*
 
-#### **01: Help for a rainy day**
+#### **01: A public television service**
 
-To enable eateries to maintain their capacity amidst physical distancing rules, the city of **Liverpool** in Britain has [widened pavements and pedestrianised streets](https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-reimagined-outdoor-seating-road-18457753) to make it easier for them to set up or expand outdoor seating areas. Still, some of them may not have suitable furniture and equipment, such as heaters and parasols to keep patrons comfortable during cold and rainy days.
+Mindful that some students may not have computers or laptops at home, the national government in **Austria** worked with public television stations to [broadcast educational programmes](https://www.worldbank.org/en/topic/edutech/brief/how-countries-are-using-edtech-to-support-remote-learning-during-the-covid-19-pandemic) for students during their school closures from March to May 2020, with episodes for pre-school and primary school children airing from 6 am to 9 am and those for students aged 10 and older being shown from 9 am to 12 pm.
 
-To solve this problem, the city launched a [GBP 450,000 (approximately USD $580,000) fund](https://liverpoolexpress.co.uk/liverpool-without-walls-has-it-covered/) in June 2020 to defray the cost of such items for small-and-medium-sized eateries. By July 2020, it had disbursed about 40 percent of the fund, which supported the recipients in adding outdoor seating for about 2,000 customers. It is currently processing applications for the rest of the fund.  
-
----
-
-#### **02: Public spaces to the rescue**
-
-In the Lithuanian capital of **Vilnius**, on the other hand, the narrow streets in the city’s old town has made it almost impossible for restaurants, bars and cafes there to expand outdoors. To give these businesses more space to meet safe distancing requirements, the city has [offered them its public spaces free-of-charge to establish outdoor seating](https://vilnius.lt/en/2020/05/06/giving-away-public-spaces-of-the-city-to-outdoor-cafes/). As of June 2020, about [400 eateries have taken up the invitation](https://www.thejakartapost.com/news/2020/06/15/public-space-a-lifeline-for-post-lockdown-cities.html).
+In **Mexico**, with schools still closed, the government has also [recorded lessons](https://edition.cnn.com/2020/08/22/americas/mexico-covid-19-classes-on-tv-intl/index.html) for pre-kindergarten to high school students and partnered with different broadcasters to televise them around the clock, so that the children and youth can tune in at their convenience.   
 
 ---
 
-#### **03: Discounts and more**
+#### **02: Rounding up resources**
 
-To spur people to make use of cycling lanes, residents in **Paris**, France, and other French cities can go to selected bicycle shops to [get a discount of up to EUR 50 (approximately USD $59) on their bike repairs](https://www.bicycling.com/news/a32369097/france-bike-repairs-50-euros/) or for purchases of some safety equipment and accessories, including helmets, lights and locks. The initiative is part of a national programme that will also increase the number of bicycle parking lots and subsidise cycling lessons. 
+Ahead of its school closures which started in March 2020, the government of **Argentina** produced and collated video lessons, self-learning resources, suggestions for learning activities, documentaries and other digital educational materials on its [Ministry of Education’s website](https://www.educ.ar/). 
 
----
-
-#### **04: Boosting bike-sharing**
-
-The city of **Madrid** in Spain is also supporting a shift towards cycling, by [adding nearly 5,000 electric bicycles to its bicycle sharing programme](https://www.polisnetwork.eu/article/madrid-announces-new-e-bikes-to-keep-city-moving-post-lockdown/?id=122791), increasing its capacity by three-fold. 
-
-Furthermore, the city is [subsiding the cost of buying scooters](https://www.polisnetwork.eu/article/madrid-offers-financial-support-for-citizens-to-buy-bikes/?id=122791) by up to EUR 150, bicycles by up to EUR 500, mopeds by up to EUR 600, and electric motorcycles by up to EUR 750 (approximately USD $177, USD $589, USD $707 and USD $884 respectively). 
+To broaden access to the materials, it also worked with the country’s telecommunications firms to [permanently zero-rate the website](https://www.worldbank.org/en/topic/edutech/brief/how-countries-are-using-edtech-to-support-remote-learning-during-the-covid-19-pandemic), which means that browsing the content does not consume data. It also created nine different physical notebooks with learning resources, for students from pre-primary to secondary schools, and delivered them to households with no Internet access.
 
 ---
 
-#### **05: Encouraging longer-term use**
+#### **03: Creating community hubs**
+
+With schools in **San Francisco** in the United States set to remain shut until at least the end of this year, the city is taking a different approach to help students who lack Internet access or digital devices at home. It is converting more than 40 recreation centres, libraries, cultural centres and other public facilities to act as [‘Community Learning Hubs’](https://sfmayor.org/article/mayor-london-breed-announces-community-learning-hubs-support-distance-learning-and-extension) from September 2020 until schools reopen.
+
+The hubs will observe safe distancing while providing free full-day learning programmes, computers and healthy food for up to 6,000 youth and children, with priority given to those in public housing, foster care, low-income households and other disadvantaged communities.
+
+---
+
+#### **04: Devices for donation**
+
+**Kansas City** in the United States is calling on businesses to aid in bridging the digital divide. In a permanent programme called the [‘Employer Laptop Challenge’](https://www.kansascityfed.org/community/employer-laptop-challenge) launched in April 2020, it is asking companies and other organisations to donate used laptops, tablets or computers to designated non-profit refurbishers who will repair, reset and clean them before giving them to schools, non-profit groups and lower-income families. 
+
+As of early September 2020, the programme has [redirected more than 1,800 of the electronic devices to those who need them](https://www.kansascityfed.org/publications/community/connections/articles/2020/elc%20-%20donor%20interviews%20sept%202020). 
+
+---
+
+#### **05: Help to work from home**
 
 ![Cycling in Chicago](/images/features/2020/chicago-cycling.jpg/)*Cycling in Chicago. Photo: Chait Goli*
 
-Taking another approach to improve access to bicycles, **Chicago** in the United States worked with its bike-share partner to offer steep membership discounts for its bicycle sharing programme. From March to May 2020, [the cost of an annual membership was halved](https://abc7chicago.com/divvy-free-rides-chicago-coronavirus-health-care-workers/6137214/) from USD $99 to USD $49.50, while the price of single rides was reduced from USD $3 to USD $1.
+With more companies turning to remote working temporarily or permanently since the start of the COVID-19 pandemic, some countries are subsidising the cost of such transitions for small and medium enterprises who cannot afford them otherwise. In **Japan**, the government committed in March 2020 to [pay half of the cost of equipment for remote working for such businesses](https://www.japantimes.co.jp/opinion/2020/03/05/editorials/use-coronavirus-crisis-promote-teleworking/), up to a cap of JPY 1 million (approximately USD $9,400) per firm.
 
 ---
 
-#### **06: Ride for free**
+#### **06: A virtual boost**
 
-To motivate people to consider cycling for everyday journeys, the cities of **Glasgow and Edinburgh** in Scotland [made the shared bicycles in their cities temporarily free to rent for the first 30 minutes](https://www.polisnetwork.eu/article/glasgow-and-edinburgh-launch-temporary-free-bike-share/?id=122791). Edinburgh also [launched a discounted pass to its bicycle sharing programme](https://www.edinburghlive.co.uk/news/edinburgh-news/just-eat-bike-month-pass-18580042) that cost just GBP 10 (approximately USD $12) for four months’ access.
+To give small businesses a better chance of surviving the COVID-19 pandemic and prospering afterwards, **Detroit** in the United States is [offering them a free virtual course](https://nextcity.org/daily/entry/digital-detroit-works-bridge-digital-divide-for-small-and-micro-businesses) in website development, branding, content creation and other areas to advertise their products and services online. About 100 firms underwent the five-week pilot programme that concluded in July 2020, and the goal is to scale up the course to get 10,000 small businesses online. 
 
-Mr Michael Matheson, Scotland’s Cabinet Secretary for Transport, Infrastructure and Connectivity, [said at the launch of the free bicycle hire offer](https://www.glasgowchamberofcommerce.com/covid-19-hub/helping-your-city/2020/july/28/glasgow-saddles-up-for-free-cycle-hire-offer/): “We have seen increased rates of cycling and use of our public hire bicycle schemes across the lockdown period, and this offer will help maintain this shift in travel behaviour at a critical time in our COVID-19 response.” 
-
----
-
-#### **07: Beyond bicycles**
-
-In July, the city of **Middlesbrough** became the first in Britain to [introduce an electric scooter rental programme](https://www.theguardian.com/environment/2020/jul/03/e-scooters-go-on-trial-in-middlesbrough-to-aid-uks-green-recovery) after the country legalised their use on roads in a bid to reduce the return to cars in the wake of the COVID-19 crisis. [The scooters have a top speed of 12.5 miles](https://www.bbc.com/news/uk-england-tees-53649361) (approximately 20 kilometres) per hour, and renters must be at least 18 years old. 
-
-With the programme’s success, the neighbouring cities of Hartlepool and Redcar have started similar rental schemes. Ms Rachel Maclean, Britain’s Minister for the Future of Transport and Decarbonisation, [said that the government is assessing the cities’ experience](https://sg.news.yahoo.com/uk-allows-e-scooter-rentals-195831005.html): “E-scooters may offer the potential for convenient, clean and cost-effective travel that also helps ease the burden on the transport network, provides another green alternative to get around and allows for social distancing.” 
+Ms Charity Dean, Director of the city’s Civil Rights, Inclusion and Opportunity Department, said: “Many small businesses do not have the budget to invest in branding and website development, especially during this time when it is uncertain if they will be able to cover payroll and common business expenses. We are doing everything in our power to fill in the gaps for them.”
 
 ---
 
-#### **08: Slow down for safety**
+#### **07: Signing up stallholders**
 
-As part of its plan to protect the greater number of cyclists, pedestrians and other vulnerable road users that have emerged during the COVID-19 pandemic, **Dublin** in Ireland has proposed bylaws to [reduce the vehicular speed limit across the city and its suburbs](https://www.irishtimes.com/news/environment/coronavirus-speed-limits-to-be-cut-to-30km-h-across-dublin-city-council-roads-1.4268992) to 30 kilometres per hour, including on most major arterial roads.
+The city-state of **Singapore** is betting that a personal approach and financial incentives will persuade all 18,000 stallholders in its hawker food centres and markets to adopt a national electronic payment solution called the [‘Singapore Quick Response Code’](https://www.channelnewsasia.com/news/singapore/1000-digital-ambassadors-recruit-help-stallholders-seniors-12789146) by June 2021. This system reduces the handling of cash, minimising the risk of Covid-19 infections, and leads to more seamless transactions.
 
-The proposal is currently in the public consultation stage, and the city aims to have the limit in place by the end of this year.   
-
----
-
-#### **09: Adjusting traffic signals**
-
-**Brussels** in Belgium has [reprogrammed traffic lights at about 100 intersections](https://www.brusselstimes.com/brussels/105236/belgium-speeds-up-traffic-lights-due-empty-roads/) to favour cyclists and pedestrians too, with fewer cars on the city’s roads since the start of the COVID-19 pandemic. “Cyclists and pedestrians will have the green light longer and more often so we do not have jams at the lights,” said Brussels’ Minister for Mobility Elke Van den Brandt. Pedestrians who want to cross the usually busy Rue Belliard major street, for instance, will be able to wait up to 40 seconds less. 
+In June 2020, the city tasked 1,000 full-time staff and part-time volunteers with encouraging the stallholders to install the system. Until May 2021, the stallholders will also receive SGD $300 (approximately USD $219) for each month where they complete at least 20 transactions worth at least SGD $1 (approximately USD $0.70) each on the system, up to a maximum of five pay-outs. As of mid-August 2020, [nearly a third of them have signed up to use the system](https://www.straitstimes.com/tech/nearly-a-third-of-18000-stalls-in-hawker-centres-and-markets-now-offer-e-payments). 
 
 ---
 
-#### **10: Contactless crossings** 
+#### **08: Reaching out to the elderly**
+
+Elderly citizens, especially those who live alone, are among the most vulnerable to the COVID-19 coronavirus and the isolation caused by movement restrictions. In May 2020, **New York City** in the United States [distributed tablets with Internet connectivity](https://www1.nyc.gov/assets/cto/#/project/connected-nycha-older-adults) paid for by the city to 10,000 of them who are living in its public housing units, so that they can stay connected with family and friends.
+
+Staff from the city’s Department for the Aging and Older Adults Technology Services set up the tablets for them and showed them how to operate the devices, access free classes and other resources, and communicate with their loved ones. 
+
+---
+
+#### **09: All in on inclusivity**
+
+In August 2020, the Spanish city of **Barcelona** announced that it would spend EUR 700,000 (approximately USD $828,000) by the end of the year on [a range of digital inclusivity measures](https://www.barcelona.cat/en/noticia/more-resources-to-combat-the-digital-divide_979064) to tackle inequalities underlined by the COVID-19 pandemic1. 
+
+Among the upcoming projects are a survey to map neighbourhoods’ and households’ access to the Internet and identify people’s digital needs, the improvement of Wi-Fi networks at public facilities, and the deployment of staff to help more residents learn how to access digital government services and use basic apps for videoconferencing and other business purposes.
+
+---
+
+#### **10: Ensuring equal access** 
 
 ![Crossing in Sydney](/images/features/2020/sydney-crossing.jpg/)*Crossing in Sydney. Photo: Kate Trifo*
 
-With more pedestrians in the city, **Sydney** in Australia has [deployed automated pedestrian crossing signals](https://transportnsw.info/news/2020/automated-pedestrian-crossings-in-nsw) to reduce their risk of contracting the COVID-19 coronavirus through second-hand contact. “Pedestrians no longer need to push a button to activate the signal, and can cross the road safely while limiting contact with high-touch surfaces,” the city said. About 270 intersections in 23 locations now have the automated signals.
+Under an ongoing agreement between the government of **New Zealand** and the country’s three largest telco operators, residents who use the companies’ mobile networks can [access 11 key health websites and two online health services portals free of data charges](https://www.health.govt.nz/news-media/media-releases/sponsored-data-partnership-helps-bridge-digital-divide-access-essential-health-information-and) between July 2020 and June 2021. 
 
-The city is also [trialling touchless infrared sensors for pedestrian crossings in other areas](https://www.zdnet.com/article/nsw-government-trials-touchless-pedestrian-crossing-sensors-to-minimise-covid-19-spread/), where people can activate the crossing signal by hovering a hand over the sensor instead of pressing a button. **<font color="#967942">O</font>**
+Dr Ashley Bloomfield, New Zealand’s Director-General of Health, said that the agreement was necessary to ensure fair access to essential information about the development of the Covid-19 situation within the nation. The collaboration will also be reviewed every six months to determine if it should be extended. **<font color="#967942">O</font>**
