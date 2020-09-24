@@ -12,7 +12,7 @@ description: With the COVID-19 pandemic exposing and widening digital divides am
 
 ***With the COVID-19 pandemic exposing and widening digital divides among residents, cities and countries are taking steps to close the gap, both to tide citizens over the crisis and to ensure that the benefits of digital advances are shared by more, if not all, in the longer term.***
 
-![10 cities that are transforming their streets](/images/features/2020/transform-streets.jpg/)*Illustration: stockgiu © 123rf.com*
+![10 ways to close the digital gap](/images/features/2020/closing-digital-gap.jpg/)*Illustration: [Freepik](http://www.freepik.com)*
 
 #### **01: Help for a rainy day**
 
