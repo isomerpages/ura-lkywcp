@@ -11,7 +11,7 @@ description: As cities adapt to life in the COVID-19 era, many are seizing the m
 
 ***As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this second in a series of articles, we look at how city centres and suburbs could evolve as more companies embrace digitalisation and remote working.***
 
-![Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes](/images/features/2020/remote-working.jpg/)*Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes. Photo: photolime © 123rf.com*
+![With remote working becoming the new normal, cities could rethink the way we work](/images/features/2020/remote-working.jpg/)*With remote working becoming the new normal, cities could rethink the way we work. Photo: [diana.grytsku / Freepik](http://www.freepik.com)*
 
 The COVID-19 crisis is transforming the future of work and offices in many cities. Since the start of the pandemic, a growing number of firms around the world have unveiled plans to allow more employees to work from home regularly or permanently, leading to new sustainability benefits and urban planning opportunities.  
 
