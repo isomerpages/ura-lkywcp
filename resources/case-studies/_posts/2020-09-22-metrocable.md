@@ -42,11 +42,11 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 ![MetroCable at Santo Domingo](/images/features/2020/santo-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore*
 
-- The city set up the public transport company ‘Empresa de Transporte Masivo del Valle de Aburrá Limitada – Metro de Medellín Ltda’ in 1979 with the purpose of building, administrating and operating a mass transport system. 
+- The city set up the public transport company *‘Empresa de Transporte Masivo del Valle de Aburrá Limitada – Metro de Medellín Ltda’* in 1979 with the purpose of building, administrating and operating a mass transport system. 
 - To carry out this project, the Municipality of Medellín and the Department of Antioquia (province) started a joint venture with equal stakes, making the creation of the said company possible. 
 - In 1979, the technical and economic feasibility studies began, subsequently leading to Medellín developing and opening the country’s first Metro system in 1995, which is 33 years ahead of capital city Bogotá’s projected first Metro line slated to open in 2028. 
-- The city uses a planning instrument called ‘Proyecto Urbano Integral’ (Integrated Urban Project or PUI) for the planning and physical interventions in the most marginalised areas, aiming to improve the quality of life through public spaces and mobility options. 
-- PUIs are part of the city’s strategic urban projects funded by ‘Empresa de Desarrollo Urbano’ (EDU) – an autonomous public company. 
+- The city uses a planning instrument called *‘Proyecto Urbano Integral’* (Integrated Urban Project or PUI) for the planning and physical interventions in the most marginalised areas, aiming to improve the quality of life through public spaces and mobility options. 
+- PUIs are part of the city’s strategic urban projects funded by *‘Empresa de Desarrollo Urbano’* (EDU) – an autonomous public company. 
 - Together with the city authorities, the Metro company and local community, participants of the PUI helped to identify the locations of MetroCable stations to bring about the biggest impacts to the neighbourhoods.
 
 ---
@@ -55,7 +55,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 ![A metro library](/images/features/2020/metro-library.jpg/)*A metro library. Photo: Urban Redevelopment Authority Singapore*
 
-- The Metro company recognised its role of social responsibility and has implemented various measures for greater social inclusion. For example, ‘Cultura Metro’ (Metro Culture) is an initiative where local guides are employed to educate the public on good public behaviour in metro stations and trains. Likewise, a ‘Metro Friends’ programme reaches out to children on how to take care of public spaces. 
+- The Metro company recognised its role of social responsibility and has implemented various measures for greater social inclusion. For example, *‘Cultura Metro’* (Metro Culture) is an initiative where local guides are employed to educate the public on good public behaviour in metro stations and trains. Likewise, a ‘Metro Friends’ programme reaches out to children on how to take care of public spaces. 
 - Metro stations also double up as a node for quick access to information, with the integration of computer rooms, artworks celebrating local historic figures, small libraries, and open bookshelves where commuters can borrow books to read on the go and return later. 
 - Under the aforementioned PUI, public spaces are developed around the bases of MetroCable pylons, creating communal nodes for play and rest within the communities. 
 
@@ -84,7 +84,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 The integrated transport system covers the Metro (34km), the MetroCable (9.3km), the Metroplús bus system (18km), the Tranvia tram system (4.3km), and a cycling network of 11.2km. The Metro is [considered one of the most efficient in Latin America](https://urbandesignprize.gsd.harvard.edu/porto-medellin/medellin/), with a speed of 37km/h. 
 - The MetroCable has reduced travel times from Santo Domingo to the city centre from over an hour to under ten minutes, benefiting some 230,000 residents. 
 - Under the integrated mass transport system, citizens get to enjoy new and wide sidewalks, modern stations, and dedicated bus lanes. 
-190,000m2 of new public spaces were generated and more than 5,400 new trees were planted along various corridors of the transport system.  
+190,000m<sup>2</sup> of new public spaces were generated and more than 5,400 new trees were planted along various corridors of the transport system.  
 The new Tranvia tram system connects some 60,000 people on a daily basis, along a 4.3km route and under 11 minutes. 
 
 ---
