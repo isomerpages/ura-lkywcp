@@ -40,6 +40,8 @@ The hubs will observe safe distancing while providing free full-day learning pro
 
 #### **04: Devices for donation**
 
+![Donation of used devices can benefit children of low-income families](/images/features/2020/girl-laptop.jpg/)*Donation of used devices can benefit children of low-income families. Photo: [Freepik](http://www.freepik.com)*
+
 **Kansas City** in the United States is calling on businesses to aid in bridging the digital divide. In a permanent programme called the [‘Employer Laptop Challenge’](https://www.kansascityfed.org/community/employer-laptop-challenge) launched in April 2020, it is asking companies and other organisations to donate used laptops, tablets or computers to designated non-profit refurbishers who will repair, reset and clean them before giving them to schools, non-profit groups and lower-income families. 
 
 As of early September 2020, the programme has [redirected more than 1,800 of the electronic devices to those who need them](https://www.kansascityfed.org/publications/community/connections/articles/2020/elc%20-%20donor%20interviews%20sept%202020). 
@@ -47,8 +49,6 @@ As of early September 2020, the programme has [redirected more than 1,800 of the
 ---
 
 #### **05: Help to work from home**
-
-![Cycling in Chicago](/images/features/2020/chicago-cycling.jpg/)*Cycling in Chicago. Photo: Chait Goli*
 
 With more companies turning to remote working temporarily or permanently since the start of the COVID-19 pandemic, some countries are subsidising the cost of such transitions for small and medium enterprises who cannot afford them otherwise. In **Japan**, the government committed in March 2020 to [pay half of the cost of equipment for remote working for such businesses](https://www.japantimes.co.jp/opinion/2020/03/05/editorials/use-coronavirus-crisis-promote-teleworking/), up to a cap of JPY 1 million (approximately USD $9,400) per firm.
 
@@ -72,6 +72,8 @@ In June 2020, the city tasked 1,000 full-time staff and part-time volunteers wit
 
 #### **08: Reaching out to the elderly**
 
+![Helping the elderly stay in touch digitally](/images/features/2020/elderly-laptop.jpg/)*Helping the elderly stay in touch digitally. Photo: [Freepik](http://www.freepik.com)*
+
 Elderly citizens, especially those who live alone, are among the most vulnerable to the COVID-19 coronavirus and the isolation caused by movement restrictions. In May 2020, **New York City** in the United States [distributed tablets with Internet connectivity](https://www1.nyc.gov/assets/cto/#/project/connected-nycha-older-adults) paid for by the city to 10,000 of them who are living in its public housing units, so that they can stay connected with family and friends.
 
 Staff from the city’s Department for the Aging and Older Adults Technology Services set up the tablets for them and showed them how to operate the devices, access free classes and other resources, and communicate with their loved ones. 
@@ -87,8 +89,6 @@ Among the upcoming projects are a survey to map neighbourhoods’ and households
 ---
 
 #### **10: Ensuring equal access** 
-
-![Crossing in Sydney](/images/features/2020/sydney-crossing.jpg/)*Crossing in Sydney. Photo: Kate Trifo*
 
 Under an ongoing agreement between the government of **New Zealand** and the country’s three largest telco operators, residents who use the companies’ mobile networks can [access 11 key health websites and two online health services portals free of data charges](https://www.health.govt.nz/news-media/media-releases/sponsored-data-partnership-helps-bridge-digital-divide-access-essential-health-information-and) between July 2020 and June 2021. 
 
