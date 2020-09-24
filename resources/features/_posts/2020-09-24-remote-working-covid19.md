@@ -23,9 +23,9 @@ As companies cut back on their office space, particularly in city centres where 
 
 #### **Changing the CBD**
 
-![The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs](/images/features/2020/remote-working2.jpg/)*The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs. Photo: [prostooleh / Freepik](http://www.freepik.com)*
-
 While CBDs have contributed to cities’ economies, they can be inefficient uses of space, with many becoming deserted on weekends and after office hours. As firms scale back or exit their offices in these districts, the time is ripe to convert more of them into mixed-use residential, commercial and cultural areas to maximise their liveliness throughout the week, said urban planning experts. “If daytime working populations fall, new populations are likely to be needed to keep these areas buzzing and generating income,” [said Dr Tony Matthews](https://www.reuters.com/article/us-health-coronavirus-cities-trfn-idUSKBN23A065), a senior lecturer in urban and environmental planning at Australia’s Griffith University, about the impact of the COVID-19 pandemic. 
+
+![The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs](/images/features/2020/remote-working2.jpg/)*The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs. Photo: [prostooleh / Freepik](http://www.freepik.com)*
 
 Even before the outbreak, cities have been trying to diversify their CBDs. In Singapore, for example, the government has been seeking to boost the number of homes and people who live in the CBD, including through a new [‘CBD Incentive Scheme’](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc19-04) introduced in 2019 that gives property developers a higher gross plot ratio – the total gross floor area permitted for a site – to spur the conversion of eligible office buildings into hotels and homes. 
 
