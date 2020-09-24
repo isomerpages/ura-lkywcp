@@ -72,7 +72,7 @@ In June 2020, the city tasked 1,000 full-time staff and part-time volunteers wit
 
 #### **08: Reaching out to the elderly**
 
-![Helping the elderly stay in touch digitally](/images/features/2020/elderly-laptop.jpg/)*Helping the elderly stay in touch digitally. Photo: [Freepik](http://www.freepik.com)*
+![Helping the elderly stay in touch digitally](/images/features/2020/elderly-laptop.jpg/)*Helping the elderly stay in touch digitally. Photo: [katemangostar / Freepik](http://www.freepik.com)*
 
 Elderly citizens, especially those who live alone, are among the most vulnerable to the COVID-19 coronavirus and the isolation caused by movement restrictions. In May 2020, **New York City** in the United States [distributed tablets with Internet connectivity](https://www1.nyc.gov/assets/cto/#/project/connected-nycha-older-adults) paid for by the city to 10,000 of them who are living in its public housing units, so that they can stay connected with family and friends.
 
