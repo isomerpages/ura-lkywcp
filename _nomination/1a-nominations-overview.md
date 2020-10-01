@@ -10,17 +10,34 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for
 
 #### **Stage A**
 
-- Submission of nomination and recommendation letter by the nominator (independent third party) 
+Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
+
+- Leading academics (e.g. professors in universities) or academic institutions
+- Government officials (outside of the city administration)
+- International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on
+- Organisations in the public or private sectors
+- Non-government organisations (NGOs)
+- Leading industry experts in related fields
+
+Note: Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.
 
 #### **Stage B**
 
-- Submission of detailed report by the nominated city. 
+The nominated city will be informed via email to prepare and submit a detailed report using the official Stage B report template. This report comprises the following: 
 
-#### **Read me first**
+- Background information on the city 
+- Key city statistics comparing the city today  and 10-20 years ago 
+- Explanation of the city’s overall master plan  or developmental strategy
+- A selection of three (3) key projects covering different aspects to demonstrate the success in implementing the master plan or strategy 
+- Key visuals to accompany the report 
+- Optional supporting documents such as city reports, media reports, accolades, etc. 
 
-- Cities that have submitted for previous cycles of the Prize will need to make fresh submissions as reports and materials submitted previously will not be considered. 
-- Submissions postmarked or received by hand after the closing date will not be accepted. 
-- The city shall be responsible for the safe and timely delivery of all submission materials. 
+Cities should note that this report may require some time and resources to complete. An incomplete report may render the submission invalid. 
+
+#### **Important notes**
+
+- Cities that have submitted for previous cycles of the Prize will need to make fresh submissions as reports and materials submitted previously will not be considered.
+- The city shall be responsible for the timely delivery of all submission materials. 
 - The Prize Secretariat reserves the right to disqualify any submission that is incomplete, and/or not prepared according to the guidelines above. 
 - The Prize Secretariat may arrange for site visits to the city where necessary. All costs for such a visit shall be borne by the Prize Secretariat. 
 - The Prize Secretariat may request for additional detailed information where necessary. 
