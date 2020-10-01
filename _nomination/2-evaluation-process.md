@@ -1,6 +1,6 @@
 ---
-title: Evaluation Process
-permalink: /nomination/evaluation-process/
+title: Evaluations
+permalink: /nominations/evaluations/
 ---
 
 ![Evaluation Process](/images/evaluation-process.jpg/)
