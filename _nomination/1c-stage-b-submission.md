@@ -1,6 +1,6 @@
 ---
 title: Stage B Submission
-permalink: /nomination/guidelines/stage-b/
+permalink: /nominations/stage-b/
 third_nav_title: Nominations
 ---
 
