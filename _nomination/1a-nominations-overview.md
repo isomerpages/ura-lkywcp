@@ -39,7 +39,6 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for
 - The Prize Secretariat may request for additional detailed information where necessary. 
 - The Prize Secretariat will retain all submitted digital media and reserves the right to use them for all Lee Kuan Yew World City Prize related publicity collaterals and activities (e.g. exhibitions, lectures, publications, website, etc.). 
 
-| **Questions?** |
-|:---|
-| [Frequently Asked Questions](/faq/) | 
-| [Contact us](/contact-us/) |
+#### **Questions?**
+
+| [Frequently Asked Questions](/faq/) | [Contact us](/contact-us/) |
