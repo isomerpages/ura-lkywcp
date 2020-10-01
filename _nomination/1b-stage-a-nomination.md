@@ -1,6 +1,6 @@
 ---
 title: Stage A Nomination
-permalink: /nomination/guidelines/stage-a/
+permalink: /nominations/stage-a/
 third_nav_title: Nominations
 ---
 
