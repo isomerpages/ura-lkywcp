@@ -1,6 +1,6 @@
 ---
 title: Judging Criteria
-permalink: /nomination/judging-criteria/
+permalink: /nominations/judging-criteria/
 ---
 
 The Lee Kuan Yew World City Prize looks at the holistic transformation of the city over a period of at least 10 years, and emphasises on the creation of liveable, vibrant and sustainable urban communities within a quality built environment that incorporates the principles of sustainable development.
