@@ -16,9 +16,14 @@ locations:
         time: 8.30am - 6.00pm
         description: Closed on Weekends and Singapore Public Holidays
 contacts:
-  - title: General Enquiries & Feedback
+  - title: General enquiries & feedback
     content:
     - phone: +65 6321 6532 
     - email: leekuanyew_worldcityprize@ura.gov.sg
     - other: 
+  - title: Join our mailing list 
+    content:
+    - phone: 
+    - email: 
+    - other: <a href="https://mailchi.mp/ura/lkywcp-newsletter">mailchi.mp/ura/lkywcp-newsletter</a>
 ---
