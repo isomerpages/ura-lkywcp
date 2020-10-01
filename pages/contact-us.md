@@ -21,4 +21,9 @@ contacts:
     - phone: +65 6321 6532 
     - email: leekuanyew_worldcityprize@ura.gov.sg
     - other: 
+  - title: Join our mailing list 
+    content:
+    - phone: 
+    - email: 
+    - other: https://mailchi.mp/ura/lkywcp-newsletter
 ---
