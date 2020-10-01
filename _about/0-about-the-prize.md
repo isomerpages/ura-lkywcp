@@ -27,4 +27,5 @@ The Lee Kuan Yew World City Prize is co-organised by the [Urban Redevelopment Au
 
 | **More** |
 |:---|
-| [Contact us](/contact-us/) | [Newsletter](https://go.gov.sg/newsletter) |
+| [Contact us](/contact-us/) | 
+| [Newsletter](https://go.gov.sg/newsletter) |
