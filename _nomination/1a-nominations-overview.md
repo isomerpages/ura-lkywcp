@@ -1,6 +1,6 @@
 ---
 title: How to Nominate?
-permalink: /nominations/guidelines/overview/
+permalink: /nominations/overview/
 third_nav_title: Nominations
 ---
 
