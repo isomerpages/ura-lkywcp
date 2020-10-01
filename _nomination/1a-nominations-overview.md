@@ -4,7 +4,7 @@ permalink: /nomination/guidelines/overview/
 third_nav_title: Nomination Guidelines
 ---
 
-#### **Nominations for 2020 Prize: closed**
+# **Nominations closed**
 
 The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for the Prize is in 2 stages as follows: 
 
