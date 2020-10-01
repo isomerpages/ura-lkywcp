@@ -9,10 +9,10 @@ All submissions are evaluated through a rigorous two-tier process comprising the
 
 #### **Nominating Committee**
 
-The Nominating Committee reviews and examines submissions, and recommends potential Laureates to the Prize Council 
-[2020 Nominating Committee](/about/prize-jury/nominating-committee/)
+- The Nominating Committee reviews and examines submissions, and recommends potential Laureates to the Prize Council 
+- [2020 Nominating Committee](/about/prize-jury/nominating-committee/)
 
 #### **Prize Council**
 
-The Prize Council reviews and selects the Prize Laureate based on the recommendations by the Nominating Committee 
-[2020 Prize Council](/about/prize-jury/prize-council/)
+- The Prize Council reviews and selects the Prize Laureate based on the recommendations by the Nominating Committee 
+- [2020 Prize Council](/about/prize-jury/prize-council/)
