@@ -1,7 +1,6 @@
 ---
 title: Overview
 permalink: /nominations/overview/
-third_nav_title: Nominations
 ---
 
 # **Nominations closed**
