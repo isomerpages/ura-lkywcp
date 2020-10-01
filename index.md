@@ -14,8 +14,8 @@ sections:
         url: /about/about-the-prize/
         key_highlights:
             - title: Nominations
-              description: Nomination guidelines
-              url: /nomination/guidelines/overview/
+              description: How to nominate?
+              url: /nominations/overview/
             - title: Resources 
               description: Latest city-related features
               url: /resources/
