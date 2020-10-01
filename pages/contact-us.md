@@ -25,5 +25,5 @@ contacts:
     content:
     - phone: 
     - email: 
-    - other: <a href="https://mailchi.mp/ura/lkywcp-newsletter">mailchi.mp/ura/lkywcp-newsletter</a>
+    - other: <a href="https://go.gov.sg/newsletter"><u>go.gov.sg/newsletter</u></a>
 ---
