@@ -10,11 +10,13 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for
 
 #### **Stage A**
 
-Submission of nomination and recommendation letter by the nominator (independent third party). | [More info](/nominations/stage-a) 
+- Submission of nomination and recommendation letter by the nominator (independent third party) 
+- [More info](/nominations/stage-a) 
 
 #### **Stage B**
 
-Submission of detailed report by the nominated city. | [More info](/nominations/stage-b) 
+- Submission of detailed report by the nominated city. 
+- [More info](/nominations/stage-b) 
 
 #### **Read me first**
 
