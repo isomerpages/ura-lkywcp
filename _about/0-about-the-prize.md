@@ -25,7 +25,6 @@ The Lee Kuan Yew World City Prize is named after Singapore’s first Prime Minis
 
 The Lee Kuan Yew World City Prize is co-organised by the [Urban Redevelopment Authority of Singapore](/about/organisers/ura/) (URA) and the [Centre for Liveable Cities](/about/organisers/clc/) (CLC). 
 
-| **More** |
-|:---|
-| [Contact us](/contact-us/) | 
-| [Newsletter](https://go.gov.sg/newsletter) |
+#### **More**
+
+| [Contact us](/contact-us/) | [Newsletter](https://go.gov.sg/newsletter) |
