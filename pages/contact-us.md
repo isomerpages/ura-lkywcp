@@ -25,5 +25,5 @@ contacts:
     content:
     - phone: 
     - email: 
-    - other: https://mailchi.mp/ura/lkywcp-newsletter
+    - other: <a href="https://mailchi.mp/ura/lkywcp-newsletter">mailchi.mp/ura/lkywcp-newsletter</a>
 ---
