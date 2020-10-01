@@ -1,7 +1,7 @@
 ---
 title: How to Nominate?
 permalink: /nomination/guidelines/overview/
-third_nav_title: Nomination Guidelines
+third_nav_title: Nominations
 ---
 
 # **Nominations closed**
