@@ -19,9 +19,9 @@ sections:
             - title: Resources 
               description: Latest city-related features
               url: /resources/
-            - title: Sign up
+            - title: Newsletter
               description: Get our latest news in your inbox
-              url: https://mailchi.mp/ura/lkywcp-newsletter
+              url: https://go.gov.sg/newsletter
     - carousel:
         - title: Seoul
           subtitle: 2018 Prize Laureate
