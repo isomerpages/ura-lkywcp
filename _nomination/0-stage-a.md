@@ -3,11 +3,11 @@ title: Stage A nominations
 permalink: /nominations/stagea/
 ---
 
-# **Nominations closed**
+# **Stage A nominations closed**
 
-The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for the Prize is in 2 stages as follows: 
+The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for the Prize must be initiated by a Stage A nomination.  
 
-#### **Stage A**
+#### **Stage A nominations**
 
 Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
 
@@ -19,6 +19,17 @@ Cities interested to participate should approach an independent third party (nom
 - Leading industry experts in related fields
 
 Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted. 
+
+#### **Information for the nominator**
+
+As a nominator, you should inform the cities of your intention to nominate them. You would also need to upload a short recommendation letter of approximately 600 words to support why the city that you are nominating should win the Prize, covering aspects as follows: 
+
+- Outstanding leadership and governance
+- Successful urban transformation
+- Innovative urban solutions
+- Lessons for other cities
+
+There is no entry fee required for this nomination.
 
 #### **Questions?**
 
