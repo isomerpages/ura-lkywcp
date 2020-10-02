@@ -1,5 +1,5 @@
 ---
-title: Stage B submissions
+title: Stage B Submissions
 permalink: /nominations/stageb/
 ---
 
