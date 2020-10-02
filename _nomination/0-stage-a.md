@@ -22,7 +22,7 @@ Self-nominations (i.e. nominations made by the city administration for their own
 
 #### **Information for the nominator**
 
-As a nominator, you should inform the cities of your intention to nominate them. You would also need to attach a short recommendation letter of approximately 600 words together with the online nomination form to support why the city that you are nominating should win the Prize, covering aspects as follows: 
+As a nominator, you should inform the cities of your intention to nominate them. You would also need to attach a short recommendation letter of approximately 600 words together with the online nomination form (*link is closed*) to support why the city that you are nominating should win the Prize, covering aspects as follows: 
 
 - Outstanding leadership and governance
 - Successful urban transformation
