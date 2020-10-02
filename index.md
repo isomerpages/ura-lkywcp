@@ -14,8 +14,8 @@ sections:
         url: /about/about-the-prize/
         key_highlights:
             - title: Nominations
-              description: How to nominate?
-              url: /nominations/overview/
+              description: Nominate your city for the Prize
+              url: /nominations/stagea/
             - title: Resources 
               description: Latest city-related features
               url: /resources/
