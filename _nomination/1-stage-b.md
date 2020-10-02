@@ -1,26 +1,13 @@
 ---
-title: Stage A & B nominations
-permalink: /nominations/overview/
+title: Stage B Submissions
+permalink: /nominations/stageb/
 ---
 
-# **Nominations closed**
+# **Stage B submissions closed**
 
-The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for the Prize is in 2 stages as follows: 
+The Lee Kuan Yew World City Prize is **awarded to cities only**. To proceed to Stage B, your city must first be nominated for [Stage A](/nominations/stagea).
 
-#### **Stage A**
-
-Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
-
-- Leading academics (e.g. professors in universities) or academic institutions
-- Government officials (outside of the city administration)
-- International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on
-- Organisations in the public or private sectors
-- Non-government organisations (NGOs)
-- Leading industry experts in related fields
-
-Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.
-
-#### **Stage B**
+#### **Stage B submissions**
 
 The nominated city will be informed via email to prepare and submit a detailed report using official templates. This report comprises the following: 
 
