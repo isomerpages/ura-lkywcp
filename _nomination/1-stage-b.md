@@ -16,6 +16,7 @@ The nominated city will be informed via email to prepare and submit a detailed r
 - Explanation of the city’s overall master plan or strategy
 - A selection of three (3) key projects covering different aspects to demonstrate the success in implementing the master plan or strategy 
 - Key visuals (photos, diagrams, charts, etc.) 
+- 2-5 reference letters written and signed by independent third parties
 - Optional supporting documents such as city reports, media reports, accolades, etc. 
 
 Cities should note that this report may require some time and resources to complete. An incomplete report may render the submission invalid. 
