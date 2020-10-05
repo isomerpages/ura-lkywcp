@@ -117,7 +117,9 @@ The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award C
 
 ***Will the Prize Laureate and Special Mention(s) be sharing at a public platform?***
 
-The Prize Laureate will be invited to share their achievements at the Lee Kuan Yew World City Prize Lecture, while the Special Mention(s) will be invited to share their urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. The next edition of the World Cities Summit will be held from 20 – 24 June 2021 in Singapore. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
+The Prize Laureate will be invited to share their achievements at the Lee Kuan Yew World City Prize Lecture, while the Special Mention(s) will be invited to share their urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
+
+The next edition of the World Cities Summit will be held from 20 – 24 June 2021 in Singapore. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
 
 ***How can I attend the Prize events at World Cities Summit?***
 
