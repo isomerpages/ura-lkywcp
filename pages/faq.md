@@ -125,7 +125,7 @@ The next edition of the World Cities Summit will be held from 20 – 24 June 202
 
 The next edition of the World Cities Summit will be held from 20 – 24 June 2021 in Singapore. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
-Please note that due to the COVID-19 global pandemic, there may be travel advisories and entry restrictions to Singapore imposed your home country. Likewise, Singapore imposes border control measures in response to the pandemic. For COVID-19-related measures in Singapore, please visit the following resources: 
+Please note that due to the COVID-19 global pandemic, there may be travel advisories and entry restrictions to Singapore imposed by your home country. Likewise, Singapore imposes border control measures in response to the pandemic. For COVID-19-related measures in Singapore, please visit the following resources: 
 
 - [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
 - [Border control measures in Singapore](https://www.ica.gov.sg/covid-19)
