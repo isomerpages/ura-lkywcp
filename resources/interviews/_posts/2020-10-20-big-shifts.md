@@ -31,6 +31,8 @@ With everything on the cloud now, the workspace is a culture we need to keep, an
 
 **CL:** With COVID-19 control measures, what a citizen is missing out is the inability to interact with others on a daily basis. 
 
+> "I believe a fundamental shift will come. Work will change but people as social creatures will not change." 
+
 #### **On social equity & digital transformation**
 
 **CL:** Switzerland is driven by small and medium enterprises (SMEs) – the lifeblood of the middle class. However, they are also the slowest to adapt to digital transformation. We have seen how COVID-19 accelerated the adaptation of digital transformation, and companies who do not latch on would risk disappearance. 
@@ -44,6 +46,8 @@ Earlier on, there was a period of flight in New York for anyone with a country h
 **CL:** This is the same that happened in San Francisco and Lake Tahoe. Anyone who can afford to move to Lake Tahoe did. However, cities are going to come back. There are all sorts of fundamental human reasons for cities to exist that we will not simply abandon. Whether cities will become more polycentric or rethink its distribution of functionality or typology, at the end of the day, we come together not just to work, but also to interact or transact, whether is it a dinner, date or a deal.
 
 It is important to differentiate those who sit to work and those who stand to work. The latter has been disproportionately impacted monetarily and existentially. The city is a portfolio of types of people conscious of the loss of those who has to stand to work.
+
+
 
 #### **On climate change, urban resilience & inclusive recovery**
 
