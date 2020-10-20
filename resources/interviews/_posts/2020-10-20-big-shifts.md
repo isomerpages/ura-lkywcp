@@ -73,6 +73,6 @@ It is important to differentiate those who sit to work and those who stand to wo
 
 With COVID-19, it is concerning for us as global citizens how borders are quickly re-established, and armour went up quickly both literally and figuratively. On the other hand, in the scientific community, there is amazing sharing and response. For example, the DNA genome is brought to Geneva from Wuhan from very first DNA stream, and this allowed sequencing from day one. **<font color="#967942">O</font>** 
 
-<br>
+---
 
 - [Lee Kuan Yew World City Prize Nominating Committee 2020](/about/prize-jury/nominating-committee/)
