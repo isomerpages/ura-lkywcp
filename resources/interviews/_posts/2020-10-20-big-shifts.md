@@ -1,74 +1,78 @@
 ---
-title: Big shifts in cities due to COVID-19
+title: The big shifts in cities due to COVID-19
 permalink: /resources/interviews/big-shifts/
 image: /images/features/2020/daniel-libeskind.jpg
-description: World-renowned architect Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition. In this interview, he shares the importance of memory to the design of physical spaces and what it means to design for the past and future.
+description: The Lee Kuan Yew World City Prize Nominating Committee members got together in a virtual roundtable to discuss timely issues surrounding the big shifts in cities due to COVID-19 and how cities can move forward with inclusive recovery. These are some of the insights from this discussion. 
 ---
 
-***World-renowned architect Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition. In this interview, he shares the importance of memory to the design of physical spaces and what it means to design for the past and future.***
+***The Lee Kuan Yew World City Prize Nominating Committee members got together in a virtual roundtable to discuss timely issues surrounding the big shifts in cities due to COVID-19 and how cities can move forward with inclusive recovery. These are some of the insights from this discussion.***
 
 ![Daniel Libeskind](/images/features/2020/daniel-libeskind.jpg/)*Daniel Libeskind © Urban Redevelopment Authority Singapore*
 
-Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition, as told to writer Stanley Meisler of the Smithsonian Magazine. 
+On the changing nature of work 
 
-An academic until age 43 and informed by a deep commitment to music, philosophy, literature and poetry, Daniel’s many projects from the Jewish Museum in Berlin to the World Trade Centre site not only draw from the social and historical contexts of sites, they tell a story and evoke cultural memories that reach out to humanity. 
+Dr Cheong Koon Hean (CKH): We have seen how everyone is excited about working from home, but we do not know what the proportion and shift is, and how permanent it is going to be. While some shift will happen, the question is how much of it will happen, and how it will impact real estate and the types of spaces that you need at work and at home. 
 
-The Jewish Museum in Berlin which opened in 2001 was Daniel’s first major project and a series of influential museum commissions followed after that. In 2003, his firm, Studio Libeskind won another historic competition to create the master plan for the rebuilding of the World Trade Centre in New York. Over half of the 16-acre site was given to public space including the memorial which opened in 2014. 
+Dr Chris Luebkeman (CL): The question for me is about the ‘stickiness’ of change, i.e. what will stick and what will slide away. As humans, we tend to forget very quickly. When you look back at the consumption and activity curves in history, it seems that people were good at getting back at the curve. 
 
-#### **Why is memory important in the design of physical spaces?**
+Wulf Daseking (WD): COVID-19 is a wake-up call for all of us. During the 1918 Spanish Flu, some 65 million people died at the end of World War I. However, it was all forgotten afterwards. But this time it would not easily forgotten, as COVID-19 is compounded by the problem of global warming. 
 
-**Daniel Libeskind (DL):** I consider memory the foundation of architecture. It is memory that creates orientation and gives us a sense of connection between traditions of the past, the present and the future. Memory is key to all my work. When you deal with places of memory, you have to be able to transmit something beyond the past. You have to transmit the hopes of the future. You have to structure the spaces in such a way that it has the equivalent to the complexity of the human spirit and mind. Without memory, we would not know who we are or where we are going.
+Lim Eng Hwee (LEH): I understand that many companies are considering establishing a hub-and-spoke system, with satellite offices outside of the city centre. Although this may be a knee-jerk reaction, but once established it may stick for some time. 
 
-![Jewish Museum in Berlin](/images/features/2020/jewish-museum.jpg/)*The Jewish Museum in Berlin © Studio Libeskind*
+We are also seeing opportunities arising from telecommuting. For example, it has changed the transport pattern tremendously. Transport capacity in many cities has still yet to return to pre-COVID-19 levels, and people also tend to travel during off-peak periods. This suggests an opportunity for planners to think more about mixed use planning. The question then is to what extent, and what the role of the downtown is if the trend of decentralisation continues. 
 
-#### **Why is designing museums and memorials important to you?**
+CKH: In Singapore, we already have some extent of decentralisation. We have neighbourhood areas outside the city centre where getting to day-to-day activities is convenient. The big question is to look at different poly-centres versus the downtown at a national level. What roles do they play and what are the appropriate sizes? 
 
-**DL:** I have had the good fortune of being able to work on many cultural institutions and memorials around the world dealing with different kinds of memories. In a way, these spaces are a core part of our lives. We might have spaces that cater to our domestic arrangements such as places to work in, places to go to. But in the end, to find who we are, why we are here and where we are going, you need a place of encounter, not just a space with a social realm, but a space that really forms our identities.  
+WD: One can work from home in certain jobs such as insurance and bank offices, but not for others. In Asia, as the space at home per person is generally smaller than European counterparts, it would be challenging to implement long-term work-from-home arrangements. Remote working has also impacted the requirements of office spaces in the city more than ever. 
 
-#### **What contributes to our sense of place?**
+Wong Mun Summ (WMS): Work is changing. My office for example has adapted quite well, and there has not been a loss in productivity. However, people still want to get back together, but together as friends. I believe that it is the sociable quality in us that drive cities, rather than just work. We are looking at the transformation of workspaces to become less typical of what they were, and to become more creative and social ones. 
 
-**DL:** Our sense of place is about being human. Animals have nests and burrows. Only human beings have something more than a habitat. They have a home. There is a difference between a habitat and a home, just as there is a difference between biology and the human spirit. This is the profound aspect of being involved in architecture and creating a place. You are creating a home which goes beyond the physical necessities of life. It is not about how many square metres of space you have – it is about the quality of that space. 
+With everything on the cloud now, the workspace is a culture we need to keep, and we are thinking how to transform the office into a more fun and sociable one. This is the same for cities and other corporations. I believe a fundamental shift will come. Work will change but people as social creatures will not change. 
+
+CL: With COVID-19 control measures, what a citizen is missing out is the inability to interact with others on a daily basis. 
+
+On social equity & digital transformation 
+
+CL: Switzerland is driven by small and medium enterprises (SMEs) – the lifeblood of the middle class. However, they are also the slowest to adapt to digital transformation. We have seen how COVID-19 accelerated the adaptation of digital transformation, and companies who do not latch on would risk disappearance. 
+
+Marilyn Taylor (MT): We have seen different stages over here in New York City and Philadelphia over the last six months. In the country, people are already living in a distance from each other. In the city however, people are living with constant fear and enormous caution. This quickly transferred to concern for essential workers and work-from-home conditions. 
+
+Statistics show that where impacts are the worst are usually the minority groups and those who are less well-off. There is a huge devastation to small medium enterprises – the fabric and heart of those districts, with many unable to come back in same form. There are complex problems ahead, and a really hard time to come together to prioritise and help essential people first. 
+
+Earlier on, there was a period of flight in New York for anyone with a country home. At some point, Manhattan has lost close to half its population for people who are able to do that. On the other hand, the real estate market was going crazy in small towns. This is a similar response to that after 9/11, with most trickled back in after one year or so. This is expressing the very inequality in our actions that we have been railing against in our professional lives and social interactions. 
+
+CL: This is the same that happened in San Francisco and Lake Tahoe. Anyone who can afford to move to Lake Tahoe did. However, cities are going to come back. There are all sorts of fundamental human reasons for cities to exist that we will not simply abandon. Whether cities will become more polycentric or rethink its distribution of functionality or typology, at the end of the day, we come together not just to work, but also to interact or transact, whether is it a dinner, date or a deal.
+
+It is important to differentiate those who sit to work and those who stand to work. The latter has been disproportionately impacted monetarily and existentially. The city is a portfolio of types of people conscious of the loss of those who has to stand to work.
+
+On climate change, urban resilience & inclusive recovery
+
+CKH: On the issue of climate change, how far do people link COVID-19 to climate change? 
+
+MT: We are by nature optimists, focusing a lot on COVID-19 accelerated changes that are positive in the way we live, work and socialise, and run the places we love. But it is made so apparent that some things cannot be ignored, for example, the recent wildfires of San Francisco. There is a lot of work in front of us to do. 
+
+WD: Global warming is the biggest event for all of mankind, especially for those in dangerous situations. COVID-19 is an alarm clock, and we need to stir the ship in another direction. In Germany, we are taking back some productions back to the country, arising from the lack of medicine during lockdown periods. I believe the city of short distances is coming back, but it is not easy to do that. 
+
+CL: In Switzerland, there has been a massive awareness of ‘re-localisation’ – a discovery of what is available in your neighbourhood, state or country. 
+
+MT: The rediscovery of local activities is a huge wonder, and there were no more bikes in New York City to buy. One of the reasons for the shift in opinions over last six months in the United States is that for the first time in a long time, you can go outside and see blue skies in Los Angeles. Why do we need to have a pandemic in order to understand that this is changeable and for not much longer?
+
+WD: We would need to give more power to decentralise our cities. At the moment, cars are not selling, but there has been a huge increase in bicycles. There is a big chance now to give more power to the suburbs to become city of short distances. 
+
+LEH: Urban resilience should be broader than just about the pandemic. It is also about how to sustain the city and resources over the long-term, and various changes due to climate change. 
+
+CL: Cities need to think about inclusive recovery. COVID-19 exacerbated an understand of the inequalities of our cities: the gaps between the wealthy who can afford to ‘flee the ship’ and those who are stuck, and those who could order online and have their food delivered to their homes versus those who have to live with their pantries, etc. The ethnic challenges of inequalities are for many cities in the world. 
+
+WMS: For ‘resilience’ in terms of climate change, there are two other terms that we can talk about – ‘self-sufficiency’ and ‘regenerative in cities’. When you talk about ‘self-sufficiency’, you immediately think about short distances. We do not have to travel as far, we do not have to buy things as far, and we can selectively make sure we can have our essentials at shorter distances. That is something almost all cities must have to a certain extent, including clean energy, food supply, and clean water. 
+
+‘Self-sufficiency’ may be important to examine a little bit. This is equally important in how cities/countries can help the planet regenerate. Cities are consuming resources, and must find ways to regenerate the planet. We would need to see which are the cities that are taking the leadership to do that.
+
+LEH: These two concepts can embrace many issues, and it is worth thinking along these lines, including decarbonisation. Another question to ask is what about the many cities/countries trying to move production capacity back to their home countries, and becoming more self-sufficient, but at the same time this may not be the most optimal outcome, whether be it from the resource point of view, or other perspectives. What is the right balance and direction?
+
+CL: This is a good question. Until all the impacts are incorporated into the pricing of goods and service, it will be a constant challenge of a meaningful dialogue about what is the right mix of long, medium, and short distance. We can look for examples of cities who have taken steps in that direction. 
+
+With COVID-19, it is concerning for us as global citizens how borders are quickly re-established, and armour went up quickly both literally and figuratively. On the other hand, in the scientific community, there is amazing sharing and response. For example, the DNA genome is brought to Geneva from Wuhan from very first DNA stream, and this allowed sequencing from day one. **<font color="#967942">O</font>** 
+
 <br>
-> "The Chinese have the concept of the unseen unicorn. The idea is that the unicorn is ever present, but most people only see the white horse. They do not see the unicorn that is hidden and in proximity."
 
-#### **How do you go about understanding the essence of a place?**
-
-**DL:** You have to know what surrounds you by putting your head and ears on the earth in order to listen, not only to the voices around you but to the inaudible voices. You have to use your eyes to see the invisible parts of the site, not just what you can photograph with your camera. This is the kind of connection that you should search for when you work on a project.
-
-The Chinese have the concept of the unseen unicorn. The idea is that the unicorn is ever present, but most people only see the white horse. They do not see the unicorn that is hidden and in proximity. 
-
-So the site in the same way is like the invisible unicorn. It is there and is ever present, but is camouflaged by our expectations. You have to open up to the unexpected. If you do not expect the unexpected, you will miss it – it will just go by you! And that is the time that triggers the eureka moment. 
-
-#### **In our need to retain our heritage and cater for the future, how can we manage change?**
-
-**DL:** The key to managing change is lodged in the human heart. We must stay connected to where we are – the sky, the earth, the uniqueness of the genius loci (protective spirit of a place) which is not exchangeable with anything else. The challenge is in taking into account the story that has developed from before we were born into something that will represent future generations. It is about how to shape developments in a way that is inspiring to a child that is just born, who is emerging into the world and still find the world open and free.
-
-![World Trade Centre](/images/features/2020/world-trade-centre.jpg/)*The concrete slurry wall in the World Trade Centre site serving as memory to the site © Studio Libeskind*
-
-#### **For projects with significant public impact such as the new World Trade Centre where you were the master planner for the site, how did you see your role in managing competing views?**
-
-**DL:** I am a great believer in democracy. Every one of my large projects had been in the centre of the public realm. It was engaged in often very tense and fractious public discourse. But without engagement, the project would mean nothing. A project like Ground Zero would never be done if one did not garner extremely competing views. There were very different views on what to do there. Almost every stakeholder had another view. 
-
-As the master planner of the site, I worked to bring people together, not just with an architect there but with a place. What does the place mean? What does the event mean? How do we give hope after such a catastrophic event? How can we develop the city to be full of optimism and beauty, while using memory as a fulcrum of the experience?
-
-#### **At the centre of your master plan for the new World Trade Centre site is the retention of the concrete foundation walls that survived. This huge slurry wall has become a symbolic hero.**
-
-**DL:** The wall was a key concept in my masterplan. It is an engineering marvel and represents the strength of the human spirit in the face of tragedy. I thought people should experience the bedrock where the tragedy happened. This is also the foundation from where all the buildings rise up. Opening this foundation to the public view was challenging in every way. Because when you have a foundation, you usually put something on top of it. Exposing it has never been done before in history. It is only in ruins that you can see open foundations but this is a living foundation. 
-
-I was very moved when Pope Francis came to New York to give a key address in 2015 and he made this address in front of this wall to the world. He did not choose Times Square. He did not choose the Central Park. He did not choose the Saint Patrick’s Cathedral. He chose this wall. This is because the walls have a voice. And it is that voice that also resonates in the invisible aspect of New York and the skies of New York in supporting the buildings surrounding the site. 
-
-It is very important to imbue the site with symbolic and democratic meanings and a sense of the future, a very beautiful future so that the world moves into the light and not into the darkness.
-
-#### **In designing for the future, what is one thing architects and designers should do more of and one thing less of?**
-
-**DL:** They should be more open to the wonders of the world. One should be astonished by science, beauty, art, technological advancements, history, which has the power to show us what the whole trajectory is and can be. What should be avoided is to diminish ambitions. To mediocritise and level everything into a sort of common denominator instead of opening it up to the highest expectations. **<font color="#967942">O</font>** 
-
-<br>
-
-<div style="width:150px"><img src="/images/features/2020/daniel-libeskind2.png" alt="Daniel Libeskind" /></div>
-
-| **Daniel Libeskind** |
-|:---|
-| Daniel Libeskind is a Polish-American architect, artist, professor and set designer. Libeskind founded Studio Daniel Libeskind in 1989 with his wife, Nina, and is its principal design architect. He is known for the design and completion of the Jewish Museum in Berlin, Germany, that opened in 2001. |
-
-###### *This article is adapted from and was first published in Skyline Issue 12, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
+- [Lee Kuan Yew World City Prize Nominating Committee 2020](/about/prize-jury/nominating-committee/)
