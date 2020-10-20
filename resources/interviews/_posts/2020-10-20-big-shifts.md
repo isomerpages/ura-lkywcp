@@ -1,13 +1,13 @@
 ---
 title: The big shifts in cities due to COVID-19
 permalink: /resources/interviews/big-shifts/
-image: /images/features/2020/daniel-libeskind.jpg
+image: /images/features/2020/covid-bus-woman.jpg
 description: The Lee Kuan Yew World City Prize Nominating Committee members got together in a virtual roundtable to discuss timely issues surrounding the big shifts in cities due to COVID-19 and how cities can move forward with inclusive recovery. These are some of the insights from this discussion. 
 ---
 
 ***The Lee Kuan Yew World City Prize Nominating Committee members got together in a virtual roundtable to discuss timely issues surrounding the big shifts in cities due to COVID-19 and how cities can move forward with inclusive recovery. These are some of the insights from this discussion.***
 
-![Daniel Libeskind](/images/features/2020/daniel-libeskind.jpg/)*Daniel Libeskind © Urban Redevelopment Authority Singapore*
+![Woman wearing mask in a bus](/images/features/2020/covid-bus-woman.jpg/)*Woman wearing a mask in a bus. Photo: [zydeaosika](https://www.pexels.com/@zydeaosika-2261055?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com)*
 
 #### **On the changing nature of work**
 
