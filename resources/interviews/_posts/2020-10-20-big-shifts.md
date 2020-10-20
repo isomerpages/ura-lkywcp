@@ -7,7 +7,7 @@ description: The Lee Kuan Yew World City Prize Nominating Committee members got 
 
 ***The Lee Kuan Yew World City Prize Nominating Committee members got together in a virtual roundtable to discuss timely issues surrounding the big shifts in cities due to COVID-19 and how cities can move forward with inclusive recovery. These are some of the insights from this discussion.***
 
-![Woman wearing mask in a bus](/images/features/2020/covid-bus-woman.jpg/)*Woman wearing a mask in a bus. Photo: [zydeaosika](https://www.pexels.com/@zydeaosika-2261055?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com)*
+![Woman wearing mask in a bus](/images/features/2020/covid-bus-woman.jpg/)*Woman wearing a mask in a bus. Photo: [zydeaosika](https://www.pexels.com/@zydeaosika-2261055) from [Pexels](https://www.pexels.com)*
 
 #### **On the changing nature of work**
 
@@ -47,7 +47,7 @@ Earlier on, there was a period of flight in New York for anyone with a country h
 
 It is important to differentiate those who sit to work and those who stand to work. The latter has been disproportionately impacted monetarily and existentially. The city is a portfolio of types of people conscious of the loss of those who has to stand to work.
 
-
+![Climate change is an even more pressing issue in the light of COVID-19](/images/features/2020/climate-change.jpg/)*Climate change is an even more pressing issue in the light of COVID-19. Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) from [Pexels](https://www.pexels.com)*
 
 #### **On climate change, urban resilience & inclusive recovery**
 
