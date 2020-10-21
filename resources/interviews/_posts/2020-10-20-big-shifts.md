@@ -9,6 +9,10 @@ description: The Lee Kuan Yew World City Prize Nominating Committee members got 
 
 ![Woman wearing mask in a bus](/images/features/2020/covid-bus-woman.jpg/)*Woman wearing a mask in a bus. Photo: [zydeaosika](https://www.pexels.com/@zydeaosika-2261055) from [Pexels](https://www.pexels.com)*
 
+The still ongoing COVID-19 pandemic has affected our lives more extensively and pervasively than we had imagined at its start. Unlike the sporadic outbreaks of viruses over the past few decades with limited geographic spread, COVID-19's impacts are universal. Around the globe, it  has tremendously changed the way we work, learn, commute, play and socialise. As many experts have iterated, some of these changes are here to stay and life as we know it may never be the same as it was pre-pandemic. 
+
+How can cities then adjust itself to these long-term changes? What are the flaws and gaps that COVID-19 has exposed that need urgent addressing more than ever? And how can cities prepare themselves for long-term inclusive recovery in a world compounded by the ever-increasingly urgency of climate change issues? The Lee Kuan Yew World City Prize Nominating Committee members gathered in a virtual roundtable to share their views on the issues of the changing nature of work, social equity, and urban resilience. 
+
 #### **On the changing nature of work**
 
 **Dr Cheong Koon Hean (CKH):** We have seen how everyone is excited about working from home, but we do not know what the proportion and shift is, and how permanent it is going to be. While some shift will happen, the question is how much of it will happen, and how it will impact real estate and the types of spaces that you need at work and at home. 
