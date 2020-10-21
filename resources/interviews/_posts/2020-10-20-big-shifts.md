@@ -69,7 +69,7 @@ It is important to differentiate those who sit to work and those who stand to wo
 
 **CKH:** On the issue of climate change, how far do people link COVID-19 to climate change? 
 
-**MT:** We are by nature optimists, focusing a lot on COVID-19 accelerated changes that are positive in the way we live, work and socialise, and run the places we love. But it is made so apparent that some things cannot be ignored, for example, the recent wildfires of San Francisco. There is a lot of work in front of us to do. 
+**MT:** We are by nature optimists, focusing a lot on COVID-19 accelerated changes that are positive in the way we live, work and socialise, and run the places we love. But it is made so apparent that some things cannot be ignored, for example, [the recent wildfires of San Francisco](https://www.foxnews.com/us/california-wildfires-san-francisco-bay-area-sky-orange-smoke-fire-weather-haze). There is a lot of work in front of us to do. 
 
 **WD:** Global warming is the biggest event for all of mankind, especially for those in dangerous situations. COVID-19 is an alarm clock, and we need to stir the ship in another direction. In Germany, we are taking back some productions back to the country, arising from the lack of medicine during lockdown periods. I believe the city of short distances is coming back, but it is not easy to do that. 
 
@@ -77,7 +77,7 @@ It is important to differentiate those who sit to work and those who stand to wo
 
 **MT:** The rediscovery of local activities is a huge wonder, and there were no more bikes in New York City to buy. One of the reasons for the shift in opinions over last six months in the United States is that for the first time in a long time, you can go outside and see blue skies in Los Angeles. Why do we need to have a pandemic in order to understand that this is changeable and for not much longer?
 
-**WD:** We would need to give more power to decentralise our cities. At the moment, cars are not selling, but there has been a huge increase in bicycles. There is a big chance now to give more power to the suburbs to become city of short distances. 
+**WD:** We would need to give more power to decentralise our cities. At the moment, cars are not selling, but there has been a huge increase in bicycles. There is a big chance now to give more power to the suburbs to become [city of short distances](https://en.wikipedia.org/wiki/Compact_city). 
 
 **LEH:** Urban resilience should be broader than just about the pandemic. It is also about how to sustain the city and resources over the long-term, and various changes due to climate change. 
 
@@ -91,7 +91,7 @@ It is important to differentiate those who sit to work and those who stand to wo
 
 **CL:** This is a good question. Until all the impacts are incorporated into the pricing of goods and service, it will be a constant challenge of a meaningful dialogue about what is the right mix of long, medium, and short distance. We can look for examples of cities who have taken steps in that direction. 
 
-With COVID-19, it is concerning for us as global citizens how borders are quickly re-established, and armour went up quickly both literally and figuratively. On the other hand, in the scientific community, there is amazing sharing and response. For example, the DNA genome is brought to Geneva from Wuhan from very first DNA stream, and this allowed sequencing from day one. **<font color="#967942">O</font>** 
+With COVID-19, it is concerning for us as global citizens how borders are quickly re-established, and armour went up quickly both literally and figuratively. On the other hand, in the scientific community, [there is amazing sharing and response](https://www.washingtonpost.com/science/2020/01/24/scientists-are-unraveling-chinese-coronavirus-with-unprecedented-speed-openness/). For example, the DNA genome is brought to Geneva from Wuhan from very first DNA stream, and this allowed sequencing from day one. **<font color="#967942">O</font>** 
 
 > "Global warming is the biggest event for all of mankind, especially for those in dangerous situations. COVID-19 is an alarm clock, and we need to stir the ship in another direction."
 
