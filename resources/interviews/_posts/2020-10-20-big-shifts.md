@@ -45,7 +45,7 @@ With everything on the cloud now, the workspace is a culture we need to keep, an
 
 #### **On social equity & digital transformation**
 
-![Remote working may become a permanent part of our lives](/images/features/2020/telecommute.jpg/)*Remote working may become a permanent part of our lives. Photo: [tirachardz](https://www.freepik.com)*
+![Blue-collar workers and those in the service line with no options for working remotely are more at risk to the virus](/images/features/2020/stand-to-work.jpg/)*Blue-collar workers and those in the service line, i.e. those who 'stand to work' with no options for working remotely are more at risk to the virus. Photo: [master1305](https://www.freepik.com)*
 
 **CL:** Switzerland is driven by small and medium enterprises (SMEs) – the lifeblood of the middle class. However, they are also the slowest to adapt to digital transformation. We have seen how COVID-19 accelerated the adaptation of digital transformation, and companies who do not latch on would risk disappearance. 
 
@@ -59,11 +59,11 @@ Earlier on, there was a period of flight in New York for anyone with a country h
 
 It is important to differentiate those who sit to work and those who stand to work. The latter has been disproportionately impacted monetarily and existentially. The city is a portfolio of types of people conscious of the loss of those who has to stand to work.
 
-![Climate change is an even more pressing issue in the light of COVID-19](/images/features/2020/climate-change.jpg/)*Climate change is an even more pressing issue in the light of COVID-19. Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) from [Pexels](https://www.pexels.com)*
-
 ---
 
 #### **On climate change, urban resilience & inclusive recovery**
+
+![Blue-collar workers and those in the service line with no options for working remotely are more at risk to the virus](/images/features/2020/stand-to-work.jpg/)*Blue-collar workers and those in the service line, i.e. those who 'stand to work' with no options for working remotely are more at risk to the virus. Photo: [master1305](https://www.freepik.com)*
 
 **CKH:** On the issue of climate change, how far do people link COVID-19 to climate change? 
 
