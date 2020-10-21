@@ -17,6 +17,8 @@ How can cities then adjust themselves to these long-term changes? What are the f
 
 #### **On the changing nature of work**
 
+![Remote working may become a permanent part of our lives](/images/features/2020/telecommute.jpg/)*Remote working may become a permanent part of our lives. Photo: [tirachardz](https://www.freepik.com)*
+
 **Dr Cheong Koon Hean (CKH):** We have seen how everyone is excited about working from home, but we do not know what the proportion and shift is, and how permanent it is going to be. While some shift will happen, the question is how much of it will happen, and how it will impact real estate and the types of spaces that you need at work and at home. 
 
 **Dr Chris Luebkeman (CL):** The question for me is about the ‘stickiness’ of change, i.e. what will stick and what will slide away. As humans, we tend to forget very quickly. When you look back at the consumption and activity curves in history, it seems that people were good at getting back at the curve. 
@@ -42,6 +44,8 @@ With everything on the cloud now, the workspace is a culture we need to keep, an
 ---
 
 #### **On social equity & digital transformation**
+
+![Remote working may become a permanent part of our lives](/images/features/2020/telecommute.jpg/)*Remote working may become a permanent part of our lives. Photo: [tirachardz](https://www.freepik.com)*
 
 **CL:** Switzerland is driven by small and medium enterprises (SMEs) – the lifeblood of the middle class. However, they are also the slowest to adapt to digital transformation. We have seen how COVID-19 accelerated the adaptation of digital transformation, and companies who do not latch on would risk disappearance. 
 
