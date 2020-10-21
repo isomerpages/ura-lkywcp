@@ -13,6 +13,8 @@ The still ongoing COVID-19 pandemic has affected our lives more extensively and 
 
 How can cities then adjust themselves to these long-term changes? What are the flaws and gaps that COVID-19 has exposed that need urgent addressing more than ever? And how can cities prepare themselves for long-term inclusive recovery in a world compounded by the ever-increasing urgency of climate change issues? The Lee Kuan Yew World City Prize Nominating Committee members gathered in a virtual roundtable to share their views on these, in the areas of work, social equity, and urban resilience. 
 
+---
+
 #### **On the changing nature of work**
 
 **Dr Cheong Koon Hean (CKH):** We have seen how everyone is excited about working from home, but we do not know what the proportion and shift is, and how permanent it is going to be. While some shift will happen, the question is how much of it will happen, and how it will impact real estate and the types of spaces that you need at work and at home. 
@@ -37,6 +39,8 @@ With everything on the cloud now, the workspace is a culture we need to keep, an
 
 > "I believe a fundamental shift will come. Work will change but people as social creatures will not change." 
 
+---
+
 #### **On social equity & digital transformation**
 
 **CL:** Switzerland is driven by small and medium enterprises (SMEs) – the lifeblood of the middle class. However, they are also the slowest to adapt to digital transformation. We have seen how COVID-19 accelerated the adaptation of digital transformation, and companies who do not latch on would risk disappearance. 
@@ -52,6 +56,8 @@ Earlier on, there was a period of flight in New York for anyone with a country h
 It is important to differentiate those who sit to work and those who stand to work. The latter has been disproportionately impacted monetarily and existentially. The city is a portfolio of types of people conscious of the loss of those who has to stand to work.
 
 ![Climate change is an even more pressing issue in the light of COVID-19](/images/features/2020/climate-change.jpg/)*Climate change is an even more pressing issue in the light of COVID-19. Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) from [Pexels](https://www.pexels.com)*
+
+---
 
 #### **On climate change, urban resilience & inclusive recovery**
 
