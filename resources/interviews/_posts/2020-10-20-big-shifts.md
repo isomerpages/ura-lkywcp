@@ -45,7 +45,7 @@ With everything on the cloud now, the workspace is a culture we need to keep, an
 
 #### **On social equity & digital transformation**
 
-![Blue-collar workers and those in the service line with no options for working remotely are more at risk to the virus](/images/features/2020/stand-to-work.jpg/)*Blue-collar workers and those in the service line, i.e. those who 'stand to work' with no options for working remotely are more at risk to the virus. Photo: [master1305](https://www.freepik.com)*
+![Blue-collar workers and those in the service line with no options for working remotely are more at risk to the virus](/images/features/2020/stand-to-work.jpg/)*Blue-collar workers and those in the service line, i.e. those who 'stand to work' with no options to work remotely are more at risk to the virus. Photo: [master1305](https://www.freepik.com)*
 
 **CL:** Switzerland is driven by small and medium enterprises (SMEs) – the lifeblood of the middle class. However, they are also the slowest to adapt to digital transformation. We have seen how COVID-19 accelerated the adaptation of digital transformation, and companies who do not latch on would risk disappearance. 
 
