@@ -59,11 +59,13 @@ Earlier on, there was a period of flight in New York for anyone with a country h
 
 It is important to differentiate those who sit to work and those who stand to work. The latter has been disproportionately impacted monetarily and existentially. The city is a portfolio of types of people conscious of the loss of those who has to stand to work.
 
+> "It is important to differentiate those who sit to work and those who stand to work. The latter has been disproportionately impacted monetarily and existentially."
+
 ---
 
 #### **On climate change, urban resilience & inclusive recovery**
 
-![Blue-collar workers and those in the service line with no options for working remotely are more at risk to the virus](/images/features/2020/stand-to-work.jpg/)*Blue-collar workers and those in the service line, i.e. those who 'stand to work' with no options for working remotely are more at risk to the virus. Photo: [master1305](https://www.freepik.com)*
+![Climate change is an even more pressing issue coupled with COVID-19 concerns](/images/features/2020/climate-change-poster.jpg/)*Climate change is an even more pressing issue coupled with COVID-19 concerns. Photo: [Daria Shevtsova](https://www.pexels.com/@daria) from [Pexels](https://www.pexels.com)*
 
 **CKH:** On the issue of climate change, how far do people link COVID-19 to climate change? 
 
@@ -90,6 +92,8 @@ It is important to differentiate those who sit to work and those who stand to wo
 **CL:** This is a good question. Until all the impacts are incorporated into the pricing of goods and service, it will be a constant challenge of a meaningful dialogue about what is the right mix of long, medium, and short distance. We can look for examples of cities who have taken steps in that direction. 
 
 With COVID-19, it is concerning for us as global citizens how borders are quickly re-established, and armour went up quickly both literally and figuratively. On the other hand, in the scientific community, there is amazing sharing and response. For example, the DNA genome is brought to Geneva from Wuhan from very first DNA stream, and this allowed sequencing from day one. **<font color="#967942">O</font>** 
+
+> "Global warming is the biggest event for all of mankind, especially for those in dangerous situations. COVID-19 is an alarm clock, and we need to stir the ship in another direction."
 
 ---
 
