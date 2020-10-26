@@ -37,9 +37,9 @@ Looking ahead, New York City has negotiated agreements to [prioritise the hiring
 
 By setting out [an ambitious GBP 159 million (approximately USD $205 million) project](http://councillors.liverpool.gov.uk/documents/s244011/Appendix%201%20-%20Economic%20Recovery%20Plan.pdf) to retrofit about 4,000 homes and build about 250 new ones in deprived neighbourhoods over the next five years, Liverpool in Britain is thinking long-term too. The initiative, which is part of the city’s COVID-19 recovery plan, includes upgrading the existing homes’ insulation and replacing their heating systems with more energy-efficient ones. When implemented, it will generate 4,360 construction jobs, lower the households’ utility bills, reduce sickness among them and cut the city’s carbon emissions. The government said: “The city’s most vulnerable people, the unemployed and those with health problems, live in the communities with the worst housing. This will provide good quality housing to the people who most need it.” 
 
-> "Leveraging a moment when policies and social norms may be more malleable than during normal times, we must take bold steps to address the inequalities this crisis has laid bare."
-
 #### **Improving life in poorer neighbourhoods**
+
+> "Leveraging a moment when policies and social norms may be more malleable than during normal times, we must take bold steps to address the inequalities this crisis has laid bare."
 
 Other cities are also taking steps to improve their less prosperous neighbourhoods and better address lower-income residents’ issues in the wake of the COVID-19 outbreak. Since May 2020, Baltimore and other cities in the state of Maryland in the United States have [enabled their low-income residents to shop for groceries online at approved stores](https://www.baltimoresun.com/coronavirus/bs-md-snap-online-groceries-20200520-guktlxumrnd2jfw2h2tx45w72q-story.html) using their government-issued financial aid debit card, so that they do not have to travel long distances to supermarkets to buy fresh and affordable food if these are not available near them. Previously, the card could be used only at physical stores. This change not only lessens the residents’ COVID-19 infection risk but is more convenient for them in the long run. 
 
