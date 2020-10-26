@@ -2,7 +2,7 @@
 title: 10 ways cities can help vulnerable citizens
 permalink: /resources/features/help-vulnerable-citizens-covid19/
 image: /images/features/2020/help-vulnerable-citizens.jpg
-description: With the COVID-19 pandemic exposing and widening digital divides among residents, cities and countries are taking steps to close the gap, both to tide citizens over the crisis and to ensure that the benefits of digital advances are shared by more, if not all, in the longer term.
+description: While the COVID-19 pandemic has disrupted cities worldwide, its impact has not been uniform. These are some ways that cities are helping their more vulnerable citizens, including seniors who live alone, people with disabilities, homeless residents and lower-income families.
 
 ---
 
@@ -10,86 +10,86 @@ description: With the COVID-19 pandemic exposing and widening digital divides am
 |---:|
 | Feng Zengkun |
 
-***With the COVID-19 pandemic exposing and widening digital divides among residents, cities and countries are taking steps to close the gap, both to tide citizens over the crisis and to ensure that the benefits of digital advances are shared by more, if not all, in the longer term.***
+***While the COVID-19 pandemic has disrupted cities worldwide, its impact has not been uniform. These are some ways that cities are helping their more vulnerable citizens, including seniors who live alone, people with disabilities, homeless residents and lower-income families.***
 
-![10 ways to close the digital gap](/images/features/2020/help-vulnerable-citizens.jpg/)*Illustration: [Freepik](http://www.freepik.com)*
+![10 ways cities can help vulnerable citizens](/images/features/2020/help-vulnerable-citizens.jpg/)*Illustration: [Freepik](http://www.freepik.com)*
 
-#### **01: A public television service**
+#### **01: Neighbourhood networks**
 
-Mindful that some students may not have computers or laptops at home, the national government in **Austria** worked with public television stations to [broadcast educational programmes](https://www.worldbank.org/en/topic/edutech/brief/how-countries-are-using-edtech-to-support-remote-learning-during-the-covid-19-pandemic) for students during their school closures from March to May 2020, with episodes for pre-school and primary school children airing from 6 am to 9 am and those for students aged 10 and older being shown from 9 am to 12 pm.
+Elderly residents who live alone may have little contact with others and could suffer from social isolation and depression. Before the COVID-19 crisis, **Barcelona** in Spain developed a [voluntary ‘Radars’ project](http://www.ub.edu/senesciencia/noticia/radars-project/) that looks after such seniors by roping in their neighbours to check in on them, and asking the shops they frequent to report any marked changes in their routine that could signal a need for help1. 
 
-In **Mexico**, with schools still closed, the government has also [recorded lessons](https://edition.cnn.com/2020/08/22/americas/mexico-covid-19-classes-on-tv-intl/index.html) for pre-kindergarten to high school students and partnered with different broadcasters to televise them around the clock, so that the children and youth can tune in at their convenience.   
-
----
-
-#### **02: Rounding up resources**
-
-Ahead of its school closures which started in March 2020, the government of **Argentina** produced and collated video lessons, self-learning resources, suggestions for learning activities, documentaries and other digital educational materials on its [Ministry of Education’s website](https://www.educ.ar/). 
-
-To broaden access to the materials, it also worked with the country’s telecommunications firms to [permanently zero-rate the website](https://www.worldbank.org/en/topic/edutech/brief/how-countries-are-using-edtech-to-support-remote-learning-during-the-covid-19-pandemic), which means that browsing the content does not consume data. It also created nine different physical notebooks with learning resources, for students from pre-primary to secondary schools, and delivered them to households with no Internet access.
+With measures to stop the spread of COVID-19 potentially isolating these seniors further, the city is [encouraging the neighbours to look in on the seniors more often](https://www.barcelona.cat/internationalwelcome/en/noticia/how-to-look-after-elderly-neighbours-during-the-confinement-period-2-2_934053), including by calling them or chatting with them from the doorway while respecting physical distancing rules. It also created an online poster which people can print and display in their building to get others to join the programme.   
 
 ---
 
-#### **03: Creating community hubs**
+#### **02: Bridging generations**
 
-With schools in **San Francisco** in the United States set to remain shut until at least the end of this year, the city is taking a different approach to help students who lack Internet access or digital devices at home. It is converting more than 40 recreation centres, libraries, cultural centres and other public facilities to act as [‘Community Learning Hubs’](https://sfmayor.org/article/mayor-london-breed-announces-community-learning-hubs-support-distance-learning-and-extension) from September 2020 until schools reopen.
+**Greenwich** in the United States, on other hand, has partnered with schools to offer such seniors company during the pandemic. It has created a [‘Bridging the Generations’ programme](https://www.aarp.org/content/dam/aarp/livable-communities/age-friendly-network/2020/5-may-covid-responses/Bridging%20the%20Generations%20Greenwich,%20Connecticut,%20Press%20Release.pdf) that connects vetted high school students with elderly residents for regular phone or video calls to alleviate the latter’s loneliness. The city noted that the students benefit too: “Older adults are valuable mentors and sources of support for our students.”
 
-The hubs will observe safe distancing while providing free full-day learning programmes, computers and healthy food for up to 6,000 youth and children, with priority given to those in public housing, foster care, low-income households and other disadvantaged communities.
+The Greenwich Country Day School and Greenwich Commission on Ageing are also [hosting daily online classes](https://www.aarp.org/livable-communities/network-age-friendly-communities/info-2020/greenwich-connecticut-COVID-19-response.html), exercises and performances which the seniors can join via a computer, tablet, smartphone or landline. 
 
 ---
 
-#### **04: Devices for donation**
+#### **03: Improving oversight**
+
+With many cities moving quickly to cope with the impact of the COVID-19 crisis, the effect of their policies on people with disabilities may fall through the cracks. A way to prevent this is to follow the example of **Pittsburgh** in the United States, which has [appointed a Disability Service Facilitator for each city department](https://pittsburghpa.gov/press-releases/press-releases/4383) to review how policies will affect accessibility, advise on related issues and resolve violations of the Americans with Disabilities Act (ADA).
+
+Ms Hillary Roman, Pittsburgh’s ADA Coordinator, noted: “The city is a large entity serving a diverse community that interfaces with each department differently. Having these facilitators is a significant and meaningful step toward making the city’s disability inclusion efforts more holistic and robust.”
+
+---
+
+#### **04: Designing for disabilities**
 
 ![Donation of used devices can benefit children of low-income families](/images/features/2020/girl-laptop.jpg/)*Donation of used devices can benefit children of low-income families. Photo: [Freepik](http://www.freepik.com)*
 
-**Kansas City** in the United States is calling on businesses to aid in bridging the digital divide. In a permanent programme called the [‘Employer Laptop Challenge’](https://www.kansascityfed.org/community/employer-laptop-challenge) launched in April 2020, it is asking companies and other organisations to donate used laptops, tablets or computers to designated non-profit refurbishers who will repair, reset and clean them before giving them to schools, non-profit groups and lower-income families. 
+As **San Francisco** in the United States adds bicycle lanes to facilitate physical distancing, it is also [taking care to implement features so that people in wheelchairs, seniors in walkers and others with mobility issues can cross them more safely](https://sf.streetsblog.org/2020/03/19/protected-bike-lanes-seniors-and-the-disabled/). These include narrowing the lanes before crossing points to signal cyclists to slow down, and making the crossing points more conspicuous through paint and reflective markings. 
 
-As of early September 2020, the programme has [redirected more than 1,800 of the electronic devices to those who need them](https://www.kansascityfed.org/publications/community/connections/articles/2020/elc%20-%20donor%20interviews%20sept%202020). 
-
----
-
-#### **05: Help to work from home**
-
-With more companies turning to remote working temporarily or permanently since the start of the COVID-19 pandemic, some countries are subsidising the cost of such transitions for small and medium enterprises who cannot afford them otherwise. In **Japan**, the government committed in March 2020 to [pay half of the cost of equipment for remote working for such businesses](https://www.japantimes.co.jp/opinion/2020/03/05/editorials/use-coronavirus-crisis-promote-teleworking/), up to a cap of JPY 1 million (approximately USD $9,400) per firm.
+Where the lanes are next to roadside parking spaces, ample buffer space is provided between them so that people in wheelchairs can deploy lifts and ramps to enter and exit their vehicles. If there are bollards between the lanes and parking lots, these are also spaced widely enough for vehicle doors to fully open and the lifts and ramps to be used.  
 
 ---
 
-#### **06: A virtual boost**
+#### **05: Help for the homeless**
 
-To give small businesses a better chance of surviving the COVID-19 pandemic and prospering afterwards, **Detroit** in the United States is [offering them a free virtual course](https://nextcity.org/daily/entry/digital-detroit-works-bridge-digital-divide-for-small-and-micro-businesses) in website development, branding, content creation and other areas to advertise their products and services online. About 100 firms underwent the five-week pilot programme that concluded in July 2020, and the goal is to scale up the course to get 10,000 small businesses online. 
+[Homeless people are especially vulnerable to contracting the coronavirus and spreading it](https://www.wired.com/story/coronavirus-covid-19-homeless/) because they rely on shared spaces such as soup kitchens for food and hygiene. To protect them and help them in the longer term, **Athens** in Greece has [established a multipurpose homeless centre](https://inclusivecities4all.eu/pledges/athens/) that offers not only safe shelter but medical and psychosocial support services, as well as help in finding a job. 
 
-Ms Charity Dean, Director of the city’s Civil Rights, Inclusion and Opportunity Department, said: “Many small businesses do not have the budget to invest in branding and website development, especially during this time when it is uncertain if they will be able to cover payroll and common business expenses. We are doing everything in our power to fill in the gaps for them.”
-
----
-
-#### **07: Signing up stallholders**
-
-The city-state of **Singapore** is betting that a personal approach and financial incentives will persuade all 18,000 stallholders in its hawker food centres and markets to adopt a national electronic payment solution called the [‘Singapore Quick Response Code’](https://www.channelnewsasia.com/news/singapore/1000-digital-ambassadors-recruit-help-stallholders-seniors-12789146) by June 2021. This system reduces the handling of cash, minimising the risk of Covid-19 infections, and leads to more seamless transactions.
-
-In June 2020, the city tasked 1,000 full-time staff and part-time volunteers with encouraging the stallholders to install the system. Until May 2021, the stallholders will also receive SGD $300 (approximately USD $219) for each month where they complete at least 20 transactions worth at least SGD $1 (approximately USD $0.70) each on the system, up to a maximum of five pay-outs. As of mid-August 2020, [nearly a third of them have signed up to use the system](https://www.straitstimes.com/tech/nearly-a-third-of-18000-stalls-in-hawker-centres-and-markets-now-offer-e-payments). 
+It also opened another homeless shelter that focuses more specifically on people with serious drug addictions. This centre operates detoxification, counselling and other programmes to give the homeless citizens their best chance of staying off the streets in the long run.
 
 ---
 
-#### **08: Reaching out to the elderly**
+#### **06: A lifeline for abuse victims**
+
+To help domestic abuse victims who may be trapped with their abusers due to quarantines and movement restriction orders, many French cities such as [**Nice**](https://covidnews.eurocities.eu/2020/03/31/nice-tackling-domestic-violence/) and [**Nancy**](https://abcnews.go.com/International/french-women-code-words-pharmacies-escape-domestic-violence/story?id=69954238) have designated pharmacies as safe spaces where they can seek help, including by saying a code word if they are with their abusers. Pharmacies were chosen as they remain open during lockdowns and are visited by many during the COVID-19 pandemic.
+
+---
+
+#### **07: Crowdsourcing support**
+
+Cities could turn to crowdsourcing to expand their resources to help residents in need. In May 2020, the Turkish city of **Istanbul** [created a website](https://askidafatura.ibb.gov.tr/) where people can help to pay its low-income residents’ utility bills. [Istanbul Mayor Ekrem İmamoğlu explained the decision](https://www.ibb.istanbul/en/News/Detail/1519): “Many citizens call the municipality to ask what they can do for those experiencing financial difficulties, so we are pairing up burdened citizens with those who want to help.”
+
+Only the city can upload bills to the website, and the personal details of the families and donors are anonymised. To date, the initiative has helped about 182,700 households pay nearly TRY 25 million (approximately USD $3.2 million) of bills.
+
+---
+
+#### **08: Equalising Internet access**
 
 ![Helping the elderly stay in touch digitally](/images/features/2020/elderly-laptop.jpg/)*Helping the elderly stay in touch digitally. Photo: [katemangostar / Freepik](http://www.freepik.com)*
 
-Elderly citizens, especially those who live alone, are among the most vulnerable to the COVID-19 coronavirus and the isolation caused by movement restrictions. In May 2020, **New York City** in the United States [distributed tablets with Internet connectivity](https://www1.nyc.gov/assets/cto/#/project/connected-nycha-older-adults) paid for by the city to 10,000 of them who are living in its public housing units, so that they can stay connected with family and friends.
+With the COVID-19 pandemic shifting more of people’s lives online, lower-income families will be disadvantaged in areas from work to education if they cannot afford Internet access. To avert this, **Toronto** in Canada is collaborating with technology firms and service providers to [provide up to 25 free WiFi hotspots in low-income neighbourhoods](https://www.newswire.ca/news-releases/cisco-and-the-city-of-toronto-launch-digital-canopy-to-expand-internet-access-for-underserved-communities-841483491.html) by the end of 2020. 
 
-Staff from the city’s Department for the Aging and Older Adults Technology Services set up the tablets for them and showed them how to operate the devices, access free classes and other resources, and communicate with their loved ones. 
-
----
-
-#### **09: All in on inclusivity**
-
-In August 2020, the Spanish city of **Barcelona** announced that it would spend EUR 700,000 (approximately USD $828,000) by the end of the year on [a range of digital inclusivity measures](https://www.barcelona.cat/en/noticia/more-resources-to-combat-the-digital-divide_979064) to tackle inequalities underlined by the COVID-19 pandemic1. 
-
-Among the upcoming projects are a survey to map neighbourhoods’ and households’ access to the Internet and identify people’s digital needs, the improvement of Wi-Fi networks at public facilities, and the deployment of staff to help more residents learn how to access digital government services and use basic apps for videoconferencing and other business purposes.
+These will connect about 13,000 citizens in 6,600 homes to the Internet for free for up to a year. Mr Lawrence Eta, Toronto’s chief technology officer, said the initiative is needed now more than ever, with many public spaces that usually offer free Internet service still closed due to the coronavirus: “It is critical that we make the digital realm accessible for all.” 
 
 ---
 
-#### **10: Ensuring equal access** 
+#### **09: Closing digital gaps**
 
-Under an ongoing agreement between the government of **New Zealand** and the country’s three largest telco operators, residents who use the companies’ mobile networks can [access 11 key health websites and two online health services portals free of data charges](https://www.health.govt.nz/news-media/media-releases/sponsored-data-partnership-helps-bridge-digital-divide-access-essential-health-information-and) between July 2020 and June 2021. 
+**Sacramento** in the United States, for its part, has piloted a [‘Digital Equity’ programme](https://sacramentocityexpress.com/2020/09/28/free-internet-computers-and-digital-training-available-to-sacramento-households-in-need/) to give up to 10,000 households free broadband access until December, after which they can continue to have the service at a discounted rate. It is also offering up to 1,000 households free computers and lessons on how to use them. Both streams of the programme will prioritise low-income households with children and seniors.
 
-Dr Ashley Bloomfield, New Zealand’s Director-General of Health, said that the agreement was necessary to ensure fair access to essential information about the development of the Covid-19 situation within the nation. The collaboration will also be reviewed every six months to determine if it should be extended. **<font color="#967942">O</font>**
+The city is working with non-profit organisations and school districts to identify the families in need as well as ‘digital champions’ who will teach them basic digital literacy. Sacramento Mayor Darrell Steinberg said: “The COVID-19 pandemic has disproportionately affected our low-income communities and made it even more crucial that we close the digital divide.”
+
+---
+
+#### **10: A tripartite solution** 
+
+In **São Paulo**, Brazil, a project called [‘Connect the Dots’](https://www.mayorsmigrationcouncil.org/mmc-city-spotlight/sao-paulo) is helping three vulnerable groups of residents through the COVID-19 crisis. The city buys produce from farmers struggling to sell it, trains people from historically excluded groups such as transgendered residents, migrants and refugees to cook meals with the ingredients, and distributes the food to needy families. 
+
+The project, launched in 2017, has been supported by partners such as Bloomberg Philanthropies, the International Labour Organisation and the city’s University of Campinas. **<font color="#967942">O</font>**
