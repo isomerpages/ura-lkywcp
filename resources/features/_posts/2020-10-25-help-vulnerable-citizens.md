@@ -16,7 +16,7 @@ description: While the COVID-19 pandemic has disrupted cities worldwide, its imp
 
 #### **01: Neighbourhood networks**
 
-Elderly residents who live alone may have little contact with others and could suffer from social isolation and depression. Before the COVID-19 crisis, **Barcelona** in Spain developed a [voluntary ‘Radars’ project](http://www.ub.edu/senesciencia/noticia/radars-project/) that looks after such seniors by roping in their neighbours to check in on them, and asking the shops they frequent to report any marked changes in their routine that could signal a need for help1. 
+Elderly residents who live alone may have little contact with others and could suffer from social isolation and depression. Before the COVID-19 crisis, **Barcelona** in Spain developed a [voluntary ‘Radars’ project](http://www.ub.edu/senesciencia/noticia/radars-project/) that looks after such seniors by roping in their neighbours to check in on them, and asking the shops they frequent to report any marked changes in their routine that could signal a need for help. 
 
 With measures to stop the spread of COVID-19 potentially isolating these seniors further, the city is [encouraging the neighbours to look in on the seniors more often](https://www.barcelona.cat/internationalwelcome/en/noticia/how-to-look-after-elderly-neighbours-during-the-confinement-period-2-2_934053), including by calling them or chatting with them from the doorway while respecting physical distancing rules. It also created an online poster which people can print and display in their building to get others to join the programme.   
 
