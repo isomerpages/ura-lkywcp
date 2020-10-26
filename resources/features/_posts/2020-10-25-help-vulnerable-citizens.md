@@ -80,7 +80,7 @@ These will connect about 13,000 citizens in 6,600 homes to the Internet for free
 
 #### **09: Closing digital gaps**
 
-![Helping the elderly stay in touch digitally](/images/features/2020/elderly-laptop.jpg/)*Helping the elderly stay in touch digitally. Photo: [katemangostar / Freepik](http://www.freepik.com)*
+![Bridging digital gaps for all](/images/features/2020/mother-son-laptop.jpg/)*Bridging digital gaps for all. Photo: [Freepik](http://www.freepik.com)*
 
 **Sacramento** in the United States, for its part, has piloted a [‘Digital Equity’ programme](https://sacramentocityexpress.com/2020/09/28/free-internet-computers-and-digital-training-available-to-sacramento-households-in-need/) to give up to 10,000 households free broadband access until December, after which they can continue to have the service at a discounted rate. It is also offering up to 1,000 households free computers and lessons on how to use them. Both streams of the programme will prioritise low-income households with children and seniors.
 
