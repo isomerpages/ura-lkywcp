@@ -11,7 +11,7 @@ description: More cities are taking steps to address inequalities exposed and de
 
 ***More cities are taking steps to address inequalities exposed and deepened by the COVID-19 crisis. In this third in a series of articles examining how cities are planning for a more sustainable and equitable recovery, we look at initiatives to boost affordable housing, help low-wage workers and improve poorer neighbourhoods.***
 
-![With remote working becoming the new normal, cities could rethink the way we work](/images/features/2020/covid-homeless.jpg/)*With remote working becoming the new normal, cities could rethink the way we work. Photo: [diana.grytsku / Freepik](http://www.freepik.com)*
+![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg/)*COVID-19 has exposed the equity gaps in cities more so than ever. Photo: [Korakoch Sookkerd](https://www.123rf.com/profile_korakochstock) © [123rf.com](https://www.123rf.com)*
 
 From London to Paris to New York, cities worldwide are confronting a grim reality: the COVID-19 pandemic has hit their poorer residents harder due to many reasons, causing higher unemployment and death rates among them1. “Many people who are higher-income have the resources and ability to work from home, which enable them to create layers of protection for themselves and ensure that they don’t come into contact with the virus,” explained Dr Steven Hoffman, a professor of global health, law and political science at Canada’s York University. Many low-income people, on the other hand, have jobs, including in the food, service and retail industries, that involve contact with others and cannot be done remotely, forcing them to choose between making a living and staying safe.
 
