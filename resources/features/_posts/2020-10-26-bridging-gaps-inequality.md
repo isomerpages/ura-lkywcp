@@ -39,6 +39,8 @@ By setting out [an ambitious GBP 159 million (approximately USD $205 million) pr
 
 #### **Improving life in poorer neighbourhoods**
 
+<br>
+
 > "Leveraging a moment when policies and social norms may be more malleable than during normal times, we must take bold steps to address the inequalities this crisis has laid bare."
 
 Other cities are also taking steps to improve their less prosperous neighbourhoods and better address lower-income residents’ issues in the wake of the COVID-19 outbreak. Since May 2020, Baltimore and other cities in the state of Maryland in the United States have [enabled their low-income residents to shop for groceries online at approved stores](https://www.baltimoresun.com/coronavirus/bs-md-snap-online-groceries-20200520-guktlxumrnd2jfw2h2tx45w72q-story.html) using their government-issued financial aid debit card, so that they do not have to travel long distances to supermarkets to buy fresh and affordable food if these are not available near them. Previously, the card could be used only at physical stores. This change not only lessens the residents’ COVID-19 infection risk but is more convenient for them in the long run. 
