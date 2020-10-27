@@ -68,15 +68,15 @@ description: Faced with opposition to urban development from an increasingly voc
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/metro.png" alt="metro" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/case-studies/icon-speech.png" alt="engagement" /><br></td>
   <td style="text-align: left; vertical-align: top;"><br>Citizen engagement allowed innovative urban solutions<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/time.png" alt="time" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/case-studies/paper.png" alt="transparency" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Transparency to citizens<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/inhabitants.png" alt="inhabitants" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/icon-money.png" alt="projects" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Citizen-initiated projects implemented<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/public-spacez.png" alt="public space" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/case-studies/icon-people.png" alt="citizens" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Citizens involved in planning processes<br></td>
 </tr>
 </tbody>
