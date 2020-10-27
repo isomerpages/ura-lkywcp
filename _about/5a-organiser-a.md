@@ -15,3 +15,7 @@ We take on a multi-faceted role to turn plans and visions into reality. As the m
 In shaping a distinctive city, we promote architecture and urban design excellence, and innovate to build a resilient city of opportunity that fulfils the aspirations of our people. 
 
 Visit [www.ura.gov.sg](https://www.ura.gov.sg) for more information.
+
+#### **More**
+
+- [Prize Secretary](/about/prize-secretary/)
