@@ -11,7 +11,7 @@ Lee Kuan Yew World City Prize
 
 ---
 
-**Mr Ng Lye Hock, Larry** is the Commissioner General, Singapore Pavilion, Expo 2020 Dubai UAE and Prize Secretary, Lee Kuan Yew World City Prize.
+**Mr Ng Lye Hock, Larry** is the Commissioner General, [Singapore Pavilion](https://www.singapore2020expo.gov.sg/), Expo 2020 Dubai UAE and Prize Secretary, Lee Kuan Yew World City Prize.
 
 Mr Ng is also appointed by the Minister for National Development as the Registrar of the [Board of Architects, Singapore](https://www.boa.gov.sg/) since 2006, with the mission to enhance competency, integrity and professionalism of the practice of architecture in Singapore. As the Registrar, he chaired the ASEAN Mutual Recognition Agreement on Architectural Services from 2006 to 2009 and was instrumental in the setting up of the ASEAN Architects Council. He also served as Chairman of the ASEAN Business Services Sectoral Working Group from 2010 to 2017, with the mission to achieve mobility of professionals within ASEAN. He was also involved in the APEC Architect Project since 2006 and was also instrumental in setting up the new Reciprocal Recognition Framework.
 
