@@ -40,7 +40,7 @@ description: Faced with opposition to urban development from an increasingly voc
 
 #### **Leadership and governance**
 
-![MetroCable at Santo Domingo](/images/features/2020/santo-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore*
+![The improved citizen engagement processes of Seoul](/images/features/2020/seoul-engagement-diagram.jpg/)*The improved citizen engagement processes of Seoul*
 
 - The governance structure under Seoul Plan 2030 became the model for which all planning processes must follow. Citizens’ participation became the norm in urban planning, and its impact has been shown in other planning efforts. 
 - For instance, community plans are established for the sub-regions of Seoul, to actualise the visions and strategies under the Seoul Plan 2030 in these smaller areas. 
@@ -51,7 +51,7 @@ description: Faced with opposition to urban development from an increasingly voc
 
 #### **Creativity and innovation**
 
-![A metro library](/images/features/2020/metro-library.jpg/)*A metro library. Photo: Urban Redevelopment Authority Singapore*
+![The planning processes of Seoul Plan 2030](/images/features/2020/seoul-plan-processes.jpg/)*The planning processes of Seoul Plan 2030*
 
 - Seoul Plan 2030 is the city’s first master plan that allows citizens to propose its vision and action plans for the city. 
 - A Citizen Participatory Group comprising 100 members was convened to chart the future of Seoul, identify challenges and propose solutions, together with city officials, planning experts and local politicians. This helped to gain public support. 
