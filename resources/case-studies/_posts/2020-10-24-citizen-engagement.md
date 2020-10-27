@@ -27,7 +27,7 @@ description: Faced with opposition to urban development from an increasingly voc
 
 #### **Key issues faced before the implementation of the project**
 
-![Construction of MetroCable Picacho](/images/features/2020/metrocable-picacho.jpg/)*Construction of MetroCable Picacho. Photo: ACI Medellín*
+![A highway plies above the Cheonggyecheong stream pre-restoration](/images/features/2020/seoul-before.jpg/)*A highway plies above the Cheonggyecheong stream pre-restoration. Photo: Seoul Metropolitan Government*
 
 - Since the democratisation of Seoul in 1995, citizens increasingly desired to participate in local matters. With more expression of opinions on local matters, conflicts began to arise between different interest groups, NGOs and the public sector. 
 - Implementing large scale urban development projects became more challenging than before as the city would now need to engage multiple stakeholders and accommodate their demands from the start. 
@@ -92,7 +92,7 @@ description: Faced with opposition to urban development from an increasingly voc
 
 #### **Replicable ideas**
 
-![Public spaces at the base of MetroCable pylons](/images/features/2020/metrocable-pylon.jpg/)*Public spaces at the base of MetroCable pylons. Photo: Urban Redevelopment Authority Singapore*
+![Extensive public engagement efforts led to a happier populace](/images/features/2020/seoul-happy-citizens.jpg/)*Extensive public engagement efforts led to a happier populace. Photo: Seoul Metropolitan Government*
 
 - The governance structure created for Seoul Plan 2030 can serve as a platform to reach social consensus on follow-up plans, with citizens at the centre of processes. 
 - A city’s master plan can contain strategies for the better future ‘of the citizen’, ‘by the citizens’ and ‘for the citizens’. It is an important step for a city to progress not just in material prosperity but also in a way that the citizens desired. **<font color="#967942">O</font>**
