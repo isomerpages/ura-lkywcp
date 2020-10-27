@@ -69,15 +69,15 @@ description: Faced with opposition to urban development from an increasingly voc
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/metro.png" alt="metro" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Metro mobolised over 2 billion passengers<br></td>
+  <td style="text-align: left; vertical-align: top;"><br>Citizen engagement allowed innovative urban solutions<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/time.png" alt="time" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Travel time reduced<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Transparency to citizens<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/inhabitants.png" alt="inhabitants" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>230,000 residents at Santo Domingo benefited<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Citizen-initiated projects implemented<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/public-spacez.png" alt="public space" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>New public spaces generated<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Citizens involved in planning processes<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
