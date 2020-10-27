@@ -1,12 +1,12 @@
 ---
 title: Negotiating for a better future
 permalink: /resources/case-studies/citizen-engagement/
-image: /images/features/2020/metrocable-medellin.jpg
-description: Faced with opposition to urban development from an increasingly vocal populace, Seoul can either take the easy way out or face its challenges. Fortunately, under wise leadership, the city chose the latter path and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.
+image: /images/features/2020/seoul-happy-citizens.jpg
+description: Faced with increasing public opposition to urban development, Seoul could have taken the easy way out. Fortunately, the city chose to face its challenges and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.
 
 ---
 
-***Faced with opposition to urban development from an increasingly vocal populace, Seoul can either take the easy way out or face its challenges. Fortunately, under wise leadership, the city chose the latter path and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.*** 
+***Faced with increasing public opposition to urban development, Seoul could have taken the easy way out. Fortunately, the city chose to face its challenges and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.*** 
 
 <br>
 
