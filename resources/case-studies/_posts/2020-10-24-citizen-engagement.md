@@ -20,7 +20,7 @@ description: Faced with opposition to urban development from an increasingly voc
 ![Seoul Plan 2030](/images/features/2020/seoul-plan-2030.jpg/)*Seoul Plan 2030*
 
 - An increasing vocal populace largely left of development decisions in the past proved to be a hindrance to Seoul’s urban development since the 90s. Instead of taking the easy way out and tapering off controversial projects, the city took on the challenge of engaging its citizens for all development projects. 
-- Extensive participatory planning efforts culminated in the Seoul Plan 2030, with a vision – “Happy City of Citizens with Communication & Consideration” decided by citizens.
+- Extensive participatory planning efforts culminated in the [Seoul Plan 2030](http://english.kompass.kr/policy/urban-planning/urban-planning/1-2030-seoul-basic-urban-plan/), with a vision – “Happy City of Citizens with Communication & Consideration” decided by citizens.
 - On top of that, the government launched the ‘Participatory Budget System’ and ‘Community Building Project’ to give citizens a bigger say in local matters. 
 
 ---
