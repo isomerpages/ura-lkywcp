@@ -2,16 +2,16 @@
 title: Negotiating for a better future
 permalink: /resources/case-studies/citizen-engagement/
 image: /images/features/2020/metrocable-medellin.jpg
-description: Medellín’s MetroCable is the first of its kind in the world – a cable car system designed as mass transit. It connects marginalised communities in inaccessible mountain areas to the city centre, opens opportunities to employment and education, and breaks down socioeconomic stratification.
+description: Faced with opposition to urban development from an increasingly vocal populace, Seoul can either take the easy way out or face its challenges. Fortunately, under wise leadership, the city chose the latter path and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.
 
 ---
 
-***Medellín’s MetroCable is the first of its kind in the world – a cable car system designed as mass transit. It connects marginalised communities in inaccessible mountain areas to the city centre, opens opportunities to employment and education, and breaks down socioeconomic stratification.*** 
+***Faced with opposition to urban development from an increasingly vocal populace, Seoul can either take the easy way out or face its challenges. Fortunately, under wise leadership, the city chose the latter path and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.*** 
 
 <br>
 
-| **City** | Medellín |
-| **Type** | Transportation/urban regeneration |
+| **City** | Seoul |
+| **Type** | Urban planning |
 | **Location** | Citywide |
 | **Scale** | Large |
 
@@ -19,9 +19,9 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 ![Children playing while the MetroCable soars overhead](/images/features/2020/metrocable-medellin.jpg/)*Children playing while the MetroCable soars overhead. Photo: ACI Medellín*
 
-- In 2004, Medellín introduced the MetroCable at Santo Domingo Savio – the world’s first cable car system for daily commuting, [at a cost of USD $24 million](https://www.centreforpublicimpact.org/case-study/urban-cable-car-medillincolombia/). 
-- For the first time, the previously inaccessible and marginalised communities in this neighbourhood were given a direct access to the rest of the city, hence opening up a world of opportunities for them. 
-- The MetroCable is an example of a strategic urban intervention that simultaneously solved many issues at once and became a catalyst for further transformation in other parts of the city when people saw the benefits it brought to the communities. 
+- An increasing vocal populace largely left of development decisions in the past proved to be a hindrance to Seoul’s urban development since the 90s. Instead of taking the easy way out and tapering off controversial projects, the city took on the challenge of engaging its citizens for all development projects. 
+- Extensive participatory planning efforts culminated in the Seoul Plan 2030, with a vision – “Happy City of Citizens with Communication & Consideration” decided by citizens.
+- On top of that, the government launched the ‘Participatory Budget System’ and ‘Community Building Project’ to give citizens a bigger say in local matters. 
 
 ---
 
@@ -29,12 +29,12 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 ![Construction of MetroCable Picacho](/images/features/2020/metrocable-picacho.jpg/)*Construction of MetroCable Picacho. Photo: ACI Medellín*
 
-- Located in the Aburrá Valley in the central Andes, Medellín saw a significant industrial boom in the mid-20th century, and an increase of its population by almost ten times, comprising mostly rural-urban migration at its peripherals. 
-- The city centre and the city’s richest population are located in the valley, well served by amenities. On the other hand, illegal settlements are located on inaccessible mountainous areas, lacking public spaces, transport options, and opportunities for education and employment. 
-- This created a socioeconomic stratification along the cross-section of the valley. [77% of its 600,000 dwelling units are occupied by the lowest socioeconomic levels, 19% by middle and upper-middle levels, and only 4% by the high economic levels](https://urbandesignprize.gsd.harvard.edu/porto-medellin/medellin/). 
-- By the 80s, an increasingly segregated society exacerbated by drug-related violence in the poorest neighbourhoods drove the city into a state of crisis that would continue to plague itself into the 90s. 
-- Long-term plans and dialogues in the 80s and 90s, and iterations of its master strategy over various leaderships emphasising a fair and equal society and developing its human capital finally came to fruition over a two-decade period. 
-- Among these are a series of innovative and strategic urban interventions and social innovation projects that brought about the biggest impacts. 
+- Since the democratisation of Seoul in 1995, citizens increasingly desired to participate in local matters. With more expression of opinions on local matters, conflicts began to arise between different interest groups, NGOs and the public sector. 
+- Implementing large scale urban development projects became more challenging than before as the city would now need to engage multiple stakeholders and accommodate their demands from the start. 
+- A fast-paced government-led development in the past brought benefits to the city, but gradually disintegrated community ties, local identities and communal traditions. 
+- Past master plans were ineffective in coping with the rapid changes in social conditions, such as the rise of single-person households, social polarisation and worsening gender inequality. Citizens were also largely left out of their formulation. 
+- The lack of an effective master plan translates to an inconsistent urban development, risking a disorderly development pattern across the city. 
+- A Conflict Mediation Division was established in 2012 with the goal to avert and manage public conflicts. 
 
 ---
 
@@ -42,12 +42,10 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 ![MetroCable at Santo Domingo](/images/features/2020/santo-domingo.jpg/)*MetroCable at Santo Domingo. Photo: Urban Redevelopment Authority Singapore*
 
-- The city set up the public transport company *‘Empresa de Transporte Masivo del Valle de Aburrá Limitada – Metro de Medellín Ltda’* in 1979 with the purpose of building, administrating and operating a mass transport system. 
-- To carry out this project, the Municipality of Medellín and the Department of Antioquia (province) started a joint venture with equal stakes, making the creation of the said company possible. 
-- In 1979, the technical and economic feasibility studies began, subsequently leading to Medellín developing and opening the country’s first Metro system in 1995, which is 33 years ahead of capital city Bogotá’s projected first Metro line slated to open in 2028. 
-- The city uses a planning instrument called *‘Proyecto Urbano Integral’* (Integrated Urban Project or PUI) for the planning and physical interventions in the most marginalised areas, aiming to improve the quality of life through public spaces and mobility options. 
-- PUIs are part of the city’s strategic urban projects funded by *‘Empresa de Desarrollo Urbano’* (EDU) – an autonomous public company. 
-- Together with the city authorities, the Metro company and local community, participants of the PUI helped to identify the locations of MetroCable stations to bring about the biggest impacts to the neighbourhoods.
+- The governance structure under Seoul Plan 2030 became the model for which all planning processes must follow. Citizens’ participation became the norm in urban planning, and its impact has been shown in other planning efforts. 
+- For instance, community plans are established for the sub-regions of Seoul, to actualise the visions and strategies under the Seoul Plan 2030 in these smaller areas. 
+- Citizen participatory groups are also formed at various levels as small as neighbourhoods. 
+- The regional planning process is designed as a bottom-up process where citizens’ inputs are fully accounted for. The city organises educational programmes to cultivate citizens, while ensuring full transparency of the planning processes.
 
 ---
 
@@ -55,9 +53,13 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 ![A metro library](/images/features/2020/metro-library.jpg/)*A metro library. Photo: Urban Redevelopment Authority Singapore*
 
-- The Metro company recognised its role of social responsibility and has implemented various measures for greater social inclusion. For example, *‘Cultura Metro’* (Metro Culture) is an initiative where local guides are employed to educate the public on good public behaviour in metro stations and trains. Likewise, a ‘Metro Friends’ programme reaches out to children on how to take care of public spaces. 
-- Metro stations also double up as a node for quick access to information, with the integration of computer rooms, artworks celebrating local historic figures, small libraries, and open bookshelves where commuters can borrow books to read on the go and return later. 
-- Under the aforementioned PUI, public spaces are developed around the bases of MetroCable pylons, creating communal nodes for play and rest within the communities. 
+- Seoul Plan 2030 is the city’s first master plan that allows citizens to propose its vision and action plans for the city. 
+- A Citizen Participatory Group comprising 100 members was convened to chart the future of Seoul, identify challenges and propose solutions, together with city officials, planning experts and local politicians. This helped to gain public support. 
+- The Community Governance Project incorporates ground-up processes in day-to-day operations, where residents are given a say over local issues that affect their communities directly.
+- The Participatory Budget System allows citizens to decide the use of up to 5% of the city’s annual budget. Since 2012, about KRW 50 – 60 billion (approximately USD $43 – 53 million) each year is set aside for projects proposed by citizens. Anyone who live, work and attend school in Seoul are eligible to vote for the projects. 
+- The Community Building Project overseen by the city’s Community Building Division provides help such as training and consulting to residents with ideas to improve their neighbourhoods. City-wide Town Community Support Centres are also established for residents to seek help in implementing their ideas.
+- After Seoul Metropolitan Council confirms each year’s budget, the Conflict Mediation Division analyses all slated projects and identifies those that could cause public unhappiness. With the help of professional mediators, the city then formulates resolution strategies to tackle them in a sensitive manner. 
+- If disagreements do occur, a conflict mediation agency conducts in-depth interviews with the parties and designs a settlement process, together with third-party professional mediators if necessary.  
 
 ---
 
@@ -80,12 +82,11 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
 
-- The Medellín Metro has mobilised over 2 billion passengers since the start of its operations to the mid-2010s. 
-The integrated transport system covers the Metro (34km), the MetroCable (9.3km), the Metroplús bus system (18km), the Tranvia tram system (4.3km), and a cycling network of 11.2km. The Metro is [considered one of the most efficient in Latin America](https://urbandesignprize.gsd.harvard.edu/porto-medellin/medellin/), with a speed of 37km/h. 
-- The MetroCable has reduced travel times from Santo Domingo to the city centre from over an hour to under ten minutes, benefiting some 230,000 residents. 
-- Under the integrated mass transport system, citizens get to enjoy new and wide sidewalks, modern stations, and dedicated bus lanes. 
-190,000m<sup>2</sup> of new public spaces were generated and more than 5,400 new trees were planted along various corridors of the transport system.  
-The new Tranvia tram system connects some 60,000 people on a daily basis, along a 4.3km route and under 11 minutes. 
+- Seoul’s extensive citizen engagement processes allowed the city to push forward with unconventional urban solutions such as the removal of a highway to restore the Cheonggyecheon stream, conversion of the Seoul Station Overpass into Seoullo 7017, and rehabilitation of commercial superblocks into Sewoon Makercity. 
+- Through the regular monitoring and publishing of results in the press, Seoul has ensured transparency and managed to build trust with citizens. 
+- For the Community Building Project in neighbourhood of Seokgwan-dong, residents of the Seokgwan Doosan Apartments complex, comprising 25 buildings with 1,998 households, received assistance to carry out their energy-saving ideas. For example, the residents installed LED lights in the basement car park that reduced electricity charges by KRW 18 million (approximately USD $16,000) each month. They also conduct an energy-saving class attended by residents from other estates.
+- Under the Participatory Budget System, nearly 117,000 people voted for projects in 2017. Before that, the vote was limited to a committee of 250 people selected through a random electronic draw. 
+- Between 2012 – 2018, many community projects have received funding through the Participatory Budget System. These include gas safety valves installation in the homes of low-income elderly, setting up community restaurant that makes bean sprout dishes with bean sprout grown in senior citizen centres, initiatives to stop bullying and school violence, and improvement of facilities for people with disabilities.
 
 ---
 
@@ -93,5 +94,5 @@ The new Tranvia tram system connects some 60,000 people on a daily basis, along 
 
 ![Public spaces at the base of MetroCable pylons](/images/features/2020/metrocable-pylon.jpg/)*Public spaces at the base of MetroCable pylons. Photo: Urban Redevelopment Authority Singapore*
 
-- The MetroCable was perceived as a success when it first opened in 2004. It has since inspired many other Latin American cities with similar topographies, such as Rio de Janeiro and La Paz, to adopt cable cars as a form of daily commuting public transport tool.  
-- Cities facing similar challenges could learn from Medellín’s approach of an integrated stakeholder engagement process, where all parties are involved in the planning of the MetroCable system to ensure its success and local buy-in. **<font color="#967942">O</font>**
+- The governance structure created for Seoul Plan 2030 can serve as a platform to reach social consensus on follow-up plans, with citizens at the centre of processes. 
+- A city’s master plan can contain strategies for the better future ‘of the citizen’, ‘by the citizens’ and ‘for the citizens’. It is an important step for a city to progress not just in material prosperity but also in a way that the citizens desired. **<font color="#967942">O</font>**
