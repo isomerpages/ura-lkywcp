@@ -34,7 +34,6 @@ description: Faced with increasing public opposition to urban development, Seoul
 - A fast-paced government-led development in the past brought benefits to the city, but gradually disintegrated community ties, local identities and communal traditions. 
 - Past master plans were ineffective in coping with the rapid changes in social conditions, such as the rise of single-person households, social polarisation and worsening gender inequality. Citizens were also largely left out of their formulation. 
 - The lack of an effective master plan translates to an inconsistent urban development, risking a disorderly development pattern across the city. 
-- A Conflict Mediation Division was established in 2012 with the goal to avert and manage public conflicts. 
 
 ---
 
@@ -42,6 +41,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 ![The improved citizen engagement processes of Seoul](/images/features/2020/seoul-engagement-diagram.jpg/)*The improved citizen engagement processes of Seoul*
 
+- Negotiation process began with a Conflict Mediation Division established in 2012 with the goal to avert and manage public conflicts. 
 - The governance structure under Seoul Plan 2030 became the model for which all planning processes must follow. Citizens’ participation became the norm in urban planning, and its impact has been shown in other planning efforts. 
 - For instance, community plans are established for the sub-regions of Seoul, to actualise the visions and strategies under the Seoul Plan 2030 in these smaller areas. 
 - Citizen participatory groups are also formed at various levels as small as neighbourhoods. 
