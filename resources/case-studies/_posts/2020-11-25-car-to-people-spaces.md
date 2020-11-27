@@ -60,7 +60,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 #### **Creativity and innovation**
 
-![The planning processes of Seoul Plan 2030](/images/features/2020/seoul-plan-processes.jpg/)*The planning processes of Seoul Plan 2030*
+![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg/)*Cheonggyecheon has transformed into a recreational haven today. Photo: Seoul Metropolitan Government*
 
 - The three projects were able to achieve multiple results while also demonstrating catalytic effects:
   - By demolishing the ageing highway and restoring the Cheonggyecheon stream, the city not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and used the project as a catalyst to revitalise the north of the city. 
