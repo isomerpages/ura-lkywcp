@@ -48,7 +48,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 <b><u>Yonsei-ro Transit Mall</u></b>
 - To better manage transportation demand in congested areas of the city, the Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
-- Responding to the Ministry’s call, Yonsei-ro Transit Mall was created as a pilot following SMG’s efforts to improve the public transport system and create a walkable environment, under the vision of ‘walk-friendly Seoul’. The site was chosen after SMG studied its density of shops, volume of traffics and pedestrians, size of sidewalks, and parking spaces nearby. 
+- Responding to the Ministry’s call, SMG created Yonsei-ro Transit Mall as a pilot to improve the public transport system and enhance the area's walkability, under the vision of ‘walk-friendly Seoul’. SMG chose the site after studying its density of shops, volume of traffics and pedestrians, size of sidewalks, and parking spaces nearby. 
 - SMG formed a committee comprising of six groups of public and private stakeholders to garner concerns regarding the transit mall project. 
 
 <b><u>Seoullo7017</u></b>
