@@ -44,7 +44,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 <b><u>Cheonggyecheon</u></b>
 - Despite that the Cheonggyecheon project was highly contentious during its proposal stage, then-Mayor Lee Myung-bak committed to his electoral pledge to restore the stream and create a pleasant environment for all when he took office. 
-- The Seoul Metropolitan Government (SMG) established a triangular governance structure to manage conflicts with affected merchants around Cheonggyecheon. 
+- The Seoul Metropolitan Government (SMG) established a triangular governance structure to manage conflicts with affected stakeholders around Cheonggyecheon. 
 
 <b><u>Yonsei-ro Transit Mall</u></b>
 - To better manage transportation demand in congested areas of the city, the Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
