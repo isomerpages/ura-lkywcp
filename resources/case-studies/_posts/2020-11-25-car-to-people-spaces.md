@@ -92,7 +92,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 <b><u>Cheonggyecheon</u></b>
 - Cheonggyecheon attracts around 60,000 people every day, and a total of 180 million visitors in the nine years after its restoration, 7 million of whom are foreigners. 
 - The restoration of Cheonggyecheon served as a momentum for the city to take bold initiatives in reorganising its transport system, moving towards pedestrian-oriented transport. The subway use in central Seoul increased by about 5%. 
-- The land price within 100m radius has also increased by 30% after the restoration of Cheonggyecheon, with office rents increasing by 20%, according to a World Bank Group report. 
+- The land price within 100m radius has also increased by 30% after the restoration of Cheonggyecheon, with office rents increasing by 20%, according to a [World Bank Group report](https://urban-regeneration.worldbank.org/Seoul). 
 
 <b><u>Yonsei-ro Transit Mall</u></b>
 - Traffic accidents at Yonsei-ro decreased by 35% in a six-month period in 2014, compared to the same period the previous year.
