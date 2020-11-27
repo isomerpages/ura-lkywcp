@@ -21,8 +21,8 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 - An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
 - This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
-  - The **Cheonggyecheon** steam restoration project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
-  - The **Yonsei-ro Transit Mall** (completed in 2015) is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
+  - The **[Cheonggyecheon](http://www.sisul.or.kr/grobal/cheonggye/eng/WebContent/index.html)** steam restoration project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
+  - The **Yonsei-ro Transit Mall** (completed in 2015) - [the first of its kind in Seoul](http://english.seoul.go.kr/opening-of-sinchon-yonsei-ro-seouls-first-transit-mall/) - is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
   - **[Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do)** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
 
 ---
