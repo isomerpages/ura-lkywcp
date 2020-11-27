@@ -77,13 +77,13 @@ description: Faced with increasing public opposition to urban development, Seoul
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
   <td style="text-align: left; vertical-align: top;"><br>Cheonggyecheon attracts around 60,000 people every day<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/paper.png" alt="transparency" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-subway.png" alt="subway" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Subway use in central Seoul increased by about 5%<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/icon-money.png" alt="projects" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-accident.png" alt="projects" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Traffic accidents at Yonsei-ro decreased by 35%<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/case-studies/icon-people.png" alt="citizens" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Seoullo7017 attracted 7.4 million visitors as of end-2017<br></td>
 </tr>
 </tbody>
