@@ -76,15 +76,15 @@ description: Faced with increasing public opposition to urban development, Seoul
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/case-studies/icon-speech.png" alt="engagement" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Citizen engagement allowed innovative urban solutions<br></td>
+  <td style="text-align: left; vertical-align: top;"><br>Cheonggyecheon attracts around 60,000 people every day<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/paper.png" alt="transparency" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Transparency to citizens<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Subway use in central Seoul increased by about 5%<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/icon-money.png" alt="projects" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Citizen-initiated projects implemented<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Traffic accidents at Yonsei-ro decreased by 35%<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/case-studies/icon-people.png" alt="citizens" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Citizens involved in planning processes<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Seoullo7017 attracted 7.4 million visitors as of end-2017<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
