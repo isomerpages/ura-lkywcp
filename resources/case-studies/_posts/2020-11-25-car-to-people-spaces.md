@@ -20,7 +20,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 ![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg/)*Seoullo7017. Photo: Seoul Metropolitan Government*
 
 - An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
-- This case study looks at three ground-breaking projects that demonstrated Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
+- This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
   - The **Cheonggyecheon** project completed in 2005 saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
   - The **Yonsei-ro Transit Mall** completed in 2015 is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
   - **Seoullo 7017** completed in 2017 is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
