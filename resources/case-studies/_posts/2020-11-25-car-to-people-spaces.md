@@ -66,7 +66,7 @@ description: Faced with increasing public opposition to urban development, Seoul
   - By demolishing the ageing highway and restoring the Cheonggyecheon stream, the city not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and used the project as a catalyst to revitalise the north of the city. 
   - The creation of Yonsei-ro Transit Mall helped to enhance the public transit experience and improve the pedestrian areas, thus fostering a successful shift from private to public transit and benefiting the largely student population.
   - An imageable representation of Seoul’s transformation into a pedestrian-friendly city, Seoullo7017 also preserved the Seoul Station Overpass as the city’s heritage while creating connections to key areas around the city centre and giving a boost to local economy. 
-  - Seoul also harnessed big data through TOPIS – its transport control centre, to provide 24/7 traffic monitoring and feed useful transport information to its citizens. 
+- Seoul also harnessed big data through TOPIS – its transport control centre, to provide 24/7 traffic monitoring and feed useful transport information to its citizens. 
 
 ---
 
