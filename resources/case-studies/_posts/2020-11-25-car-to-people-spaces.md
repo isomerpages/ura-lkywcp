@@ -40,7 +40,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 #### **Leadership and governance**
 
-![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)*The governance model for the Cheonggyecheon restoration project. Diagram: Seoul Metroplitan Government*
+![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)*The governance model for the Cheonggyecheon restoration project. Diagram: Seoul Metropolitan Government*
 
 <b><u>Cheonggyecheon</u></b>
 - Despite that the Cheonggyecheon project was highly contentious during its proposal stage, then-Mayor Lee Myung-bak committed to his electoral pledge to restore the stream and create a pleasant environment for all when he took office. 
