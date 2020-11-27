@@ -109,7 +109,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 #### **Replicable ideas**
 
-![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)*Seoul citizens doing community planting at Seoullo7017. Photo: Seoul Metropolitan Government*
+![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)*Seoul citizens involved in the planting works at Seoullo7017. Photo: Seoul Metropolitan Government*
 
 - It is important for cities to maintain the delicate balance between strong political leadership and inclusive governance. The public sector must understand the concerns of stakeholders and take necessary actions to alleviate negative impacts. Transparency and an effective leadership can help to communicate visions, build trust and resolve conflicts. 
 - By placing the needs of people first, the city can help to reshape itself towards a more inclusive urban environment. These projects demonstrate Seoul’s determination to place people over cars. 
