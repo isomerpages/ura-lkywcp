@@ -23,7 +23,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 - This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
   - The **Cheonggyecheon** steam restoration project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
   - The **Yonsei-ro Transit Mall** (completed in 2015) is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
-  - **Seoullo 7017** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
+  - **[Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do)** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
 
 ---
 
