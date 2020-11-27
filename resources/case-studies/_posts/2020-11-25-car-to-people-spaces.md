@@ -75,7 +75,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/case-studies/icon-speech.png" alt="engagement" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
   <td style="text-align: left; vertical-align: top;"><br>Cheonggyecheon attracts around 60,000 people every day<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/paper.png" alt="transparency" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Subway use in central Seoul increased by about 5%<br></td>
