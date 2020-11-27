@@ -83,7 +83,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-accident.png" alt="projects" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Traffic accidents at Yonsei-ro decreased by 35%<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-crowd.png" alt="crowd" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Seoullo7017 attracted 7.4 million visitors as of end-2017<br></td>
 </tr>
 </tbody>
