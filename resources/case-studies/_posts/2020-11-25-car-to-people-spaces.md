@@ -53,7 +53,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 <b><u>Seoullo7017</u></b>
 - The Seoul Station Overpass was originally slated to be demolished in favour of a new traverse bridge, but the plan was replaced by that of converting the overpass into a pedestrian walkway – Seoullo7017, which is partly inspired by the success of New York City’s High Line. 
-- The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice MVRDV – as the master planner of the project. 
+- The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice [MVRDV](https://www.mvrdv.nl/projects/seoul-skygarden) – as the master planner of the project. 
 - The city also established an Urban Regeneration Support Centre headed by a community planning expert to promote the project to residents. 
 
 ---
