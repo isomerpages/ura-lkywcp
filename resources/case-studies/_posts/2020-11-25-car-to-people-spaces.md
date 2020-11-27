@@ -1,12 +1,12 @@
 ---
 title: Car to people spaces
 permalink: /resources/case-studies/car-to-people-spaces/
-image: /images/features/2020/car-to-people-spaces.jpg
-description: Faced with increasing public opposition to urban development, Seoul could have taken the easy way out. Fortunately, the city chose to face its challenges and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.
+image: /images/features/2020/seoullo7017-logo.jpg
+description: Three ground-breaking projects in Seoul helped to reshape the city's identity as one that places its people over cars. This case study looks at the motivations and processes behind these urban innovations, and the desired outcomes that the city has achieved.
 
 ---
 
-***Faced with increasing public opposition to urban development, Seoul could have taken the easy way out. Fortunately, the city chose to face its challenges and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.*** 
+***Three ground-breaking projects in Seoul helped to reshape the city's identity as one that places its people over cars. This case study looks at the motivations and processes behind these urban innovations, and the desired outcomes that the city has achieved.*** 
 
 <br>
 
