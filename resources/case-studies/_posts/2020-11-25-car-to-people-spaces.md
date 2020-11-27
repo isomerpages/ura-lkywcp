@@ -42,16 +42,16 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 ![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)*The governance model for the Cheonggyecheon restoration project. Diagram: Seoul Metroplitan Government*
 
-<b><u>Cheonggyecheon</b></u>
+<b><u>Cheonggyecheon</u></b>
 - Despite that the Cheonggyecheon project was highly contentious during its proposal stage, then-Mayor Lee Myung-bak committed to his electoral pledge to restore the stream and create a pleasant environment for all when he took office. 
 - The Seoul Metropolitan Government (SMG) established a triangular governance structure to manage conflicts with affected merchants around Cheonggyecheon. 
 
-<b><u>Yonsei-ro Transit Mall</b></u>
+<b><u>Yonsei-ro Transit Mall</u></b>
 - To better manage transportation demand in congested areas of the city, the Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
 - Responding to the Ministry’s call, Yonsei-ro Transit Mall was created as a pilot following SMG’s efforts to improve the public transport system and create a walkable environment, under the vision of ‘walk-friendly Seoul’. The site was chosen after SMG studied its density of shops, volume of traffics and pedestrians, size of sidewalks, and parking spaces nearby. 
 - SMG formed a committee comprising of six groups of public and private stakeholders to garner concerns regarding the transit mall project. 
 
-<b><u>Seoullo7017</b></u>
+<b><u>Seoullo7017</u></b>
 - The Seoul Station Overpass was originally slated to be demolished in favour of a new traverse bridge, but the plan was replaced by that of converting the overpass into a pedestrian walkway – Seoullo7017, which is partly inspired by the success of New York City’s High Line. 
 - The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice MVRDV – as the master planner of the project. 
 - The city also established an Urban Regeneration Support Centre headed by a community planning expert to promote the project to residents. 
@@ -89,17 +89,17 @@ description: Faced with increasing public opposition to urban development, Seoul
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
 
-<b><u>Cheonggyecheon</b></u>
+<b><u>Cheonggyecheon</u></b>
 - Cheonggyecheon attracts around 60,000 people every day, and a total of 180 million visitors in the nine years after its restoration, 7 million of whom are foreigners. 
 - The restoration of Cheonggyecheon served as a momentum for the city to take bold initiatives in reorganising its transport system, moving towards pedestrian-oriented transport. The subway use in central Seoul increased by about 5%. 
 - The land price within 100m radius has also increased by 30% after the restoration of Cheonggyecheon, with office rents increasing by 20%, according to a World Bank Group report. 
 
-<b><u>Yonsei-ro Transit Mall</b></u>
+<b><u>Yonsei-ro Transit Mall</u></b>
 - Traffic accidents at Yonsei-ro decreased by 35% in a six-month period in 2014, compared to the same period the previous year.
 - The number of visitors from selected 10 bus routes increased by 11% from 54,000 people to 61,000 people from 2013 to 2014. 
 - The number of visitors to shops located in the greater Sinchon area increased by 29%, while number of transactions and sales in Sinchon area increased by 11% and 4% respectively between 2013 and 2014. 
 
-<b><u>Seoullo7017</b></u>
+<b><u>Seoullo7017</u></b>
 - Besides being a symbol of Seoul as a pedestrian-friendly city, Seoullo7017 is also catalysing its surrounding areas to become an international hub for tourism and culture. 
 - Approximately 7.4 million people visited Seoullo7017 as of end-2017. 
 - The project helped to increase urban biodiversity with approximately 24,000 trees comprising 220 plant species planted along the walkway. 
