@@ -17,19 +17,19 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 #### **In brief**
 
-![Seoul Plan 2030](/images/features/2020/seoul-plan-2030.jpg/)*Seoul Plan 2030*
+![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg/)*Seoullo7017. Photo: Seoul Metropolitan Government*
 
 - An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
-- This case study looks at three ground-breaking projects that demonstrated Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces. 
-- The Cheonggyecheon project completed in 2005 saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
-- The Yonsei-ro Transit Mall completed in 2015 is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
-- Seoullo 7017 completed in 2017 is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
+- This case study looks at three ground-breaking projects that demonstrated Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
+  - The **Cheonggyecheon** project completed in 2005 saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
+  - The **Yonsei-ro Transit Mall** completed in 2015 is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
+  - **Seoullo 7017** completed in 2017 is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
 
 ---
 
 #### **Key issues faced before the implementation of the project**
 
-![A highway plies above the Cheonggyecheong stream pre-restoration](/images/features/2020/seoul-before.jpg/)*A highway plies above the Cheonggyecheong stream pre-restoration. Photo: Seoul Metropolitan Government*
+![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg/)![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)*Yonsei-ro before and after conversion into a transit mall. Photos: Seoul Metropolitan Government*
 
 - Deteriorating structures of the former elevated highway above Cheonggyecheon stream and Seoul Station Overpass threatened public safety. 
 - The area under the elevated Cheonggye highway has turned into slums, prompting demands from citizens to restore the buried stream. 
@@ -109,7 +109,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 #### **Replicable ideas**
 
-![Extensive public engagement efforts led to a happier populace](/images/features/2020/seoul-happy-citizens.jpg/)*Extensive public engagement efforts led to a happier populace. Photo: Seoul Metropolitan Government*
+![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)*Seoul citizens doing community planting at Seoullo7017. Photo: Seoul Metropolitan Government*
 
 - It is important for cities to maintain the delicate balance between strong political leadership and inclusive governance. The public sector must understand the concerns of stakeholders and take necessary actions to alleviate negative impacts. Transparency and an effective leadership can help to communicate visions, build trust and resolve conflicts. 
 - By placing the needs of people first, the city can help to reshape itself towards a more inclusive urban environment. These projects demonstrate Seoul’s determination to place people over cars. 
