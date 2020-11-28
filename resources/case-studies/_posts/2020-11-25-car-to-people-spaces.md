@@ -21,7 +21,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 - An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
 - This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
-  - The **[Cheonggyecheon](http://www.sisul.or.kr/grobal/cheonggye/eng/WebContent/index.html)** steam restoration project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
+  - The **[Cheonggyecheon](http://www.sisul.or.kr/grobal/cheonggye/eng/WebContent/index.html)** project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
   - The **Yonsei-ro Transit Mall** (completed in 2015) - [the first of its kind in Seoul](http://english.seoul.go.kr/opening-of-sinchon-yonsei-ro-seouls-first-transit-mall/) - is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
   - **[Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do)** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
 
@@ -34,7 +34,8 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 - Deteriorating structures of the former elevated highway above Cheonggyecheon stream and Seoul Station Overpass threatened public safety. 
 - The area under the elevated Cheonggye highway has turned into slums, prompting demands from citizens to restore the buried stream. 
 - The Cheonggyecheon project was considered by city planners as part of a broader regeneration of the heart of Seoul, and a necessary critical step for sustainable development efforts and turning Seoul into a global city.
-- The Seoul Station Overpass and other overpasses in the city created an unpleasant urban landscape. 
+- The Seoul Station Overpass and other overpasses in the city created an unpleasant urban landscape.
+- To better manage transportation demand in congested areas of the city, South Korea's Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
 
 ---
 
@@ -43,17 +44,16 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 ![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)*The governance model for the Cheonggyecheon restoration project. Diagram: Seoul Metropolitan Government*
 
 <b><u>Cheonggyecheon</u></b>
-- Despite that the Cheonggyecheon project was highly contentious during its proposal stage, then-Mayor Lee Myung-bak committed to his electoral pledge to restore the stream and create a pleasant environment for all when he took office. 
-- The Seoul Metropolitan Government (SMG) established a triangular governance structure to manage conflicts with affected stakeholders around Cheonggyecheon. 
+- Despite that the project was highly contentious during its proposal stage, the city leaders demonstrated political will to push through the project. 
+- The Seoul Metropolitan Government (SMG) established a triangular governance structure to manage conflicts with affected stakeholders. 
 
 <b><u>Yonsei-ro Transit Mall</u></b>
-- To better manage transportation demand in congested areas of the city, the Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
-- Responding to the Ministry’s call, SMG created Yonsei-ro Transit Mall as a pilot to improve the public transport system and enhance the area's walkability, under the vision of ‘walk-friendly Seoul’. SMG chose the site after studying its density of shops, volume of traffics and pedestrians, size of sidewalks, and parking spaces nearby. 
-- SMG formed a committee comprising of six groups of public and private stakeholders to garner concerns regarding the transit mall project. 
+- SMG created Yonsei-ro Transit Mall as a pilot to improve the public transport system and enhance the area's walkability, with the site chosen for a variety of factors such as density of shops, volume of traffic and pedestrians, and parking spaces. 
+- SMG then formed a committee comprising of six groups of public and private stakeholders to gather concerns about the project. 
 
 <b><u>Seoullo7017</u></b>
-- The Seoul Station Overpass was originally slated to be demolished in favour of a new traverse bridge, but the plan was replaced by that of converting the overpass into a pedestrian walkway – Seoullo7017, which is partly inspired by the success of New York City’s High Line. 
-- The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice [MVRDV](https://www.mvrdv.nl/projects/seoul-skygarden) – as the master planner of the project. 
+- The Seoul Station Overpass was originally slated to be demolished in favour of a new traverse bridge, but the plan was replaced by converting the overpass into a pedestrian walkway instead, partly inspired by the success of New York City’s High Line. 
+- The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice [MVRDV](https://www.mvrdv.nl/projects/seoul-skygarden) – as the master planner. 
 - The city also established an Urban Regeneration Support Centre headed by a community planning expert to promote the project to residents. 
 
 ---
@@ -62,10 +62,10 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 ![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg/)*Cheonggyecheon has transformed into a recreational haven today. Photo: Seoul Metropolitan Government*
 
-- The three projects were able to achieve multiple results while also demonstrating catalytic effects:
-  - By demolishing the ageing highway and restoring the Cheonggyecheon stream, the city not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and used the project as a catalyst to revitalise the north of the city. 
-  - The creation of Yonsei-ro Transit Mall helped to enhance the public transit experience and improve the pedestrian areas, thus fostering a successful shift from private to public transit and benefiting the largely student population.
-  - An imageable representation of Seoul’s transformation into a pedestrian-friendly city, Seoullo7017 also preserved the Seoul Station Overpass as the city’s heritage while creating connections to key areas around the city centre and giving a boost to local economy. 
+- The three projects were able to achieve multiple results as well as catalytic effects:
+  - By demolishing the ageing highway and restoring the **Cheonggyecheon** stream, Seoul not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and helped catalyse the revitalisation of the city's north. 
+  - **Yonsei-ro Transit Mall** helped to enhance public transit experience and improve pedestrian areas, enabling a successful shift from private to public transit and benefiting a largely student population.
+  - **Seoullo7017** is not only an imageable representation of Seoul’s transformation into a pedestrian-friendly city, it also preserved the former overpass as heritage while creating connections to key areas around the city centre and giving a boost to the local economy. 
 - Seoul also harnessed big data through [TOPIS](http://topis.seoul.go.kr/eng/english.jsp) – its transport control centre, to provide 24/7 traffic monitoring and feed useful transport information to its citizens. 
 
 ---
