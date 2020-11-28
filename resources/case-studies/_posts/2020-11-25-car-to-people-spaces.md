@@ -29,7 +29,9 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 #### **Key issues faced before the implementation of the project**
 
-![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg/)![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)*Yonsei-ro before and after conversion into a transit mall. Photos: Seoul Metropolitan Government*
+![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg/)
+
+![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)*Yonsei-ro before and after conversion into a transit mall. Photos: Seoul Metropolitan Government*
 
 - Deteriorating structures of the former elevated highway above Cheonggyecheon stream and Seoul Station Overpass threatened public safety. 
 - The area under the elevated Cheonggye highway has turned into slums, prompting demands from citizens to restore the buried stream. 
