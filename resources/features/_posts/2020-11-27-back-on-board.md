@@ -43,6 +43,8 @@ Cities aiming to better manage their public transport ridership can also look to
 
 #### **A fresh look at ticketing**
 
+<br>
+
 > "For the sake of public health, economic recovery and environmental sustainability, we must keep the momentum going and preserve the appeal of public transport."
 
 New ticketing options that are more suitable to the post-COVID-19 landscape could enable public transport operators to increase their ridership too. Traditional monthly and annual public transport passes may not be worthwhile for the growing number of people who are working from home part-time, and who may switch to private or private-hire vehicles for their less frequent trips to the office. To cater to these commuters, the National Union of Rail, Maritime and Transport Workers in Britain has [suggested creating more affordable annual train passes that are valid for two to four days each week](https://www.theguardian.com/money/2020/aug/18/cut-rail-fares-to-counter-covid-slump-in-train-travel-watchdog-urges), rather than every day. Under the union’s plan, for example, an annual three-day-a-week rail pass from Brighton to London would cost GBP 2,748 (approximately USD $3,645), considerably less than the current GBP 4,580 (approximately USD $6,074) annual pass between the two cities. 
