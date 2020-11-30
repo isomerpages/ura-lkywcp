@@ -27,7 +27,7 @@ Melbourne in Australia and Shanghai in China, on other hand, are changing underu
 
 #### **Putting fairness in funding**
 
-![Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery](/images/features/2020/covid-equitable-park.jpg/)*Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery. Illustration: [Freepik](http://www.freepik.com)*
+![ities could step up efforts to ensure equitable access to their parks.](/images/features/2020/covid-equitable-park.jpg/)*Cities could step up efforts to ensure equitable access to their parks. Photo: [Satjawat Boontanataweepol](https://www.123rf.com/profile_chai89) © 123rf.com*
 
 As cities expand their provision of green spaces, some are setting aside funds to address inequalities, or adding more nuanced criteria to how budgets are allocated to erect new parks and upgrade existing ones. When London, Britain, established its ['Grow Back Greener Fund'](https://www.london.gov.uk/sites/default/files/grow_back_greener_fund_grants_guide.pdf) in August 2020 for the construction of green spaces in areas that lack them, the government noted that lower-income and ethnic minority residents, in particular, tend to have poorer access to parks, an inequality that was underlined during the capital's first COVID-19-related lockdown. As such, the fund, which will disburse up to GBP 650,000 (approximately USD $866,600) in grants of GBP 5,000 to GBP 50,000 (approximately USD $6,660 to USD $66,600) each by the end of 2020, will prioritise proposals led by or intended to benefit lower-income and ethnic minority Londoners. Future rounds of funding will be determined at a later date.
 
