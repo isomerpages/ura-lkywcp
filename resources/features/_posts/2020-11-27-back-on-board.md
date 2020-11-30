@@ -1,7 +1,7 @@
 ---
 title: Back on board — reviving public transit
 permalink: /resources/features/back-on-board/
-image: /images/features/2020/back-on-board.jpg
+image: /images/features/2020/covid-transport.jpg
 description: Cities are experiencing steep declines in public transport ridership due to COVID-19 lockdowns and social distancing measures. In this fourth and final article in a series examining cities’ responses to the pandemic, we look at ways they are transforming public transit for the crisis and beyond.
 ---
 
@@ -11,7 +11,7 @@ description: Cities are experiencing steep declines in public transport ridershi
 
 ***Cities are experiencing steep declines in public transport ridership due to COVID-19 lockdowns and social distancing measures. In this fourth and final article in a series examining cities’ responses to the pandemic, we look at ways they are transforming public transit for the crisis and beyond.***
 
-![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg/)*COVID-19 has exposed the equity gaps in cities more so than ever. Photo: [Korakoch Sookkerd](https://www.123rf.com/profile_korakochstock) © [123rf.com](https://www.123rf.com)*
+![How can public transit in cities bounce back from the pandemic?](/images/features/2020/covid-transport.jpg/)*How can public transit in cities bounce back from the pandemic? Illustration: [Freepik](http://www.freepik.com)*
 
 Cities worldwide are currently facing a crisis in public transport. Since the start of the COVID-19 pandemic, ridership on buses and trains has [plummeted in many cities due to lockdowns and movement restriction orders](https://www.straitstimes.com/singapore/transport/public-transport-usage-plummets-as-more-stay-home), causing a steep decline in public transport operators’ revenues. Even cities that have exited lockdowns have imposed capacity limits on their buses and trains to enable physical distancing to limit the spread of the coronavirus. Furthermore, some commuters may be turning to private vehicles and other modes of transport such as bicycles or personal mobility devices due to their fear of contracting the coronavirus on shared public transport. 
 
