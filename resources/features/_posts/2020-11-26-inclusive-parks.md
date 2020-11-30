@@ -11,7 +11,7 @@ description: COVID-19 has exposed inequalities in cities' provision of parks, e
 
 ***COVID-19 has exposed inequalities in cities' provision of parks, even as green spaces become more important to provide cooling and other benefits in an era of climate change. To promote fairer access to parks, some cities have revamped park funding and introduced other innovations.***
 
-![How can public transit in cities bounce back from the pandemic?](/images/features/2020/covid-transport.jpg/)*How can public transit in cities bounce back from the pandemic? Illustration: [Freepik](http://www.freepik.com)*
+![Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery](/images/features/2020/covid-parks.jpg/)*Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery. Illustration: [Freepik](http://www.freepik.com)*
 
 The COVID-19 pandemic has underscored the importance of public parks and open spaces for people’s mental and physical health, but also highlighted inequalities in their provision across cities. In an August 2020 study of 14,000 towns and cities in the United States1, for example, researchers found that parks that serve mostly low-income households are, on average, four times smaller and four times more crowded than those in high-income neighbourhoods. An August 2020 survey of about 2,000 residents in Britain had similar findings2: only 46 percent of respondents with an annual household income of under GBP 15,000 (approximately USD $20,000) lived within a five-minute walk of a green space, compared to 70 percent of those with an annual household income that exceeded GBP 70,000 (approximately USD $93,300).
 
