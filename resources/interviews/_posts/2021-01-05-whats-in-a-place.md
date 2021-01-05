@@ -49,6 +49,8 @@ My understanding of placemaking deepened when I went to New York many years ago.
 
 I also learnt that if you focus on just inclusion and social connectivity, then you miss the synergy with other elements such as the economic and cultural development and the safety aspects. The best places are those that have many of these elements in abundance. It is the unique blend of social, cultural and economic that makes a place memorable.  
 
+> "The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future."
+
 #### **You led the 'Splash Adelaide' space activation programme<sup>2</sup> that introduced the idea of inexpensive and quick interventions to activate public spaces meaningfully. How did it come about?**
 
 **PS:** Adelaide at that time was a 9-to-5 town. People go out to the suburbs to live and play and just come into the city for work. When we started thinking about this, we were focusing on just how to activate public spaces and streets in the city centre and how to bring in foot traffic. That was when we started Splash Adelaide.
