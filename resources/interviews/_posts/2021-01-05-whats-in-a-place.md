@@ -37,7 +37,7 @@ Places also mean and offer different things for different people. For some, it m
 
 Thus, when you think about placemaking in places around cities, it goes beyond just shaping their physical qualities, it is also about creating social, cultural, economic and environmental sustainability as well.
 
-![Jewish Museum in Berlin](/images/features/2020/jewish-museum.jpg/)*The Jewish Museum in Berlin © Studio Libeskind*
+![The city of Adelaide](/images/features/2021/adelaide.jpg/)*The city of Adelaide. Photo: [dudlajzov](https://www.123rf.com/profile_dudlajzov) © 123rf.com*
 
 #### **How has your earlier encounters shaped your understanding of placemaking being a confluence of many elements?**
 
@@ -73,7 +73,7 @@ The thing about lighter, quicker, cheaper is that it shows to the community that
 
 What I have learnt is that any temporary activation is not an end in itself. Activation only creates foot traffic for the time that the activation is on. The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future.
 
-![World Trade Centre](/images/features/2020/world-trade-centre.jpg/)*The concrete slurry wall in the World Trade Centre site serving as memory to the site © Studio Libeskind*
+![New York City Times Square](/images/features/2021/times-square.jpg/)*New York City Times Square. Photo by [Vlad Alexandru Popa](https://www.pexels.com/@vladalex94?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
 
 #### **Zooming out from activation of public spaces to larger precincts, how should we approach placemaking for these areas?**
 
