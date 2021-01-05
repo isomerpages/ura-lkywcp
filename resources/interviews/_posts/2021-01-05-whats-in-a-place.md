@@ -1,11 +1,11 @@
 ---
-title: Daniel Libeskind on memory and physical spaces
-permalink: /resources/interviews/daniel-libeskind/
-image: /images/features/2020/daniel-libeskind.jpg
-description: World-renowned architect Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition. In this interview, he shares the importance of memory to the design of physical spaces and what it means to design for the past and future.
+title: Peter Smith on creating memorable places
+permalink: /resources/interviews/peter-smith/
+image: /images/features/2020/peter-smith.jpg
+description: In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.
 ---
 
-***World-renowned architect Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition. In this interview, he shares the importance of memory to the design of physical spaces and what it means to design for the past and future.***
+***In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.***
 
 ![Daniel Libeskind](/images/features/2020/daniel-libeskind.jpg/)*Daniel Libeskind © Urban Redevelopment Authority Singapore*
 
