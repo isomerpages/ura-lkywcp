@@ -91,14 +91,19 @@ But in reality, each of these issues are often managed by different government d
 
 Today, we tend to have many communities who may expect the government to find every solution. But somehow the government has to step back and say here is a space, how do you want to create it? We have to go from "we will look after you" to "we will create space for you to look after yourself". **<font color="#967942">O</font>** 
 
+| Notes |
+|:---|
+| 1 | The Times Square Alliance was formed in 1992 by Tim Tompkins with the aims of improving and promoting Times Square and cultivating its creativity, energy and edge that has made the area an icon of entertainment, culture and urban life for over a century. |
+| 2 | The Splash Adelaide programme sought to trial and test ideas, foster innovation and streamline processes to enable the community to deliver projects in the city. The programme has given the community a greater sense of ownership and pride in the city and a more engaged focus to initiate and lead projects. |
+
 <br>
 
 <div style="width:150px"><img src="/images/features/2020/daniel-libeskind2.png" alt="Daniel Libeskind" /></div>
 
-| **Daniel Libeskind** |
+| **Peter Smith** |
 |:---|
-| Daniel Libeskind is a Polish-American architect, artist, professor and set designer. Libeskind founded Studio Daniel Libeskind in 1989 with his wife, Nina, and is its principal design architect. He is known for the design and completion of the Jewish Museum in Berlin, Germany, that opened in 2001. |
+| Peter Smith is internationally recognised as one of the world’s leading thinkers on Place Governance and the role that Government, the private sector and the community can play in successfully activating public spaces to achieve economic, social, creative and sustainable outcomes. Peter has over 30 years’ experience working in senior executive roles in Federal, State and Municipal governments in Australia, with particular experience in leading major urban renewal programs and developing and implementing a range of successful affordable housing, community development and social justice strategies and programmes for Government.  |
 
-###### *This article is adapted from and was first published in Skyline Issue 12, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
+###### *This article is adapted from and was first published in Skyline Issue 13, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
 
 
