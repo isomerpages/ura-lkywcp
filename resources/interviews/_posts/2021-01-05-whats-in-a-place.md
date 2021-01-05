@@ -1,7 +1,7 @@
 ---
 title: Peter Smith on creating memorable places
 permalink: /resources/interviews/peter-smith/
-image: /images/features/2020/peter-smith.jpg
+image: /images/features/2021/peter-smith.jpg
 description: In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.
 ---
 
@@ -11,7 +11,7 @@ description: In the midst of evolving challenges and contexts, placemaking exper
 
 ***In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.***
 
-![Daniel Libeskind](/images/features/2020/daniel-libeskind.jpg/)*Daniel Libeskind © Urban Redevelopment Authority Singapore*
+![Peter Smith](/images/features/2021/peter-smith.jpg/)*Peter Smith © Urban Redevelopment Authority Singapore*
 
 Even while the ongoing Covid-19 pandemic is changing the way we use and share public places, it has reaffirmed the important role they play as social/community places in our neighbourhoods.
 
@@ -98,7 +98,7 @@ Today, we tend to have many communities who may expect the government to find ev
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2020/daniel-libeskind2.png" alt="Daniel Libeskind" /></div>
+<div style="width:150px"><img src="/images/features/2021/peter-smith2.png" alt="Peter Smith" /></div>
 
 | **Peter Smith** |
 |:---|
