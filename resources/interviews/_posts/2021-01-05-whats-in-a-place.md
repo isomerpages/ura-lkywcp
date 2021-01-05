@@ -75,7 +75,7 @@ The thing about lighter, quicker, cheaper is that it shows to the community that
 
 What I have learnt is that any temporary activation is not an end in itself. Activation only creates foot traffic for the time that the activation is on. The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future.
 
-![New York City Times Square](/images/features/2021/times-square.jpg/)*New York City Times Square. Photo by [Vlad Alexandru Popa](https://www.pexels.com/@vladalex94?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
+![New York City](/images/features/2021/times-square.jpg/)*New York City. Photo by [Vlad Alexandru Popa](https://www.pexels.com/@vladalex94?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
 
 #### **Zooming out from activation of public spaces to larger precincts, how should we approach placemaking for these areas?**
 
