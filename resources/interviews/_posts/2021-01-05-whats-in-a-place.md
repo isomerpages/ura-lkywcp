@@ -23,7 +23,7 @@ In fact, it has reinforced the need for even more walkable streets and attractiv
 
 Placemaking efforts by both governments, business owners and community partners to create and manage thriving places has become even more important in challenging times. This is particularly so given that shared public places are where people come together and strong bonds between residents and stakeholders working together can help to strengthen the identity of places and ensure their relevance in the long run.
 
-The focus on the role of communities in leading and managing places is something that Peter has been championing. The 'Splash Adelaide' public space activation programme he initiated in 2011 when he was the CEO of the Adelaide City Council (2008 to 2015) saw not just a transformation of its inner city but resulted in citizens leading placemaking efforts in their neighbourhoods and areas they cared about.
+The focus on the role of communities in leading and managing places is something that Peter has been championing. The ['Splash Adelaide' public space activation programme](https://splashadelaide.com.au) he initiated in 2011 when he was the CEO of the Adelaide City Council (2008 to 2015) saw not just a transformation of its inner city but resulted in citizens leading placemaking efforts in their neighbourhoods and areas they cared about.
 
 Amidst our ongoing challenges and changing contexts, Peter shares with us the insights and experiences that has continued to remind us on the importance of creating memorable places for people and the significant role of communities in shaping these places together for the future.
 
