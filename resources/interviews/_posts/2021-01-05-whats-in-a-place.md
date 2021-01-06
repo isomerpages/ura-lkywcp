@@ -104,8 +104,7 @@ Today, we tend to have many communities who may expect the government to find ev
 
 | **Peter Smith** |
 |:---|
-| Peter Smith is internationally recognised as one of the world’s leading thinkers on Place Governance and the role that Government, the private sector and the community can play in successfully activating public spaces to achieve economic, social, creative and sustainable outcomes. Peter has over 30 years’ experience working in senior executive roles in Federal, State and Municipal governments in Australia, with particular experience in leading major urban renewal programs and developing and implementing a range of successful affordable housing, community development and social justice strategies and programmes for Government.  |
+| Peter Smith is internationally recognised as one of the world’s leading thinkers on place governance and the role that government, private sector and community can play in successfully activating public spaces to achieve economic, social, creative and sustainable outcomes. Peter has over 30 years’ experience working in senior executive roles in Federal, State and Municipal governments in Australia, with particular experience in leading major urban renewal programmes and developing and implementing a range of successful affordable housing, community development and social justice strategies and programmes for Government. |
 
 ###### *This article is adapted from and was first published in Skyline Issue 13, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
-
 
