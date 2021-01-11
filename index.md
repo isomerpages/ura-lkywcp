@@ -8,7 +8,7 @@ notification: The announcement of 2020 Prize Laureate is postponed to a later da
 sections:
     - hero:
         title: Lee Kuan Yew World City Prize
-        subtitle: Celebrating 10 years of honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
+        subtitle: Honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
         background: /images/worldmap-hero3.jpg
         button: About the Prize
         url: /about/about-the-prize/
