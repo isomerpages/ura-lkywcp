@@ -11,7 +11,7 @@ description: With sea levels rising across the world, coastal cities at risk of 
 
 ***With sea levels rising across the world, coastal cities at risk of going under are fighting back with adaptive measures to protect lives, land and infrastructure. We take a look at how some forward-looking cities are holding the water at bay and making plans for safe relocations when necessary.***
 
-![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)*Coastal cities are at risk from rising sea levels due to climate change. Photo: Photo by [cassidy muir](https://www.pexels.com/@cassidy-muir-1079619?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
+![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)*Coastal cities are at risk from rising sea levels due to climate change. Photo: [cassidy muir](https://www.pexels.com/@cassidy-muir-1079619?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
 
 Five years after the landmark Paris Agreement to limit climate change and global warming, over 50 leading cities, including New York, London, Stockholm, Melbourne, Mexico City and Paris, are [on track to deliver their fair share of greenhouse gas emissions cuts](https://www.c40.org/press_releases/new-analysis-world-cities-on-track). Even with this progress, however, permanent sea level rises and temporary storm surges, which are increases in the sea level during storms, will expose more coastal cities to flooding in the next few decades, necessitating urgent adaptation initiatives, according to recent studies. 
 
