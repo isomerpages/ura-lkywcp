@@ -11,7 +11,7 @@ description: By targeting pollutive construction, cities can eliminate a signifi
 
 ***By targeting pollutive construction, cities can eliminate a significant portion of their greenhouse gas emissions and clear their path to a more sustainable future. These are some of the cities leading the way through measures such as mandating zero-emissions construction sites, developing low-carbon materials and 3D-printing buildings.***
 
-![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)*Coastal cities are at risk from rising sea levels due to climate change. Photo: [cassidy muir](https://www.pexels.com/@cassidy-muir-1079619?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
+![How can cities eliminate pollutive construction?](/images/features/2021/clean-construction.jpg/)*How can cities eliminate pollutive construction? Photo: [onlyyouqj](www.freepik.com)*
 
 In November 2020, the Mayors of Oslo, Budapest, Mexico City and Los Angeles pledged to halve their cities’ greenhouse gas emissions from construction by 2030, aiming to play their part to make the carbon-intensive construction sector more environmentally friendly1. Among other measures, the cities will normalise the use of electric machinery in construction by employing them in government projects, approve at least one flagship net-zero emissions construction project by 2025, and publish annual reports on their progress.
 
