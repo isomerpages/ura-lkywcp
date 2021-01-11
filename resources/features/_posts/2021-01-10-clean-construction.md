@@ -43,7 +43,7 @@ Sydney developed lower-carbon concrete made partially from waste from its coal-f
 
 #### **Of printing and prefabrication**
 
-> "We need to unite businesses, industry and government on all levels to advance climate action. Together, we can remove fossil fuels and reduce emissions from construction sites altogether. This will make them safer, quieter, cleaner places to work, and ensure that the air in our cities is cleaner and healthier to breathe."
+> "We can remove fossil fuels and reduce emissions from construction sites altogether. This will make them safer, quieter, cleaner places to work, and ensure that the air in our cities is cleaner and healthier to breathe."
 
 As technologies mature, they can open up opportunities for cities. With 3D printing machines becoming increasingly versatile and powerful, Dubai in the United Arab Emirates has [set the goal of using them in at least 25 percent of new buildings’ construction by 2030](https://gulfbusiness.com/dubai-plans-to-3d-print-25-of-buildings-by-2030/), to cut labour costs by 50 to 80 percent, construction waste by up to 60 percent, and overall costs by 50 to 70 percent. In traditional building projects, workers put together wooden forms and pour concrete into them to make walls and other structures. Depending on the complexity of the building’s design, some forms may be used only once. By using 3D printing for construction, no forms are needed, eliminating a significant source of waste, among others. 
 
