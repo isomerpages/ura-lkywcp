@@ -11,13 +11,13 @@ description: With sea levels rising across the world, coastal cities at risk of 
 
 ***With sea levels rising across the world, coastal cities at risk of going under are fighting back with adaptive measures to protect lives, land and infrastructure. We take a look at how some forward-looking cities are holding the water at bay and making plans for safe relocations when necessary.***
 
-![How can public transit in cities bounce back from the pandemic?](/images/features/2021/turning-the-tide.jpg/)*How can public transit in cities bounce back from the pandemic? Illustration: [Freepik](http://www.freepik.com)*
+![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)*Coastal cities are at risk from rising sea levels due to climate change. Photo: Photo by [cassidy muir](https://www.pexels.com/@cassidy-muir-1079619?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
 
 Five years after the landmark Paris Agreement to limit climate change and global warming, over 50 leading cities, including New York, London, Stockholm, Melbourne, Mexico City and Paris, are on track to deliver their fair share of greenhouse gas emissions cuts1. Even with this progress, however, permanent sea level rises and temporary storm surges, which are increases in the sea level during storms, will expose more coastal cities to flooding in the next few decades, necessitating urgent adaptation initiatives, according to recent studies. 
 
 In July 2020, researchers found that about 148 million people globally are affected by coastal flooding today, and this will increase by at least 23 million people within 30 years even with ambitious reductions in emissions2. The University of Melbourne’s Professor Ian Young, who co-authored the study, explained3: “The sea level rise is baked in. Even if we reduce emissions today, the sea level will continue to rise as the glaciers will continue to melt for hundreds of years.” Professor Ebru Kirezci, his colleague, added: “Adaptation is the only way out, and we need to adopt risk mitigation measures, develop forecasting and warning systems, and look at coastal retreat, which is the relocation of coastal communities to safer places.”
 
-Building better barriers
+#### **Building better barriers**
 
 For many cities, erecting coastal barriers is one way of keeping the sea out and reducing the risk of flooding. Several cities are going beyond conventional sea walls and constructing more innovative and multi-purpose defences. 
 
@@ -29,7 +29,7 @@ Hong Kong, China, for its part, is building an ‘eco-shoreline’ that boosts b
 
 In Britain, Norfolk is also turning to nature to protect communities along its coastline from coastal erosion exacerbated by storm surges. In 2019, it dredged up nearly two million cubic metres of sand from the seabed to restore a rapidly-eroding, six-kilometre stretch of beaches10. The sand was deposited in mounds that are up to seven metres deep which wind will shape into dunes to better absorb the impact of waves. The initiative is also designed to work with the drift of the waves which will carry some sand southwards to shore up other beaches. The GBP 20 million (approximately USD $27 million) sand replenishment is expected to enable the coastal communities to stay in place for at least 15 to 20 more years, and was modelled after a successful scheme in the Netherlands11. 
 
-Adapt to survive
+#### **Adapt to survive**
 
 As cities aim to limit coastal flooding and its impact, they may also need to change planning norms and adapt existing infrastructure. Boston in the United States now requires developers to assess new and redeveloped large projects’ vulnerability to a 40-inch (approximately one-metre) sea level rise by completing a ‘Climate Change Resiliency and Preparedness Checklist’12. For buildings that would be affected by the sea level rise, developers must list adaptation measures, such as hard and soft barriers to prevent flooding, provisions for emergency power and water so that occupants can shelter in place if necessary, and strategies to support quick recovery after storms. The 40-inch threshold addresses the city’s analysis that its sea level will likely rise by nine inches by 2030, 21 inches by 2050, and 36 inches by 2070, as well as expected land subsidence13.
 
@@ -39,7 +39,7 @@ Cities could also invest in floating homes as a solution to rising sea levels. A
 
 For years, Rotterdam in the Netherlands has also been fortifying itself against its rising sea level and storm surges. About 90 percent of the city lies below the sea level, and three rivers merge within it before flowing to the nearby sea, putting many residential areas at risk of flooding. To keep the rivers and sea at bay during heavy storms, it raised levees and erected the Maeslant Barrier, one of the world’s largest moving structures, to close automatically across the mouth of its port when the sea is expected to rise more than three metres above its normal level20. It has also built 10 public plazas across the city to retain rainwater to avert flooding elsewhere, and will complete five more by 202321. Benthemplein Water Square, the largest of the existing plazas, can store nearly 480,000 gallons of water. 
     
-Managing coastal retreats
+#### **Managing coastal retreats**
 
 For some cities, however, relocating residents in coastal areas severely endangered by sea level rises could be more cost-effective than constructing sea barriers or adapting the homes and infrastructure. To ensure that such ‘coastal retreat’ plans proceed smoothly, cities must have fair and transparent policies to address issues such as compensation for the relocation. 
 
