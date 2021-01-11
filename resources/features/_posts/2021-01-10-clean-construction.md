@@ -19,7 +19,7 @@ Mr Raymond Johansen, Oslo’s Governing Mayor, explained that with construction 
 
 To minimise construction’s emissions, cities can tap on a range of solutions, such as improving processes, incorporating emissions standards in development tenders, and promoting the use of low-carbon materials.  
 
-Setting sustainability standards
+#### **Setting sustainability standards**
 
 Since 2017, Oslo in Norway has required that contractors for municipal construction projects use only electric, biodiesel or other fossil fuel-free machinery and vehicles on the construction sites and for the transport of materials and waste to and from the sites3. By 2025, it will raise the bar even higher and mandate the use of only electric and other zero-emissions solutions on the sites, and zero-emissions or biogas vehicles for the transport of materials. It said that the requirements are necessary to achieve its goal of reducing its emissions by 95 percent by 2030 compared to its 2009 baseline. With municipal projects accounting for one in five of the city’s construction sites, the standards are also spurring positive change in the private sector. “Even though not all machinery has fully electrical versions available, the market is quickly adapting and developing new solutions,” the city noted4. “By setting standards, public developers can influence change in the market.”
 
@@ -29,7 +29,7 @@ Other cities also plan to cut construction’s emissions through benchmarks and 
 
 As part of its wide-ranging efforts to become a carbon-neutral city by 2050, Los Angeles in the United States has required bidders for public construction projects to supply information about the environmental impact of the steel, sheet glass and insulating mineral wool that they would use for the works7. By July 2021, it will accept only bids where the materials’ potential to contribute to global warming falls below prescribed limits. It is also considering imposing these conditions on other carbon-intensive materials. Furthermore, it is examining building materials that could sequester greenhouse gas emissions, and will publish a report on its findings and recommendations for future construction by June 2021. 
 
-Looking beyond concrete
+#### **Looking beyond concrete**
 
 Some cities are encouraging developers to replace concrete, a carbon-intensive product that is responsible for eight percent of global emissions8, with sustainable alternatives. Vancouver in Canada has provided technical assistance to firms building with mass timber9, which is made up of small pieces of lumber laminated together to form fire-resistant components for floors, walls, columns and beams, because it could reduce construction’s embodied emissions by 25 to 45 percent or more. 
 
@@ -39,7 +39,7 @@ Several cities, including Honolulu in the state of Hawaii in the United States a
 
 Sydney developed lower-carbon concrete made partially from waste from its coal-fired power stations and steel manufacturing plants, and is currently trialling the material’s performance and durability on a major road leading to the Sydney Airport14. The city calculated that its concrete’s production generates just one third of the emissions of traditional concrete, and researchers will use the trial’s findings to formulate guidelines for its wider application.
 
-Of printing and prefabrication
+#### **Of printing and prefabrication**
 
 As technologies mature, they can open up opportunities for cities. With 3D printing machines becoming increasingly versatile and powerful, Dubai in the United Arab Emirates has set the goal of using them in at least 25 percent of new buildings’ construction by 203015, to cut labour costs by 50 to 80 percent, construction waste by up to 60 percent, and overall costs by 50 to 70 percent. In traditional building projects, workers put together wooden forms and pour concrete into them to make walls and other structures. Depending on the complexity of the building’s design, some forms may be used only once. By using 3D printing for construction, no forms are needed, eliminating a significant source of waste, among others. 
 
