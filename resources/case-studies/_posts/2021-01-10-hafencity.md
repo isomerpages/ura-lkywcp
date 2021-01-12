@@ -19,11 +19,9 @@ description: A former industrial brownfield, HafenCity is Hamburg’s new ‘cit
 
 ![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg/)*Seoullo7017. Photo: Seoul Metropolitan Government*
 
-- An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
-- This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
-  - The **[Cheonggyecheon](http://www.sisul.or.kr/grobal/cheonggye/eng/WebContent/index.html)** project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
-  - The **Yonsei-ro Transit Mall** (completed in 2015) - [the first of its kind in Seoul](http://english.seoul.go.kr/opening-of-sinchon-yonsei-ro-seouls-first-transit-mall/) - is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
-  - **[Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do)** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
+- HafenCity is a 157ha inner-city brownfield development project located beside the Elbe River and south of Hamburg’s historic city centre – a ‘city within a city’, featuring a fine-grain mix of offices, residences, education, culture, leisure, tourism and retail.
+- When completed, HafenCity will house more than 2.4 million square metres of gross floor area, more than 7,000 residential units, accommodate 5,000 university students and 70,000 visitors a day, and open up some 45,000 job opportunities. 
+- HafenCity is anchored by the iconic cultural project – Elbphilharmonie Concert Hall, an adaptive reuse of an old warehouse and designed by renowned architects Herzog & de Meuron.
 
 ---
 
@@ -33,11 +31,10 @@ description: A former industrial brownfield, HafenCity is Hamburg’s new ‘cit
 
 ![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)*Yonsei-ro before and after conversion into a transit mall. Photos: Seoul Metropolitan Government*
 
-- Deteriorating structures of the former elevated highway above Cheonggyecheon stream and Seoul Station Overpass threatened public safety. 
-- The area under the elevated Cheonggye highway has turned into slums, prompting demands from citizens to restore the buried stream. 
-- The Cheonggyecheon project was considered by city planners as part of a broader regeneration of the heart of Seoul, and a necessary critical step for sustainable development efforts and turning Seoul into a global city.
-- The Seoul Station Overpass and other overpasses in the city created an unpleasant urban landscape.
-- To better manage transportation demand in congested areas of the city, South Korea's Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
+- The area was previously part of Hamburg’s industrial port and a customs-free zone, bordering the historic Speicherstadt – a UNESCO World Heritage Site since 2015 – to the north.
+- Being an industrial area, it was poorly integrated with Hamburg’s inner city and blocked the latter’s access to the Elbe River waterfront. 
+- Increasing container logistics in the 1990s drove much of Hamburg’s industrial activities away towards the south of the Elbe River, where the port could expand to cater to large container ships. 
+- Faced with an increasing demand for housing and offices as well as flood risks, the city decided to redevelop the former port area to create a new urban district.
 
 ---
 
@@ -45,18 +42,12 @@ description: A former industrial brownfield, HafenCity is Hamburg’s new ‘cit
 
 ![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)*The governance model for the Cheonggyecheon restoration project. Diagram: Seoul Metropolitan Government*
 
-<b><u>Cheonggyecheon</u></b>
-- Despite that the project was highly contentious during its proposal stage, the city leaders demonstrated political will to push through the project. 
-- The Seoul Metropolitan Government (SMG) established a triangular governance structure to manage conflicts with affected stakeholders. 
-
-<b><u>Yonsei-ro Transit Mall</u></b>
-- SMG created Yonsei-ro Transit Mall as a pilot to improve the public transport system and enhance the area's walkability, with the site chosen for a variety of factors such as density of shops, volume of traffic and pedestrians, and parking spaces. 
-- SMG then formed a committee comprising of six groups of public and private stakeholders to gather concerns about the project. 
-
-<b><u>Seoullo7017</u></b>
-- The Seoul Station Overpass was originally slated to be demolished in favour of a new traverse bridge, but the plan was replaced by converting the overpass into a pedestrian walkway instead, partly inspired by the success of New York City’s High Line. 
-- The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice [MVRDV](https://www.mvrdv.nl/projects/seoul-skygarden) – as the master planner. 
-- The city also established an Urban Regeneration Support Centre headed by a community planning expert to promote the project to residents. 
+- A master plan was created for HafenCity first in 2000, and subsequently amended in 2010, to guide the development of the district. 
+- The land is owned by the master planner – HafenCity Hamburg GmbH, a 100% subsidiary of the City of Hamburg but autonomous in operations from the city government. 
+- By setting up tendering processes that favour quality over price criteria, HafenCity Hamburg GmbH drives development concepts that support a socially balanced mix of apartments – one-third of which are reserved for low and medium-income households, good architecture and urban design, and energy-efficiency. 
+- Contracts are awarded in a pre-sale process, which allows the successful bidder sufficient time to obtain finances, plan the architecture (also through a tender process), and obtain the building permit. 
+- The city on the other hand, intervenes during the development process to ensure diversity and quality of uses before a building permit can be obtained.
+- This process ensures a high degree of compliance with the overall vision of the district. 
 
 ---
 
@@ -64,11 +55,13 @@ description: A former industrial brownfield, HafenCity is Hamburg’s new ‘cit
 
 ![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg/)*Cheonggyecheon has transformed into a recreational haven today. Photo: Seoul Metropolitan Government*
 
-- The three projects were able to achieve multiple results as well as catalytic effects:
-  - By demolishing the ageing highway and restoring the **Cheonggyecheon** stream, Seoul not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and helped catalyse the revitalisation of the city's north. 
-  - **Yonsei-ro Transit Mall** helped to enhance public transit experience and improve pedestrian areas, enabling a successful shift from private to public transit and benefiting a largely student population.
-  - **Seoullo7017** is not only an imageable representation of Seoul’s transformation into a pedestrian-friendly city, it also preserved the former overpass as heritage while creating connections to key areas around the city centre and giving a boost to the local economy. 
-- Seoul also harnessed big data through [TOPIS](http://topis.seoul.go.kr/eng/english.jsp) – its transport control centre, to provide 24/7 traffic monitoring and feed useful transport information to its citizens. 
+- The tendering process described above is a breakthrough for Hamburg in terms of city planning and is akin to that of a ‘matching process’ which created ideal urban environments instead of relying exclusively on price mechanism. 
+- Differing from other waterfront areas focusing only on office and retail concepts or high-cost living, HafenCity is able to achieve a socially balanced mix through a closely supervised and coordinated approach. 
+- One-third of new residential areas within HafenCity are designated as subsidised housing for low and medium-income households, creating an inclusive living environment. 
+- HafenCity adopts e-mobility and car-sharing concepts to reduce private car use and minimise the need for car parking spaces. 
+- Particularly sustainable building projects are awarded with a sustainability certificate when they meet criteria ranging from energy efficiency to resource efficiency, health and noise reduction, and universal design. 
+- HafenCity is elevated to 8 metres above sea level, with sufficient flood basins to address risks of flooding caused by tidal surges. 
+- The district’s urban design reflects the traditional architecture of the neighbouring Speicherstadt, with vistas carefully aligned to ensure the historic spires of churches are not obscured. 
 
 ---
 
@@ -91,21 +84,10 @@ description: A former industrial brownfield, HafenCity is Hamburg’s new ‘cit
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
 
-<b><u>Cheonggyecheon</u></b>
-- Cheonggyecheon attracts around 60,000 people every day, and a total of 180 million visitors in the nine years after its restoration, 7 million of whom are foreigners. 
-- The restoration of Cheonggyecheon served as a momentum for the city to take bold initiatives in reorganising its transport system, moving towards pedestrian-oriented transport. The subway use in central Seoul increased by about 5%. 
-- The land price within 100m radius has also increased by 30% after the restoration of Cheonggyecheon, with office rents increasing by 20%, according to a [World Bank Group report](https://urban-regeneration.worldbank.org/Seoul). 
-
-<b><u>Yonsei-ro Transit Mall</u></b>
-- Traffic accidents at Yonsei-ro decreased by 35% in a six-month period in 2014, compared to the same period the previous year.
-- The number of visitors from selected 10 bus routes increased by 11% from 54,000 people to 61,000 people from 2013 to 2014. 
-- The number of visitors to shops located in the greater Sinchon area increased by 29%, while number of transactions and sales in Sinchon area increased by 11% and 4% respectively between 2013 and 2014. 
-
-<b><u>Seoullo7017</u></b>
-- Besides being a symbol of Seoul as a pedestrian-friendly city, Seoullo7017 is also catalysing its surrounding areas to become an international hub for tourism and culture. 
-- Approximately 7.4 million people visited Seoullo7017 as of end-2017. 
-- The project helped to increase urban biodiversity with approximately 24,000 trees comprising 220 plant species planted along the walkway. 
-- Seoullo7017 improved connectivity around the Seoul Station with 17 entry/exit points, and more links will be built in the future. 
+- The iconic Elbphilharmonie Concert Hall was opened in 2017 and has already established itself as a major attraction and a world-renowned cultural space. 
+- Several schools and kindergartens and HafenCity University as well as two other universities have opened. 
+- The U4 subway started regular services in 2012.
+- Hamburg’s inner city now extends to the waterfront, creating a new modern identity for the city, and increasing the quality of the built environment. 
 
 ---
 
@@ -113,6 +95,7 @@ description: A former industrial brownfield, HafenCity is Hamburg’s new ‘cit
 
 ![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)*Seoul citizens involved in the planting works at Seoullo7017. Photo: Seoul Metropolitan Government*
 
-- It is important for cities to maintain the delicate balance between strong political leadership and inclusive governance. The public sector must understand the concerns of stakeholders and take necessary actions to alleviate negative impacts. Transparency and an effective leadership can help to communicate visions, build trust and resolve conflicts. 
-- By placing the needs of people first, the city can help to reshape itself towards a more inclusive urban environment. These projects demonstrate Seoul’s determination to place people over cars. 
-- A strong political will to devise unique solutions to tackle its urban challenges helped to shape Seoul’s identity as an innovative city. Cheonggyecheon, for example, is not only a new tourist attraction, but also a model example of stream restoration for cities around the world. **<font color="#967942">O</font>**
+- HafenCity is a role model for not just Hamburg, but other cities in Germany and Europe in implementing ecologically, socially and economically sustainable development concepts. 
+- In large urban areas with a long-term development plan such as HafenCity, a flexible process would allow its development to address new challenges, requirements and issues over time. As such, the master plan was completely reworked in 2010 with intensive public discussion to address other areas that were not originally included. 
+- The process of land ownership and tendering process allow both the city and the stakeholders to achieve their objectives while jointly create a diversified urban and social fabric. 
+- The setting up of HafenCity Hamburg GmbH as an autonomous subsidiary helps to avoid cumbersome and lengthy planning processes and red tape. **<font color="#967942">O</font>**
