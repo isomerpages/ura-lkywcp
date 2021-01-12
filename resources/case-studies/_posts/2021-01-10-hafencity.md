@@ -66,15 +66,15 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Elbphilharmonie Concert Hall opened in 2017<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-subway.png" alt="subway" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-school.png" alt="school" /><br></td>
+  <td style="text-align: left; vertical-align: top;"><br>Several schools opened<br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-home.png" alt="home" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>7,000 homes to be created<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-accident.png" alt="projects" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-job.png" alt="job" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>45,000 jobs to be created<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-crowd.png" alt="crowd" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-waterfront.png" alt="waterfront" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Hamburg’s inner city now extends to the waterfront<br></td>
 </tr>
 </tbody>
