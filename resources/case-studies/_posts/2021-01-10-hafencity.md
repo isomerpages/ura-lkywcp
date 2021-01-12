@@ -27,7 +27,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Key issues faced before the implementation of the project**
 
-![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)*Yonsei-ro before and after conversion into a transit mall. Photos: Seoul Metropolitan Government*
+![The extent of HafenCity next to the inner-city](/images/features/2021/hafencity-area.jpg/)*The extent of HafenCity next to the inner-city. Photo: City of Hamburg/HafenCity*
 
 - The area was previously part of Hamburg’s industrial port and a customs-free zone, bordering the historic Speicherstadt – a UNESCO World Heritage Site since 2015 – to the north.
 - Being an industrial area, it was poorly integrated with Hamburg’s inner city and blocked the latter’s access to the Elbe River waterfront. 
@@ -37,8 +37,6 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 ---
 
 #### **Leadership and governance**
-
-![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)*The governance model for the Cheonggyecheon restoration project. Diagram: Seoul Metropolitan Government*
 
 - A master plan was created for HafenCity first in 2000, and subsequently amended in 2010, to guide the development of the district. 
 - The land is owned by the master planner – HafenCity Hamburg GmbH, a 100% subsidiary of the City of Hamburg but autonomous in operations from the city government. 
