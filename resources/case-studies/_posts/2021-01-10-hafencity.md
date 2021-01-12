@@ -17,7 +17,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new �
 
 #### **In brief**
 
-![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg/)*Seoullo7017. Photo: Seoul Metropolitan Government*
+![Aerial view of HafenCity](/images/features/2021/hafencity-aerial.jpg/)*Aerial view of HafenCity. Photo: Jonas Weinitschke © 123rf.com*
 
 - HafenCity is a 157ha inner-city brownfield development project located beside the Elbe River and south of Hamburg’s historic city centre – a ‘city within a city’, featuring a fine-grain mix of offices, residences, education, culture, leisure, tourism and retail.
 - When completed, HafenCity will house more than 2.4 million square metres of gross floor area, more than 7,000 residential units, accommodate 5,000 university students and 70,000 visitors a day, and open up some 45,000 job opportunities. 
@@ -26,8 +26,6 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new �
 ---
 
 #### **Key issues faced before the implementation of the project**
-
-![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg/)
 
 ![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)*Yonsei-ro before and after conversion into a transit mall. Photos: Seoul Metropolitan Government*
 
@@ -53,7 +51,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new �
 
 #### **Creativity and innovation**
 
-![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg/)*Cheonggyecheon has transformed into a recreational haven today. Photo: Seoul Metropolitan Government*
+![The historic Speicherstadt district](/images/features/2021/speicherstadt.jpg/)*The historic Speicherstadt district. Photo: galeja © 123rf.com*
 
 - The tendering process described above is a breakthrough for Hamburg in terms of city planning and is akin to that of a ‘matching process’ which created ideal urban environments instead of relying exclusively on price mechanism. 
 - Differing from other waterfront areas focusing only on office and retail concepts or high-cost living, HafenCity is able to achieve a socially balanced mix through a closely supervised and coordinated approach. 
@@ -93,7 +91,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new �
 
 #### **Replicable ideas**
 
-![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)*Seoul citizens involved in the planting works at Seoullo7017. Photo: Seoul Metropolitan Government*
+![Elbphilharmonie Concert Hall](/images/features/2021/hafencity.jpg/)*Elbphilharmonie Concert Hall. Photo: macronomy © 123rf.com*
 
 - HafenCity is a role model for not just Hamburg, but other cities in Germany and Europe in implementing ecologically, socially and economically sustainable development concepts. 
 - In large urban areas with a long-term development plan such as HafenCity, a flexible process would allow its development to address new challenges, requirements and issues over time. As such, the master plan was completely reworked in 2010 with intensive public discussion to address other areas that were not originally included. 
