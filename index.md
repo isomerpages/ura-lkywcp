@@ -4,7 +4,7 @@ title: Lee Kuan Yew World City Prize
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
 image: /images/LKYWCP-logo.png
 permalink: /
-notification: The announcement of 2020 Prize Laureate is postponed to a later date due to the ongoing COVID-19 global pandemic. | <a href="/resources/news/postponement-advisory/">More info</a>
+notification: The announcement of 2020 Prize Laureate is postponed to a later date due to the ongoing COVID-19 global pandemic. | <a href="/resources/news/postponement-advisory/">Click here for advisory note</a>
 sections:
     - hero:
         title: Lee Kuan Yew World City Prize
@@ -50,6 +50,6 @@ sections:
           alt: Bilbao City Hall
     - resources:
         title: 
-        subtitle: Latest
-        button: More
+        subtitle: Latest updates
+        button: More resources
 ---
