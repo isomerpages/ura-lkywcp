@@ -3,12 +3,12 @@ title: About the Prize
 permalink: /about/about-the-prize/
 ---
 
-![medallion](/images/medallion-ten-years.jpg)
+![medallion](/images/medallion-800.jpg)
 
 > “Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community.”
 
 <div align="right"><font size="3"><b>Dr Cheong Koon Hean</b><br>
-Chairman<br>
+Chair<br>
   Nominating Committee 2020</font></div>
 
 #### **About the Prize**
