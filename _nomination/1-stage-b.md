@@ -19,7 +19,7 @@ The nominated city will be informed via email to prepare and submit a detailed r
 - 2-5 reference letters written and signed by independent third parties
 - *Optional: supporting documents such as city reports, media reports, accolades, etc.*
 
-Cities should note that this report may require some time and resources to complete. An incomplete report may render the submission invalid. 
+**Cities should note that this report may require some time and resources to complete. An incomplete report may render the submission invalid.** 
 
 #### **Important notes**
 
