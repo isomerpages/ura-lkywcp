@@ -18,7 +18,7 @@ Cities interested to participate should approach an independent third party (nom
 - Non-government organisations (NGOs)
 - Leading industry experts in related fields
 
-Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted. 
+**Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.** 
 
 #### **Information for the nominator**
 
@@ -29,7 +29,7 @@ As a nominator, you should inform the cities of your intention to nominate them.
 - Innovative urban solutions
 - Lessons for other cities
 
-There is no entry fee required for this nomination.
+**There is no entry fee required for this nomination.**
 
 #### **Questions?**
 
