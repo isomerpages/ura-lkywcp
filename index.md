@@ -49,7 +49,7 @@ sections:
           image: /images/carousel/bilbao.jpg
           alt: Bilbao City Hall
     - resources:
-        title: City-related resources
-        subtitle: Latest updates
+        title: 
+        subtitle: Latest city-related resources
         button: More resources
 ---
