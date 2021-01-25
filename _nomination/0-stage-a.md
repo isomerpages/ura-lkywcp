@@ -18,18 +18,18 @@ Cities interested to participate should approach an independent third party (nom
 - Non-government organisations (NGOs)
 - Leading industry experts in related fields
 
-Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted. 
+**Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.** 
 
 #### **Information for the nominator**
 
-As a nominator, you should inform the cities of your intention to nominate them. You would also need to attach a short recommendation letter of approximately 600 words together with the online nomination form (*nominations closed*) to support why the city that you are nominating should win the Prize, covering aspects as follows: 
+As a nominator, you should inform the cities of your intention to nominate them. You would also need to attach a short recommendation letter of approximately 600 words together with the online nomination form (link will be available when nominations open) to support why the city that you are nominating should win the Prize, covering aspects as follows: 
 
 - Outstanding leadership and governance
 - Successful urban transformation
 - Innovative urban solutions
 - Lessons for other cities
 
-There is no entry fee required for this nomination.
+**There is no entry fee required for this nomination.**
 
 #### **Questions?**
 

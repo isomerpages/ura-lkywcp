@@ -32,7 +32,7 @@ third_nav_title: Prize Jury
 <td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/about/prize-jury/prize-council/helen-clark/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/park-won-soon.png" alt="The Late Park Won-soon" /><br></td>
+<td><br><img src="/images/jury/generic.png" alt="generic" /><br></td>
 <td><br><strong>The Late Park Won-soon</strong><br />Former Mayor<br />Seoul<br />Republic of Korea</td>
 </tr>
 <tr>
