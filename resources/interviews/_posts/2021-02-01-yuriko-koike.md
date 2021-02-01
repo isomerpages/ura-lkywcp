@@ -5,10 +5,6 @@ image: /images/features/2021/peter-smith.jpg
 description: Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a new normal for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.
 ---
 
-| Writer |
-|---:|
-| Serene Tng |
-
 ***Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a 'new normal' for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.***
 
 ![Peter Smith](/images/features/2021/peter-smith.jpg/)*Peter Smith © Urban Redevelopment Authority Singapore*
@@ -53,7 +49,7 @@ We are also promoting the spread of bicycle-sharing services, one of the key mea
 
 TMG was already promoting these initiatives before the pandemic. With the spread of the coronavirus, I firmly believe that these trends will continue to grow.
 
-> "The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future."
+> "Rather than return to a pre-pandemic society, TMG must realise a Tokyo for everyone, where diversity and inclusiveness are embraced through the establishment of a new normal and digital transformation."
 
 #### **What are the Tokyo Metropolitan Government’s initiatives for sectors, groups and communities affected by the COVID-19 crisis?**
 
