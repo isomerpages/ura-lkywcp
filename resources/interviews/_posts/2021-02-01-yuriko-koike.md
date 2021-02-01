@@ -43,7 +43,7 @@ Even before the pandemic, TMG promoted telework to improve productivity and supp
 
 Compared to pre-pandemic levels, the rate of companies introducing telework in Tokyo has increased significantly and daily commuter congestion has eased. TMG aims for these practices to increasingly take root in society without losing the momentum brought on by these extraordinary circumstances.
 
-On public transportation, TMG is promoting the avoidance of peak commuting hours as well as measures such as the use of bicycles. Together with office development in the city centre, TMG is working toward creating 9 bicycle parking facilities.
+On public transportation, TMG is promoting the avoidance of peak commuting hours as well as measures such as the use of bicycles. Together with office development in the city centre, TMG is working toward creating nine bicycle parking facilities.
 
 We are also promoting the spread of bicycle-sharing services, one of the key means of transportation in parts of Tokyo. Due to the coronavirus outbreak, the number of new registrants for bicycle-sharing services has increased dramatically, with a 40% increase between March to April alone. Based on TMG’s initiatives, the number of buildings with open, spacious design and high-performance ventilation has also increased.
 
