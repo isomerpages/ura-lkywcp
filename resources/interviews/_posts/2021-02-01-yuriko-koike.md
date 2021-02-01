@@ -89,11 +89,11 @@ Through these numerous efforts, we believe that the Tokyo 2020 Games can rise to
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2021/peter-smith2.png" alt="Peter Smith" /></div>
+<div style="width:150px"><img src="/images/features/2021/yuriko-koike2.png" alt="Yuriko Koike" /></div>
 
 | **Yuriko Koike** |
 |:---|
-| Peter Smith is internationally recognised as one of the world’s leading thinkers on place governance and the role that government, private sector and community can play in successfully activating public spaces to achieve economic, social, creative and sustainable outcomes. Peter has over 30 years’ experience working in senior executive roles in Federal, State and Municipal governments in Australia, with particular experience in leading major urban renewal programmes and developing and implementing a range of successful affordable housing, community development and social justice strategies and programmes for Government. |
+| Yuriko Koike (小池 百合子) is a Japanese politician who currently serves as the Governor of Tokyo. She was a member of the House of Representatives of Japan from 1993 to 2016 (when she resigned to run in the Tokyo gubernatorial election), and was previously the Minister of Defense in the cabinet of Prime Minister Shinzō Abe. On 31 July 2016, Koike was elected Governor of Tokyo, the city's first female governor. |
 
 ###### *This article is adapted from and was first published in [Urban Solutions Issue 18 - Adapting to a Disrupted World](https://www.clc.gov.sg/research-publications/publications/urban-solutions/view/issue-18), 2021 © Centre for Liveable Cities. For more issues, go to [Urban Solutions](https://www.clc.gov.sg/research-publications/publications/urban-solutions).*
 
