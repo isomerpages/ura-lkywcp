@@ -21,7 +21,7 @@ Of course, every culture has its own customs. In Japan, we take off our shoes at
 
 'Gi' or 'Skill' refers to the ability to disseminate information using technology.
 
-TMG launched a COVID-19 Information website at an early stage to deliver the latest information. This website has made its source code openly available and, as a result, more than 50 local governments across the country have launched their own websites using our source code. I have also been using YouTube to deliver live updates regularly in Japanese and English so that people can get accurate information in a timely manner. Since November, I have provided detailed information in simple Japanese, Nepali, Tagalog and other languages, to cater for foreign residents.
+TMG launched a [COVID-19 Information website](https://stopcovid19.metro.tokyo.lg.jp/en) at an early stage to deliver the latest information. This website has made its source code openly available and, as a result, more than 50 local governments across the country have launched their own websites using our source code. I have also been using YouTube to deliver live updates regularly in Japanese and English so that people can get accurate information in a timely manner. Since November, I have provided detailed information in simple Japanese, Nepali, Tagalog and other languages, to cater for foreign residents.
 
 When a cluster of infections occurs, TMG notifies users of infection information based on visitation history via email and a communication app. We have also posted robot concierges in some subway stations to enable passengers to receive guidance without direct human contact.
 
@@ -29,15 +29,15 @@ In addition, in cooperation with universities and other organisations, TMG is pr
 
 Finally, 'Tai' or 'Body' refers to policies that support both 'Mind' and 'Skill'.
 
-TMG has asked a wide range of businesses including restaurants, bars, theatres, museums and sports gyms to display a rainbow-coloured COVID-19 safety sticker that shows they are taking steps to prevent the spread of infection. You can see more than a quarter of a million of these stickers all over Tokyo. Businesses must follow the guidelines for COVID-19 prevention in order to obtain the stickers and consumers are able to select among businesses by referring to the stickers. These safety stickers raise awareness among businesses and consumers and have contributed to a tangible reduction in the spread of infection.
+TMG has asked a wide range of businesses including restaurants, bars, theatres, museums and sports gyms to display a [rainbow-coloured COVID-19 safety sticker](https://www.metro.tokyo.lg.jp/english/topics/2020/0714_01.html) that shows they are taking steps to prevent the spread of infection. You can see more than a quarter of a million of these stickers all over Tokyo. Businesses must follow the guidelines for COVID-19 prevention in order to obtain the stickers and consumers are able to select among businesses by referring to the stickers. These safety stickers raise awareness among businesses and consumers and have contributed to a tangible reduction in the spread of infection.
 
-TMG also understands the need for compassion and the diverse needs and concerns of citizens during such a difficult period. In October, we opened a newly designated facility for recovery where people who have mild or no symptoms can stay with their beloved pets such as cats, dogs, hamsters and rabbits.
+TMG also understands the need for compassion and the diverse needs and concerns of citizens during such a difficult period. In October, we opened a [newly designated facility](https://www.arabnews.jp/en/japan/article_28617/) for recovery where people who have mild or no symptoms can stay with their beloved pets such as cats, dogs, hamsters and rabbits.
 
 ![Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo](/images/features/2021/shinjuku.jpg/)*Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo. Photo: [wirestock](https://www.123rf.com/profile_wirestock) © 123rf.com*
 
 #### **What will Tokyo’s 'new normal' look like?**
 
-**YK:** Tokyo’s new normal in this coronavirus age includes washing our hands and wearing a mask, maintaining social distance, and avoiding the three Cs—Closed Spaces, Crowded Places and Close Conversation.
+**YK:** Tokyo’s new normal in this coronavirus age includes washing our hands and wearing a mask, maintaining social distance, and avoiding the [three Cs—Closed Spaces, Crowded Places and Close Conversation](https://www.businessinsider.com/how-japan-tackled-coronavirus-without-a-lockdown-2020-5).
 
 Even before the pandemic, TMG promoted telework to improve productivity and support flexible working styles. Now, we are further promoting this effort to reduce human contact. TMG has also strongly encouraged the introduction of telework among small and medium-sized enterprises (SMEs) by subsidising costs for the necessary supporting equipment.
 
@@ -72,7 +72,7 @@ new values by responding flexibly to change; creating spaces where people can co
 
 #### **The Tokyo Metropolitan Government has plans for a new disease control centre as a response to the pandemic and to prepare for future shocks and disruptions. What role will this centre play in the future of Tokyo’s public health governance and how will it help to build resilience for similar epidemics?**
 
-**YK:** The newly established Tokyo Center for Infectious Disease Control and Prevention or Tokyo iCDC is serving as a new permanent command post for conducting effective infectious disease countermeasures, including policy planning, crisis management, research and analysis, and information gathering and dissemination.
+**YK:** The newly established [Tokyo Center for Infectious Disease Control and Prevention](https://www.japantimes.co.jp/news/2020/10/02/national/tokyo-government-center-for-disease-control/) or Tokyo iCDC is serving as a new permanent command post for conducting effective infectious disease countermeasures, including policy planning, crisis management, research and analysis, and information gathering and dissemination.
 
 Under normal circumstances, Tokyo iCDC has been strengthening its fact-finding capabilities by training human resources in public health and establishing networks with local and international governments, research institutions and other organisations. And in times of crisis, Tokyo’s know-how and strengthened capabilities can be leveraged as Tokyo iCDC shifts to emergency operation mode, responding swiftly and effectively to any situation. 
 
