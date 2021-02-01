@@ -7,7 +7,7 @@ description: Governor Yuriko Koike shares how the Tokyo Metropolitan Government 
 
 ***Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a 'new normal' for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.***
 
-![Yukriko Koike](/images/features/2021/yuriko-koike.jpg/)*Yukriko Koike © Tokyo Metropolitan Government*
+![Yuriko Koike](/images/features/2021/yuriko-koike.jpg/)*Yuriko Koike © Tokyo Metropolitan Government*
 
 #### **The COVID-19 pandemic has been an unexpected crisis for cities around the world as they try to manage the strain on public health infrastructure and maintain economic activity. How has Tokyo approached the crisis, and how has the city fared in tackling the crisis?**
 
