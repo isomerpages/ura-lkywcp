@@ -49,7 +49,7 @@ We are also promoting the spread of bicycle-sharing services, one of the key mea
 
 TMG was already promoting these initiatives before the pandemic. With the spread of the coronavirus, I firmly believe that these trends will continue to grow.
 
-> "Rather than return to a pre-pandemic society, TMG must realise a Tokyo for everyone, where diversity and inclusiveness are embraced through the establishment of a new normal and digital transformation."
+> "Tokyo’s new normal includes washing our hands, wearing a mask, maintaining social distance, and avoiding closed spaces, crowded places and close conversation."
 
 #### **What are the Tokyo Metropolitan Government’s initiatives for sectors, groups and communities affected by the COVID-19 crisis?**
 
@@ -67,6 +67,8 @@ We realise that digital transformation will be critical in restoring connections
 
 Rather than try to return to a pre-pandemic society, TMG must realise a Tokyo for everyone, where diversity and inclusiveness are embraced through the establishment of a new normal and digital transformation. TMG aims to create a resilient and sustainable society that generates
 new values by responding flexibly to change; creating spaces where people can connect despite quarantine measures; creating environments where children can learn; and creating a system in which people can work and gain an income with peace of mind, and continue their artistic, cultural and sporting activities.
+
+> "Rather than return to a pre-pandemic society, TMG must realise a Tokyo for everyone, where diversity and inclusiveness are embraced through the establishment of a new normal and digital transformation."
 
 #### **The Tokyo Metropolitan Government has plans for a new disease control centre as a response to the pandemic and to prepare for future shocks and disruptions. What role will this centre play in the future of Tokyo’s public health governance and how will it help to build resilience for similar epidemics?**
 
