@@ -13,13 +13,13 @@ description: Governor Yuriko Koike shares how the Tokyo Metropolitan Government 
 
 **Yuriko Koike (YK):** The focus of the Tokyo Metropolitan Government (TMG) is on containing and reducing the spread of infection while keeping the economy and social activities ticking, with the support of the people.
 
-There is an expression derived from Japanese martial arts—“心 (Shin), 技 (Gi) and 体 (Tai)”, or “Mind, Skill and Body”. I always consider this philosophy when making policies.
+There is an expression derived from Japanese martial arts — '心 (Shin), 技 (Gi) and 体 (Tai)', or 'Mind, Skill and Body'. I always consider this philosophy when making policies.
 
-“Shin” or “Mind” refers to the consciousness of people. The high social consciousness of Japanese people has received positive recognition overseas. I believe the high level of public health awareness has played a significant role in Tokyo’s success in containing the coronavirus crisis.
+'Shin' or 'Mind' refers to the consciousness of people. The high social consciousness of Japanese people has received positive recognition overseas. I believe the high level of public health awareness has played a significant role in Tokyo’s success in containing the coronavirus crisis.
 
 Of course, every culture has its own customs. In Japan, we take off our shoes at home, have special toilet seats with warm water to wash, and wear masks, among other norms. Indeed, mask-wearing goes all the way back to the 1918 flu pandemic. It has been jokingly said that only bank robbers and 7 Japanese people put masks on. However, mask-wearing has now become an international necessity.
 
-“Gi” or “Skill” refers to the ability to disseminate information using technology.
+'Gi' or 'Skill' refers to the ability to disseminate information using technology.
 
 TMG launched a COVID-19 Information website at an early stage to deliver the latest information. This website has made its source code openly available and, as a result, more than 50 local governments across the country have launched their own websites using our source code. I have also been using YouTube to deliver live updates regularly in Japanese and English so that people can get accurate information in a timely manner. Since November, I have provided detailed information in simple Japanese, Nepali, Tagalog and other languages, to cater for foreign residents.
 
@@ -27,7 +27,7 @@ When a cluster of infections occurs, TMG notifies users of infection information
 
 In addition, in cooperation with universities and other organisations, TMG is promoting the establishment of a coronavirus analysis method using virus analysis of sewage in order to detect the signs of a potential increase in infections.
 
-Finally, “Tai” or “Body” refers to policies that support both “Mind” and “Skill”.
+Finally, 'Tai' or 'Body' refers to policies that support both 'Mind' and 'Skill'.
 
 TMG has asked a wide range of businesses including restaurants, bars, theatres, museums and sports gyms to display a rainbow-coloured COVID-19 safety sticker that shows they are taking steps to prevent the spread of infection. You can see more than a quarter of a million of these stickers all over Tokyo. Businesses must follow the guidelines for COVID-19 prevention in order to obtain the stickers and consumers are able to select among businesses by referring to the stickers. These safety stickers raise awareness among businesses and consumers and have contributed to a tangible reduction in the spread of infection.
 
@@ -61,7 +61,7 @@ As the pandemic continues, expecting and nursing mothers are naturally concerned
 
 Given the sudden negative impact on the employment situation, TMG hired people as part-time employees who had to leave their jobs for various reasons related to COVID-19, as well as people whose job offers had been withdrawn because of the coronavirus economic convulsions. These measures have led to the creation of much-needed job opportunities.
 
-We need to keep our sights set on the future as we work toward the recovery of the economy, society, and even our own mindsets as we endure this pandemic. Around the world we see a trend of working toward economic recovery while also coping with climate change, but I want to propose a “sustainable recovery” model for people as a new perspective on living sustainable lives, not only in regard to climate change, but in other areas as well. A holistic approach to sustainable recovery is essential in maintaining Tokyo’s vitality.
+We need to keep our sights set on the future as we work toward the recovery of the economy, society, and even our own mindsets as we endure this pandemic. Around the world we see a trend of working toward economic recovery while also coping with climate change, but I want to propose a 'sustainable recovery' model for people as a new perspective on living sustainable lives, not only in regard to climate change, but in other areas as well. A holistic approach to sustainable recovery is essential in maintaining Tokyo’s vitality.
 
 We realise that digital transformation will be critical in restoring connections between people who have been separated by the pandemic. Going digital can help foster communication and create a society where people can maintain their way of life in the face of such crises.
 
@@ -77,12 +77,13 @@ Under normal circumstances, Tokyo iCDC has been strengthening its fact-finding c
 #### **How will the Tokyo Olympics be planned and executed and how will public health safety concerns be addressed?**
 
 **YK:** The Tokyo 2020 Games, scheduled to be held in 2021, will be a symbolic and significant Games to prove that people, all together from across the world, have defeated the virus and strengthened our mutual bonds.
+
 In order to have a successful Games, we must make thorough preparations to provide athletes, spectators and all involved with a safe and secure environment.
 
 TMG, together with the national government, the Tokyo Organising Committee and other organisations concerned have been working closely
 to come up with a wide range of measures to manage the coronavirus. This includes border control and infection prevention measures, such as regularly conducting PCR tests on the athletes, and the way we run the Olympic and Paralympic Village, for example how meals are served. We are also working together to ensure the stability of the medical system.
 
-Through these numerous efforts, we believe that the Tokyo 2020 Games can rise to the challenge of our post-pandemic world. And our model—the Tokyo model—will be passed on to future Olympic and Paralympic host cities.**<font color="#967942">O</font>** 
+Through these numerous efforts, we believe that the Tokyo 2020 Games can rise to the challenge of our post-pandemic world. And our model — the Tokyo model — will be passed on to future Olympic and Paralympic host cities. **<font color="#967942">O</font>** 
 
 <br>
 
