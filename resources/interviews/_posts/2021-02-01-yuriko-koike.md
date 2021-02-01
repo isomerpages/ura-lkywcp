@@ -17,7 +17,7 @@ There is an expression derived from Japanese martial arts — '心 (Shin), 技 (
 
 'Shin' or 'Mind' refers to the consciousness of people. The high social consciousness of Japanese people has received positive recognition overseas. I believe the high level of public health awareness has played a significant role in Tokyo’s success in containing the coronavirus crisis.
 
-Of course, every culture has its own customs. In Japan, we take off our shoes at home, have special toilet seats with warm water to wash, and wear masks, among other norms. Indeed, mask-wearing goes all the way back to the 1918 flu pandemic. It has been jokingly said that only bank robbers and 7 Japanese people put masks on. However, mask-wearing has now become an international necessity.
+Of course, every culture has its own customs. In Japan, we take off our shoes at home, have special toilet seats with warm water to wash, and wear masks, among other norms. Indeed, mask-wearing goes all the way back to the 1918 flu pandemic. It has been jokingly said that only bank robbers and seven Japanese people put masks on. However, mask-wearing has now become an international necessity.
 
 'Gi' or 'Skill' refers to the ability to disseminate information using technology.
 
