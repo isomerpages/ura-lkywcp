@@ -17,7 +17,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **In brief**
 
-![Aerial view of HafenCity](/images/features/2021/shinjuku-station.jpg/)*Aerial view of HafenCity. Photo: Jonas Weinitschke © 123rf.com*
+![Tokyo has one of the most complex and highly integrated rail network in the world](/images/features/2021/tokyo-subway-map.jpg/)*Tokyo has one of the most complex and highly integrated rail network in the world. Photo: Gerold Grotelueschen © 123rf.com*
 
 - Tokyo’s railway network enjoys a good global reputation for being highly comprehensive and efficient. 
 - With its origins dating back to 1872, the last 60 years marked a significant period of its development, in tandem with the economic and population growth of the capital city into a megacity and Japan’s most important city.
@@ -28,7 +28,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Key issues faced before the implementation of the project**
 
-![The extent of HafenCity next to the inner-city](/images/features/2021/hafencity-area.jpg/)*The extent of HafenCity next to the inner-city. Photo: City of Hamburg/HafenCity*
+![Tokyo faced traffic congestion in its early days of rapid urbanisation](/images/features/2021/tokyo-congestion.jpg/)*Tokyo faced severe traffic congestion in its early days of rapid urbanisation. Photo: Tokyo Metropolitan Government*
 
 - The devastation from the second World War gave the national and city government an urgent need to rebuild Tokyo from scratch. 
 - The post-war rapid economic growth coupled with population increase saw a lack of public transport capacity in the metropolitan region. Congestion rate in trains exceeded 200% then. 
@@ -46,8 +46,6 @@ description: Well known and often envied for its reliability and efficiency, Tok
 ---
 
 #### **Creativity and innovation**
-
-![The historic Speicherstadt district](/images/features/2021/speicherstadt.jpg/)*The historic Speicherstadt district. Photo: galeja © 123rf.com*
 
 - Tokyo adopted an innovative approach of an integrated development of both railway and real estate: 
   - Model A: Development synchronised with railway infrastructure construction
@@ -91,7 +89,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Replicable ideas**
 
-![Elbphilharmonie Concert Hall](/images/features/2021/hafencity.jpg/)*Elbphilharmonie Concert Hall. Photo: macronomy © 123rf.com*
+![Shinjuku Station is one of Tokyo's busiest stations](/images/features/2021/shinjuku-station.jpg/)*Shinjuku Station is one of Tokyo's busiest stations. Photo: viteethumb © 123rf.com*
 
 - The development of an extensive public transport network such as railway can benefit an aging society such as Tokyo. The elderly can still move around freely despite being unable to drive cars on their own. 
 - By planning and developing barrier-free transport infrastructure ahead, cities can also help to pre-empt the renovation costs in later stages to add these features as the population ages. **<font color="#967942">O</font>**
