@@ -64,15 +64,15 @@ description: Well known and often envied for its reliability and efficiency, Tok
 <table style="width: 100%;" cellpadding="0">
 <tbody>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-school.png" alt="school" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-train.png" alt="train" /><br></td>
   <td style="text-align: left; vertical-align: top;"><br>Total rail length increased<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-home.png" alt="home" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-percent.png" alt="percent" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>48% train modal share in 23 Special Wards<br></td>
 </tr>
 <tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-job.png" alt="job" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-walk.png" alt="walk" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>80% of commuters use trains and buses<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-waterfront.png" alt="waterfront" /><br></td>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-wheelchair.png" alt="wheelchair" /><br></td>
 <td style="text-align: left; vertical-align: top;"><br>Stations equipped with barrier-free features<br></td>
 </tr>
 </tbody>
