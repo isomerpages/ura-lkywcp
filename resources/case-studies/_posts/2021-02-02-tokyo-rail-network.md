@@ -65,15 +65,15 @@ description: Well known and often envied for its reliability and efficiency, Tok
 <tbody>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-school.png" alt="school" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Several schools opened<br></td>
+  <td style="text-align: left; vertical-align: top;"><br>Total rail length increased<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-home.png" alt="home" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>7,000 homes to be created<br></td>
+<td style="text-align: left; vertical-align: top;"><br>48% train modal share in 23 Special Wards<br></td>
 </tr>
 <tr>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-job.png" alt="job" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>45,000 jobs to be created<br></td>
+<td style="text-align: left; vertical-align: top;"><br>80% of commuters use trains and buses<br></td>
 <td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-waterfront.png" alt="waterfront" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Hamburg’s inner city now extends to the waterfront<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Stations equipped with barrier-free features<br></td>
 </tr>
 </tbody>
 </table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
@@ -85,7 +85,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 - The centre of Tokyo within the JR Yamanote loop line is well covered by rail networks, with 64% of the area less than 5 minutes from the nearest station on foot, and almost 100% within 10 minutes from the nearest station on foot.
 - Tokyo’s measures to ease congestion, such as construction of new lines, adding tracks to existing lines, making trains longer, and enhancing through-services between railway operators, has seen its congestion rate decreased from 221% in 1975 to 164% in 2015. 
 - Railway stations are equipped with barrier-free features, with 90% equipped with elevators, 100% with guiding blocks for visually handicapped, and 95% with wheelchair-accessible washrooms. 
-- Underground shopping streets around stations have been developed since 1950s, providing a comfortable shopping experience for passengers and contributing revenue for railway companies. 
+- Underground shopping streets around stations have been developed since the 1950s, providing a comfortable shopping experience for passengers and contributing revenue for railway companies. 
 
 ---
 
