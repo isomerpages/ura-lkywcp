@@ -95,5 +95,5 @@ Through these numerous efforts, we believe that the Tokyo 2020 Games can rise to
 |:---|
 | Yuriko Koike (小池 百合子) is the Governor of the Tokyo Metropolitan Government. She was a member of the House of Representatives of Japan from 1993 to 2016 (when she resigned to run in the Tokyo gubernatorial election), and was previously the Minister of Defense in the cabinet of Prime Minister Shinzō Abe. |
 
-###### *This is an edited version of the article published in the January 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol18](www.go.gov.sg/urbsol18), a publication by the Centre for Liveable Cities [www.clc.gov.sg](www.clc.gov.sg) under the Ministry of National Development Singapore.*
+###### *This is an edited version of the article published in the January 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol18](https://www.go.gov.sg/urbsol18), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.*
 
