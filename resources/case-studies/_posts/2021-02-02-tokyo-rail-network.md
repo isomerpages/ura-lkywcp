@@ -39,6 +39,8 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Leadership and governance**
 
+![Passengers waiting for the train at the Chūō Line](/images/features/2021/chuo-line.jpg/)*Passengers waiting for the train at the Chūō Line (2017 file photo). Photo: bennymarty © 123rf.com*
+
 - A public-private partnership between private railway companies and the government allowed for a transit-oriented development of the city.
 - The former delivers profitable projects by combining real estate with railway construction, while the latter develop policies to support the rail network in the metropolitan region. 
 - The Tokyo Metropolitan Government itself operates the Toei subway and buses, among others, while the national railway company was privatised into JR Group 1987. 
