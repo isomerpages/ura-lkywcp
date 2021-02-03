@@ -1,7 +1,7 @@
 ---
 title: Keeping the megacity on the move
 permalink: /resources/case-studies/tokyo-rail-network/
-image: /images/features/2021/tokyo-rail-network.jpg
+image: /images/features/2021/shinjuku-station.jpg
 description: Well known and often envied for its reliability and efficiency, Tokyo’s highly extensive train network is developed over some 60 years, anticipating and growing in tandem with Japan’s capital and most important city.
 
 ---
@@ -17,7 +17,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **In brief**
 
-![Aerial view of HafenCity](/images/features/2021/hafencity-aerial.jpg/)*Aerial view of HafenCity. Photo: Jonas Weinitschke © 123rf.com*
+![Aerial view of HafenCity](/images/features/2021/shinjuku-station.jpg/)*Aerial view of HafenCity. Photo: Jonas Weinitschke © 123rf.com*
 
 - Tokyo’s railway network enjoys a good global reputation for being highly comprehensive and efficient. 
 - With its origins dating back to 1872, the last 60 years marked a significant period of its development, in tandem with the economic and population growth of the capital city into a megacity and Japan’s most important city.
