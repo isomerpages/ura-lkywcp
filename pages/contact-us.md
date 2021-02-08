@@ -7,7 +7,7 @@ locations:
   - title: Mailing Address
     address:
         - Lee Kuan Yew World City Prize Secretariat
-        - Care of Urban Redevelopment Authority
+        - Urban Redevelopment Authority
         - 45 Maxwell Road
         - The URA Centre, Tower
         - 13-01
