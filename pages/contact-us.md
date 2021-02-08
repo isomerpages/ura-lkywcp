@@ -6,6 +6,7 @@ agency_name: the Prize Secretariat
 locations:
   - title: Lee Kuan Yew World City Prize Secretariat
     address:
+        - c/o Urban Redevelopment Authority 
         - 45 Maxwell Road
         - The URA Centre, Tower
         - 13-01
