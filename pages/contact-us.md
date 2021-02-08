@@ -16,7 +16,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Weekends and Singapore Public Holidays
+        description: Our office is temporarily closed due to COVID-19
 contacts:
   - title: General enquiries & feedback
     content:
