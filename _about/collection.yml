@@ -1,0 +1,11 @@
+collections:
+  about:
+    output: true
+    order:
+      - about-the-prize.md
+      - prize-jury/prize-council.md
+      - prize-jury/nominating-committee.md
+      - prize-sponsor.md
+      - prize-partners.md
+      - organisers/urban-redevelopment-authority.md
+      - organisers/centre-for-liveable-cities.md

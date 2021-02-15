@@ -1,0 +1,27 @@
+collections:
+  laureates:
+    output: true
+    order:
+      - 2010/laureate-bilbao-city-hall.md
+      - 2010/special-mention-melbourne.md
+      - 2010/special-mention-jaime-lerner.md
+      - 2010/special-mention-sheila-dikshit.md
+      - 2012/laureate-new-york-city.md
+      - 2012/special-mention-ahmedabad.md
+      - 2012/special-mention-khayelitsha.md
+      - 2012/special-mention-copenhagen-and-malm-o.md
+      - 2012/special-mention-brisbane.md
+      - 2012/special-mention-vancouver.md
+      - 2014/laureate-suzhou.md
+      - 2014/special-mention-medell-in.md
+      - 2014/special-mention-yokohama.md
+      - 2016/laureate-medell-in.md
+      - 2016/special-mention-auckland.md
+      - 2016/special-mention-sydney.md
+      - 2016/special-mention-toronto.md
+      - 2016/special-mention-vienna.md
+      - 2018/laureate-seoul.md
+      - 2018/special-mention-hamburg.md
+      - 2018/special-mention-kazan.md
+      - 2018/special-mention-surabaya.md
+      - 2018/special-mention-tokyo.md

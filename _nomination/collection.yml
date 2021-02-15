@@ -1,0 +1,8 @@
+collections:
+  nomination:
+    output: true
+    order:
+      - stage-a-nominations.md
+      - stage-b-submissions.md
+      - evaluations.md
+      - judging-criteria.md
