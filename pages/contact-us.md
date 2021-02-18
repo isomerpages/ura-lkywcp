@@ -4,8 +4,10 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: the Prize Secretariat
 locations:
-  - title: Lee Kuan Yew World City Prize Secretariat
+  - title: Mailing Address
     address:
+        - Lee Kuan Yew World City Prize Secretariat
+        - Urban Redevelopment Authority
         - 45 Maxwell Road
         - The URA Centre, Tower
         - 13-01
@@ -14,7 +16,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Weekends and Singapore Public Holidays
+        description: Our office is temporarily closed due to COVID-19
 contacts:
   - title: General enquiries & feedback
     content:
