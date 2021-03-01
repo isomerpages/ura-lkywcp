@@ -35,7 +35,7 @@ Some cities have gone even further. For years, Essex, Britain, has [practiced pa
 
 To balance the needs for safety and energy conservation, areas exempt from the arrangement include major traffic junctions, and places with high crime risks, large concentrations of people, such as transport interchanges, and many high-security premises, such as banks. The government also piloted the part-night lighting in two areas first to study its impact on crime and traffic accidents. It found that the number of offences in the two areas actually fell by 14 percent and 12.6 percent respectively during the time the street lights were switched off, although this could be due to the lack of street lights deterring people from going out at night. There was no increase in the number of road collisions.
 
-![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg/)*Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets. Photo: Zhao Jiankang © 123rf.com*
+![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg/)*Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for their streets. Photo: Zhao Jiankang © 123rf.com*
 
 #### **A not so bright future**
 
