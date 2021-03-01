@@ -2,14 +2,14 @@
 title: Renewables on the rise
 permalink: /resources/features/renewable-energy/
 image: /images/features/2021/renewable-energy.jpg
-description: More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal: operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.
+description: More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal — operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.
 ---
 
 | Writer |
 |---:|
 | Feng Zengkun |
 
-***More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal: operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.***
+***More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal — operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.***
 
 ![How can cities eliminate pollutive construction?](/images/features/2021/clean-construction.jpg/)*How can cities eliminate pollutive construction? Photo: [onlyyouqj](https://www.freepik.com)*
 
