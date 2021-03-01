@@ -17,7 +17,7 @@ In 2020, Europeans received more electricity from renewable sources than fossil 
 
 Over 100 cities globally now use renewable energy for over 70 percent of their power needs2, and many have pledged to use only such power for all of their electricity needs by 2050. In the United States alone, over 170 cities, including New York, Los Angeles, Cincinnati, St. Louis and Denver, have committed to replacing their coal and natural gas power with solar, wind, hydro and other renewable energy3. More than 80 cities and towns in the United Kingdom have announced the same undertaking4. In December 2020, India also directed its states to redevelop at least one city each to run solely on renewable energy, to act as exemplars and help the country meet its goal of getting at least 40 percent of its power from renewable sources by 20305.
 
-Partnerships for clean power
+#### **Partnerships for clean power**
 
 Some cities have introduced innovative measures to increase their supply of clean power. In Australia, Melbourne pioneered a Melbourne Renewable Energy Project in 2017 that brings together large-scale energy users to combine their purchasing power to support the building of renewable energy facilities6. 
 
@@ -31,7 +31,7 @@ In India, the government of New Delhi has forged a different kind of partnership
 
 The capital said that the area can hold enough solar panels to generate 38 megawatts of power per year, and it will issue tenders for the panels’ installation by the end of 2021. Such dual use of crop farmland, called agricultural photovoltaics, or agrivoltaics, is also gaining popularity in Japan9, the United States10, and other countries. 
 
-Enlisting people and properties
+#### **Enlisting people and properties**
 
 As cities grow to accommodate more residents, more of them are also requiring buildings to pull their own weight in the energy equation. Buildings worldwide now make up nearly one-third of all energy use11, and their consumption continues to increase, driven by their rising total floor area and greater use of air-conditioning and other energy-guzzling systems. In the United States, San Francisco has acted to curtail its buildings’ environmental footprint by mandating that large commercial properties with over 500,000 square feet of floor area use only renewable energy from 202212. The threshold will be lowered progressively from 2024 to encompass all commercial buildings with over 50,000 square feet of floor area by 2030. 
 
@@ -43,7 +43,7 @@ London in Britain, for its part, created its own clean energy company, called Lo
 
 Cities aiming to accelerate their residents’ take-up of renewable energy can also learn from Boston in the United States. In February 2021, the city implemented an opt-out programme that automatically transferred residents and firms on the local utility’s fossil fuel-generated electricity plans onto plans that use more renewable energy17. Mr Christopher Cook, Boston’s Chief of Environment, Energy and Open Space, explained the city’s thinking18: “We don’t want people to leave the programme, but if they choose to do so for whatever reason, they can. But most people will probably choose to do nothing. Just by doing that, they are making us more sustainable.”
 
-The road ahead for renewables
+#### **The road ahead for renewables**
 
 As nascent technologies mature, they could open up other opportunities in renewable energy for cities too. Bangkok in Thailand19 and Osaka in Japan20 are among several Asian cities that have piloted peer-to-peer, blockchain-enabled renewable energy trading platforms in recent years, so that small-scale power generators, such as residents with solar panels on their homes, can sell their surplus electricity to neighbours or nearby buildings more quickly and easily. 
 
