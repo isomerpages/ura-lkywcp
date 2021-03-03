@@ -31,13 +31,13 @@ The city said that the smart LED system has cut its lighting energy use by 62 pe
 
 In Cambridge in the United States, on the other hand, [the LED street lights are programmed](https://www.echelon.com/assets/blt39b6475f3f7acf71/Cambridge%20Case%20Study.pdf) to emit 50 percent of their light at dusk, brighten at night, and then dim again to 30 percent of their output later when most people are at home, to save energy. The city also surveyed residents to create neighbourhood-specific lighting strategies, with the dimming beginning at 8 pm for some areas and 10 pm for others, depending on the feedback. The differentiated timing applies to other parts of the city too, with street lights on main thoroughfares kept bright until midnight while decorative lights in park dim at 10 pm. By adopting this approach along with LED bulbs, the city slashed its lighting energy use by 80 percent.
 
+![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg/)*Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for their streets. Photo: Zhao Jiankang © 123rf.com*
+
+#### **Switching off for sustainability**
+
 Some cities have gone even further. For years, Essex, Britain, has [practiced part-night lighting](https://www.essexhighways.org/roads-and-pavements/street-lighting/part-night-lighting.aspx), where over 70 percent of its 129,000 municipal street lights are switched off from 1 am to 5 am on Tuesdays to Sundays, and from midnight to 5 am on Mondays, to nearly halve its electricity use and cost, and decrease its emissions by 8,000 tonnes per year. 
 
 To balance the needs for safety and energy conservation, areas exempt from the arrangement include major traffic junctions, and places with high crime risks, large concentrations of people, such as transport interchanges, and many high-security premises, such as banks. The government also piloted the part-night lighting in two areas first to study its impact on crime and traffic accidents. It found that the number of offences in the two areas actually fell by 14 percent and 12.6 percent respectively during the time the street lights were switched off, although this could be due to the lack of street lights deterring people from going out at night. There was no increase in the number of road collisions.
-
-![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg/)*Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for their streets. Photo: Zhao Jiankang © 123rf.com*
-
-#### **A not so bright future**
 
 In the past few years, countries including France, Germany, Australia, South Korea, Mexico, Malta and Croatia have also introduced, passed or strengthened legislation to target light pollution, particularly in cities. 
 
@@ -45,7 +45,7 @@ In 2019, [France enacted one of the most comprehensive laws](https://translate.g
 
 Germany, for its part, has [taken aim at light pollution as part of a law passed in February 2021](https://www.iamexpat.de/lifestyle/lifestyle-news/germany-waves-through-new-package-laws-reverse-insect-decline) to protect its insect population. “Insects play an important role in the ecosystem, but their numbers and diversity have severely declined in recent years,” [the government said](https://phys.org/news/2020-08-germany-dim-night-insects.html). Under the law, searchlights, which are often used by nightclubs and for events, cannot be deployed from dusk to dawn for most of the year. New street lights and other public lighting must also be installed in ways that minimise their impact on plants, insects and animals, for instance via the addition of shields that ensure that their light is directed only downwards onto the street or pavement. 
 
-[Malta’s proposed legislation](https://timesofmalta.com/articles/view/light-pollution-ministry-seeks-public-feedback-on-new-guidelines.800436), which is being reviewed after a public consultation that ended in August 2020, seeks to counteract the growing and 'erratic use of external artificial light with little concern about the negative impacts'. Among the law’s provisions are limits on the brightness and use of increasingly ubiquitous LED billboards.
+#### **A not so bright future**
 
 > "The case for controlling light pollution has scientific, educational, environmental, aesthetic and economic dimensions… The government should implement modest changes in the planning and regulatory system that could stem and indeed reverse current trends."
 
