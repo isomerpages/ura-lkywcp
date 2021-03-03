@@ -45,9 +45,9 @@ In 2019, [France enacted one of the most comprehensive laws](https://translate.g
 
 Germany, for its part, has [taken aim at light pollution as part of a law passed in February 2021](https://www.iamexpat.de/lifestyle/lifestyle-news/germany-waves-through-new-package-laws-reverse-insect-decline) to protect its insect population. “Insects play an important role in the ecosystem, but their numbers and diversity have severely declined in recent years,” [the government said](https://phys.org/news/2020-08-germany-dim-night-insects.html). Under the law, searchlights, which are often used by nightclubs and for events, cannot be deployed from dusk to dawn for most of the year. New street lights and other public lighting must also be installed in ways that minimise their impact on plants, insects and animals, for instance via the addition of shields that ensure that their light is directed only downwards onto the street or pavement. 
 
-#### **A not so bright future**
-
 > "The case for controlling light pollution has scientific, educational, environmental, aesthetic and economic dimensions… The government should implement modest changes in the planning and regulatory system that could stem and indeed reverse current trends."
+
+#### **A not so bright future**
 
 In December 2020, an all-party parliamentary group convened by the Parliament of the United Kingdom to fight light pollution published, after extensive consultations with over 170 scientists, lawyers, astronomers, engineers and other experts, [a report with 10 policy recommendations](https://appgdarkskies.co.uk/policy-plan). These include setting standards for lighting’s brightness and colour temperature, and appointing an inaugural 'Minister for Dark Skies' to oversee light pollution-related environmental regulations. The group noted that light pollution is not just disruptive to people, nature and wildlife in the moment, but could have long-term consequences too. For instance, [research has connected it to declining pollinating insect species](https://www.nature.com/articles/nature23288), suggesting that it could pose a serious threat to world food production in the coming decades. 
 
