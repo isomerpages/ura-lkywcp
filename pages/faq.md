@@ -115,7 +115,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 The announcement of the 2020 Prize Laureate is [postponed](/resources/news/covid19-advisory/) due to the COVID-19 global pandemic. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
 
-#### **Who will be invited to receive the award**
+#### **Who will be invited to receive the award?**
 
 The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award Ceremony & Banquet (a highlight event of the World Cities Summit, a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate.
 
