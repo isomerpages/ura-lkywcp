@@ -3,7 +3,7 @@ title: FAQ
 permalink: /faq/
 ---
 
-### **Stage A nominations**
+# **Stage A nominations**
 
 #### **Who is eligible to nominate?**
 
@@ -60,7 +60,7 @@ The recomendation letter should preferably be around 600 words.
 
 ---
 
-### **Stage B submission**
+# **Stage B submission**
 
 #### **Who is supposed to prepare the Stage B submission?**
 
@@ -105,7 +105,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 ---
 
-### **Others** 
+# **Others** 
 
 #### **When will the results be announced?**
 
