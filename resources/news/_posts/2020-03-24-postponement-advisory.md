@@ -5,9 +5,11 @@ image:
 description: Announcement of 2020 Prize Laureate postponed
 ---
 
-#### **Advisory note**
+| Updated |
+|---:|
+| 1 March 2021 |
 
-(*Updated 1 March 2021*)
+#### **Advisory note**
 
 Under the usual Prize cycle, the results of the Lee Kuan Yew World City Prize 2020 would be announced in March 2020. Due to the ongoing COVID-19 pandemic and global travel restrictions, the announcement will be postponed to a later date. 
 
