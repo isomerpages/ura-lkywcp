@@ -3,7 +3,9 @@ title: FAQ
 permalink: /faq/
 ---
 
-*(Updated 1 Mar 2021)*
+| Updated |
+|---:|
+| 1 March 2021 |
 
 # **Stage A nominations**
 
