@@ -40,7 +40,7 @@ No. There are no fees required for both Stage A and B.
 
 ---
 
-### **Stage A recommendation letter**
+# **Stage A recommendation letter**
 
 #### **What should the recommendation letter contain?**
 
