@@ -3,6 +3,8 @@ title: FAQ
 permalink: /faq/
 ---
 
+*(Updated 1 Mar 2021)*
+
 # **Stage A nominations**
 
 #### **Who is eligible to nominate?**
