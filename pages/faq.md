@@ -123,9 +123,11 @@ The next edition of the World Cities Summit will be held from 20 – 24 June 202
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-The next edition of the World Cities Summit will be held from 20 – 24 June 2021 in Singapore. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+Due to the ongoing COVID-19 pandemic and global travel restrictions, World Cities Summit (WCS) 2021 will adopt a largely virtual format. From 21 to 23 June 2021, audience members will be able to dial in remotely to join our global thought leaders at the various WCS dialogues and plenaries. This is the first time that WCS will be adopting a virtual format since its inauguration in 2008, and the organisers look forward to this allowing a larger, and more international audience to join us remotely for WCS in June. 
 
-Please note that due to the COVID-19 global pandemic, there may be travel advisories and entry restrictions to Singapore imposed by your home country. Likewise, Singapore imposes border control measures for travellers to Singapore. For COVID-19-related measures in Singapore, please visit the following resources: 
+WCS will return to the in-person format from 17 to 21 April 2022, at the Sands Expo & Convention Centre in Singapore, subject to prevailing COVID-19 guidelines. Similarly, the Prize events held at WCS will also be pushed back to 2022. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+
+For COVID-19-related measures and travel restrictions in Singapore, please visit the following resources: 
 
 - [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
 - [Border control measures in Singapore](https://www.ica.gov.sg/covid-19)
