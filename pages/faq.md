@@ -119,8 +119,6 @@ The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award C
 
 The Prize Laureate will be invited to share their achievements at the Lee Kuan Yew World City Prize Lecture, while the Special Mention(s) will be invited to share their urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
 
-The next edition of the World Cities Summit will be held from 20 – 24 June 2021 in Singapore. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
-
 #### **How can I attend the Prize events at World Cities Summit?**
 
 Due to the ongoing COVID-19 pandemic and global travel restrictions, World Cities Summit (WCS) 2021 will adopt a largely virtual format. From 21 to 23 June 2021, audience members will be able to dial in remotely to join our global thought leaders at the various WCS dialogues and plenaries. This is the first time that WCS will be adopting a virtual format since its inauguration in 2008, and the organisers look forward to this allowing a larger, and more international audience to join us remotely for WCS in June. 
