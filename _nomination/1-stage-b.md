@@ -5,6 +5,8 @@ permalink: /nominations/stageb/
 
 # **Stage B submissions closed**
 
+#### **Important note:** The next cycle of the Prize is delayed due to COVID-19. We seek your understanding and patience as we wait out the global easing of the pandemic. Watch this space for news of further developments, or subscribe to our monthly newsletter: [go.gov.sg/newsletter](https://go.gov.sg/newsletter).
+
 The Lee Kuan Yew World City Prize is **awarded to cities only**. To proceed to Stage B, your city must first be nominated for [Stage A](/nominations/stagea).
 
 #### **Stage B submissions**
