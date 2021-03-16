@@ -3,7 +3,11 @@ title: FAQ
 permalink: /faq/
 ---
 
-### **Stage A nominations**
+| Updated |
+|---:|
+| 1 March 2021 |
+
+# **Stage A nominations**
 
 #### **Who is eligible to nominate?**
 
@@ -40,7 +44,7 @@ No. There are no fees required for both Stage A and B.
 
 ---
 
-### **Stage A recommendation letter**
+# **Stage A recommendation letter**
 
 #### **What should the recommendation letter contain?**
 
@@ -60,7 +64,7 @@ The recomendation letter should preferably be around 600 words.
 
 ---
 
-### **Stage B submission**
+# **Stage B submission**
 
 #### **Who is supposed to prepare the Stage B submission?**
 
@@ -105,13 +109,13 @@ Demonstration projects can either be fully or partially completed. The completed
 
 ---
 
-### **Others** 
+# **Others** 
 
 #### **When will the results be announced?**
 
-The announcement of the 2020 Prize Laureate is [postponed](/resources/news/postponement-advisory/) due to the COVID-19 global pandemic. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
+The announcement of the 2020 Prize Laureate is [postponed](/resources/news/covid19-advisory/) due to the COVID-19 global pandemic. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
 
-#### **Who will be invited to receive the award**
+#### **Who will be invited to receive the award?**
 
 The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award Ceremony & Banquet (a highlight event of the World Cities Summit, a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate.
 
@@ -119,13 +123,13 @@ The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award C
 
 The Prize Laureate will be invited to share their achievements at the Lee Kuan Yew World City Prize Lecture, while the Special Mention(s) will be invited to share their urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
 
-The next edition of the World Cities Summit will be held from 20 – 24 June 2021 in Singapore. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
-
 #### **How can I attend the Prize events at World Cities Summit?**
 
-The next edition of the World Cities Summit will be held from 20 – 24 June 2021 in Singapore. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+Due to the ongoing COVID-19 pandemic and global travel restrictions, World Cities Summit (WCS) 2021 will adopt a largely virtual format. From 21 to 23 June 2021, audience members will be able to dial in remotely to join our global thought leaders at the various WCS dialogues and plenaries. This is the first time that WCS will be adopting a virtual format since its inauguration in 2008, and the organisers look forward to this allowing a larger, and more international audience to join us remotely for WCS in June. 
 
-Please note that due to the COVID-19 global pandemic, there may be travel advisories and entry restrictions to Singapore imposed by your home country. Likewise, Singapore imposes border control measures for travellers to Singapore. For COVID-19-related measures in Singapore, please visit the following resources: 
+WCS will return to the in-person format from 17 to 21 April 2022, at the Sands Expo & Convention Centre in Singapore, subject to prevailing COVID-19 guidelines. Similarly, the Prize events held at WCS will also be pushed back to 2022. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+
+For COVID-19-related measures and travel restrictions in Singapore, please visit the following resources: 
 
 - [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
 - [Border control measures in Singapore](https://www.ica.gov.sg/covid-19)
