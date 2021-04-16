@@ -29,7 +29,7 @@ third_nav_title: Prize Jury
 </tr>
 <tr>
 <td><br><img src="/images/jury/chris-luebkeman.png" alt="Chris Luebkeman" /><br></td>
-<td><br><strong>Dr Chris Luebkeman</strong><br />Director<br />Global Foresight, Research and Innovation, ARUP<br />USA<br><a href="/about/prize-jury/nominating-committee/chris-luebkeman/">Biography</a></td>
+<td><br><strong>Dr Chris Luebkeman</strong><br />Leader<br />Strategic Foresight Hub in the Office of the President at ETH Zurich<br />Switzerland<br><a href="/about/prize-jury/nominating-committee/chris-luebkeman/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/marilyn-taylor.png" alt="Marilyn Taylor" /><br></td>
