@@ -21,6 +21,8 @@ Researchers investigating food deserts have [spelled out the consequences](https
 
 Beyond the health concerns, cities’ quest to provide more fresh food has sustainability and security dimensions too. When residents eat more locally grown healthy food, cities can cut down on the transport and packaging associated with importing processed food, minimising their carbon footprint. Furthermore, long food supply chains are vulnerable to disruptions. By nurturing a large and steady supply of local food, cities can strengthen their food security.
 
+> "There is no doubt that the pandemic will expose more people to food insecurity and accelerate the projected increase in the number of hungry people, unless immediate actions are taken."
+
 #### **Growing local**
 
 As cities look for ways to boost their local food production, they can learn from successful strategies. After the collapse of the Argentinian economy in 2001 led to widespread poverty and hunger, Rosario, the country’s third largest city, [passed an ordinance in 2002](https://www.gainhealth.org/resources/reports-and-publications/menu-actions-shape-urban-food-environments-improved-nutrition) to allow residents to grow crops on vacant public land, and to exempt landowners from paying tax on their unused sites if they let the government turn these into community agricultural plots for two years. 
@@ -41,7 +43,7 @@ Atlanta in the United States [opens weekly pop-up grocery stands at five train s
 
 In Canada, Calgary and Edmonton have taken a different approach. In 2018, [Calgary partnered with Fresh Routes](https://www.ctvnews.ca/lifestyle/mobile-grocery-stores-provides-access-to-affordable-nutritious-food-in-alberta-cities-1.4664466), a not-for-profit social enterprise, to buy produce from vendors at cost or slightly above cost, and use a modified public bus as a mobile grocery store to sell the food at a markdown in low-income, food desert areas. After the collaboration’s success, Edmonton replicated it in 2019. The mobile stores [supplied nearly 13,000 households in the two cities in 2020](https://drive.google.com/file/d/1Th04GgEcYSihlBw4J-QI3edXC-2jh6CY/view). With sales covering the cost of the produce, the deployments are financially sustainable and easily expandable. 
 
-> "There is no doubt that the pandemic will expose more people to food insecurity and accelerate the projected increase in the number of hungry people, unless immediate actions are taken."
+
 
 #### **Plating up healthy meals**
 
