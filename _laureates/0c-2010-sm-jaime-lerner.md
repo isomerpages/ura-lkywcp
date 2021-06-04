@@ -1,12 +1,12 @@
 ---
-title: Special Mention - Jaime Lerner
+title: Special Mention - Dr Jaime Lerner
 permalink: /laureates/2010/special-mentions/jaime-lerner/
 third_nav_title: 2010
 ---
 
 | 2010 Special Mention | 
 |---:|
-| Jaime Lerner | 
+| Dr Jaime Lerner | 
 
 ![Jaime Lerner](/images/special-mentions/jaime-lerner.jpg)
 _© Instituto Jaime Lerner_
