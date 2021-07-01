@@ -2,14 +2,14 @@
 title: From trash to table
 permalink: /resources/features/food-waste/
 image: /images/features/2021/infographic-fresh-food.png
-description: Nearly one billion tonnes of food go to waste each year, even as one in 10 people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.
+description: Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.
 ---
 
 | Writer |
 |---:|
 | Feng Zengkun |
 
-***Nearly one billion tonnes of food go to waste each year, even as one in 10 people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.***
+***Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.***
 
 ![How can cities increase fresh food sources?](/images/features/2021/infographic-fresh-food.png/)*How can cities increase fresh food sources? Illustration: vectormine / Shutterstock.com, additional text: Lee Kuan Yew World City Prize*
 
