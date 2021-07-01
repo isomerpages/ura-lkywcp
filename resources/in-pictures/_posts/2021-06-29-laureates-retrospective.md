@@ -9,7 +9,7 @@ description: In this special photo essay, we take a look at how the five Prize L
 | --: |
 | Lee Hao Wei and David Ee |
 
-***In this special photo essay, we take a look at how the past five Prize Laureates succeeded in overcoming urban challenges and transforming themselves, and also their respective visions for the future.***
+***In this special photo essay[^first], we take a look at how the past five Prize Laureates succeeded in overcoming urban challenges and transforming themselves, and also their respective visions for the future.***
 
 ---
 
@@ -90,3 +90,7 @@ When completed, the decks will provide several additional benefits besides prote
 ![A7 before and after](/images/features/2019/hamburg-a7-before-after.jpg/)*The A7 today (left) and a visualisation of the future Autobahndeckel over the A7 (right) © Ministry of Urban Development © Ministry of Urban Development (left), DEGES/V-KON (right)*
 
 ![Visualisation of the future Autobahndeckel](/images/features/2019/hamburg-autobahndeckel.jpg/)*Visualisation of the future Autobahndeckel © DEGES/V-KON*
+
+---
+
+[^first]: This is an edited version of the article published in the June 2021 issue of [Urban Solutions magazine](https://go.gov.sg/urbsol19) that was launched at the [World Cities Summit 2021](https://www.worldcitiessummit.com.sg). Urban Solutions is a publication by the [Centre for Liveable Cities](https://www.clc.gov.sg) under the Ministry of National Development, Singapore. 
