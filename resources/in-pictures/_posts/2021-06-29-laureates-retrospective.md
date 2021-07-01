@@ -5,7 +5,7 @@ image: /images/features/2019/hamburg-aerial-view.jpg
 description: In this special photo essay, we take a look at how the five Prize Laureates succeeded in overcoming urban challenges and transforming themselves, and also their respective visions for the future.
 ---
 
-| Writer |
+| Writers |
 | --: |
 | Lee Hao Wei and David Ee |
 
@@ -18,7 +18,8 @@ description: In this special photo essay, we take a look at how the five Prize L
 Seoul was awarded the 2018 Prize for its transformation from a bureaucratic, top-down city into an inclusive, socially stable and innovative city. With rapid urbanisation, Seoul had faced challenges like environmental degradation, and increasing resistance from a citizenry largely left out of planning decisions. The Seoul Plan 2030 was a turning point, with its bold move to make citizen participation the norm in urban planning. Seoul built trust with its citizens, assuring them that through engagement, they could shape the future of the city.
 
 > "A beautiful city with enriching cultural heritage and dynamic character, Seoul is where urban vitality and greenery coexist. As part of growthoriented measures in the past, Seoul had concentrated on expanding urban infrastructure, a period that was known as the “Miracle on the Han River”. However, some of these measures induced urban problems. Seoul sought answers from its past experience and implemented urban renewal projects focusing on recovery and resilience: such as Cheonggyecheon Stream, Dongdaemun Design Plaza (DDP), and Seoullo 7017.
-Now, we face the challenges of COVID-19, which restrain every aspect of our lives. The pandemic drives Seoul to take robust and coordinated actions to improve the city for all. Once again, focusing on existing and new plans, the Seoul Metropolitan Government is striving to make the city more sustainable and resilient, both during and beyond this COVID-19 pandemic." 
+<br> Now, we face the challenges of COVID-19, which restrain every aspect of our lives. The pandemic drives Seoul to take robust and coordinated actions to improve the city for all. Once again, focusing on existing and new plans, the Seoul Metropolitan Government is striving to make the city more sustainable and resilient, both during and beyond this COVID-19 pandemic." 
+-- Mayor of Seoul, Oh Se-hoon
 
 ![Aerial view of Hamburg](/images/features/2019/hamburg-aerial-view.jpg/)*Aerial view of Hamburg © www.mediaserver.hamburg.de/Andreas Vallbracht*
 
