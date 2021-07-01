@@ -23,6 +23,8 @@ With cities slated to [house 66 percent of the global population and consume ove
 
 #### **Bringing businesses on board**
 
+> "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
+
 Since 2016, cities in France have [banned supermarkets from discarding food and deliberately spoiling it](https://www.theguardian.com/world/2016/feb/04/french-law-forbids-food-waste-by-supermarkets) to stop people from foraging in their bins. The cities have also stipulated that those with over 400 squares metres of floor area must sign donation contracts with charities. These regulations are part of a law that the country passed to make better use of its food waste, which surpassed 7.1 million tonnes per year, and violations incur hefty fines and even jail terms. In 2019, [the government noted that the law has been effective](https://www.pbs.org/newshour/show/is-frances-groundbreaking-food-waste-law-working), with over 2,700 supermarkets diverting 46,000 tonnes of food each year from landfills, and donations to food banks up by more than 20 percent.
 
 Milan in Italy, for its part, has opted for incentives. [The city awards tax reductions to food businesses](https://www.interregeurope.eu/fileadmin/user_upload/tx_tevprojects/library/file_1561017431.pdf), including supermarkets, restaurants and corporate canteens, that donate food to food banks and charities. The initiative took effect in 2018, and rescued 660 tonnes of food in its first year.
@@ -33,6 +35,8 @@ In the United States, [New York City developed a website](https://www1.nyc.gov/a
 
 #### **Making a difference with people**
 
+![How can we curb wastefulness?](/images/features/2021/discard-food.jpg/)*How can we curb wastefulness? Photo © freepik.com*
+
 With households responsible for over half of the food that is thrown away, cities are taking steps to curb their wastefulness too. Since 2017, Brisbane in Australia has [reduced household food waste by over 32 percent](https://www.brisbane.qld.gov.au/sites/default/files/documents/2020-10/Annual-Report-2019-20-Oct%202020.pdf) through a [‘Love Food Hate Waste’ campaign](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/reducing-waste-at-home/love-food-hate-waste) that shares tips on how to plan meals and shop thoughtfully to avoid waste, store food properly and make the most of leftovers. 
 
 The city also has a [‘Six Week Food Challenge’](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/recycling-and-reducing-waste/love-food-hate-waste/six-week-food-waste-challenge) that residents can take by following instructions on its website. This includes downloading a food waste diary to track the household’s waste during the first week, and then learning how to reduce the amount through easy actions in the subsequent weeks. The Brisbane City Council [noted that the diary opens residents’ eyes to the scale of their waste](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/recycling-and-reducing-waste/love-food-hate-waste/food-waste-in-brisbane): “Most people care about the amount of food that they waste, but significantly underestimate how much food goes into their bin. Food waste is the largest volume of avoidable material that goes into Brisbane’s landfill every year.”
@@ -42,6 +46,8 @@ Seoul, South Korea, [cut its food waste by changing its waste collection system]
 Some cities also have ‘community fridges’, where residents can leave their spare food for those in need, in public spaces. In Britain, the environmental charity Hubbub Foundation has worked with the authorities in London, Cambridge and other cities to [install 110 such fridges](https://www.hubbub.org.uk/the-community-fridge), which redistributed 2,000 tonnes of food to 150,000 people in 2020. Volunteer organisations register with the charity to set up and maintain the fridges, which receive food hygiene ratings from the local government. The charity is in the process of adding 60 fridges, and aims to have over 200 in place by the end of 2021. [Shanghai](http://www.china.org.cn/china/2016-10/11/content_39462530.htm) in China and [Okayama](http://www.asahi.com/ajw/articles/13994706) in Japan are among the other cities that have introduced such fridges. 
 
 #### **The beauty of ugly food**
+
+![How can cities reduce their food wastage?](/images/features/2021/ugly-food.jpg/)*Getting consumers to accept misshapen or 'ugly food' can help reduce food wastage. Photo © j.chizhe/Shutterstock.com*
 
 Some cities are shining a spotlight on ugly produce and other types of food that are often wasted. In Luxembourg City, the capital of Luxembourg, [‘social supermarkets’ sell surplus food](https://www.vdl.lu/en/living/aid-and-assistance/people-need/social-supermarkets), and food that is edible but rejected by grocers due to imperfections and other reasons, at steep discounts to needy residents. The city sources the food from bakeries, supermarkets, companies and others, and provides the residents with a card that gives them access to the stores, with large families and single-parent households having priority. Each recipient pays a token fee of two Euros (approximately 2.40 USD).
 
