@@ -54,7 +54,6 @@ description: The High Line in New York City needs no introduction. Its huge succ
 - The zoning changes preserved the surrounding art gallery district and incentivised new housing for all income groups, turning the once desolated area into a thriving 24/7 community.
 - At prominent locations, the zoning allows floor area bonuses in exchange for restoration of the structure, development of new open space and provision of stair and elevator access.
 - The High Line is framed as an economic revitalisation project rather than a conservation one, with the derelict elevated rail-line as the heart for new residential and commercial developments influencing the success of its implementation.
-- The railway tracks were re-routed around the city to allow development of the waterfront. Major arterial roads were downgraded and buried underground to create a more pedestrian-friendly urban environment. 
 
 ---
 

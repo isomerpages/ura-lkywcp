@@ -2,14 +2,14 @@
 title: Spotlight on Bilbao - how the winning city is reinventing itself yet again
 permalink: /resources/features/spotlight-bilbao/
 image: /images/features/2019/peunte-de-la-merced.jpg
-description: The inaugural Prize Laureate city of Bilbao is continuting to set a example through implementing a comprehensive flood protection plan to guard against climate change, a "green ring" project to boost residents' access to nature, a high-speed rail network, and the conversion of a derelict peninsula into a showcase for smart, sustainable and socially-equitable living. 
+description: The inaugural Prize Laureate city of Bilbao is continuing to set a example through implementing a comprehensive flood protection plan to guard against climate change, a "green ring" project to boost residents' access to nature, a high-speed rail network, and the conversion of a derelict peninsula into a showcase for smart, sustainable and socially-equitable living. 
 ---
 
 | Author |
 |---:|
 | Feng Zengkun |
 
-***The inaugural Prize Laureate city of Bilbao is continuting to set a example through implementing a comprehensive flood protection plan to guard against climate change, a "green ring" project to boost residents' access to nature, a high-speed rail network, and the conversion of a derelict peninsula into a showcase for smart, sustainable and socially-equitable living.***
+***The inaugural Prize Laureate city of Bilbao is continuing to set a example through implementing a comprehensive flood protection plan to guard against climate change, a "green ring" project to boost residents' access to nature, a high-speed rail network, and the conversion of a derelict peninsula into a showcase for smart, sustainable and socially-equitable living.***
 
 ![Puente de la Merced, Bilbao](/images/features/2019/peunte-de-la-merced.jpg/)*Puente de la Merced, Bilbao © Bilbao City Hall*
 
