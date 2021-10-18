@@ -31,7 +31,11 @@ The city will use it to simulate the impact of disasters such as earthquakes, an
 
 As part of plans to deploy robotics in various sectors to ease manpower shortages, the city is also [trialling artificially intelligent robots in 300 nursery schools](http://english.seoul.go.kr/seoul-to-introduce-ai-robots-at-300-nursery-schools/?cat=46) from August to December 2021. The small humanoid robots can sing, walk, dance, tell stories and converse, and are assisting teachers in developing their pupils’ language skills. The city will review the trial after it ends and decide whether to expand it in 2022. 
 
+---
+
 ***The key takeaway:** with residents embracing digital innovations, cities can invest in smart infrastructure and technologies to upgrade their urban planning and municipal services, and strengthen their resilience against potential issues such as manpower shortages in the longer term.*
+
+---
 
 #### **Shaping a sustainable recovery**
 
@@ -45,7 +49,11 @@ To fortify its economy, the city has also charted a path to become a ‘Software
 
 The city has also created a [‘Specialised Talent’ programme](https://sapiencia.gov.co/talento-especializado/#1605842170920-b6100d0c-a917) to train citizens in data analysis, software development and other digital industry-related skills to empower them to be part of this new economy. It will [award 50,000 scholarships in the next four years](https://link.acimedellin.org/en/training-digital-talent-key-to-the-innovation-ecosystem/) for citizens to attend short courses offered by its universities in these fields. “This will enable technology firms to find the talent they need, and promote entrepreneurship,” the city said.  
 
+---
+
 ***The key takeaway:** cities can both kickstart their economic recovery and green themselves for the future by spearheading environmentally-friendly infrastructure projects. The disruption caused by the pandemic is also an opportunity to retrain citizens in sunrise and growing industries.*
+
+---
 
 #### **Forging a fairer future**
 
@@ -60,5 +68,7 @@ NYC First Lady Chirlane McCray, the taskforce’s co-chair, elaborated: “Racia
 Under the plan, the city has [set up a college savings account](https://infohub.nyced.org/in-our-schools/programs/nyc-kids-rise-save-for-college-program) with at least USD $100 for every incoming public school kindergartener since September 2021. The city is also partnering with NYC Kids RISE, a non-profit group that assists public school students in saving for college, to raise funds to add to the accounts. The Juneteenth plan further includes various scholarships for Black and low-income students. 
 
 Anticipating more extreme weather due to the climate change, the city is enacting measures to help vulnerable residents cope with heat waves and intense storms too. [It plans to reduce property taxes for eligible low-income families](https://www1.nyc.gov/office-of-the-mayor/news/651-21/mayor-de-blasio-landmark-new-blueprint-combat-extreme-weather) so that they can make their homes more flood-proof, including by installing waterproofing materials and sump pumps. It is also identifying more facilities, such as sports venues and auditoriums, that [can be used as cooling centres during heat waves for those who cannot stay cool at home](https://www1.nyc.gov/office-of-the-mayor/news/350-20/mayor-de-blasio-covid-19-heat-wave-plan-protect-vulnerable-new-yorkers).
+
+---
 
 ***The key takeaway:** as cities carry out their recovery plans, introducing measures to uplift lower-income families and other disadvantaged residents through educational, job and other support can help to build fairer and more resilient societies.* **<font color="#967942">O</font>**
