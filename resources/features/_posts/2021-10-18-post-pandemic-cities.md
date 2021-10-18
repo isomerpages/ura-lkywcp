@@ -49,9 +49,7 @@ To fortify its economy, the city has also charted a path to become a ‘Software
 
 The city has also created a [‘Specialised Talent’ programme](https://sapiencia.gov.co/talento-especializado/#1605842170920-b6100d0c-a917) to train citizens in data analysis, software development and other digital industry-related skills to empower them to be part of this new economy. It will [award 50,000 scholarships in the next four years](https://link.acimedellin.org/en/training-digital-talent-key-to-the-innovation-ecosystem/) for citizens to attend short courses offered by its universities in these fields. “This will enable technology firms to find the talent they need, and promote entrepreneurship,” the city said.  
 
----
-
-***The key takeaway:** cities can both kickstart their economic recovery and green themselves for the future by spearheading environmentally-friendly infrastructure projects. The disruption caused by the pandemic is also an opportunity to retrain citizens in sunrise and growing industries.*
+> The key takeaway:** cities can both kickstart their economic recovery and green themselves for the future by spearheading environmentally-friendly infrastructure projects. The disruption caused by the pandemic is also an opportunity to retrain citizens in sunrise and growing industries.*
 
 ---
 
