@@ -28,7 +28,7 @@ sections:
         description: What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long view in their recovery.
         button: Read More
         url: /resources/features/post-pandemic-cities/
-        image: /images/features/2021/post-pandemic-cities.jpg
+        image: /images/features/2021/post-pandemic-cities.png
         alt: Post-pandemic cities
     - resources:
         title: 
