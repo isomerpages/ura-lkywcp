@@ -35,7 +35,7 @@ Each of these will be an exciting part of the post-COVID-19 world. I foresee tha
 
 #### **You have spoken of 'Blended Cities' that are likely to emerge within the next two decades, where as a result of digitalisation, cities become both a place and a service. Please tell us more**
 
-![Blended City concept](/images/features/2021/blended-city.jpg/)*The Blended City is the hybrid physical-digital city. Illustration: Prof Greg Clark CBE*
+![Blended City concept](/images/features/2021/blended-city.jpg/)*The Blended City is the hybrid physical-digital city. Illustration © Prof Greg Clark CBE*
 
 **GC:** There is no zero-sum between digital platforms and the physical city. Digitalisation simply means cities becoming more hybrid. Too many voices are prophesising 'the end of the city' as a result of COVID-19 and the rapid digital acceleration. I do not see that. 
 
@@ -64,6 +64,8 @@ The pandemic is starting to play a 'sorting' role, separating the things that st
 - **Talent attraction:** Cities will increasingly compete to attract top talents and skilled workers, drawing them with special visas, incentives, and flexible live-and-work models available in a 'Blended City'.
 - **Digital platforms in physical space:** A new logistics economy driven by digital commerce is emerging in cities. The growth of home delivery and its related mobility systems, the rise of data centres, fulfilment centres, dark kitchens and collection hubs, and their links to infrastructure webs, present new opportunities for cities to re-engineer space. One key issue is how to both enable these digitalised services, and also protect public goods such as safe pavements, clean air, and mobility flows. These new activities will need to address their own externalities and I expect to see new regulations requiring them to do so.
 
+![Flexible work arrangements will continue to drive the future of cities](/images/features/2021/flexible-work.jpg/)*Flexible work arrangements will continue to drive the future of cities. Photo © rawpixel.com/freepik.com*
+
 #### **How can cities in developing nations, which are growing rapidly and struggling to find the resources to adapt to the pandemic and other major disruptions such as climate change, cope in the long-term?**
 
 **GC:** The pandemic has different implications for people living in cities in developing nations. COVID-19 has made the link between human health and housing conditions more visible, as people in the worst quality housing have been the most impacted. This is not a function of density per se, but about housing quality. Hence, in Latin America, Africa, India and ASEAN, I expect to see new initiatives emerge to tackle housing quality and inequality, as well as other urban systems like healthcare and water. These investments require fiscal power, not only from national governments, but through cities generating their resources and partnering with the private sector.
@@ -72,7 +74,7 @@ The pandemic will also accelerate the shift in population growth from very large
 
 Post-pandemic, many developing nations will try to manage an overall system of cities, rather than focus narrowly on individual cities. In Indonesia, for example, we may see policies that simultaneously seek to regenerate Jakarta, create a new capital in East Kalimantan, increase the role and size of Bandung and Surabaya, and support the growth of another six to 10 cities. This approach will be essential to embrace sustainability and manage population movements.
 
-One permanent challenge, which the pandemic has starkly revealed, is weak urban governance. COVID-19 has highlighted the need for well-run cities that are able to manage extreme situations effectively 
+One permanent challenge, which the pandemic has starkly revealed, is weak urban governance. COVID-19 has highlighted the need for well-run cities that are able to manage extreme situations effectively.  
 
 #### **Finally, in this time of crisis where global travel and the international conference sector remain severely curtailed, while some nations have turned inward-looking, a word please on the prospects for continued global collaboration.**
 
