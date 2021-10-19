@@ -11,13 +11,15 @@ description: What are some of the key focuses of cities in a post-pandemic world
 
 ***What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long view in their recovery.***
 
-![Three cities forging ahead post-pandemic](/images/features/2021/post-pandemic-cities.png/)*Let's look at three cities forging ahead post-pandemic. Illustration © petovarga/Shutterstock.com, additional text: Lee Kuan Yew World City Prize*
+![Three cities forging ahead post-pandemic](/images/features/2021/post-pandemic-cities.png/)*Let's look at three cities forging ahead post-pandemic. Illustration © raker/Shutterstock.com, additional text: Lee Kuan Yew World City Prize*
 
 At the forefront of the fight against the COVID-19 pandemic, many cities have put in place measures to protect residents, such as widening sidewalks or closing streets to give them more space for distancing. Others have also launched initiatives to take care of lower-income and other vulnerable citizens hit harder by the crisis, including those who are unable to provide for themselves and their families due to their reduced working hours or job losses. 
 
 With the gradual and eventual recovery against the coronavirus, many are keeping and building on the policies that they implemented to improve residents’ lives and minimise inequalities. They are also seizing on opportunities unlocked by the crisis. 
 
 #### **Making smart moves**
+
+![Seoul invests in IoT](/images/features/2021/seoul-iot.jpg/)*Seoul invests in IoT. Photo © raker/Shutterstock.com*
 
 With citizens embracing digital and contact-free services in the COVID-19 era, Seoul, South Korea, has made investments in these sectors key to its economic recovery and longer-term growth plans. In January 2021, [the city announced](http://english.seoul.go.kr/seoul-to-inject-321-3-bil-into-information-and-technology-innovation-in-covid-19-era/?cp=8&cat=46) that it would spend 321.3 billion won (approximately USD $292 million) on 1,045 information and technology projects during the year to boost innovation in infrastructure and digital services that tap on smart technologies. The funding is expected to create 3,245 jobs. 
 
@@ -39,6 +41,8 @@ As part of plans to deploy robotics in various sectors to ease manpower shortage
 
 #### **Shaping a sustainable recovery**
 
+![Medellin aims to become an eco-city](/images/features/2021/medellin-river-park-2021.jpg/)*Medellín aims to become an eco-city and a tech haven. Photo © Oscar Garces/Shutterstock.com*
+
 Medellín in Colombia has set its sights on becoming an eco-city and tech industry haven to bounce back from the pandemic and flourish in the long run. [In the area of transportation](https://www.cntraveler.com/story/how-medellin-plans-to-become-south-americas-first-eco-city), it will double its number of interconnected public transit lines to 26 by 2030, expand the length of its bicycle lanes by 50 percent within three years, and make 50,000 electric bicycles available for rent to the public. 
 
 The centrepiece of its sustainability and transport plans is its [upcoming 80th Avenue Metro Line](https://link.acimedellin.org/en/an-integral-transformation-will-take-place-in-medellin-with-the-80th-ave-metro/), an electric light-rail line to serve its 32 western neighbourhoods, which house nearly a third of its residents. Construction of the 13.5-kilometre-long line, which will have 17 stations and connect with the city’s elevated rail network, aerial tram network, bus lines and bicycle paths, is slated to commence by early 2022 and last five years. 
@@ -56,6 +60,8 @@ The city has also created a [‘Specialised Talent’ programme](https://sapienc
 ---
 
 #### **Forging a fairer future**
+
+![New York City strives for a fairer society](/images/features/2021/nyc-equality.jpg/)*New York City strives for a fairer society. Photo © blvdone/Shutterstock.com*
 
 For New York City (NYC) in the United States, tackling inequalities exposed and worsened by COVID-19 has been a priority. In January 2021, [the city declared](https://www1.nyc.gov/site/hpd/news/003-21/mayor-de-blasio-taskforce-racial-equity-inclusion-join-nyc-acquisition-fund-announce#/0) that its USD $210 million NYC Acquisition Fund, which offers loans to affordable housing developers to buy sites and buildings, will only finance those that are non-profit or majority-owned by minorities and women. The city also mandated that such businesses have at least 25 percent ownership in affordable housing projects awarded on public land. 
 
