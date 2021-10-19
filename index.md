@@ -40,6 +40,6 @@ sections:
         alt: Kazan
     - resources:
         title: 
-        subtitle: Latest city-related resources
-        button: More resources
+        subtitle: Latest articles
+        button: More articles
 ---
