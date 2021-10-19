@@ -2,10 +2,10 @@
 title: Greg Clark on pioneering the post-pandemic city
 permalink: /resources/interviews/greg-clark/
 image: /images/features/2021/greg-clark.jpg
-description: COVID-19 has forced urbanists to rethink the cities of tomorrow. Prof Greg Clark CBE has advised more than 250 cities, 50 national governments, and global corporations across the developed and developing world. In this interview, he envisages the possible post-pandemic future for cities.
+description: COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
 ---
 
-***COVID-19 has forced urbanists to rethink the cities of tomorrow. Prof Greg Clark CBE has advised more than 250 cities, 50 national governments, and global corporations across the developed and developing world. In this interview, he envisages the possible post-pandemic future for cities.***
+***COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.***
 
 ![Greg Clark](/images/features/2021/greg-clark.jpg/)*Greg Clark. Photo © Centre for Liveable Cities*
 
@@ -94,7 +94,7 @@ For cities, the appeal of international cooperation remains compelling. Every ci
 
 | **Greg Clark CBE** |
 |:---|
-| Prof Greg Clark CBE is the Group Advisor, Future Cities & New Industries at HSBC, and is Chair of the Connected Places Catapult, and Moderator of the World Cities Summit Mayors Forum. |
+| Prof Greg Clark CBE is the Group Advisor, Future Cities & New Industries at HSBC, and is Chair of the Connected Places Catapult, and Moderator of the World Cities Summit Mayors Forum. He has advised more than 250 cities, 50 national governments, and global corporations across the developed and developing world. |
 
 ###### *This is an edited version of the article published in the June 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol19](https://www.go.gov.sg/urbsol19), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.*
 
