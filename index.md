@@ -22,6 +22,14 @@ sections:
             - title: Newsletter
               description: Get our latest news in your inbox
               url: https://go.gov.sg/newsletter
+    - infopic:
+        title: Post-pandemic cities — how will they shape up?
+        subtitle: New feature article
+        description: What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long view in their recovery.
+        button: Read More
+        url: /resources/features/post-pandemic-cities/
+        image: /images/features/2021/post-pandemic-cities.jpg
+        alt: Post-pandemic cities
     - resources:
         title: 
         subtitle: Latest city-related resources
