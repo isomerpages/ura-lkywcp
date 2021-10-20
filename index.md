@@ -14,7 +14,7 @@ sections:
         url: 
         key_highlights:
             - title: City resources
-              description: Useful city-related articles
+              description: Your one-stop resource for city-related issues
               url: /resources/
             - title: Join our mailing list
               description: Get our latest news in your inbox
