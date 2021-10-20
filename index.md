@@ -10,12 +10,9 @@ sections:
         title: Lee Kuan Yew World City Prize
         subtitle: Honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
         background: /images/worldmap-hero3.jpg
-        button: About the Prize
-        url: /about/about-the-prize/
+        button: 
+        url: 
         key_highlights:
-            - title: Nominations
-              description: Nominations closed
-              url: /nominations/stagea/
             - title: Resources 
               description: Latest city-related features
               url: /resources/
