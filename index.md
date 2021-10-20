@@ -41,8 +41,8 @@ sections:
     - infobar:    
         title: Subscribe now
         subtitle: Join our mailing list
-        description: Subscribe to our mailing list to get the latest news and city-related feature articles in your inbox. Low frequency and non-cluttering, with one-click unsubscribe at anytime.
-        button: Subscribe   
+        description: Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
+        button: Click here   
         url: https://go.gov.sg/newsletter
     - resources:
         title: 
