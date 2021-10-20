@@ -5,7 +5,7 @@ permalink: /faq/
 
 | Updated |
 |---:|
-| 1 March 2021 |
+| 20 Oct 2021 |
 
 # **Stage A nominations**
 
@@ -113,7 +113,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 #### **When will the results be announced?**
 
-The announcement of the 2020 Prize Laureate is [postponed](/resources/news/covid19-advisory/) due to the COVID-19 global pandemic. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
+The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
 
 #### **Who will be invited to receive the award?**
 
@@ -125,16 +125,12 @@ The Prize Laureate will be invited to share their achievements at the Lee Kuan Y
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-Due to the ongoing COVID-19 pandemic and global travel restrictions, World Cities Summit (WCS) 2021 will adopt a largely virtual format. From 21 to 23 June 2021, audience members will be able to dial in remotely to join our global thought leaders at the various WCS dialogues and plenaries. This is the first time that WCS will be adopting a virtual format since its inauguration in 2008, and the organisers look forward to this allowing a larger, and more international audience to join us remotely for WCS in June. 
-
-WCS will return to the in-person format from 17 to 21 April 2022, at the Sands Expo & Convention Centre in Singapore, subject to prevailing COVID-19 guidelines. Similarly, the Prize events held at WCS will also be pushed back to 2022. Please check the World Cities Summit website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+World Cities Summit (WCS) will return to the in-person format from 31 July to 3 August 2022, at the Sands Expo & Convention Centre in Singapore. The Prize events will be held in conjunction with WCS 2022. Please check the WCS website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 For COVID-19-related measures and travel restrictions in Singapore, please visit the following resources: 
 
 - [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
 - [Border control measures in Singapore](https://www.ica.gov.sg/covid-19)
-- [COVID-19 info bot](https://www.gov.sg/infobot)
-- [COVID-19 international travel regulations map](https://www.iatatravelcentre.com/world.php)
 
 ---
 
