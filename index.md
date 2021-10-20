@@ -13,12 +13,6 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: City resources
-              description: 
-              url: /resources/
-            - title: Join our mailing list
-              description: 
-              url: https://go.gov.sg/newsletter
     - infobar:    
         title: The Prize
         subtitle: Launched since 2009
