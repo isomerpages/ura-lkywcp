@@ -7,7 +7,7 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: 
+        title: Cities
         subtitle: 
         background: /images/worldmap-hero9.jpg
         button: 
