@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Lee Kuan Yew World City Prize
         subtitle: Honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
-        background: /images/worldmap-hero3.jpg
+        background: /images/worldmap-hero4.jpg
         button: 
         url: 
         key_highlights:
