@@ -35,6 +35,12 @@ sections:
         url: /resources/case-studies/kazan-sports/
         image: /images/features/2021/mayor-sports.jpg
         alt: Kazan
+    - infobar:    
+        title: Subscribe now
+        subtitle: Join our mailing list
+        description: Subscribe to our mailing list to get the latest news and city-related feature articles in your inbox. Low frequency and non-cluttering, with one-click unsubscribe at anytime.
+        button: Subscribe   
+        url: https://go.gov.sg/newsletter
     - resources:
         title: 
         subtitle: Fresh content
