@@ -10,9 +10,12 @@ sections:
         title: 
         subtitle: 
         background: /images/worldmap-hero6.jpg
-        button: City resoruces
-        url: /resources/
+        button: 
+        url: 
         key_highlights:
+            - title: City resources
+              description: City-related articles
+              url: /resources/
             - title: Newsletter
               description: Get our latest news in your inbox
               url: https://go.gov.sg/newsletter
