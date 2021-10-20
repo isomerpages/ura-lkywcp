@@ -14,10 +14,10 @@ sections:
         url: 
         key_highlights:
             - title: City resources
-              description: Read about city-related issues
+              description: 
               url: /resources/
             - title: Join our mailing list
-              description: Get our latest news in your inbox
+              description: 
               url: https://go.gov.sg/newsletter
     - infobar:    
         title: The Prize
