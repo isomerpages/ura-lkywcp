@@ -43,6 +43,6 @@ sections:
         alt: Kazan
     - resources:
         title: 
-        subtitle: Latest articles
+        subtitle: Fresh content
         button: More articles
 ---
