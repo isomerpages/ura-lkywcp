@@ -8,14 +8,11 @@ notification: World Cities Summit 2022 rescheduled | <a href="/resources/news/co
 sections:
     - hero:
         title: 
-        subtitle: Honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
+        subtitle: 
         background: /images/worldmap-hero6.jpg
-        button: 
-        url: 
+        button: City resoruces
+        url: /resources/
         key_highlights:
-            - title: Resources 
-              description: Useful city-related articles
-              url: /resources/
             - title: Newsletter
               description: Get our latest news in your inbox
               url: https://go.gov.sg/newsletter
