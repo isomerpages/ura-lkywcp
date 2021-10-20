@@ -13,7 +13,7 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: World Cities Summit rescheduled
+            - title: World Cities Summit 2022
               description: 31 July to 3 August 2022
               url: /resources/news/covid19-advisory/
     - infobar:    
