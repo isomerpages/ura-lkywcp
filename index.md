@@ -8,7 +8,7 @@ notification: World Cities Summit 2022 rescheduled | <a href="/resources/news/co
 sections:
     - hero:
         title: 
-        subtitle: 
+        subtitle: Honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
         background: /images/worldmap-hero6.jpg
         button: 
         url: 
