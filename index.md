@@ -20,8 +20,8 @@ sections:
               description: 
               url: https://go.gov.sg/newsletter
     - infobar:    
-        title: 
-        subtitle: The Prize
+        title: The Prize
+        subtitle: Established 2009
         description: Launched in 2009, the Lee Kuan Yew World City Prize is a biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: Find out more    
         url: /about/about-the-prize/
