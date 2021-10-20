@@ -7,7 +7,7 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: Cities
+        title: LKYWCP
         subtitle: 
         background: /images/worldmap-hero9.jpg
         button: 
