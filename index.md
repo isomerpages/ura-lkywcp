@@ -16,7 +16,7 @@ sections:
             - title: City resources
               description: Useful city-related articles
               url: /resources/
-            - title: Newsletter
+            - title: Join our mailing list
               description: Get our latest news in your inbox
               url: https://go.gov.sg/newsletter
     - infobar:    
