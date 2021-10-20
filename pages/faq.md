@@ -130,7 +130,7 @@ World Cities Summit (WCS) will return to the in-person format from 31 July to 3 
 For COVID-19-related measures and travel restrictions in Singapore, please visit the following resources: 
 
 - [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
-- [Border control measures in Singapore](https://www.ica.gov.sg/covid-19)
+- [Border control measures in Singapore](https://safetravel.ica.gov.sg)
 
 ---
 
