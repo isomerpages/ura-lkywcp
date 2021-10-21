@@ -13,9 +13,9 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Nominate now!
-              description: Stage A nominations open
-              url: /nominations/stagea/
+            - title: 
+              description: 
+              url: 
     - infobar:    
         title: The Prize
         subtitle: Established 2009
