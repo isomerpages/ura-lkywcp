@@ -35,7 +35,7 @@ As part of plans to deploy robotics in various sectors to ease manpower shortage
 
 ---
 
-***The key takeaway:** With residents embracing digital innovations, cities can invest in smart infrastructure and technologies to upgrade their urban planning and municipal services, and strengthen their resilience against potential issues such as manpower shortages in the longer term.*
+##### ***The key takeaway:** With residents embracing digital innovations, cities can invest in smart infrastructure and technologies to upgrade their urban planning and municipal services, and strengthen their resilience against potential issues such as manpower shortages in the longer term.*
 
 ---
 
@@ -55,7 +55,7 @@ The city has also created a [‘Specialised Talent’ programme](https://sapienc
 
 ---
 
-***The key takeaway:** Cities can both kickstart their economic recovery and green themselves for the future by spearheading environmentally-friendly infrastructure projects. The disruption caused by the pandemic is also an opportunity to retrain citizens in sunrise and growing industries.*
+##### ***The key takeaway:** Cities can both kickstart their economic recovery and green themselves for the future by spearheading environmentally-friendly infrastructure projects. The disruption caused by the pandemic is also an opportunity to retrain citizens in sunrise and growing industries.*
 
 ---
 
@@ -77,6 +77,6 @@ Anticipating more extreme weather due to the climate change, the city is enactin
 
 ---
 
-***The key takeaway:** As cities carry out their recovery plans, introducing measures to uplift lower-income families and other disadvantaged residents through educational, job and other support can help to build fairer and more resilient societies.* 
+##### ***The key takeaway:** As cities carry out their recovery plans, introducing measures to uplift lower-income families and other disadvantaged residents through educational, job and other support can help to build fairer and more resilient societies.* 
 
 ---
