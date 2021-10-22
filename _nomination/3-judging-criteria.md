@@ -7,6 +7,10 @@ The Lee Kuan Yew World City Prize looks at the holistic transformation of the ci
 
 All submissions will be evaluated based on the following criteria:
 
+1. **Leadership & Governance**<br>Demonstration of strong leadership and governance through vision, foresight, and commitment to achieve the objectives of the urban transformation.
+2. **Creativity & Innovation**<br>Creativity and innovation in the overall master planning/master strategy and implementation approach, to establish new models and benchmarks.
+
+
 | No. | Criteria | Details |
 |:---:|:---|:---|
 | 1 | **Leadership & Governance** | Demonstration of strong leadership and governance through vision, foresight, and commitment to achieve the objectives of the urban transformation. |
