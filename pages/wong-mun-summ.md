@@ -3,7 +3,7 @@ title: Biography - Wong Mun Summ
 permalink: /about/prize-jury/nominating-committee/wong-mun-summ/
 ---
 
-<div style="width:150px"><img src="/images/jury/wong-mun-summ.jpg" alt="Wong Mun Summ" /></div>
+<div style="width:150px"><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /></div>
 
 **Mr Wong Mun Summ**<br>
 Founding Director, WOHA Architects, Singapore
