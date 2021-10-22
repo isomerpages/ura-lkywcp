@@ -3,7 +3,7 @@ title: Biography - Helen Clark
 permalink: /about/prize-jury/prize-council/helen-clark/
 ---
 
-<div style="width:150px"><img src="/images/jury/helen-clark.jpg" alt="Helen Clark" /></div>
+<div style="width:150px"><img src="/images/jury/helen-clark.png" alt="Helen Clark" /></div>
 
 **Ms Helen Clark**<br>
 Former Administrator, United Nations Development Programme, New Zealand
