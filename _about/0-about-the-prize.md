@@ -13,11 +13,15 @@ To facilitate the sharing of best practices in urban solutions that are easily r
 
 The Lee Kuan Yew World City Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of S$300,000, sponsored by  [Keppel Corporation](/about/prize-sponsor/).
 
-#### **A Fitting Tribute**
+#### **A fitting tribute**
 
 The Lee Kuan Yew World City Prize is named after Singapore’s first Prime Minister. Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
 
 The Lee Kuan Yew World City Prize is co-organised by the [Urban Redevelopment Authority of Singapore](/about/organisers/ura/) (URA) and the [Centre for Liveable Cities](/about/organisers/clc/) (CLC). 
+
+#### **Visual identity**
+
+The Lee Kuan Yew World City Prize's visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It communicates the global perspective of the Prize, and cities that have benefited from excellent and innovative urban solutions. 
 
 #### **More**
 
