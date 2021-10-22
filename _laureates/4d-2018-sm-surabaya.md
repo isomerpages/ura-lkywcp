@@ -25,5 +25,6 @@ The involvement and commitment of both the people and the Mayor working closely 
 #### **More resources**
 
 | **In pictures** | - [Surabaya in pictures - a modern kampung city](/resources/in-pictures/surabaya/) |
+| **Case study** | - [Creating a self-driven local economy](/resources/case-studies/creating-self-driven-local-economy/) |
 | **Features** | - [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) <br> - [Surabaya - preserving the past, conserving the future](/resources/features/preserving-past-conserving-future/) |
 | **Interviews** | - [Tri Rismaharini on developing a ground-up Surabaya](/resources/interviews/developing-groundup-surabaya/) |
