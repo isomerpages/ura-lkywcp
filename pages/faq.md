@@ -42,11 +42,7 @@ The nominator and the city will receive an automated e-mail reply to acknowledge
 
 No. There are no fees required for both Stage A and B.
 
----
-
-# **Stage A recommendation letter**
-
-#### **What should the recommendation letter contain?**
+#### **What should the Stage A recommendation letter contain?**
 
 The nominator should make a case to support why the city should win the Prize by highlighting key strategies and/or initiatives that contribute to the holistic transformation of the city over <u>at least 10 years</u>, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
 
@@ -58,13 +54,13 @@ The following are some guiding points for the recommendation letter:
 - The degree of transformation observed since its implementation and the impact on the local communities
 - Outstanding project(s) that contributed to the success of the transformation
  
-#### **Is there a word limit for the recommendation letter?**
+#### **Is there a word limit for the Stage A recommendation letter?**
 
 The recomendation letter should preferably be around 600 words.
 
 ---
 
-# **Stage B submission**
+# **Stage B submissions**
 
 #### **Who is supposed to prepare the Stage B submission?**
 
@@ -72,7 +68,7 @@ The nominated city (i.e. city government and/or key partner organisation appoint
 
 #### **What do I need to submit for Stage B?**
 
-The nominated city will be informed via email to prepare and submit a detailed report using official templates. This report comprises the following:
+The nominated city will be informed via email to prepare and submit a detailed report using the official report template. This report comprises the following:
 
 - Key statistics comparing the city today and 10-20 years ago
 - Background of the city
@@ -109,7 +105,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 ---
 
-# **Others** 
+# **World Cities Summit** 
 
 #### **When will the results be announced?**
 
