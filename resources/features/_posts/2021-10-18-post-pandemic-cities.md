@@ -2,14 +2,14 @@
 title: Post-pandemic cities — how will they shape up? 
 permalink: /resources/features/post-pandemic-cities/
 image: /images/features/2021/post-pandemic-cities.png
-description: What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long view in their recovery.
+description: What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.
 ---
 
 | Writer |
 |---:|
 | Feng Zengkun |
 
-***What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long view in their recovery.***
+***What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.***
 
 ![Three cities forging ahead post-pandemic](/images/features/2021/post-pandemic-cities.png/)*Let's look at three cities forging ahead post-pandemic. Illustration © raker/Shutterstock.com, additional text: Lee Kuan Yew World City Prize*
 
