@@ -33,5 +33,5 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 | **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=lpvnAsDj2dA) |
 | **In pictures** | - [Seoul in pictures - catalysing change, improving quality of life](/resources/in-pictures/seoul/) <br> - [Seoul in pictures II - development without demolition](/resources/in-pictures/seoul2/) |
-| **Features** | - [Power to the people - the success of citizen engagement in Seoul](/resources/features/power-to-people/) <br> - [Seoul rejuvenated - creating a people-first city](/resources/features/seoul-rejuvenated/) <br> - [Seoul solutions - tackling rising urban challenges](/resources/features/seoul-solutions/) |
+| **Features** | - [Power to the people - the success of citizen engagement in Seoul](/resources/features/power-to-people/) <br> - [Seoul rejuvenated - creating a people-first city](/resources/features/seoul-rejuvenated/) <br> - [Seoul solutions - tackling rising urban challenges](/resources/features/seoul-solutions/) <br> - [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |
 | **Interviews** | - [Winy Maas on designing Seoullo 7017](/resources/interviews/designing-seoullo-7017/) <br> - [Hee Seon Jin on Seoulistic urban regeneration](/resources/interviews/seoulistic-urban-regeneration/) |
