@@ -25,7 +25,7 @@ third_nav_title: Prize Jury
 </tr>
 <tr>
 <td><br><img src="/images/jury/chan-heng-chee.png" alt="Chan Heng Chee" /><br></td>
-<td><br><strong>Ambassador Chan Heng Chee</strong><br />Chairman<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/about/prize-jury/prize-council/chan-heng-chee/">Biography</a></td>
+<td><br><strong>Ambassador Chan Heng Chee</strong><br />Professor (Former Chair)<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/about/prize-jury/prize-council/chan-heng-chee/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
