@@ -25,4 +25,5 @@ With excellent urban initiatives creating a conducive environment for its inhabi
 #### **More resources** 
 
 | **In pictures** | - [Hamburg in pictures - a welcoming city of opportunities](/resources/in-pictures/hamburg/) |
+| **Case study** | - [Creating a city-within-a-city](/resources/case-studies/hafencity/) |
 | **Features** | - [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) <br> - [Hamburg transformed - how the city leads in urban regeneration](/resources/features/hamburg-transformed/) |
