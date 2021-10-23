@@ -3,7 +3,7 @@ title: Biography - Larry Ng
 permalink: /about/prize-secretary/
 ---
 
-<div style="width:150px"><img src="/images/jury/larry-ng.jpg" alt="Larry Ng" /></div>
+<div style="width:150px"><img src="/images/jury/larry-ng.png" alt="Larry Ng" /></div>
 
 **Mr Larry Ng**<br>
 Prize Secretary<br>
