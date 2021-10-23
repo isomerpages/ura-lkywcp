@@ -33,7 +33,7 @@ Overall, we are likely to see more hybrid cities and lifestyles, where the city 
 
 Each of these will be an exciting part of the post-COVID-19 world. I foresee that sustainable finance will help to fuel these transitions, and numerous digital platforms will emerge that will both incentivise citizen behavioural change, and help to model the first examples of personal carbon accounts. Green finance and platform technologies will continue to foster new business models in cities that will accelerate decarbonisation.
 
-#### **You have spoken of 'Blended Cities' that are likely to emerge within the next two decades, where as a result of digitalisation, cities become both a place and a service. Please tell us more**
+#### **You have spoken of 'Blended Cities' that are likely to emerge within the next two decades, where as a result of digitalisation, cities become both a place and a service. Please tell us more.**
 
 ![Blended City concept](/images/features/2021/blended-city.jpg/)*The Blended City is the hybrid physical-digital city. Illustration © Prof Greg Clark CBE*
 
