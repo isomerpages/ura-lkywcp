@@ -1,7 +1,11 @@
 ---
 title: Prize Council
-permalink: /about/prize-jury/prize-council
+permalink: /about/prize-council
 ---
+
+#### **Role of the Prize Council**
+
+The Prize Council reviews and selects the Prize Laureate based on the recommendations by the [Nominating Committee](/about/nominating-committee/).
 
 #### **Chair of the Prize Council 2020**
 
