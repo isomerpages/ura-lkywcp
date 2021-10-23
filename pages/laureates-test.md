@@ -9,7 +9,7 @@ permalink: /laureates-test/
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
-| **Seoul** is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative one we see today. | [Full citation](/laureates/2018/laureate/) |
+**Seoul** is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative one we see today. [Full citation](/laureates/2018/laureate/)
 
 #### **2016 - Medellín**
 
