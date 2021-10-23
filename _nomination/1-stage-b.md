@@ -9,7 +9,7 @@ permalink: /nominations/stageb/
 
 ---
 
-The Lee Kuan Yew World City Prize is **awarded to cities only**. To proceed to Stage B, your city must first be nominated for [Stage A](/nominations/stagea).
+The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete [Stage A](/nominations/stagea) before proceeding.
 
 #### **Stage B submissions**
 
