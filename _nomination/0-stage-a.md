@@ -3,7 +3,7 @@ title: Stage A
 permalink: /nominations/stagea/
 ---
 
-# **Stage A nominations closed**
+# **Stage A closed**
 
 #### **Important note:** The next cycle of the Prize is delayed due to COVID-19. Watch this space for news of further developments, or subscribe to our monthly newsletter: [go.gov.sg/newsletter](https://go.gov.sg/newsletter).
 
@@ -11,7 +11,7 @@ permalink: /nominations/stagea/
 
 The Lee Kuan Yew World City Prize is **awarded to cities only**. Application for the Prize must be initiated by a Stage A nomination.  
 
-#### **Stage A nominations**
+#### **Stage A**
 
 Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
 
