@@ -31,7 +31,7 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 #### **More resources**
 
-| **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=lpvnAsDj2dA) |
+| **Video** | - [Watch on YouTube](https://www.youtube.com/watch?v=lpvnAsDj2dA) |
 | **In pictures** | - [Seoul in pictures - catalysing change, improving quality of life](/resources/in-pictures/seoul/) <br> - [Seoul in pictures II - development without demolition](/resources/in-pictures/seoul2/) |
 | **Case studies** | - [Negotiating for a better future](/resources/case-studies/citizen-engagement/) <br> - [Car to people spaces](/resources/case-studies/car-to-people-spaces/) |
 | **Features** | - [Power to the people - the success of citizen engagement in Seoul](/resources/features/power-to-people/) <br> - [Seoul rejuvenated - creating a people-first city](/resources/features/seoul-rejuvenated/) <br> - [Seoul solutions - tackling rising urban challenges](/resources/features/seoul-solutions/) <br> - [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |
