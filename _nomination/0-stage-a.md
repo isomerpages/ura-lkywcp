@@ -1,5 +1,5 @@
 ---
-title: Stage A Nominations
+title: Stage A
 permalink: /nominations/stagea/
 ---
 
