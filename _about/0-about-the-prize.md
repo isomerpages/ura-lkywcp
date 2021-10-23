@@ -26,6 +26,7 @@ The Lee Kuan Yew World City Prize's visual identity is based on the 'ring' symbo
 #### **More**
 
 - [Prize Secretary](/about/prize-secretary/)
+- [Prize Partners](/prize-partners/)
 - [Contact us](/contact-us/) 
 - [Join our mailing list](https://go.gov.sg/newsletter)
 - [YouTube channel](https://go.gov.sg/watch)
