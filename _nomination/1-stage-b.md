@@ -27,7 +27,7 @@ After completing [Stage A](//nominations/stagea), the nominated city will be inf
 
 #### **Important notes**
 
-- A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration, 
+- A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
 - Please ensure the timely delivery of all submission materials. 
 - An incomplete report or a submission that is not prepared using the official report template may be considered invalid. 
 - The Prize Secretariat shall arrange and pay for in-person jury travels to the city where necessary. 
