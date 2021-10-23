@@ -21,7 +21,7 @@ The Lee Kuan Yew World City Prize is co-organised by the [Urban Redevelopment Au
 
 #### **Visual identity**
 
-The Lee Kuan Yew World City Prize's visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It communicates the global perspective of the Prize, and represents cities that have benefited from excellent and innovative urban solutions. Designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore.
+The Lee Kuan Yew World City Prize's visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It communicates the global perspective of the Prize, and represents cities that have benefited from excellent and innovative urban solutions. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore.
 
 #### **More**
 
