@@ -14,10 +14,10 @@ permalink: /special-mentions-test/
 
 #### **2016**
 
-- [Auckland](/laureates/2018/special-mentions/hamburg/)
-- [Sydney](/laureates/2018/special-mentions/hamburg/)
-- [Toronto](/laureates/2018/special-mentions/hamburg/)
-- [Vienna](/laureates/2018/special-mentions/hamburg/)
+| **Auckland** | Overcame planning challenges over the last 20 years through a highly integrated and innovative governance model. [Citation](/laureates/2018/special-mentions/hamburg/) |
+| **Sydney** | Strong leadership, commitment, and partnership with its citizens and stakeholders. [Citation](/laureates/2018/special-mentions/hamburg/) |
+| **Toronto** | Excellent social integration strategies, and reversal of a dying city core. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+- **Vienna** | Taking the lead in protecting the environment and rich cultural heritage while elevating quality of life. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 
 #### **2014**
 
