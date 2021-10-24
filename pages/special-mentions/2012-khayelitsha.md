@@ -3,11 +3,11 @@ title: 2012 Special Mention — Khayelitsha
 permalink: /khayelitsha/
 ---
 
-***AHT Group AG & Sun Development (Khayelitsha) is recognised for its prevention of violence through its comprehensive Urban Upgrading (VPUU) Programme.***
+***AHT Group AG & Sun Development (Khayelitsha) are recognised for its prevention of violence through its comprehensive Urban Upgrading (VPUU) Programme.***
 
 ![Khayelitsha](/images/special-mentions/khayelitsha.jpg)*Harare Urban Park. Photo © SUN Development*
 
-**AHT GROUP AG & SUN DEVELOPMENT (KHAYELITSHA)** is recognised for exceptional merit in running on a daily basis the comprehensive Violence Prevention through Urban Upgrading (VPUU) Programme in the Township of Khayelitsha, Cape Town, South Africa. The key partners of VPUU are the German Development Bank (KfW) which provided the initial resources; AHT Group/Sun Development which provides the technical advisors; and the City of Cape Town which is represented in the project leadership team and provides ongoing funding. While the Prize is looking for a more holistic city-level approach, this exemplary initiative offers significant learning points for cities around the world facing similar problems.
+**AHT GROUP AG & SUN DEVELOPMENT (KHAYELITSHA)** are recognised for exceptional merit in running on a daily basis the comprehensive Violence Prevention through Urban Upgrading (VPUU) Programme in the Township of Khayelitsha, Cape Town, South Africa. The key partners of VPUU are the German Development Bank (KfW) which provided the initial resources; AHT Group/Sun Development which provides the technical advisors; and the City of Cape Town which is represented in the project leadership team and provides ongoing funding. While the Prize is looking for a more holistic city-level approach, this exemplary initiative offers significant learning points for cities around the world facing similar problems.
 
 #### **Addressing personal safety**
 
