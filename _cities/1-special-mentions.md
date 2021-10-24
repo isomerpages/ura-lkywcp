@@ -17,7 +17,7 @@ permalink: /cities/special-mentions/
 | | [Auckland](/auckland/) overcame planning challenges through a highly integrated and innovative governance model. |
 | | [Sydney](/sydney/) demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. |
 | | [Toronto](/toronto/) is exemplary in integrating its diverse population, and rejuvenating its city core. | 
-| | [Vienna](/vienna/) takes the lead in protecting the environment and rich cultural heritage while elevating quality of life. | 
+| | [Vienna](/vienna/) takes the lead in protecting the environment and its rich cultural heritage while elevating quality of life. | 
 
 #### **2014 Special Mentions**
 
