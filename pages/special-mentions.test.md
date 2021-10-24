@@ -7,12 +7,14 @@ permalink: /special-mentions-test/
 
 #### **Special Mentions**
 
-| **2018** | |
+| | **2018** |
+| --- | --- |
 | **Hamburg** | An extraordinary port city that overcame planning challenges to become an attractive and welcoming city of opportunities. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 | **Kazan** | A formerly drab city with youth criminal gang and poor public health problems transformed into one known for sports and religious harmony. [Citation](/laureates/2018/special-mentions/hamburg/) |
 | **Surabaya** | An emerging city with a strong appreciation of culture and preservation of its kampung neighbourhoods. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 | **Tokyo** | An well-managed megacity despite its large and seemingly ungovernable size. [Citation](/laureates/2018/special-mentions/hamburg/) |
-| **2016** | |
+| | **2016** |
+| --- | --- |
 | **Auckland** | Overcame planning challenges through a highly integrated and innovative governance model. [Citation](/laureates/2018/special-mentions/hamburg/) |
 | **Sydney** | Strong leadership, commitment, and partnership with its citizens and stakeholders. [Citation](/laureates/2018/special-mentions/hamburg/) |
 | **Toronto** | Excellent social integration strategies, and reversal of a dying city core. [Citation](/laureates/2018/special-mentions/hamburg/) | 
