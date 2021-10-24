@@ -34,6 +34,6 @@ permalink: /cities/special-mentions/
 
 #### **2010 Special Mentions**
 
-| | [The late Mrs Sheila Dikshit](/laureates/2018/special-mentions/hamburg/) has helped to improve the living environment of Delhi through various implementations. | 
-| | [The late Dr Jaime Lerner](/laureates/2018/special-mentions/hamburg/) implemented impactful urban solutions during his term as mayor of Curitiba and governor of of Paraná. | 
+| | [Sheila Dikshit](/laureates/2018/special-mentions/hamburg/) has helped to improve the living environment of Delhi through various implementations. | 
+| | [Dr Jaime Lerner](/laureates/2018/special-mentions/hamburg/) implemented impactful urban solutions during his term as mayor of Curitiba and governor of of Paraná. | 
 | | [Melbourne](/laureates/2018/special-mentions/hamburg/) adopted an integrated approach and commitment to strategic planning. | 
