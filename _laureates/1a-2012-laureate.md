@@ -35,4 +35,4 @@ The city’s transformation is a testament to the dynamic partnership between it
 
 ---
 
-[^1]: PlaNYC has since been updated to OneNYC in April 2015 and [OneNYC 2050](http://onenyc.cityofnewyork.us) in April 2019. 
+[^1]: PlaNYC (2007 - 2015) has since been updated to OneNYC in April 2015 and [OneNYC 2050](http://onenyc.cityofnewyork.us) in April 2019. 
