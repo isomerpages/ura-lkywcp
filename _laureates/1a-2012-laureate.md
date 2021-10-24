@@ -25,12 +25,14 @@ The decision to legislate PlaNYC for review every four years to chart the city�
 
 The city is highly commended for its strong political will that spearheaded change in the city and in the mindset of its residents. The capacity for dialogue between government and civic groups also synergises efforts and allows creative ideas to take root. This is exemplified in bottom-up, high-impact initiatives such as the High Line, where neighbourhoods are renewed and beneficial effects stimulate the city’s economy. Underutilised spaces and roads have also been carefully transformed with limited funds into plazas for the public’s enjoyment. Partnerships with community and business groups not only help to maintain the spaces, but foster a sense of ownership. This has significantly lifted the quality of life in an urban environment.
 
-The city’s transformation is a testament to the dynamic partnership between its city leaders, government agencies, and stakeholders to implement a shared vision for the city. It serves as an inspiring model for other mature, high-density global cities to reframe their future in terms of sustainability and offers many innovative and replicable solutions for cities around the world. **<font color="#967942">O</font>**
-
-[^1]: PlaNYC has since been updated to OneNYC in April 2015 and [OneNYC 2050](http://onenyc.cityofnewyork.us) in April 2019.  
+The city’s transformation is a testament to the dynamic partnership between its city leaders, government agencies, and stakeholders to implement a shared vision for the city. It serves as an inspiring model for other mature, high-density global cities to reframe their future in terms of sustainability and offers many innovative and replicable solutions for cities around the world. **<font color="#967942">O</font>** 
 
 #### **More resources**
 
 | **Video** | - [Watch on YouTube](https://www.youtube.com/watch?v=ShSBnodjk9w) |
 | **Case studies** | - [Innovative zoning tools – West Chelsea & High Line Plan](/resources/case-studies/west-chelsea-high-line-plan/) <br> - [Brooklyn Bridge Park](/resources/case-studies/brooklyn-bridge-park/) <br> - [Re-purposing the public right of way](/resources/case-studies/repurposing-public-right-of-way/) |
 | **Features** | - [New York City renewed - how a world icon is looking ahead to 2050](/resources/features/nyc-renewed/) <br> - [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |
+
+---
+
+[^1]: PlaNYC has since been updated to OneNYC in April 2015 and [OneNYC 2050](http://onenyc.cityofnewyork.us) in April 2019. 
