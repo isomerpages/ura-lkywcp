@@ -1,5 +1,5 @@
 ---
-title: 2010 Special Mention - Melbourne
+title: 2010 Special Mention — Melbourne
 permalink: /melbourne/
 ---
 
