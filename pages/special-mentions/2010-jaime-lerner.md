@@ -1,5 +1,5 @@
 ---
-title: 2010 Special Mention - Dr Jaime Lerner
+title: 2010 Special Mention — Dr Jaime Lerner
 permalink: /jaime-lerner/
 ---
 
