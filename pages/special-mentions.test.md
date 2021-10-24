@@ -14,26 +14,26 @@ permalink: /special-mentions-test/
 
 #### **2016**
 
-| **Auckland** | Overcame planning challenges over the last 20 years through a highly integrated and innovative governance model. [Citation](/laureates/2018/special-mentions/hamburg/) |
+| **Auckland** | Overcame planning challenges through a highly integrated and innovative governance model. [Citation](/laureates/2018/special-mentions/hamburg/) |
 | **Sydney** | Strong leadership, commitment, and partnership with its citizens and stakeholders. [Citation](/laureates/2018/special-mentions/hamburg/) |
 | **Toronto** | Excellent social integration strategies, and reversal of a dying city core. [Citation](/laureates/2018/special-mentions/hamburg/) | 
-- **Vienna** | Taking the lead in protecting the environment and rich cultural heritage while elevating quality of life. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Vienna** | Taking the lead in protecting the environment and rich cultural heritage while elevating quality of life. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 
 #### **2014**
 
-- [Medellín](/laureates/2018/special-mentions/hamburg/)
-- [Yokohama](/laureates/2018/special-mentions/hamburg/)
+| **Medellín** | Outstanding urban transformation with significant reduction of homicide rates. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Yokohama** | Overcoming urban challenges through excellent partnership with its citizens and stakeholders. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 
 #### **2012**
 
-- [Ahmedabad](/laureates/2018/special-mentions/hamburg/)
-- [Brisbane](/laureates/2018/special-mentions/hamburg/)
-- [Copenhagen & Malmö](/laureates/2018/special-mentions/hamburg/)
-- [Khayelistha](/laureates/2018/special-mentions/hamburg/)
-- [Vancouver](/laureates/2018/special-mentions/hamburg/)
+| **Ahmedabad** | Early successes in implementing a comprehensive city plan. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Brisbane** | Once a ‘country town’ blighted by urban decay, now a vibrant metropolis. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Copenhagen & Malmö** | Jointly recognised for their close collaboration and shared vision. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Khayelistha** | Comprehensive violence prevention through its Urban Upgrading (VPUU) Programme. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Vancouver** | An exemplary demonstration of strong visioning, community values and long-term planning. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 
 #### **2010**
 
-- [Mrs Sheila Dikshit](/laureates/2018/special-mentions/hamburg/)
-- [Dr Jaime Lerner](/laureates/2018/special-mentions/hamburg/)
-- [Melbourne](/laureates/2018/special-mentions/hamburg/)
+| **Mrs Sheila Dikshit** | Notable implementations in improving the living environment of Delhi. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Dr Jaime Lerner** | Achievements as mayor of Curitiba and as governor of the state of Paraná. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **Melbourne** | Integrated approach and commitment to strategic planning. [Citation](/laureates/2018/special-mentions/hamburg/) | 
