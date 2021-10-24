@@ -9,8 +9,8 @@ permalink: /cities/special-mentions/
 
 | **2018** | |
 | | [Hamburg](/laureates/2018/special-mentions/hamburg/) is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. | 
-| | [Kazan](/laureates/2018/special-mentions/hamburg/) is a former drab city with youth criminal gang and poor public health problems transformed into one known for sports and religious harmony. |
-| | [Surabaya](/laureates/2018/special-mentions/hamburg/) is an emerging city with a strong appreciation of culture and preservation of its kampung neighbourhoods. | 
+| | [Kazan](/laureates/2018/special-mentions/hamburg/) is a former drab city with youth crimes and health issues transformed into a healthy and harmonious city. |
+| | [Surabaya](/laureates/2018/special-mentions/hamburg/) is an emerging city that appreciates its culture and preserves its kampung neighbourhoods. | 
 | | [Tokyo](/laureates/2018/special-mentions/hamburg/) is a well-managed megacity despite its large and seemingly ungovernable size. |
 | **2016** | |
 | | [Auckland](/laureates/2018/special-mentions/hamburg/) overcame planning challenges through a highly integrated and innovative governance model. |
