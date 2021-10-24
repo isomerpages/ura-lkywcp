@@ -3,8 +3,7 @@ title: 2012 Special Mention — Brisbane
 permalink: /brisbane/
 --- 
 
-![Brisbane](/images/special-mentions/brisbane.jpg)
-_© City of Brisbane_
+![Brisbane](/images/special-mentions/brisbane.jpg)*The Brisbane River © City of Brisbane*
 
 **BRISBANE CITY COUNCIL'S URBAN RENEWAL BRISBANE (URB) AGENCY** is recognised for its significant role in transforming what was once a ‘country town’ blighted by economic stagnation, sprawl and urban decay into an economically, culturally and physically vibrant metropolis. Over the past 20 years[^1], URB’s sustained initiatives have successfully revived local economies and inner-city living by regenerating derelict industrial sites and revitalising the city’s neglected riverfront.
 
