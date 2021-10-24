@@ -32,9 +32,11 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 More significantly, the success of Bilbao lies in its ability to achieve alignment of objectives and vision amongst government, businesses and the community. The formation of the Bilbao Ria 2000 was an effective demonstration of strong Public-Private Partnership to ensure the successful implementation of the city’s plans and projects. **<font color="#967942">O</font>**
 
-###### **Commemorative video**
+---
 
-###### - [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0)
+#### **Commemorative video**
+
+- [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0)
 
 #### **Case studies**
 
