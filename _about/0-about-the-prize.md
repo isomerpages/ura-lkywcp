@@ -25,7 +25,7 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 
 #### **More**
 
-- [Prize Laureates](/laureates/)
+- [Prize Laureates](/cities/laureates/)
 - [Prize Secretary](/about/prize-secretary/)
 - [Prize Partners](/prize-partners/)
 - [Contact us](/contact-us/) 
