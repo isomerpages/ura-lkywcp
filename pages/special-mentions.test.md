@@ -10,7 +10,7 @@ permalink: /special-mentions-test/
 | **2018** | |
 | | [Hamburg](/laureates/2018/special-mentions/hamburg/) is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. | 
 | | [Kazan](/laureates/2018/special-mentions/hamburg/) is a former drab city with youth criminal gang and poor public health problems transformed into one known for sports and religious harmony. |
-| | [Surabaya](/laureates/2018/special-mentions/hamburg/)is an emerging city with a strong appreciation of culture and preservation of its kampung neighbourhoods. | 
+| | [Surabaya](/laureates/2018/special-mentions/hamburg/) is an emerging city with a strong appreciation of culture and preservation of its kampung neighbourhoods. | 
 | | [Tokyo](/laureates/2018/special-mentions/hamburg/) is a well-managed megacity despite its large and seemingly ungovernable size. |
 | **2016** | |
 | | [Auckland](/laureates/2018/special-mentions/hamburg/) overcame planning challenges through a highly integrated and innovative governance model. |
@@ -23,7 +23,7 @@ permalink: /special-mentions-test/
 | **2012** | |
 | | [Ahmedabad](/laureates/2018/special-mentions/hamburg/) is recognised for its early successes in implementing a comprehensive city plan. | 
 | | [Brisbane](/laureates/2018/special-mentions/hamburg/) is a ‘country town’ blighted by urban decay transformed into a vibrant metropolis. | 
-| | [Copenhagen & Malmö](/laureates/2018/special-mentions/hamburg/)are jointly recognised for their close collaboration and shared vision. | 
+| | [Copenhagen & Malmö](/laureates/2018/special-mentions/hamburg/) are jointly recognised for their close collaboration and shared vision. | 
 | | [Khayelitsha](/laureates/2018/special-mentions/hamburg/) is recognised for its comprehensive violence prevention through the Urban Upgrading Programme. | 
 | | [Vancouver](/laureates/2018/special-mentions/hamburg/) is an exemplary demonstration of strong visioning, community values and long-term planning. | 
 | **2010** | |
