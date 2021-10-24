@@ -5,7 +5,14 @@ permalink: /laureates-test/
 
 ![Prize Laureates](/images/laureates/worldmap-laureates.jpg/)
 
----
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
+<td><b>2018 Prize Laureate<br />Seoul</b><br />Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative one we see today.<br><a href="/laureates/2018/laureate/">Full citation</a></td>
+</tr>
+</tbody>
+</table>
 
 #### **2018 — Seoul**
 
