@@ -32,15 +32,20 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 More significantly, the success of Bilbao lies in its ability to achieve alignment of objectives and vision amongst government, businesses and the community. The formation of the Bilbao Ria 2000 was an effective demonstration of strong Public-Private Partnership to ensure the successful implementation of the city’s plans and projects. **<font color="#967942">O</font>**
 
-#### **More resources** 
+#### **Commemorative video**
 
-| **Video** | |
-| | - [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) |
-| **Case studies** | | 
-| | - [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | 
-| | - [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) |
-| **Features** | | 
-| | - [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
-| **Interviews** | |
-| | - [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) | 
-| | - [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
+- [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0)
+
+#### **Case studies**
+
+- [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/)
+- [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/)
+
+#### **Features**
+
+- [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/)
+
+#### **Interviews** 
+
+- [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/)
+- [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/)
