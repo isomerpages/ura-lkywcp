@@ -7,7 +7,7 @@ permalink: /cities/special-mentions/
 
 #### **2018 Special Mentions**
 
-| **18** | [Hamburg](/hamburg/) is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. | 
+| **18** | **Hamburg** is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. [Citation](/hamburg/)| 
 | **17** | [Kazan](/kazan/) is a former drab city with youth crimes and health issues transformed into a healthy and harmonious city. |
 | **16**| [Surabaya](/surabaya/) is an emerging city that appreciates its culture and preserves its kampung neighbourhoods. | 
 | **15** | [Tokyo](/tokyo/) is a well-managed megacity despite its large and seemingly ungovernable size. |
