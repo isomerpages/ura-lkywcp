@@ -16,8 +16,8 @@ permalink: /special-mentions-test/
 | **2016 — Toronto** | Excellent social integration strategies, and reversal of a dying city core. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 | **2016 — Vienna** | Taking the lead in protecting the environment and rich cultural heritage while elevating quality of life. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 | **2014 — Medellín** | Outstanding urban transformation with significant reduction of homicide rates. [Citation](/laureates/2018/special-mentions/hamburg/) | 
-| **2014 — MedellínYokohama** | Overcoming urban challenges through excellent partnership with its citizens and stakeholders. [Citation](/laureates/2018/special-mentions/hamburg/) | 
-| **2012 — MedellínAhmedabad** | Early successes in implementing a comprehensive city plan. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **2014 — Yokohama** | Overcoming urban challenges through excellent partnership with its citizens and stakeholders. [Citation](/laureates/2018/special-mentions/hamburg/) | 
+| **2012 — Ahmedabad** | Early successes in implementing a comprehensive city plan. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 | **2012 — Brisbane** | Once a ‘country town’ blighted by urban decay, now a vibrant metropolis. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 | **2012 — Copenhagen & Malmö** | Jointly recognised for their close collaboration and shared vision. [Citation](/laureates/2018/special-mentions/hamburg/) | 
 | **2012 — Khayelistha** | Comprehensive violence prevention through its Urban Upgrading (VPUU) Programme. [Citation](/laureates/2018/special-mentions/hamburg/) | 
