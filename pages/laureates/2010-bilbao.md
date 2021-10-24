@@ -34,7 +34,7 @@ More significantly, the success of Bilbao lies in its ability to achieve alignme
 
 ###### **Commemorative video**
 
-- ######[Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0)
+###### - [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0)
 
 #### **Case studies**
 
