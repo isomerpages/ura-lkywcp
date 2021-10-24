@@ -1,5 +1,5 @@
 ---
-title: 2012 Special Mention - Copenhagen and Malmö
+title: 2012 Joint Special Mention - Copenhagen and Malmö
 permalink: /copenhagen-malmo/
 ---
 
