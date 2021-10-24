@@ -13,44 +13,24 @@ permalink: /laureates-test/
 
 #### **2016 - Medellín**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-  <td><b>Medellín</b> is recognised for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.</td>
-</tr>
-</tbody>
-</table>
+<div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
+
+**Medellín** is recognised for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities. [Full citation](/laureates/2016/laureate/)
 
 #### **2014 - Suzhou**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-  <td><b>Suzhou</b> is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.</td>
-</tr>
-</tbody>
-</table>
+<div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
+
+**Suzhou** is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage. [Full citation](/laureates/2014/laureate/)
 
 #### **2012 - New York City**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-  <td><b>New York City</b> is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC - a blueprint for a greater and greener city.</td>
-</tr>
-</tbody>
-</table>
+<div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
+
+**New York City** is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC - a blueprint for a greater and greener city. [Full citation](/laureates/2012/laureate/)
 
 #### **2010 - Bilbao**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-  <td><b>Bilbao</b> is recognised for its integrated and holistic approach in urban transformation.</td>
-</tr>
-</tbody>
-</table>
+<div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
+
+**Bilbao** is recognised for its integrated and holistic approach in urban transformation. [Full citation](/laureates/2012/laureate/)
