@@ -10,11 +10,15 @@ _Aveneida de Abandoibarra © BILBAO NEXT – Ayuntamiento de Bilbao_
 
 **BILBAO** has been named the inaugural Lee Kuan Yew World City Prize Laureate in recognition of its integrated and holistic approach in urban transformation. Bilbao has demonstrated that urban regeneration can be a powerful social and economic driver to catalyse change, strengthen the urban fabric, inject vibrancy and improve the quality of life for its citizens. 
 
-Bilbao has been instrumental in regenerating and transforming the city from an obsolete and dilapidated industrial city into a knowledge-based economy. The success of Bilbao is largely attributed to its integrated and holistic approach to achieve economic, social and physical transformations. Its emphasis on environmental cleanup, use of culture, internationalisation and design, major improvements to its infrastructure, as well as the restoration of its historic areas over some 25 years have successfully rejuvenated the city. More significantly, the city was able to connect investment in infrastructure with social integration. The river, which was once a physical and social barrier, is now a hub for social and cultural integration and a centre for innovation and creativity.
+Bilbao has been instrumental in regenerating and transforming the city from an obsolete and dilapidated industrial city into a knowledge-based economy. The success of Bilbao is largely attributed to its integrated and holistic approach to achieve economic, social and physical transformations. Its emphasis on environmental cleanup, use of culture, internationalisation and design, major improvements to its infrastructure, as well as the restoration of its historic areas over some 25 years have successfully rejuvenated the city. 
+
+More significantly, the city was able to connect investment in infrastructure with social integration. The river, which was once a physical and social barrier, is now a hub for social and cultural integration and a centre for innovation and creativity.
 
 #### **Bilbao Ria 2000**
 
 The jury is particularly impressed with the establishment of Bilbao Ria 2000 as an effective framework to align government, business and the community towards a shared vision for the city. Bilbao Ria 2000 is a testimony to the importance of strong leadership and institutionalised processes in key decision-making and sustained implementation.
+
+More significantly, the success of Bilbao lies in its ability to achieve alignment of objectives and vision amongst government, businesses and the community. The formation of the Bilbao Ria 2000 was an effective demonstration of strong Public-Private Partnership to ensure the successful implementation of the city’s plans and projects.
 
 #### **25 projects over 25 years**
 
@@ -30,9 +34,7 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 -   **1980s - 1990s:** Restructuring of the city and economy.
 -   **1990s - 2000s:**  Consolidation of regeneration efforts and diversification of economies.
--   **2000s onwards:**  Re-invention; focus on innovation, research and knowledge-based economy.
-
-More significantly, the success of Bilbao lies in its ability to achieve alignment of objectives and vision amongst government, businesses and the community. The formation of the Bilbao Ria 2000 was an effective demonstration of strong Public-Private Partnership to ensure the successful implementation of the city’s plans and projects. **<font color="#967942">O</font>**
+-   **2000s onwards:**  Re-invention; focus on innovation, research and knowledge-based economy. **<font color="#967942">O</font>**
 
 ---
 
