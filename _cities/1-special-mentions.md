@@ -34,6 +34,6 @@ permalink: /cities/special-mentions/
 
 #### **2010 Special Mentions**
 
-| [Sheila Dikshit](/sheila-dikshit/) has helped to improve the living environment of Delhi through various implementations. |  
-| [Dr Jaime Lerner](/jaime-lerner/) implemented impactful urban solutions during his term as mayor of Curitiba and governor of Paraná. | 
-| [Melbourne](/melbourne/) adopted an integrated approach and commitment to strategic planning. | 
+| **03** | [Sheila Dikshit](/sheila-dikshit/) has helped to improve the living environment of Delhi through various implementations. |  
+| **02** | [Dr Jaime Lerner](/jaime-lerner/) implemented impactful urban solutions during his term as mayor of Curitiba and governor of Paraná. | 
+| **01** | [Melbourne](/melbourne/) adopted an integrated approach and commitment to strategic planning. | 
