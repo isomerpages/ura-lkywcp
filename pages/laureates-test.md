@@ -23,7 +23,7 @@ permalink: /laureates-test/
 </tr> 
 <tr>
 <td><br><img src="/images/laureates/nyc-medal.png" alt="New York City" /><br></td>
-<td><br><strong>2012 Prize Laureate — New York City</strong><br />New York City is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC - a blueprint for a greater and greener city.<br><a href="/laureates/2012/laureate/">Full citation</a></td>
+<td><br><strong>2012 Prize Laureate — New York City</strong><br />New York City is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC — a blueprint for a greater and greener city (updated to OneNYC plan in 2015).<br><a href="/laureates/2012/laureate/">Full citation</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/laureates/bilbao-medal.png" alt="Bilbao" /><br></td>
