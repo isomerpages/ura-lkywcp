@@ -27,7 +27,7 @@ The city is highly commended for its strong political will that spearheaded chan
 
 The city’s transformation is a testament to the dynamic partnership between its city leaders, government agencies, and stakeholders to implement a shared vision for the city. It serves as an inspiring model for other mature, high-density global cities to reframe their future in terms of sustainability and offers many innovative and replicable solutions for cities around the world. **<font color="#967942">O</font>**
 
-[^1] PlaNYC has since been updated to OneNYC in April 2015 and [OneNYC 2050](http://onenyc.cityofnewyork.us) in April 2019.  
+[^1]: PlaNYC has since been updated to OneNYC in April 2015 and [OneNYC 2050](http://onenyc.cityofnewyork.us) in April 2019.  
 
 #### **More resources**
 
