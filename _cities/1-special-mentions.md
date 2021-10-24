@@ -28,7 +28,7 @@ permalink: /cities/special-mentions/
 
 | | [Ahmedabad](/laureates/2018/special-mentions/hamburg/) enjoys early successes in implementing a comprehensive city plan. | 
 | | [Brisbane](/laureates/2018/special-mentions/hamburg/) is a ‘country town’ blighted by urban decay transformed into a vibrant metropolis. | 
-| | [Copenhagen & Malmö](/laureates/2018/special-mentions/hamburg/) demonstrates close collaboration and a shared vision across borders. | 
+| | [Copenhagen & Malmö](/laureates/2018/special-mentions/hamburg/) demonstrate close collaboration and a shared vision across borders. | 
 | | [Khayelitsha](/laureates/2018/special-mentions/hamburg/) prevents violence through its comprehensive Urban Upgrading Programme. | 
 | | [Vancouver](/laureates/2018/special-mentions/hamburg/) demonstrates strong visioning, community values and long-term planning. | 
 
