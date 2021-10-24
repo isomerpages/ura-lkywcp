@@ -1,11 +1,7 @@
 ---
-title: 2014 Prize Laureate - Suzhou
+title: 2014 Prize Laureate — Suzhou
 permalink: /suzhou/
 ---
-
-| 2014 Prize Laureate | 
-|---:|
-| Suzhou | 
 
 ***Suzhou is awarded the 2014 Prize for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.***
 
