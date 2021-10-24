@@ -16,12 +16,12 @@ permalink: /cities/special-mentions/
 
 | | [Auckland](/auckland/) overcame planning challenges through a highly integrated and innovative governance model. |
 | | [Sydney](/sydney/) demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. |
-| | [Toronto](/toronto/) integrates its diverse population, and reverses its dying city core. | 
+| | [Toronto](/toronto/) is exemplary in integrating its diverse population, and rejuvenating its city core. | 
 | | [Vienna](/vienna/) takes the lead in protecting the environment and rich cultural heritage while elevating quality of life. | 
 
 #### **2014 Special Mentions**
 
-| | [Medellín](/medellin-special-mention/) significantly reduced its homicide rates over the past few deacdes. | 
+| | [Medellín](/medellin-special-mention/) significantly reduced its homicide rates over the past few decades. | 
 | | [Yokohama](/yokohama/) overcame urban challenges through excellent partnership with its citizens and stakeholders. | 
 
 #### **2012 Special Mentions**
