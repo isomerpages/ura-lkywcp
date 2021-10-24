@@ -7,7 +7,7 @@ permalink: /laureates-test/
 
 ---
 
-#### **2018 - Seoul**
+#### **2018 — Seoul**
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
@@ -15,7 +15,7 @@ permalink: /laureates-test/
 
 ---
 
-#### **2016 - Medellín**
+#### **2016 — Medellín**
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
@@ -23,7 +23,7 @@ permalink: /laureates-test/
 
 ---
 
-#### **2014 - Suzhou**
+#### **2014 — Suzhou**
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
@@ -31,7 +31,7 @@ permalink: /laureates-test/
 
 ---
 
-#### **2012 - New York City**
+#### **2012 — New York City**
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
@@ -39,7 +39,7 @@ permalink: /laureates-test/
 
 ---
 
-#### **2010 - Bilbao**
+#### **2010 — Bilbao**
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
