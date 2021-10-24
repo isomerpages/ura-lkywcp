@@ -3,8 +3,7 @@ title: 2010 Special Mention — Melbourne
 permalink: /melbourne/
 ---
 
-![Melbourne](/images/special-mentions/melbourne.jpg)
-_© Melbourne City Council_
+![Melbourne](/images/special-mentions/melbourne.jpg)*Melbourne city centre. Photo © Melbourne City Council*
 
 **MELBOURNE** is recognised for its integrated approach and commitment to strategic planning in the last 30–40 years[^1], beginning with the 1974 Strategy Plan, right up to the most recent [Future Melbourne](https://www.melbourne.vic.gov.au/about-melbourne/future-melbourne/future-melbourne-2026-plan/Pages/future-melbourne-2026-plan.aspx) plans, projecting Melbourne’s urban development into the next 30 years. This is realised through a succession of influential leaders, such as state ministers and lord mayors, and strong processes that helped to institutionalise key strategic planning principles into the system of government (e.g. state planning department, city council).
 
