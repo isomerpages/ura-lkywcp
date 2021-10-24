@@ -10,7 +10,7 @@ permalink: /laureates-test/
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><br><img src="/images/jury/peter-ho.png" alt="Peter Ho" /><br></td>
+<td style="width: 150px;"><br><img src="/images/laureates/seoul-medal.png" alt="Seoul" /><br></td>
 <td><br><strong>2018 Prize Laureate<br />Seoul</strong><br />Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative one we see today.<br><a href="/laureates/2018/laureate/">Full citation</a></td>
 </tr>
 <tr>
