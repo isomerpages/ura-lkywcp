@@ -1,11 +1,7 @@
 ---
-title: 2016 Prize Laureate - Medellín
+title: 2016 Prize Laureate — Medellín
 permalink: /medellin/
----
-
-| 2016 Prize Laureate | 
-|---:|
-| Medellín | 
+--- 
 
 ***Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.***
 
