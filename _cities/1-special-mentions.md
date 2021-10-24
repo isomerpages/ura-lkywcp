@@ -5,7 +5,7 @@ permalink: /cities/special-mentions/
 
 ![Special Mentions](/images/laureates/worldmap-special-mentions.jpg/)
 
-In each cycle, cities that have developed outstanding initiatives to meet their unique urban challenges are also selected as Special Mentions to further the sharing of lessons from these initiatives.
+In each cycle, cities that have developed outstanding initiatives to meet their unique urban challenges are selected as Special Mentions to further the sharing of these lessons.
 
 #### **2018 Special Mentions**
 
