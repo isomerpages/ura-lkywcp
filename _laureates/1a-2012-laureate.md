@@ -8,7 +8,7 @@ third_nav_title: 2012
 |---:|
 | New York City |
 
-***New York City is awarded the 2012 Prize for its successful reinvention and rejuvenation of the city framed by PlaNYC - a blueprint for a greater and greener city.***
+***New York City is awarded the 2012 Prize for its successful reinvention and rejuvenation of the city framed by PlaNYC — a blueprint for a greater and greener city.***
 
 ![New York City Times Square](/images/laureates/nyc.jpg)
 _A pedestrian-friendly New York Times Square © NYCDOT_
