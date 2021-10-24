@@ -1,5 +1,5 @@
 ---
-title: Laureate - Bilbao
+title: 2010 Prize Laureate - Bilbao
 permalink: /bilbao/
 ---
 
