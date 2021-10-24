@@ -27,7 +27,7 @@ permalink: /cities/special-mentions/
 #### **2012 Special Mentions**
 
 | | [Ahmedabad](/ahmedabad/) enjoys early successes in implementing a comprehensive city plan. | 
-| | [Brisbane](/brisbane/) is a ‘country town’ blighted by urban decay transformed into a vibrant metropolis. | 
+| | [Brisbane](/brisbane/) transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | 
 | | [Copenhagen & Malmö](/copenhagen-malmo/) demonstrate close collaboration and a shared vision across borders. | 
 | | [Khayelitsha](/khayelitsha/) prevents violence through its comprehensive Urban Upgrading Programme. | 
 | | [Vancouver](/vancouver/) demonstrates strong visioning, community values and long-term planning. | 
