@@ -15,7 +15,7 @@ permalink: /laureates-test/
 </tr>
 <tr>
 <td><br><img src="/images/laureates/medellin-medal.png" alt="Medellín" /><br></td>
-<td><br><strong>2016 Prize Laureate — Medellín</strong><br />Medellín is recognised for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.<br><a href="/laureates/2016/laureate/">Full citation</a></td>
+<td><br><strong>2016 Prize Laureate — Medellín</strong><br />Medellín is recognised for its success in overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.<br><a href="/laureates/2016/laureate/">Full citation</a></td>
 </tr> 
 <tr>
 <td><br><img src="/images/laureates/suzhou-medal.png" alt="Suzhou" /><br></td>
