@@ -11,19 +11,19 @@ permalink: /cities/laureates/
 <tbody>
 <tr>
 <td style="width: 150px;"><br><img src="/images/laureates/seoul-medal.png" alt="Seoul" /><br></td>
-<td><br><strong>2018 Prize Laureate — Seoul</strong><br />Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative one we see today.<br><a href="/seoul/">Full citation</a></td>
+<td><br><strong>2018 Prize Laureate — Seoul</strong><br />Seoul is recognised for its transformation from a top-down city into the inclusive, socially stable and highly innovative one we see today.<br><a href="/seoul/">Full citation</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/laureates/medellin-medal.png" alt="Medellín" /><br></td>
-<td><br><strong>2016 Prize Laureate — Medellín</strong><br />Medellín is recognised for its success in overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.<br><a href="/medellin/">Full citation</a></td>
+<td><br><strong>2016 Prize Laureate — Medellín</strong><br />Medellín is recognised for overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.<br><a href="/medellin/">Full citation</a></td>
 </tr> 
 <tr>
 <td><br><img src="/images/laureates/suzhou-medal.png" alt="Suzhou" /><br></td>
-<td><br><strong>2014 Prize Laureate — Suzhou</strong><br />Suzhou is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.<br><a href="/suzhou/">Full citation</a></td>
+<td><br><strong>2014 Prize Laureate — Suzhou</strong><br />Suzhou is recognised for meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.<br><a href="/suzhou/">Full citation</a></td>
 </tr> 
 <tr>
 <td><br><img src="/images/laureates/nyc-medal.png" alt="New York City" /><br></td>
-<td><br><strong>2012 Prize Laureate — New York City</strong><br />New York City is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC — a blueprint for a greater and greener city.<br><a href="/nyc/">Full citation</a></td>
+<td><br><strong>2012 Prize Laureate — New York City</strong><br />New York City is recognised for its reinvention and rejuvenation framed by PlaNYC — a blueprint for a greater and greener city.<br><a href="/nyc/">Full citation</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/laureates/bilbao-medal.png" alt="Bilbao" /><br></td>
