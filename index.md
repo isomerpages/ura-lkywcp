@@ -32,7 +32,7 @@ sections:
         alt: Post-pandemic cities
     - infopic:
         title: Elevating quality of life through sports
-        subtitle: City case — Kazan
+        subtitle: City case study — Kazan
         description: Kazan leveraged on international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to quickly improve the health of its people, elevate its quality of life and become the sports capital of Russia.
         button: Read More
         url: /resources/case-studies/kazan-sports/
