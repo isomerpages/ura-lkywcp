@@ -5,7 +5,7 @@ permalink: /copenhagen-malmo/
 
 ***Copenhagen and Malmö are jointly recognised for their close collaboration and a shared vision across borders.***
 
-![Øresund bridge](/images/special-mentions/copenhagen.jpg)*Øresund Bridge. Photo © City of Copenhagen*
+![Øresund bridge](/images/special-mentions/copenhagen.jpg)*Øresund Bridge © Copenhagen*
 
 **COPENHAGEN AND MALMÖ** are jointly recognised for their close collaboration at government and business levels, and shared vision of a holistic set of economic, environmental and socially sustainable goals.
 
