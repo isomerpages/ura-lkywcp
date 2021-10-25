@@ -44,8 +44,6 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 | **Population** | 346,332 people | 
 | **Density** | 8,446/km<sup>2</sup> |
 
----
-
 ##### **Commemorative video**
 
 | [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) |
