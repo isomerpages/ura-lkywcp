@@ -11,7 +11,7 @@ permalink: /vienna/
 
 #### **Environmental stewardship**
 
-Vienna is highly commendable for its stewardship of the environment. The city recognises its location on the upstream of the Danube River which runs through 19 countries before terminating in the Black Sea, and takes the lead in the protection of the environment. Under its ambitious goal of becoming Europe’s Environmental Model City, the city safeguarded more than 50 percent of its municipal lands as green spaces, 35 percent as protection zones, and 15 percent as species protection. Waste management measures contributed to the reduction of 130,000 tonnes of CO2 emissions annually. The city actively engages its enterprises in its environmental pursuits through the [EcoBusinessPlan](https://smartcity.wien.gv.at/en/ecobusiness-vienna/), a consultancy service to help businesses reduce their environmental impact and in turn achieved operating costs savings of Euro 121.4 million since its inauguration in 1998.
+Vienna is highly commendable for its stewardship of the environment. The city recognises its location on the upstream of the Danube River which runs through 19 countries before terminating in the Black Sea, and takes the lead in the protection of the environment. Under its ambitious goal of becoming Europe’s Environmental Model City, the city safeguarded more than 50 percent of its municipal lands as green spaces, 35 percent as protection zones, and 15 percent as species protection. Waste management measures contributed to the reduction of 130,000 tonnes of CO2 emissions annually. The city actively engages its enterprises in its environmental pursuits through the [EcoBusinessPlan](https://smartcity.wien.gv.at/en/ecobusiness-vienna/), a consultancy service to help businesses reduce their environmental impact and in turn achieved operating costs savings of Euro 121.4 million[^1] since its inauguration in 1998.
 
 #### **Foreward-looking flood protection**
 
@@ -31,3 +31,7 @@ Vienna is already widely recognised as one of the most liveable cities in the wo
 
 | [4 different cities, 3 common themes - the 2016 Special Mention cities](/resources/features/four-different-cities/) |
 | [Looking east and west - Vienna at the crossroads](/resources/features/vienna-at-crossroads/) |
+
+--- 
+
+[^1]: Information correct as of 2016.
