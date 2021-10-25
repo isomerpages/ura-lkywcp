@@ -41,6 +41,11 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 ##### **City profile**
 
+| **Mayor** | Daniel Quintero Calle (2020 - date) <br> Federico Gutiérrez Zuluaga (2016 - 2020) <br> Aníbal Gaviria Correa (2012 - 2016) |
+| **Area** | 382.0 km<sup>2</sup> |
+| **Population** | 2,376,337 people | 
+| **Density** | 6,220 per km<sup>2</sup> |
+
 ##### **Commemorative video** 
 
 | [Watch on YouTube](https://www.youtube.com/watch?v=P5BzIa90x1A) |
