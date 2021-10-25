@@ -5,7 +5,7 @@ permalink: /kazan/
 
 ***Kazan is recognised for its turnaround from a formerly drab city with youth crimes and health issues transformed into a healthy and harmonious city.***
 
-![Kazan Kremlin](/images/special-mentions/kazan.jpg)*Kazan Kremlin. Photo © Kazan*
+![Kazan Kremlin](/images/special-mentions/kazan.jpg)*Kazan Kremlin © Kazan*
 
 **KAZAN** is recognised for its impressive turnaround from a formerly drab city with youth criminal gang and poor public health problems into a healthy city now known for sports and social and religious harmony. Under the highly commendable leadership of Mayor Ilsur Metshin, the city recognises that its people are the city’s most valuable asset and has invested strategically in sports, medicine, nutrition, and family life to improve Kazan’s overall quality of life. 
 
