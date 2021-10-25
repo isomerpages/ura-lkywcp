@@ -5,7 +5,7 @@ permalink: /sydney/
 
 ***Sydney is recognised for its strong leadership, commitment, and partnership with its citizens and stakeholders in tackling their urban challenges.***
 
-![Sydney Harbour](/images/special-mentions/sydney.jpg)*Sydney Harbour. Photo © Urban Redevelopment Authority Singapore*
+![Sydney Harbour](/images/special-mentions/sydney.jpg)*Sydney Harbour © Urban Redevelopment Authority Singapore*
 
 **SYDNEY** is recognised for demonstrating strong leadership, relentless commitment, and an excellent model for partnership with its citizens and stakeholders in the tackling of their urban challenges. Despite having limited regional power under State authority, the Lord Mayor Clover Moore and the City Council strategically and successfully aligned the city’s work and institutionalised key strategic planning principles into their governance. 
 
