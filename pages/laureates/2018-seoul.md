@@ -19,7 +19,7 @@ The city leaders understood that proper communication under the new circumstance
 
 #### **Seoul Plan 2030**
 
-The Seoul Master Plan 2030 is a highly remarkable turning point in the city’s planning processes. Under Seoul's inspiring leadership, the city made the bold move to make citizen participation the norm of all plans, and bottom-up processes its primary focus. Ground-up processes are incorporated in day-to-day operations under the Community Governance Project where residents are given a say over local issues that affect their communities directly. Citizens can also decide the use of up to 5% of the entire city budget (or 55.5 million KRW) under the Public Participatory Budget System. 
+The Seoul Master Plan 2030 is a highly remarkable turning point in the city’s planning processes. Under Seoul's inspiring leadership, the city made the bold move to make citizen participation the norm of all plans, and bottom-up processes its primary focus. Ground-up processes are incorporated in day-to-day operations under the Community Governance Project where residents are given a say over local issues that affect their communities directly. Citizens can also decide the use of up to five percent of the entire city budget (or 55.5 million KRW) under the Public Participatory Budget System. 
 
 Through regular monitoring and publishing of results in the press, and its exemplary use of big data in its decision-making to focus even on minute details, the city has ensured utmost transparency to its citizenry; no one is left out. The city not only managed to build trust with the citizens, but also assured them that engagement is not merely a token gesture, but one that will truly shape and reshape the future of the city.  
   
