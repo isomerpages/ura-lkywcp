@@ -27,7 +27,7 @@ Through regular monitoring and publishing of results in the press, and its exemp
 
 Seoul, particularly in its urban core areas, demonstrates boldness in shifting away from car-oriented transportation to people-centric spaces, a challenge that many cities are struggling with today. Seoul recognises that the transition from private cars to mass transit is not an overnight task and tackles this through a comprehensive set of measures and the use of big data, to make public transport as seamless and convenient as possible. 
 
-Most notably, through the reclamation of public spaces for people from cars, such as the removal of an elevated highway to restore the former stream at Cheonggyecheon, the pedestrianisation of Yonsei-ro, and the conversion of the Seoul Station Overpass into [Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do) – a 1 kilometre-long lushly planted elevated walkway with pockets of activities along the way, the city sends a strong signal that the future of the city is one where people come first, not cars.  
+Most notably, through the reclamation of public spaces for people from cars, such as the removal of an elevated highway to restore the former stream at Cheonggyecheon, the pedestrianisation of Yonsei-ro, and the conversion of the Seoul Station Overpass into [Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do) – a one kilometre-long lushly planted elevated walkway with pockets of activities along the way, the city sends a strong signal that the future of the city is one where people come first, not cars.  
 
 #### **Development without demolition**
 
