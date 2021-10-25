@@ -5,7 +5,7 @@ permalink: /tokyo/
 
 ***Tokyo is recognised for being a well-managed megacity despite its large and seemingly ungovernable size.***
 
-![Shibuya Crossing in Tokyo](/images/special-mentions/tokyo.jpg)*Shibuya crossing in Tokyo. Photo © Tokyo Metropolitan Government*
+![Shibuya Crossing in Tokyo](/images/special-mentions/tokyo.jpg)*Shibuya crossing in Tokyo © Tokyo Metropolitan Government*
 
 **TOKYO** is recognised as an exemplary megacity that works. Everything across the city is well managed despite its large and seemingly ungovernable size. Through the conscientious implementation of the city’s urban blueprint first developed in 2001 and updated in 2016, Tokyo has transformed from its low period of the 90s following the burst of Japan’s economic bubble to the highly efficient, liveable, and vibrant city one experiences today. The credit for the achievements goes to both the government, as well as the enlightened private sector who took it upon themselves to contribute towards the greater good for citizens as part of their larger social responsibility. 
 
