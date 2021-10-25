@@ -23,6 +23,8 @@ Sydney is also widely noted for guiding its urban development projects with good
 
 Sydney’s transformation is a testament to the dynamic leadership of Lord Mayor Clover Moore and the City Council. It serves as an admirable leadership model for other cities, especially in the area of addressing political limitations. By developing better partnerships and fostering greater collaborations amongst government, private sector, civic groups and the community, the city proves that remarkable and successful urban transformation is still possible. Sydney’s achievements today provide great inspiration to other cities facing similar constraints. **<font color="#967942">O</font>**
 
+---
+
 ##### **Features** 
 
 | [4 different cities, 3 common themes - the 2016 Special Mention cities](/resources/features/four-different-cities/) |
