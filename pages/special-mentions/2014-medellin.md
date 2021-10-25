@@ -5,7 +5,7 @@ permalink: /medellin-special-mention/
 
 ***Medellín is recognised for the significant reduction of its homicide rates over the past few decades, leading to a safer, fairer and more equitable city.***
 
-![MetroCable in Medellín](/images/special-mentions/medellin.jpg)*MetroCable in Medellín. Photo © Urban Redevelopment Authority Singapore*
+![MetroCable in Medellín](/images/special-mentions/medellin.jpg)*MetroCable in Medellín © Urban Redevelopment Authority Singapore*
 
 **MEDELLÍN** is recognised for its outstanding urban transformation over the past 20 years[^1], notably its significant reduction of homicide rates from 380.6 per 100,000 inhabitants in 1991 to 52.3 per 100,000 inhabitants in 2012, or 86.2 percent reduction[^2]. This is achieved through a bold and visionary leadership, and social innovation through a series of small-scale but high-impact urban acupuncture projects to help tackle some of the city’s most critical issues, namely drug-related crimes, territorial gang conflicts, unemployment and social inequity.
 
