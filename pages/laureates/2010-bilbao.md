@@ -5,8 +5,7 @@ permalink: /bilbao/
 
 ***Bilbao is awarded the inaugural Prize in 2010 for its integrated and holistic approach in urban transformation.***
 
-![Aveneida de Abandoibarra](/images/laureates/bilbao.jpg)
-_Aveneida de Abandoibarra © BILBAO NEXT – Ayuntamiento de Bilbao_
+![Aveneida de Abandoibarra](/images/laureates/bilbao.jpg)*Aveneida de Abandoibarra. Photo © BILBAO NEXT – Ayuntamiento de Bilbao*
 
 **BILBAO** has been named the inaugural Lee Kuan Yew World City Prize Laureate in recognition of its integrated and holistic approach in urban transformation. Bilbao has demonstrated that urban regeneration can be a powerful social and economic driver to catalyse change, strengthen the urban fabric, inject vibrancy and improve the quality of life for its citizens. 
 
@@ -35,6 +34,15 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 -   **1980s - 1990s:** Restructuring of the city and economy.
 -   **1990s - 2000s:**  Consolidation of regeneration efforts and diversification of economies.
 -   **2000s onwards:**  Re-invention; focus on innovation, research and knowledge-based economy. **<font color="#967942">O</font>**
+
+---
+
+##### **City profile**
+
+| **Mayor** | Juan María Aburto (2015 - date) <br> Ibon Areso (2014 - 2015) <br> The late Iñaki Azkuna (1999 - 2014) | 
+| **Area** | 41.6km<sup>2</sup> |
+| **Population** | 346,332 people | 
+| **Density** | 8,446/km<sup>2</sup> |
 
 ---
 
