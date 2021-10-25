@@ -15,7 +15,7 @@ Over a sustained period, a succession of leaders has demonstrated the willingnes
 
 #### **Creative solutions despite limited resources**
 
-Working with limited resources, Medellín has devised alternative means of generating funds – the publicly-owned utilities company Empresas Publicas de Medellín (EPM) is a profitable entity that has successfully expanded operations beyond Colombian soil and channels about 30% of its annual profits to social investment projects – and implemented catalytic projects in strategic areas where they can bring about the greatest impact. 
+Working with limited resources, Medellín has devised alternative means of generating funds – the publicly-owned utilities company Empresas Publicas de Medellín (EPM) is a profitable entity that has successfully expanded operations beyond Colombian soil and channels about 30 percent of its annual profits to social investment projects – and implemented catalytic projects in strategic areas where they can bring about the greatest impact. 
 
 The creative and non-conventional solutions that include the world’s first cable car mass transport system, library parks that double as social nodes and urban escalators that greatly improved mobility in hilly neighbourhoods earned Medellín a Special Mention in 2014. Since then, the city has continued its relentless pursuit for social equity, competitiveness and sustainability, introducing several other long-term projects that further demonstrate its commitment to improving living conditions for its inhabitants, especially for the most disadvantaged segments of society. 
 
