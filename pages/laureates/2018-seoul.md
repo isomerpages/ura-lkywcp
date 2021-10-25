@@ -19,7 +19,7 @@ The city leaders understood that proper communication under the new circumstance
 
 #### **Seoul Plan 2030**
 
-The [**Seoul Plan 2030**](https://seoulsolution.kr/en/content/2030-seoul-plan) is a highly remarkable turning point in the city’s planning processes. Under Seoul's inspiring leadership, the city made the bold move to make citizen participation the norm of all plans, and bottom-up processes its primary focus. Ground-up processes are incorporated in day-to-day operations under the **Community Governance Project** where residents are given a say over local issues that affect their communities directly. Citizens can also decide the use of up to five percent of the entire city budget (or KRW 55.5 million) under the **Public Participatory Budget System**. 
+The [Seoul Plan 2030](https://seoulsolution.kr/en/content/2030-seoul-plan) is a highly remarkable turning point in the city’s planning processes. Under Seoul's inspiring leadership, the city made the bold move to make citizen participation the norm of all plans, and bottom-up processes its primary focus. Ground-up processes are incorporated in day-to-day operations under the Community Governance Project where residents are given a say over local issues that affect their communities directly. Citizens can also decide the use of up to five percent of the entire city budget (or KRW 55.5 million) under the Public Participatory Budget System. 
 
 Through regular monitoring and publishing of results in the press, and its exemplary use of big data in its decision-making to focus even on minute details, the city has ensured utmost transparency to its citizenry; no one is left out. The city not only managed to build trust with the citizens, but also assured them that engagement is not merely a token gesture, but one that will truly shape and reshape the future of the city.  
   
@@ -27,7 +27,7 @@ Through regular monitoring and publishing of results in the press, and its exemp
 
 Seoul, particularly in its urban core areas, demonstrates boldness in shifting away from car-oriented transportation to people-centric spaces, a challenge that many cities are struggling with today. Seoul recognises that the transition from private cars to mass transit is not an overnight task and tackles this through a comprehensive set of measures and the use of big data, to make public transport as seamless and convenient as possible. 
 
-Most notably, through the reclamation of public spaces for people from cars, such as the removal of an elevated highway to restore the former stream at **Cheonggyecheon**, the pedestrianisation of **Yonsei-ro**, and the conversion of the Seoul Station Overpass into [**Seoullo 7017**](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do) – a one kilometre-long lushly planted elevated walkway with pockets of activities along the way, the city sends a strong signal that the future of the city is one where people come first, not cars.  
+Most notably, through the reclamation of public spaces for people from cars, such as the removal of an elevated highway to restore the former stream at Cheonggyecheon, the pedestrianisation of Yonsei-ro, and the conversion of the Seoul Station Overpass into [Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do) – a one kilometre-long lushly planted elevated walkway with pockets of activities along the way, the city sends a strong signal that the future of the city is one where people come first, not cars.  
 
 #### **Development without demolition**
 
