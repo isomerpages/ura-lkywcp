@@ -46,6 +46,6 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **More resources**
 
-| **Commemorative video:** [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) | **Case study:** [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | 
-| **Case study:** [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) | **Feature:** [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
-| **Interview:** [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) | **Interview:** [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
+| **Commemorative video:** [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) | **Case study 1:** [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | 
+| **Case study 2:** [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) | **Feature 1:** [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
+| **Interview 1:** [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) | **Interview 2:** [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
