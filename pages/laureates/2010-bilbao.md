@@ -46,7 +46,7 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **Commemorative video**
 
-| [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) |
+| [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) | |
 
 ##### **Case studies**
 
@@ -54,7 +54,7 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **Features**
 
-| [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
+| [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) | |
 
 ##### **Interviews** 
 
