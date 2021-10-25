@@ -13,9 +13,9 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: 
+            - title: Prize Laureates
               description: 
-              url: 
+              url: /cities/laureates/
     - infobar:    
         title: The Prize
         subtitle: Established 2009
