@@ -14,7 +14,7 @@ sections:
         url: 
         key_highlights:
             - title: Prize Laureates
-              description: 2010 — 2018
+              description: 
               url: /cities/laureates/
     - infobar:    
         title: The Prize
