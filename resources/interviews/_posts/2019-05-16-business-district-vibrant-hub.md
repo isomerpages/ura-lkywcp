@@ -17,7 +17,7 @@ In the last 20 years, the Otemachi-Marunouchi-Yurakucho (OMY) district in Tokyo,
 
 Place-making efforts for the area took off from 2002 with the formation of the OMY Area Management Association, led by developer and land owner Mitsubishi Estate Co. Ltd which owns one third of the OMY area. This was set up against a backdrop of urban renewal efforts for the district and with an already growing private sector involvement through other groups (for example, the Council for Area Development and Management and the Advisory Committee on the OMY Area Development) that have shaped planning principles and guidelines for the area. 
 
-As a result of both renewal and place-making efforts, the number of retail shops has increased from 280 in 2002 to 870 in 2017. More are also visiting the district. In the weekends, pedestrian figures have more than doubled from about 23,250 in 2002 to 57,276 in 2016.<sup>1</sup>
+As a result of both renewal and place-making efforts, the number of retail shops has increased from 280 in 2002 to 870 in 2017. More are also visiting the district. In the weekends, pedestrian figures have more than doubled from about 23,250 in 2002 to 57,276 in 2016.[^1]
 
 Dr Miki Yasui, Vice-Chair of the Japan Area Management Network and Hiroaki Fujii from Mitsubishi Estate leading the OMY Area Management Association reflect on lessons learnt and how other areas in Japan are also catching on. 
 
@@ -39,7 +39,7 @@ The value of the building and the immediate area correlates with each other. Tak
 
 #### **How has the OMY district evolved and what has contributed to the change?** 
 
-**Hiroaki Fujii (HF):** The OMY district is located between the Tokyo Central Station and the Imperial Palace. It is at the very centre of Tokyo and Japan. Within a site area of 120 hectares, there are more than 100 buildings. 4,300 companies are located here with 280,000 workers<sup>2</sup>. It used to be an area that was mainly used for offices. But in the last 20 years, the area has changed to a more mixed-use district. Today, you can see lots of shops, cafés, restaurants, hotels, museums, fitness clubs — all kinds of facilities are available and many activities can be seen too. 
+**Hiroaki Fujii (HF):** The OMY district is located between the Tokyo Central Station and the Imperial Palace. It is at the very centre of Tokyo and Japan. Within a site area of 120 hectares, there are more than 100 buildings. 4,300 companies are located here with 280,000 workers[^2]. It used to be an area that was mainly used for offices. But in the last 20 years, the area has changed to a more mixed-use district. Today, you can see lots of shops, cafés, restaurants, hotels, museums, fitness clubs — all kinds of facilities are available and many activities can be seen too. 
 
 What has contributed to these changes is a shared vision for the district developed together between the public and private sectors. The vision also considers both the hardware and software of the city. It is not just about making a plan for the redevelopment of buildings but the plan has to also include the operational aspects in terms of how to generate and sustain vibrancy in the area. 
 
@@ -73,11 +73,6 @@ Another important aspect is to start with easier and lower-cost activities first
 
 **HF:** I hope that through place-making efforts, more of the city centre and local areas can be further connected to bring greater vitality to each of these areas. I would also like to involve more workers in place-making activities for the OMY district, to reflect more of their views in planning future events and programmes. **<font color="#967942">O</font>** 
 
-| Notes |
-|:---|
-| 1 | Pedestrian figures are based on research by Mitsubishi Estate on pedestrian traffic from 10:00 a.m. to 8:00 p.m. in 10 locations in the Marunouchi and Yurakucho areas. Retrieved from OMY Area Management Association publication, p4. |
-| 2 | Figures are calculated by the Council for Area Development and Management and the Advisory Committee using the economic census; data is as of April 2017. Retrieved from OMY Area Management Association publication, p3. |
-
 <br>
 
 <div style="width:150px"><img src="/images/features/2019/miki-yasui.png" alt="Miki Yasui" /></div>
@@ -93,3 +88,8 @@ Another important aspect is to start with easier and lower-cost activities first
 | Hiroaki Fujii is the General Manager of the Area Management Promotion Office under the Urban Development Promotion Department in Mitsubishi Estate Co. Ltd. He is also the executive officer of the OMY Area Management Association and the Japan Area Management Network. |
 
 ###### *This article was first published in Skyline Issue 11, 2019, March 2019 © Urban Redevelopment Authority. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
+
+---
+
+[^1]: Pedestrian figures are based on research by Mitsubishi Estate on pedestrian traffic from 10:00 a.m. to 8:00 p.m. in 10 locations in the Marunouchi and Yurakucho areas. Retrieved from OMY Area Management Association publication, p4.
+[^2]: Figures are calculated by the Council for Area Development and Management and the Advisory Committee using the economic census; data is as of April 2017. Retrieved from OMY Area Management Association publication, p3.
