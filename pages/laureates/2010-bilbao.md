@@ -50,8 +50,7 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **Case studies**
 
-| [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) |
-| [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) |
+| [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) |
 
 ##### **Features**
 
@@ -59,5 +58,4 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **Interviews** 
 
-| [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) |
-| [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
+| [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) | [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
