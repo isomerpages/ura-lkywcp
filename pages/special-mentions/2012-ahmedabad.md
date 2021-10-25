@@ -5,7 +5,7 @@ permalink: /ahmedabad/
 
 ***Ahmedabad is recognised for its early successes in implementing a comprehensive city plan that aims to transform itself into a more liveable, equitable and sustainable city.***
 
-![Ahmedabad](/images/special-mentions/ahmedabad.jpg)*The Bus Rapid Transit System in Ahmedabad. Photo © Ahmedabad Municipal Corporation*
+![Ahmedabad](/images/special-mentions/ahmedabad.jpg)*The Bus Rapid Transit System © Ahmedabad Municipal Corporation*
 
 **AHMEDABAD MUNICIPAL CORPORATION (AMC)** is recognised for its early successes in implementing a comprehensive City Development Plan, which aims to transform India’s seventh largest city into a more liveable, equitable and sustainable metropolis with a dynamic multi-sector economy and an emerging auto-hub. As it displays the first sign of dramatic physical transformation, Ahmedabad sends a message of hope to cities that are seeking to rise above the proliferating problems of pollution, worsening traffic conditions and inadequate affordable housing.
 
