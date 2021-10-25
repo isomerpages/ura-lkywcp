@@ -57,4 +57,4 @@ Secondly, given our limited budget, we have to source for other ways to finance 
 
 | **Tri Rismaharini** |
 |:---|
-| Tri Rismaharini, born in 1961, was elected Mayor of Surabaya in 2010. She belongs to Indonesia’s main opposition Democratic Party – Struggle (PDI-P), whose leader Megawati Sukarnoputri was the country’s president from 2001 to 2004. Prior to becoming Surabaya’s first citizen, Ms Risma, who has a degree in architecture, led the city’s parks department. In that role, she was active in rejuvenating the city’s parks and turning many derelict plots into green spaces. Once described by a Dutch writer as a ‘dirty city full of pretensions and greed’, Surabaya is now known as a ‘million-park’ city. |
+| Tri Rismaharini was elected as Mayor of Surabaya in 2010. She belongs to Indonesia’s main opposition Democratic Party – Struggle (PDI-P). Prior to becoming Surabaya’s first citizen, Ms Risma, who has a degree in architecture, led the city’s parks department. In that role, she was active in rejuvenating the city’s parks and turning many derelict plots into green spaces. |
