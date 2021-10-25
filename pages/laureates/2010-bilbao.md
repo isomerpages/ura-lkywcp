@@ -44,18 +44,8 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 | **Population** | 346,332 people | 
 | **Density** | 8,446 per km<sup>2</sup> |
 
-##### **Commemorative video**
+##### **More resources**
 
-| [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) | |
-
-##### **Case studies**
-
-| [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) |
-
-##### **Features**
-
-| [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) | |
-
-##### **Interviews** 
-
-| [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) | [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
+| **Commemorative video:** [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) | **Case study:** [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | 
+| **Case study:** [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) | **Feature:** [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
+| **Interview:** [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) | **Interview:** [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
