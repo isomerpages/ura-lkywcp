@@ -45,7 +45,9 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 </tbody>
 </table>
 
-#### **Past members**
+---
+
+##### **Past members**
 
 | **1** | **Mr S. Dhanabalan** <br> Former Chair, Temasek Holdings | 
 | **2** | **Dr Pierre Laconte** <br> Former President, ISOCARP | 
