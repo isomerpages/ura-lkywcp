@@ -3,7 +3,7 @@ title: Evaluations
 permalink: /nominations/evaluations/
 ---
 
-![Evaluation Process](/images/evaluation-process.jpg/)*Prof Wulf Daseking (left), and Dr Cheong Koon Hean (right). Photo © Urban Redevelopment Authority Singapore*
+![Evaluation Process](/images/evaluation-process.jpg/)*Prof Wulf Daseking (left), and Dr Cheong Koon Hean (right) © Urban Redevelopment Authority Singapore*
 
 #### **Evaluation process**
 
