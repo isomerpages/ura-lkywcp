@@ -39,7 +39,7 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 ##### **City profile**
 
-| **Mayor** | Oh Se-hoon (2021-date) <br> Seo Jung-hyup (2020-2021) <br> Late Park Won-soon (2011-2020) |
+| **Mayor** | Oh Se-hoon (2021 - date) <br> Seo Jung-hyup (2020 - 2021) <br> Late Park Won-soon (2011 - 2020) |
 | **Area** | 605.2 km<sup>2</sup> |
 | **Population** | 10,041,574 people | 
 | **Density** | 16,591 per km<sup>2</sup> |
