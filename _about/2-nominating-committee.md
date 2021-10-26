@@ -45,7 +45,9 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 </tbody>
 </table>
 
-#### **Past members**
+---
+
+##### **Past members**
 
 | **1** | **Prof Kishore Mahbubani** <br> Distinguished Fellow, Asian Research Institute |
 | **2** | **Prof Alan A. Altshuler** <br> Professor, Harvard Graduate School of Design | 
