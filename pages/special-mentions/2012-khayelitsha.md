@@ -3,7 +3,7 @@ title: 2012 Special Mention — Khayelitsha
 permalink: /khayelitsha/
 ---
 
-***AHT Group AG & Sun Development (Khayelitsha) are recognised for its prevention of violence through its comprehensive Urban Upgrading (VPUU) Programme.***
+***AHT Group AG & Sun Development (Khayelitsha) are recognised for its prevention of violence through their comprehensive Urban Upgrading (VPUU) Programme.***
 
 ![Khayelitsha](/images/special-mentions/khayelitsha.jpg)*Harare Urban Park © SUN Development*
 
