@@ -35,6 +35,10 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 **There is no entry fee required.**
 
+#### **Next step**
+
+- [Stage B](/nominations/stageb/)
+
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
