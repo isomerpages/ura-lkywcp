@@ -35,10 +35,6 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/about/prize-jury/prize-council/helen-clark/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/generic.png" alt="generic" /><br></td>
-<td><br><strong>Late Park Won-soon</strong><br />Former Mayor<br />Seoul<br />Republic of Korea</td>
-</tr>
-<tr>
 <td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
 <td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/about/prize-jury/prize-council/ilmar-reepalu/">Biography</a></td>
 </tr> 
@@ -56,3 +52,4 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 | **5** | **Mr John So** <br> Former Lord Mayor, Melbourne | 
 | **6** | **Mr Achim Steiner** <br> Administrator, United Nations Development Programme |
 | **7** | **Dr Qiu Baoxing** <br> Counsellor, State Council, China |
+| **8** | **Late Park Won-soon** <br> Former Mayor, Seoul |
