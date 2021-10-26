@@ -47,6 +47,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 
 #### **Past members**
 
-| Mr S Dhanabalan | Dr Pierre Laconte | Mr Fumihiko Maki |
-| Mr J Y Pillay | Mr John So | Mr Achim Steiner |
-| Dr Qiu Baoxing | | |
+| **Mr S Dhanabalan** <br> 2010-2012 | **Dr Pierre Laconte** <br> 2010-2012 | 
+| **Mr Fumihiko Maki** <br> 2010-2012 | **Mr J Y Pillay** <br> 2010-2018 | 
+| **Mr John So** <br> 2010-2012 | **Mr Achim Steiner** <br> 2010-2012 |
+| **Dr Qiu Baoxing** <br> 2014-2018 |
