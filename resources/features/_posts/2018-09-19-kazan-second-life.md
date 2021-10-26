@@ -72,17 +72,3 @@ Mayor Metshin’s administration is also overhauling the city’s “houses of c
 “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life. There is a constant dialogue of cultures and religions. People visit one another’s traditional festivities, and their appreciation does not stop at their own cultures, but extends to those of their neighbours,” said Ms Sannikova. 
 
 Looking back at Kazan’s journey, she offered this advice to other, struggling cities: “There have always been and will be difficulties. That is what keeps you alert and looking for the best solutions. The only way to overcome them is through a conscientious search for the best solutions, and partnership with society.” **<font color="#967942">O</font>**
-
-<br>
-
-<div style="width:150px"><img src="/images/features/2018/ilsur-metshin.png" alt="Ilsur Metshin" /></div>
-
-| **Ilsur Metshin** |
-|:---|
-| Ilsur Metshin graduated in law in 1991 from the Kazan State University. Between 1993 and 2005, he served in the administration of the Soviet district in Kazan, the Vakhitovkiy district the Nizhnekamsk region and the Nizhnekamsk city (Tatarstan). Deputy of the State Council of Tatarstan from 2000 to 2004, he was elected Mayor of Kazan in November 2005. Vice-President of UCLG and President of the Eurasia section of UCLG previously, he is Co-President of UCLG since 2010. Since 2006, Ilsur Metshin is also Vice-President of the Organization of World Heritage; the International Assembly of Capitals and Big Cities; and the Russian Alliance of Historical Cities and Regions. |
-
-<div style="width:150px"><img src="/images/features/2018/daria-sannikova.png" alt="Daria Sannikova" /></div>
-
-| **Daria Sannikova** |
-|:---|
-| Daria Sannikova has been working in the field of hospitality since 2006. Between 2010 and 2014, she worked as executive director of the Association of Restaurateurs and Hoteliers of Kazan and the Republic of Tatarstan. While Daria Sannikova remained in her position in with the Association of Restaurateurs and Hoteliers of Kazan, the number of participants in the Association went up by 50 enterprises. In 2013, she contributed greatly to the organisation of catering during the Universiade in Kazan. |
