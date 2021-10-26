@@ -39,7 +39,7 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **City profile**
 
-| **Mayor** | Juan María Aburto (2015-date) <br> Ibon Areso (2014-2015) <br> Late Iñaki Azkuna (1999-2014) | 
+| **Mayor** | Juan María Aburto (2015 - date) <br> Ibon Areso (2014 - 2015) <br> Late Iñaki Azkuna (1999 - 2014) | 
 | **Area** | 41.6 km<sup>2</sup> |
 | **Population** | 346,332 people | 
 | **Density** | 8,446 per km<sup>2</sup> |
