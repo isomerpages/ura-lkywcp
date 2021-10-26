@@ -23,10 +23,14 @@ The Prize is co-organised by the [Urban Redevelopment Authority of Singapore](/o
 
 The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore.
 
+#### **Prize Secretariat**
+
+| **Prize Secretary** | [Mr Larry Ng](/about/prize-secretary/) |
+| **Team** | Ms Yap Lay Bee <br> Mr Teng Joo Chong <br> Mr Damien Woon | 
+
 #### **More**
 
 - [Prize Laureates](/cities/laureates/)
-- [Prize Secretary](/about/prize-secretary/)
 - [Prize Partners](/prize-partners/)
 - [Contact us](/contact-us/) 
 - [Join our mailing list](https://go.gov.sg/newsletter)
