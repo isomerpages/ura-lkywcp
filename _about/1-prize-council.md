@@ -47,10 +47,10 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 
 #### **Past members**
 
-| **Mr S. Dhanabalan** | Chairman, Temasek Holdings (1996-2013) | 
-| **Dr Pierre Laconte** | President, ISOCARP (2006-2009) | 
+| **Mr S. Dhanabalan** | Former Chair, Temasek Holdings | 
+| **Dr Pierre Laconte** | Former President, ISOCARP | 
 | **Mr Fumihiko Maki** | Principal, Maki & Associates | 
-| **Mr J Y Pillay** | Chair, Council of Presidential Advisers Singapore (2005-2019) | 
-| **Mr John So** | Lord Mayor, Melbourne (2001-2008) | 
+| **Mr J Y Pillay** | Former Chair, Council of Presidential Advisers Singapore | 
+| **Mr John So** | Former Lord Mayor, Melbourne | 
 | **Mr Achim Steiner** | Administrator, United Nations Development Programme |
 | **Dr Qiu Baoxing** | Counsellor, State Council, China |
