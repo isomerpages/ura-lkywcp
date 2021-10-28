@@ -23,6 +23,10 @@ Tokyo is working towards a planned vision for its future. Under the [Action Plan
 
 ---
 
+##### **Video** 
+
+| [Interview: Junko Inokuma on Tokyo’s urban challenges](https://youtu.be/diI14SnXujM) (Watch on YouTube) |
+
 ##### **In pictures** 
 
 | [Tokyo in pictures - a megacity that works](/resources/in-pictures/tokyo/) |
