@@ -40,7 +40,11 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 ##### **Commemorative video** 
 
-| [Watch on YouTube](https://www.youtube.com/watch?v=JECzIhaxMlg) |
+<div class="bp-youtube">
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/JECzIhaxMlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 ##### **Case studies** 
 
