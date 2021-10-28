@@ -29,6 +29,11 @@ Auckland sends a message of exemplary significance to other cities that are seek
 
 ---
 
+##### **Videos** 
+
+| [Prize Forum 2016: Len Brown on Auckland's transformation](https://youtu.be/hip3JkAR0-k) (Watch on YouTube) |
+| [Interview: Ludo Campbell-Reid on Auckland's small projects to transform the city](https://youtu.be/37H5yfZjvWw) (Watch on YouTube) |
+
 ##### **In pictures** 
 
 | [Auckland in pictures - designing spaces, integrating people](/resources/in-pictures/auckland/) |
