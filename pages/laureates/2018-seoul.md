@@ -46,7 +46,11 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 ##### **Commemorative video**
 
-| [Watch on YouTube](https://www.youtube.com/watch?v=lpvnAsDj2dA) |
+<div class="bp-youtube">
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 ##### **In pictures** 
 
