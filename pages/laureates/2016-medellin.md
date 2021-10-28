@@ -52,6 +52,11 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 </div>
 
+##### **Videos** 
+
+| [2016 Special Lecture: Medellín's remarkable transformation](https://youtu.be/dcjTT8TAgTU) (Watch on YouTube) |
+| [Interview: Aníbal Gaviria on Medellín's winning strategies](https://youtu.be/UtIrcsydT14) (Watch on YouTube) |
+
 ##### **In pictures** 
 
 | [Medellín in pictures - model for urban innovations](/resources/in-pictures/medellin/) |
