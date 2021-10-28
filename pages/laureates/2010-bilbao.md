@@ -46,7 +46,11 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **Commemorative video** 
 
-| [Watch on YouTube](https://www.youtube.com/watch?v=R9aBW7yF0-0) | 
+<div class="bp-youtube">
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/R9aBW7yF0-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 ##### **Case studies** 
 
