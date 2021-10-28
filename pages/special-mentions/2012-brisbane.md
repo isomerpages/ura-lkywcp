@@ -21,4 +21,10 @@ URB continues to play a key role in implementing Brisbane’s strategic vision o
 
 ---
 
+#### **Video**
+
+- [Prize Forum 2012: Brisbane — a new world city (Watch on YouTube)](https://youtu.be/t5DTqiI0FgM)
+
+---
+
 [^1]: Up to 2012.
