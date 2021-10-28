@@ -23,4 +23,10 @@ Benefitting from an active citizenry bonded by a strong set of 'Vancouver Values
 
 ---
 
+##### **Video**
+
+- [Prize Forum 2012: Compact Living in Vancouver](https://youtu.be/mVczsRmHSmM) (Watch on YouTube) |
+
+---
+
 [^1]: Up to 2012. 
