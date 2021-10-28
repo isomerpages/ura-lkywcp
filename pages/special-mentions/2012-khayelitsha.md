@@ -18,3 +18,9 @@ The VPUU Programme addresses the most basic priority of urban policy -- personal
 Key to the achievements was the process of intense consultation with the residents of Khayelitsha, which led to an understanding of real needs and the subsequent ownership by residents. This firm support is the single most powerful engine that sustains the Programme. Furthermore, the team’s commitment and dedication to the cause is impressive, and affirms the positive value of good urban design in improving the basic quality of life.
 
 The scheme is already accepted by Cape Town for emulation in comparable areas and will soon be implemented in other South African cities. The potential for its emulation across Africa, the continent with the fastest-growing urban population worldwide, is almost incalculable. This achievement, despite its modest funding, is potentially one of the most important for cities across the developing world, and therefore deserving of exceptional recognition. **<font color="#967942">O</font>**
+
+---
+
+##### **Video**
+
+| [Prize Forum 2012: Cape Town — violence prevention through urban upgrading](https://youtu.be/39r96ZESjvU) (Watch on YouTube) |
