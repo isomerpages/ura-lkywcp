@@ -28,4 +28,6 @@ The remarkable level of collaboration to achieve successful outcomes demonstrate
 | [Prize Forum 2012: Copenhagen — solutions for green growth](https://youtu.be/rK0ZBFpX9KE) (Watch on YouTube) |
 | [Prize Forum 2012: Planning for sustainability — the Malmö way](https://youtu.be/8PjV07nCpkk) (Watch on YouTube) |
 
+---
+
 [^1]: Information correct as of 2012.
