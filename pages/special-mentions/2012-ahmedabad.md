@@ -20,3 +20,9 @@ One early success is the Bus Rapid Transit System (BRTS), which addresses the pu
 Equally visible is the 2008 Kankaria Lake redevelopment. This former dilapidated and polluted royal bathing ground is now a vibrant cultural and recreation centre after implementation of practical solutions to improve the environment, organise traffic movement and rehabilitate the food vendors. The Sabarmati Riverfront project, now in development, will have an even greater impact on the city as it addresses flood, sewage and water pollution issues, relocation and rehabilitation of slums, and the provision of new public and open spaces.
 
 AMC has distinguished itself as a forward-looking organisation and an inspiring model for sustainable development. Its early achievements reaffirm the importance of a clearly articulated and holistic vision combined with strong political will in tackling urban problems. **<font color="#967942">O</font>**
+
+---
+
+##### **Video**
+
+| [Prize Forum 2012: Practical solutions for Ahmedabad](https://youtu.be/AE4GNk6Ja-s) (Watch on YouTube) |
