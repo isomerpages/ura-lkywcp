@@ -1,8 +1,11 @@
 ---
 title: Nominating Committee
-permalink: /about/prize-jury/nominating-committee
-third_nav_title: Prize Jury
+permalink: /about/nominating-committee
 ---
+
+#### **Role of the Nominating Committee**
+
+The Nominating Committee reviews and examines submissions, and recommends potential Laureates to the [Prize Council](/about/prize-council/).
 
 #### **Chair of the Nominating Committee 2020**
 
@@ -10,7 +13,7 @@ third_nav_title: Prize Jury
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/cheong-koon-hean.png" alt="Cheong Koon Hean" /></td>
-<td><strong>Dr Cheong Koon Hean</strong><br />Chairman<br />Centre for Liveable Cities<br />Singapore<br><a href="/about/prize-jury/nominating-committee/cheong-koon-hean/">Biography</a></td>
+<td><strong>Dr Cheong Koon Hean</strong><br />Chair<br />Lee Kuan Yew Centre for Innovative Cities & Centre for Liveable Cities<br />Singapore<br><a href="/about/prize-jury/nominating-committee/cheong-koon-hean/">Biography</a></td>
 </tr>
 </tbody>
 </table>
@@ -41,3 +44,13 @@ third_nav_title: Prize Jury
 </tr>
 </tbody>
 </table>
+
+---
+
+##### **Past members**
+
+| **1** | **Prof Kishore Mahbubani** <br> Distinguished Fellow, Asian Research Institute |
+| **2** | **Prof Alan A. Altshuler** <br> Professor, Harvard Graduate School of Design | 
+| **3** | **Late Sir Peter Hall** <br> Former Professor, The Bartlett, University College London | 
+| **4** | **Dr Liu Thai Ker** <br> Founder, Morrow Architects and Planners |
+| **5** | **Dr Alfonso Vegara** <br> Founder & Honorary President, Fundación Metropoli |

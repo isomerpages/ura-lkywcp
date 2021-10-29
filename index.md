@@ -4,52 +4,48 @@ title: Lee Kuan Yew World City Prize
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
 image: /images/LKYWCP-logo.png
 permalink: /
-notification: The announcement of the 2020 Prize Laureate is postponed due to COVID-19 | <a href="/resources/news/covid19-advisory/">More info</a>
+notification: 
 sections:
     - hero:
-        title: Lee Kuan Yew World City Prize
-        subtitle: Honouring outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
-        background: /images/worldmap-hero3.jpg
-        button: About the Prize
-        url: /about/about-the-prize/
+        title: ﹒
+        subtitle: 
+        background: /images/worldmap-hero10.jpg
+        button: 
+        url: 
         key_highlights:
-            - title: Nominations
-              description: Nominations closed
-              url: /nominations/stagea/
-            - title: Resources 
-              description: Latest city-related features
-              url: /resources/
-            - title: Newsletter
-              description: Get our latest news in your inbox
-              url: https://go.gov.sg/newsletter
-    - carousel:
-        - title: Seoul
-          subtitle: 2018 Prize Laureate
-          description: Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.
-          image: /images/carousel/seoul.jpg
-          alt: Seoullo 7017
-        - title: Medellín 
-          subtitle: 2016 Prize Laureate
-          description: Medellín is recognised for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.
-          image: /images/carousel/medellin.jpg
-          alt: Medellín MetroCable
-        - title: Suzhou
-          subtitle: 2014 Prize Laureate
-          description: Suzhou is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage. 
-          image: /images/carousel/suzhou.jpg
-          alt: Suzhou 
-        - title: New York City
-          subtitle: 2012 Prize Laureate
-          description: New York City is recognised for its successful reinvention and rejuvenation of the city framed by PlaNYC - a  blueprint for a greater and greener city.
-          image: /images/carousel/nyc.jpg
-          alt: New York City Times Square
-        - title: Bilbao City Hall
-          subtitle: 2010 Prize Laureate
-          description: Bilbao City Hall is recognised for its integrated and holistic approach in urban transformation.
-          image: /images/carousel/bilbao.jpg
-          alt: Bilbao City Hall
+            - title: Prize Laureates
+              description: 
+              url: /cities/laureates/
+    - infobar:    
+        title: The Prize
+        subtitle: Established 2009
+        description: The Lee Kuan Yew World City Prize is a biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
+        button: Find out more    
+        url: /about/about-the-prize/
+    - infopic:
+        title: Post-pandemic cities - how will they shape up?
+        subtitle: Article spotlight
+        description: What are some of the key focuses of cities in a post-pandemic world? We look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.
+        button: Read More
+        url: /resources/features/post-pandemic-cities/
+        image: /images/features/2021/nyc-equality.jpg
+        alt: Post-pandemic cities
+    - infopic:
+        title: Elevating quality of life through sports
+        subtitle: City case study — Kazan
+        description: Kazan leveraged on international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to quickly improve the health of its people, elevate its quality of life and become the sports capital of Russia.
+        button: Read More
+        url: /resources/case-studies/kazan-sports/
+        image: /images/features/2021/mayor-sports.jpg
+        alt: Kazan
+    - infobar:    
+        title: Subscribe now
+        subtitle: Join our mailing list
+        description: Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
+        button: Click here   
+        url: https://go.gov.sg/newsletter
     - resources:
         title: 
-        subtitle: Latest city-related resources
-        button: More resources
+        subtitle: Fresh content
+        button: More articles
 ---

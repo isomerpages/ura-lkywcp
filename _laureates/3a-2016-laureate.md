@@ -8,7 +8,7 @@ third_nav_title: 2016
 |---:|
 | Medellín | 
 
-***Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.***
+***Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.***
 
 ![Medellín](/images/laureates/medellin.jpg)
 _Connecting marginalised hillside communities to the rest of the city with the MetroCable in Medellín 
@@ -30,6 +30,7 @@ Medellín has come a long way from its past, sending a powerful signal that incl
 
 #### **More resources** 
 
-| **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=P5BzIa90x1A) |
+| **Video** | - [Watch on YouTube](https://www.youtube.com/watch?v=P5BzIa90x1A) |
 | **In pictures** | - [Medellín in pictures - model for urban innovations](/resources/in-pictures/medellin/) |
-| **Features** | - [Medellín transformed - from murder capital to model city](/resources/features/medellin-transformed/) <br> - [Transforming barrios, transforming Medellín](/resources/features/transforming-barrios-transforming-medellin/) <br> - [Reaching high and moving up - Medellín's mountains of achievements](/resources/features/reaching-high-moving-up/) <br> - [Safe, smart and connected - Medellín moves forward as a city of innovation](/resources/features/safe-smart-connected/) <br> - [Medellín – a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) |
+| **Case studies** | - [From illegal settlers to city gardeners](/resources/case-studies/circumvent-garden/) <br> - [Participatory design from concept to operations](/resources/case-studies/uva/) <br> - [Connecting people to opportunities](/resources/case-studies/metrocable/) |
+| **Features** | - [Medellín transformed - from murder capital to model city](/resources/features/medellin-transformed/) <br> - [Transforming barrios, transforming Medellín](/resources/features/transforming-barrios-transforming-medellin/) <br> - [Reaching high and moving up - Medellín's mountains of achievements](/resources/features/reaching-high-moving-up/) <br> - [Safe, smart and connected - Medellín moves forward as a city of innovation](/resources/features/safe-smart-connected/) <br> - [Medellín – a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) <br> - [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |

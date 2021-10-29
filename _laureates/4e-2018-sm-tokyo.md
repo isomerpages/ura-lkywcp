@@ -23,5 +23,6 @@ As Tokyo moves towards hosting the Tokyo Summer Olympics 2020, it has in place a
 #### **More resources**
 
 | **In pictures** | - [Tokyo in pictures - a megacity that works](/resources/in-pictures/tokyo/) |
+| **Case study** | - [Keeping the megacity on the move](/resources/case-studies/tokyo-rail-network/) |
 | **Features** | - [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) <br> - [Tokyo - the power of people-public-private partnerships](/resources/features/people-public-private-partnerships/) |
 | **Interviews** | - [Tokyo's CBD - from business district to vibrant hub](/resources/interviews/business-district-vibrant-hub/) |

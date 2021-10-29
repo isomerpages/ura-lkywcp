@@ -41,7 +41,7 @@ I am proud of the outcome of the project as well as the enthusiastic spirit that
 
 <br>
 
-<div style="width:150px"><img src="/images/features/2019/winy-maas.jpg" alt="Winy Maas" /></div>
+<div style="width:150px"><img src="/images/features/2019/winy-maas.png" alt="Winy Maas" /></div>
 
 | **Winy Maas** |
 |:---|

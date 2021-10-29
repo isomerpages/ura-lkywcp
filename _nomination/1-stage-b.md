@@ -1,38 +1,38 @@
 ---
-title: Stage B Submissions
+title: Stage B
 permalink: /nominations/stageb/
 ---
 
-# **Stage B submissions closed**
+# **Stage B closed**
 
 #### **Important note:** The next cycle of the Prize is delayed due to COVID-19. Watch this space for news of further developments, or subscribe to our monthly newsletter: [go.gov.sg/newsletter](https://go.gov.sg/newsletter).
 
 ---
 
-The Lee Kuan Yew World City Prize is **awarded to cities only**. To proceed to Stage B, your city must first be nominated for [Stage A](/nominations/stagea).
+The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete [Stage A](/nominations/stagea) before proceeding.
 
-#### **Stage B submissions**
+#### **Stage B**
 
-The nominated city will be informed via email to prepare and submit a detailed report using official templates. This report comprises the following: 
+After completing [Stage A](//nominations/stagea), the nominated city will be informed to prepare and submit a detailed report using the official report template. This report comprises the following: 
 
 - Key statistics comparing the city today and 10-20 years ago 
-- Background of the city 
-- Explanation of the city’s overall master plan or strategy
-- A selection of three (3) key projects covering different aspects to demonstrate the success in implementing the master plan or strategy 
+- Background information on the city 
+- Elaboration of the overall master plan/strategy
+- A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy 
 - Key visuals (photos, diagrams, charts, etc.) 
 - 2-5 reference letters written and signed by independent third parties
 - *Optional: supporting documents such as city reports, media reports, accolades, etc.*
 
-**Cities should note that this report may require some time and resources to complete. An incomplete report may render the submission invalid.** 
+**Please note that this report may require some time and resources to complete.** 
 
 #### **Important notes**
 
-- Cities that have submitted for previous cycles of the Prize will need to make fresh submissions as reports and materials submitted previously will not be considered.
-- The city shall be responsible for the timely delivery of all submission materials. 
-- The Prize Secretariat reserves the right to disqualify any submission that is incomplete, and/or not prepared according to the guidelines above. 
-- The Prize Secretariat may arrange for site visits to the city where necessary. All costs for such a visit shall be borne by the Prize Secretariat. 
-- The Prize Secretariat may request for additional detailed information where necessary. 
-- The Prize Secretariat will retain all submitted digital media and reserves the right to use them for all Lee Kuan Yew World City Prize related publicity collaterals and activities (e.g. exhibitions, lectures, publications, website, etc.). 
+- A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
+- Please ensure the timely delivery of all submission materials. 
+- An incomplete report or a submission that is not prepared using the official report template may be considered invalid. 
+- The Prize Secretariat shall arrange and pay for in-person jury travels to the city where necessary. 
+- The Prize Secretariat shall also request for additional detailed information where necessary. 
+- The Prize Secretariat shall retain all submitted materials and use them for the Prize publicity and activities, such as exhibitions, lectures, publications, website, etc., at their discretion and with credits to the respective authors. 
 
 #### **Questions?**
 

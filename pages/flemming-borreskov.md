@@ -3,7 +3,7 @@ title: Biography - Flemming Borreskov
 permalink: /about/prize-jury/prize-council/flemming-borreskov/
 ---
 
-<div style="width:150px"><img src="/images/jury/flemming-borreskov.jpg" alt="Flemming Borreskov" /></div>
+<div style="width:150px"><img src="/images/jury/flemming-borreskov.png" alt="Flemming Borreskov" /></div>
 
 **Mr Flemming Borreskov**<br>
 President, Catalytic Society, Denmark

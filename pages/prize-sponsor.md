@@ -1,6 +1,6 @@
 ---
 title: Prize Sponsor
-permalink: /about/prize-sponsor/
+permalink: /prize-sponsor/
 ---
 
 <div style="width:300px"><img src="/images/kepcorp.jpg" alt="Keppel Corporation" /></div>

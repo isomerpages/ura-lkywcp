@@ -2,7 +2,7 @@
 title: Looking east and west - Vienna at the crossroads
 permalink: /resources/features/vienna-at-crossroads/
 image: /images/features/2017/vienna-danube.jpg
-description: Vienna’s progress in environmental stewardship, an example of which is the visionary flood management of the Danube River, has earned it a Special Mention in the Lee Kuan Yew World City Prize 2016. We speak to Walter Kling, Deputy Managing Director of Vienna Water to learn about the experience and the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.  
+description: Vienna’s progress in environmental stewardship, an example of which is the visionary flood management of the Danube River, has earned it a Special Mention in the Lee Kuan Yew World City Prize 2016. Learn more about the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.  
 ---
 
 | Author |
@@ -62,11 +62,3 @@ This reorientation is perhaps best seen in Vienna’s new Hauptbahnhof or main t
 “You need to look in both directions: East and West,” remarked Kling of Vienna’s current geopolitical and economic outlook. “We are very well-located – people took the opportunity to live here, and companies set up branches to service other parts of Europe, so suddenly we found ourselves in completely new circumstances with new opportunities and challenges.”
 
 Looking ahead, Kling pointed out that Vienna’s rapid population growth will make it increasingly challenging to maintain its high environmental standards. “We cannot be green and build a lot of new houses,” he said of this dilemma between growth and environmental sustainability. Finding a balance will be one of the city’s “biggest tasks” in the future, and Kling concluded, “This has to be handled in a way where we still keep the outcomes of an Environmental Model City.” **<font color="#967942">O</font>**
-
-<br>
-
-<div style="width:150px"><img src="/images/features/2017/walter-kling.png" alt="Walter Kling" /></div>
-
-| **Walter Kling** |
-|:---|
-| Walter Kling is the Deputy Managing Director at the Municipal Department 31 of the City of Vienna, better known as Vienna Waterworks. He was born in Vienna, Austria and studied environmental engineering with a special focus on water-management and later enrolled at the University of Natural Resources and Life Sciences in Vienna. |

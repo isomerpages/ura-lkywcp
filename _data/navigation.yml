@@ -11,9 +11,9 @@ links:
     collection: about
   - title: Nominations
     collection: nomination
-  - title: Laureates
-    collection: laureates
+  - title: Cities
+    collection: cities
   - title: Resources
     resource_room: true
-  - title: Newsletter
+  - title: Subscribe
     url: https://go.gov.sg/newsletter

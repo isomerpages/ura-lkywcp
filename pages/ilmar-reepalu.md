@@ -3,7 +3,7 @@ title: Biography - Ilmar Reepalu
 permalink: /about/prize-jury/prize-council/ilmar-reepalu/
 ---
 
-<div style="width:150px"><img src="/images/jury/ilmar-reepalu.jpg" alt="Ilmar Reepalu" /></div>
+<div style="width:150px"><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /></div>
 
 **Mr Ilmar Reepalu**<br>
 Vice President, Swedish Association of Local Authorities and Regions, Sweden

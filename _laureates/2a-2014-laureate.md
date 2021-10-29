@@ -33,6 +33,6 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 #### **More resources**
 
-| **Commemorative video** | - [Watch on YouTube](https://www.youtube.com/watch?v=JECzIhaxMlg) |
+| **Video** | - [Watch on YouTube](https://www.youtube.com/watch?v=JECzIhaxMlg) |
 | **Case studies** | - [1-for-3 housing policy at Stone Lake District](/resources/case-studies/1-for-3-housing/) <br> - [Balancing the old and new](/resources/case-studies/pingjiang-historic-district/) <br> - [Inclusive social policies in Suzhou](/resources/case-studies/inclusive-social-policies-suzhou/) |
 | **Features** | - [Epitomising liveable and sustainable cities - the Suzhou story](/resources/features/epitomising-liveable-sustainable-cities/) <br> - [A marriage of culture and commerce – the Suzhou success story](/resources/features/marriage-culture-commerce/) |

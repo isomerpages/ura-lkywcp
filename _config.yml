@@ -7,10 +7,11 @@ collections:
     output: true
   nomination:
     output: true
-  laureates:
+  cities:
     output: true
 google_analytics: UA-48396056-10
 resources_name: resources
+is_government: false
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

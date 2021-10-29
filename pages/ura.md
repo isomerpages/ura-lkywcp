@@ -1,7 +1,6 @@
 ---
 title: Urban Redevelopment Authority
-permalink: /about/organisers/ura/
-third_nav_title: Organisers
+permalink: /organiser/ura/
 ---
 
 <div style="width:300px"><img src="/images/uralogo.png" alt="Urban Redevelopment Authority" /></div>
