@@ -23,10 +23,10 @@ Vienna is already widely recognised as one of the most liveable cities in the wo
 
 ---
 
-##### **Videos** 
+##### **YouTube videos** 
 
-| [Prize Forum 2016: Walter Kling on Vienna's ambitious pursuits](https://youtu.be/CAyC_oThxNA) (Watch on YouTube) |
-| [Interview: Walter Kling on Vienna's environmental stewardship](https://youtu.be/mldnlrUZunE) (Watch on YouTube) |
+| ▶️ [Prize Forum 2016: Walter Kling on Vienna's ambitious pursuits](https://youtu.be/CAyC_oThxNA) |
+| ▶️ [Interview: Walter Kling on Vienna's environmental stewardship](https://youtu.be/mldnlrUZunE) |
 
 ##### **In pictures** 
 
