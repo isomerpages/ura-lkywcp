@@ -52,6 +52,10 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 </div>
 
+##### **YouTube videos**
+
+| ▶️ [How culture transformed the reality of Bilbao](https://youtu.be/MF2GgaM5PD4) |
+
 ##### **Case studies** 
 
 | [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | 
