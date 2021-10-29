@@ -29,6 +29,10 @@ The involvement and commitment of both the people and the Mayor working closely 
 
 ---
 
+##### **YouTube videos** 
+
+| ▶️ [Interview: Tri Rismaharini at WCS 2018](https://youtu.be/PeJOmIZsSY4) |
+
 ##### **In pictures** 
 
 | [Surabaya in pictures - a modern kampung city](/resources/in-pictures/surabaya/) |
