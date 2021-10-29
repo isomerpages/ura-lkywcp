@@ -21,6 +21,6 @@ The scheme is already accepted by Cape Town for emulation in comparable areas an
 
 ---
 
-##### **Video**
+##### **YouTube videos**
 
-| [Prize Forum 2012: Cape Town — violence prevention through urban upgrading](https://youtu.be/39r96ZESjvU) (Watch on YouTube) |
+| ▶️ [Prize Forum 2012: Cape Town — violence prevention through urban upgrading](https://youtu.be/39r96ZESjvU) |
