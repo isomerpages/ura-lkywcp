@@ -23,6 +23,6 @@ AMC has distinguished itself as a forward-looking organisation and an inspiring 
 
 ---
 
-##### **Video**
+##### **YouTube videos**
 
-| [Prize Forum 2012: Practical solutions for Ahmedabad](https://youtu.be/AE4GNk6Ja-s) (Watch on YouTube) |
+| ▶️ [Prize Forum 2012: Practical solutions for Ahmedabad](https://youtu.be/AE4GNk6Ja-s) |
