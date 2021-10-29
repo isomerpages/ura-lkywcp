@@ -54,11 +54,11 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 ##### **YouTube videos** 
 
-| [2016 Special Lecture: Medellín's remarkable transformation](https://youtu.be/dcjTT8TAgTU) |
-| [Interview: Aníbal Gaviria on Medellín's winning strategies](https://youtu.be/UtIrcsydT14) |
-| [Medellín's Commune 13](https://youtu.be/LBFrfy7aQFs) |
-| [Medellín's Commune 10](https://youtu.be/7eeiOgC8FKg) |
-| [Interview: Federico Gutiérrez on Citizen Participation](https://youtu.be/BdZR6HdtcSI) |
+| ▶️ [2016 Special Lecture: Medellín's remarkable transformation](https://youtu.be/dcjTT8TAgTU) |
+| ▶️ [Interview: Aníbal Gaviria on Medellín's winning strategies](https://youtu.be/UtIrcsydT14) |
+| ▶️ [Medellín's Commune 13](https://youtu.be/LBFrfy7aQFs) |
+| ▶️ [Medellín's Commune 10](https://youtu.be/7eeiOgC8FKg) |
+| ▶️ [Interview: Federico Gutiérrez on Citizen Participation](https://youtu.be/BdZR6HdtcSI) |
 
 ##### **In pictures** 
 
