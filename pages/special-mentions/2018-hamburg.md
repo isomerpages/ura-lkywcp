@@ -33,7 +33,7 @@ Hamburg is also commendable for its push towards sustainable urban development t
 
 | [Hamburg in pictures - a welcoming city of opportunities](/resources/in-pictures/hamburg/) |
 
-##### **Case study** 
+##### **Case studies** 
 
 | [Creating a city-within-a-city](/resources/case-studies/hafencity/) |
 
