@@ -25,9 +25,10 @@ Kazan is highly remarkable as a city of diverse cultures, comprising 115 differe
 
 ---
 
-##### **Video** 
+##### **YouTube videos** 
 
-| [Interview: Daria Sannikova on sports, health and diversity in Kazan](https://youtu.be/YFreQgCcH0Y) (Watch on YouTube) |
+| ▶️ [Interview: Daria Sannikova on sports, health and diversity in Kazan](https://youtu.be/YFreQgCcH0Y) |
+| ▶️ [Interview: Taliya Minullina on balancing the old and new needs of Kazan](https://youtu.be/Oof5H0VZcKU) |
 
 ##### **In pictures** 
 
