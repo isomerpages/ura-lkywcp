@@ -23,4 +23,10 @@ The city is also a leader in partnering the industry to develop smart technologi
 
 ---
 
+##### **YouTube videos**
+
+| ▶️ [Nobuya Suzuki on driving change in Yokohama](https://youtu.be/Wqz9FdIgeIE) |
+
+---
+
 [^1]: Up to 2014.
