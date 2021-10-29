@@ -25,10 +25,10 @@ Despite limited support from the Federal and Provincial governments and a ‘wea
 
 ---
 
-##### **Videos** 
+##### **YouTube videos** 
 
-| [Prize Forum 2016: Christopher Glaisek on Toronto's waterfront rejuvenation](https://youtu.be/yAqzKa_81ao) (Watch on YouTube) |
-| [Interview: Christopher Glaisek on transforming Toronto's waterfront](https://youtu.be/XjGd4i9jIo0) (Watch on YouTube) |
+| ▶️ [Prize Forum 2016: Christopher Glaisek on Toronto's waterfront rejuvenation](https://youtu.be/yAqzKa_81ao) |
+| ▶️ [Interview: Christopher Glaisek on transforming Toronto's waterfront](https://youtu.be/XjGd4i9jIo0) |
 
 ##### **In pictures** 
 
