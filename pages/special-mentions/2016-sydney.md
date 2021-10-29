@@ -25,10 +25,10 @@ Sydney’s transformation is a testament to the dynamic leadership of Lord Mayor
 
 ---
 
-##### **Videos** 
+##### **YouTube videos** 
 
-| [Prize Forum 2016: Louise Kerr on Sydney's plans and engagements](https://youtu.be/ZIp9r_VRTO8) (Watch on YouTube) |
-| [Interview: Louise Kerr on Sydney's engagement process](https://youtu.be/jhOuge9eupQ) (Watch on YouTube) |
+| ▶️ [Prize Forum 2016: Louise Kerr on Sydney's plans and engagements](https://youtu.be/ZIp9r_VRTO8) |
+| ▶️ [Interview: Louise Kerr on Sydney's engagement process](https://youtu.be/jhOuge9eupQ) |
 
 ##### **Features** 
 
