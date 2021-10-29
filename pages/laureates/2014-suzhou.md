@@ -48,8 +48,8 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 ##### **YouTube videos**
 
-| ▶️ [Interview: Mr Xu Ming on Suzhou's success](https://youtu.be/BfundZYEuns) |
-| ▶️ [2014 Prize Laureate: Suzhou, Jiangsu Province](https://youtu.be/euhujVJ3L0k) |
+| ▶ [Interview: Mr Xu Ming on Suzhou's success](https://youtu.be/BfundZYEuns) |
+| ▶ [2014 Prize Laureate: Suzhou, Jiangsu Province](https://youtu.be/euhujVJ3L0k) |
 
 ##### **Case studies** 
 
