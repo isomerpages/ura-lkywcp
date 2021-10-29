@@ -46,6 +46,10 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 </div>
 
+##### **Video**
+
+| [Interview: Mr Xu Ming on Suzhou's success](https://youtu.be/BfundZYEuns) (Watch on YouTube) |
+
 ##### **Case studies** 
 
 | [1-for-3 housing policy at Stone Lake District](/resources/case-studies/1-for-3-housing/) |
