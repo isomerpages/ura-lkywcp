@@ -11,7 +11,7 @@ permalink: /nominations/stageb/
 
 The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete [Stage A](/nominations/stagea) before proceeding.
 
-#### **Stage B**
+#### **Detailed written report**
 
 After completing [Stage A](//nominations/stagea), the nominated city will be informed to prepare and submit a detailed report using the official report template. This report comprises the following: 
 
