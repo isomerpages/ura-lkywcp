@@ -25,7 +25,7 @@ After completing [Stage A](//nominations/stagea), the nominated city will be inf
 
 **Please note that this report may require some time and resources to complete.** 
 
-#### **Important notes**
+#### **Information for the nominated city**
 
 - A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
 - Please ensure the timely delivery of all submission materials. 
