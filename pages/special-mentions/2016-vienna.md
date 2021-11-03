@@ -5,7 +5,7 @@ permalink: /vienna/
 
 ***Vienna is recognised for taking the lead in protecting the environment and its rich cultural heritage while elevating the quality of life.***
 
-![The Danube River and Danube Island](/images/special-mentions/vienna.jpg)*The Danube River and Danube Island © Vienna*
+![The Danube River and Danube Island](/images/special-mentions/vienna.jpg)*The Danube River and Danube Island © trabantos/Shutterstock.com*
 
 **VIENNA** is recognised as an excellent example of a very old city that has successfully transformed itself from being a backend city of Western Europe to a highly liveable, innovative and green city that it is today, while protecting its rich heritage, especially in its well-maintained historical city centre. Despite the limited changes that the city can make due to its [UNESCO World Heritage Site status](https://whc.unesco.org/en/list/1033/), Vienna has injected vibrancy through focused developments that will have impacts across the entire city, such as the new Wien Hauptbahnhof (Vienna’s central train station) in one of 13 key areas, identified under its [STEP 2025 Urban Development Plan](https://www.wien.gv.at/stadtentwicklung/studien/pdf/b008379b.pdf). In so doing, the city continually innovates itself and moves away from the 'museum city' archetype that many of its peers similarly rooted in history suffer from.
 
