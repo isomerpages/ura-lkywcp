@@ -5,7 +5,7 @@ permalink: /suzhou/
 
 ***Suzhou is awarded the 2014 Prize for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage.***
 
-![Suzhou](/images/laureates/suzhou.jpg)*Skyline of Jinji Lake Central Business District © Department of Publicity of Suzhou Industrial Park*
+###### ![Suzhou](/images/laureates/suzhou.jpg)*Skyline of Jinji Lake Central Business District © Department of Publicity of Suzhou Industrial Park*
 
 **SUZHOU** has undergone remarkable transformation over the past two decades. The significance of its transformation lies in the city’s success in meeting the multiple challenges of achieving economic growth in order to create jobs and a better standard of living for its people; balancing rapid urban growth with the need to protect its cultural and built heritage; and coping with a large influx of migrant workers while maintaining social stability.
 
