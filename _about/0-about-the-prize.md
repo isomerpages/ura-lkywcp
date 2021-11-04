@@ -23,7 +23,7 @@ The Prize is co-organised by the [Urban Redevelopment Authority of Singapore](/o
 
 #### **Visual identity**
 
-The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore. <b><font color="#967942">○</font></b>
+The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore. <b><font color="#967942">O</font></b>
 
 ---
 
