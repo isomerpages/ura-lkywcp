@@ -5,7 +5,7 @@ permalink: /medellin/
 
 ***Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.***
 
-![Medellín](/images/laureates/medellin.jpg)*The MetroCable © Municipality of Medellín*
+###### ![Medellín](/images/laureates/medellin.jpg)*The MetroCable © Municipality of Medellín*
 
 **MEDELLÍN** tells the compelling story of a city which has transformed itself from a notoriously violent city to one that is being held up as a model for urban innovation within a span of just two decades. Today, Medellín is a city that celebrates life – resolute in its commitment to create a more just, more human, freer and happier home for its inhabitants. 
 
