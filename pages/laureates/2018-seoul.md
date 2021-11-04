@@ -5,7 +5,7 @@ permalink: /seoul/
 
 ***Seoul is awarded the 2018 Prize for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.*** 
 
-![Seoul](/images/laureates/seoul.jpg)*Seoullo 7017 © Seoul Metropolitan Government*
+###### ![Seoul](/images/laureates/seoul.jpg)*Seoullo 7017 © Seoul Metropolitan Government*
 
 **SEOUL** is recognised as the role model for megacities with a will to change. With a leadership that dares to take bold decisions and a government that devises innovative problem-solving methods, the city has successfully turned itself around from a highly bureaucratic top-down city with rising tensions between the government and its people, into the inclusive, socially stable, and highly innovative city found today. As shown in Seoul’s successful and impactful high quality projects to repurpose urban infrastructure, the city has proven itself as an excellent example where leadership, commitment to citizen engagement, data-supported problem-solving decisions, and creative designs can transform the built environment, add vibrancy and improve quality of life.  
   
