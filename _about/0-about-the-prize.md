@@ -13,7 +13,7 @@ The Prize Laureate will be presented with an award certificate, a gold medallion
 
 > "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
 
-##### - **Dr Cheong Koon Hean** <br> Chair, Nominating Committee 2020
+###### - **Dr Cheong Koon Hean** <br> Chair, Nominating Committee 2020
 
 #### **A fitting tribute**
 
