@@ -43,6 +43,7 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 | **Area** | 41.6 km<sup>2</sup> |
 | **Population** | 346,332 people | 
 | **Density** | 8,446 per km<sup>2</sup> |
+| **Master strategy** | [Mandate Plan 2019-2023](https://www-bilbao-eus.translate.goog/cs/Satellite?c=Page&cid=1279123253052&language=en&pageid=1279123253052&pagename=Bilbaonet/Page/BIO_contenidoFinal&_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) |
 
 ##### **Commemorative video** 
 
