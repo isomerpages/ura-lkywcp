@@ -11,6 +11,9 @@ To facilitate the sharing of best practices in urban solutions that are easily r
 
 The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Corporation](/prize-sponsor/).
 
+> "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
+> ##### -- Dr Cheong Koon Hean
+
 #### **A fitting tribute**
 
 The Prize is named after Singapore’s first Prime Minister. Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
