@@ -9,15 +9,15 @@ permalink: /about/about-the-prize/
 
 The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
 
+> "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
+
+<div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee 2020</div>
+
 #### **Practical solutions**
 
 To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. 
 
 Through this Prize, Singapore hopes to promote exemplary thought-leadership and exchange of ideas among cities, so as to spur further innovation in the area of sustainable urban development.
-
-> "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
-
-<div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee 2020</div>
 
 The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Corporation](/prize-sponsor/).
 
