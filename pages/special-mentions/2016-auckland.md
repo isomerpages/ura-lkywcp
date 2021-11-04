@@ -5,8 +5,7 @@ permalink: /auckland/
 
 ***Auckland is recognised for overcoming planning challenges through a highly integrated and innovative governance model.***
 
-![Auckland](/images/special-mentions/auckland.jpg)
-<div align="right"><i>Nelson Street Cycleway © ChameleonsEye/Shutterstock.com</i></div>
+###### ![Auckland](/images/special-mentions/auckland.jpg)*Nelson Street Cycleway © ChameleonsEye/Shutterstock.com*
 
 **AUCKLAND** is recognised for overcoming its planning challenges faced over the last 20 years[^1], notably through a highly integrated and innovative governance model. Prior to 2010, the city suffered from a fractured and dysfunctional planning system with the governance structure consisting of seven city authorities and one regional council. The disconnected governance structure hindered the alignment of vision across districts, and created infrastructure deficits, complex decision-making and incoherent planning outcomes for the city. 
 
