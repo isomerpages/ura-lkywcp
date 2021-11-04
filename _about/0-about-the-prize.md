@@ -12,7 +12,7 @@ To facilitate the sharing of best practices in urban solutions that are easily r
 The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Corporation](/prize-sponsor/).
 
 > "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
-> ##### -- Dr Cheong Koon Hean
+##### - **Dr Cheong Koon Hean** <br> Chair, Nominating Committee 2020
 
 #### **A fitting tribute**
 
