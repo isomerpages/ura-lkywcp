@@ -11,7 +11,7 @@ description: What are some of the key focuses of cities in a post-pandemic world
 
 ***What are some of the key focuses of cities in a post-pandemic world? In this first of a two-part series, we take a look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.***
 
-![Three cities forging ahead post-pandemic](/images/features/2021/post-pandemic-cities.png/)*Let's look at three cities forging ahead post-pandemic © raker/Shutterstock.com, additional text: Editor's own*
+![Three cities forging ahead post-pandemic](/images/features/2021/post-pandemic-cities.png/)*Let's look at three cities forging ahead post-pandemic © petovarga/Shutterstock.com, additional text: Editor's own*
 
 At the forefront of the fight against the COVID-19 pandemic, many cities have put in place measures to protect residents, such as widening sidewalks or closing streets to give them more space for distancing. Others have also launched initiatives to take care of lower-income and other vulnerable citizens hit harder by the crisis, including those who are unable to provide for themselves and their families due to their reduced working hours or job losses. 
 
