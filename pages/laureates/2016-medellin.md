@@ -43,6 +43,11 @@ It is noted that key challenges remain, particularly the shortage of social hous
 | **Area** | 382.0 km<sup>2</sup> |
 | **Population** | 2,376,337 people | 
 | **Density** | 6,220 per km<sup>2</sup> |
+| **Master strategy** | [Medellín Future Development Plan 2020-2023](https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=contenido/6899-Plan-de-Desarrollo-2020---2023--Gaceta-oficial---Medellin-Futuro) |
+
+Con este documento queremos configurar un horizonte de acción con impactos de corto, mediano y largo plazo, que posibiliten un territorio tranquilo y una vida digna. A demás que Medellín se transforme en una ciudad de vanguardia: sostenible ambiental y socialmente, competitiva en la economía global y equitativa en sus territorios.
+
+
 
 ##### **Commemorative video** 
 
