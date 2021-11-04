@@ -23,7 +23,7 @@ The Prize Laureate will be presented with an award certificate, a gold medallion
 
 #### **A fitting tribute**
 
-The Prize is named after Singapore’s first Prime Minister. Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
+The Prize is named after [Singapore’s first Prime Minister](https://www.pmo.gov.sg/Past-Prime-Ministers/Mr-LEE-Kuan-Yew). Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
 
 The Prize is co-organised by the [Urban Redevelopment Authority of Singapore](/organiser/ura/) (URA) and the [Centre for Liveable Cities](/organiser/clc/) (CLC). The Prize Secretariat sits within URA. 
 
