@@ -47,4 +47,4 @@ Auckland sends a message of exemplary significance to other cities that are seek
 
 ---
 
-[^1]: Up to 2016.
+###### [^1]: Up to 2016.
