@@ -5,13 +5,13 @@ permalink: /about/about-the-prize/
 
 ![medallion](/images/medallion-1280.jpg)
 
-**The Lee Kuan Yew World City Prize** is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. 
-
-The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
-
 > "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
 
 <div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee 2020</div>
+
+**The Lee Kuan Yew World City Prize** is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. 
+
+The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
 
 #### **Practical solutions**
 
