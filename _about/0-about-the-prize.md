@@ -9,6 +9,8 @@ permalink: /about/about-the-prize/
 
 The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
 
+#### **Practical solutions**
+
 To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. 
 
 Through this Prize, Singapore hopes to promote exemplary thought-leadership and exchange of ideas among cities, so as to spur further innovation in the area of sustainable urban development.
