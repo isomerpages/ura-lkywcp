@@ -5,7 +5,7 @@ permalink: /vancouver/
 
 ##### Vancouver is recognised for demonstrating strong visioning, community values and long-term planning, contributing to a more liveable and vibrant city.
 
-###### ![Vancouver](/images/special-mentions/vancouver.jpg)*Aerial view of Vancouver © Vancouver*
+###### ![Vancouver](/images/special-mentions/vancouver.jpg)*Aerial view of Vancouver © City of Vancouver*
 
 <b><font color="#967942">VANCOUVER</font></b> is recognised for being an exemplary demonstration of strong visioning, community values and long-term planning. Over the last 40 years[^1], the city showed foresight and boldness in resisting two of the major North American urban trends – the introduction of freeways into the city centre and the loss of residents to the suburbs. Instead the city embarked on an inner-city densification process supported by innovative planning, which has contributed to a more liveable and vibrant city life.
 
