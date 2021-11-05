@@ -3,11 +3,11 @@ title: 2016 Special Mention — Toronto
 permalink: /toronto/
 ---
 
-***Toronto is recognised for its excellent social integration strategies, and its ambitious Waterfront Toronto initiative to rejuvenate the city core.***
+##### Toronto is recognised for its excellent social integration strategies, and its ambitious Waterfront Toronto initiative to rejuvenate the city core.
 
-![Trillium Park with Toronto’s skyline in the background](/images/special-mentions/toronto.jpg)*Trillium Park with Toronto’s skyline in the background © Elena Berd/Shutterstock.com*
+###### ![Trillium Park with Toronto’s skyline in the background](/images/special-mentions/toronto.jpg)*Trillium Park with Toronto’s skyline in the background © Elena Berd/Shutterstock.com*
 
-**TORONTO** is one of the most diverse cities in the world today, with a population made up of nearly 50 percent non-native Canadians originating from over 170 countries and speaking over 160 languages. In today’s context of globalisation, Toronto is highly commendable for its social integration strategies. 
+<b><font color="#967942">TORONTO</font></b> is one of the most diverse cities in the world today, with a population made up of nearly 50 percent non-native Canadians originating from over 170 countries and speaking over 160 languages. In today’s context of globalisation, Toronto is highly commendable for its social integration strategies. 
 
 #### **Embracing diversity**
 
