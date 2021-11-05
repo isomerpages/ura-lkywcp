@@ -32,7 +32,8 @@ Looking ahead, [the government also unveiled a digital, three-dimensional map of
 The city will use it to simulate the impact of disasters such as earthquakes, and predict how new buildings could affect wind patterns and fine dust pollution patterns, among other applications to refine its urban planning. Property developers could utilise it to study sites’ environmental data to design better buildings, while people can explore the city through its street views, and participate in virtual tours the city will organise with private partners. 
 
 As part of plans to deploy robotics in various sectors to ease manpower shortages, the city is also [trialling artificially intelligent robots in 300 nursery schools](http://english.seoul.go.kr/seoul-to-introduce-ai-robots-at-300-nursery-schools/?cat=46) from August to December 2021. The small humanoid robots can sing, walk, dance, tell stories and converse, and are assisting teachers in developing their pupils’ language skills. The city will review the trial after it ends and decide whether to expand it in 2022. 
-<br>
+
+
 > ##### **The key takeaway:** With residents embracing digital innovations, cities can invest in smart infrastructure and technologies to upgrade their urban planning and municipal services, and strengthen their resilience against potential issues such as manpower shortages in the longer term.
 
 #### **Shaping a sustainable recovery**
@@ -66,5 +67,6 @@ NYC First Lady Chirlane McCray, the taskforce’s co-chair, elaborated: “Racia
 Under the plan, the city has [set up a college savings account](https://infohub.nyced.org/in-our-schools/programs/nyc-kids-rise-save-for-college-program) with at least USD $100 for every incoming public school kindergartener since September 2021. The city is also partnering with NYC Kids RISE, a non-profit group that assists public school students in saving for college, to raise funds to add to the accounts. The Juneteenth plan further includes various scholarships for Black and low-income students. 
 
 Anticipating more extreme weather due to the climate change, the city is enacting measures to help vulnerable residents cope with heat waves and intense storms too. [It plans to reduce property taxes for eligible low-income families](https://www1.nyc.gov/office-of-the-mayor/news/651-21/mayor-de-blasio-landmark-new-blueprint-combat-extreme-weather) so that they can make their homes more flood-proof, including by installing waterproofing materials and sump pumps. It is also identifying more facilities, such as sports venues and auditoriums, that [can be used as cooling centres during heat waves for those who cannot stay cool at home](https://www1.nyc.gov/office-of-the-mayor/news/350-20/mayor-de-blasio-covid-19-heat-wave-plan-protect-vulnerable-new-yorkers). <b><font color="#967942">O</font></b>
-<br>
+
+
 > ##### **The key takeaway:** As cities carry out their recovery plans, introducing measures to uplift lower-income families and other disadvantaged residents through educational, job and other support can help to build fairer and more resilient societies.
