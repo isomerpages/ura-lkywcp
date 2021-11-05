@@ -19,7 +19,7 @@ After completing [Stage A](//nominations/stagea), the nominated city will be inf
 | **4** | **Demonstration projects** <br> A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy |
 | **5** | **Key visuals** <br> Photos, diagrams, charts, etc. |
 | **6** | **References** <br> 2-5 reference letters written and signed by independent third parties |
-| **7** | ***Optional:*** <br> supporting documents such as city reports, media reports, accolades, etc.
+| **7** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
 
 **Please note that this report may require some time and resources to complete.** 
 
