@@ -3,7 +3,7 @@ title: 2012 Special Mention — Ahmedabad
 permalink: /ahmedabad/
 ---
 
-##### Ahmedabad is recognised for its early successes in implementing a comprehensive city plan that aims to transform itself into a more liveable, equitable and sustainable city.***
+##### Ahmedabad is recognised for its early successes in implementing a comprehensive city plan that aims to transform itself into a more liveable, equitable and sustainable city.
 
 ###### ![Ahmedabad](/images/special-mentions/ahmedabad.jpg)*The Bus Rapid Transit System © Ahmedabad Municipal Corporation*
 
