@@ -13,13 +13,13 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete
 
 After completing [Stage A](//nominations/stagea), the nominated city will be informed to prepare and submit a detailed report using the official report template. This report comprises the following: 
 
-- Key statistics comparing the city today and 10-20 years ago 
-- Background information on the city 
-- Elaboration of the overall master plan/strategy
-- A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy 
-- Key visuals (photos, diagrams, charts, etc.) 
-- 2-5 reference letters written and signed by independent third parties
-- *Optional: supporting documents such as city reports, media reports, accolades, etc.*
+| **1** | **Key statistics** <br> Comparing the city today and 10-20 years ago |
+| **2** | **City portfolio** <br> Background information on the city |
+| **3** | **Master plan/strategy** <br> Elaboration of the overall master plan/strategy |
+| **4** | **Demonstration projects** <br> A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy |
+| **5** | **Key visuals** <br> Photos, diagrams, charts, etc. |
+| **6** | **References** <br> 2-5 reference letters written and signed by independent third parties |
+| **7** | ***Optional:*** <br> supporting documents such as city reports, media reports, accolades, etc.
 
 **Please note that this report may require some time and resources to complete.** 
 
