@@ -3,7 +3,7 @@ title: 2018 Special Mention — Tokyo
 permalink: /tokyo/
 ---
 
-#### Tokyo is recognised for being a well-managed megacity despite its large and seemingly ungovernable size.
+#### **Tokyo is recognised for being a well-managed megacity despite its large and seemingly ungovernable size.**
 
 ###### ![Tokyo Station in Marunouchi](/images/special-mentions/tokyo.jpg)*Tokyo Station (right) in Marunouchi © NavinTar/Shutterstock.com*
 
