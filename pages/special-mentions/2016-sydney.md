@@ -3,7 +3,7 @@ title: 2016 Special Mention — Sydney
 permalink: /sydney/
 ---
 
-##### Sydney is recognised for its strong leadership, commitment, and partnership with its citizens and stakeholders in tackling their urban challenges.***
+##### Sydney is recognised for its strong leadership, commitment, and partnership with its citizens and stakeholders in tackling their urban challenges.
 
 ###### ![One Central Park, Sydney](/images/special-mentions/sydney.jpg)*One Central Park, Sydney © Stephen Bridger/Shutterstock.com*
 
