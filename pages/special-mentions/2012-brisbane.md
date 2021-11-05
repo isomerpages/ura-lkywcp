@@ -3,11 +3,11 @@ title: 2012 Special Mention — Brisbane
 permalink: /brisbane/
 --- 
 
-***Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a ‘country town’ blighted by urban decay into a vibrant metropolis.***
+##### Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a ‘country town’ blighted by urban decay into a vibrant metropolis.
 
-![Brisbane](/images/special-mentions/brisbane.jpg)*The Brisbane River © Brisbane City Council*
+###### ![Brisbane](/images/special-mentions/brisbane.jpg)*The Brisbane River © Brisbane City Council*
 
-**BRISBANE CITY COUNCIL'S URBAN RENEWAL BRISBANE (URB) AGENCY** is recognised for its significant role in transforming what was once a ‘country town’ blighted by economic stagnation, sprawl and urban decay into an economically, culturally and physically vibrant metropolis. Over the past 20 years[^1], URB’s sustained initiatives have successfully revived local economies and inner-city living by regenerating derelict industrial sites and revitalising the city’s neglected riverfront.
+<b><font color="#967942">BRISBANE CITY COUNCIL'S URBAN RENEWAL BRISBANE (URB) AGENCY</font></b> is recognised for its significant role in transforming what was once a ‘country town’ blighted by economic stagnation, sprawl and urban decay into an economically, culturally and physically vibrant metropolis. Over the past 20 years[^1], URB’s sustained initiatives have successfully revived local economies and inner-city living by regenerating derelict industrial sites and revitalising the city’s neglected riverfront.
 
 #### **Inner city renewal**
 
