@@ -5,7 +5,7 @@ image: /images/features/2021/greg-clark.jpg
 description: COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
 ---
 
-##### COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
+> ##### COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
 
 ![Greg Clark](/images/features/2021/greg-clark.jpg/)*Greg Clark © Centre for Liveable Cities*
 
@@ -76,7 +76,7 @@ Post-pandemic, many developing nations will try to manage an overall system of c
 
 One permanent challenge, which the pandemic has starkly revealed, is weak urban governance. COVID-19 has highlighted the need for well-run cities that are able to manage extreme situations effectively.  
 
-> ##### "Learning together by sharing knowledge and insights will enrich all cities’ efforts to become better places to live. Because successful cities are fundamental to creating a better planet, there is no real competition. We need all cities to succeed."
+> ###### "Learning together by sharing knowledge and insights will enrich all cities’ efforts to become better places to live. Because successful cities are fundamental to creating a better planet, there is no real competition. We need all cities to succeed."
 
 #### **Finally, in this time of crisis where global travel and the international conference sector remain severely curtailed, while some nations have turned inward-looking, a word please on the prospects for continued global collaboration.**
 
