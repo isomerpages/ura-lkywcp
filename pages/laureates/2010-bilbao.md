@@ -3,11 +3,11 @@ title: 2010 Prize Laureate — Bilbao
 permalink: /bilbao/
 ---
 
-***Bilbao is awarded the inaugural Prize in 2010 for its integrated and holistic approach in urban transformation.***
+##### Bilbao is awarded the inaugural Prize in 2010 for its integrated and holistic approach in urban transformation.
 
 ###### ![Aveneida de Abandoibarra](/images/laureates/bilbao.jpg)*Aveneida de Abandoibarra © BILBAO NEXT – Ayuntamiento de Bilbao*
 
-**BILBAO** has been named the inaugural Lee Kuan Yew World City Prize Laureate in recognition of its integrated and holistic approach in urban transformation. Bilbao has demonstrated that urban regeneration can be a powerful social and economic driver to catalyse change, strengthen the urban fabric, inject vibrancy and improve the quality of life for its citizens. 
+<b><font color="#967942">BILBAO</font></b> has been named the inaugural Lee Kuan Yew World City Prize Laureate in recognition of its integrated and holistic approach in urban transformation. Bilbao has demonstrated that urban regeneration can be a powerful social and economic driver to catalyse change, strengthen the urban fabric, inject vibrancy and improve the quality of life for its citizens. 
 
 Bilbao has been instrumental in regenerating and transforming the city from an obsolete and dilapidated industrial city into a knowledge-based economy. The success of Bilbao is largely attributed to its integrated and holistic approach to achieve economic, social and physical transformations. Its emphasis on environmental cleanup, use of culture, internationalisation and design, major improvements to its infrastructure, as well as the restoration of its historic areas over some 25 years have successfully rejuvenated the city. 
 
