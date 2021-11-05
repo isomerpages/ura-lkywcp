@@ -3,11 +3,11 @@ title: 2018 Special Mention — Hamburg
 permalink: /hamburg/
 ---
 
-***Hamburg is recognised as an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities.***
+##### Hamburg is recognised as an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities.
 
-![Hamburg HafenCity](/images/special-mentions/hamburg.jpg)*The Elbphilharmonie at HafenCity © www.mediaserver.hamburg.de/Maxim Schulz*
+###### ![Hamburg HafenCity](/images/special-mentions/hamburg.jpg)*The Elbphilharmonie at HafenCity © www.mediaserver.hamburg.de/Maxim Schulz*
 
-**HAMBURG** is recognised as an extraordinary port city that has overcome planning challenges to become an attractive and welcoming city of opportunities for a population that now includes a growing number of immigrants. It has effectively evolved from previous conventional practice of urban expansion on the fringe through the successful implementation of its inner city densification strategy to cater to increased demand for housing and urban mobility from its growing population. 
+<b><font color="#967942">HAMBURG</font></b> is recognised as an extraordinary port city that has overcome planning challenges to become an attractive and welcoming city of opportunities for a population that now includes a growing number of immigrants. It has effectively evolved from previous conventional practice of urban expansion on the fringe through the successful implementation of its inner city densification strategy to cater to increased demand for housing and urban mobility from its growing population. 
 
 #### **HafenCity**
 
