@@ -3,11 +3,11 @@ title: 2018 Special Mention — Surabaya
 permalink: /surabaya/
 ---
 
-***Surabaya is recognised for its strong appreciation of culture and taking a bold urban development strategy to preserve and develop its kampung neighbourhoods, while experiencing rapid economic growth.***
+##### Surabaya is recognised for its strong appreciation of culture and taking a bold urban development strategy to preserve and develop its kampung neighbourhoods, while experiencing rapid economic growth.
 
-![Surabaya Kampung](/images/special-mentions/surabaya.jpg)*A kampung neighbourhood in Surabaya © Surabaya*
+###### ![Surabaya Kampung](/images/special-mentions/surabaya.jpg)*A kampung neighbourhood in Surabaya © Surabaya*
 
-**SURABAYA** is an emerging city that is commended for its strong appreciation of culture and for taking a bold urban development strategy to preserve and develop its *kampung* neighbourhoods, instead of displacing them, while also experiencing rapid economic growth. The comprehensive '*Kampung Improvement Programme*' successfully brought together strong community support and participation from the citizens to collaborate closely with the local government in transforming the *kampungs* into clean, conducive, and productive environments. 
+<b><font color="#967942">SURABAYA</font></b> is an emerging city that is commended for its strong appreciation of culture and for taking a bold urban development strategy to preserve and develop its *kampung* neighbourhoods, instead of displacing them, while also experiencing rapid economic growth. The comprehensive '*Kampung Improvement Programme*' successfully brought together strong community support and participation from the citizens to collaborate closely with the local government in transforming the *kampungs* into clean, conducive, and productive environments. 
 
 #### **Promoting home-based entrepreneurship**
 
