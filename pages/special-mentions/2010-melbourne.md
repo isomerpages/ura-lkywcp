@@ -15,7 +15,7 @@ Melbourne is also widely noted for its inclusive planning process involving the 
 
 #### **Quality of life**
 
-As one of the fastest growing cities in Australia, Melbourne has plans to increase the population density within the city, whilst seeking ways to maintain its ranking as one of the most liveable cities in the world. Although Melbourne’s urban initiatives are currently more focused on the city itself, there is keen interest to extend the benefits of these initiatives to the wider economic and social hinterland, up to 150 km outwards beyond the greater area of Melbourne. **<font color="#967942">O</font>**
+As one of the fastest growing cities in Australia, Melbourne has plans to increase the population density within the city, whilst seeking ways to maintain its ranking as one of the most liveable cities in the world. Although Melbourne’s urban initiatives are currently more focused on the city itself, there is keen interest to extend the benefits of these initiatives to the wider economic and social hinterland, up to 150 kilometres outwards beyond the greater area of Melbourne. **<font color="#967942">O</font>**
 
 ---
 
