@@ -98,5 +98,5 @@ For cities, the appeal of international cooperation remains compelling. Every ci
 
 ---
 
-[^1]: ###### This is an edited version of the article published in the June 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol19](https://www.go.gov.sg/urbsol19), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.
+[^1]: This is an edited version of the article published in the June 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol19](https://www.go.gov.sg/urbsol19), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.
 
