@@ -13,12 +13,12 @@ The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete
 
 Cities interested to participate shall approach an independent third party (nominator) in any of the following categories to nominate them:
 
-- Leading academics (e.g. professors in universities) or academic institutions
-- Government officials (outside of the city administration)
-- International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on
-- Organisations in the public or private sectors
-- Non-government organisations (NGOs)
-- Leading industry experts in related fields
+| **1** |  Leading academics (e.g. professors in universities) or academic institutions |
+| **2** |  Government officials (outside of the city administration) |
+| **3** |  International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on |
+| **4** |  Organisations in the public or private sectors |
+| **5** |  Non-government organisations (NGOs) |
+| **6** |  Leading industry experts in related fields |
 
 **Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.** 
 
