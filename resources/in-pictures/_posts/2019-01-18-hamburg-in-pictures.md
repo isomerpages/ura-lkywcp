@@ -16,7 +16,8 @@ Hamburg is Germany’s second largest city after Berlin with a population of 1.7
 Hamburg’s population is growing and expected to reach 1.9 million by 2030. Population growth is driven by birth surplus as well as immigration – young people in particular are moving to Hamburg for job opportunities and further education. As a growing city, Hamburg has to provide sufficient space for housing, office and industrial use, as well as improve its urban mobility. 
 
 ###### ![Aerial view of Hamburg](/images/features/2019/hamburg-aerial-view.jpg/)*Aerial view of Hamburg © www.mediaserver.hamburg.de/Andreas Vallbracht*
-![The historic Speicherstadt district](/images/features/2019/hamburg-speicherstadt.jpg/)*The historic Speicherstadt district – a UNESCO World Heritage Site © www.mediaserver.hamburg.de/Thomas Hampel*
+
+###### ![The historic Speicherstadt district](/images/features/2019/hamburg-speicherstadt.jpg/)*The historic Speicherstadt district – a UNESCO World Heritage Site © www.mediaserver.hamburg.de/Thomas Hampel*
 
 ###### ![The River Elbe](/images/features/2019/hamburg-river-elbe.jpg/)*The River Elbe © www.mediaserver.hamburg.de/Dirk Rußmann*
 
