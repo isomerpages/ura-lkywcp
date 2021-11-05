@@ -5,7 +5,7 @@ permalink: /nominations/evaluations/
 
 ##### The evaluations of the 2020 Prize have concluded. The results will be announced at a later date. 
 
-###### ![Evaluation Process](/images/evaluation-process.jpg/)*Prof Wulf Daseking (left), and Dr Cheong Koon Hean (right) © Urban Redevelopment Authority Singapore*
+###### ![Evaluation Process](/images/evaluation-process.jpg/)*Prof Wulf Daseking (left), and Dr Cheong Koon Hean (right) during a Nominating Committee meeting © Urban Redevelopment Authority Singapore*
 
 #### **Evaluation process**
 
