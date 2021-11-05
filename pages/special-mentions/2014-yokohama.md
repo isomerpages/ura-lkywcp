@@ -3,11 +3,11 @@ title: 2014 Special Mention — Yokohama
 permalink: /yokohama/
 ---
 
-***Yokohama is recognised for overcoming its urban challenges through excellent partnership with its citizens and stakeholders.***
+##### Yokohama is recognised for overcoming its urban challenges through excellent partnership with its citizens and stakeholders.
 
-![Yokohama © City of Yokohama](/images/special-mentions/yokohama.jpg)*Yokohama waterfront at Minato Mirai © Yokohama*
+###### ![Yokohama © City of Yokohama](/images/special-mentions/yokohama.jpg)*Yokohama waterfront at Minato Mirai © Yokohama*
 
-**YOKOHAMA** is recognised for overcoming its urban challenges faced over the last 40 years[^1] through excellent partnership with its citizens and stakeholders. As a satellite city at the edge of the Tokyo Metropolitan Area, Yokohama has successfully established its own identity as a liveable, relatively affordable and family-friendly city by tapping on the internationalisation of the region and excellent transport networks. The city’s leadership is commended for its long-term vision and project-oriented approach that has helped to bring this to fruition.
+<b><font color="#967942">YOKOHAMA</font></b> is recognised for overcoming its urban challenges faced over the last 40 years[^1] through excellent partnership with its citizens and stakeholders. As a satellite city at the edge of the Tokyo Metropolitan Area, Yokohama has successfully established its own identity as a liveable, relatively affordable and family-friendly city by tapping on the internationalisation of the region and excellent transport networks. The city’s leadership is commended for its long-term vision and project-oriented approach that has helped to bring this to fruition.
 
 #### **Collaboration with stakeholders and citizens**
 
