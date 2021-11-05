@@ -3,11 +3,11 @@ title: 2010 Special Mention — Dr Jaime Lerner
 permalink: /jaime-lerner/
 ---
 
-***The late Dr Jaime Lerner is recognised for implementing impactful urban solutions during his term as the mayor of Curitiba and the governor of Paraná.***
+##### The late Dr Jaime Lerner is recognised for implementing impactful urban solutions during his term as the mayor of Curitiba and the governor of Paraná.
 
-![Jaime Lerner](/images/special-mentions/jaime-lerner.jpg)*The late Dr Jaime Lerner © Instituto Jaime Lerner*
+###### ![Jaime Lerner](/images/special-mentions/jaime-lerner.jpg)*The late Dr Jaime Lerner © Instituto Jaime Lerner*
 
-**THE LATE DR JAIME LERNER** (1937 — 2021) is recognised for his achievements, particularly as mayor of Curitiba and as governor of the state of Paraná. He was widely credited for pioneering three innovative and impactful urban solutions during his term in office, namely: the integrated transit network (ITN), or the bus rapid transit (BRT); the system of storm-water drainage through the creation of parks as 'flood parking' areas; and the establishment of over 270 rural villages, to improve the livelihood of the lowest income groups.
+<b><font color="#967942">THE LATE DR JAIME LERNER</font></b> (1937 — 2021) is recognised for his achievements, particularly as mayor of Curitiba and as governor of the state of Paraná. He was widely credited for pioneering three innovative and impactful urban solutions during his term in office, namely: the integrated transit network (ITN), or the bus rapid transit (BRT); the system of storm-water drainage through the creation of parks as 'flood parking' areas; and the establishment of over 270 rural villages, to improve the livelihood of the lowest income groups.
 
 #### **Urban acupuncture**
 
