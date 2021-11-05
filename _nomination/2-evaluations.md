@@ -26,9 +26,13 @@ All submissions are evaluated based on the following criteria:
 
 #### **Announcement & award**
 
-The results of the 2020 Prize will be announced at a later date. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture and Prize Forum respectively, key highlights of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
+The results will be announced via a dedicated media conference held in Singapore[^1]. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture and Prize Forum respectively, key highlights of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
 
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
 - [Contact us](/contact-us/)
+
+---
+
+[^1]: Due to the COVID-19 pandemic, the announcement of the 2020 Prize may adopt a different format. 
