@@ -24,6 +24,10 @@ All submissions are evaluated based on the following criteria:
 5. **Sustainability of the Transformation** <br> Institutionalised processes to sustain the city's urban transformation that will be unaffected by changes in the city's leadership; buy-in from local communities to achieve the city's vision.
 6. **Integration of Plans** <br> Successful integration or relation of plans at the regional/metropolitan level.
 
+#### **Announcement & award**
+
+The results of the 2020 Prize will be announced at a later date. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture and Prize Forum respectively, key highlights of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
+
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
