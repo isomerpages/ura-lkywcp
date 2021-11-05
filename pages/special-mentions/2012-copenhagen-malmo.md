@@ -3,11 +3,11 @@ title: 2012 Joint Special Mention — Copenhagen and Malmö
 permalink: /copenhagen-malmo/
 ---
 
-***Copenhagen and Malmö are jointly recognised for their close collaboration and a shared vision across borders.***
+##### Copenhagen and Malmö are jointly recognised for their close collaboration and a shared vision across borders.
 
-![Øresund bridge](/images/special-mentions/copenhagen.jpg)*Øresund Bridge © Copenhagen*
+###### ![Øresund bridge](/images/special-mentions/copenhagen.jpg)*Øresund Bridge © Copenhagen*
 
-**COPENHAGEN AND MALMÖ** are jointly recognised for their close collaboration at government and business levels, and shared vision of a holistic set of economic, environmental and socially sustainable goals.
+<b><font color="#967942">COPENHAGEN AND MALMÖ</font></b> are jointly recognised for their close collaboration at government and business levels, and shared vision of a holistic set of economic, environmental and socially sustainable goals.
 
 #### **Pooling resources**
 
