@@ -3,11 +3,11 @@ title: 2016 Prize Laureate — Medellín
 permalink: /medellin/
 --- 
 
-***Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.***
+##### Medellín is awarded the 2016 Prize for its success in overcoming challenges of uncontrolled urban expansion and years of violence due to social inequalities.
 
 ###### ![Medellín](/images/laureates/medellin.jpg)*The MetroCable © Municipality of Medellín*
 
-**MEDELLÍN** tells the compelling story of a city which has transformed itself from a notoriously violent city to one that is being held up as a model for urban innovation within a span of just two decades. Today, Medellín is a city that celebrates life – resolute in its commitment to create a more just, more human, freer and happier home for its inhabitants. 
+<b><font color="#967942">MEDELLÍN</font></b> tells the compelling story of a city which has transformed itself from a notoriously violent city to one that is being held up as a model for urban innovation within a span of just two decades. Today, Medellín is a city that celebrates life – resolute in its commitment to create a more just, more human, freer and happier home for its inhabitants. 
 
 Uncontrolled urban expansion had resulted in large expanses of informal settlements occupying the hills along the periphery of the urbanised zone. This is not a problem unique to Medellín; UN-Habitat estimates that by 2030, about three billion people, or 40 percent of the world’s population, will need proper housing and access to basic infrastructure such as water and sanitation systems. Medellín is thus representative of the global challenge facing many cities, especially in Africa, Asia and Latin America. The fact that the situation in Medellín was exacerbated by the drug-fuelled battles fought on the rooftops of its comunas only makes its transformation all the more exceptional. 
 
