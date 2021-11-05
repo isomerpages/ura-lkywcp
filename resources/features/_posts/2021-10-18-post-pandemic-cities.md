@@ -33,7 +33,7 @@ The city will use it to simulate the impact of disasters such as earthquakes, an
 
 As part of plans to deploy robotics in various sectors to ease manpower shortages, the city is also [trialling artificially intelligent robots in 300 nursery schools](http://english.seoul.go.kr/seoul-to-introduce-ai-robots-at-300-nursery-schools/?cat=46) from August to December 2021. The small humanoid robots can sing, walk, dance, tell stories and converse, and are assisting teachers in developing their pupils’ language skills. The city will review the trial after it ends and decide whether to expand it in 2022. 
 
-
+<br>
 > ##### **The key takeaway:** With residents embracing digital innovations, cities can invest in smart infrastructure and technologies to upgrade their urban planning and municipal services, and strengthen their resilience against potential issues such as manpower shortages in the longer term.
 
 #### **Shaping a sustainable recovery**
@@ -68,5 +68,5 @@ Under the plan, the city has [set up a college savings account](https://infohub.
 
 Anticipating more extreme weather due to the climate change, the city is enacting measures to help vulnerable residents cope with heat waves and intense storms too. [It plans to reduce property taxes for eligible low-income families](https://www1.nyc.gov/office-of-the-mayor/news/651-21/mayor-de-blasio-landmark-new-blueprint-combat-extreme-weather) so that they can make their homes more flood-proof, including by installing waterproofing materials and sump pumps. It is also identifying more facilities, such as sports venues and auditoriums, that [can be used as cooling centres during heat waves for those who cannot stay cool at home](https://www1.nyc.gov/office-of-the-mayor/news/350-20/mayor-de-blasio-covid-19-heat-wave-plan-protect-vulnerable-new-yorkers). <b><font color="#967942">O</font></b>
 
-
+<br>
 > ##### **The key takeaway:** As cities carry out their recovery plans, introducing measures to uplift lower-income families and other disadvantaged residents through educational, job and other support can help to build fairer and more resilient societies.
