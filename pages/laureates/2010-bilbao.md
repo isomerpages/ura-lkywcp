@@ -5,7 +5,7 @@ permalink: /bilbao/
 
 ##### Bilbao is awarded the inaugural Prize in 2010 for its integrated and holistic approach in urban transformation.
 
-###### ![Aveneida de Abandoibarra](/images/laureates/bilbao.jpg)**Aveneida de Abandoibarra** © BILBAO NEXT – Ayuntamiento de Bilbao
+###### ![Aerial view of Bilbao and its rejuvenated waterfront](/images/laureates/bilbao.jpg)**Aerial view of Bilbao and its rejuvenated waterfront** © Jon Chica/ Shutterstock.com
 
 <b><font color="#967942">BILBAO</font></b> has been named the inaugural Lee Kuan Yew World City Prize Laureate in recognition of its integrated and holistic approach in urban transformation. Bilbao has demonstrated that urban regeneration can be a powerful social and economic driver to catalyse change, strengthen the urban fabric, inject vibrancy and improve the quality of life for its citizens. 
 
