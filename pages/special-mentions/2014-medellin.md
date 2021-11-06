@@ -5,7 +5,7 @@ permalink: /medellin-special-mention/
 
 ##### Medellín is recognised for the significant reduction of its homicide rates over the past few decades, leading to a safer, fairer and more equitable city.
 
-###### ![MetroCable in Medellín](/images/special-mentions/medellin.jpg)*MetroCable in Medellín © Urban Redevelopment Authority Singapore*
+###### ![MetroCable in Medellín](/images/special-mentions/medellin.jpg)**MetroCable in Medellín** © Urban Redevelopment Authority Singapore
 
 <b><font color="#967942">MEDELLÍN</font></b> is recognised for its outstanding urban transformation over the past 20 years[^1], notably its significant reduction of homicide rates from 380.6 per 100,000 inhabitants in 1991 to 52.3 per 100,000 inhabitants in 2012, or 86.2 percent reduction[^2]. This is achieved through a bold and visionary leadership, and social innovation through a series of small-scale but high-impact urban acupuncture projects to help tackle some of the city’s most critical issues, namely drug-related crimes, territorial gang conflicts, unemployment and social inequity.
 
@@ -19,17 +19,17 @@ Medellín prides itself on social innovation; sociologists work hand-in-hand wit
 
 #### **Strong public-private alliances**
 
-To ensure a sustainable economy, efforts can be seen from both the government and the private sector in their strong alliances. An example is the [Medellínovation district](http://www.distritomedellin.org), a new technological district spearheaded by [RutaN](https://www.rutanmedellin.org/images/rutan/brochure_ingles.pdf), a corporation set up by the city to foster economic development in key areas by providing funding to companies with the know-how. Although Medellín today is doing many things right, the city can benefit more with an overall strategy, especially in the area of housing, to guide the city into the future and ensure a lasting transformation. Nonetheless, Medellín’s achievements today would provide a great inspiration to other cities facing similar issues. **<font color="#967942">O</font>**
+To ensure a sustainable economy, efforts can be seen from both the government and the private sector in their strong alliances. An example is the [**Medellínovation district**](http://www.distritomedellin.org), a new technological district spearheaded by [**RutaN**](https://www.rutanmedellin.org/images/rutan/brochure_ingles.pdf), a corporation set up by the city to foster economic development in key areas by providing funding to companies with the know-how. Although Medellín today is doing many things right, the city can benefit more with an overall strategy, especially in the area of housing, to guide the city into the future and ensure a lasting transformation. Nonetheless, Medellín’s achievements today would provide a great inspiration to other cities facing similar issues. **<font color="#967942">O</font>**
 
 ---
 
-##### **City profile** 
+##### **City profile**
 
-| **Mayor** | Michael Ludwig (2018 - date) <br> Michael Häupl (1994 - 2018) |
-| **Area** | 414.6 km<sup>2</sup> |
-| **Population** | 1,897,000 people (2019) | 
-| **Density** | 4,575 per km<sup>2</sup> |
-| **Master plan** | [STEP 2025 Urban Development Plan](https://www.wien.gv.at/stadtentwicklung/studien/pdf/b008379b.pdf) |
+| **Mayor** | Daniel Quintero Calle (2020 - date) <br> Federico Gutiérrez Zuluaga (2016 - 2020) <br> Aníbal Gaviria Correa (2012 - 2016) |
+| **Area** | 382.0 km<sup>2</sup> |
+| **Population** | 2,376,337 people | 
+| **Density** | 6,220 per km<sup>2</sup> |
+| **Master strategy** | [Medellín Future Development Plan 2020-2023](https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=contenido/6899-Plan-de-Desarrollo-2020---2023--Gaceta-oficial---Medellin-Futuro) |
 
 ---
 
