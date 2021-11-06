@@ -5,7 +5,7 @@ permalink: /sydney/
 
 ##### Sydney is recognised for its strong leadership, commitment, and partnership with its citizens and stakeholders in tackling their urban challenges.
 
-###### ![One Central Park, Sydney](/images/special-mentions/sydney.jpg)One Central Park, Sydney © Stephen Bridger/Shutterstock.com*
+###### ![One Central Park, Sydney](/images/special-mentions/sydney.jpg)**One Central Park, Sydney** © Stephen Bridger/Shutterstock.com
 
 <b><font color="#967942">SYDNEY</font></b> is recognised for demonstrating strong leadership, relentless commitment, and an excellent model for partnership with its citizens and stakeholders in the tackling of their urban challenges. Despite having limited regional power under State authority, the Lord Mayor Clover Moore and the City Council strategically and successfully aligned the city’s work and institutionalised key strategic planning principles into their governance. 
 
