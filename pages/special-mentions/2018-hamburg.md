@@ -29,6 +29,14 @@ Hamburg is also commendable for its push towards sustainable urban development t
 
 ---
 
+##### **City profile** 
+
+| **Mayor** | Olaf Scholz (2011 - 2018) <br> Peter Tschentscher (2019 - date) |
+| **Area** | 755.2 km<sup>2</sup> |
+| **Population** | 1,841,000 people (2019) | 
+| **Density** | 2,438 per km<sup>2</sup> |
+| **Master plan** |[HafenCity](https://www.hafencity.com/en) |
+
 ##### **In pictures** 
 
 | [Hamburg in pictures - a welcoming city of opportunities](/resources/in-pictures/hamburg/) |
