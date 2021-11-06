@@ -20,6 +20,7 @@ With nearly one in ten people worldwide suffering from hunger, such waste is una
 “If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions. Food waste also burdens waste management systems and exacerbates food insecurity, making it a major contributor to the three planetary crises of climate change, nature and biodiversity loss, and pollution and waste,” said Ms Inger Andersen, Executive Director of the UN Environment Programme.
 
 With cities slated to [house 66 percent of the global population and consume over 80 percent of food by 2050](https://www.undp.org/content/undp/en/home/blog/2020/how-cities-can-fight-food-loss-and-waste-.html), they must take the lead in minimising food waste and redirecting surpluses to people in need. Several cities have begun to do so in a variety of ways. 
+
 <br>
 > ##### "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
 
