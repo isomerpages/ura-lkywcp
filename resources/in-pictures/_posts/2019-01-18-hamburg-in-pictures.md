@@ -81,6 +81,6 @@ When completed, the decks will provide several additional benefits besides prote
 
 ###### ![Current noise protection measures along the A7](/images/features/2019/hamburg-a7-noise-barriers.jpg/)**Current noise protection measures along the A7** © Ministry of Urban Development
 
-###### ![A7 before and after](/images/features/2019/hamburg-a7-before-after.jpg/)**The A7 today (left) and a visualisation of the future Autobahndeckel over the A7 (right)** © Ministry of Urban Development © Ministry of Urban Development & DEGES/V-KON
+###### ![A7 before and after](/images/features/2019/hamburg-a7-before-after.jpg/)**The A7 today (left) and a visualisation of the future Autobahndeckel over the A7 (right)** © Ministry of Urban Development & DEGES/V-KON
 
 ###### ![Visualisation of the future Autobahndeckel](/images/features/2019/hamburg-autobahndeckel.jpg/)**Artist's impression of the future Autobahndeckel** © DEGES/V-KON
