@@ -5,7 +5,7 @@ permalink: /brisbane/
 
 ##### Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a ‘country town’ blighted by urban decay into a vibrant metropolis.
 
-###### ![Brisbane](/images/special-mentions/brisbane.jpg)*The Brisbane River © Brisbane City Council*
+###### ![Brisbane](/images/special-mentions/brisbane.jpg)**The Brisbane River** © Brisbane City Council
 
 <b><font color="#967942">BRISBANE CITY COUNCIL'S URBAN RENEWAL BRISBANE (URB) AGENCY</font></b> is recognised for its significant role in transforming what was once a ‘country town’ blighted by economic stagnation, sprawl and urban decay into an economically, culturally and physically vibrant metropolis. Over the past 20 years[^1], URB’s sustained initiatives have successfully revived local economies and inner-city living by regenerating derelict industrial sites and revitalising the city’s neglected riverfront.
 
@@ -20,6 +20,14 @@ A strong vision and a sensitive yet practical approach to development is embedde
 URB continues to play a key role in implementing Brisbane’s strategic vision of pursuing a realistic alternative to the Australian tradition of suburban sprawl. The city’s success in urban renewal as a vanguard for economic transition, inner-city cultural renaissance and the creation of sustainable communities is highly relevant not only to other Australian cities but also to cities worldwide which face similar challenges. **<font color="#967942">O</font>**
 
 ---
+
+##### **City profile**
+
+| **Mayor** | Adrian Schrinner (2019 - date) <br> Graham Quirk (2011 - 2019) |
+| **Area** | 1,343 km<sup>2</sup> |
+| **Population** | 1,253,982 people (2019) | 
+| **Density** | 934 per km<sup>2</sup> |
+| **Master plan** | [Brisbane City Plan 2014](https://www.brisbane.qld.gov.au/planning-and-building/planning-guidelines-and-tools/brisbane-city-plan-2014) |
 
 ##### **YouTube videos**
 
