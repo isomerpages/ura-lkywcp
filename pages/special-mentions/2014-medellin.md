@@ -23,6 +23,16 @@ To ensure a sustainable economy, efforts can be seen from both the government an
 
 ---
 
+##### **City profile** 
+
+| **Mayor** | Michael Ludwig (2018 - date) <br> Michael Häupl (1994 - 2018) |
+| **Area** | 414.6 km<sup>2</sup> |
+| **Population** | 1,897,000 people (2019) | 
+| **Density** | 4,575 per km<sup>2</sup> |
+| **Master plan** | [STEP 2025 Urban Development Plan](https://www.wien.gv.at/stadtentwicklung/studien/pdf/b008379b.pdf) |
+
+---
+
 [^1]: Up to 2014.
 [^2]: Medellín has since won the 2016 Prize. Click [here](/medellin/) to read the citation.
 
