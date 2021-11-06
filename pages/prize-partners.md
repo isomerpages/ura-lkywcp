@@ -16,3 +16,7 @@ The Lee Kuan Yew World City Prize is proud to partner the following leading inte
 | **9** | **United Nations Environment Programme** <br> The United Nations Environment Programme is responsible for coordinating responses to environmental issues within the United Nations system. [Website](https://www.unenvironment.org/) |
 | **10** | **Urban Planning Society of China** <br> The Urban Planning Society of China (UPSC) is incorporated by urban planners across the People's Republic of China in 1956. [Website](http://en.planning.org.cn/) |
 | **11** | **World Green Building Council** <br> The World Green Building Council is a non-profit organisation and global network of national Green Building Councils. [Website](https://www.worldgbc.org/) |
+
+#### **Keen to partner us?**
+
+- [Contact us](/contact-us/) 
