@@ -23,7 +23,7 @@ With cities slated to [house 66 percent of the global population and consume ove
 
 > ##### "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
 
-<div align="right">**— Ms Inger Andersen** <br> Executive Director, UN Environment Programme</div>
+<div align="right"><b>— Ms Inger Andersen</b> <br> Executive Director, UN Environment Programme</div>
 
 #### **Bringing businesses on board**
 
