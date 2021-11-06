@@ -5,13 +5,13 @@ permalink: /yokohama/
 
 ##### Yokohama is recognised for overcoming its urban challenges through excellent partnership with its citizens and stakeholders.
 
-###### ![Yokohama © City of Yokohama](/images/special-mentions/yokohama.jpg)*Yokohama waterfront at Minato Mirai © City of Yokohama*
+###### ![Yokohama](/images/special-mentions/yokohama.jpg)**Yokohama waterfront at Minato Mirai** © City of Yokohama
 
 <b><font color="#967942">YOKOHAMA</font></b> is recognised for overcoming its urban challenges faced over the last 40 years[^1] through excellent partnership with its citizens and stakeholders. As a satellite city at the edge of the Tokyo Metropolitan Area, Yokohama has successfully established its own identity as a liveable, relatively affordable and family-friendly city by tapping on the internationalisation of the region and excellent transport networks. The city’s leadership is commended for its long-term vision and project-oriented approach that has helped to bring this to fruition.
 
 #### **Collaboration with stakeholders and citizens**
 
-Yokohama’s high level of collaboration with its stakeholders and citizens is an admirable model. As most of the land is held privately, this presents a considerable obstacle to large-scale planning and implementation of development projects. However, the city sought to work hand-in-hand with the community to achieve significant transformation. Minato Mirai 21, the city’s revitalised waterfront business district is a prime example. The city negotiated with stakeholders to free up land for downtown development and concluded agreements with the community to implement good urban design and coordinate development actions in the entire district. It was observed however, that in the next phase of development, a larger and longer term view will be desirable to enhance the attractiveness of the city and its waterfront.
+Yokohama’s high level of collaboration with its stakeholders and citizens is an admirable model. As most of the land is held privately, this presents a considerable obstacle to large-scale planning and implementation of development projects. However, the city sought to work hand-in-hand with the community to achieve significant transformation. **Minato Mirai 21**, the city’s revitalised waterfront business district is a prime example. The city negotiated with stakeholders to free up land for downtown development and concluded agreements with the community to implement good urban design and coordinate development actions in the entire district. It was observed however, that in the next phase of development, a larger and longer term view will be desirable to enhance the attractiveness of the city and its waterfront.
 
 #### **Remarkable waste reduction model**
 
@@ -19,9 +19,17 @@ Yokohama is also an inspiring model for waste reduction. A remarkable 43.2 perce
 
 #### **Smart technologies for future challenges**
 
-The city is also a leader in partnering the industry to develop smart technologies to address its future challenges. Smart energy management systems are experimented in existing houses, buildings and factories and new mobility systems such as compact electric vehicles are piloted in Minato Mirai 21. Through [Y-PORT](https://yport.city.yokohama.lg.jp/en), the city’s international technical cooperation programme, Yokohama cleverly marries economic growth and international contribution by tying up with local businesses to export urban solutions to emerging cities. Yokohama’s outstanding collaboration with its citizens and stakeholders is an exemplary model for cities around the world. **<font color="#967942">O</font>**
+The city is also a leader in partnering the industry to develop smart technologies to address its future challenges. Smart energy management systems are experimented in existing houses, buildings and factories and new mobility systems such as compact electric vehicles are piloted in Minato Mirai 21. Through [**Y-PORT**](https://yport.city.yokohama.lg.jp/en), the city’s international technical cooperation programme, Yokohama cleverly marries economic growth and international contribution by tying up with local businesses to export urban solutions to emerging cities. Yokohama’s outstanding collaboration with its citizens and stakeholders is an exemplary model for cities around the world. **<font color="#967942">O</font>**
 
 ---
+
+##### **City profile**
+
+| **Mayor** | Takeharu Yamanaka (2021 - date) <br> Fumiko Hayashi (2009 - 2021) |
+| **Area** | 437.4 km<sup>2</sup> |
+| **Population** | 3,725,000 people (2015) | 
+| **Density** | 8,516 per km<sup>2</sup> |
+| **Master strategy** | [Yokohama General Plan](https://www.city.yokohama.lg.jp/lang/residents/en/about-us/General_Plan.html) |
 
 ##### **YouTube videos**
 
