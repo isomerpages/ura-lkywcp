@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: the Prize Secretariat
+agency_name: us
 locations:
   - title: Mailing Address
     address:
