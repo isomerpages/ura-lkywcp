@@ -21,6 +21,8 @@ With nearly one in ten people worldwide suffering from hunger, such waste is una
 
 With cities slated to [house 66 percent of the global population and consume over 80 percent of food by 2050](https://www.undp.org/content/undp/en/home/blog/2020/how-cities-can-fight-food-loss-and-waste-.html), they must take the lead in minimising food waste and redirecting surpluses to people in need. Several cities have begun to do so in a variety of ways. 
 
+<br>
+
 > ##### "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
 
 <div align="right"><b>— Ms Inger Andersen</b> <br> Executive Director, UN Environment Programme</div>
