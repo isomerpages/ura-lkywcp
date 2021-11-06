@@ -5,7 +5,7 @@ permalink: /sheila-dikshit/
 
 ##### The late Mrs Sheila Dikshit is recognised for her efforts to improve the living environment of Delhi through various implementations, despite limited resources and control.
 
-###### ![Sheila Dikshit](/images/special-mentions/sheila-dikshit.jpg)*The late Mrs Sheila Dikshit addressing a crowd (standing on the right).*
+###### ![Sheila Dikshit](/images/special-mentions/sheila-dikshit.jpg)**The late Mrs Sheila Dikshit addressing a crowd (standing on the right).**
 
 <b><font color="#967942">THE LATE MRS SHEILA DIKSHIT</font></b> (1938 — 2019) is recognised for her notable implementations in improving the living environment of the National Capital Territory (NCT) of Delhi. In spite of limited resources and limited control over the planning process, Mrs Dikshit had managed to muster the masses to implement several project-based initiatives that led to an improvement in quality of life. 
 
