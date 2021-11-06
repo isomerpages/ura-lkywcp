@@ -7,9 +7,11 @@ The Lee Kuan Yew World City Prize is proud to partner the following leading inte
 
 | **1** | **American Planning Association** <br> The American Planning Association is a professional organisation representing the field of urban planning in the United States. [Website](http://www.planning.org) |
 | **2** | **The City Planning Institute of Japan** <br> The City Planning Institute of Japan (CPIJ) was founded in 1951 with the goal of promoting research into the science and technology of urban and regional planning in Japan. [Website](http://https://www.cpij.or.jp/eng/) |
+| **3** | **European Urban Knowledge Network** <br> The European Urban Knowledge Network was created in Rotterdam in 2004 from an agreement between European ministers on urban policies. [Website](http://www.eukn.eu) |
 
 
-3. **European Urban Knowledge Network** [Website](http://www.eukn.eu)
+
+
 4. **Fundación Metrópoli** [Website](http://www.fundacion-metropoli.org)
 5. **International Federation for Housing and Planning** [Website](https://www.ifhp.org/) 
 6. **INTA - International Urban Development Association** [Website](https://inta-aivn.org/en/) 
