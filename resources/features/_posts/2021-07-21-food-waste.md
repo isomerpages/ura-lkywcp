@@ -21,11 +21,11 @@ With nearly one in ten people worldwide suffering from hunger, such waste is una
 
 With cities slated to [house 66 percent of the global population and consume over 80 percent of food by 2050](https://www.undp.org/content/undp/en/home/blog/2020/how-cities-can-fight-food-loss-and-waste-.html), they must take the lead in minimising food waste and redirecting surpluses to people in need. Several cities have begun to do so in a variety of ways. 
 
-#### **Bringing businesses on board**
-
 > ##### "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
 
 <div align="right">**— Ms Inger Andersen** <br> Executive Director, UN Environment Programme</div>
+
+#### **Bringing businesses on board**
 
 Since 2016, cities in France have [banned supermarkets from discarding food and deliberately spoiling it](https://www.theguardian.com/world/2016/feb/04/french-law-forbids-food-waste-by-supermarkets) to stop people from foraging in their bins. The cities have also stipulated that those with over 400 squares metres of floor area must sign donation contracts with charities. These regulations are part of a law that the country passed to make better use of its food waste, which surpassed 7.1 million tonnes per year, and violations incur hefty fines and even jail terms. In 2019, [the government noted that the law has been effective](https://www.pbs.org/newshour/show/is-frances-groundbreaking-food-waste-law-working), with over 2,700 supermarkets diverting 46,000 tonnes of food each year from landfills, and donations to food banks up by more than 20 percent.
 
