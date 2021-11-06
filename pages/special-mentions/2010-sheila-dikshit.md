@@ -15,7 +15,7 @@ She also managed to increase the green cover in Delhi from 26 square kilometres 
 
 #### **Collaboration between citizens and the city**
 
-In addition, she conceptualised the Bhagidari Citizen-Government Partnership, which involved collaboration between citizens and the city administration for the improvement of civic services. The Bhagidari now includes 2,300 citizen groups with over five million people. Mrs Dikshit also successfully carried out a power sector reform that brought about the positive mindset of consumers and distribution companies after privatisation of the sector. 
+In addition, she conceptualised the **Bhagidari Citizen-Government Partnership**, which involved collaboration between citizens and the city administration for the improvement of civic services. The Bhagidari now includes 2,300 citizen groups with over five million people. Mrs Dikshit also successfully carried out a power sector reform that brought about the positive mindset of consumers and distribution companies after privatisation of the sector. 
 
 Other positive outcomes include the lowering of aggregate technical and commercial losses from 50 percent to 18 percent, and a vast improvement in services. The success of her implementations depends upon having a leader with great commitment and perseverance. **<font color="#967942">O</font>**
 
