@@ -6,6 +6,7 @@ permalink: /prize-partners/
 The Lee Kuan Yew World City Prize is proud to partner the following leading international organisations and think tanks: 
 
 | **1** | **American Planning Association** <br> The American Planning Association is a professional organization representing the field of urban planning in the United States. [Website](http://www.planning.org) |
+
 2. **The City Planning Institute of Japan** [Website](http://https://www.cpij.or.jp/eng/)
 3. **European Urban Knowledge Network** [Website](http://www.eukn.eu)
 4. **Fundación Metrópoli** [Website](http://www.fundacion-metropoli.org)
