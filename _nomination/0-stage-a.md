@@ -7,7 +7,7 @@ permalink: /nominations/stagea/
 
 ---
 
-The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete Stage A before proceeding to [Stage B](/nominations/stageb/).
+The Lee Kuan Yew World City Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/nominations/stageb/).
 
 #### **Nominations**
 
@@ -20,7 +20,7 @@ Cities interested to participate shall approach an independent third party (nomi
 | **5** |  Non-government organisations (NGOs) |
 | **6** |  Leading industry experts in related fields |
 
-**Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.** 
+**<mark>Self-nominations[^1] are strictly not accepted.</mark>** 
 
 #### **Information for the nominator**
 
@@ -41,3 +41,7 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 - [Frequently Asked Questions](/faq/) 
 - [Contact us](/contact-us/)
+
+---
+
+[^1]: Nominations made by the city administration/officials for their own city. 
