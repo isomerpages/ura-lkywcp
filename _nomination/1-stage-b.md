@@ -7,11 +7,11 @@ permalink: /nominations/stageb/
 
 ---
 
-The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete [Stage A](/nominations/stagea) before proceeding.
+The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/nominations/stagea) before proceeding.
 
 #### **Detailed written report**
 
-After completing [Stage A](//nominations/stagea), the nominated city will be informed to prepare and submit a detailed report using the official report template. This report comprises the following: 
+After completing [Stage A](//nominations/stagea), the nominated city will be informed to prepare and submit a detailed report using the official report template[^1]. This report comprises the following: 
 
 | **1** | **Key statistics** <br> Comparing the city today and 10-20 years ago |
 | **2** | **City portfolio** <br> Background information on the city |
@@ -21,7 +21,7 @@ After completing [Stage A](//nominations/stagea), the nominated city will be inf
 | **6** | **References** <br> 2-5 reference letters written and signed by independent third parties |
 | **7** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
 
-**Please note that this report may require some time and resources to complete.** 
+**<mark>Please note that this report may require some time and resources to complete.</mark>** 
 
 #### **Information for the nominated city**
 
@@ -36,3 +36,7 @@ After completing [Stage A](//nominations/stagea), the nominated city will be inf
 
 - [Frequently Asked Questions](/faq/) 
 - [Contact us](/contact-us/)
+
+---
+
+[^1]: The link to download the official report template will be made available when nominations are open. 
