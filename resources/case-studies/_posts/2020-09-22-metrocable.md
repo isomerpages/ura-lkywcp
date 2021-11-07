@@ -63,7 +63,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Impacts of the project**
 
-###### ![Impacts](/images/features/2020/impacts-medellin3.png/)]
+###### ![Impacts](/images/features/2020/impacts-medellin3.png/)
 
 - The Medellín Metro has mobilised over 2 billion passengers since the start of its operations to the mid-2010s. 
 The integrated transport system covers the Metro (34km), the MetroCable (9.3km), the Metroplús bus system (18km), the Tranvia tram system (4.3km), and a cycling network of 11.2km. The Metro is [considered one of the most efficient in Latin America](https://urbandesignprize.gsd.harvard.edu/porto-medellin/medellin/), with a speed of 37km/h. 
