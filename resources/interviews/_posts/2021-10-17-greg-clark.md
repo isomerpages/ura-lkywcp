@@ -64,7 +64,7 @@ The pandemic is starting to play a 'sorting' role, separating the things that st
 - **Talent attraction:** Cities will increasingly compete to attract top talents and skilled workers, drawing them with special visas, incentives, and flexible live-and-work models available in a 'Blended City'.
 - **Digital platforms in physical space:** A new logistics economy driven by digital commerce is emerging in cities. The growth of home delivery and its related mobility systems, the rise of data centres, fulfilment centres, dark kitchens and collection hubs, and their links to infrastructure webs, present new opportunities for cities to re-engineer space. One key issue is how to both enable these digitalised services, and also protect public goods such as safe pavements, clean air, and mobility flows. These new activities will need to address their own externalities and I expect to see new regulations requiring them to do so.
 
-###### ![Flexible work arrangements will continue to drive the future of cities](/images/features/2021/flexible-work.jpg/)**Flexible work arrangements will continue to drive the future of cities** © rawpixel.com/freepik.com
+###### ![Flexible work arrangements will continue to drive the future of cities](/images/features/2021/flexible-work.jpg/)**Flexible work arrangements will continue to drive the future of cities** © rawpixel.com/ freepik.com
 
 #### **How can cities in developing nations, which are growing rapidly and struggling to find the resources to adapt to the pandemic and other major disruptions such as climate change, cope in the long-term?**
 
