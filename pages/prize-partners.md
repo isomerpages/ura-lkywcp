@@ -3,11 +3,11 @@ title: Prize Partners
 permalink: /prize-partners/
 ---
 
-##### The Prize partners leading international organisations and think tanks to bring mutual benefits and cross-collaborations. 
+##### The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations. 
 
 ###### ![Prize Partners](/images/prize-partners.jpg/)**Illustration** © stories/ freepik.com
 
-The Prize is proud to partner the following: 
+The Prize's esteemed partners: 
 
 | **1** | [**American Planning Association**](http://www.planning.org) <br> The American Planning Association is a professional organisation representing the field of urban planning in the United States. |
 | **2** | [**The City Planning Institute of Japan**](http://https://www.cpij.or.jp/eng/) <br> The City Planning Institute of Japan (CPIJ) was founded in 1951 with the goal of promoting research into the science and technology of urban and regional planning in Japan. |
