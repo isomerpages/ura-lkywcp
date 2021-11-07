@@ -5,9 +5,7 @@ permalink: /about/prize-jury/nominating-committee/cheong-koon-hean/
 
 <div style="width:150px"><img src="/images/jury/cheong-koon-hean.png" alt="Cheong Koon Hean" /></div>
 
-**Dr Cheong Koon Hean**<br>
-Chair, Lee Kuan Yew Centre for Innovative Cities<br>
-Chair, Centre for Liveable Cities, Singapore
+##### **Dr Cheong Koon Hean** <br> Chair, Lee Kuan Yew Centre for Innovative Cities <br> Chair, Centre for Liveable Cities <br> Singapore
 
 ---
 
