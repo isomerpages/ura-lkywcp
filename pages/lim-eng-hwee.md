@@ -5,7 +5,7 @@ permalink: /about/prize-jury/nominating-committee/lim-eng-hwee/
 
 <div style="width:150px"><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /></div>
 
-##### **Mr Lim Eng Hwee** <br> Chief Executive Officer, Urban Redevelopment Authority <br> Singapore
+##### **Mr Lim Eng Hwee** <br> Chief Executive Officer <br> Urban Redevelopment Authority <br> Singapore
 
 ---
 
