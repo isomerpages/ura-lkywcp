@@ -44,5 +44,5 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 ---
 
-[^1]: Nominations made by the city administration/officials for their own city. 
+[^1]: Self-nominations refer to nominations that are made by the city administration/officials for their own city. 
 [^2]: The link to the online nomination form will be made available when nominations are open.
