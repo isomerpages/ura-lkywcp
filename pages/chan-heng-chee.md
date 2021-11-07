@@ -9,7 +9,7 @@ permalink: /about/prize-jury/prize-council/chan-heng-chee
 
 ---
 
-**Ambassador Chan Heng Chee** is Ambassador-at-Large with the Singapore Foreign Ministry. She is Professor at the Lee Kuan Yew Centre for Innovative Cities in the Singapore University of Technology and Design. In November 2019, she took up the position of Chairman of the ISEAS (Institute of Southeast Asian Studies)-Yusof Ishak Institute. She is Deputy Chairman of the Social Science Research Council (SSRC), a Member of the Science of Cities Committee, National Research Foundation (NRF) , and a member of the Advisory Council on the Ethical Use of Artificial Intelligence (AI) and Data, Ministry of Communications and Information. She is also a Member of the Presidential Council for Minority Rights.
+| **Ambassador Chan Heng Chee** is Ambassador-at-Large with the Singapore Foreign Ministry. She is Professor at the Lee Kuan Yew Centre for Innovative Cities in the Singapore University of Technology and Design. In November 2019, she took up the position of Chairman of the ISEAS (Institute of Southeast Asian Studies)-Yusof Ishak Institute. She is Deputy Chairman of the Social Science Research Council (SSRC), a Member of the Science of Cities Committee, National Research Foundation (NRF) , and a member of the Advisory Council on the Ethical Use of Artificial Intelligence (AI) and Data, Ministry of Communications and Information. She is also a Member of the Presidential Council for Minority Rights.
 
 Ambassador Chan is a Member of the Board of Trustees of the National University of Singapore and a Member of the Yale-NUS Governing Board. She is Chairman of the Pro-tem committee to establish a university of the arts in Singapore.
 
@@ -23,4 +23,4 @@ Ambassador Chan received a number of awards including The Public Administration 
 
 When Ambassador Chan left Washington at the end of her appointment, she received the Inaugural Asia Society Outstanding Diplomatic Achievement Award, the inaugural Foreign Policy Outstanding Diplomatic Achievement Award 2012 and the United States Navy Distinguished Public Service Award.
 
-Ambassador Chan holds a B.Soc.Sc (Hons) First Class from the National University of Singapore, an M.A. from Cornell University and a Ph.D from the University of Singapore. **<font color="#967942">O</font>**
+Ambassador Chan holds a B.Soc.Sc (Hons) First Class from the National University of Singapore, an M.A. from Cornell University and a Ph.D from the University of Singapore. **<font color="#967942">O</font>** |
