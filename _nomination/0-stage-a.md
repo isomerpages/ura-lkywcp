@@ -5,7 +5,7 @@ permalink: /nominations/stagea/
 
 ##### **Stage A closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [subscribe to our mailing list](https://go.gov.sg/newsletter).
 
-###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)Illustration © stories/ freepik.com
+###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
 
 The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/nominations/stageb/).
 
