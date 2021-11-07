@@ -31,7 +31,7 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 - Innovative urban solutions
 - Lessons for other cities
 
-**There is no entry fee required.**
+**<mark>There is no entry fee required.</mark>**
 
 #### **Next step**
 
