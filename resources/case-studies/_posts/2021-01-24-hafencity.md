@@ -63,7 +63,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Impacts of the project**
 
-###### ![Impacts](/images/features/2021/impacts-hamburg/)
+###### ![Impacts](/images/features/2021/impacts-hamburg.png/)
 
 - The iconic Elbphilharmonie Concert Hall was opened in 2017 and has already established itself as a major attraction and a world-renowned cultural space. 
 - Several schools and kindergartens and HafenCity University as well as two other universities have opened. 
