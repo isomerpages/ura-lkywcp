@@ -15,7 +15,7 @@ With a clear vision for the future, the government is commendable for taking on 
 
 #### **Social innovation**
 
-Medellín prides itself on **<mark>social innovation<mark>**; sociologists work hand-in-hand with urban planners on the frontline to offer help to the people, while residents from local communities are employed by the city to serve as guides, excellent examples of instilling local pride and creating of self-defensible spaces. Citizens are also empowered to decide the use of five percent of the municipal budget to meet their needs, even the poorest citizen is made an active participant of the city's transformation.
+Medellín prides itself on **<mark>social innovation</mark>**; sociologists work hand-in-hand with urban planners on the frontline to offer help to the people, while residents from local communities are employed by the city to serve as guides, excellent examples of instilling local pride and creating of self-defensible spaces. Citizens are also empowered to decide the use of five percent of the municipal budget to meet their needs, even the poorest citizen is made an active participant of the city's transformation.
 
 #### **Strong public-private alliances**
 
