@@ -6,18 +6,18 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 ---
 
-***Three ground-breaking projects in Seoul helped to reshape the city's identity as one that places its people over cars. This case study looks at the motivations and processes behind these urban innovations, and the desired outcomes that the city has achieved.*** 
+##### Three ground-breaking projects in Seoul helped to reshape the city's identity as one that places its people over cars. This case study looks at the motivations and processes behind these urban innovations, and the desired outcomes that the city has achieved. 
 
 <br>
 
-| **City** | Seoul |
+| **City** | [Seoul](/seoul/) |
 | **Type** | Urban regeneration |
 | **Location** | 3 locations in Seoul |
 | **Scale** | Large |
 
 #### **In brief**
 
-![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg/)*Seoullo7017. Photo: Seoul Metropolitan Government*
+###### ![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg/)**Seoullo7017** © Seoul Metropolitan Government
 
 - An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
 - This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
@@ -29,9 +29,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 #### **Key issues faced before the implementation of the project**
 
-![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg/)
-
-![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)*Yonsei-ro before and after conversion into a transit mall. Photos: Seoul Metropolitan Government*
+###### ![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg/)![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)**Yonsei-ro before and after conversion into a transit mall** © Seoul Metropolitan Government
 
 - Deteriorating structures of the former elevated highway above Cheonggyecheon stream and Seoul Station Overpass threatened public safety. 
 - The area under the elevated Cheonggye highway has turned into slums, prompting demands from citizens to restore the buried stream. 
@@ -43,7 +41,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 #### **Leadership and governance**
 
-![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)*The governance model for the Cheonggyecheon restoration project. Diagram: Seoul Metropolitan Government*
+###### ![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)**The governance model for the Cheonggyecheon restoration project** © Seoul Metropolitan Government
 
 <b><u>Cheonggyecheon</u></b>
 - Despite that the project was highly contentious during its proposal stage, the city leaders demonstrated political will to push through the project. 
@@ -62,7 +60,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 #### **Creativity and innovation**
 
-![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg/)*Cheonggyecheon has transformed into a recreational haven today. Photo: Seoul Metropolitan Government*
+###### ![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg/)**Cheonggyecheon has transformed into a recreational haven today** © Seoul Metropolitan Government
 
 - The three projects were able to achieve multiple results as well as catalytic effects:
   - By demolishing the ageing highway and restoring the **Cheonggyecheon** stream, Seoul not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and helped catalyse the revitalisation of the city's north. 
@@ -74,22 +72,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 #### **Impacts of the project**
 
-<table style="width: 100%;" cellpadding="0">
-<tbody>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/tourist.png" alt="tourist" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Cheonggyecheon attracts around 60,000 people every day<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-subway.png" alt="subway" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Subway use in central Seoul increased by about 5%<br></td>
-</tr>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-accident.png" alt="projects" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Traffic accidents at Yonsei-ro decreased by 35%<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/icon-crowd.png" alt="crowd" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Seoullo7017 attracted 7.4 million visitors as of end-2017<br></td>
-</tr>
-</tbody>
-</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
+###### ![Impacts](/images/features/2020/impacts-seoul2.png/)
 
 <b><u>Cheonggyecheon</u></b>
 - Cheonggyecheon attracts around 60,000 people every day, and a total of 180 million visitors in the nine years after its restoration, 7 million of whom are foreigners. 
@@ -111,7 +94,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 #### **Replicable ideas**
 
-![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)*Seoul citizens involved in the planting works at Seoullo7017. Photo: Seoul Metropolitan Government*
+###### ![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)**Seoul citizens involved in the planting works at Seoullo7017** © Seoul Metropolitan Government
 
 - It is important for cities to maintain the delicate balance between strong political leadership and inclusive governance. The public sector must understand the concerns of stakeholders and take necessary actions to alleviate negative impacts. Transparency and an effective leadership can help to communicate visions, build trust and resolve conflicts. 
 - By placing the needs of people first, the city can help to reshape itself towards a more inclusive urban environment. These projects demonstrate Seoul’s determination to place people over cars. 
