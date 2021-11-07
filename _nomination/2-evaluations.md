@@ -26,6 +26,8 @@ All submissions are evaluated based on the following criteria:
 
 #### **Announcement & award**
 
+###### ![Prize Lecture](/images/prize-lecture.jpg/)**Illustration** © stories/ freepik.com
+
 The results will be announced via a dedicated media conference held in Singapore[^1]. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture and Prize Forum respectively, key highlights of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
 
 #### **Questions?**
