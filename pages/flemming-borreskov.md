@@ -5,7 +5,7 @@ permalink: /about/prize-jury/prize-council/flemming-borreskov/
 
 <div style="width:150px"><img src="/images/jury/flemming-borreskov.png" alt="Flemming Borreskov" /></div>
 
-##### **Mr Flemming Borreskov** <br> President, Catalytic Society <br> Denmark
+##### **Mr Flemming Borreskov** <br> President <br> Catalytic Society <br> Denmark
 
 ---
 
