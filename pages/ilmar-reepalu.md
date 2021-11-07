@@ -5,7 +5,7 @@ permalink: /about/prize-jury/prize-council/ilmar-reepalu/
 
 <div style="width:150px"><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /></div>
 
-##### **Mr Ilmar Reepalu** <br> Vice President, Swedish Association of Local Authorities and Regions <br> Sweden
+##### **Mr Ilmar Reepalu** <br> Vice President <br> Swedish Association of Local Authorities and Regions <br> Sweden
 
 ---
 
