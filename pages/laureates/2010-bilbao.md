@@ -15,13 +15,13 @@ More significantly, the city was able to connect investment in infrastructure wi
 
 #### **Bilbao Ria 2000**
 
-The jury is particularly impressed with the establishment of <mark>Bilbao Ria 2000</mark> as an effective framework to align government, business and the community towards a shared vision for the city. Bilbao Ria 2000 is a testimony to the importance of strong leadership and institutionalised processes in key decision-making and sustained implementation.
+The jury is particularly impressed with the establishment of **<mark>Bilbao Ria 2000</mark>** as an effective framework to align government, business and the community towards a shared vision for the city. Bilbao Ria 2000 is a testimony to the importance of strong leadership and institutionalised processes in key decision-making and sustained implementation.
 
 More significantly, the success of Bilbao lies in its ability to achieve alignment of objectives and vision amongst government, businesses and the community. The formation of the Bilbao Ria 2000 was an effective demonstration of strong Public-Private Partnership to ensure the successful implementation of the city’s plans and projects.
 
 #### **25 projects over 25 years**
 
-Bilbao is also an exemplary city that continually re-invents and evolves itself amidst dynamic changes, and will serve as an inspiration to cities worldwide. The experience of Bilbao as a comprehensive 'city project', incrementally executed through <mark>25 urban projects over 25 years</mark>, has achieved a profound transformation of the city. The city has improved its environment and quality of life significantly, strengthened its social cohesiveness and cultural vibrancy and also increased its economic competitiveness.
+Bilbao is also an exemplary city that continually re-invents and evolves itself amidst dynamic changes, and will serve as an inspiration to cities worldwide. The experience of Bilbao as a comprehensive 'city project', incrementally executed through **<mark>25 urban projects over 25 years</mark>**, has achieved a profound transformation of the city. The city has improved its environment and quality of life significantly, strengthened its social cohesiveness and cultural vibrancy and also increased its economic competitiveness.
 
 It is noted that the key factors underlying the success of Bilbao's transformation is more than the 'Guggenheim Effect'. It is not about achieving urban transformation and economic and social vibrancy through a few iconic buildings. Rather, Bilbao has shown that strong leadership and a commitment to a systematic and long-term plan, based on solid processes and supporting infrastructure, are key factors to the success of a city's transformation.
 
