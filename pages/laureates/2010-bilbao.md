@@ -15,7 +15,7 @@ More significantly, the city was able to connect investment in infrastructure wi
 
 #### **Bilbao Ria 2000**
 
-The jury is particularly impressed with the establishment of **Bilbao Ria 2000** as an effective framework to align government, business and the community towards a shared vision for the city. Bilbao Ria 2000 is a testimony to the importance of strong leadership and institutionalised processes in key decision-making and sustained implementation.
+The jury is particularly impressed with the establishment of <span style="background-color:#00FEFE">Bilbao Ria 2000</span> **Bilbao Ria 2000** as an effective framework to align government, business and the community towards a shared vision for the city. Bilbao Ria 2000 is a testimony to the importance of strong leadership and institutionalised processes in key decision-making and sustained implementation.
 
 More significantly, the success of Bilbao lies in its ability to achieve alignment of objectives and vision amongst government, businesses and the community. The formation of the Bilbao Ria 2000 was an effective demonstration of strong Public-Private Partnership to ensure the successful implementation of the city’s plans and projects.
 
