@@ -5,8 +5,7 @@ permalink: /about/prize-jury/nominating-committee/chris-luebkeman/
 
 <div style="width:150px"><img src="/images/jury/chris-luebkeman.png" alt="Chris Luebkeman" /></div>
 
-**Dr Chris Luebkeman**<br>
-Leader, Strategic Foresight Hub, Office of the President, ETH Zurich, Switzerland
+##### **Dr Chris Luebkeman** <br> Leader, Strategic Foresight Hub, Office of the President, ETH Zurich <br> Switzerland
 
 ---
 
