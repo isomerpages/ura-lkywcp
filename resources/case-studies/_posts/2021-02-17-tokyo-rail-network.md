@@ -6,7 +6,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 ---
 
-##### Well known and often envied for its reliability and efficiency, Tokyo’s highly extensive train network is developed over some 60 years, anticipating and growing in tandem with Japan’s capital and most important city。 
+##### Well known and often envied for its reliability and efficiency, Tokyo’s highly extensive train network is developed over some 60 years, anticipating and growing in tandem with Japan’s capital and most important city.
 
 <br>
 
