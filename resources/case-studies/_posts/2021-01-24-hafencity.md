@@ -6,18 +6,18 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 ---
 
-***A former industrial brownfield site, HafenCity is Hamburg’s new ‘city-within-a-city’ and a role model of inclusive inner-city densification realised through an innovative governance structure and a unique land sales programme.*** 
+##### A former industrial brownfield site, HafenCity is Hamburg’s new ‘city-within-a-city’ and a role model of inclusive inner-city densification realised through an innovative governance structure and a unique land sales programme.
 
 <br>
 
-| **City** | [Hamburg](/laureates/2018/special-mentions/hamburg/) |
+| **City** | [Hamburg](/hamburg/) |
 | **Type** | Urban regeneration |
 | **Location** | Elbe River waterfront  |
 | **Size** | 157 hectares |
 
 #### **In brief**
 
-![Aerial view of HafenCity](/images/features/2021/hafencity-aerial.jpg/)*Aerial view of HafenCity. Photo: Jonas Weinitschke © 123rf.com*
+###### ![Aerial view of HafenCity](/images/features/2021/hafencity-aerial.jpg/)**Aerial view of HafenCity** © Jonas Weinitschke/ 123rf.com
 
 - HafenCity is a 157ha inner-city brownfield development project located beside the Elbe River and south of Hamburg’s historic city centre – a ‘city within a city’, featuring a fine-grain mix of offices, residences, education, culture, leisure, tourism and retail.
 - When completed, HafenCity will house more than 2.4 million square metres of gross floor area, more than 7,000 residential units, accommodate 5,000 university students and 70,000 visitors a day, and open up some 45,000 job opportunities. 
@@ -27,7 +27,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Key issues faced before the implementation of the project**
 
-![The extent of HafenCity next to the inner-city](/images/features/2021/hafencity-area.jpg/)*The extent of HafenCity next to the inner-city. Photo: City of Hamburg/HafenCity*
+###### ![The extent of HafenCity next to the inner-city](/images/features/2021/hafencity-area.jpg/)**The extent of HafenCity next to the inner-city** © City of Hamburg/HafenCity
 
 - The area was previously part of Hamburg’s industrial port and a customs-free zone, bordering the historic [Speicherstadt](https://www.hamburg.com/architecture/11748606/speicherstadt/) – a UNESCO World Heritage Site since 2015 – to the north.
 - Being an industrial area, it was poorly integrated with Hamburg’s inner city and blocked the latter’s access to the Elbe River waterfront. 
@@ -49,7 +49,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Creativity and innovation**
 
-![The historic Speicherstadt district](/images/features/2021/speicherstadt.jpg/)*The historic Speicherstadt district. Photo: galeja © 123rf.com*
+###### ![The historic Speicherstadt district](/images/features/2021/speicherstadt.jpg/)**The historic Speicherstadt district** © galeja/ 123rf.com
 
 - The tendering process described above is a breakthrough for Hamburg in terms of city planning and is akin to that of a ‘matching process’ which created ideal urban environments instead of relying exclusively on price mechanism. 
 - Differing from other waterfront areas focusing only on office and retail concepts or high-cost living, HafenCity is able to achieve a socially balanced mix through a closely supervised and coordinated approach. 
@@ -63,22 +63,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Impacts of the project**
 
-<table style="width: 100%;" cellpadding="0">
-<tbody>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-school.png" alt="school" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Several schools opened<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-home.png" alt="home" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>7,000 homes to be created<br></td>
-</tr>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-job.png" alt="job" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>45,000 jobs to be created<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2021/icon-waterfront.png" alt="waterfront" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Hamburg’s inner city now extends to the waterfront<br></td>
-</tr>
-</tbody>
-</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
+###### ![Impacts](/images/features/2021/impacts-hamburg/)
 
 - The iconic Elbphilharmonie Concert Hall was opened in 2017 and has already established itself as a major attraction and a world-renowned cultural space. 
 - Several schools and kindergartens and HafenCity University as well as two other universities have opened. 
@@ -89,7 +74,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Replicable ideas**
 
-![Elbphilharmonie Concert Hall](/images/features/2021/hafencity.jpg/)*Elbphilharmonie Concert Hall. Photo: macronomy © 123rf.com*
+###### ![Elbphilharmonie Concert Hall](/images/features/2021/hafencity.jpg/)**Elbphilharmonie Concert Hall** © macronomy/ 123rf.com
 
 - HafenCity is a role model for not just Hamburg, but other cities in Germany and Europe in implementing ecologically, socially and economically sustainable development concepts. 
 - In large urban areas with a long-term development plan such as HafenCity, a flexible process would allow its development to address new challenges, requirements and issues over time. As such, the master plan was completely reworked in 2010 with intensive public discussion to address other areas that were not originally included. 
