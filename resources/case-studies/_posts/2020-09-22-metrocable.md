@@ -17,7 +17,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **In brief**
 
-###### ![Children playing while the MetroCable soars overhead](/images/features/2020/metrocable-medellin.jpg/)**Children playing while the MetroCable soars overhead** © ACI Medellín*
+###### ![Children playing while the MetroCable soars overhead](/images/features/2020/metrocable-medellin.jpg/)**Children playing while the MetroCable soars overhead** © ACI Medellín
 
 - In 2004, Medellín introduced the MetroCable at Santo Domingo Savio – the world’s first cable car system for daily commuting, [at a cost of USD $24 million](https://www.centreforpublicimpact.org/case-study/urban-cable-car-medillincolombia/). 
 - For the first time, the previously inaccessible and marginalised communities in this neighbourhood were given a direct access to the rest of the city, hence opening up a world of opportunities for them. 
@@ -53,7 +53,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Creativity and innovation**
 
-###### ![A metro library](/images/features/2020/metro-library.jpg/)**A metro library** © Urban Redevelopment Authority Singapore*
+###### ![A metro library](/images/features/2020/metro-library.jpg/)**A metro library** © Urban Redevelopment Authority Singapore
 
 - The Metro company recognised its role of social responsibility and has implemented various measures for greater social inclusion. For example, *‘Cultura Metro’* (Metro Culture) is an initiative where local guides are employed to educate the public on good public behaviour in metro stations and trains. Likewise, a ‘Metro Friends’ programme reaches out to children on how to take care of public spaces. 
 - Metro stations also double up as a node for quick access to information, with the integration of computer rooms, artworks celebrating local historic figures, small libraries, and open bookshelves where commuters can borrow books to read on the go and return later. 
