@@ -5,7 +5,7 @@ permalink: /nominations/evaluations/
 
 ##### The evaluations of the 2020 Prize have concluded. The results will be announced at a later date. 
 
-###### ![Evaluation Process](/images/evaluation-process.jpg/)**Prof Wulf Daseking (left), and Dr Cheong Koon Hean (right) during a Nominating Committee meeting** © Urban Redevelopment Authority Singapore
+###### ![Evaluation Process](/images/evaluations.jpg/)**Illustration** © stories/ freepik.com
 
 #### **Evaluation process**
 
@@ -13,7 +13,7 @@ All submissions are evaluated through a rigorous two-tier process comprising the
 
 #### **Judging criteria**
 
-The Prize looks at the holistic transformation of the city over a period of <b><u>at least 10 years</u></b>, and emphasises on the creation of liveable, vibrant and sustainable urban communities within a quality built environment that incorporates the principles of sustainable development.
+The Prize looks at the holistic transformation of the city over a period of **<mark>at least 10 years</mark>**, and emphasises on the creation of liveable, vibrant and sustainable urban communities within a quality built environment that incorporates the principles of sustainable development.
 
 All submissions are evaluated based on the following criteria:
 
