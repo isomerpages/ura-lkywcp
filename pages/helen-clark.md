@@ -5,8 +5,7 @@ permalink: /about/prize-jury/prize-council/helen-clark/
 
 <div style="width:150px"><img src="/images/jury/helen-clark.png" alt="Helen Clark" /></div>
 
-**Ms Helen Clark**<br>
-Former Administrator, United Nations Development Programme, New Zealand
+##### **Ms Helen Clark** <br> Former Administrator, United Nations Development Programme <br> New Zealand
 
 ---
 
