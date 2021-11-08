@@ -17,7 +17,7 @@ permalink: /faq/
 
 ---
 
-##### **STAGE A NOMINATIONS**
+###### **STAGE A NOMINATIONS**
 
 #### **Who is eligible to nominate?**
 
