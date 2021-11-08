@@ -51,7 +51,7 @@ Faced with increasing challenges in solid waste and environmental management, Su
 
 Surabaya’s efforts in rejuvenating its urban parks has seen the increase in the number of green spaces to about 100 spots across the city. The city now has 11 major city parks with different themes, the most prominent being Bungkul Park, which was transformed into a friendly digital park and awarded the best city park in Asia by UN Habitat in 2013. Reading corners and mobile libraries are also conveniently located in these parks to provide citizens easy and casual access to information. 
 
-###### ![A community waste bank – transforming trash into cash](/images/features/2018/surabaya-waste-bank.jpg/)*A community waste bank – transforming trash into cash © City of Surabaya
+###### ![A community waste bank – transforming trash into cash](/images/features/2018/surabaya-waste-bank.jpg/)**A community waste bank – transforming trash into cash** © City of Surabaya
 
 ###### ![A composting house](/images/features/2018/surabaya-composting.jpg/)**A composting house** © City of Surabaya
 
