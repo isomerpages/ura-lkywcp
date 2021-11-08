@@ -5,11 +5,11 @@ image: /images/features/2020/pingjiang-historic-district.jpg
 description: At risk of losing its heritage and character in its rapid modernisation, the 2014 Prize Laureate Suzhou embarked on a comprehensive approach to heritage perservation that also emphasised intangible qualities. The Pingjiang Historic District is an exemplar of the city's efforts.
 ---
 
-***At risk of losing its heritage and character in its rapid modernisation, the 2014 Prize Laureate Suzhou embarked on a comprehensive approach to heritage perservation that also emphasised intangible qualities. The Pingjiang Historic District is an exemplar of the city's efforts.*** 
+##### At risk of losing its heritage and character in its rapid modernisation, the 2014 Prize Laureate Suzhou embarked on a comprehensive approach to heritage perservation that also emphasised intangible qualities. The Pingjiang Historic District is an exemplar of the city's efforts. 
 
 <br>
 
-| **City** | Suzhou |
+| **City** | [Suzhou](/suzhou/) |
 | **Type** | Urban regeneration |
 | **Completion** | Ongoing |
 | **Size** | 25km<sup>2</sup> |
@@ -17,7 +17,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **In brief**
 
-![Pingjiang Historic District](/images/features/2020/pingjiang-map.jpg/)*Map showing location of Pingjiang Historic District © Suzhou*
+###### ![Pingjiang Historic District](/images/features/2020/pingjiang-map.jpg/)**Map showing location of Pingjiang Historic District** © City of Suzhou
 
 - Suzhou emphasises the preservation of its ancient city while modernising through new townships in its urban development.
 - The 116.5ha Pingjiang Historic District is one of the city’s preserved areas, and features a chessboard pattern formed by intertwined water and road networks, including 13 ancient bridges over a 3.5km river. 
@@ -29,7 +29,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Key issues faced before the implementation of the project**
 
-![Pingjiang Historic District before the transformation](/images/features/2020/pingjiang-before.jpg/)*Pingjiang Historic District before the transformation © Suzhou*
+###### ![Pingjiang Historic District before the transformation](/images/features/2020/pingjiang-before.jpg/)**Pingjiang Historic District before the transformation** © City of Suzhou
 
 - Urgent need for urban (re)development due to rapid economic and demographic growth, which in turn resulted in demolition or irreparable damage to historic streets. 
 - The city was at risk of losing its character, architectural heritage and environment due to its rapid expansion. 
@@ -38,7 +38,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Leadership and governance**
 
-![Governance structure of Pingjiang Historic District](/images/features/2020/pingjiang-chart.jpg/)*Governance structure of Pingjiang Historic District © Suzhou*
+###### ![Governance structure of Pingjiang Historic District](/images/features/2020/pingjiang-chart.jpg/)**Governance structure of Pingjiang Historic District** © City of Suzhou
 
 - To minimise the destruction to the city’s character and heritage due to modernisation, the city adopted a comprehensive approach to preservation rather than an ad hoc manner. 
 - The project is implemented on a government-led, market-operated approach: funded through bank loan and initiation capital from the government, a company ‘Pingjiang Historic District Company’ was established in 2002 as the main body overseeing the project. 
@@ -48,7 +48,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Creativity and innovation**
 
-![Utilities pipes installation in Pingjiang Historic District](/images/features/2020/pipe-installation.jpg/)*Utilities pipes installation in Pingjiang Historic District © Suzhou*
+###### ![Utilities pipes installation in Pingjiang Historic District](/images/features/2020/pipe-installation.jpg/)**Utilities pipes installation in Pingjiang Historic District** © City of Suzhou
 
 - Under a guiding principle of ‘repair the old, retain the old’, traditional architecture, ancient bridges and other intangible heritage are protected and restored. 
 - The following strategies are adopted for classification of projects: 
@@ -62,22 +62,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Impacts of the project**
 
-<table style="width: 100%;" cellpadding="0">
-<tbody>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/chinese-arch.png" alt="chinese arch" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>>30,000m<sup>2</sup> traditional architecture restored<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/roads.png" alt="road" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>70 roads and alleyways repaired<br></td>
-</tr>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/waves.png" alt="water" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Water quality improved<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/male-tourist.png" alt="tourist" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>>2 million tourists each year<br></td>
-</tr>
-</tbody>
-</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
+###### ![Impacts](/images/features/2020/impacts-suzhou2.png/)
 
 - More than 30,000m<sup>2</sup> traditional architecture, such as Shou’an Bridge, Shengli Bridge, Tongli Bridge and more than 600m of piers and embankment restored.
 - More than 16km of roads and alleyways repaired, with underground parking spaces for schools and commercial streets constructed within the district.
@@ -89,7 +74,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Replicable ideas**
 
-![Pingjiang Historic District today](/images/features/2020/balancing-old-new.jpg/)*Pingjiang Historic District today © Suzhou*
+###### ![Pingjiang Historic District today](/images/features/2020/balancing-old-new.jpg/)**Pingjiang Historic District today** © City of Suzhou
 
 - Cities should recognise the importance of cultural conservation at city-wide level, even as the drive for modernisation gains momentum.
 - It is important for cities to plan for and invest in their future. By committing to infrastructure investment, cities can achieve the twin goals of facilitating economic growth and improving quality of life. 
