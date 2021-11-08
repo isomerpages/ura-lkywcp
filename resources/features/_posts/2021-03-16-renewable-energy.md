@@ -9,9 +9,9 @@ description: More cities are embracing renewable energy to reduce their greenhou
 |---:|
 | Feng Zengkun |
 
-***More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal — operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.***
+##### More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal — operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.
 
-![How can cities tap on renewable energy?](/images/features/2021/renewable-energy.png/)*How can cities tap on renewable energy? Illustration: [vectorpouch](https://www.freepik.com) Additional text: Lee Kuan Yew World City Prize*
+###### ![How can cities tap on renewable energy?](/images/features/2021/renewable-energy.png/)**How can cities tap on renewable energy?** © vectorpouch/ freepik.com, Additional text: Editor's own
 
 In 2020, [Europeans received more electricity from renewable sources than fossil fuels for the first time](https://edition.cnn.com/2021/01/24/business/eu-renewable-energy-fossil-fuels/index.html), continuing the region’s trend of shifting its energy mix from coal and natural gas towards wind, solar and other clean power sources. With advances in renewable energy technologies and a growing sense of urgency in the fight against climate change, more cities are tapping more of the clean power, and some are even reaching for a once-unimaginable goal: operating entirely, or almost entirely, on it to reduce their greenhouse gas emissions. 
 
@@ -31,7 +31,7 @@ In India, the government of New Delhi has forged a different kind of partnership
 
 The capital said that the area can hold enough solar panels to generate 38 megawatts of power per year, and it will issue tenders for the panels’ installation by the end of 2021. Such dual use of crop farmland, called [agricultural photovoltaics](https://medium.com/enrique-dans/how-agrivoltaic-technology-could-redesign-farming-a4af664067c6), or agrivoltaics, is also gaining popularity in Japan, the [United States](https://grist.org/food/cash-strapped-farms-are-growing-a-new-crop-solar-panels/), and other countries. 
 
-![More cities are tapping on renewables such as energy from wind turbines.](/images/features/2021/wind-turbines.jpg/)*More cities are tapping on renewables such as energy from wind turbines. Photo: [onlyyouqj](https://www.freepik.com)*
+###### ![More cities are tapping on renewables such as energy from wind turbines.](/images/features/2021/wind-turbines.jpg/)**More cities are tapping on renewables such as energy from wind turbines** © [onlyyouqj/ freepik.com
 
 #### **Enlisting people and properties**
 
@@ -44,10 +44,12 @@ Some cities have set up their own power companies to negotiate better rates for 
 London in Britain, for its part, created its own clean energy company, called [London Power](https://www.london.gov.uk/what-we-do/environment/london-power), in January 2020 to offer residents more affordable renewable energy plans. Furthermore, any profits made by the utility are invested in the city’s social justice and environmental plans. In January 2021, at the one-year anniversary of the utility’s launch, the city said it had signed up 4,512 households, with the customers averting an average of 963 kilograms of emissions, and those on the cheapest plan saving an average of GBP 304 (approximately USD $424).
 
 Cities aiming to accelerate their residents’ take-up of renewable energy can also learn from Boston in the United States. In February 2021, the city [implemented an opt-out programme](https://www.boston.gov/departments/environment/community-choice-electricity) that automatically transferred residents and firms on the local utility’s fossil fuel-generated electricity plans onto plans that use more renewable energy. Mr Christopher Cook, Boston’s Chief of Environment, Energy and Open Space, [explained the city’s thinking](https://www.dotnews.com/2020/community-choice-electricity-coming-customers-boston): “We don’t want people to leave the programme, but if they choose to do so for whatever reason, they can. But most people will probably choose to do nothing. Just by doing that, they are making us more sustainable.”
+<br>
+> "Phasing out fossil fuels and transitioning to green economies is a monumental challenge, but the solutions exist, and we need to finance them, scale them up and accelerate them."
+
+<div align="right"><b>— Mr Marcel Alers</b> <br> Head of Energy, United Nations</div>
 
 #### **The road ahead for renewables**
-
-> "Phasing out fossil fuels and transitioning to green economies is a monumental challenge, but the solutions exist, and we need to finance them, scale them up and accelerate them."
 
 As nascent technologies mature, they could open up other opportunities in renewable energy for cities too. [Bangkok](https://www.powerledger.io/client/t77-bcpg-mea/) in Thailand and [Osaka](https://www.powerledger.io/announcement/power-ledger-and-kepco-bring-p2p-energy-trading-to-osaka-japan/) in Japan are among several Asian cities that have piloted peer-to-peer, blockchain-enabled renewable energy trading platforms in recent years, so that small-scale power generators, such as residents with solar panels on their homes, can sell their surplus electricity to neighbours or nearby buildings more quickly and easily. 
 
