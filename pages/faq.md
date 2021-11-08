@@ -15,9 +15,9 @@ permalink: /faq/
 
 ---
 
-#### **Stage A nominations**
+# **Stage A nominations**
 
-- **Who is eligible to nominate?**
+#### **Who is eligible to nominate?**
 
 Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
 
@@ -66,6 +66,8 @@ The following are some guiding points for the recommendation letter:
 
 The recomendation letter should preferably be around 600 words.
 
+[Back to top](#sections)
+
 ---
 
 # **Stage B submissions**
@@ -111,6 +113,8 @@ The demonstration projects should illustrate the success of the city's overall m
 
 Demonstration projects can either be fully or partially completed. The completed phase(s) should sufficiently demonstrate the efficacy of the project, i.e. there should be some quantifiable or observable results. The will allow the jurors to make a fair evaluation of the project.
 
+[Back to top](#sections)
+
 ---
 
 # **World Cities Summit** 
@@ -135,6 +139,8 @@ For COVID-19-related measures and travel restrictions in Singapore, please visit
 
 - [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
 - [Border control measures in Singapore](https://safetravel.ica.gov.sg)
+
+[Back to top](#sections)
 
 ---
 
