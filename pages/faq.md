@@ -32,15 +32,15 @@ Self-nominations (i.e. nominations made by the city administration for their own
 
 #### **How many nominations can a nominator make?**
 
-There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form (*nominations closed*) and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
+There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form[^1] and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
 
 #### **Who can be nominated for the Prize?**
 
-The Prize is <u>awarded to cities only</u>. As such, a city may be nominated with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable). 
+The Prize is **<mark>awarded to cities only</mark>**. As such, a city may be nominated with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable). 
 
 #### **How do I make the nomination?**
 
-The nominator shall make the nominations using the official nomination form (*nominations closed*), accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
+The nominator shall make the nominations using the official nomination form[^1], accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
 
 #### **How will I know if my nomination is received?**
 
@@ -52,7 +52,7 @@ No. There are no fees required for both Stage A and B.
 
 #### **What should the Stage A recommendation letter contain?**
 
-The nominator should make a case to support why the city should win the Prize by highlighting key strategies and/or initiatives that contribute to the holistic transformation of the city over <u>at least 10 years</u>, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
+The nominator should make a case to support why the city should win the Prize by highlighting key strategies and/or initiatives that contribute to the holistic transformation of the city over **<mark>at least 10 years</mark>**, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
 
 The following are some guiding points for the recommendation letter:
 
@@ -78,7 +78,7 @@ The nominated city (i.e. city government and/or key partner organisation appoint
 
 #### **What do I need to submit for Stage B?**
 
-The nominated city will be informed via email to prepare and submit a detailed report using the official report template. This report comprises the following:
+The nominated city will be informed via email to prepare and submit a detailed report using the official report template[^2]. This report comprises the following:
 
 - Key statistics comparing the city today and 10-20 years ago
 - Background of the city
@@ -121,7 +121,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 #### **When will the results be announced?**
 
-The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
+The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our mailing list](https://go.gov.sg/newsletter) to get our latest news in your inbox.
 
 #### **Who will be invited to receive the award?**
 
@@ -145,3 +145,8 @@ For COVID-19-related measures and travel restrictions in Singapore, please visit
 ---
 
 For other enquiries, please [contact us](/contact-us/). 
+
+---
+
+[^1]: The link to the online nomination form will be made available when nominations are open.
+[^2]: The link to download the official report template will be made available when nominations are open.
