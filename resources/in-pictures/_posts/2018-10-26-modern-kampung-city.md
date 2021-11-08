@@ -5,7 +5,7 @@ image: /images/features/2018/kampung-gudakan-2.jpg
 description: As a growing metropolis that faces challenges in environmental and social problems, Surabaya is constantly looking for new mechanisms to drive the economy and mitigate poverty. The city successfully catalysed ground-up initiatives from its businesses and citizens to improve the environment, create jobs, and manage urban waste.
 ---
 
-***As a growing metropolis that faces challenges in environmental and social problems, Surabaya is constantly looking for new mechanisms to drive the economy and mitigate poverty. The city successfully catalysed ground-up initiatives from its businesses and citizens to improve the environment, create jobs, and manage urban waste.***
+##### As a growing metropolis that faces challenges in environmental and social problems, Surabaya is constantly looking for new mechanisms to drive the economy and mitigate poverty. The city successfully catalysed ground-up initiatives from its businesses and citizens to improve the environment, create jobs, and manage urban waste.
 
 ---
 
