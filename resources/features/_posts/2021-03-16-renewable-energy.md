@@ -31,7 +31,7 @@ In India, the government of New Delhi has forged a different kind of partnership
 
 The capital said that the area can hold enough solar panels to generate 38 megawatts of power per year, and it will issue tenders for the panels’ installation by the end of 2021. Such dual use of crop farmland, called [agricultural photovoltaics](https://medium.com/enrique-dans/how-agrivoltaic-technology-could-redesign-farming-a4af664067c6), or agrivoltaics, is also gaining popularity in Japan, the [United States](https://grist.org/food/cash-strapped-farms-are-growing-a-new-crop-solar-panels/), and other countries. 
 
-###### ![More cities are tapping on renewables such as energy from wind turbines.](/images/features/2021/wind-turbines.jpg/)**More cities are tapping on renewables such as energy from wind turbines** © [onlyyouqj/ freepik.com
+###### ![More cities are tapping on renewables such as energy from wind turbines.](/images/features/2021/wind-turbines.jpg/)**More cities are tapping on renewables such as energy from wind turbines** © onlyyouqj/ freepik.com
 
 #### **Enlisting people and properties**
 
