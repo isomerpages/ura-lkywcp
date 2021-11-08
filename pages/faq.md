@@ -72,7 +72,7 @@ The recomendation letter should preferably be around 600 words.
 
 ---
 
-## **Stage B submissions**
+###### **STAGE B SUBMISSIONS**
 
 #### **Who is supposed to prepare the Stage B submission?**
 
@@ -119,7 +119,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 ---
 
-## **Announcement and award** 
+###### **ANNOUNCEMENT AND AWARD** 
 
 #### **When will the results be announced?**
 
