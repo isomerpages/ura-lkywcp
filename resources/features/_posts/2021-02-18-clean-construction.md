@@ -9,9 +9,9 @@ description: By targeting pollutive construction, cities can eliminate a signifi
 |---:|
 | Feng Zengkun |
 
-***By targeting pollutive construction, cities can eliminate a significant portion of their greenhouse gas emissions and clear their path to a more sustainable future. These are some of the cities leading the way through measures such as mandating zero-emissions construction sites, developing low-carbon materials and 3D-printing buildings.***
+##### By targeting pollutive construction, cities can eliminate a significant portion of their greenhouse gas emissions and clear their path to a more sustainable future. These are some of the cities leading the way through measures such as mandating zero-emissions construction sites, developing low-carbon materials and 3D-printing buildings.
 
-![How can cities eliminate pollutive construction?](/images/features/2021/clean-construction.jpg/)*How can cities eliminate pollutive construction? Photo: [onlyyouqj](https://www.freepik.com)*
+###### ![How can cities eliminate pollutive construction?](/images/features/2021/clean-construction.jpg/)**How can cities eliminate pollutive construction?** © onlyyouqj/freepik.com
 
 In November 2020, the Mayors of Oslo, Budapest, Mexico City and Los Angeles [pledged to halve their cities’ greenhouse gas emissions from construction by 2030](https://www.c40.org/press_releases/clean-construction-declaration-launch), aiming to play their part to make the carbon-intensive construction sector more environmentally friendly. Among other measures, the cities will normalise the use of electric machinery in construction by employing them in government projects, approve at least one flagship net-zero emissions construction project by 2025, and publish annual reports on their progress.
 
@@ -31,7 +31,7 @@ As part of its wide-ranging efforts to become a carbon-neutral city by 2050, Los
 
 #### **Looking beyond concrete**
 
-![Can cities use timber more extensively as a concrete alternative?](/images/features/2021/timber-construction.jpg/)*Can cities use timber more extensively as a concrete alternative? Photo: brizmaker © 123rf.com*
+###### ![Can cities use timber more extensively as a concrete alternative?](/images/features/2021/timber-construction.jpg/)**Can cities use timber more extensively as a concrete alternative?** © brizmaker/ 123rf.com
 
 Some cities are [encouraging developers to replace concrete](https://www.sciencedaily.com/releases/2020/03/200323132416.htm), a carbon-intensive product that is responsible for eight percent of global emissions, with sustainable alternatives. Vancouver in Canada has [provided technical assistance to firms building with mass timber](https://council.vancouver.ca/20200527/documents/pspc2.pdf?utm_source=vancouver%20is%20awesome&utm_campaign=vancouver%20is%20awesome&utm_medium=referral), which is made up of small pieces of lumber laminated together to form fire-resistant components for floors, walls, columns and beams, because it could reduce construction’s embodied emissions by 25 to 45 percent or more. 
 
@@ -41,9 +41,12 @@ Several cities, including Honolulu in the state of Hawaii in the United States a
 
 Sydney developed lower-carbon concrete made partially from waste from its coal-fired power stations and steel manufacturing plants, and is currently [trialling the material’s performance and durability on a major road leading to the Sydney Airport](https://news.cityofsydney.nsw.gov.au/articles/sydney-drives-world-first-green-roads-trial). The city calculated that its concrete’s production generates just one third of the emissions of traditional concrete, and researchers will use the trial’s findings to formulate guidelines for its wider application.
 
-#### **Of printing and prefabrication**
+<br>
+> ##### "We need to unite businesses, industry and government on all levels to advance climate action. Together, we can ensure that the air in our cities is cleaner and healthier to breathe."
 
-> "We need to unite businesses, industry and government on all levels to advance climate action. Together, we can ensure that the air in our cities is cleaner and healthier to breathe."
+<div align="right"><b>— Mr Raymond Johansen</b> <br> Governing Mayor of Oslo</div>
+
+#### **Of printing and prefabrication**
 
 As technologies mature, they can open up opportunities for cities. With 3D printing machines becoming increasingly versatile and powerful, Dubai in the United Arab Emirates has [set the goal of using them in at least 25 percent of new buildings’ construction by 2030](https://gulfbusiness.com/dubai-plans-to-3d-print-25-of-buildings-by-2030/), to cut labour costs by 50 to 80 percent, construction waste by up to 60 percent, and overall costs by 50 to 70 percent. In traditional building projects, workers put together wooden forms and pour concrete into them to make walls and other structures. Depending on the complexity of the building’s design, some forms may be used only once. By using 3D printing for construction, no forms are needed, eliminating a significant source of waste, among others. 
 
