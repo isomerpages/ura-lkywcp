@@ -13,7 +13,7 @@ permalink: /faq/
 
 - [Stage A nominations](#stage-a-nominations) 
 - [Stage B submissions](#stage-b-submissions)
-- [World Cities Summit](#world-cities-summit)
+- [Announcement & award](#announcement-&-award)
 
 ---
 
@@ -119,7 +119,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 ---
 
-## **World Cities Summit** 
+## **Announcement & award** 
 
 #### **When will the results be announced?**
 
