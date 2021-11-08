@@ -6,11 +6,11 @@ description: Besides economic development and environmental protection, the 2014
 
 ---
 
-***Besides economic development and environmental protection, the 2014 Prize Laureate Suzhou introduced innovative social policies to ensure fair and equal treatment for all for a sustained future.*** 
+##### Besides economic development and environmental protection, the 2014 Prize Laureate Suzhou introduced innovative social policies to ensure fair and equal treatment for all for a sustained future. 
 
 <br>
 
-| **City** | Suzhou |
+| **City** | [Suzhou](/suzhou/) |
 | **Type** | Social programmes |
 | **Completion** | Ongoing |
 | **Size** | Citywide |
@@ -18,7 +18,7 @@ description: Besides economic development and environmental protection, the 2014
 
 #### **In brief**
 
-![Inclusive social policies in Suzhou](/images/features/2020/suzhou-children.jpg/)*Children of migrant workers in Suzhou are given equal opportunities as their counterparts. Photo: _fla © 123rf.com*
+###### ![Inclusive social policies in Suzhou](/images/features/2020/suzhou-children.jpg/)**Children of migrant workers in Suzhou are given equal opportunities as their counterparts** © _fla/ 123rf.com
 
 - Suzhou’s economic growth is complemented by innovative social policies that facilitated the integration of migrant workers, where they are given equal access to health and educational benefits as local residents, and contributed to social stability. 
 - These inclusionary policies are regarded as one of the significant achievements of Suzhou.
@@ -55,22 +55,7 @@ description: Besides economic development and environmental protection, the 2014
 
 #### **Impacts of the project**
 
-<table style="width: 100%;" cellpadding="0">
-<tbody>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/work.png" alt="work" /><br></td>
-  <td style="text-align: left; vertical-align: top;"><br>Unemployment rate decreased<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/wallet.png" alt="wallet" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Average disposable income for urban households increased<br></td>
-</tr>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/leisure.png" alt="leisure" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Per capita area of public green areas increased<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2020/worker.png" alt="worker" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Most popular city for migrant workers nationwide<br></td>
-</tr>
-</tbody>
-</table>*Icons made by Good Ware from [www.flaticon.com](http://www.flaticon.com/)*
+###### ![Impacts](/images/features/2020/impacts-suzhou3.png/)
 
 - Unemployment rates decreased from the peak of 4.08% in 2002 to less than 3% in 2013, with employees in tertiary industry accounting for over half of the total employed population.
 - Improvement in pay scale sees the average disposable income for urban households increase from RMB 10,617 (approximately USD $1,726) in 2002 to RMB 37,531 (approximately USD $6,103) in 2012. 
@@ -85,6 +70,6 @@ description: Besides economic development and environmental protection, the 2014
 
 #### **Replicable ideas**
 
-![A community event in Suzhou](/images/features/2020/suzhou-community.jpg/)*A community event in Suzhou © Suzhou*
+###### ![A community event in Suzhou](/images/features/2020/suzhou-community.jpg/)**A community event in Suzhou** © City of Suzhou
 
 - It is important for a city to have inclusionary policies in the treatment of migrant workers, in order to bring about greater community integration and social stability. **<font color="#967942">O</font>**
