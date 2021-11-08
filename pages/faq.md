@@ -7,6 +7,8 @@ permalink: /faq/
 |---:|
 | 20 Oct 2021 |
 
+[Stage A nominations](#stage-a-nominations) \| [Stage B submissions](#stage-b-submissions) \| [World Cities Summit](#world-cities-summit)
+
 # **Stage A nominations**
 
 #### **Who is eligible to nominate?**
