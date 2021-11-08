@@ -7,6 +7,8 @@ permalink: /faq/
 |---:|
 | 20 Oct 2021 |
 
+![FAQ](/images/FAQ.jpg/)
+
 #### **Sections**
 
 - [Stage A nominations](#stage-a-nominations) 
