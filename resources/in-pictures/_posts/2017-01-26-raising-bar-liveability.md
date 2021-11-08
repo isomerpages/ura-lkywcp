@@ -15,7 +15,7 @@ Vienna is a historic “Emperor’s city” with over 2 millennia of history, on
 
 ###### ![Vienna’s historic city centre](/images/features/2017/vienna-aerial.jpg/)**Vienna’s historic city centre** © Urban Redevelopment Authority Singapore
 
-###### ![Schönbrunn Palace](/images/features/2017/schobrunn-palace.jpg/)**Schönbrunn Palace** © **Lee Kuan Yew World City Prize***
+###### ![Schönbrunn Palace](/images/features/2017/schobrunn-palace.jpg/)**Schönbrunn Palace** © Urban Redevelopment Authority Singapore
 
 ---
 
