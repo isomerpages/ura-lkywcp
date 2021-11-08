@@ -9,9 +9,9 @@ description: Light pollution from excessive lighting has become so pervasive tha
 |---:|
 | Feng Zengkun |
 
-***Light pollution from excessive lighting has become so pervasive that it is disrupting the natural world, and may have long-term consequences for human well-being, including food security. To curb its impact and reap energy savings to limit climate change, more cities are acting against wasteful lighting.***
+##### Light pollution from excessive lighting has become so pervasive that it is disrupting the natural world, and may have long-term consequences for human well-being, including food security. To curb its impact and reap energy savings to limit climate change, more cities are acting against wasteful lighting.
 
-![Are our cities too bright?](/images/features/2021/bright-lights.jpg/)*Are our cities getting too bright? Photo: [wirestock](https://www.freepik.com)*
+###### ![Are our cities too bright?](/images/features/2021/bright-lights.jpg/)**Are our cities getting too bright?** © wirestock/ freepik.com
 
 With their bright lights and affordable prices, LED lighting systems have been a boon for cities but a mixed blessing for the environment. They consume considerably less electricity than their predecessors, such as sodium vapour lights, enabling cities to slash their greenhouse gas emissions by making the switch to them. Their low cost, however, has led to their overuse in many cities. In the United States, the government has said that by 2027, [widespread use of LEDs could save 348 terawatts](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting), equivalent to the output of 44 large power plants. At the same time, the International Dark-Sky Association (IDA) [estimates that at least 30 percent of the nation’s outdoor lighting is wasted](https://www.darksky.org/light-pollution/energy-waste/), and responsible for 21 million tonnes of emissions yearly.
 
@@ -31,7 +31,7 @@ The city said that the smart LED system has cut its lighting energy use by 62 pe
 
 In Cambridge in the United States, on the other hand, [the LED street lights are programmed](https://www.echelon.com/assets/blt39b6475f3f7acf71/Cambridge%20Case%20Study.pdf) to emit 50 percent of their light at dusk, brighten at night, and then dim again to 30 percent of their output later when most people are at home, to save energy. The city also surveyed residents to create neighbourhood-specific lighting strategies, with the dimming beginning at 8 pm for some areas and 10 pm for others, depending on the feedback. The differentiated timing applies to other parts of the city too, with street lights on main thoroughfares kept bright until midnight while decorative lights in park dim at 10 pm. By adopting this approach along with LED bulbs, the city slashed its lighting energy use by 80 percent.
 
-![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg/)*Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for their streets. Photo: Zhao Jiankang © 123rf.com*
+###### ![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg/)**Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for their streets** © Zhao Jiankang/ 123rf.com
 
 #### **Switching off for sustainability**
 
@@ -45,7 +45,10 @@ In 2019, [France enacted one of the most comprehensive laws](https://translate.g
 
 Germany, for its part, has [taken aim at light pollution as part of a law passed in February 2021](https://www.iamexpat.de/lifestyle/lifestyle-news/germany-waves-through-new-package-laws-reverse-insect-decline) to protect its insect population. “Insects play an important role in the ecosystem, but their numbers and diversity have severely declined in recent years,” [the government said](https://phys.org/news/2020-08-germany-dim-night-insects.html). Under the law, searchlights, which are often used by nightclubs and for events, cannot be deployed from dusk to dawn for most of the year. New street lights and other public lighting must also be installed in ways that minimise their impact on plants, insects and animals, for instance via the addition of shields that ensure that their light is directed only downwards onto the street or pavement. 
 
-> "The case for controlling light pollution has scientific, educational, environmental, aesthetic and economic dimensions… The government should implement modest changes in the planning and regulatory system that could stem and indeed reverse current trends."
+<br>
+> ##### "The case for controlling light pollution has scientific, educational, environmental, aesthetic and economic dimensions… The government should implement modest changes in the planning and regulatory system that could stem and indeed reverse current trends."
+
+<div align="right"><b>— Lord Martin Rees</b> <br> United Kingdom’s Astronomer Royal</div>
 
 #### **A not so bright future**
 
