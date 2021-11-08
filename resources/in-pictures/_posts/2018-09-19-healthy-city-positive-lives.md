@@ -67,7 +67,7 @@ The Kazan Family Centre is a distinctive building in the shape of a cauldron, cr
 
 Kazan is a city of diverse cultures, with 115 different nationalities of people, 36 national cultural organisations, 180 religious communities and 9,000 foreign students. The respect, friendship and tolerance that the Kazan people have for one another is highly evident. Every temple is open to everyone, regardless of individual beliefs. Inter-racial or inter-faith marriages are common. Religious leaders unanimously agree that there is no need to force one’s opinions on others; the importance of mutual love and that ultimately it is about interaction as human beings. As a result, there is no religious pressure and racism in Kazan. Civil harmony as a way of life sends a strong message to a world that is often engulfed in friction, hatred and violence due to race or religion.
 
-###### ![The Qolşärif Mosque in the Kazan Kremlin](/images/features/2018/qolsarif-mosque.jpg/)**The Qolşärif Mosque in the Kazan Kremlin** © City of Kazan*
+###### ![The Qolşärif Mosque in the Kazan Kremlin](/images/features/2018/qolsarif-mosque.jpg/)**The Qolşärif Mosque in the Kazan Kremlin** © City of Kazan
 
 ###### ![The Annunciation Cathedral in the Kazan Kremlin ](/images/features/2018/annunciation-cathedral.jpg/)**The Annunciation Cathedral in the Kazan Kremlin** © Urban Redevelopment Authority Singapore
 
