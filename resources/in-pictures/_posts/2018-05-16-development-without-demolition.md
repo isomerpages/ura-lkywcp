@@ -45,7 +45,7 @@ Elevated bridges that had been torn down were rebuilt to reconnect the complex�
 
 ###### ![An elevated walkway that connects the superblocks](/images/features/2018/sewoon-makercity-walkway.jpg/)**An elevated walkway that connects the superblocks** © Urban Redevelopment Authority Singapore
 
-###### ![New studios and retail units added along pedestrian walkways](/images/features/2018/sewoon-makercity-shops.jpg/)Urban Redevelopment Authority Singapore © Urban Redevelopment Authority Singapore
+###### ![New studios and retail units added along pedestrian walkways](/images/features/2018/sewoon-makercity-shops.jpg/)**New studios and retail units added along pedestrian walkways** © Urban Redevelopment Authority Singapore
 
 ###### ![Young start-ups in a business incubation space](/images/features/2018/sewoon-makercity-startups.jpg/)**Young start-ups in a business incubation space** © Seoul Metropolitan Government
 
