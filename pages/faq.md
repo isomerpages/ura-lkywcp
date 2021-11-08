@@ -15,7 +15,7 @@ permalink: /faq/
 
 ---
 
-> ##### **Stage A nominations**
+> #### **Stage A nominations**
 
 #### **Who is eligible to nominate?**
 
@@ -70,7 +70,7 @@ The recomendation letter should preferably be around 600 words.
 
 ---
 
-> ##### **Stage B submissions**
+> #### **Stage B submissions**
 
 #### **Who is supposed to prepare the Stage B submission?**
 
@@ -117,7 +117,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 ---
 
-> ##### **World Cities Summit** 
+> #### **World Cities Summit** 
 
 #### **When will the results be announced?**
 
