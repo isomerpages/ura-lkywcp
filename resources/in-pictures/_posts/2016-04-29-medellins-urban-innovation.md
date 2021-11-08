@@ -11,7 +11,7 @@ description: Medellín implemented a series of social innovation and public tran
 
 #### **The City of the Eternal Spring**
 
-Medellín is Colombia’s second largest city after capital city Bogotá, and is located in the Aburrá Valley. Despite being near the equator, the city is located 1,500m above sea level and as such it has a pleasant spring-like climate all year round and is often referred to as the “City of the Eternal Spring”.
+Medellín is Colombia’s second largest city after capital city Bogotá, and is located in the Aburrá Valley. Despite being near the equator, the city is located 1,500m above sea level and as such it has a pleasant spring-like climate all year round and is often referred to as the 'City of the Eternal Spring'.
 
 ###### ![Colombia’s second largest city](/images/features/2016/medellin-aerial.jpg/)**Colombia’s second largest city** © Pepe Navarro
 
