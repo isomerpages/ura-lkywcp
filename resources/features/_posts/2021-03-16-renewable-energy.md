@@ -45,7 +45,7 @@ London in Britain, for its part, created its own clean energy company, called [L
 
 Cities aiming to accelerate their residents’ take-up of renewable energy can also learn from Boston in the United States. In February 2021, the city [implemented an opt-out programme](https://www.boston.gov/departments/environment/community-choice-electricity) that automatically transferred residents and firms on the local utility’s fossil fuel-generated electricity plans onto plans that use more renewable energy. Mr Christopher Cook, Boston’s Chief of Environment, Energy and Open Space, [explained the city’s thinking](https://www.dotnews.com/2020/community-choice-electricity-coming-customers-boston): “We don’t want people to leave the programme, but if they choose to do so for whatever reason, they can. But most people will probably choose to do nothing. Just by doing that, they are making us more sustainable.”
 
-######
+<br>
 > ##### "Phasing out fossil fuels and transitioning to green economies is a monumental challenge, but the solutions exist, and we need to finance them, scale them up and accelerate them."
 
 <div align="right"><b>— Mr Marcel Alers</b> <br> Head of Energy, United Nations</div>
