@@ -17,24 +17,24 @@ permalink: /faq/
 
 ---
 
-## **Stage A nominations**
+#### **Stage A nominations**
 
-#### **Who is eligible to nominate?**
+- **Who is eligible to nominate?**
 
-Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
+  Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
 
-- Leading academics (e.g. professors in universities) or academic institutions
-- Government officials (outside of the city administration)
-- International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on
-- Organisations in the public or private sectors
-- Non-government organisations (NGOs)
-- Leading industry experts in related fields
+  - Leading academics (e.g. professors in universities) or academic institutions
+  - Government officials (outside of the city administration)
+  - International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on
+  - Organisations in the public or private sectors
+  - Non-government organisations (NGOs)
+  - Leading industry experts in related fields
 
-Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.
+  Self-nominations (i.e. nominations made by the city administration for their own city) are strictly not accepted.
 
-#### **How many nominations can a nominator make?**
+- **How many nominations can a nominator make?**
 
-There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form[^1] and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
+  There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form[^1] and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
 
 #### **Who can be nominated for the Prize?**
 
