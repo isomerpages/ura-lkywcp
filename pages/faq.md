@@ -7,7 +7,7 @@ permalink: /faq/
 |---:|
 | 20 Oct 2021 |
 
-![FAQ](/images/FAQ.jpg/)
+###### ![FAQ](/images/FAQ.jpg/)**Illustration** © stories/ freepik.com
 
 #### **Sections**
 
