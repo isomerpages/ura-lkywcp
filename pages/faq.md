@@ -7,11 +7,17 @@ permalink: /faq/
 |---:|
 | 20 Oct 2021 |
 
-| [Stage A nominations](#stage-a-nominations) | [Stage B submissions](#stage-b-submissions) | [World Cities Summit](#world-cities-summit) |
+#### **Sections**
 
-# **Stage A nominations**
+- [Stage A nominations](#stage-a-nominations) 
+- [Stage B submissions](#stage-b-submissions)
+- [World Cities Summit](#world-cities-summit)
 
-#### **Who is eligible to nominate?**
+---
+
+#### **Stage A nominations**
+
+- **Who is eligible to nominate?**
 
 Cities interested to participate should approach an independent third party (nominator) in any of the following categories to nominate them:
 
