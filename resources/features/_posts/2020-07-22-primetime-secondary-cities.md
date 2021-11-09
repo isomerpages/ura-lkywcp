@@ -11,7 +11,7 @@ description: Smaller cities known as secondary cities are increasingly stepping 
 
 ##### Smaller cities known as secondary cities are increasingly stepping into the limelight and partnering with one another and larger cities to boost their development, as nations seek to reduce the population pressure on their major cities and add new economic growth engines.
 
-> ###### **Cities mentioned in this article:** <br> Tianjin, Hebei, Melbourne, Geelong, Jakarta, Bandung, Amsterdam
+> ###### **Cities mentioned in this article:** <br> Tianjin, Melbourne, Jakarta, Bandung, Amsterdam, Copenhagen, Helsinki, Oslo
 
 ###### ![Vietnam's Cần Thơ is one of the world's fastest-growing small cities](/images/features/2020/secondary-cities.jpg/)**Vietnam's Cần Thơ is one of the world's fastest-growing small cities** © Brian Scantlebury/ 123rf.com
 
