@@ -11,7 +11,7 @@ description: Nearly one billion tonnes of food go to waste each year, even as on
 
 ##### Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.
 
-> ###### **Cities mentioned in this article** <br> Milan, New York City, Brisbane, Seoul, London, Cambridge, Shanghai, Okayama, Luxembourg City, Copenhagen, Berlin, Toronto, Bangkok
+> ###### **Cities mentioned in this article:** <br> Milan, New York City, Brisbane, Seoul, London, Cambridge, Shanghai, Okayama, Luxembourg City, Copenhagen, Berlin, Toronto, Bangkok
 
 ###### ![How can cities reduce their food wastage?](/images/features/2021/infographic-food-waste.png/)**How can cities reduce their food wastage?** © GoodStudio/ Shutterstock.com, additional text: Editor's own
 
