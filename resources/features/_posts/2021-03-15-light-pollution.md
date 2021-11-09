@@ -11,6 +11,8 @@ description: Light pollution from excessive lighting has become so pervasive tha
 
 ##### Light pollution from excessive lighting has become so pervasive that it is disrupting the natural world, and may have long-term consequences for human well-being, including food security. To curb its impact and reap energy savings to limit climate change, more cities are acting against wasteful lighting.
 
+> ###### **Cities mentioned in this article:** <br> Phoenix, Montreal, Oslo, Cambridge MA, Essex
+
 ###### ![Are our cities too bright?](/images/features/2021/bright-lights.jpg/)**Are our cities getting too bright?** © wirestock/ freepik.com
 
 With their bright lights and affordable prices, LED lighting systems have been a boon for cities but a mixed blessing for the environment. They consume considerably less electricity than their predecessors, such as sodium vapour lights, enabling cities to slash their greenhouse gas emissions by making the switch to them. Their low cost, however, has led to their overuse in many cities. In the United States, the government has said that by 2027, [widespread use of LEDs could save 348 terawatts](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting), equivalent to the output of 44 large power plants. At the same time, the International Dark-Sky Association (IDA) [estimates that at least 30 percent of the nation’s outdoor lighting is wasted](https://www.darksky.org/light-pollution/energy-waste/), and responsible for 21 million tonnes of emissions yearly.
