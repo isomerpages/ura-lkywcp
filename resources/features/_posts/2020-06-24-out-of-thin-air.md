@@ -9,7 +9,7 @@ description: Cities with growing populations and limited space are increasingly 
 |---:|
 | Feng Zengkun |
 
-##### Cities with growing populations and limited space are increasingly turning to the vacant space above their railway tracks and low-rise buildings to construct new homes, offices, parks and other essential infrastructure and amenities.***
+##### Cities with growing populations and limited space are increasingly turning to the vacant space above their railway tracks and low-rise buildings to construct new homes, offices, parks and other essential infrastructure and amenities.
 
 > ###### **Cities mentioned in this article:** <br> New York City, Utrecht, The Hague, Amsterdam, Toronto, Sydney, Paris, Berlin, London, San Francisco
 
