@@ -5,7 +5,7 @@ image: /images/features/2020/carbon-neutral.jpg
 description: To curtail climate change and its negative impact, more than 100 cities, including Boston, Oslo and Vancouver, have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The cities’ three major targets - emissions from their buildings, transport systems and energy sources. Here’s a look at how these and other cities are shrinking their environmental footprint through tried-and-tested as well as novel initiatives.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
