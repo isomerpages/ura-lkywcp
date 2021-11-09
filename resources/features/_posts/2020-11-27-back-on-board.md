@@ -9,9 +9,11 @@ description: Cities are experiencing steep declines in public transport ridershi
 |---:|
 | Feng Zengkun |
 
-***Cities are experiencing steep declines in public transport ridership due to COVID-19 lockdowns and social distancing measures. In this fourth and final article in a series examining cities’ responses to the pandemic, we look at ways they are transforming public transit for the crisis and beyond.***
+##### Cities are experiencing steep declines in public transport ridership due to COVID-19 lockdowns and social distancing measures. In this fourth and final article in a series examining cities’ responses to the pandemic, we look at ways they are transforming public transit for the crisis and beyond.
 
-![How can public transit in cities bounce back from the pandemic?](/images/features/2020/covid-transport.jpg/)*How can public transit in cities bounce back from the pandemic? Illustration: [Freepik](http://www.freepik.com)*
+> ###### **Cities mentioned in this article:** <br> Shanghai, London, Seoul, Hong Kong, Jakarta, Chicago, Beijing, Skåne County
+
+###### ![How can public transit in cities bounce back from the pandemic?](/images/features/2020/covid-transport.jpg/)**How can public transit in cities bounce back from the pandemic?** © Freepik/freepik.com
 
 Cities worldwide are currently facing a crisis in public transport. Since the start of the COVID-19 pandemic, ridership on buses and trains has [plummeted in many cities due to lockdowns and movement restriction orders](https://www.straitstimes.com/singapore/transport/public-transport-usage-plummets-as-more-stay-home), causing a steep decline in public transport operators’ revenues. Even cities that have exited lockdowns have imposed capacity limits on their buses and trains to enable physical distancing to limit the spread of the coronavirus. Furthermore, some commuters may be turning to private vehicles and other modes of transport such as bicycles or personal mobility devices due to their fear of contracting the coronavirus on shared public transport. 
 
@@ -31,7 +33,7 @@ Hong Kong’s MTR Corporation, for its part, has [deployed automated robots](htt
 
 #### **Smoothing demand for better rides**
 
-![Cities can consider measures to stagger public transport ridership](/images/features/2020/covid-metro.jpg/)*Cities can consider measures to stagger public transport ridership. Photo: [Benjawan Sittidech](https://www.123rf.com/profile_zephyr18) © 123rf.com*
+###### ![Cities can consider measures to stagger public transport ridership](/images/features/2020/covid-metro.jpg/)**Cities can consider measures to stagger public transport ridership** © Benjawan Sittidech/ 123rf.com
 
 As cities carry out physical distancing rules on their buses and trains, reducing the vehicles’ capacity, getting some peak-hour commuters to travel at other times can also curtail ridership losses. “By spreading commuter usage more evenly over a four-hour window, one subway car could serve about 30 percent more commuters while never operating above 85 percent of peak occupancy. Across a network, this alone would compensate for nearly half of the loss of peak transport capacity due to distancing measures,” [said Mr Costis Maglaras](https://www.forbes.com/sites/columbiabusinessschool/2020/08/07/reconsider-9-to-5-work-schedule/?sh=3a8a81d9440d), Dean of the Columbia Business School in the United States. In the longer term, smoothing out peaks in public transport use will also reduce crowds and make commutes more pleasant for all.
 
@@ -41,11 +43,12 @@ Chicago in the United States, on the other hand, is providing more ridership inf
 
 Cities aiming to better manage their public transport ridership can also look to the reservation system that Beijing, China, is [piloting at two of its busiest train stations](https://peoplesdaily.pdnews.cn/china/podcast-story-in-the-story-3-9-2020-mon-131432.html), namely the Shahe and Tiantongyuan stations. People who want to enter these two stations between 6.30 am and 9.30 am on weekdays can use a smartphone app to book one of the limited 10-minute slots to do so via a fast track. Those who do not have a reservation must wait in line outside the stations. Mr Xian Kai, Deputy Director of Research and Development at the Beijing Transport Institute, said that the reservation system saves commuters time: “Usually, they have to wait outside the stations for 10 to over 20 minutes. If they reserve an arrival time online, they won’t have to come so early, and can just show up at the agreed time.” 
 
-#### **A fresh look at ticketing**
-
 <br>
+> ##### "For the sake of public health, economic recovery and environmental sustainability, we must keep the momentum going and preserve the appeal of public transport."
 
-> "For the sake of public health, economic recovery and environmental sustainability, we must keep the momentum going and preserve the appeal of public transport."
+<div align="right"><b>— World Bank</b></div>
+
+#### **A fresh look at ticketing**
 
 New ticketing options that are more suitable to the post-COVID-19 landscape could enable public transport operators to increase their ridership too. Traditional monthly and annual public transport passes may not be worthwhile for the growing number of people who are working from home part-time, and who may switch to private or private-hire vehicles for their less frequent trips to the office. To cater to these commuters, the National Union of Rail, Maritime and Transport Workers in Britain has [suggested creating more affordable annual train passes that are valid for two to four days each week](https://www.theguardian.com/money/2020/aug/18/cut-rail-fares-to-counter-covid-slump-in-train-travel-watchdog-urges), rather than every day. Under the union’s plan, for example, an annual three-day-a-week rail pass from Brighton to London would cost GBP 2,748 (approximately USD $3,645), considerably less than the current GBP 4,580 (approximately USD $6,074) annual pass between the two cities. 
 
