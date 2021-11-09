@@ -9,9 +9,11 @@ description: As cities repurpose streets to meet COVID-19 demands and beyond, s
 |---:|
 | Feng Zengkun |
 
-***As cities repurpose streets to meet COVID-19 demands and beyond, several of them have introduced additional initiatives to support the shift in road use, such as subsidies for bicycles and bike repairs, dramatic reductions in speed limits to protect pedestrians, and more.***
+##### As cities repurpose streets to meet COVID-19 demands and beyond, several of them have introduced additional initiatives to support the shift in road use, such as subsidies for bicycles and bike repairs, dramatic reductions in speed limits to protect pedestrians, and more.
 
-![10 cities that are transforming their streets](/images/features/2020/transform-streets.jpg/)*Illustration: stockgiu © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Liverpool, Vilnius, Paris, Madrid, Chicago, Glasgow, Edinburgh, Middlesbrough, Dublin, Brussels, Sydney
+
+###### ![10 cities that are transforming their streets](/images/features/2020/transform-streets.jpg/)**10 cities that are transforming their streets** © stockgiu/ 123rf.com
 
 #### **01: Help for a rainy day**
 
@@ -43,7 +45,7 @@ Furthermore, the city is [subsiding the cost of buying scooters](https://www.pol
 
 #### **05: Encouraging longer-term use**
 
-![Cycling in Chicago](/images/features/2020/chicago-cycling.jpg/)*Cycling in Chicago. Photo: Chait Goli*
+###### ![Cycling in Chicago](/images/features/2020/chicago-cycling.jpg/)**Cycling in Chicago** © Chait Goli
 
 Taking another approach to improve access to bicycles, **Chicago** in the United States worked with its bike-share partner to offer steep membership discounts for its bicycle sharing programme. From March to May 2020, [the cost of an annual membership was halved](https://abc7chicago.com/divvy-free-rides-chicago-coronavirus-health-care-workers/6137214/) from USD $99 to USD $49.50, while the price of single rides was reduced from USD $3 to USD $1.
 
@@ -81,7 +83,7 @@ The proposal is currently in the public consultation stage, and the city aims to
 
 #### **10: Contactless crossings** 
 
-![Crossing in Sydney](/images/features/2020/sydney-crossing.jpg/)*Crossing in Sydney. Photo: Kate Trifo*
+###### ![Crossing in Sydney](/images/features/2020/sydney-crossing.jpg/)**Crossing in Sydney** © Kate Trifo
 
 With more pedestrians in the city, **Sydney** in Australia has [deployed automated pedestrian crossing signals](https://transportnsw.info/news/2020/automated-pedestrian-crossings-in-nsw) to reduce their risk of contracting the COVID-19 coronavirus through second-hand contact. “Pedestrians no longer need to push a button to activate the signal, and can cross the road safely while limiting contact with high-touch surfaces,” the city said. About 270 intersections in 23 locations now have the automated signals.
 
