@@ -11,6 +11,8 @@ description: Cities are facing slowing progress on food security and nutrition, 
 
 ##### Cities are facing slowing progress on food security and nutrition, with the COVID-19 pandemic putting a balanced diet out of reach for many. To put healthy meals on people’s plates and build a stronger future, cities are expanding accessibility to fresh foods and their affordability.
 
+> ###### **Cities mentioned in this article:** <br> Rosario, Seoul, New York City, Atlanta, Calgary, Edmonton, La Paz, Mexico City, Manchester, Newcastle
+
 ###### ![How can cities increase fresh food sources?](/images/features/2021/infographic-fresh-food.png/)**How can cities increase fresh food sources?** © vectormine/ Shutterstock.com, additional text: Editor's own
 
 Even as cities aim to end hunger, many are facing an uphill battle to provide citizens with budget-friendly and nutritious food. [In its latest report on the state of food security and nutrition in the world](http://www.fao.org/publications/sofi/2020/en/), the United Nations (UN) estimated that about two billion people already did not have regular access to safe, nutritious and sufficient food before the COVID-19 outbreak, and more people were going hungry each year since 2014. “There is no doubt that the pandemic will expose more people to food insecurity and accelerate the projected increase in the number of hungry people, unless immediate actions are taken,” it said. 
