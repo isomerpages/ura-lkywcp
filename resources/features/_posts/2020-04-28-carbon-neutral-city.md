@@ -9,7 +9,7 @@ description: To curtail climate change and its negative impact, more than 100 ci
 |---:|
 | Feng Zengkun |
 
-##### To curtail climate change and its negative impact, more than 100 cities have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The targets: emissions from buildings, transport systems and energy sources. Here’s a look at how cities are shrinking their environmental footprint through tried-and-tested and novel initiatives.
+##### To curtail climate change and its negative impact, more than 100 cities have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The targets: emissions from buildings, transport systems and energy sources. Here’s a look at how cities are shrinking their footprint through tried-and-tested and novel initiatives.
 
 > ###### **Cities mentioned in this article:** <br> Vancouver BC, Cambridge MA, Oslo, London, Barcelona, Seoul, Singapore
 
