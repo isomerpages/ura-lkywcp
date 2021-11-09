@@ -13,7 +13,7 @@ description: More cities are taking steps to address inequalities exposed and de
 
 > ###### **Cities mentioned in this article:** <br> Calgary, Lisbon, New Delhi, Oklahoma City, New York City, Liverpool, Baltimore, Los Angeles, Seattle
 
-###### ![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg/)COVID-19 has exposed the equity gaps in cities more so than ever ©  Korakoch Sookkerd/ 123rf.com
+###### ![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg/)**COVID-19 has exposed the equity gaps in cities more so than ever** ©  Korakoch Sookkerd/ 123rf.com
 
 From London to Paris to New York, cities worldwide are confronting a grim reality: [the COVID-19 pandemic has hit their poorer residents harder due to many reasons](https://globalnews.ca/news/6958322/coronavirus-poor-neighbourhoods/), causing higher unemployment and death rates among them. “Many people who are higher-income have the resources and ability to work from home, which enable them to create layers of protection for themselves and ensure that they don’t come into contact with the virus,” explained Dr Steven Hoffman, a professor of global health, law and political science at Canada’s York University. Many low-income people, on the other hand, have jobs, including in the food, service and retail industries, that involve contact with others and cannot be done remotely, forcing them to choose between making a living and staying safe.
 
