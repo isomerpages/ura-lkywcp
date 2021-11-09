@@ -127,15 +127,15 @@ The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) 
 
 #### **Who will be invited to receive the award?**
 
-The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award Ceremony & Banquet (a highlight event of the World Cities Summit, a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
+The Mayor of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony & Banquet</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
 
 #### **Will the Prize Laureate and Special Mention(s) be invited to speak?**
 
-The Prize Laureate will be invited to share their achievements at the Lee Kuan Yew World City Prize Lecture, while the Special Mention(s) will be invited to share their urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
+The Prize Laureate will be invited to share their achievements at the **<mark>Lee Kuan Yew World City Prize Lecture</mark>**, while the Special Mention(s) will be invited to share their urban initiatives at the **<mark>Lee Kuan Yew World City Prize Forum</mark>**. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-World Cities Summit (WCS) will return to the in-person format from 31 July to 3 August 2022, at the Sands Expo & Convention Centre in Singapore. The Prize events will be held in conjunction with WCS 2022. Please check the WCS website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+World Cities Summit (WCS) will return to the in-person format from 31 July to 3 August 2022, at the Sands Expo & Convention Centre in Singapore. The Prize events will be held in conjunction with WCS 2022. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 For COVID-19-related measures and travel restrictions in Singapore, please visit the following resources: 
 
