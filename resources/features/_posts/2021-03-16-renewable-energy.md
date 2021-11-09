@@ -11,6 +11,8 @@ description: More cities are embracing renewable energy to reduce their greenhou
 
 ##### More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal — operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.
 
+> ###### **Cities mentioned in this article:** <br> Melbourne, Amsterdam, New Delhi, San Francisco, Hamburg, Barcelona, London, Boston, Bangkok, Osaka, Ulsan
+
 ###### ![How can cities tap on renewable energy?](/images/features/2021/renewable-energy.png/)**How can cities tap on renewable energy?** © vectorpouch/ freepik.com, Additional text: Editor's own
 
 In 2020, [Europeans received more electricity from renewable sources than fossil fuels for the first time](https://edition.cnn.com/2021/01/24/business/eu-renewable-energy-fossil-fuels/index.html), continuing the region’s trend of shifting its energy mix from coal and natural gas towards wind, solar and other clean power sources. With advances in renewable energy technologies and a growing sense of urgency in the fight against climate change, more cities are tapping more of the clean power, and some are even reaching for a once-unimaginable goal: operating entirely, or almost entirely, on it to reduce their greenhouse gas emissions. 
