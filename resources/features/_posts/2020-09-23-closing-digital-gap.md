@@ -12,7 +12,9 @@ description: With the COVID-19 pandemic exposing and widening digital divides am
 
 ***With the COVID-19 pandemic exposing and widening digital divides among residents, cities and countries are taking steps to close the gap, both to tide citizens over the crisis and to ensure that the benefits of digital advances are shared by more, if not all, in the longer term.***
 
-![10 ways to close the digital gap](/images/features/2020/closing-digital-gap.jpg/)*Illustration: [Freepik](http://www.freepik.com)*
+> ###### **Cities mentioned in this article:** <br> San Francisco, Kansas City, Detroit, Singapore, New York City, Barcelona
+
+###### ![10 ways to close the digital gap](/images/features/2020/closing-digital-gap.jpg/)**10 ways to close the digital gap** © Freepik.com
 
 #### **01: A public television service**
 
@@ -40,7 +42,7 @@ The hubs will observe safe distancing while providing free full-day learning pro
 
 #### **04: Devices for donation**
 
-![Donation of used devices can benefit children of low-income families](/images/features/2020/girl-laptop.jpg/)*Donation of used devices can benefit children of low-income families. Photo: [Freepik](http://www.freepik.com)*
+###### ![Donation of used devices can benefit children of low-income families](/images/features/2020/girl-laptop.jpg/)**Donation of used devices can benefit children of low-income families** © Freepik.com
 
 **Kansas City** in the United States is calling on businesses to aid in bridging the digital divide. In a permanent programme called the [‘Employer Laptop Challenge’](https://www.kansascityfed.org/community/employer-laptop-challenge) launched in April 2020, it is asking companies and other organisations to donate used laptops, tablets or computers to designated non-profit refurbishers who will repair, reset and clean them before giving them to schools, non-profit groups and lower-income families. 
 
@@ -72,7 +74,7 @@ In June 2020, the city tasked 1,000 full-time staff and part-time volunteers wit
 
 #### **08: Reaching out to the elderly**
 
-![Helping the elderly stay in touch digitally](/images/features/2020/elderly-laptop.jpg/)*Helping the elderly stay in touch digitally. Photo: [katemangostar / Freepik](http://www.freepik.com)*
+###### ![Helping the elderly stay in touch digitally](/images/features/2020/elderly-laptop.jpg/)**Helping the elderly stay in touch digitally** © katemangostar/ Freepik.com
 
 Elderly citizens, especially those who live alone, are among the most vulnerable to the COVID-19 coronavirus and the isolation caused by movement restrictions. In May 2020, **New York City** in the United States [distributed tablets with Internet connectivity](https://www1.nyc.gov/assets/cto/#/project/connected-nycha-older-adults) paid for by the city to 10,000 of them who are living in its public housing units, so that they can stay connected with family and friends.
 
