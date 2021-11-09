@@ -12,7 +12,7 @@ description: While the COVID-19 pandemic has disrupted cities worldwide, its imp
 
 ##### While the COVID-19 pandemic has disrupted cities worldwide, its impact has not been uniform. These are some ways that cities are helping their more vulnerable citizens, including seniors who live alone, people with disabilities, homeless residents and lower-income families.
 
-###### **Cities mentioned in this article:** <br> Barcelona, Greenwich, Pittsburgh, San Francisco, Athens, Nice, Nancy, Istanbul, Toronto, Sacramento, São Paulo
+> ###### **Cities mentioned in this article:** <br> Barcelona, Greenwich, Pittsburgh, San Francisco, Athens, Nice, Nancy, Istanbul, Toronto, Sacramento, São Paulo
 
 ###### ![10 ways cities can help vulnerable citizens](/images/features/2020/help-vulnerable-citizens.jpg/)**10 ways cities can help vulnerable citizens** © Freepik/ Freepik.com
 
