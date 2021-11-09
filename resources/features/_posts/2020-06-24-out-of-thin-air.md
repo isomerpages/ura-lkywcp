@@ -11,7 +11,7 @@ description: Cities with growing populations and limited space are increasingly 
 
 ##### Cities with growing populations and limited space are increasingly turning to the vacant space above their railway tracks and low-rise buildings to construct new homes, offices, parks and other essential infrastructure and amenities.***
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> New York City, Utrecht, The Hague, Amsterdam, Toronto, Sydney, Paris, Berlin, London, San Francisco
 
 ###### ![Aerial view of a train yard](/images/features/2020/out-of-thin-air.jpg/)**Cities are exploring the possibilities of making use of the airspace above their train yards** © Tewin Kijthamrongworakul/ 123rf.com
 
