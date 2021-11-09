@@ -44,7 +44,7 @@ Another city that is looking to its rooftops for more housing is London in Brita
 [The city said of the collaboration](https://www.apexairspace.co.uk/mayor-london-backs-apex-airspace-10-million/): “London’s housing crisis has been decades in the making, and we need to use every possible opportunity to build more council, social-rented and other genuinely affordable homes.” It added that the partnership could establish a viable model for delivering lower-cost homes that could be replicated by others to ease the city’s shortage of them. The project is also in line with Britain’s wider efforts to spur building extensions in areas that need them. In March 2020, the Ministry of Housing, Communities and Local Government announced that it planned to [grant owners of apartment blocks the right to add up to two storeys without having to seek permission from the authorities](https://www.theguardian.com/society/2020/mar/12/property-owners-right-build-upwards-without-planning-permission). 
 
 <br>
-> "London’s housing crisis has been decades in the making, and we need to use every possible opportunity to build more council, social-rented and other genuinely affordable homes."
+> ##### "London’s housing crisis has been decades in the making, and we need to use every possible opportunity to build more council, social-rented and other genuinely affordable homes."
 
 <div align="right"><b>—City of London</b></div>
 
