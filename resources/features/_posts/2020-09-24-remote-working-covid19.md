@@ -9,9 +9,11 @@ description: As cities adapt to life in the COVID-19 era, many are seizing the m
 |---:|
 | Feng Zengkun |
 
-***As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this second in a series of articles, we look at how city centres and suburbs could evolve as more companies embrace digitalisation and remote working.***
+##### As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this second in a series of articles, we look at how city centres and suburbs could evolve as more companies embrace digitalisation and remote working.
 
-![With remote working becoming the new normal, cities could rethink the way we work](/images/features/2020/remote-working.jpg/)*With remote working becoming the new normal, cities could rethink the way we work. Photo: [diana.grytsku / Freepik](http://www.freepik.com)*
+> ###### **Cities mentioned in this article:** <br>
+
+###### ![With remote working becoming the new normal, cities could rethink the way we work](/images/features/2020/remote-working.jpg/)**With remote working becoming the new normal, cities could rethink the way we work** © diana.grytsku/ Freepik.com
 
 The COVID-19 crisis is transforming the future of work and offices in many cities. Since the start of the pandemic, a growing number of firms around the world have unveiled plans to allow more employees to work from home regularly or permanently, leading to new sustainability benefits and urban planning opportunities.  
 
@@ -23,9 +25,9 @@ As companies cut back on their office space, particularly in city centres where 
 
 #### **Changing the CBD**
 
-While CBDs have contributed to cities’ economies, they can be inefficient uses of space, with many becoming deserted on weekends and after office hours. As firms scale back or exit their offices in these districts, the time is ripe to convert more of them into mixed-use residential, commercial and cultural areas to maximise their liveliness throughout the week, said urban planning experts. “If daytime working populations fall, new populations are likely to be needed to keep these areas buzzing and generating income,” [said Dr Tony Matthews](https://www.reuters.com/article/us-health-coronavirus-cities-trfn-idUSKBN23A065), a senior lecturer in urban and environmental planning at Australia’s Griffith University, about the impact of the COVID-19 pandemic. 
+###### ![The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs](/images/features/2020/remote-working2.jpg/)**The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs** © prostooleh/ Freepik.com
 
-![The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs](/images/features/2020/remote-working2.jpg/)*The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs. Photo: [prostooleh / Freepik](http://www.freepik.com)*
+While CBDs have contributed to cities’ economies, they can be inefficient uses of space, with many becoming deserted on weekends and after office hours. As firms scale back or exit their offices in these districts, the time is ripe to convert more of them into mixed-use residential, commercial and cultural areas to maximise their liveliness throughout the week, said urban planning experts. “If daytime working populations fall, new populations are likely to be needed to keep these areas buzzing and generating income,” [said Dr Tony Matthews](https://www.reuters.com/article/us-health-coronavirus-cities-trfn-idUSKBN23A065), a senior lecturer in urban and environmental planning at Australia’s Griffith University, about the impact of the COVID-19 pandemic. 
 
 Even before the outbreak, cities have been trying to diversify their CBDs. In Singapore, for example, the government has been seeking to boost the number of homes and people who live in the CBD, including through a new [‘CBD Incentive Scheme’](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc19-04) introduced in 2019 that gives property developers a higher gross plot ratio – the total gross floor area permitted for a site – to spur the conversion of eligible office buildings into hotels and homes. 
 
@@ -39,7 +41,10 @@ Sydney in Australia is also among the cities rethinking the possibilities of the
 
 Cities could also require that office towers themselves serve a greater variety of industries and public-facing purposes. “Mixing offices with amenities such as event spaces, restaurants and gyms within commercial buildings would allow these sectors to complement rather than compete with one another,” [said Mr Mat Triebner](https://hbr.org/2020/08/reimagining-the-urban-office), who lectures in urban studies at the United States’ Yale University. “Bars could be placed at the rooftop to take advantage of views, and fitness spaces at the mezzanine or mid-level.” Such strategies have cut commercial vacancies in the city centres of Los Angeles and Detroit in the United States, and increased their housing by making them more attractive to developers. 
 
-> “The shift to remote work has created the opportunity to remake cities, suburbs and entire metropolitan areas away from the industrial age model of separate zones for working, living and shopping.”
+<br>
+> ##### “The shift to remote work has created the opportunity to remake cities, suburbs and entire metropolitan areas away from the industrial age model of separate zones for working, living and shopping.”
+
+<div align="right"><b>— Dr Richard Florida <br> Professor of economic analysis and policy, University of Toronto</div>
 
 #### **Remaking the suburbs**
 
