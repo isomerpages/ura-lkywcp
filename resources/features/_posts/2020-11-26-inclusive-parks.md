@@ -9,9 +9,11 @@ description: COVID-19 has exposed inequalities in cities' provision of parks, e
 |---:|
 | Feng Zengkun |
 
-***COVID-19 has exposed inequalities in cities' provision of parks, even as green spaces become more important to provide cooling and other benefits in an era of climate change. To promote fairer access to parks, some cities have revamped park funding and introduced other innovations.***
+##### COVID-19 has exposed inequalities in cities' provision of parks, even as green spaces become more important to provide cooling and other benefits in an era of climate change. To promote fairer access to parks, some cities have revamped park funding and introduced other innovations.
 
-![Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery](/images/features/2020/covid-parks.jpg/)*Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery. Illustration: [Freepik](http://www.freepik.com)*
+> ###### **Cities mentioned in this article:** <br> Paris • Melbourne • Shanghai • London • Vancouver (BC) • Minneapolis • Washington DC • Los Angeles
+
+###### ![Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery](/images/features/2020/covid-parks.jpg/)**Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery** © Freepik/www.freepik.com
 
 The COVID-19 pandemic has underscored the importance of public parks and open spaces for people's mental and physical health, but also highlighted inequalities in their provision across cities. In an [August 2020 study of 14,000 towns and cities in the United States](https://www.theguardian.com/us-news/2020/aug/05/us-parks-minority-neighborhoods-smaller-more-crowded), for example, researchers found that parks that serve mostly low-income households are, on average, four times smaller and four times more crowded than those in high-income neighbourhoods. [An August 2020 survey of about 2,000 residents in Britain](https://www.ramblers.org.uk/news/latest-news/2020/september/the-grass-isnt-greener-for-everyone.aspx) had similar findings: only 46 percent of respondents with an annual household income of under GBP 15,000 (approximately USD $20,000) lived within a five-minute walk of a green space, compared to 70 percent of those with an annual household income that exceeded GBP 70,000 (approximately USD $93,300).
 
@@ -27,7 +29,7 @@ Melbourne in Australia and Shanghai in China, on other hand, are changing underu
 
 #### **Putting fairness in funding**
 
-![ities could step up efforts to ensure equitable access to their parks.](/images/features/2020/covid-equitable-park.jpg/)*Cities could step up efforts to ensure equitable access to their parks. Photo: [Satjawat Boontanataweepol](https://www.123rf.com/profile_chai89) © 123rf.com*
+###### ![ities could step up efforts to ensure equitable access to their parks.](/images/features/2020/covid-equitable-park.jpg/)**Cities could step up efforts to ensure equitable access to their parks** © Satjawat Boontanataweepol/ 123rf.com
 
 As cities expand their provision of green spaces, some are setting aside funds to address inequalities, or adding more nuanced criteria to how budgets are allocated to erect new parks and upgrade existing ones. When London, Britain, established its ['Grow Back Greener Fund'](https://www.london.gov.uk/sites/default/files/grow_back_greener_fund_grants_guide.pdf) in August 2020 for the construction of green spaces in areas that lack them, the government noted that lower-income and ethnic minority residents, in particular, tend to have poorer access to parks, an inequality that was underlined during the capital's first COVID-19-related lockdown. As such, the fund, which will disburse up to GBP 650,000 (approximately USD $866,600) in grants of GBP 5,000 to GBP 50,000 (approximately USD $6,660 to USD $66,600) each by the end of 2020, will prioritise proposals led by or intended to benefit lower-income and ethnic minority Londoners. Future rounds of funding will be determined at a later date.
 
@@ -35,11 +37,12 @@ Vancouver in Canada, meanwhile, has [revamped the way it assigns funds for parks
 
 Cities that are aiming to promote equity in park provision can also follow the example of Minneapolis in the United States. In 2016, the city unveiled a ['20-Year Neighbourhood Park Plan'](https://www.minneapolisparks.org/about_us/budget__financial/20-year_neighborhood_park_plan/) with USD $11 million in funding annually to accelerate park expansion and rehabilitation projects in areas that need them the most. The city’s 160 neighbourhood parks are scored on seven criteria that focus on racial and economic equity, with funding going first to those in areas with high poverty and crime rates, for example, or have a greater proportion of young, low-income and ethnic minority residents. The city has [finished eight park improvement projects since 2017](https://www.minneapolisparks.org/news/2020/07/23/20-year-neighborhood-park-plan-npp20-update-capital-investments/) and will complete 10 more projects in 2020 and 2021.
 
-#### **Greening cities without gentrification**
-
 <br>
+> ##### "Adopting a social equity lens can help cities to make green spaces an essential tool for tackling existing inequalities while building local resilience and well-being."
 
-> "Adopting a social equity lens can help cities to make green spaces an essential tool for tackling existing inequalities while building local resilience and well-being."
+<div align="right"><b>— World Resources Institute</b></div>
+
+#### **Greening cities without gentrification**
 
 When cities increase an area's green amenities, they risk increasing local property values and pricing lower-income residents out of their homes and neighbourhoods. Landlords could raise rents due to higher demand from wealthier prospective tenants, or real-estate developers could build luxury apartment buildings, attracting higher-end shops to the neighbourhood that displace more affordable ones. Mindful of the potential for such green gentrification, several cities have developed strategies to avoid it. 
 
