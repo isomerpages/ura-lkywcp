@@ -44,7 +44,7 @@ Cities could also require that office towers themselves serve a greater variety 
 <br>
 > ##### “The shift to remote work has created the opportunity to remake cities, suburbs and entire metropolitan areas away from the industrial age model of separate zones for working, living and shopping.”
 
-<div align="right"><b>— Dr Richard Florida <br> Professor of economic analysis and policy, University of Toronto</div>
+<div align="right"><b>— Dr Richard Florida</b> <br> Professor of economic analysis and policy, University of Toronto</div>
 
 #### **Remaking the suburbs**
 
