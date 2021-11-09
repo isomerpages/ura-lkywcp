@@ -13,7 +13,7 @@ description: With sea levels rising across the world, coastal cities at risk of 
 
 ---
 
-###### **Cities mentioned in this article:** <br> Copenhagen, Hong Kong, Norfolk, Boston, Amsterdam, Rotterdam, Virginia Beach
+> ###### **Cities mentioned in this article:** <br> Copenhagen, Hong Kong, Norfolk, Boston, Amsterdam, Rotterdam, Virginia Beach
 
 ###### ![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)**Coastal cities are at risk from rising sea levels due to climate change** © cassidy muir/ Pexels
 
