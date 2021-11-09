@@ -11,7 +11,7 @@ description: As cities adapt to life in the COVID-19 era, many are seizing the m
 
 ##### As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this first in a series of articles, we look at how cities are repurposing streets to make room for businesses, cyclists and pedestrians, transform travel and reinvent neighbourhoods.
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Seattle, Vancouver BC, Milan, Paris, Montreal, Madrid, Portland, Melbourne, London
 
 ###### ![Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes](/images/features/2020/milan-cycling.jpg/)**Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes** © photolime/ 123rf.com
 
