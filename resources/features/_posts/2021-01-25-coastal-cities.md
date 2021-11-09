@@ -11,7 +11,7 @@ description: With sea levels rising across the world, coastal cities at risk of 
 
 ##### With sea levels rising across the world, coastal cities at risk of going under are fighting back with adaptive measures to protect lives, land and infrastructure. We take a look at how some forward-looking cities are holding the water at bay and making plans for safe relocations when necessary.
 
-###### **Cities mentioned in this article:** Copenhagen, Hong Kong, Norfolk, Boston, Amsterdam, Rotterdam, Virginia Beach
+###### **Cities mentioned in this article:** <br> Copenhagen, Hong Kong, Norfolk, Boston, Amsterdam, Rotterdam, Virginia Beach
 
 ###### ![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)**Coastal cities are at risk from rising sea levels due to climate change** © cassidy muir/ Pexels
 
