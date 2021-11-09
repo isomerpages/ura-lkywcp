@@ -9,9 +9,11 @@ description: More secondary cities are taking the initiative to attract new resi
 |---:|
 | Feng Zengkun |
 
-***More secondary cities are taking the initiative to attract new residents and businesses, either by themselves or with the help of their national governments. From free land for newcomers to support in finding jobs, housing and schools, these are 10 ways that the cities are stepping up to the plate.***
+##### More secondary cities are taking the initiative to attract new residents and businesses, either by themselves or with the help of their national governments. From free land for newcomers to support in finding jobs, housing and schools, these are 10 ways that the cities are stepping up to the plate.
 
-![How smaller cities are stepping up](/images/features/2020/smaller-cities.jpg/)*Illustration: bloomua © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Whakatāne, Dunedin, Dong Dang, North Platte, Plainville, Curtis, Cottbus, Calau, Timmins, Claresholm, Vernon BC, Fort Portal, Hoima, Moroto, Nottingham, Karlsruhe, Chiang Rai, Ranong, Paris, Bordeaux
+
+##### ![How smaller cities are stepping up](/images/features/2020/smaller-cities.jpg/)**How smaller cities are stepping up** © bloomua/ 123rf.com
 
 #### **01: A national effort**
 
@@ -43,7 +45,7 @@ Newcomers to Curtis, on the other hand, can [apply for free commercial and indus
 
 ---
 
-![The small city of Cottbus in Germany](/images/features/2020/cottbus.jpg/)*The small city of Cottbus in Germany. Photo: Henryk Sadura © 123rf.com*
+###### ![The small city of Cottbus in Germany](/images/features/2020/cottbus.jpg/)**The small city of Cottbus in Germany** © Henryk Sadura/ 123rf.com
 
 #### **05: Easing the transition**
 
@@ -85,6 +87,6 @@ In 2018 and 2019, residents who travelled to cities in 55 second-tier provinces,
 
 #### **10: Connecting cities** 
 
-Secondary cities can also get a shot in the arm by co-investing in high-speed railways to connect them to major cities. Since the high-speed rail line between Paris and Bordeaux in France opened in 2017, reducing the travel time between them from three and a half hours to about two hours, the number of train passengers going from Paris and its surrounding areas to Bordeaux per year has [increased by 78 percent as of 2019](https://www.lisea.fr/wp-content/uploads/2020/06/LISEA_Activity-report-2019.pdf). 
+Secondary cities can also get a shot in the arm by co-investing in high-speed railways to connect them to major cities. Since the high-speed rail line between **Paris** and **Bordeaux** in France opened in 2017, reducing the travel time between them from three and a half hours to about two hours, the number of train passengers going from Paris and its surrounding areas to Bordeaux per year has [increased by 78 percent as of 2019](https://www.lisea.fr/wp-content/uploads/2020/06/LISEA_Activity-report-2019.pdf). 
 
 With the success of the Paris-Bordeaux line, [another high-speed railway to link Bordeaux to London in Britain is in the works](https://www.independent.co.uk/news/world/europe/london-bordeaux-trains-high-speed-rail-france-sncf-a9381056.html), and could begin operating by 2022. **<font color="#967942">O</font>**
