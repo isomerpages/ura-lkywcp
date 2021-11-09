@@ -11,7 +11,7 @@ description: COVID-19 has exposed inequalities in cities' provision of parks, e
 
 ##### COVID-19 has exposed inequalities in cities' provision of parks, even as green spaces become more important to provide cooling and other benefits in an era of climate change. To promote fairer access to parks, some cities have revamped park funding and introduced other innovations.
 
-> ###### **Cities mentioned in this article:** <br> Paris • Melbourne • Shanghai • London • Vancouver (BC) • Minneapolis • Washington DC • Los Angeles
+> ###### **Cities mentioned in this article:** <br> Paris, Melbourne, Shanghai, London, Vancouver BC, Minneapolis, Washington DC, Los Angeles
 
 ###### ![Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery](/images/features/2020/covid-parks.jpg/)**Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery** © Freepik/www.freepik.com
 
