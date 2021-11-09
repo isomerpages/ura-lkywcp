@@ -13,7 +13,7 @@ description: More secondary cities are taking the initiative to attract new resi
 
 > ###### **Cities mentioned in this article:** <br> Whakatāne, Dunedin, Dong Dang, North Platte, Plainville, Curtis, Cottbus, Calau, Timmins, Claresholm, Vernon BC, Fort Portal, Hoima, Moroto, Nottingham, Karlsruhe, Chiang Rai, Ranong, Paris, Bordeaux
 
-##### ![How smaller cities are stepping up](/images/features/2020/smaller-cities.jpg/)**How smaller cities are stepping up** © bloomua/ 123rf.com
+###### ![How smaller cities are stepping up](/images/features/2020/smaller-cities.jpg/)**How smaller cities are stepping up** © bloomua/ 123rf.com
 
 #### **01: A national effort**
 
