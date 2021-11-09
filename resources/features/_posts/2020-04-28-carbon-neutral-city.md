@@ -2,14 +2,14 @@
 title: Crafting a carbon-neutral city
 permalink: /resources/features/carbon-neutral-city/
 image: /images/features/2020/carbon-neutral.jpg
-description: To curtail climate change and its negative impact, more than 100 cities, including Boston, Oslo and Vancouver, have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The cities’ three major targets - emissions from their buildings, transport systems and energy sources. Here’s a look at how these and other cities are shrinking their environmental footprint through tried-and-tested as well as novel initiatives.
+description: To curtail climate change and its negative impact, more than 100 cities have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The targets: emissions from buildings, transport systems and energy sources. Here’s a look at how cities are shrinking their environmental footprint through tried-and-tested and novel initiatives.
 ---
 
 | Writer |
 |---:|
 | Feng Zengkun |
 
-##### To curtail climate change and its negative impact, more than 100 cities, including Boston, Oslo and Vancouver, have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The cities’ three major targets: emissions from their buildings, transport systems and energy sources. Here’s a look at how these and other cities are shrinking their environmental footprint through tried-and-tested as well as novel initiatives.
+##### To curtail climate change and its negative impact, more than 100 cities have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The targets: emissions from buildings, transport systems and energy sources. Here’s a look at how cities are shrinking their environmental footprint through tried-and-tested and novel initiatives.
 
 > ###### **Cities mentioned in this article:** <br> Vancouver BC, Cambridge MA, Oslo, London, Barcelona, Seoul, Singapore
 
