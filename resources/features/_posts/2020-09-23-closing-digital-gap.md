@@ -10,7 +10,7 @@ description: With the COVID-19 pandemic exposing and widening digital divides am
 |---:|
 | Feng Zengkun |
 
-***With the COVID-19 pandemic exposing and widening digital divides among residents, cities and countries are taking steps to close the gap, both to tide citizens over the crisis and to ensure that the benefits of digital advances are shared by more, if not all, in the longer term.***
+##### With the COVID-19 pandemic exposing and widening digital divides among residents, cities and countries are taking steps to close the gap, both to tide citizens over the crisis and to ensure that the benefits of digital advances are shared by more, if not all, in the longer term.
 
 > ###### **Cities mentioned in this article:** <br> San Francisco, Kansas City, Detroit, Singapore, New York City, Barcelona
 
