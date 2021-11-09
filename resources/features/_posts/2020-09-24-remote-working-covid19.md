@@ -11,7 +11,7 @@ description: As cities adapt to life in the COVID-19 era, many are seizing the m
 
 ##### As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this second in a series of articles, we look at how city centres and suburbs could evolve as more companies embrace digitalisation and remote working.
 
-> ###### **Cities mentioned in this article:** <br>
+> ###### **Cities mentioned in this article:** <br> Austin, Singapore, Glasgow, Perth, Sydney, Los Angeles, Detroit, London
 
 ###### ![With remote working becoming the new normal, cities could rethink the way we work](/images/features/2020/remote-working.jpg/)**With remote working becoming the new normal, cities could rethink the way we work** © diana.grytsku/ Freepik.com
 
