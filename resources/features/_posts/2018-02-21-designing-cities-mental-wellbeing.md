@@ -13,7 +13,7 @@ description: From New York City to Toronto and Tokyo, more cities are recognisin
 
 > ###### **Cities mentioned in this article:** <br> New York City, Singapore, Vancouver BC, Tokyo, Toronto, São Paulo
 
-###### ![The New York High Line](/images/features/2018/nyc-high-line.jpg/)**The New York High Line** © maridav/ 123RF Stock Photo
+###### ![The New York High Line](/images/features/2018/nyc-high-line.jpg/)**The New York High Line** © maridav/ 123rf.com
 
 In 2016, when the government of New York City in the United States updated its guiding principles for urban design, it made supporting its residents’ mental well-being one of its top priorities. “With healthy living as a guiding principle, we are widening our lens and encouraging design teams to think about aspects in the built environment that can aid mental health,” the Department of Design and Construction said in its [policy booklet](http://www1.nyc.gov/site/ddc/about/guiding-principles.page).
 
@@ -32,7 +32,7 @@ Other cities are pursuing similar policies and targets. The government of Vancou
 In Tokyo, the government launched a [Tokyo Greenship Action programme](http://sg.siemens.com/city_of_the_future/_docs/Asian-Green-City-Index.pdf) in 2003 to conserve green spaces in the metropolitan area by partnering local companies and non-profit organisations to preserve private green land. If the land owners are unable to do so, the government has a system to buy the most important nature areas. It has also mandated that large commercial developments must dedicate at least 20 percent of the site’s non-building area and at least 20 percent of the rooftop space to greenery, with the requirement rising to 35 percent for larger sites. “We also plant trees to nurture biodiversity and flowers to express the Japanese spirit of omotenashi, or hospitality, enriching people’s lives with the comfort that such green areas bring,” it said in its [2017 'Creating A Sustainable City' policy booklet](http://www.metro.tokyo.jp/ENGLISH/ABOUT/ENVIRONMENTAL_POLICY/index.htm).
 
 <br> 
-> “With healthy living as a guiding principle, we are widening our lens and encouraging design teams to think about aspects in the built environment that can aid mental health.”
+> ##### “With healthy living as a guiding principle, we are widening our lens and encouraging design teams to think about aspects in the built environment that can aid mental health.”
 
 <div align="right"><b>— New York City Department of Design and Construction</b></div>
 
