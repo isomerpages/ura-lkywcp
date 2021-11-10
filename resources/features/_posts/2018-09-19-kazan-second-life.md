@@ -2,14 +2,14 @@
 title: Kazan’s second life — finding new purpose in sports
 permalink: /resources/features/kazan-second-life/
 image: /images/features/2018/mass-sports-kazan.jpg
-description: By branding itself as a world-class sports capital, Kazan has improved its liveability and life expectancy significantly, and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve the impressive turnaround in about one decade.
+description: By branding itself as a world-class sports capital, Kazan has improved its liveability and life expectancy significantly, and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve its impressive turnaround.
 ---
 
 | Writer |
 |---:|
 | Feng Zengkun |
 
-##### By branding itself as a world-class sports capital, Kazan has improved its liveability and life expectancy significantly, and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve the impressive turnaround in about one decade.
+##### By branding itself as a world-class sports capital, Kazan has improved its liveability and life expectancy significantly, and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve its impressive turnaround.
 
 > ###### **Cities mentioned in this article:** <br> Kazan
 
@@ -59,7 +59,7 @@ In late 2017, for example, the government overhauled one of the clubs, called �
 Mayor Metshin noted in a government meeting in June 2018 that the teenage clubs have helped to curb juvenile delinquency in the city. He said: “All these years, the clubs have pulled young people off the streets. We want them to feel as though they are the owners of the sites, and [learn to cherish them](https://metshin.ru/en/posts/19636).”
 
 <br>
-> “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life.”
+> ##### “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life.”
 
 <div align="right"><b>— Daria Sannikova</b><br> Head of Kazan’s Committee for Tourism Development</div>
 
