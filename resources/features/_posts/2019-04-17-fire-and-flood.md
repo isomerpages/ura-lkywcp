@@ -11,7 +11,7 @@ description: With climate change set to unleash more unnatural weather and natur
 
 ##### With climate change set to unleash more unnatural weather and natural disasters, cities are turning to artificial intelligence to better build their defences, alert residents earlier and power up their response and rescue operations. Smart software can help cities make the right choices in hard times.
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Buenos Aires, Hong Kong, Woodside, Leeds, Patna, Ontario, Manizales, 
 
 ###### ![Heavy flooding in Bangkok](/images/features/2019/flooding-bangkok.jpg/)**Heavy flooding in Bangkok, 2009** © Kampee Patisena/ 123rf.com
 
@@ -35,9 +35,9 @@ Drones were used to take photographs and measurements every 2.5cm along the corr
 
 Instead, SenSat surveyed and inspected the entire riverfront using drones in just two days, reducing the time that would have been needed via the traditional means by more than 95 percent. It then created the digital map using AI and delivered it shortly afterwards. 
 
-#### **Alert and respond**
-
 ###### ![Housing in Hong Kong](/images/features/2019/housing-hongkong.jpg/)**Housing in Hong Kong** © Leonid Androno/ 123rf.com
+
+#### **Alert and respond**
 
 Beyond improving urban planning for natural disasters, AI can also be used to enhance natural disaster prediction systems, enabling authorities to alert residents earlier if they need to be evacuated. In India, where 20 percent of the world’s deaths from floods are estimated to occur, technology giant Google has partnered with the Indian Central Water Commission (CWC) on a project that aims to give citizens river flood warnings [up to three days in advance](https://www.livemint.com/companies/people/google-leveraging-machine-learning-to-predict-india-floods-1552193194482.html). 
 
