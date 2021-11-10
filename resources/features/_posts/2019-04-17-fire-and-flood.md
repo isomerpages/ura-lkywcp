@@ -1,17 +1,19 @@
 ---
-title: Fire and flood - how cities are fighting natural disasters using AI
+title: Fire and flood — how cities are fighting natural disasters using AI
 permalink: /resources/features/fire-and-flood/
 image: /images/features/2019/flooding-bangkok.jpg
-description: With climate change set to unleash ever more unnatural weather and natural disasters, more cities are turning to artificial intelligence to better build their defences, alert residents to potential impending disasters earlier and power up their response and rescue operations. We take a look at how smart software have helped cities to make the right choices in hard times. 
+description: With climate change set to unleash more unnatural weather and natural disasters, cities are turning to artificial intelligence to better build their defences, alert residents earlier and power up their response and rescue operations. Smart software can help cities make the right choices in hard times. 
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***With climate change set to unleash ever more unnatural weather and natural disasters, more cities are turning to artificial intelligence to better build their defences, alert residents to potential impending disasters earlier and power up their response and rescue operations. We take a look at how smart software have helped cities to make the right choices in hard times.***
+##### With climate change set to unleash more unnatural weather and natural disasters, cities are turning to artificial intelligence to better build their defences, alert residents earlier and power up their response and rescue operations. Smart software can help cities make the right choices in hard times.
 
-![Heavy flooding in Bangkok](/images/features/2019/flooding-bangkok.jpg/)*Heavy flooding in Bangkok, 2009. Photo: Kampee Patisena © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> 
+
+###### ![Heavy flooding in Bangkok](/images/features/2019/flooding-bangkok.jpg/)**Heavy flooding in Bangkok, 2009** © Kampee Patisena/ 123rf.com
 
 In April 2013, the city of Buenos Aires in Argentina was [battered by heavy storms](https://www.digitalistmag.com/improving-lives/2018/04/24/buenos-aires-deploys-internet-of-things-to-prevent-disaster-06091325), putting many parts of it underwater and affecting about 350,000 of its residents. Part of the problem was an outdated, paper-based system of dispatching drainage maintenance crews that had failed to identify blockages in the city’s storm drains in time, resulting in the disastrous floods. 
 
@@ -20,8 +22,6 @@ Since then, the government has installed sensors in more than 30,000 of the drai
 Cities like Buenos Aires are increasingly turning to such AI systems to combat the rise in extreme weather and natural disasters. In the past 20 years, such disasters have inflicted an economic toll of US$2.2 trillion, far more than the US$895 billion in the preceding 20 years, killed 1.3 million people, and displaced and injured another 4.4 billion people, according to the [United Nations Office for Disaster Risk Reduction](https://public.wmo.int/en/media/news/new-report-highlights-economic-cost-of-disasters). 
 
 While cities have been investing in climate-resilient infrastructure and other measures for many years, increasingly sophisticated and powerful AI programmes can help them to refine their defences, look at different types of data simultaneously to improve disaster risk predictions and enable earlier warnings, and even increase the speed and efficiency of response and rescue operations. The following are some examples from around the world. 
-
-> “Increasingly sophisticated and powerful AI programmes can help cities to refine their defences, look at different types of data simultaneously to improve disaster risk predictions and enable earlier warnings, and even increase the speed and efficiency of response and rescue operations.”
 
 #### **Smarter brains for stronger defences**
 
@@ -35,9 +35,10 @@ Drones were used to take photographs and measurements every 2.5cm along the corr
 
 Instead, SenSat surveyed and inspected the entire riverfront using drones in just two days, reducing the time that would have been needed via the traditional means by more than 95 percent. It then created the digital map using AI and delivered it shortly afterwards. 
 
-![Housing in Hong Kong](/images/features/2019/housing-hongkong.jpg/)*Housing in Hong Kong. Photo: Leonid Andronov © 123rf.com*
-
 #### **Alert and respond**
+
+###### ![Housing in Hong Kong](/images/features/2019/housing-hongkong.jpg/)**Housing in Hong Kong** © Leonid Androno/ 123rf.com
+
 Beyond improving urban planning for natural disasters, AI can also be used to enhance natural disaster prediction systems, enabling authorities to alert residents earlier if they need to be evacuated. In India, where 20 percent of the world’s deaths from floods are estimated to occur, technology giant Google has partnered with the Indian Central Water Commission (CWC) on a project that aims to give citizens river flood warnings [up to three days in advance](https://www.livemint.com/companies/people/google-leveraging-machine-learning-to-predict-india-floods-1552193194482.html). 
 
 The AI programme created by Google uses its maps and a variety of other information, from data about historical floods to river level readings to rain forecasts, to create river flood forecasting models that can better predict when and where a flood may occur, and its severity and extent. In a late 2018 test carried out in the city of Patna in Bihar, the country’s most flood-prone state, the programme, with input from the CWC, achieved 90 percent accuracy in its flood alerts. 
@@ -48,7 +49,10 @@ In Manizales, Colombia, a city that experienced six major earthquakes in the 20t
 
 In the state of Colorado in the United States, firefighters are also looking to AI for their next generation of firefighting capabilities. Wildfires burn through the state every year, and 2018 was one of its worst years on record. 
 
+<br>
 > “We’re getting to the point where we as humans just cannot process the amount of information necessary to get us to the next stage of knowing what to do and how to address it.”
+
+<div align="right"><b>— Ms Elizaveta Malashenko</b><br> Executive Director, California Public Utilities Commission</div>
 
 The Colorado Division of Fire Prevention and Control’s Centre of Excellence has introduced a new kit for its firefighters that allows them to access a [common digital map](https://www.bizjournals.com/denver/news/2018/11/09/colorado-wildfire-fighting-innovation.html) that displays information such as the location of equipment dropped off by other teams. They can also get a bird’s eye view of the ground as seen by overhead drones. The centre also plans to test a system that will use past fire data and current weather data to forecast a fire’s path, so that they can focus on the ones that will cause the most harm. 
 
