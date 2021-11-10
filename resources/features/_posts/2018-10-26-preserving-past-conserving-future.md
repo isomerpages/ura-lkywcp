@@ -11,7 +11,7 @@ description: Surabaya has put its heritage and culture at the centre of its urba
 
 ##### Surabaya has put its heritage and culture at the centre of its urban development plans over the past decade. Ubiquitous informal settlements were turned into vibrant homes and economic engines, villages into tourist attractions, and neighbourhoods into artistic estates. Surabaya shows how it can preserve its past while improving liveability and sustainability.
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Surabaya 
 
 ###### ![Kampung Dukuh Setro](/images/features/2018/kampung-dukuh-setro.jpg/)**Kampung Dukuh Setro, one of the preserved neighbourhoods of Surabaya** © City of Surabaya
 
