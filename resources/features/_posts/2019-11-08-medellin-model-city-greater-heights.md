@@ -22,7 +22,7 @@ The government created the world’s first cable car mass transport system and i
 Even with its now sterling reputation, Medellín is not resting on its laurels. It has started new urban planning and social projects that aim to build on the solid foundation of its past work and ready the city for its new challenges, including rising ambient temperatures caused by climate change, how to curb its pollution to enable healthier lives, and the best ways to prepare residents for an increasingly volatile and uncertain job market.
 
 <br>
-> “In many parts of the city, there were rubbish dumps next to ravines. They had become places for drug use because they were abandoned and isolated. After we transformed them into gardens, the children returned, the families returned.”
+> ##### “In many parts of the city, there were rubbish dumps next to ravines. They had become places for drug use because they were abandoned and isolated. After we transformed them into gardens, the children returned, the families returned.”
 
 <div align="right"><b>— Federico Gutiérrez</b> <br> Former Mayor, Medellín</div>
 
