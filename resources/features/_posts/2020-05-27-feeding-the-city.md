@@ -23,6 +23,8 @@ Dr Robert Costanza, Professor of Public Policy at the Australian National Univer
 
 #### **Finding room for growth**
 
+###### ![A rooftop urban farm in Singapore](/images/features/2020/urban-farm-sg.jpg/)**A rooftop urban farm in Singapore** © thosewhowander/ Shutterstock.com
+
 In land-scarce Singapore, the government is setting its sights on increasing the number of rooftop farms. In 2019, it worked with urban farming firm to [construct a 1,800-square-metre farm on top of a multi-storey carpark](https://www.straitstimes.com/singapore/urban-farm-to-grow-four-tonnes-of-vegetables-a-month-on-top-of-hdb-carpark) and evaluate its productivity. The farm currently grows up to four tonnes of vegetables monthly which are sold in a nearby supermarket. With its success, the government will [allow businesses to rent nine other publicly-owned carparks’ rooftop areas to farm vegetables and other crops](https://www.straitstimes.com/singapore/nine-multi-storey-carpark-rooftops-in-singapore-to-be-converted-to-urban-farms). It also plans to lease more sites. 
 
 Apart from making space for the farms, the city also introduced grants and legislation to boost interest in them. In April 2020, it launched a [SGD $30 million (approximately USD $21 million) fund to help local farmers](https://www.channelnewsasia.com/news/singapore/singapore-food-security-30-million-grant-eggs-vegetables-fish-12621414) of vegetables, fish and eggs ramp up production, including through investments in technology. Property developers, who have long been required to replace the greenery displaced by their projects, can also now [install rooftop farms to meet the mandate](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr17-77). 
