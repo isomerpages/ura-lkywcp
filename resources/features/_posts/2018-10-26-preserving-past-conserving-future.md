@@ -55,7 +55,7 @@ In an award-winning project, the government also renovated the city’s Bungkul 
 By refreshing these and other neglected areas and using them to showcase the city’s traditional arts and activities where appropriate, the government greatly increased their liveability and tourism value. It has also given a boost to local wares, and thus the city’s economy, in other, smaller ways. Over the years, it has built 45 centres for street vendors to sell their dishes, and traditional markets in [77 locations](https://jfac.jp/en/culture/features/f-ah-icf2017-tri-rismaharini/). 
 
 <br>
-> ###### “Surabaya is not the capital of Indonesia, and we have to independently search for resources to realise the city’s projects. By inviting the community and other stakeholders such as private companies and even the media to work with us, we can have a limited budget but produce maximum results.”
+> ##### “Surabaya is not the capital of Indonesia, and we have to independently search for resources to realise the city’s projects. By inviting the community and other stakeholders such as private companies and even the media to work with us, we can have a limited budget but produce maximum results.”
 
 <div align="right"><b>— Tri Rismaharini</b><br>Former Mayor, Surabaya</div>
 
