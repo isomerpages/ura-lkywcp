@@ -2,7 +2,7 @@
 title: Design for decline - how shrinking cities are saving themselves
 permalink: /resources/features/design-for-decline/
 image: /images/features/2019/toyama-japan.jpg
-description: In some countries, the woes of urbanisation go hand-in-hand with a less documented challenge: shrinking cities due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries, among other strategies. 
+description: In some countries, the woes of urbanisation go hand-in-hand with a less documented challenge - shrinking cities due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries, among other strategies. 
 ---
 
 | Writer |
@@ -13,7 +13,7 @@ description: In some countries, the woes of urbanisation go hand-in-hand with a 
 
 > ###### **Cities mentioned in this article:** <br> Toyama, Yubari, Sheffield City, Pittsburgh, Utica, Manheim, Leipzig
 
-###### ![The city of Toyama in Japan](/images/features/2019/toyama-japan.jpg/)**The city of Toyama in Japan** © Sean Pavone©123rf.com
+###### ![The city of Toyama in Japan](/images/features/2019/toyama-japan.jpg/)**The city of Toyama in Japan** © Sean Pavone/ 123rf.com
 
 For decades, people have moved from their countries’ rural areas to cities, boosting the proportion of the world’s urban population from 30 percent in 1950 to [55 percent today](https://population.un.org/wup/Publications/Files/WUP2018-KeyFacts.pdf). While this trend is set to continue, it masks a growing problem for many countries, including the United States, Japan, China and Germany: the depopulation of many of their cities due to falling fertility rates and migration caused by failing industries and natural resource depletion. 
 
@@ -39,6 +39,8 @@ Since 2005, the proportion of residents living in the city’s centre has risen 
 Meanwhile, the city of Yubari, which has lost more than 90 percent of its population since the 1960s, has taken [more drastic measures](https://www.japantimes.co.jp/news/2016/09/26/business/deserted-yubari-tries-creating-new-population-nucleus-test-case-japan/#.XNN3U6ZS8b0). Its government has merged schools, closed bus routes and forcibly relocated residents from the city’s outskirts to new low-rise housing blocks in the city centre. This has reduced its annual cost of maintaining public housing from 100 million yen (US$897,000) to less than 70 million yen, so that it can continue to provide municipal services despite its smaller tax base. The government is also wooing national and foreign investment in tourism and agriculture in a bid to reverse its fortunes. 
 
 #### **From sunset to sunrise industries**
+
+###### ![The city of Pittsburgh](/images/features/2019/pittsburgh.jpg/)**The city of Pittsburgh** © ESB Professional/ Shutterstock.com
 
 For cities hobbled by the shuttering of their sunset industries, on the other hand, pivoting to sunrise sectors that tap on their existing assets and expertise can be a successful strategy. Sheffield City in Britain was once a global powerhouse in coal mining and steel manufacturing, but a deep recession in the 1970s, the country’s privatisation of those industries in the 1980s and globalisation led to [factory closures and firms deserting the city](http://sticerd.lse.ac.uk/dps/case/cr/casereport103.pdf). Between 1971 and 2001, the city’s population fell by one-sixth, or nearly 100,000 people. 
 
