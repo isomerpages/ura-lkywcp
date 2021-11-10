@@ -19,7 +19,7 @@ Visit the Mapo Culture Depot in Seoul, South Korea, and you will find a spacious
 
 Since the 1990s, Seoul has embarked on a series of projects to rejuvenate its deteriorating neighbourhoods, reclaim its abandoned spaces, restore its natural greenery and streams and change its car-oriented transportation system to one that prioritises walking, cycling and public transport services.
 
-These efforts have helped the city become more vibrant and sustainable, and improved its citizens’ quality of life, which are among the reasons that the city was awarded the [2018 Lee Kuan Yew World City Prize](/laureates/2018/laureate/). The Prize jurors noted that the city’s transformation points the way for other cities struggling with transportation and urban decay issues.
+These efforts have helped the city become more vibrant and sustainable, and improved its citizens’ quality of life, which are among the reasons that the city was awarded the [2018 Prize](/seoul/). The Prize jurors noted that the city’s transformation points the way for other cities struggling with transportation and urban decay issues.
 
 <br>
 > ##### “The underlying emphasis is on improving sustainability and the quality of life. That is the essence of preparing for the future.”
