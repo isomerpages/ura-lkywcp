@@ -36,7 +36,7 @@ In 2014, the government broke new ground by creating the city’s first transit 
 
 Today, private vehicles are banned from passing through or stopping in the street. Vehicles entering the street for business purposes can do so only during restricted day-time hours and must obtain prior approval. On the other hand, vans carrying more than 16 passengers, emergency vehicles and bicycles are allowed in the street at all times. At the same time, the government has increased the number of bus routes and buses serving the area.
 
-![The Yonsei-ro Transit Mall](/images/features/2018/yonsei-ro.jpg/)*The Yonsei-ro Transit Mall © Lee Kuan Yew World City Prize*
+###### ![The Yonsei-ro Transit Mall](/images/features/2018/yonsei-ro.jpg/)**The Yonsei-ro Transit Mall** © Urban Redevelopment Authority Singapore
 
 In a 2017 report on the role of governance in Seoul’s urban transformation, researchers at the Seoul Institute, the government’s official think-tank, noted that the transit mall has had [a positive impact in many ways](http://global.si.re.kr/content/role-governance-urban-transformation-seoul). After it was opened, the number of traffic accidents in the area fell by 35 percent in a six-month period compared to the same period in the previous year, and more people started using buses instead, the researchers said.
 
