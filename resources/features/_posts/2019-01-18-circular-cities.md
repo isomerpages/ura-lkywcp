@@ -45,6 +45,7 @@ The London Waste and Recycling Board, for its part, has encouraged developers to
 
 The London government is also considering incorporating such circular economy principles in its regeneration of several neighbourhoods in the city, including the Old Oak and Park Royal areas, and in the next edition of the London Plan, which will be published in late 2019 and will set out the city’s spatial development strategies for the next 20 to 25 years. 
 
+<br>
 > ##### “When clean and valuable recycled fractions can move freely across borders to support economic activity, this will unlock economies of scale to transform waste into feedstock for new products… If we succeed, we will effectively turn our cities into urban mines that can provide us with environmentally sustainable raw materials.” 
 
 <div align="right"><b>— Masagos Zulkifli</b><br>Then-Minister for the Environment and Water Resources, Singapore</div>
