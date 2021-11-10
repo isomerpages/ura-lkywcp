@@ -42,7 +42,7 @@ More recently, as the city has become more built-up and mature, the government a
 
 The ongoing Shibuya project, in particular, will not only improve its attractiveness as a tourist destination, but retrofit the district to be more resilient against natural disasters such as floods and earthquakes. The new skyscrapers in the district will be earthquake-resistant, and one of the buildings will be designated as a [temporary evacuation site with emergency provisions](https://www.scmp.com/presented/business/topics/invest-overseas-properties/article/2148577/tokyos-shibuya-regeneration). A 4,000-tonne catchment tank will also be installed underneath the renovated Shibuya Station to store rainwater, as flood protection against heavier storms that are expected due to climate change. 
 
-##### ![The rejuvenated Marunouchi district](/images/features/2018/tokyo-marunouchi.jpg/)**The rejuvenated Marunouchi district** © Tokyo Metropolitan Government
+###### ![The rejuvenated Marunouchi district](/images/features/2018/tokyo-marunouchi.jpg/)**The rejuvenated Marunouchi district** © Tokyo Metropolitan Government
 
 Cooperation between the public and private sectors was also key to the completed transformation of the [Otemachi, Marunouchi and Yurakucho (OMY) district](http://www.mlit.go.jp/common/001222335.pdf). Many office buildings were constructed in the district during the 1950s and 1960s, when it was a major business hub for the city, but by the late 1980s the high-rises had become obsolete. The district was also deserted during weekends. In the early 1990s, the government decided to redevelop it to serve a wider range of citizens. 
 
@@ -65,7 +65,7 @@ Between 2007 and 2011, the government helmed a fund-raising campaign to offset t
 
 The government also founded the Umi-no-Mori Club for companies and citizens who want to help maintain and support the area on an ongoing basis. Ms Nami Murakami from the Port of Tokyo’s Marine Parks Department told [The Japan Times in 2017](https://www.japantimes.co.jp/life/2017/02/18/environment/wasteland-tokyo-grows-trash/): “Umi-no-Mori was created to turn something negative – the garbage from people’s everyday lives – into something positive. It will give birth to an area of trees that are planted and cared for by Tokyoites, making a beautiful forest.”
 
-##### ![Involving the citizens in the making of Umi-no-Mori](/images/features/2018/tokyo-umi-no-mori.jpg/)**Involving the citizens in the making of Umi-no-Mori** © Tokyo Metropolitan Government
+###### ![Involving the citizens in the making of Umi-no-Mori](/images/features/2018/tokyo-umi-no-mori.jpg/)**Involving the citizens in the making of Umi-no-Mori** © Tokyo Metropolitan Government
 
 With the city facing increasingly complex challenges related to its ageing population and climate change, the government has also introduced subsidies, assistance schemes and other measures to enlist citizens and companies in carrying out critical infrastructural changes. It believes that by creating avenues for people to help themselves, it can achieve far more than if it were to try and go it alone. 
 
@@ -74,11 +74,3 @@ For example, more than one in 10 homes in Tokyo is vacant now, and the proportio
 The Tokyo government has also initiated two comprehensive plans to fortify its buildings and neighbourhoods against fires and earthquakes. Both plans have incentives to nudge landowners, property managers and homeowners to do part of the work. The government has identified 53 districts with wooden houses that are too closely built, and offered subsidies for the buildings’ removal and replacement with more fire-resistant homes. In the same vein, it will also foot part of the bill if residents carry out earthquake-resistance tests and [reinforcement works for their properties](http://www.bousai.metro.tokyo.jp/foreign/english/bousai/2000170/2000056.html). 
 
 In a [policy speech in February 2018](http://www.metro.tokyo.jp/english/governor/speeches/2018/0221/01.html), Tokyo Governor Yuriko Koike outlined her plans for the city’s future. She stressed: “I believe that we should focus on the people who have continuously supported the development of Tokyo... I hope to provide opportunities for Tokyo citizens of all ages and backgrounds to actively participate in society, and draw out their dynamism to serve as the wellspring to fundamentally overcome Tokyo’s challenges.” **<font color="#967942">O</font>**
-
-<br>
-
-<div style="width:150px"><img src="/images/features/2018/junko-inokuma.png" alt="Junko Inokuma" /></div>
-
-| **Junko Inokuma** |
-|:---|
-| Junko Inokuma is the second woman, and the first in 22 years, to serve as vice governor of Tokyo. She was appointed to this position by Yuriko Koike, the first female governor of Tokyo. She entered the Tokyo Metropolitan Government in 1981. She has extensive experience in various areas of the government, including social welfare, waterfront development, industrial promotion, waterworks, and international affairs. As the Senior Director of the International Affairs Division, she was engaged in promoting city-to-city diplomacy. Prior to her current position, she was the Director General of the Secretariat to Audit and Inspection Commissioners (2016), and Director General of the Bureau of Accounting (2017). |
