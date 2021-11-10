@@ -1,17 +1,19 @@
 ---
-title: Breaking new ground - reinventing underground spaces
+title: Breaking new ground — reinventing underground spaces
 permalink: /resources/features/breaking-new-ground/
 image: /images/features/2020/underground.jpg
 description: From Singapore to Bangkok to Paris, cities are making more and better use of their subterranean spaces beyond the conventional laying of utility pipes and railway lines. By excavating caverns for public facilities, and reinventing existing underground spaces, cities can create new room for growth and improve residents’ quality of life.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***From Singapore to Bangkok to Paris, cities are making more and better use of their subterranean spaces beyond the conventional laying of utility pipes and railway lines. By excavating caverns for public facilities, and reinventing existing underground spaces, cities can create new room for growth and improve residents’ quality of life.***
+##### From Singapore to Bangkok to Paris, cities are making more and better use of their subterranean spaces beyond the conventional laying of utility pipes and railway lines. By excavating caverns for public facilities, and reinventing existing underground spaces, cities can create new room for growth and improve residents’ quality of life.
 
-![Underground spaces](/images/features/2020/underground.jpg/)*Illustration: Nataliya Kalabina © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> 
+
+###### ![Underground spaces](/images/features/2020/underground.jpg/)**How can cities explore underground spaces?** © Nataliya Kalabina/ 123rf.com
 
 For the past few months, commuters passing through Seoul’s Sangdo subway station may have noticed an extraordinary sight: [an automated underground farm with robots growing plants](http://english.seoul.go.kr/seoul-opens-koreas-first-smart-metro-farm-at-sangdo-station/) in a previously disused part of the station. The smart “metro farm” opened by the city’s government in September 2019 was only the first: four others have since been established in the Dapsimni, Cheonwang, Euljiro 3-ga and Chungjeongno stations respectively. 
 
@@ -27,7 +29,10 @@ In Paris, the focus has been on [redeveloping existing underground spaces](https
 
 To encourage citizen participation and support for their redevelopment, the government launched a competition that year to seek proposals for 34 of the sites. [Some of the winning ideas](https://www.citylab.com/design/2019/05/reinvent-paris-ii-urban-planning-architecture-infrastructurec/589330/), announced in January 2019 and now under construction, include a cocktail bar and restaurant in one of the former metro stations, a storage unit, and a bicycle and pedestrian tunnel. [Paris Deputy Mayor Jean-Louis Missika highlighted](https://www.citylab.com/design/2017/09/what-will-come-of-the-competition-to-reinvent-paris/541644/) that the government had restricted entries to public facilities: “This is our opportunity to communicate, cooperate, and create something together that will give us more space to meet one another.”
 
-> "Good underground planning and effective use of underground space can enhance the connectivity with the surroundings, improve the urban environment at ground level, create space for different commercial and public facilities, and optimise the development potential of scarce land resources in the long term."
+<br>
+> ##### "Good underground planning and effective use of underground space can enhance the connectivity with the surroundings, improve the urban environment at ground level, create space for different commercial and public facilities, and optimise the development potential of scarce land resources in the long term."
+
+<div align="right"><b>— The Hong Kong government</b></div>
 
 In congested Hong Kong, on the other hand, the government has been seeking ways to carve out more underground space for critical but non-public-facing infrastructure, including sewage and water treatment plants, data centres and reservoirs, [in anticipation of further population growth](https://www.landforhongkong.hk/en/supply_analysis/cavern.php). “All of the urban flat land in Hong Kong is built-up,” [explained Mr Tony Ho](https://www.wired.com/story/hong-kong-caverns-real-estate/), the government’s chief geotechnical officer. “If we can put suitable facilities inside caverns, we can release precious surface land for other uses, including housing.”
 
@@ -45,7 +50,7 @@ Helsinki, a leader in subterranean development, has [demonstrated the dual advan
 
 Other cities have shown that some underground land uses pair naturally with specific above-ground ones. In Bangkok, a 44,500-square-metre park at Chulalongkorn University [feeds stormwater into underground tanks for flood protection](https://ideas.ted.com/when-bangkok-floods-and-it-floods-a-lot-this-park-does-something-amazing/). The park is inclined at three degrees to facilitate the flow of stormwater into the containers, and is filled with plants that filter and clean the water so that it can be reused to maintain the greenery or discharged more safely into the public drainage system. The synergistic pairing has been such a success that the city is replicating it with a larger, 145,600-square-metre park at its Thammasat University.
 
-![Chulalongkorn University Centenary Park](/images/features/2020/chulalongkorn-park.jpg/)*Chulalongkorn University Centenary Park. Photo: [landprocess](https://landprocessdesign.wixsite.com/landprocess/cucentenarypark)*
+###### ![Chulalongkorn University Centenary Park](/images/features/2020/chulalongkorn-park.jpg/)**Chulalongkorn University Centenary Park** © [landprocess](https://landprocessdesign.wixsite.com/landprocess/cucentenarypark)
 
 #### **Legislate for success**
 
@@ -53,7 +58,10 @@ To ensure that underground construction goes more smoothly, [cities can take a l
 
 The Netherlands, for its part, has mandated the sharing of soil and groundwater data to quickly build up [a comprehensive survey of its underground territory](https://www.tno.nl/en/focus-areas/energy-transition/roadmaps/geological-survey-of-the-netherlands/geological-survey-of-the-netherlands/bro-the-dutch-key-register-of-the-subsurface/). Any company that excavates or drills underground has to provide the information it collects to an open database, called the Basis Registratie Ondergrond, or Key Registry for the Subsurface, set up by the government. Furthermore, anyone who finds inaccuracies in the registry must report them. The registry’s data will be used to make a three-dimensional map of the country’s underground to aid in subterranean development.
 
-> "Underground space can be an asset in providing urban areas with additional space. The future of our cities could well depend on planning the use of underground space in a comprehensive manner."
+<br>
+> ##### "Underground space can be an asset in providing urban areas with additional space. The future of our cities could well depend on planning the use of underground space in a comprehensive manner."
+
+<div align="right"><b>— Mr Han Admiraal and Ms Antonia Cornaro</b> <br> Co-chairs, International Tunnelling and Underground Space Association’s Committee on Underground Space</div>
 
 In the near future, underground facilities may be as common as skyscrapers in cities. In China, more than 20 cities, including Beijing, Shanghai and Shenzhen, have [devised proposals for their subterranean spaces](https://www.businesstimes.com.sg/real-estate/crowded-hong-kong-goes-underground-to-overcome-land-crunch). [The plan for Xiong’an](https://www.businessinsider.com/china-underground-city-xiong-rongcheng-anxin-county-2017-6?IR=T), a new city currently under construction, includes a parallel world underfoot, with spaces up to 26 metres deep to be used for shopping and entertainment complexes, parking, storage and civil defence shelters, and even deeper spaces up to 40 metres below the surface reserved for pipes, transportation, water storage, defence-related structures and other municipal infrastructure. 
 
