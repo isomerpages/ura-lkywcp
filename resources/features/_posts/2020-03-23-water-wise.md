@@ -11,7 +11,7 @@ description: About a quarter of the world's population live in extremely water-s
 
 ##### About a quarter of the world's population live in extremely water-stressed areas, and many cities have already experienced severe water shortages. To protect themselves, more cities are aiming to soak up more rainfall and store more water, tap on technology to reduce leaks, and encourage residents to conserve more water.
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Rotterdam, Lingang, Mexico City, Vancouver BC, Singapore, Phoenix, London, Christchurch
 
 ###### ![Drinking water is good for you](/images/features/2020/drink-water.jpg/)**A man drinking water** © gstockstudio/ 123rf.com
 
