@@ -5,13 +5,15 @@ image: /images/features/2020/child-city.jpg
 description: Nearly one in three people living in cities and towns today is a child. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***Nearly one in three people living in cities and towns today is a child. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.***
+##### Nearly one in three people living in cities and towns today is a child. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.
 
-![Child in the city](/images/features/2020/child-city.jpg/)*Photo: bowie15 © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Boulder, Cologne, Rotterdam, Jakarta, Ghent, Antwerp, London, Tampere, Oslo
+
+###### ![Child in the city](/images/features/2020/child-city.jpg/)**Creating more child-friendly cities** ©  bowie15/ 123rf.com
 
 In 2019, the city of Boulder in the United States [debuted a map of the city designed with and for its children](https://www.citylab.com/solutions/2019/12/kid-friendly-cities-map-growing-up-boulder-families-parents/603733/). The map was created by the city’s Growing Up Boulder group, which works with kids to include their input in urban planning, and in consultation with about 700 children, caregivers and teachers. It points the children to spaces where they can play and learn, such as cycling and walking trails that are appropriate for them, libraries, dog parks and museums, and has small icons for those who cannot read or read well yet. 
 
@@ -19,7 +21,10 @@ Across the US and other countries, more cities are taking steps to become child-
 
 In 2018, the United Nations Children’s Fund [created a new handbook and website](https://www.unicef.org/publications/index_103349.html) to highlight the importance of respecting and realising children’s rights in the development of cities and communities. A year later, it organised [the first international Child-Friendly Cities Summit in Cologne, Germany](https://childfriendlycities.org/mayors-commit-to-action-for-children-at-the-child-friendly-cities-summit/), which was attended by mayors, technical experts, children and young people from 180 cities in 53 countries. Cologne Mayor Henriette Reker said: “It is our action at the local government level that has a huge influence on children’s lives and well-being. We must ensure that children’s rights, wishes and needs are taken into account.” 
 
-> "It is imperative that we design and build cities that meet the needs of children: seeking their input during the design process, providing them with access to play and education, and facilitating their social and cultural interactions."
+<br>
+> ##### "It is imperative that we design and build cities that meet the needs of children: seeking their input during the design process, providing them with access to play and education, and facilitating their social and cultural interactions."
+
+<div align="right"><b>— Professor Klaus Schwab</b> <br> Founder and Executive Chairman, World Economic Forum</div>
 
 #### **Cities for children**
 
@@ -37,7 +42,7 @@ In Antwerp, city authorities have not only widened pavements and implemented cro
 
 For cities with limited space, temporary road closures can be an effective way to make more room for children. In London, Britain, the [“Play Streets” programme](https://www.london.gov.uk/sites/default/files/ggbd_making_london_child-friendly.pdf) encourages residents to apply to their local council for help in organising regular road closures, for example for three hours on the first Sunday of every month, to enable children to play in the street and become physically active and healthier. Residents have to get approval from at least 70 percent of the households on their street. If they are successful, the council provides road closure signs, high visibility vests for volunteers and play kit bags for free. In the Camden district alone, [12 streets have joined the programme](https://www.camden.gov.uk/play-streets), with the council noting that it has brought residents together.
 
-![Making cities safer and more inclusive for children](/images/features/2020/child-cycling.jpg/)*Making cities safer and more inclusive for children. Photo: Irina Schmidt © 123rf.com*
+###### ![Making cities safer and more inclusive for children](/images/features/2020/child-cycling.jpg/)**Making cities safer and more inclusive for children** © Irina Schmidt/ 123rf.com
 
 #### **Children in charge** 
 
