@@ -1,17 +1,19 @@
 ---
-title: Tokyo - the power of people-public-private partnerships
+title: Tokyo — the power of people-public-private partnerships
 permalink: /resources/features/people-public-private-partnerships/
 image: /images/features/2018/tokyo-mt-fuji.jpg
-description: For more than a century, collaborations between Tokyo’s government, private sector and citizens have helped the city to expand quickly and efficiently. Now, as the megacity looks ahead to hosting the 2020 Olympic and Paralympic Games, and prepares for consequential changes such as demographic shifts and more extreme weather due to climate change, it is relying more than ever on such partnerships to implement much-needed redevelopment projects, fortification measures and infrastructural initiatives. 
+description: For over a century, collaborations between Tokyo’s government, private sector and citizens helped the city expand quickly and efficiently. Now, as the megacity looks ahead to the future, including demographic shifts and climate change, it is relying more than ever on such partnerships to implement redevelopment, fortification and infrastructural projects.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***For more than a century, collaborations between Tokyo’s government, private sector and citizens have helped the city to expand quickly and efficiently. Now, as the megacity looks ahead to hosting the 2020 Olympic and Paralympic Games, and prepares for consequential changes such as demographic shifts and more extreme weather due to climate change, it is relying more than ever on such partnerships to implement much-needed redevelopment projects, fortification measures and infrastructural initiatives.***
+##### For over a century, collaborations between Tokyo’s government, private sector and citizens helped the city expand quickly and efficiently. Now, as the megacity looks ahead to the future, including demographic shifts and climate change, it is relying more than ever on such partnerships to implement redevelopment, fortification and infrastructural projects.
 
-![The city of Tokyo against the backdrop of Mount Fuji](/images/features/2018/tokyo-mt-fuji.jpg/)*The city of Tokyo against the backdrop of Mount Fuji ©TCVB*
+> ###### **Cities mentioned in this article:** <br> Tokyo
+
+###### ![The city of Tokyo against the backdrop of Mount Fuji](/images/features/2018/tokyo-mt-fuji.jpg/)**The city of Tokyo against the backdrop of Mount Fuji** © TCVB
 
 #### **Tackling challenges through urban renewal**
 
@@ -21,9 +23,12 @@ Since 2009, the Tokyo government has partnered several private railway operators
 
 While the Shibuya Ward’s government is overseeing the redevelopment, the work on the project’s five large construction sites has been delegated to private firms, and is being financed by railway operators such as the privately-owned Tokyu Corporation and East Japan Railway Company, and the Tokyo Metro Company, which is jointly owned by the Japanese national government and Tokyo Metropolitan Government. 
 
-In an interview with Singapore’s Urban Redevelopment Authority earlier this year after Tokyo was named a [Special Mention](/laureates/2018/special-mentions/tokyo/) in the 2018 Lee Kuan Yew World City Prize, its Vice-Governor Junko Inokuma noted that such public-private partnerships have been critical in the city’s development in the past, and will continue to be essential as it transforms itself to prepare for its future. The city has also fostered such partnerships in a variety of ways that may be useful models for others. 
+In an interview with Singapore’s Urban Redevelopment Authority earlier this year after Tokyo was named a [Special Mention](/tokyo/) in the 2018 Lee Kuan Yew World City Prize, its Vice-Governor Junko Inokuma noted that such public-private partnerships have been critical in the city’s development in the past, and will continue to be essential as it transforms itself to prepare for its future. The city has also fostered such partnerships in a variety of ways that may be useful models for others. 
 
-> “In order for redevelopment to be successful, there has to be consensus among all of the affected stakeholders. That is why it is important to bring everyone together, to make sure that we share the same vision and objectives.”
+<br>
+> ##### “In order for redevelopment to be successful, there has to be consensus among all of the affected stakeholders. That is why it is important to bring everyone together, to make sure that we share the same vision and objectives.”
+
+<div align="right"><b>— Junko Inokuma</b><br>Vice-Governor, Tokyo</div>
 
 #### **Partnering the private sector**
 
@@ -37,7 +42,7 @@ More recently, as the city has become more built-up and mature, the government a
 
 The ongoing Shibuya project, in particular, will not only improve its attractiveness as a tourist destination, but retrofit the district to be more resilient against natural disasters such as floods and earthquakes. The new skyscrapers in the district will be earthquake-resistant, and one of the buildings will be designated as a [temporary evacuation site with emergency provisions](https://www.scmp.com/presented/business/topics/invest-overseas-properties/article/2148577/tokyos-shibuya-regeneration). A 4,000-tonne catchment tank will also be installed underneath the renovated Shibuya Station to store rainwater, as flood protection against heavier storms that are expected due to climate change. 
 
-![The rejuvenated Marunouchi district](/images/features/2018/tokyo-marunouchi.jpg/)*The rejuvenated Marunouchi district © Tokyo Metropolitan Government*
+##### ![The rejuvenated Marunouchi district](/images/features/2018/tokyo-marunouchi.jpg/)**The rejuvenated Marunouchi district** © Tokyo Metropolitan Government
 
 Cooperation between the public and private sectors was also key to the completed transformation of the [Otemachi, Marunouchi and Yurakucho (OMY) district](http://www.mlit.go.jp/common/001222335.pdf). Many office buildings were constructed in the district during the 1950s and 1960s, when it was a major business hub for the city, but by the late 1980s the high-rises had become obsolete. The district was also deserted during weekends. In the early 1990s, the government decided to redevelop it to serve a wider range of citizens. 
 
@@ -47,7 +52,10 @@ Since then, the district has changed from a sombre suit-and-tie area into one th
 
 More importantly, the district’s business owners and other users also formed an area management association to further improve its vitality through [guided tours and events](http://www.otemachi-marunouchi-yurakucho.jp/wp/wp-content/themes/daimaruyu/pdf/info_daimaruyu_2018.pdf). Such associations are a key part of civic engagement in Tokyo, and are supported by the government as they motivate citizens to take charge of their estates. 
 
-> “I hope to provide opportunities for Tokyo citizens of all ages and backgrounds to actively participate in society, and draw out their dynamism to serve as the wellspring to fundamentally overcome Tokyo’s challenges.”
+<br>
+> ##### “I hope to provide opportunities for Tokyo citizens of all ages and backgrounds to actively participate in society, and draw out their dynamism to serve as the wellspring to fundamentally overcome Tokyo’s challenges.”
+
+<div align="right"><b>— Yuriko Koike</b><br>Governor, Tokyo</div>
 
 #### **Collaborating with citizens** 
 
@@ -57,15 +65,15 @@ Between 2007 and 2011, the government helmed a fund-raising campaign to offset t
 
 The government also founded the Umi-no-Mori Club for companies and citizens who want to help maintain and support the area on an ongoing basis. Ms Nami Murakami from the Port of Tokyo’s Marine Parks Department told [The Japan Times in 2017](https://www.japantimes.co.jp/life/2017/02/18/environment/wasteland-tokyo-grows-trash/): “Umi-no-Mori was created to turn something negative – the garbage from people’s everyday lives – into something positive. It will give birth to an area of trees that are planted and cared for by Tokyoites, making a beautiful forest.”
 
-![Involving the citizens in the making of Umi-no-Mori](/images/features/2018/tokyo-umi-no-mori.jpg/)*Involving the citizens in the making of Umi-no-Mori © Tokyo Metropolitan Government*
+##### ![Involving the citizens in the making of Umi-no-Mori](/images/features/2018/tokyo-umi-no-mori.jpg/)**Involving the citizens in the making of Umi-no-Mori** © Tokyo Metropolitan Government
 
 With the city facing increasingly complex challenges related to its ageing population and climate change, the government has also introduced subsidies, assistance schemes and other measures to enlist citizens and companies in carrying out critical infrastructural changes. It believes that by creating avenues for people to help themselves, it can achieve far more than if it were to try and go it alone. 
 
-For example, more than 1 in 10 homes in Tokyo is vacant now, and the proportion may grow as Japan’s population [continues to age and shrink](https://www.japantimes.co.jp/news/2017/12/26/national/japans-glut-abandoned-homes-hard-sell-bargains-opportunity-knocks/). Empty homes pose health and safety problems, including fire risks. The city’s wards have developed various solutions to [tackle the issue](https://resources.realestate.co.jp/news/what-to-do-with-tokyos-hundreds-of-thousands-of-abandoned-homes/). The Setagaya Ward has set aside funds to encourage owners of abandoned homes refurbish their properties, with the goal of renting them out to people who have difficulties affording a home. “We are also providing subsidies for community groups to renovate the properties and use them for activities,” said Vice-Governor Inokuma. 
+For example, more than one in 10 homes in Tokyo is vacant now, and the proportion may grow as Japan’s population [continues to age and shrink](https://www.japantimes.co.jp/news/2017/12/26/national/japans-glut-abandoned-homes-hard-sell-bargains-opportunity-knocks/). Empty homes pose health and safety problems, including fire risks. The city’s wards have developed various solutions to [tackle the issue](https://resources.realestate.co.jp/news/what-to-do-with-tokyos-hundreds-of-thousands-of-abandoned-homes/). The Setagaya Ward has set aside funds to encourage owners of abandoned homes refurbish their properties, with the goal of renting them out to people who have difficulties affording a home. “We are also providing subsidies for community groups to renovate the properties and use them for activities,” said Vice-Governor Inokuma. 
 
 The Tokyo government has also initiated two comprehensive plans to fortify its buildings and neighbourhoods against fires and earthquakes. Both plans have incentives to nudge landowners, property managers and homeowners to do part of the work. The government has identified 53 districts with wooden houses that are too closely built, and offered subsidies for the buildings’ removal and replacement with more fire-resistant homes. In the same vein, it will also foot part of the bill if residents carry out earthquake-resistance tests and [reinforcement works for their properties](http://www.bousai.metro.tokyo.jp/foreign/english/bousai/2000170/2000056.html). 
 
-In a [policy speech in February 2018](http://www.metro.tokyo.jp/english/governor/speeches/2018/0221/01.html), Tokyo Governor Yuriko Koike outlined her plans for the city’s future. She stressed: “I believe that we should focus on the people who have continuously supported the development of Tokyo… I hope to provide opportunities for Tokyo citizens of all ages and backgrounds to actively participate in society, and draw out their dynamism to serve as the wellspring to fundamentally overcome Tokyo’s challenges.” **<font color="#967942">O</font>**
+In a [policy speech in February 2018](http://www.metro.tokyo.jp/english/governor/speeches/2018/0221/01.html), Tokyo Governor Yuriko Koike outlined her plans for the city’s future. She stressed: “I believe that we should focus on the people who have continuously supported the development of Tokyo... I hope to provide opportunities for Tokyo citizens of all ages and backgrounds to actively participate in society, and draw out their dynamism to serve as the wellspring to fundamentally overcome Tokyo’s challenges.” **<font color="#967942">O</font>**
 
 <br>
 
