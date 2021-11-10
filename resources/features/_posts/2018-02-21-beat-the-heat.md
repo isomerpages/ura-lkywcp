@@ -24,7 +24,7 @@ The rising mercury not only poses health risks in the form of heat exhaustion an
 To combat the projected rise in temperatures and occurrence of heatwaves, cities from New York City in the United States to Ahmedabad in India and Penrith in Australia have been developing heat action plans and implementing sustainable mitigation measures.
 
 <br>
-> ##### “Seventeen of the 18 warmest years on record have been during this century, and the degree of warming during the past three years /[2015-2017] has been exceptional.”
+> ##### “Seventeen of the 18 warmest years on record have been during this century, and the degree of warming during the past three years \[2015-2017] has been exceptional.”
 
 <div align="right"><b>— World Meteorological Organisation</b></div>
 
