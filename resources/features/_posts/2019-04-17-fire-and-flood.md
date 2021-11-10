@@ -50,7 +50,7 @@ In Manizales, Colombia, a city that experienced six major earthquakes in the 20t
 In the state of Colorado in the United States, firefighters are also looking to AI for their next generation of firefighting capabilities. Wildfires burn through the state every year, and 2018 was one of its worst years on record. 
 
 <br>
-> “We’re getting to the point where we as humans just cannot process the amount of information necessary to get us to the next stage of knowing what to do and how to address it.”
+> ##### “We’re getting to the point where we as humans just cannot process the amount of information necessary to get us to the next stage of knowing what to do and how to address it.”
 
 <div align="right"><b>— Ms Elizaveta Malashenko</b><br> Executive Director, California Public Utilities Commission</div>
 
