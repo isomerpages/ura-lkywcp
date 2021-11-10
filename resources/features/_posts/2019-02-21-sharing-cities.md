@@ -2,14 +2,14 @@
 title: Building bonds through sharing cities
 permalink: /resources/features/sharing-cities/
 image: /images/features/2019/car-sharing.jpg
-description: Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, to make their cities more efficient, sustainable and inclusive, and build stronger communities bonds.
+description: Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, to make their cities more efficient, sustainable and inclusive, and build stronger community bonds.
 ---
 
 | Writer |
 |---:|
 | Feng Zengkun |
 
-##### Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, to make their cities more efficient, sustainable and inclusive, and build stronger communities bonds.
+##### Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, to make their cities more efficient, sustainable and inclusive, and build stronger community bonds.
 
 > ###### **Cities mentioned in this article:** <br> New York City, Amsterdam, Copenhagen, Toronto, Seoul, Aarhus, Montreal, San Francisco, Minnesota, Dublin
 
