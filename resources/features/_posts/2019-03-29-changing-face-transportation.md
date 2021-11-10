@@ -11,7 +11,7 @@ description: With new ideas and technologies, many cities are reshaping themselv
 
 ##### With new ideas and technologies, many cities are reshaping themselves to favour walking, cycling and public transit over private cars. From Singapore’s on-demand public buses to Barcelona’s mini car-free neighbourhoods, here are some exciting initiatives to swap cars’ pollution and excessive spatial needs with better modes of travel.
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Oslo, Barcelona, Auckland, Hamburg, Sydney, Belleville, Singapore, Curitiba, Kingston
 
 ###### ![Cycling in Copenhagen](/images/features/2019/cycling-copenhagen.jpg/)**Cycling in Copenhagen** © William Perugini/ 123rf.com
 
