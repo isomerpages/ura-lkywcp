@@ -1,27 +1,32 @@
 ---
-title: Hamburg transformed - how the city leads in urban regeneration
+title: Hamburg transformed — leading urban regeneration
 permalink: /resources/features/hamburg-transformed/
 image: /images/features/2018/autobahndeckel.jpg
-description: Over the past decade, the city of Hamburg in Germany has revitalised its underused, neglected and abandoned spaces to create more space for homes, offices, shops and public amenities. It has transformed a once stigmatised area of the city into a model of sustainable living, and is covering its major highway with landscape decks to curb pollution and create more land for parks and greenery. Its creative use of brownfields and urban renewal projects offer valuable lessons for other cities.  
+description: Hamburg's creative use of brownfields and urban renewal has revitalised underutilised spaces to create more homes, offices, shops and public amenities. A once stigmatised area is transformed into a model of sustainable living, while a major highway is being covered with landscape decks to curb pollution and create more parks and greenery.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***Over the past decade, the city of Hamburg in Germany has revitalised its underused, neglected and abandoned spaces to create more space for homes, offices, shops and public amenities. It has transformed a once stigmatised area of the city into a model of sustainable living, and is covering its major highway with landscape decks to curb pollution and create more land for parks and greenery. Its creative use of brownfields and urban renewal projects offer valuable lessons for other cities.***
+##### Hamburg's creative use of brownfields has revitalised underutilised spaces to create more homes, offices, shops and public amenities. A once stigmatised area is transformed into a model of sustainable living, while a major highway is being covered with landscape decks to curb pollution and create more parks and greenery.
 
-![Autobahndeckel](/images/features/2018/autobahndeckel.jpg/)*The Autobahndeckel project that will cover the A7 highway with landscape decks © DEGES/V-KON*
+> ###### **Cities mentioned in this article:** <br> Hamburg
+
+###### ![Autobahndeckel](/images/features/2018/autobahndeckel.jpg/)**The Autobahndeckel project that will cover the A7 highway with landscape decks** © DEGES/V-KON
 
 Visit Hamburg in Germany today and you will find a city in the midst of a transformation. In the past decade, its government has started projects to rejuvenate districts, redevelop abandoned and underused areas and make better use of the spaces allocated to the city’s transport system.
 
-These efforts, some of which are ongoing, have helped Hamburg to become “an attractive and welcoming city of opportunities” that can meet its growing population’s increasing demand for housing and urban mobility, noted the jury for the 2018 Lee Kuan Yew World City Prize when it recognised the city among three others with a [Special Mention](/laureates/2018/special-mentions/hamburg/) in March 2018.
+These efforts, some of which are ongoing, have helped Hamburg to become 'an attractive and welcoming city of opportunities' that can meet its growing population’s increasing demand for housing and urban mobility, noted the jury for the 2018 Prize when it recognised the city with a [Special Mention](/hamburg/) in 2018.
 
 These works will also help the city to prepare for the future, including the impact of climate change, said Professor Jürgen Bruns-Berentelg, Chief Executive Officer of HafenCity Hamburg GmbH – a public company tasked with some of the projects – in a recent interview with the Urban Redevelopment Authority of Singapore.
 
 He added that Hamburg’s varied experience in urban regeneration offers valuable lessons for other cities: “We have shown that it is possible to expand the inner city, increase housing densification, reduce traffic within neighbourhoods and create more green spaces by making use of existing spaces in a far more efficient way.”
 
-> “We have shown that it is possible to expand the inner city, increase housing densification, reduce traffic within neighbourhoods and create more green spaces by making use of existing spaces in a far more efficient way.”
+<br>
+> ##### “We have shown that it is possible to expand the inner city, increase housing densification, reduce traffic within neighbourhoods and create more green spaces by making use of existing spaces in a far more efficient way.”
+
+<div align="right"><b>— Professor Jürgen Bruns-Berentelg</b><br>Chief Executive Officer, HafenCity Hamburg GmbH</div>
 
 #### **Revitalising neighbourhoods**
 
@@ -33,11 +38,11 @@ By 2013, IBA Hamburg had initiated or completed 70 projects across all three are
 
 Wilhelmsburg, which was home to factories, a rubbish dump, public housing and mostly working-class Turkish immigrant neighbourhoods, was transformed into a model of sustainable living. A tower built during World War II to house anti-aircraft guns was converted into a solar power plant and biogas-fuelled heat and power station to provide renewable electricity and heat to [800 local households](https://energytransition.org/2014/07/regenerative-urban-development-in-wilhelmsburg/14/).
 
-“By building more and better homes, improving the schools and creating spaces for commercial enterprises, we encouraged more people to move to Wilhelmsburg without pushing existing residents out,” said Prof Bruns-Berentelg. IBA Hamburg also tested and constructed experimental buildings in the area, including “hybrid houses” with modular spaces that can be [easily converted from offices to apartments or shops](https://www.iba-hamburg.de/en/projects/the-building-exhibition-within-the-building-exhibition/hybrid-houses/projekt/hybrid-houses.html), and vice versa.
+“By building more and better homes, improving the schools and creating spaces for commercial enterprises, we encouraged more people to move to Wilhelmsburg without pushing existing residents out,” said Prof Bruns-Berentelg. IBA Hamburg also tested and constructed experimental buildings in the area, including 'hybrid houses' with modular spaces that can be [easily converted from offices to apartments or shops](https://www.iba-hamburg.de/en/projects/the-building-exhibition-within-the-building-exhibition/hybrid-houses/projekt/hybrid-houses.html), and vice versa.
 
 Work on Wilhelmsburg is ongoing, including projects to retrofit old buildings to reduce their energy use, and to expand the area’s production of renewable energy. Such energy is expected to meet all of the area’s [electricity needs by 2025 and heating demand by 2050](https://www.iba-hamburg.de/en/projects/climate-concept/projekt/renewable-wilhelmsburg-climate-protection-concept.html).
 
-![Aerial view of Wilhelmsburg](/images/features/2018/wilhelmsburg-aerial.jpg/)*Aerial view of Wilhelmsburg © IBA Hamburg GmbH / Falcon Crest Air*
+###### ![Aerial view of Wilhelmsburg](/images/features/2018/wilhelmsburg-aerial.jpg/)**Aerial view of Wilhelmsburg** © IBA Hamburg GmbH/ Falcon Crest Air
 
 #### **Reviving brownfields**
 
@@ -59,7 +64,10 @@ New mid-rise and high-rise buildings intended to increase Hamburg’s housing an
 
 “Another important lesson that HafenCity can offer to other cities is that it is very much financed by its own activities and not by transfers from the government,” said Prof Bruns-Berentelg. [Proceeds from building site sales](https://www.hafencity.com/en/faq-concepts-planning/how-is-hafencity-financed-.html) will fund infrastructure, roads, bridges, promenades and parks, the relocation of businesses and site clearance costs.
 
-> “In Wilhelmsburg, Altona and HafenCity, and with all these projects, what we have seen is that we can generate new paths of development in the city and achieve great progress.”
+<br>
+> ##### “In Wilhelmsburg, Altona and HafenCity, and with all these projects, what we have seen is that we can generate new paths of development in the city and achieve great progress.”
+
+<div align="right"><b>— Professor Jürgen Bruns-Berentelg</b><br>Chief Executive Officer, HafenCity Hamburg GmbH</div>
 
 #### **Rethinking transport**
 
@@ -74,11 +82,3 @@ The Hamburg government noted that the covers will also turn several nearby areas
 Prof Bruns-Berentelg said that the project shows how cities can rethink and adapt their transport systems to benefit residents. “Such major traffic arteries may be necessary so that you cannot reduce their dimensions, but you can always come up with creative solutions to make better use of them,” he said.
 
 He summarised: “In Wilhelmsburg, Altona and HafenCity, and with all these projects, what we have seen is that we can generate new paths of development in the city and achieve great progress.” **<font color="#967942">O</font>**
-
-<br>
-
-<div style="width:150px"><img src="/images/features/2018/jurgen-bruns.png" alt="Jürgen Bruns-Berentelg" /></div>
-
-| **Jürgen Bruns-Berentelg** |
-|:---|
-| Since 2003, Jürgen Bruns-Berentelg has been CEO of HafenCity Hamburg GmbH, a public company owned by the City State of Hamburg, second most populous city in Germany and center of a metropolitan region of 5 million Inhabitants, charged with the development of HafenCity and other areas. The HafenCity Hamburg development area represents a mixed use 40% expansion of the core city area of Hamburg. The goal is to develop a highly sustainable and outstanding new downtown in the European tradition of urbanism. |
