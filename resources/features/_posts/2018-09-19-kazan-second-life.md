@@ -1,17 +1,19 @@
 ---
-title: Kazan’s second life - how the city found a new purpose in sports
+title: Kazan’s second life — how the city found a new purpose in sports
 permalink: /resources/features/kazan-second-life/
 image: /images/features/2018/mass-sports-kazan.jpg
-description: By refashioning itself as a world-class sports capital, the city of Kazan in Russia has shed its youth criminal gang and poor public health problems, improved its residents’ life expectancy significantly and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve the impressive turnaround in about one decade – and what other cities can learn from Kazan.  
+description: By branding itself as a world-class sports capital, Kazan has improved its liveability and life expectancy significantly, and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve the impressive turnaround in about one decade.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***By refashioning itself as a world-class sports capital, the city of Kazan in Russia has shed its youth criminal gang and poor public health problems, improved its residents’ life expectancy significantly and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve the impressive turnaround in about one decade – and what other cities can learn from Kazan.***
+##### By branding itself as a world-class sports capital, Kazan has improved its liveability and life expectancy significantly, and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve the impressive turnaround in about one decade.
 
-![Mass sports in Kazan](/images/features/2018/mass-sports-kazan.jpg/)*Mass sports in Kazan © City of Kazan*
+> ###### **Cities mentioned in this article:** <br> Kazan
+
+###### ![Mass sports in Kazan](/images/features/2018/mass-sports-kazan.jpg/)**Mass sports in Kazan** © City of Kazan
 
 What do the World Cup, World Fencing Championships, FINA World Aquatics Championship and World University Summer Games have in common? Over the past five years, the city of Kazan in Russia has hosted all of these elite international sporting events. 
 
@@ -19,11 +21,14 @@ In the span of a decade, the city has built hundreds of sports facilities and cr
 
 Since Mayor of Kazan Ilsur Metshin took office in 2006 and implemented these and other initiatives, they have produced remarkable results. Citizens’ average life expectancy has increased by 9 years to 73.8 years, while the mortality rate has fallen by 19 percent. In a sign of residents’ newfound confidence in the city’s future, the number of registered marriages has also increased by 1.5 times, and the number of births has risen by more than 2 times. 
 
-After Kazan was awarded a Special Mention in the biennial Lee Kuan Yew World City Prize in March 2018 for its [achievements](/laureates/2018/special-mentions/kazan/), Ms Daria Sannikova, Head of Kazan’s Committee for Tourism Development, said in an interview with Singapore’s Urban Redevelopment Authority of the city’s transformation: “We have gone from being a dying city to being a growing one.” 
+After Kazan was awarded a Special Mention in 2018 for its [achievements](/kazan/), Ms Daria Sannikova, Head of Kazan’s Committee for Tourism Development, said in an interview with Singapore’s Urban Redevelopment Authority of the city’s transformation: “We have gone from being a dying city to being a growing one.” 
 
 For many other cities across the world, Kazan’s experience shows a way out of the vicious circle of poor public health and crime, exodus of young people and families, and deteriorating infrastructure that once mired it. Here’s a look at how Kazan remade itself. 
 
-> “We are proud that Kazan is now referred to as the Sports Capital of Russia, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.”
+<br>
+> ##### “We are proud that Kazan is now referred to as the Sports Capital of Russia, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.”
+
+<div align="right"><b>— Daria Sannikova</b><br> Head of Kazan’s Committee for Tourism Development</div>
 
 #### **Supporting sports for life**
 
@@ -39,7 +44,7 @@ The government has also implemented social initiatives to target two age groups:
 
 The dual focus on constructing new facilities and nudging residents to use them has paid off handsomely. Between 2006 and 2018, the proportion of citizens who are involved in sports regularly surged from less than 10 percent to 42 percent. Ms Sannikova remarked: “We are proud that Kazan is now referred to as the Sports Capital of Russia, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.” 
 
-![The Kazan Arena](/images/features/2018/kazan-arena.jpg/)*The Kazan Arena © City of Kazan*
+###### ![The Kazan Arena](/images/features/2018/kazan-arena.jpg/)**The Kazan Arena** © City of Kazan
 
 #### **Giving youths a head start**
 
@@ -53,7 +58,10 @@ In late 2017, for example, the government overhauled one of the clubs, called �
 
 Mayor Metshin noted in a government meeting in June 2018 that the teenage clubs have helped to curb juvenile delinquency in the city. He said: “All these years, the clubs have pulled young people off the streets. We want them to feel as though they are the owners of the sites, and [learn to cherish them](https://metshin.ru/en/posts/19636).”
 
+<br>
 > “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life.”
+
+<div align="right"><b>— Daria Sannikova</b><br> Head of Kazan’s Committee for Tourism Development</div>
 
 #### **A model for diversity**
 
@@ -67,7 +75,7 @@ While the city has always been diverse, successive governments have put in place
 
 The city has displayed sensitivity to different faiths, restoring or rebuilding three key religious landmarks in the past few decades: the [Qolşärif Mosque](https://www.rferl.org/a/1059451.html), [Annunciation Cathedral](http://welcome2018.com/en/places/kazan/236368/) and [Great Synagogue](https://www.chabad.org/news/article_cdo/aid/3059790/jewish/Restoration-of-100-Year-Old-Synagogue-Celebrated-in-Kazan-Russia.htm). More recently, a new funeral complex is divided almost equally into two cemeteries for Orthodox Christians and Muslims respectively, with a church and a mosque erected [in the allocated spaces](https://metshin.ru/en/posts/19618). 
 
-Mayor Metshin’s administration is also overhauling the city’s “houses of culture”, partly to spur greater interaction and cooperation among cultural organisations. In April 2018, one of the centres was reopened with a new information centre, waiting areas and a co-working zone for organisations to implement [joint projects](https://metshin.ru/en/posts/19409). 
+Mayor Metshin’s administration is also overhauling the city’s 'houses of culture', partly to spur greater interaction and cooperation among cultural organisations. In April 2018, one of the centres was reopened with a new information centre, waiting areas and a co-working zone for organisations to implement [joint projects](https://metshin.ru/en/posts/19409). 
 
 “Kazan is often called the place where East meets West, and the union of the two civilisations finds manifestation in the architecture of the buildings and in everyday life. There is a constant dialogue of cultures and religions. People visit one another’s traditional festivities, and their appreciation does not stop at their own cultures, but extends to those of their neighbours,” said Ms Sannikova. 
 
