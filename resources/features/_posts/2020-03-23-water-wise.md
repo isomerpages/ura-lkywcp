@@ -48,7 +48,7 @@ Emerging technologies could lead to water savings in other ways. The city of Pho
 <br>
 > ##### "Water stresses are poised to worsen unless countries act. Only by taking action now and investing in better management can we solve water issues for the good of people, economies and the planet."
 
-<div align="right"><b>— World Resources Institute</br></div>
+<div align="right"><b>— World Resources Institute</b></div>
 
 #### **Plugging the gaps**
 
