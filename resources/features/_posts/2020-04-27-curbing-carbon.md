@@ -57,11 +57,11 @@ So far, the fund has loaned over AUD $30 million (approximately USD $19 million)
 
 In 2010, it built on its commitment by requiring all city-owned buildings, including affordable housing apartment blocks, to meet the same standards. Today, the city has more than 300,000 square metres of gross floor area that conform to the standards, and over 50 building projects in the pipeline that will do so as well.
 
-###### ![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg/)**Transport in Bristol** © bagwold/ 123rf.com
-
 ---
 
 #### **06: Clean up transport**
+
+###### ![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg/)**Transport in Bristol** © bagwold/ 123rf.com
 
 In transport, **Bristol** is leading the way in Britain. In 2019, the city’s council approved a [first-in-the-nation plan to minimise pollution from vehicles](https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117). If given the green light by the central government, all private diesel vehicles except buses, taxis and emergency service vehicles will be banned from entering part of the city centre between 7 am and 3 pm from March 2021.
 
