@@ -2,16 +2,18 @@
 title: The changing face of transportation
 permalink: /resources/features/changing-face-transportation/
 image: /images/features/2019/cycling-copenhagen.jpg
-description: Armed with new ideas and technologies such as artificial intelligence, many cities are reshaping their transportation systems to favour walking, cycling and public transit over private cars. From Singapore’s on-demand public buses to Barcelona’s ongoing creation of mini car-free neighbourhoods throughout the city, here are some exciting initiatives that aim to swap cars’ pollution and excessive spatial needs with cleaner, more sustainable and space-friendly modes of travel.
+description: With new ideas and technologies, many cities are reshaping themselves to favour walking, cycling and public transit over private cars. From Singapore’s on-demand public buses to Barcelona’s mini car-free neighbourhoods, here are some exciting initiatives to swap cars’ pollution and excessive spatial needs with better modes of travel.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***Armed with new ideas and technologies such as artificial intelligence, many cities are reshaping their transportation systems to favour walking, cycling and public transit over private cars. From Singapore’s on-demand public buses to Barcelona’s ongoing creation of mini car-free neighbourhoods throughout the city, here are some exciting initiatives that aim to swap cars’ pollution and excessive spatial needs with cleaner, more sustainable and space-friendly modes of travel.***
+##### With new ideas and technologies, many cities are reshaping themselves to favour walking, cycling and public transit over private cars. From Singapore’s on-demand public buses to Barcelona’s mini car-free neighbourhoods, here are some exciting initiatives to swap cars’ pollution and excessive spatial needs with better modes of travel.
 
-![Cycling in Copenhagen](/images/features/2019/cycling-copenhagen.jpg/)*Cycling in Copenhagen. Photo: William Perugini © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> 
+
+###### ![Cycling in Copenhagen](/images/features/2019/cycling-copenhagen.jpg/)**Cycling in Copenhagen** © William Perugini/ 123rf.com
 
 By the end of this year, the capital of Oslo in Norway will [restrict the use of vehicles in its city centre](https://www.nytimes.com/2018/12/19/travel/oslo-restricts-cars-in-city-center.html), remove all 700 of the on-street parking spaces in the area and build new bicycle lanes and public transportation facilities in their stead. Explaining the decision, the city’s Vice Mayor for Urban Development Hanna Elise Marcussen said: “We’re doing this to give the streets back to the people.” 
 
@@ -19,11 +21,14 @@ While the car has reigned supreme across the world for many decades, Oslo, like 
 
 Armed with fresh ideas and new technologies, many cities are remaking their transportation infrastructure, systems and policies to favour cleaner and more efficient mobility methods such as walking, cycling, public transit and other shared vehicles. From Barcelona in Spain to the Canadian city of Kingston and the city-state of Singapore, here are some of the novel ideas that exemplify the changing face of transportation. 
 
-> “Armed with fresh ideas and new technologies, many cities are remaking their transportation infrastructure, systems and policies to favour cleaner and more efficient mobility methods such as walking, cycling, public transit and other shared vehicles.”
+<br>
+> ##### “Our network will be unique in covering the city from its outskirts to the city centre. You’ll be able to explore the city exclusively on bike and foot.”
+
+<div align="right"><b>— Angelika Fritsch</b><br> Hamburg government spokeswoman</div>
 
 #### **Redesigning streets for people, not cars** 
 
-Like many other cities, Barcelona is already heavily built-up, leaving little room for new transport solutions that require plenty of space. Undeterred, the government has revived an idea first mooted in the city in the early 1990s: “[superblocks](https://www.nytimes.com/2016/10/02/nyregion/what-new-york-can-learn-from-barcelonas-superblocks.html)” that would each push most of the vehicular traffic within a grid of nine existing buildings to its perimeter, freeing up the streets within for wider sidewalks, bicycle lanes and community spaces such as parks, plazas and playgrounds. 
+Like many other cities, Barcelona is already heavily built-up, leaving little room for new transport solutions that require plenty of space. Undeterred, the government has revived an idea first mooted in the city in the early 1990s: ['superblocks'](https://www.nytimes.com/2016/10/02/nyregion/what-new-york-can-learn-from-barcelonas-superblocks.html) that would each push most of the vehicular traffic within a grid of nine existing buildings to its perimeter, freeing up the streets within for wider sidewalks, bicycle lanes and community spaces such as parks, plazas and playgrounds. 
 
 When researchers studied one of the three older superblocks built in the 1990s, they found that car traffic in the surrounding neighbourhood had fallen by about 15 percent, while walking and cycling were up by 10 percent and 30 percent respectively. Since 2016, the city has created two more superblocks, in the Poblenou and Sant Antoni districts, and many more are in the works. While there was some opposition to the Poblenou superblock in the beginning, “many of the people who were against it are now happy with it,” [said Ms Sílvia Casorrán](https://www.citylab.com/transportation/2018/08/inside-a-pedestrian-first-superblock/566864/) of the Poblenou Neighbours Association. 
 
@@ -31,7 +36,7 @@ In New Zealand, the city of Auckland is attempting a similar pedestrianisation p
 
 On the other side of the world, the city of Hamburg in Germany is carrying out an even more ambitious plan. By 2034, about 40 percent of the city’s land area will be [devoted to a green network](https://www.theguardian.com/sustainable-business/hamburg-answer-to-climate-change) that uses green corridors and paths to connect its plentiful parks, gardens, playgrounds, recreational areas and cemeteries. Sections of the connectors are being [built on top of existing motorways](https://www.fastcompany.com/3040310/theyre-going-to-bury-a-stretch-of-german-autobahn-and-cover-it-in-parks), restricting the latter’s noise and other pollution and reducing the land needed for the plan. “Our network will be unique in covering the city from its outskirts to the city centre. You’ll be able to explore the city exclusively on bike and foot,” said Ms Angelika Fritsch, a government spokeswoman. 
 
-![People and tram near the Oslo City Hall](/images/features/2019/oslo-city-hall.jpg/)*People and tram near the Oslo City Hall. Photo: ojimorena © 123rf.com*
+###### ![People and tram near the Oslo City Hall](/images/features/2019/oslo-city-hall.jpg/)**People and tram near the Oslo City Hall** © ojimorena/ 123rf.com
 
 #### **Public transport at your command** 
 
@@ -43,7 +48,10 @@ The Belleville government also started an [on-demand programme](https://www.cbc.
 
 Data analytics also plays a key role in Singapore’s ground-breaking [“Beeline” shuttle bus initiative](https://www.straitstimes.com/singapore/code-for-private-bus-service-app-to-be-released-to-the-public-for-developers-to-build-on). Using an app, commuters can book seats on available private bus routes and suggest new ones. Private bus operators can then identify areas and routes with high demand and offer their services, supplementing public bus services and encouraging citizens to use them instead of private cars. The app has been downloaded more than 56,000 times since it was launched in 2015, and its users have crowd-started more than 80 routes. 
 
-> “Many cities are using new technologies such as smartphone applications and artificial intelligence to improve their public transit systems and make them more appealing to commuters who may otherwise opt for private vehicles.”
+<br>
+> ##### “Today, very few people would do that \[smoke cigarettes indoors]. It’s the same with cars in the city centre. One day, we will look back and ask ourselves why we ever thought that was a good idea.”
+
+<div align="right"><b>— Hanna Elise Marcussen</b><br> Vice Mayor for Urban Development, Oslo</div>
 
 #### **Start young for success** 
 
