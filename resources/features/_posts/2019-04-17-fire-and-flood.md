@@ -11,7 +11,7 @@ description: With climate change set to unleash more unnatural weather and natur
 
 ##### With climate change set to unleash more unnatural weather and natural disasters, cities are turning to artificial intelligence to better build their defences, alert residents earlier and power up their response and rescue operations. Smart software can help cities make the right choices in hard times.
 
-> ###### **Cities mentioned in this article:** <br> Buenos Aires, Hong Kong, Woodside, Leeds, Patna, Ontario, Manizales, 
+> ###### **Cities mentioned in this article:** <br> Buenos Aires, Hong Kong, Woodside, Leeds, Patna, Ontario, Manizales
 
 ###### ![Heavy flooding in Bangkok](/images/features/2019/flooding-bangkok.jpg/)**Heavy flooding in Bangkok, 2009** © Kampee Patisena/ 123rf.com
 
