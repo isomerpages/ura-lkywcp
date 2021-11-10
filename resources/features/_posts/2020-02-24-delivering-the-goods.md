@@ -9,7 +9,7 @@ description: The sharp increase in e-commerce is posing a dilemma to cities - ho
 |---:|
 | Feng Zengkun |
 
-###### The sharp increase in e-commerce is posing a dilemma to cities: how to encourage such trade while preventing the traffic congestion caused by delivery vehicles. To achieve the twin goals, cities are experimenting with a range of infrastructural and legislative solutions, from mini-depots and self-pick-up points, to reservation systems for curb-side parking.
+##### The sharp increase in e-commerce is posing a dilemma to cities: how to encourage such trade while preventing the traffic congestion caused by delivery vehicles. To achieve the twin goals, cities are experimenting with a range of infrastructural and legislative solutions, from mini-depots and self-pick-up points, to reservation systems for curb-side parking.
 
 > ###### **Cities mentioned in this article:** <br> Seattle, Copenhagen, Aarhus, Sydney, Berlin, New York City, Stockholm, Paris, Barcelona, Washington DC, Reykjavik, Xiong’An
 
