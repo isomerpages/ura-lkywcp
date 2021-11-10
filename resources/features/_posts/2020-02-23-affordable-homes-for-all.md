@@ -11,7 +11,7 @@ description: Cities from Sydney to Los Angeles are grappling with soaring home p
 
 ##### Cities from Sydney to Los Angeles are grappling with soaring home prices and a growing lack of affordable accommodation for residents. From novel ways to adapt residential estates to self-sustaining financing models, these are some examples of new infrastructural and legislative ideas.
 
-> ###### **Cities mentioned in this article:** <br> Sydney, Los Angeles, Maputo, Harrow, Coventry, Norwich, Bristol, Paris, Madrid, Valencia, Barcelona, ViennaMelbourne, Fremantle
+> ###### **Cities mentioned in this article:** <br> Sydney, Los Angeles, Maputo, Harrow, Coventry, Norwich, Bristol, Paris, Madrid, Valencia, Barcelona, Vienna, Melbourne, Fremantle
 
 ###### ![Housing for all](/images/features/2020/housing-green.jpg/)**How can cities provide affordable housing for all?** © venimo/ 123rf.com
 
