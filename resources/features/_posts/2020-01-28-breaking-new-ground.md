@@ -11,11 +11,11 @@ description: From Singapore to Bangkok to Paris, cities are making more and bett
 
 ##### From Singapore to Bangkok to Paris, cities are making more and better use of their subterranean spaces beyond the conventional laying of utility pipes and railway lines. By excavating caverns for public facilities, and reinventing existing underground spaces, cities can create new room for growth and improve residents’ quality of life.
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Seoul, Paris, Hong Kong, Kuala Lumpur, Helsinki, Bangkok, Singapore, Xiong’an
 
 ###### ![Underground spaces](/images/features/2020/underground.jpg/)**How can cities explore underground spaces?** © Nataliya Kalabina/ 123rf.com
 
-For the past few months, commuters passing through Seoul’s Sangdo subway station may have noticed an extraordinary sight: [an automated underground farm with robots growing plants](http://english.seoul.go.kr/seoul-opens-koreas-first-smart-metro-farm-at-sangdo-station/) in a previously disused part of the station. The smart “metro farm” opened by the city’s government in September 2019 was only the first: four others have since been established in the Dapsimni, Cheonwang, Euljiro 3-ga and Chungjeongno stations respectively. 
+For the past few months, commuters passing through Seoul’s Sangdo subway station may have noticed an extraordinary sight: [an automated underground farm with robots growing plants](http://english.seoul.go.kr/seoul-opens-koreas-first-smart-metro-farm-at-sangdo-station/) in a previously disused part of the station. The smart 'metro farm' opened by the city’s government in September 2019 was only the first: four others have since been established in the Dapsimni, Cheonwang, Euljiro 3-ga and Chungjeongno stations respectively. 
 
 Like many other cities, Seoul in South Korea, the [2018 winner of the Lee Kuan Yew World City Prize](https://www.leekuanyewworldcityprize.com.sg/laureates/2018/laureate/), has been making more and better use of its subterranean spaces in recent years. For some cities, such as Paris in France, developments such as dwindling car ownership have opened up opportunities to reinvent existing underground spaces, to boost residents’ quality of life. For other cities, such as Hong Kong, looming land shortages have created an urgent need to delve underground and excavate new spaces to accommodate growing populations. 
 
