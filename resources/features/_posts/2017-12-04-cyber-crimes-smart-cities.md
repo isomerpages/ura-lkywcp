@@ -13,7 +13,7 @@ description: With the rise of smart cities and technology in everyday life, the 
 
 > ###### **Cities mentioned in this article:** <br> Singapore
 
-##### ![Cyber crimes](/images/features/2017/cyber-crimes.jpg/)**Photo of a server room**
+###### ![Cyber crimes](/images/features/2017/cyber-crimes.jpg/)**Photo of a server room**
 
 Technological innovations have radically changed cities round the world in just a few short decades, from bridging communities and facilitating governance to enhancing liveability and public security. With the rise of smart cities, technology is steadily becoming inseparable from urban life.
 
