@@ -23,18 +23,13 @@ With critical mass of population, urban infrastructure and administrative resour
 
 #### **Drawing on local cultural resources**
 
-###### ![A traditional tea house in Tokyo](/images/features/2018/tokyo-tea.jpg/)**A traditional tea house in Tokyo** © Valerij Milanovic/ Shutterstock.com
-
 For many cities which have successfully leveraged culture as a growth engine, drawing on local cultural resources is an established strategy. The city of Tokyo, Japan, is a case in point. Faced with an ageing population and declining birth rate, the city government decided to turn to arts and culture as a strategy to revitalise the city and transform it into a hub for young creative talents. In 2015, the government drew up the [Tokyo Vision for Arts and Culture](http://www.seikatubunka.metro.tokyo.jp/en/vision.html) to lead and guide the city’s arts and cultural development, and promote Tokyo’s cultural policies internationally. The vision draws from Japan’s iconic culture and heritage, in particular its traditions dating back to the Edo era. For example, programmes are created for schools and tourists to learn about traditional art forms and cultural practices, such as noh theatre, rakugo, and the tea ceremony.
 
 At the same time, Tokyo’s traditions serve to inspire cultural experimentation, resulting in dynamic creative and cultural industries, and new culture, from cutting edge fashion, media and design to animation, pop art and performing arts. The city invests in large-scale festivals, cultural exchange networks with other cities worldwide, and initiatives to make culture more inclusive. These efforts helped establish Tokyo as one of the world’s most dynamic cultural hubs, with creative industries contributing to [12.9 percent of its employment and cultural influence](http://www.worldcitiescultureforum.com/cities/tokyo/) that extends beyond the city.
 
 Another city that has successfully tapped on its cultural lineage for development is Jeonju, South Korea. One of South Korea’s major hubs for arts and culture, the city’s attractiveness and identity are a result of blending traditions with modernity. Recognised as a UNESCO City of Gastronomy in 2012, Jeonju pushes innovation in its gastronomy sector by collaborating with educational institutes to propagate knowledge of traditional Korean and Jeonju cuisines, food festivals and organisations to focus on preserving and promoting culinary knowledge.
 
-<br>
-> ##### “The ability to attract and retain creative talents, entrepreneurs and innovators is strongly tied to the city’s investment in cultural assets, which in turn impacts the development of the city.”
-
-<div align="right"><b>— Writer</b></div>
+###### ![A traditional tea house in Tokyo](/images/features/2018/tokyo-tea.jpg/)**A traditional tea house in Tokyo** © Valerij Milanovic/ Shutterstock.com
 
 #### **Engendering cultural development through inclusion**
 
@@ -43,6 +38,11 @@ A key strategy adopted by cities to become cultural hubs is to ensure inclusivit
 Singapore’s approach illustrates how inclusivity, engendered through policies, can inspire new art and culture. The city’s National Arts Council, which sets the direction of arts and cultural policies, achieves this by partnering non-profit foundations, other government agencies, and arts and cultural institutions, leading to the emergence of more inclusive art forms and spaces.
 
 For instance, funds are committed to support arts programmes that include disadvantaged groups such as isolated elderly people, youth at risk and people with disabilities. Collaboration between arts and cultural groups, and non-profit organisations is facilitated to create opportunities for marginalised communities to participate in arts and cultural production. The focus on inclusivity also means embracing the city’s multicultural lineage. A flagship event is the annual Singapore Heritage Festival, which helps communities connect through sharing culture, memories and experiences. These various initiatives strengthen the city’s identity while inspiring new culture that draw from its rich diversity, such as theatrical productions, literature, film and design.
+
+<br>
+> ##### “The ability to attract and retain creative talents, entrepreneurs and innovators is strongly tied to the city’s investment in cultural assets, which in turn impacts the development of the city.”
+
+<div align="right"><b>— Writer</b></div>
 
 #### **Networking for culturally vibrant cities**
 
