@@ -46,6 +46,6 @@ sections:
         url: https://go.gov.sg/newsletter
     - resources:
         title: 
-        subtitle: Fresh content
-        button: More articles
+        subtitle: Lessons from cities
+        button: More resources
 ---
