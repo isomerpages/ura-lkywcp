@@ -33,7 +33,7 @@ TMG has asked a wide range of businesses including restaurants, bars, theatres, 
 
 TMG also understands the need for compassion and the diverse needs and concerns of citizens during such a difficult period. In October, we opened a [newly designated facility](https://www.arabnews.jp/en/japan/article_28617/) for recovery where people who have mild or no symptoms can stay with their beloved pets such as cats, dogs, hamsters and rabbits.
 
-###### ![Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo](/images/features/2021/shinjuku.jpg/)**Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo** © [wirestock/ 123rf.com
+###### ![Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo](/images/features/2021/shinjuku.jpg/)**Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo** © wirestock/ 123rf.com
 
 #### **What will Tokyo’s 'new normal' look like?**
 
