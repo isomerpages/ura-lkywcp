@@ -17,7 +17,7 @@ description: Medellín – the 2016 Laureate of the Lee Kuan Yew World City Priz
 
 “We went from being an unviable city to a city where people want to invest, where people want to go for walks, and where we have a citizenship that is working together to improve our quality of life every day.”
 
-The transformation of Medellín, as summed up by then-Mayor Federico Gutiérrez, has been sustained by the very people who are now reaping the benefits of its urban renewal. From a place that was regarded as one of the most violent cities on the planet in 1991, Medellín has emerged from the ashes to become, in Gutiérrez’s words, “one of the most innovative cities in the world” and the 2016 Prize Laureate of the Lee Kuan Yew World City Prize.
+The transformation of Medellín, as summed up by then-Mayor Federico Gutiérrez, has been sustained by the very people who are now reaping the benefits of its urban renewal. From a place that was regarded as one of the most violent cities on the planet in 1991, Medellín has emerged from the ashes to become, in Gutiérrez’s words, “one of the most innovative cities in the world” and the [2016 Prize Laureate](/medellin/) of the Lee Kuan Yew World City Prize.
 
 According to Gutiérrez, the successful transformation of Colombia’s second largest city was the result of two important factors: the long-term efforts of good and successive governments as well as a close working partnership among the public sector, private sector, universities and civil society. He elaborates, “We are all working together to build a city in which legality is very important, in which citizen culture plays a fundamental role and in which we will continue to advance in terms of social equity.”
 
