@@ -1,5 +1,5 @@
 ---
-title: Reaching high and moving up - Medellín's mountains of achievements
+title: Medellín — reaching high and moving up
 permalink: /resources/features/reaching-high-moving-up/
 image: /images/features/2016/medellion-metrocable.jpg
 description: Medellín built upon its 2014 Special Mention recognition to become the 2016 Prize Laureate. Key leaders involved in the city's dramatic transformation share the story of how they and their predecessors transformed the world’s most dangerous city into a 'City for Life'.
