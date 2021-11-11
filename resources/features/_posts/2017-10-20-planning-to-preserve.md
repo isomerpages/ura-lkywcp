@@ -1,23 +1,28 @@
 ---
-title: Planning to preserve - keeping heritage relevant in cities
+title: Planning to preserve — keeping heritage relevant in cities
 permalink: /resources/features/planning-to-preserve/
 image: /images/features/2017/vienna-historic-centre.jpg
-description: A city can grow in wealth and population, but its unique heritage, both built and cultural, is what sets it apart from other urban centres and adds to its quality of life. The preservation of historic buildings and neighbourhoods has become a vital consideration in urban planning. But this process also requires the participation of local communities on how conserved spaces can be adaptively reused to keep them relevant for both residents as well as the broader urban community.
+description: A city can grow in wealth and population, but its unique heritage, both built and cultural, is what sets it apart from other urban centres and adds to its quality of life. While preserving heritage has become a vital consideration in urban planning, it also requires engaging local communities to keep them relevant for all.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Marcus Ng |
 
-***A city can grow in wealth and population, but its unique heritage, both built and cultural, is what sets it apart from other urban centres and adds to its quality of life. The preservation of historic buildings and neighbourhoods has become a vital consideration in urban planning. But this process also requires the participation of local communities on how conserved spaces can be adaptively reused to keep them relevant for both residents as well as the broader urban community.***
+##### A city can grow in wealth and population, but its unique heritage, both built and cultural, is what sets it apart from other urban centres and adds to its quality of life. While preserving heritage has become a vital consideration in urban planning, it also requires engaging local communities to keep them relevant for all.
 
-![The historic city centre of Vienna](/images/features/2017/vienna-historic-centre.jpg/)*The historic city centre of Vienna – a UNESCO World Heritage Site © Lee Kuan Yew World City Prize*
+> ###### **Cities mentioned in this article:** <br> 
 
-In July 2017, the United Nations Education, Scientific and Cultural Organization (UNESCO) announced the inscription of 21 new sites on its World Heritage List. These new sites include ancient cities such as Ahmadabad, India’s first World Heritage city, and Yazd in Iran. Urban centres of more recent vintage were also recognised for their universal heritage value. Asmara, capital of Eritrea in east Africa, was inscribed as a well-preserved example of Modernist urban planning, while Kulangsu in Xiamen, China, was [lauded as a site of cultural fusion](https://whc.unesco.org/en/newproperties/) between Chinese, Southeast Asian and European traditions in the early 20th century.
+###### ![The historic city centre of Vienna](/images/features/2017/vienna-historic-centre.jpg/)**The historic city centre of Vienna – a UNESCO World Heritage Site** © Urban Redevelopment Authority Singapore
+
+In July 2017, the United Nations Education, Scientific and Cultural Organisation (UNESCO) announced the inscription of 21 new sites on its World Heritage List. These new sites include ancient cities such as [Ahmadabad](https://whc.unesco.org/en/list/1551/), India’s first World Heritage city, and [Yazd](https://whc.unesco.org/en/list/1544/) in Iran. Urban centres of more recent vintage were also recognised for their universal heritage value. [Asmara](https://whc.unesco.org/en/list/1550/), capital of [Eritrea](https://whc.unesco.org/en/statesparties/er) in east Africa, was inscribed as a well-preserved example of Modernist urban planning, while [Kulangsu](https://whc.unesco.org/en/list/1541/) in Xiamen, China, was [lauded as a site of cultural fusion](https://whc.unesco.org/en/newproperties/) between Chinese, Southeast Asian and European traditions in the early 20th century.
 
 Such official efforts to be listed as World Heritage Sites, along with the support and celebrations that accompany successful applications, point to the growing role and recognition of cities as major centres of heritage and culture. From ancient capitals such as Ahmadabad and Vienna to younger cities such as George Town in Penang and Singapore, heritage preservation has gained ground as planners and public alike increasingly see the value of retaining historically significant buildings and neighbourhoods as well as keeping them relevant to current needs. Integrating heritage into the urban environment goes beyond the making of museums and monuments to the sensitive application of adaptive reuse in historic districts and organising events such as cultural festivals that promote a city’s heritage and bring together local communities and visitors.
 
->“Heritage preservation has gained ground as planners and public alike increasingly see the value of retaining historically significant buildings and neighbourhoods as well as keeping them relevant to current needs.”
+<br> 
+> ##### “Heritage preservation has gained ground as planners and public alike increasingly see the value of retaining historically significant buildings and neighbourhoods as well as keeping them relevant to current needs.”
+
+<div align="right"><b>— Writer</b></div>
 
 #### **Looking to the past for a future**
 
@@ -29,7 +34,7 @@ Another city with a strong sense of its heritage is Suzhou. This Chinese city is
 
 Suzhou’s preservation efforts have included the physical restoration of temples and houses in the historic Pingjiang district as well as urban infrastructural works to de-silt canals and shift pipelines underground. Meanwhile, cultural preservation aspects include the retaining of original residents and the traditional arts of the old quarter. The city’s Classical Gardens, which became World Heritage Sites in 1997, are also protected under Suzhou’s city master plan, which also [defines clear buffer zones around the historic sites](https://whc.unesco.org/en/list/813) to protect them from urbanisation.
 
-![Pingjiang historic district](/images/features/2017/pingjiang-historic-district.jpg/)*Pingjiang historic district in Suzhou © Pingjiang Historic District Preservation & Restoration Co., Ltd.*
+###### ![Pingjiang historic district](/images/features/2017/pingjiang-historic-district.jpg/)**Pingjiang historic district in Suzhou** © Pingjiang Historic District Preservation & Restoration Co., Ltd.
 
 #### **Preserving not just buildings but historic districts**
 
@@ -41,7 +46,10 @@ To make such heritage areas more accessible, parts of these neighbourhoods, such
 
 Elsewhere in the region, urban festivals are helping to turn historic cities into cultural destinations. The annual George Town Festival in Penang, Malaysia, for instance, has drawn about 200,000 people a year since it began in 2010. Both local and international artists now take part in this festival, which uses the World Heritage Site’s historic shophouses and mansions as [galleries and stages for exhibitions and performances](https://www.straitstimes.com/asia/se-asia/arts-baby-grows-up). Meanwhile, Kuching in Sarawak, Malaysia, has made itself into a world music hub with the [Rainforest World Music Festival](https://sarawaktourism.com/event/rainforest-world-music-festival/), an annual event that began in 1998.
 
-> “Integrating heritage into the urban environment goes beyond the making of museums and monuments to the sensitive application of adaptive reuse in historic districts and organising events such as cultural festivals that promote a city’s heritage and bring together local communities and visitors.”
+<br>
+> ##### “Integrating heritage into the urban environment goes beyond the making of museums and monuments to the sensitive application of adaptive reuse in historic districts and organising events such as cultural festivals that promote a city’s heritage and bring together local communities and visitors.”
+
+<div align="right"><b>— Writer</b></div>
 
 #### **Urban renewal and the community**
 
@@ -51,10 +59,13 @@ Hong Kong’s URA has also integrated traditional spaces with urban renewal in t
 
 As shown in Hong Kong, the preservation of urban heritage is an effort that also involves finding spaces for long-time residents and businesses who contribute to the character of a space. In areas where traditional crafts may have died out, this may entail the adaptive reuse of buildings for modern tenants. For instance, some historic shophouses in Singapore’s Little India and Chinatown districts are leased to visual and performing arts groups whose activities create a buzz and bring people to the neighbourhood. In New York, the Meatpacking District was preserved thanks to new zoning laws and community forums that paved the way for new residences, schools and cultural institutions in this [formerly industrial neighbourhood](http://thevillager.com/2013/10/10/ten-years-later-the-meatpacking-district-would-have/).
 
-> “Preserving historical buildings and neighbourhoods helps to maintain a city’s distinctive character and engender a sense of belonging.”
+<br>
+> ##### “Preserving historical buildings and neighbourhoods helps to maintain a city’s distinctive character and engender a sense of belonging.”
+
+<div align="right"><b>— Writer</b></div>
 
 #### **A role for heritage in cities**
 
 As cities mature and their residents become more aware of and attached to their history, heritage will become an increasingly crucial element in urban planning. Preserving historical buildings and neighbourhoods helps to maintain a city’s distinctive character and engender a sense of belonging. The social fabric is also strengthened when planners work with local communities to create new and relevant uses for old spaces such as industrial neighbourhoods.
 
-The costs and benefits of heritage preservation remain hard to quantify, but there seems to be a broad and growing consensus that heritage and culture are vital ingredients for a successful city that delivers not just the bare necessities but a richer blend of places and stories that add depth and meaning to urban life. **<font color="#967942">O</font>** 
+The costs and benefits of heritage preservation remain hard to quantify, but there seems to be a broad and growing consensus that heritage and culture are vital ingredients for a successful city that delivers not just the bare necessities but a richer blend of places and stories that add depth and meaning to urban life. **<font color=#967942">O</font>** 
