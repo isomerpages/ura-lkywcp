@@ -11,7 +11,7 @@ description: With the rise of smart cities and technology in everyday life, the 
 
 ##### With the rise of smart cities and technology in everyday life, the associated security vulnerabilities likewise grow. Cities, as centres of resources and critical infrastructure, are particularly attractive targets and hosts for cybercrimes. Cities need to embrace new mind-sets and strategies to tackle this. 
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Singapore
 
 ##### ![Cyber crimes](/images/features/2017/cyber-crimes.jpg/)**Photo of a server room**
 
