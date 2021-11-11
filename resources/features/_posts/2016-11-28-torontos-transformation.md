@@ -9,7 +9,7 @@ description: Many large cities face the challenge of attracting workers and resi
 |---:|
 | Marcus Ng |
 
-##### Many large cities face the challenge of attracting workers and residents to their core. But for Toronto, the revitalisation of an industrial port land into a vibrant waterfront has turned its downtown into a dynamic and fast-growing area for homes and businesses. Christopher Glaisek of Waterfront Toronto shares the story of one of North America’s fastest growing cities.***
+##### Many large cities face the challenge of attracting workers and residents to their core. But for Toronto, the revitalisation of an industrial port land into a vibrant waterfront has turned its downtown into a dynamic and fast-growing area for homes and businesses. Christopher Glaisek of Waterfront Toronto shares the story of one of North America’s fastest growing cities.
 
 > ###### **Cities mentioned in this article:** <br> Toronto
 
