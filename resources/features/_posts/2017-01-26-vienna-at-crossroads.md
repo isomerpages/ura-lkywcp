@@ -9,7 +9,7 @@ description: Vienna’s progress in environmental stewardship, such as the visio
 |---:|
 | Marcus Ng |
 
-###### Vienna’s progress in environmental stewardship, such as the visionary flood management of the Danube River, has earned it the 2016 Special Mention. We learn from Walter Kling about the experience and the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.
+##### Vienna’s progress in environmental stewardship, such as the visionary flood management of the Danube River, has earned it the 2016 Special Mention. We learn from Walter Kling about the experience and the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.
 
 > ###### **Cities mentioned in this article:** <br> Vienna
 
@@ -57,7 +57,7 @@ As a landlocked country, Vienna has for centuries relied on the Danube River for
 Thanks to Vienna’s efforts to keep the river clean and unobstructed, the Danube now serves as a convenient link to other cities in the region. According to Kling, a fast ferry now runs between Vienna and Bratislava in Slovakia, some 60 kilometres apart, that is almost as fast as a train ride. “The ride is directly from the city centre, so you can take the boat to Bratislava for lunch and dinner, and go back in the evening,” he said, adding that this service has since become highly popular with residents and tourists.
 
 <br>
-> ###### “We share this river, and when it comes to environmental issues, it is the responsibility of the city that whatever water we use in our city is well-treated before it goes back into the river.”
+> ##### “We share this river, and when it comes to environmental issues, it is the responsibility of the city that whatever water we use in our city is well-treated before it goes back into the river.”
 
 <div align="right"><b>— Walter Kling</b><br>Deputy Managing Director, Vienna Water</div>
 
