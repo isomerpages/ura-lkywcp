@@ -2,16 +2,18 @@
 title: Tackling cyber crimes in smart cities
 permalink: /resources/features/tackling-cyber-crimes-smart-cities/
 image: /images/features/2017/cyber-crimes.jpg
-description: With the rise of smart cities and increasing integration of technology into urban infrastructure and everyday life, the security vulnerabilities posed by the same technologies likewise grow, especially as cybercrimes evolve to become more sophisticated and complex. Cities, as centres of resources, critical infrastructure and services and information, are particularly attractive targets and hosts for cybercrimes. To effectively tackle such crimes in this age, cities need to embrace new mind-sets and strategies.
+description: With the rise of smart cities and technology in everyday life, the associated security vulnerabilities likewise grow. Cities, as centres of resources and critical infrastructure, are particularly attractive targets and hosts for cybercrimes. Cities need to embrace new mind-sets and strategies to tackle this. 
 ---
 
-| Author |
+| Writer |
 |---:|
 | Tan Chui Hua |
 
-***With the rise of smart cities and increasing integration of technology into urban infrastructure and everyday life, the security vulnerabilities posed by the same technologies likewise grow, especially as cybercrimes evolve to become more sophisticated and complex. Cities, as centres of resources, critical infrastructure and services and information, are particularly attractive targets and hosts for cybercrimes. To effectively tackle such crimes in this age, cities need to embrace new mind-sets and strategies.***
+##### With the rise of smart cities and technology in everyday life, the associated security vulnerabilities likewise grow. Cities, as centres of resources and critical infrastructure, are particularly attractive targets and hosts for cybercrimes. Cities need to embrace new mind-sets and strategies to tackle this. 
 
-![Cyber crimes](/images/features/2017/cyber-crimes.jpg/)*Photo of a server room*
+> ###### **Cities mentioned in this article:** <br> 
+
+##### ![Cyber crimes](/images/features/2017/cyber-crimes.jpg/)**Photo of a server room**
 
 Technological innovations have radically changed cities round the world in just a few short decades, from bridging communities and facilitating governance to enhancing liveability and public security. With the rise of smart cities, technology is steadily becoming inseparable from urban life.
 
@@ -27,7 +29,10 @@ Secondly, smart objects and systems deployed by cities for municipal purposes us
 
 Thirdly, the interconnectivity of smart objects means that a self-propagating malware can easily proliferate and take down key systems at a high speed. As more and more municipal services depend on smart systems, the breakdown of critical services and security breaches through cybercrime is increasingly a reality. Vital services, from water and electrical supply to traffic management and e-citizen portals, are susceptible to attacks, which in turn render cities vulnerable to being held ransom by criminals. The 2017 global Wannacry ransom ware attack which effectively crippled England’s National Health Service is a precursor of the near future.
 
-> “Technologies transforming cities into dynamic urban hubs are also exploited by criminals to carry out sophisticated cybercrimes. Cities, as centres of resources and sensitive information, critical information infrastructure, and populations, are key targets and hosts for cybercrimes.”
+<br>
+> ##### “Everything that has an IP address can be weaponised – a laptop, a smart phone, parking metre or even a camera.”
+
+<div align="right"><b>— Maria Vello</b><br> Chief Operating Officer, Cyber Defence Alliance</div>
 
 #### **The challenges of defending smart cities**
 
@@ -47,8 +52,6 @@ With cyber-attacks on the rise, cities are now becoming more aware of the need f
 
 Key highlights of the bill include legislative powers to allow law enforcement to take precedence over privacy rules in the case of a suspected cyber-attack, appointment of a commissioner of cybersecurity, and assignment of responsibilities to owners of critical information infrastructure to protect and secure the assets. Such acts allow cities to be comprehensive in their approach towards cybersecurity and address challenges such as recruiting talents and delegating responsibilities.
 
-> “Security needs to be part of the design and architecture of smart systems and cities from the onset, as it is harder to reengineer than to do it right from the start.”
-
 #### **Partnership as the way forward**
 
 Another key pillar of implementing cybersecurity lies in building long-term partnerships, both with tech companies and private industry. As Vello notes, “Security needs to be part of the design and architecture of smart systems and cities from the onset, as it is harder to reengineer than to do it right from the start. Criminals are very sophisticated and they have rapidly accelerated their capabilities to attack our systems because they share information and resources. We need to do the same. The risks are far greater if we don’t share.”
@@ -59,7 +62,10 @@ The non-profit Securing Smart Cities initiative, launched by leading tech compan
 
 As cybercrimes become more prolific and globalised, cities should leverage collaborative platforms in their fight against cybercrimes. The World Economic Forum is another entity which has invested in fostering such platforms. Head of Public Security Policy and Security Affairs, World Economic Forum, Jean-Luc Vez, shares, “In recent years, the forum has gathered Chief Information Security Officers and Chief Risk Officers from our partners and top representatives from law enforcement authorities acting on the global level, such as Interpol. We catalyse discussions among them so that they can achieve a comprehensive assessment of global cyber threats, and based on the assessment, identify common needs and decide on common measures. Such an information sharing platform has also been set up here in Singapore at the Interpol Global Complex for Innovation.”
 
-> “The responsibilities for securing smart cities are not exclusive to public agencies. Rather, as a significant number of smart devices in cities today are personal possessions, engaging citizens in cybersecurity efforts makes a huge difference in creating safe, smart cities.”
+<br>
+> ##### “Security needs to be part of the design and architecture of smart systems and cities from the onset, as it is harder to reengineer than to do it right from the start.”
+
+<div align="right"><b>— Maria Vello</b><br> Chief Operating Officer, Cyber Defence Alliance</div>
 
 #### **Moving towards a truly safe, smart city**
 
