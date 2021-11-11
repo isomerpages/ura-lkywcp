@@ -48,7 +48,8 @@ As revealed by Mr Kazumi Kobayashi, Director General of Yokohama’s Policy Bure
 
 Yokohama’s strategy aligns with Mavropoulos’ observation that successful waste management systems do not emerge in a day but “are shaped through decades of constant, systematic and well-planned efforts” that are inclusive of the community as well as existing informal recyclers. “Like it or not, in many megacities, the only organised effort for recycling and material recovery is implemented by informal sector recyclers and cooperatives,” he noted. “Their efforts should be studied and analysed in detail, because this will provide the city authorities with a much more detailed and accurate picture of the challenges involved in waste management and recycling – much better than any master plan can provide.”
 
-> “If we could identify innovative approaches in waste management and unify them in a citywide network, in cooperation with the city authorities, and the formal waste management stakeholders, then we would be able to address the waste challenge in a much better way than we do now.”
+<br>
+> ##### “If we could identify innovative approaches in waste management and unify them in a citywide network, in cooperation with the city authorities, and the formal waste management stakeholders, then we would be able to address the waste challenge in a much better way than we do now.”
 
 <div align="right"><b>— Antonis Mavropoulos</b><br> CEO, D-Waste</div>
 
