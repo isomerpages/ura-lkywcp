@@ -11,7 +11,7 @@ description: Smart cities are often thought of as places where technology and di
 
 ##### Smart cities are often thought of as places where technology and digital networks dominate almost every aspect of life. But is technology enough to create a successful smart city that offers a more liveable and sustainable urban environment? It seems to be as much about people and citizen empowerment as hardware and innovation.[^1]
 
-> ###### **Cities mentioned in this article:** <br> Songdo, Bandung, Barcelona, Amsterdam, Higashimatsushima, 
+> ###### **Cities mentioned in this article:** <br> Songdo, Bandung, Barcelona, Amsterdam, Higashimatsushima
 
 ###### ![The South Korean city of Songdo](/images/features/2017/songdo.jpg/)**The South Korean city of Songdo has a citywide network of sensors**
 
