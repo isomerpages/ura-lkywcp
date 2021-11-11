@@ -9,9 +9,9 @@ description: In the midst of evolving challenges and contexts, placemaking exper
 |---:|
 | Serene Tng |
 
-***In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.***
+##### In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.[^1]
 
-![Peter Smith](/images/features/2021/peter-smith.jpg/)*Peter Smith © Urban Redevelopment Authority Singapore*
+###### ![Peter Smith](/images/features/2021/peter-smith.jpg/)**Peter Smith** © Urban Redevelopment Authority Singapore
 
 Even while the ongoing Covid-19 pandemic is changing the way we use and share public places, it has reaffirmed the important role they play as social/community places in our neighbourhoods.
 
@@ -37,7 +37,7 @@ Places also mean and offer different things for different people. For some, it m
 
 Thus, when you think about placemaking in places around cities, it goes beyond just shaping their physical qualities, it is also about creating social, cultural, economic and environmental sustainability as well.
 
-![The city of Adelaide](/images/features/2021/adelaide.jpg/)*The city of Adelaide. Photo: [dudlajzov](https://www.123rf.com/profile_dudlajzov) © 123rf.com*
+###### ![The city of Adelaide](/images/features/2021/adelaide.jpg/)**The city of Adelaide** © dudlajzov/ 123rf.com
 
 #### **How has your earlier encounters shaped your understanding of placemaking being a confluence of many elements?**
 
@@ -45,13 +45,16 @@ Thus, when you think about placemaking in places around cities, it goes beyond j
 
 Two weeks later, the van came again and Mark offered me a job. It was to set up homes in the community for people with disabilities and who had been in institutions for years and separated from their families. My job was to help these people integrate back into the community. I took the job and this was where I learnt about the need for a strong inclusion focus in placemaking. We are fortunate in that many of us have access to many things, our families, jobs, public spaces. But if places aren’t inclusive, then I think we fail as a society.
 
-My understanding of placemaking deepened when I went to New York many years ago. What impressed me was how it gave public spaces back to its people through the transformation of Times Square. I got to spend time with Tim Tomkins who formed the Times Square Alliance<sup>1</sup>, the placemaking group. I learnt that in the 1990s, they almost lost the theatres there because of crime. It was too dangerous for people to go to the theatre. Through the alliance, they started to reinvent the theatre industry and worked with businesses to activate Times Square.
+My understanding of placemaking deepened when I went to New York many years ago. What impressed me was how it gave public spaces back to its people through the transformation of Times Square. I got to spend time with Tim Tomkins who formed the Times Square Alliance[^2], the placemaking group. I learnt that in the 1990s, they almost lost the theatres there because of crime. It was too dangerous for people to go to the theatre. Through the alliance, they started to reinvent the theatre industry and worked with businesses to activate Times Square.
 
 I also learnt that if you focus on just inclusion and social connectivity, then you miss the synergy with other elements such as the economic and cultural development and the safety aspects. The best places are those that have many of these elements in abundance. It is the unique blend of social, cultural and economic that makes a place memorable.  
 
-> "The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future."
+<br>
+> ##### "The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future."
 
-#### **You led the 'Splash Adelaide' space activation programme<sup>2</sup> that introduced the idea of inexpensive and quick interventions to activate public spaces meaningfully. How did it come about?**
+<div align="right"><b>— Peter Smith</b></div>
+
+#### **You led the 'Splash Adelaide' space activation programme[^3] that introduced the idea of inexpensive and quick interventions to activate public spaces meaningfully. How did it come about?**
 
 **PS:** Adelaide at that time was a 9-to-5 town. People go out to the suburbs to live and play and just come into the city for work. When we started thinking about this, we were focusing on just how to activate public spaces and streets in the city centre and how to bring in foot traffic. That was when we started Splash Adelaide.
 
@@ -75,7 +78,7 @@ The thing about lighter, quicker, cheaper is that it shows to the community that
 
 What I have learnt is that any temporary activation is not an end in itself. Activation only creates foot traffic for the time that the activation is on. The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future.
 
-![New York City](/images/features/2021/times-square.jpg/)*New York City. Photo by [Vlad Alexandru Popa](https://www.pexels.com/@vladalex94?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
+###### ![New York City](/images/features/2021/times-square.jpg/)**New York City** © Vlad Alexandru Popa/ Pexels
 
 #### **Zooming out from activation of public spaces to larger precincts, how should we approach placemaking for these areas?**
 
@@ -93,11 +96,6 @@ But in reality, each of these issues are often managed by different government d
 
 Today, we tend to have many communities who may expect the government to find every solution. But somehow the government has to step back and say here is a space, how do you want to create it? We have to go from "we will look after you" to "we will create space for you to look after yourself". **<font color="#967942">O</font>** 
 
-| Notes |
-|:---|
-| 1 | The Times Square Alliance was formed in 1992 by Tim Tompkins with the aims of improving and promoting Times Square and cultivating its creativity, energy and edge that has made the area an icon of entertainment, culture and urban life for over a century. |
-| 2 | The Splash Adelaide programme sought to trial and test ideas, foster innovation and streamline processes to enable the community to deliver projects in the city. The programme has given the community a greater sense of ownership and pride in the city and a more engaged focus to initiate and lead projects. |
-
 <br>
 
 <div style="width:150px"><img src="/images/features/2021/peter-smith2.png" alt="Peter Smith" /></div>
@@ -106,5 +104,8 @@ Today, we tend to have many communities who may expect the government to find ev
 |:---|
 | Peter Smith is internationally recognised as one of the world’s leading thinkers on place governance and the role that government, private sector and community can play in successfully activating public spaces to achieve economic, social, creative and sustainable outcomes. Peter has over 30 years’ experience working in senior executive roles in Federal, State and Municipal governments in Australia, with particular experience in leading major urban renewal programmes and developing and implementing a range of successful affordable housing, community development and social justice strategies and programmes for Government. |
 
-###### *This article is adapted from and was first published in Skyline Issue 13, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).*
+---
 
+[^1]: This article is adapted from and was first published in Skyline Issue 13, 2020 © Urban Redevelopment Authority Singapore. For more features and insights on Singapore’s latest urban developments, go to [Skyline](https://www.ura.gov.sg/Corporate/Resources/Publications/).
+[^2]: The Times Square Alliance was formed in 1992 by Tim Tompkins with the aims of improving and promoting Times Square and cultivating its creativity, energy and edge that has made the area an icon of entertainment, culture and urban life for over a century.
+[^3]: The Splash Adelaide programme sought to trial and test ideas, foster innovation and streamline processes to enable the community to deliver projects in the city. The programme has given the community a greater sense of ownership and pride in the city and a more engaged focus to initiate and lead projects.
