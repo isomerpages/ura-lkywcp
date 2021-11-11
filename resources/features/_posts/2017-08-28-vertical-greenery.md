@@ -9,7 +9,7 @@ description: Green buildings and vertical gardens alone are not enough to realis
 |---:|
 | Marcus Ng |
 
-###### Green buildings and vertical gardens alone are not enough to realise the vision of a truly green and sustainable city. In order to tackle the challenges of density, climate change, and biodiversity loss, cities must look beyond vertical greenery to include other dimensions and integrate with its larger landscape.
+##### Green buildings and vertical gardens alone are not enough to realise the vision of a truly green and sustainable city. In order to tackle the challenges of density, climate change, and biodiversity loss, cities must look beyond vertical greenery to include other dimensions and integrate with its larger landscape.
 
 > ###### **Cities mentioned in this article:** <br> Bangladesh, Sydney, Singapore, Malmö
 
