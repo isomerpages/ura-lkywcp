@@ -63,7 +63,7 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 ##### **In pictures** 
 
-| [Medellín in pictures - model for urban innovations](/resources/in-pictures/medellin/) |
+| [Medellín in pictures — model for urban innovations](/resources/in-pictures/medellin/) |
 
 ##### **Case studies** 
 
@@ -73,9 +73,9 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 ##### **Features** 
 
-| [Medellín transformed - from murder capital to model city](/resources/features/medellin-transformed/) |
+| [Medellín transformed — from murder capital to model city](/resources/features/medellin-transformed/) |
 | [Transforming barrios, transforming Medellín](/resources/features/transforming-barrios-transforming-medellin/) |
-| [Reaching high and moving up - Medellín's mountains of achievements](/resources/features/reaching-high-moving-up/) |
-| [Safe, smart and connected - Medellín moves forward as a city of innovation](/resources/features/safe-smart-connected/) |
-| [Medellín – a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) |
+| [Reaching high and moving up — Medellín's mountains of achievements](/resources/features/reaching-high-moving-up/) |
+| [Medellín — safe, smart and connected](/resources/features/safe-smart-connected/) |
+| [Medellín — a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) |
 | [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |
