@@ -38,7 +38,7 @@ This process may be painstaking and time-consuming, but Glaisek argued that the 
 
 One takeaway of the public sessions is that Torontonians love good design. “If you show them boring plans, a park that’s just a lawn and some trees, they say ‘that’s not good enough,’” remarked Glaisek. This finding has empowered Waterfront Toronto “to bring a higher quality of architecture and landscape architecture, because the public wants that.” World-class designers have since created iconic structures such as the Rees, Simcoe and Spadina Wavedecks that allow the public to enjoy the scenic shoreline at close quarters. The Simcoe Wavedeck, which boasts an amphitheatre-style space with soaring curves above Lake Ontario, “has become a landscape landmark in the city and was the product of a design competition,” said Glaisek. “It’s a public space that’s occupied 24/7 – had we built a flat deck, it would not have been the success that it has become.”
 
-##### ![Toronto wavedeck](/images/features/2016/toronto-wavedeck.jpg/)**Toronto employs good urban design in its Waterfront rejuvenation project, such as the Simcoe Wavedeck pictured above, to attract both business and residents back to the city centre** © Urban Redevelopment Authority Singapore
+###### ![Toronto wavedeck](/images/features/2016/toronto-wavedeck.jpg/)**Toronto employs good urban design in its Waterfront rejuvenation project, such as the Simcoe Wavedeck pictured above, to attract both business and residents back to the city centre** © Urban Redevelopment Authority Singapore
 
 #### **Combining public spaces and flood protection**
 
