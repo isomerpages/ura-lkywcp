@@ -11,7 +11,7 @@ description: Smart cities are often thought of as places where technology and di
 
 ##### Smart cities are often thought of as places where technology and digital networks dominate almost every aspect of life. But is technology enough to create a successful smart city that offers a more liveable and sustainable urban environment? It seems to be as much about people and citizen empowerment as hardware and innovation.[^1]
 
-> ###### **Cities mentioned in this article:** <br> 
+> ###### **Cities mentioned in this article:** <br> Songdo, Bandung, Barcelona, Amsterdam, Higashimatsushima, 
 
 ###### ![The South Korean city of Songdo](/images/features/2017/songdo.jpg/)**The South Korean city of Songdo has a citywide network of sensors**
 
@@ -56,5 +56,7 @@ Another smart city with citizens at its forefront is Higashimatsushima. This cit
 But apart from rebuilding their city, Higashimatsushima’s citizens sought to go further to ensure that cataclysmic events would not disable the city in the future. With the support of their local government, they established Japan’s first solar microgrid system to supply at least half the city’s energy needs. The microgrid would also ensure that vital, life-saving services such as hospitals continue to work even when links to the national grid are lost.
 
 Higashimatsushima offers an example of a smart city that embraces a socially and culturally driven approach to technology, as well as a city where local communities have a say in how technology shapes their lives. In Higashimatsushima, citizens have chosen to use technology to future-proof their city, while in Barcelona and Bandung, citizens are using technology to enhance their everyday lives. Songdo, too, is showing how smart cities can succeed by addressing not just technological but social needs. Such efforts point the way forward for cities that aim to become not just smart, but truly sustainable living environments. **<font color="#967942">O</font>**
+
+---
 
 [^1]: The writer wishes to thank Jason Pomeroy, architect and urbanist at Pomeroy Studio, for his input and insights for part of the content of this article.
