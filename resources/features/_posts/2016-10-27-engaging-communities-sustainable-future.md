@@ -1,19 +1,21 @@
 ---
-title: Engaging communities for a sustainable future
+title: Sydney — engaging communities for a sustainable future
 permalink: /resources/features/engaging-communities-sustainable-future/
 image: /images/features/2016/sydney-harbour.jpg
-description: When Sydney began crafting its master plan for a sustainable future, the city’s leaders were convinced that the voices of the people should be represented in the strategy. Sparing no resources and efforts, Sydney thus embarked on a remarkable 18-month process to engage with all sectors of its population. The emphasis on community engagement generated trust between the public and the government, the benefits of which are evident in Sydney’s urban transformation today. Sydney’s journey illustrates how inclusivity and community involvement bring a city together to work towards a shared vision.  
+description: When Sydney began crafting its master plan for a sustainable future, it embarked on a remarkable 18-month process to engage all sectors of its population. Generating trust with its people, Sydney’s journey illustrates how inclusivity and community involvement bring a city together to work towards a shared vision. 
 ---
 
-| Author |
+| Writer |
 |---:|
 | Tan Chui Hua |
 
-***When Sydney began crafting its master plan for a sustainable future, the city’s leaders were convinced that the voices of the people should be represented in the strategy. Sparing no resources and efforts, Sydney thus embarked on a remarkable 18-month process to engage with all sectors of its population. The emphasis on community engagement generated trust between the public and the government, the benefits of which are evident in Sydney’s urban transformation today. Sydney’s journey illustrates how inclusivity and community involvement bring a city together to work towards a shared vision.***
+##### When Sydney began crafting its master plan for a sustainable future, it embarked on a remarkable 18-month process to engage all sectors of its population. Generating trust with its people, Sydney’s journey illustrates how inclusivity and community involvement bring a city together to work towards a shared vision.
 
-![Sydney Harbour](/images/features/2016/sydney-harbour.jpg/)*Sydney Harbour*
+> ###### **Cities mentioned in this article:** <br> Sydney
 
-In 2007, the city of Sydney launched its blueprint, Sustainable Sydney 2030, to guide its development over the next two decades. Like other urban development blueprints, it maps out a clear vision of where the city wants to be by 2030, with measurable, aspirational goals in areas from environmental management to cultural capital and social equity. What makes Sydney’s blueprint remarkable, however, is how the plan was produced.
+###### ![Sydney Harbour](/images/features/2016/sydney-harbour.jpg/)**Sydney Harbour**
+
+In 2007, the city of Sydney launched its blueprint, [Sustainable Sydney 2030](https://www.cityofsydney.nsw.gov.au/sustainable-sydney-2030), to guide its development over the next two decades. Like other urban development blueprints, it maps out a clear vision of where the city wants to be by 2030, with measurable, aspirational goals in areas from environmental management to cultural capital and social equity. What makes Sydney’s blueprint remarkable, however, is how the plan was produced.
 
 Louise Kerr, Executive Manager Development for the city of Sydney, is one of the key persons driving the formulation of the blueprint then. “Back then, when we embarked on the consultation in the lay-up to Sustainable Sydney 2030, housing affordability was a big issue. There were other concerns too – traffic congestion, remaining competitive as a global city, ageing infrastructure, a growing underclass whose voices were not being heard in the city, and people being displaced because of gentrification,” she recalls.
 
@@ -21,7 +23,10 @@ A strategy was clearly needed for Sydney to work towards a sustainable future, h
 
 This strong commitment to inclusivity among the city’s leaders thus saw the launch of Sydney’s most extensive community engagement process in its planning history. Over the course of 18 months, tens of thousands of Sydney’s residents were consulted and engaged to gather their thoughts on the city’s future. The result – a vision of Sydney in 2030, articulated by its people.
 
-> “We needed to paint the picture that Sydney had to change, and get people to understand the importance of this change.”
+<br>
+> ##### “We needed to paint the picture that Sydney had to change, and get people to understand the importance of this change.”
+
+<div align="right"><b>— Louise Kerr</b><br> Executive Manager Development, Sydney</div>
 
 #### **A strategy to engage**
 
@@ -33,7 +38,7 @@ To get the conversation going on Sydney’s future, Kerr and her colleagues over
 
 The city spared no efforts to educate the public as extensively as possible, so that meaningful conversations on Sydney’s future could take place. Kerr shares, “We sent out a lot of information to different groups attending our events. There were pop-up stands and community events. We even distributed postcards that you could write on and post your message back to the future. There was radio advertising and programmes about Sydney 2030 on the radio stations. So we really just tried to determine what forms could reach out to the most people in the most appropriate ways, using traditional as well as non-traditional methods.”
 
-![Cycling in Sydney](/images/features/2016/sydney-cycling.jpg/)*Sydney works together with its residents for the city’s sustainable future © Sydney*
+###### ![Cycling in Sydney](/images/features/2016/sydney-cycling.jpg/)**Sydney works together with its residents for the city’s sustainable future** © City of Sydney
 
 #### **Reaching out to every community**
 
@@ -45,7 +50,10 @@ Equipped with the matrix, the team thus identified different modes of engaging s
 
 The intensive community engagement also allowed the city to tap on their people’s creativity. “Some of the most innovative ideas we deployed popped up whilst we were on that journey of engaging the communities,” Kerr remembers. “One such example is the booth that goes round to different communities, events and schools to engage younger people. The booth could record messages and you could say what you want the city to look like in 2030. Somebody suggested this in a public forum, so we harnessed the idea and rode that out. So we look at good ideas arising from our engagement and see how we could weave them into our existing processes.”
 
-> “The world is not static, so we need to continue checking in to make sure that we are delivering on what the community most needs.”
+<br>
+> ##### “The world is not static, so we need to continue checking in to make sure that we are delivering on what the community most needs.”
+
+<div align="right"><b>— Louise Kerr</b><br> Executive Manager Development, Sydney</div>
 
 #### **Realising a shared vision**
 
