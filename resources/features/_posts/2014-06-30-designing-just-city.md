@@ -42,7 +42,7 @@ Using the axed proposed expressway along New York City’s Hudson River as an ex
 This argument for incorporating inclusivity into urban planning and development has been growing. A 2009 report on South America published by the Urban Age programme at the London School of Economics and Political Science (LSE) argues that only through a rigorous participatory process can cities create a master plan that [“express[es] all the forces that effectively build the city”](http://downloads0.cloud.lsecities.net/downloads/2009/09/SouthAmericaReport/CSE_Detailed_Report.pdf). The report concludes that if the entire population – including the poor – understand, approve and then monitor the master plan, the city can henceforth [better understand its territory and legitimise its spaces](http://downloads0.cloud.lsecities.net/downloads/2009/09/SouthAmericaReport/CSE_Detailed_Report.pdf).
 
 <br>
-> ##### “Even if you rank number-one as the financial capital of the world, it doesn’t mean that the people within that place, be it New York or London, necessarily benefit from being number-one
+> ##### “Even if you rank number-one as the financial capital of the world, it doesn’t mean that the people within that place, be it New York or London, necessarily benefit from being number-one."
 
 <div align="right"><b>— Professor Susan Fainstein</b><br> Senior Research Fellow, Harvard Graduate School of Design</div>
 
