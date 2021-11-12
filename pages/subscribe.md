@@ -12,7 +12,7 @@ permalink: /subscribe/
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:18px 'Open Sans' ,sans-serif;  width:1024px;}
+	#mc_embed_signup{background:#fff; clear:left; font:18px 'Open Sans' ,sans-serif;  width:1024px; line-height: 1.5;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -20,10 +20,8 @@ permalink: /subscribe/
 <form action="https://leekuanyewworldcityprize.us20.list-manage.com/subscribe/post?u=9ba93559f08e773e70d4115c4&amp;id=412167998e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
