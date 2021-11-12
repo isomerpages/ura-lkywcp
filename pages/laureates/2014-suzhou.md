@@ -59,5 +59,5 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 ##### **Features** 
 
-| [Epitomising liveable and sustainable cities - the Suzhou story](/resources/features/epitomising-liveable-sustainable-cities/) |
-| [A marriage of culture and commerce – the Suzhou success story](/resources/features/marriage-culture-commerce/) |
+| [Suzhou — epitomising liveable and sustainable cities](/resources/features/epitomising-liveable-sustainable-cities/) |
+| [A marriage of culture and commerce — the Suzhou success story](/resources/features/marriage-culture-commerce/) |
