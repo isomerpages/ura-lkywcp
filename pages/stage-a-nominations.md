@@ -5,7 +5,11 @@ permalink: /stage-a-nomination-form/
 
 ##### **Stage A closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [subscribe to our mailing list](https://go.gov.sg/newsletter).
 
-If the form below is not loaded, you can also fill it in at [here](https://form.gov.sg/5f376d3b8fd842001160fc4a).
+Nominations for 2024 Prize must be made by **<mark>independent third parties</mark>**. Please ensure that the city agrees to be nominated. Please also pen and attach a short recommendation letter (600 words) to support why the city you are nominating should win the Prize. 
+
+**<mark>No entry fee required.</mark>**
+
+If the form below is not loaded, click [here](https://form.gov.sg/5f376d3b8fd842001160fc4a).
 
 ---
 
