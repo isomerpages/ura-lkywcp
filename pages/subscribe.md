@@ -7,7 +7,8 @@ permalink: /subscribe/
 
 ###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
 
-If the following form does not load, click [here](https://go.gov.sg/newsletter/).
+- If the following form does not load, click [here](https://go.gov.sg/newsletter/).
+- [View past campaigns](https://us20.campaign-archive.com/home/?u=9ba93559f08e773e70d4115c4&id=412167998e)
 
 ---
 
