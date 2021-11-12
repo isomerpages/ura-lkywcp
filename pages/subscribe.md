@@ -40,7 +40,7 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 			background: #967942;
 			color: #fff;
 			cursor: pointer;
-			font-size: 15px;
+			font-size: 18px;
 			width: 35%;
 			padding: 8px 0;
 
