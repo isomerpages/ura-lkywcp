@@ -23,7 +23,7 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address: </label>
+	<label for="mce-EMAIL"><b>Email:</b> </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
