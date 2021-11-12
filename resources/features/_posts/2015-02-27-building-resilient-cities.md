@@ -2,16 +2,18 @@
 title: Building resilient cities through technological transformation
 permalink: /resources/features/building-resilient-cities-technological-transformation/
 image: /images/features/2015/punggol.jpg
-description: With more than half of the world’s population living in urban areas, being resilient to physical, social and economic shocks is essential to the future prosperity and sustainability of cities. While technology plays an important part in building this resilience, the role of monitoring and analytics tools, as well as robust security systems, will grow exponentially, as municipal authorities strive to be better prepared for both natural and human-influenced catastrophes.  
+description: With more than half of the world’s population living in urban areas, being resilient to physical, social and economic shocks is essential to the future prosperity and sustainability of cities. While technology plays an important part in building resilience, the role of monitoring and analytics, as well as robust security systems, will grow exponentially.  
 ---
 
-| Author |
+| Writer |
 |---:|
 | Howard James |
 
-***With more than half of the world’s population living in urban areas, being resilient to physical, social and economic shocks is essential to the future prosperity and sustainability of cities. While technology plays an important part in building this resilience, the role of monitoring and analytics tools, as well as robust security systems, will grow exponentially, as municipal authorities strive to be better prepared for both natural and human-influenced catastrophes.***
+##### With more than half of the world’s population living in urban areas, being resilient to physical, social and economic shocks is essential to the future prosperity and sustainability of cities. While technology plays an important part in building resilience, the role of monitoring and analytics, as well as robust security systems, will grow exponentially.
 
-![Punggol Eco-Town](/images/features/2015/punggol.jpg/)*Punggol Eco-Town © Lee Kuan Yew World City Prize*
+> ###### **Cities mentioned in this article:** <br> San Francisco (Philippines), Singapore
+
+###### ![Punggol Eco-Town](/images/features/2015/punggol.jpg/)**Punggol Eco-Town** © Urban Redevelopment Authority Singapore
 
 The concept of protecting cities from acts of God and manmade threats is nothing new. Since prehistoric times, both formal and informal settlements have sought to guard their livelihoods from an array of risks, including droughts, famine, floods, social unrest, hostile enemies and more. In 12th century Cambodia, for instance, the Khmer Empire was at its height and its capital city of Angkor was a thriving metropolis of around 750,000 people. However, a series of mega-monsoons, interspersed with catastrophic droughts, contributed to the [decline and fall of an empire that had thrived for almost 700 years](http://archaeology.about.com/od/medieval/qt/Collapse-Of-Angkor.htm).
 
@@ -19,11 +21,14 @@ Over time, humankind has become highly equipped to deal with such challenges, an
 
 “Building resilience is a forward-looking, target-driven approach to urban development, which uses a wide range of measures addressing all elements of urban systems,” says Margareta Wahlström, Assistant Secretary-General, United Nations Office for Disaster Risk Reduction.
 
-> “Building resilience is a forward-looking, target-driven approach to urban development, which uses a wide range of measures addressing all elements of urban systems.”
-
 “Ensuring these targets are met demands all levels of communities and governments work together to ensure the safety of all people and to protect the economic, social, environmental, and cultural assets and attributes that define the unique character of each city,” she adds.
 
 With the number of [natural disasters](http://www.livescience.com/414-scientists-natural-disasters-common.html) and [socio-economic](http://www.ilo.org/global/research/global-reports/weso/2015/WCMS_337069/lang--en/index.htm) challenges on the rise globally, cities, non-government organisations and multilateral agencies have formed working groups with the aim of better managing a wide range of events, including hurricanes, forest fires, economic demise and civic disturbances. One such group is the 100 Resilient Cities Network, which helps cities become more resilient to physical, social and economic challenges and serves as a forum for city leaders to learn and share global best practices. As of January 2015, there are almost 70 member cities [representing more than 40 countries worldwide](http://www.100resilientcities.org/cities#/-_/).
+
+<br>
+> ##### “Building resilience is a forward-looking, target-driven approach to urban development, which uses a wide range of measures addressing all elements of urban systems.”
+
+<div align="right"><b>— Margareta Wahlström</b><br> Assistant Secretary-General, United Nations Office for Disaster Risk Reduction</div>
 
 #### **Natural disaster mitigation**
 
@@ -32,8 +37,6 @@ Civic authorities are increasingly turning to technologies like predictive analy
 “Most natural disasters involve one or both of two types of stresses. On one hand there is chronic stress – damage that is been done over a long period of time (for example, deforestation) – and on the other there are acute events: disasters themselves. These often interact,” explains Dr Peter Williams, Chief Technology Officer at IBM’s Big Green Innovations unit.
 
 “In Northern India, for instance, decades of deforestation (chronic stress) have given rise to an increase in city flash floods (acute stress). This is because forests act as watersheds, absorbing rainfall and slowly releasing the water into rivers and streams. Without them, water flows directly into waterways at a much faster pace and hence causes flash floods,” he adds.
-
-> “City leaders must continuously engage with their constituents in order to have an in-depth understanding of challenges on the ground.”
 
 #### **Community engagement**
 
@@ -44,6 +47,11 @@ The Municipality of San Francisco in Cebu Province, the Philippines, exemplifies
 “Cities can manage their natural disaster defence programmes through three complementary models. These are: a top-down approach, where an authority instructs residents and businesses on the best course of action; a ‘side-to-side’ approach, which involves citizens coordinating their actions with one another; and a bottom-up model, where citizens feedback to authorities on how they are situated and what they need,” says Williams.
 
 “Cities and national authorities must incorporate all three models in order to maximise their resilience to floods, hurricanes and so forth. Furthermore, city leaders must continuously engage with their constituents in order to have an in-depth understanding of challenges on the ground,” he adds.
+
+<br>
+> ##### “Most natural disasters involve one or both of two types of stresses. On one hand there is chronic stress, and on the other there are acute events: disasters themselves.”
+
+<div align="right"><b>— Dr Peter Williams</b><br> Chief Technology Officer, IBM</div>
 
 #### **Cyber-risks**
 
