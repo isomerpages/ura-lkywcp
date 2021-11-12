@@ -3,7 +3,7 @@ title: Subscribe now
 permalink: /subscribe/
 ---
 
-##### Subscribe to our monthly newsletter to get the latest news of the Prize, useful feature articles on city-related issues and lessons from leading cities from around the world. One-click unsubscribe at anytime.
+##### Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
 
 ###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
 
