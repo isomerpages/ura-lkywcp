@@ -1,5 +1,5 @@
 ---
-title: Epitomising liveable and sustainable cities - the Suzhou story
+title: Suzhou — epitomising liveable and sustainable cities
 permalink: /resources/features/epitomising-liveable-sustainable-cities/
 image: /images/features/2014/stone-lake3.jpg
 description: Economic prosperity, social welfare and environmental protection are prerequisites of liveable and sustainable cities. While embracing these pillars wholeheartedly, the 2014 Prize Laureate Suzhou has gone beyond this standard by encouraging historical and cultural stewardship, social harmony and urban-rural integration.
