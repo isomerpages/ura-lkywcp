@@ -9,7 +9,7 @@ permalink: /stage-a-nomination-form/
 
 If the form below is not loaded, you can also fill it in at [here](https://form.gov.sg/5f376d3b8fd842001160fc4a).
 
-<div style="font-family:'Open Sans', Sans-Serif;font-size:18px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5f376d3b8fd842001160fc4a">here</a>.</div>
+<div style="font-family:'Open Sans', Sans-Serif;font-size:18px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px"></div>
 
 <iframe id="iframe" src="https://form.gov.sg/5f376d3b8fd842001160fc4a" style="width:100%;height:3200px"></iframe>
 
