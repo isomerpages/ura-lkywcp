@@ -3,7 +3,7 @@ title: Subscribe to our mailing list
 permalink: /subscribe/
 ---
 
-##### Subscribe to our monthly newsletter to keep abreast of key city issues and shared solutions, with highlights and learning points from the Prize Laureates and Special Mentions, as well as opinions from leading experts and thought-leaders. One-click unsubscribe at anytime.
+##### Subscribe to our monthly newsletter to get the latest news of the Prize, useful feature articles on city-related issues and lessons from leading cities from around the world. One-click unsubscribe at anytime.
 
 ###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
 
