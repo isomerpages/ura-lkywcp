@@ -34,7 +34,7 @@ However, Assoc. Prof. Tan believes that vertical greenery’s benefits, combined
 There is no one-size-fits-all solution to vertical greenery. In many cities, in both the developed and developing world, there is increasing economic disparity. Engaging with vertical greenery projects is not a priority for many at the bottom of the economic scale. However, where urban planners keep socio-geographical context in mind, appropriate best practices can be exported. For examples, public officials from Guangzhou have been travelling to Singapore to assess what strategies, policies and technologies could be effectively transferred. Guangzhou has replicated both surface-level greening practices, such as Singapore’s codified planting of trees alongside roadsides, and its vertical greening of bridges and flyovers.
 
 <br>
-> ###### “There is a push to ‘green upwards’ amongst policymakers, simply because there is so much potential in the elevated spaces.”
+> ##### “There is a push to ‘green upwards’ amongst policymakers, simply because there is so much potential in the elevated spaces.”
 
 <div align="right"><b>— Dr Tan Puay Yok</b><br> Associate Professor, National University of Singapore</div>
 
