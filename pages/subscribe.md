@@ -34,10 +34,10 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 		-moz-border-radius: 20px;
 		-webkit-border-radius: 20px;
 	}
-		#mailchimp input.email { background: #cdcccb }
-		#mailchimp input.name { background: #cdcccb }
-		#mailchimp input.role { background: #cdcccb }
-		#mailchimp input.city { background: #cdcccb }
+		#mailchimp input.email { background: #f0e8d9 }
+		#mailchimp input.name { background: #f0e8d9 }
+		#mailchimp input.role { background: #f0e8d9 }
+		#mailchimp input.city { background: #f0e8d9 }
 		#mailchimp input[type="submit"] {
 			background: #967942;
 			color: #fff;
