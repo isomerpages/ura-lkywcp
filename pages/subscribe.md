@@ -5,6 +5,8 @@ permalink: /subscribe/
 
 ##### **Hello!**
 
+###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
+
 ---
 
 <!-- Begin Mailchimp Signup Form -->
