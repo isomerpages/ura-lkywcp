@@ -1,5 +1,5 @@
 ---
-title: Subscribe
+title: Subscribe now
 permalink: /subscribe/
 ---
 
