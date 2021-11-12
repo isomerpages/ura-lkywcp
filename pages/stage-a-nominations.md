@@ -5,11 +5,11 @@ permalink: /stage-a-nomination-form/
 
 #### **Instructions**
 
-- Nominations for 2024 Prize must be made by **<mark>independent third parties</mark>**. 
-- Please ensure that the city agrees to be nominated. 
-- Please pen and attach a short recommendation letter (600 words) to support why the city you are nominating should win the Prize. 
-- **<mark>No entry fee required</mark>**.
-- If the form below is not loaded, click [here](https://form.gov.sg/5f376d3b8fd842001160fc4a).
+| **1** | Nominations for 2024 Prize must be made by **<mark>independent third parties</mark>**. |
+| **2** | Please ensure that the city agrees to be nominated. |
+| **3** | Please pen and attach a short recommendation letter (600 words) to support why the city you are nominating should win the Prize. |
+| **4** | **<mark>No entry fee required</mark>**. |
+| **5** | If the form below is not loaded, click [here](https://form.gov.sg/5f376d3b8fd842001160fc4a). |
 
 ---
 
