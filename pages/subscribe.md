@@ -27,15 +27,15 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">Name: </label>
+	<label for="mce-FNAME"><b>Name:</b> </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-ROLE">Designation: </label>
+	<label for="mce-ROLE"><b>Designation:</b> </label>
 	<input type="text" value="" name="ROLE" class="" id="mce-ROLE">
 </div>
 <div class="mc-field-group">
-	<label for="mce-CITY">City: </label>
+	<label for="mce-CITY"><b>City:</b> </label>
 	<input type="text" value="" name="CITY" class="" id="mce-CITY">
 </div>
 <p><a href="https://us20.campaign-archive.com/home/?u=9ba93559f08e773e70d4115c4&id=412167998e" title="View previous campaigns">View previous campaigns</a></p>
