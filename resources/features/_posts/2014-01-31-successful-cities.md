@@ -5,13 +5,15 @@ image: /images/features/2014/jeffrey-rhoda.jpg
 description: The world is unpredictable. Sudden changes – be they environmental, economic or socio-political – can reshape the established order, disrupt existing patterns and institutions and transform previously unassailable assumptions. To build resilience in this environment is to make cities’ communities, institutions and systems better prepared to face an inherently unpredictable world.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Joseph Jones |
 
-***The world is unpredictable. Sudden changes – be they environmental, economic or socio-political – can reshape the established order, disrupt existing patterns and institutions and transform previously unassailable assumptions. To build resilience in this environment is to make cities’ communities, institutions and systems better prepared to face an inherently unpredictable world.***
+##### The world is unpredictable. Sudden changes – be they environmental, economic or socio-political – can reshape the established order, disrupt existing patterns and institutions and transform previously unassailable assumptions. To build resilience in this environment is to make cities’ communities, institutions and systems better prepared to face an inherently unpredictable world.
 
-![Mr Jeffrey Rhoda](/images/features/2014/jeffrey-rhoda.jpg/)*Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation speaks at the ‘The Future of Urban Living’ Conference Singapore in October 2013. Image © Novus Media Solutions*
+> ###### **Cities mentioned in this article:** <br> New York City, Singapore, Boston
+
+###### ![Mr Jeffrey Rhoda](/images/features/2014/jeffrey-rhoda.jpg/)**Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation speaks at the ‘The Future of Urban Living’ Conference Singapore[^1] in October 2013** © Novus Media Solutions
 
 Cities are defined by their ability to respond to the unpredictable. Changes – be it environmental, economic, social or political – are often unexpected, and urban authorities can scramble to respond to events. This is often not through lack of preparedness or anticipation, but when faced with unprecedented change – be it financial collapse or natural disaster – a city’s response is often framed in or based on pre-determined contexts.
 
@@ -19,19 +21,19 @@ How then can a city ensure that its people, systems, institutions and community 
 
 #### **The need for resilience**
 
-Events over the past year have brought the need for resilience into even greater focus. At least nine million people were affected when Typhoon Haiyan struck the Philippines in November 2013, despite Filipino authorities being forewarned and prepared. With hurricanes and typhoons in the Asia-Pacific projected to grow more frequent and more intense, the resilience of Asia’s coastal cities and infrastructure will be increasingly tested. The World Bank has already identified the coastal megacities of Manila, Ho Chi Minh City, and Bangkok at risk of more and greater flooding. However, not all the shocks or stresses that Asian cities face are due to flooding. Ashvin Dayal, Managing Director, Asia, of the Rockerfeller Foundation, identifies water scarcity in particular as posing a major challenge for cities across parts of Asia, especially South Asia.
+Events over the past year have brought the need for resilience into even greater focus. At least nine million people were affected when Typhoon Haiyan struck the Philippines in November 2013, despite Filipino authorities being forewarned and prepared. With hurricanes and typhoons in the Asia-Pacific projected to grow more frequent and more intense, the resilience of Asia’s coastal cities and infrastructure will be increasingly tested. 
 
-> “How can a city ensure that its people, systems, institutions and community possess the resilience to respond to the many variables of today’s complex and shifting environment?”
+The World Bank has already identified the coastal megacities of Manila, Ho Chi Minh City, and Bangkok at risk of more and greater flooding. However, not all the shocks or stresses that Asian cities face are due to flooding. Ashvin Dayal, Managing Director, Asia, of the Rockerfeller Foundation, identifies water scarcity in particular as posing a major challenge for cities across parts of Asia, especially South Asia.
 
-The human and economic cost to cities due to environmental phenomena is profound. Speaking at a joint Singapore-Malaysia Eisenhower Fellowships Conference in October 2013, Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation argued that the world’s cities face chronic stresses today that threaten resilience – from environmental degradation to national disasters. While New York City has been rightly recognised for the renewal of its physical infrastructure, the city administration was unprepared for the storm surge caused by Hurricane Sandy hitting in the autumn of 2012. Water flooded a transformer, causing it to explode and leaving parts of lower Manhattan without power for a week. In the past two years alone, heat waves across Argentina, India and the US have led to rolling blackouts as electricity grids collapsed in the face of demand. In every instance, existing systems and practices were insufficient to cope with unprecedented events.
+The human and economic cost to cities due to environmental phenomena is profound. Speaking at a joint Singapore-Malaysia Eisenhower Fellowships Conference in October 2013, Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation argued that the world’s cities face chronic stresses today that threaten resilience – from environmental degradation to national disasters. 
 
-To better build cities’ resilience, Mr Rhoda advocated a “system of systems” across multiple domains. In this system, an interconnected series of domains – social, including human assets such as commerce and culture; services, such as energy and transport; man-made environment, such as land use; and natural environment, such as climate and population — allow cities to monitor and respond to unprecedented ‘black swan events’<sup>2</sup>.
+While New York City has been rightly recognised for the renewal of its physical infrastructure, the city administration was unprepared for the storm surge caused by Hurricane Sandy hitting in the autumn of 2012. Water flooded a transformer, causing it to explode and leaving parts of lower Manhattan without power for a week. In the past two years alone, heat waves across Argentina, India and the US have led to rolling blackouts as electricity grids collapsed in the face of demand. In every instance, existing systems and practices were insufficient to cope with unprecedented events.
+
+To better build cities’ resilience, Mr Rhoda advocated a 'system of systems' across multiple domains. In this system, an interconnected series of domains – social, including human assets such as commerce and culture; services, such as energy and transport; man-made environment, such as land use; and natural environment, such as climate and population — allow cities to monitor and respond to unprecedented ‘black swan events’[^2].
 
 The multi-faceted and interconnected nature of resilient cities was a theme continued at the conference by Mr Jordan Schwartz, Manager for Infrastructure Policy at the World Bank. He argued that a city’s success is a sum total of its networks. For example, the relationships between a city’s social economy, social cohesion, common geography and actual density enable savings in water, energy and transport networks. In turn, this enables services to add to cities’ resilience. The World Bank has identified reliable inner-city transport networks as driving density, which means less inefficient and unproductive urban sprawl, increasing property values, and also reducing urban crime and violence.
 
 Mr Rhoda argued that a city’s resilience now sits alongside quality of life and workforce skill sets as a key determiner in whether the private sector invests. “Industrial and oil companies want to put their factories and facilities in cities that have resilient operations,” said Mr Rhoda. He argued that the importance of resilience to urban economies extends beyond building physical infrastructure, to “building the capacity of local people so that they have the skills of the future.”
-
-> “The challenges that cities face cut across different functions, groups and agencies. They are interconnected, highly complex issues with multiple stakeholders who often have different perspectives on how and where to respond.”
 
 #### **Changing needs**
 
@@ -43,7 +45,10 @@ An ageing population also throws up the spectre of a shrinking work force. Mr Ho
 
 Policy makers need to be aware of entrenched assumptions that can lead to cognitive biases – where inertia or hesitation in recognising problems delays decision-making and results in crises and disasters. Mr Ho used the example of Singapore’s recent cases of flooding, where record rainfall overwhelmed the city-state’s storm drains, to illustrate the dangers of assumptions.
 
-> “History is full of examples of how cities have – and failed to – respond to changing circumstances.”
+<br>
+> ##### “The ability to re-orientate and create new value hinges on economic diversity and complexity.”
+
+<div align="right"><b>— Peter Ho</b><br> Chairman, Urban Redevelopment Authority Singapore</div>
 
 #### **Responding to changing circumstances**
 
@@ -53,7 +58,7 @@ In the late nineteenth century, with its previous significance as a port city mu
 
 The example of Boston and Venice is a salient lesson in the importance of resilience. Quoting the economist Edward Glaeser, Mr Ho noted, “The ability to re-orientate and create new value hinges on economic diversity and complexity.” Cities must not assume that tomorrow will be like today; doing so risks being unprepared to face the challenges and opportunities of the future. **<font color="#967942">O</font>**
 
-| Notes |
-|:---|
-| 1 | Singapore Eisenhower Fellowships (EF) Society and Eisenhower Fellows Association Malaysia co-organised a joint Singapore-Malaysia EF Conference from 16-19 October 2013 on ‘The Future of Urban Living’. |
-| 2 | A black swan event is an event or occurrence that deviates beyond what is normally expected of a situation and that would be extremely difficult to predict. This term was popularised by Nassim Nicholas Taleb, a financial professor and former Wall Street trader. ([www.investopedia.com](http://www.investopedia.com)) |
+---
+
+[^1]: Singapore Eisenhower Fellowships (EF) Society and Eisenhower Fellows Association Malaysia co-organised a joint Singapore-Malaysia EF Conference from 16-19 October 2013 on ‘The Future of Urban Living’.
+[^2]: A black swan event is an event or occurrence that deviates beyond what is normally expected of a situation and that would be extremely difficult to predict. This term was popularised by Nassim Nicholas Taleb, a financial professor and former Wall Street trader. ([www.investopedia.com](http://www.investopedia.com))
