@@ -64,9 +64,9 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **Features** 
 
-| [Spotlight on Bilbao - how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
+| [Spotlight on Bilbao — how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
 
 ##### **Interviews** 
 
-| [Investing in culture and people - Bilbao looks ahead to the future](/resources/interviews/investing-culture-people/) | 
-| [Andoni Aldekoa on Bilbao 2.0 - constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
+| [Juan María Aburto on investing in culture and people](/resources/interviews/investing-culture-people/) | 
+| [Andoni Aldekoa on constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
