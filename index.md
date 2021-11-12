@@ -43,7 +43,7 @@ sections:
         subtitle: Join our mailing list
         description: Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
         button: Click here   
-        url: https://go.gov.sg/newsletter
+        url: /subscribe/
     - resources:
         title: 
         subtitle: Lessons from cities
