@@ -23,7 +23,7 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 }
 	#mailchimp input {
 		 border: medium none;
-    color: #fff;
+    color: #000;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     font-style: nil;
