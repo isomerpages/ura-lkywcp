@@ -1,27 +1,32 @@
 ---
-title: Eco-cities - who, what, where and why?
+title: Eco-cities — who, what, where and why?
 permalink: /resources/features/eco-cities/
 image: /images/features/2014/cycling.jpg
-description: The term ‘eco-cities’ is synonymous with urban areas that, at scale, promote environmental preservation. However, decorating cities with boulevards and green buildings, as well as adopting energy- and waste-efficient technologies, are merely small parts of the modern eco-city. What do urbanists mean when they use this term; what socio-economic trends drive their development; and what do eco-cities need in order to function successfully?
+description: The term ‘eco-cities’ is synonymous with urban areas that promote environmental preservation. However, decorating cities with boulevards and green buildings, and adopting energy- and waste-efficient technologies, are merely small parts of the modern eco-city. What do eco-cities need in order to function successfully?
 ---
 
-| Author |
+| Writer |
 |---:|
 | Howard James |
 
-***The term ‘eco-cities’ is synonymous with urban areas that, at scale, promote environmental preservation. However, decorating cities with boulevards and green buildings, as well as adopting energy- and waste-efficient technologies, are merely small parts of the modern eco-city. What do urbanists mean when they use this term; what socio-economic trends drive their development; and what do eco-cities need in order to function successfully?***
+##### The term ‘eco-cities’ is synonymous with urban areas that promote environmental preservation. However, decorating cities with boulevards and green buildings, and adopting energy- and waste-efficient technologies, are merely small parts of the modern eco-city. What do eco-cities need in order to function successfully?
 
-![Man cycling](/images/features/2014/cycling.jpg/)*One of the principles of eco-cities is a modal shift of private car usage to public transportation. Promoting cycling for short-distance trips can help to encourage that shift. Image © Dylan Passmore*
+> ###### **Cities mentioned in this article:** <br> Hamburg, Masdar City, Tianjin
 
-The concept of making cities environmentally sustainable is nothing new. In Europe and the US, the Garden City movement of the 1890s and the post-World War II New Town phenomenon were based on the idea of creating urban areas that merged contemporary and spacious housing with modern infrastructure and greenery. Both were seen as attempts to reinvent the city in the post-industrial era.
+###### ![Man cycling](/images/features/2014/cycling.jpg/)**One of the principles of eco-cities is a modal shift of private car usage to public transportation. Promoting cycling for short-distance trips can help to encourage that shift** © Dylan Passmore
+
+The concept of making cities environmentally sustainable is nothing new. In Europe and the United States, the Garden City movement of the 1890s and the post-World War II New Town phenomenon were based on the idea of creating urban areas that merged contemporary and spacious housing with modern infrastructure and greenery. Both were seen as attempts to reinvent the city in the post-industrial era.
 
 The term ‘eco-city’ surfaced in the 1970s, when a US-based movement known as Urban Ecology first used it. Founded in California, the group launched the journal, The Urban Ecologist. “An eco-city is an ecologically healthy city. That also means the city design is strongly informed by knowledge of ecology and its design principles,” [stated Richard Register](http://www.treehugger.com/sustainable-product-design/ecocities-of-tomorrow-an-interview-with-richard-register.html), the publication’s launch editor and person attributed with creating the term, in an interview with environmental magazine Treehugger.
 
-However, many claim the term today depicts a city that adheres to the three core pillars of sustainability: environmental stewardship, social equality and economic prosperity. Flemming Borreskov, President of the International Federation of Housing and Planning and Member of the World Cities Summit International Advisory Group, is one such urbanist and he acknowledges the concept of the eco-city has progressed much over the last few decades.
+However, many claim the term today depicts a city that adheres to the three core pillars of sustainability: environmental stewardship, social equality and economic prosperity. Flemming Borreskov, President of Catalytic Society and member of the Lee Kuan Yew World City Prize Council, is one such urbanist and he acknowledges the concept of the eco-city has progressed much over the last few decades.
 
 “Today we know much more about designing and building eco-cities than we did in the 1990s. At that time sustainability was more or less about being environmentally sustainable. Today, however, sustainability is much more recognised and mainstream,” Borreskov explains.
 
-> “Eco-city today depicts a city that adheres to the three core pillars of sustainability: environmental stewardship, social equality and economic prosperity.”
+<br>
+> ##### “An eco-city is an ecologically healthy city. That also means the city design is strongly informed by knowledge of ecology and its design principles.”
+
+<div align="right"><b>— Richard Register</b></div>
 
 “We have come to recognise that sustainability has three dimensions: environment and resources; social and cultural cohesion; and economic and financial dimension. We have also realised that we should aim for creating cities for people – cities that are designed and built for the human scale and are vibrant,” he adds.
 
@@ -39,7 +44,10 @@ However, behind these principals, a host of other factors influence the modern e
 
 “People want eco-cities only if they can choose freely and can afford to pay for them. Wise politicians and business people listen to their constituents and clientele, and strive to deliver what the people want. As energy prices go up eco-cities will become more competitive. In addition, land scarcity is also driving up prices on building rights, making the densification process unavoidable,” says Borreskov.
 
-> “Eco-cities have to focus more on economic sustainability in the light of today’s economic glut. We have to do more with fewer financial means.”
+<br>
+> ##### “Eco-cities have to focus more on economic sustainability in the light of today’s economic glut. We have to do more with fewer financial means.”
+
+<div align="right"><b>— Flemming Borreskov</b></div>
 
 #### **Financing**
 
@@ -49,9 +57,9 @@ In the developing world, initiatives that partner the public and private sector 
 
 In the developed world, private-public partnerships (PPPs), where governments back a project that is supported by corporations, are common. In the developing world, this model of financing is often not as attractive to investors, due to regulatory and performance risks.
 
-“The public-private partnership is a fairly new model for financing municipal affairs [in China], combining the advantages of top-down guidance and bottom-up innovation,” remarks Dr Qiu Baoxing, Vice Minister of the Ministry of Housing and Urban-Rural Development, People’s Republic of China.
+“The public-private partnership is a fairly new model for financing municipal affairs \[in China], combining the advantages of top-down guidance and bottom-up innovation,” remarks Dr Qiu Baoxing, then-Vice Minister of the Ministry of Housing and Urban-Rural Development, People’s Republic of China.
 
-“However, with legal uncertainties and constraints that result from this, it is still premature to promote PPPs as a means of financing sustainable cities,” Qiu adds. The Vice Minister believes the Build-Operate-Transfer (BOT) model, where the private sector provides the upfront capital and investment for a concession and which over time hands the project over to the public sector, to be a more suitable financing model.
+“However, with legal uncertainties and constraints that result from this, it is still premature to promote PPPs as a means of financing sustainable cities,” Qiu adds. The then-Vice Minister believes the Build-Operate-Transfer (BOT) model, where the private sector provides the upfront capital and investment for a concession and which over time hands the project over to the public sector, to be a more suitable financing model.
 
 To make eco-cities a safe investment, governments must ensure they are economically viable, as both the public and private sectors are today more stringent regarding capital expenditure than they have been in past decades.
 
@@ -63,7 +71,10 @@ Technology is another key enabler of the present-day eco-city. Indeed, it is thr
 
 “Smart-city technology has helped spur the development of today’s eco-cities. It is much more than just the advent of the Internet. The smart-city concept is about management of traffic, electricity, water, sewage, waste and many other things. We have only seen the tip of the iceberg. Over the next 10 to 20 years this is going to revolutionise our way of designing and managing cities,” remarks Borreskov.
 
-> “Arguably the most significant aspect of eco-cities is their growth potential. Eco-cities could play the role of helping combat the impact and stresses of urban – and therefore global – population growth and climate change.”
+<br>
+> ##### “The biggest challenge confronting the development of today’s eco-cities is the human mind. Human beings tend to want what we have seen and what we know, and we have difficulty buying into something new and unknown.”
+
+<div align="right"><b>— Flemming Borreskov</b></div>
 
 #### **Public buy-in**
 
@@ -85,6 +96,6 @@ Regardless of where an eco-city is located, its success is subject to non-urban 
 
 Yet arguably the most significant aspect of eco-cities is their growth potential. Eco-cities could play in the role of helping combat the impact and stresses of urban – and therefore global – population growth and climate change.
 
-The world’s population is set to [reach 9.7 billion by 2050 – up from 7.2 billion in 2012](http://www.un.org/apps/news/story.asp?NewsID=45165#.Uvm7m2S1bOU). That global population will be a vastly urban one. [According to World Atlas](http://www.statisticbrain.com/total-number-of-cities-in-the-world/), eco-cities today account for around only 4% of the world’s more than 4,400 cities with a population of more than 150,000. The opportunity for eco-cities to play a greater role in housing residents and businesses is immense.
+The world’s population is set to [reach 9.7 billion by 2050 – up from 7.2 billion in 2012](http://www.un.org/apps/news/story.asp?NewsID=45165#.Uvm7m2S1bOU). That global population will be a vastly urban one. [According to World Atlas](http://www.statisticbrain.com/total-number-of-cities-in-the-world/), eco-cities today account for around only 4 percent of the world’s more than 4,400 cities with a population of more than 150,000. The opportunity for eco-cities to play a greater role in housing residents and businesses is immense.
 
 The development of eco-cities will go far in curbing climate change, which is predicted to reach catastrophic levels in 30 years’ time, unless emissions are dramatically cut between now and then. Eco-cities are a proven means of reducing urban pollutants across multiple sectors. There has never been a more pressing time for governments and the private sector to invest in them. **<font color="#967942">O</font>**
