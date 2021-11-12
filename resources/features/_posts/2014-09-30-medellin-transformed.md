@@ -48,7 +48,7 @@ Ensuring Medellín’s long-term growth is economically sustainable is critical 
 This partnership between the public and private sectors plays a critical role in fostering innovation. Both sectors were involved in the city’s new Medellínovation district – a technological hub jointly developed by the city of Medellín and RutaN – an organisation that aims to develop and fund companies involved in high-growth sectors like health, energy and technology. The opportunity offered by Medellínovation to sandbox innovation in South America has attracted interest from multinationals eager to establish regional bases. In turn, it has also attracted talent, created job opportunities and reinforced Medellín’s reputation as an innovative, thought-leading city.
 
 <br>
-> “Medellín has served as an experience we can and want to share with the world.” 
+> ##### “Medellín has served as an experience we can and want to share with the world.” 
 
 <div align="right"><b>— Aníbal Gavíria Correa</b><br> Former Mayor, Medellín</div>
 
