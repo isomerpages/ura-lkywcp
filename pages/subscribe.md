@@ -34,8 +34,10 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 		-moz-border-radius: 20px;
 		-webkit-border-radius: 20px;
 	}
-		#mailchimp input.email { background: #fff }
-		#mailchimp input.name { background: #fff}
+		#mailchimp input.email { background: #c9c7c4 }
+		#mailchimp input.name { background: #c9c7c4 }
+		#mailchimp input.role { background: #c9c7c4 }
+		#mailchimp input.city { background: #c9c7c4 }
 		#mailchimp input[type="submit"] {
 			background: #967942;
 			color: #fff;
@@ -53,8 +55,8 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 
 		<input type="email" size="30" value="Enter your email" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 		<input type="text" size="30" value="Enter your name" name="FNAME" class="name" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" size="30" value="Enter your designation" name="ROLE" class="name" id="mce-ROLE" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" size="30" value="Enter your city" name="CITY" class="name" id="mce-CITY" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="text" size="30" value="Enter your designation" name="ROLE" class="role" id="mce-ROLE" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="text" size="30" value="Enter your city" name="CITY" class="city" id="mce-CITY" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 
 		<div id="mce-responses" class="clear">
 			<div class="response" id="mce-error-response" style="display:none"></div>
