@@ -2,16 +2,18 @@
 title: Building sustainable cities in China
 permalink: /resources/features/building-sustainable-cities-china/
 image: /images/features/2013/nanjing-road.jpg
-description: By 2030, one-eighth of the world’s population will be residing in a Chinese city. By then, approximately 70% of China’s population, or 1 billion people, will be living in cities. This massive urban population will put extreme pressure on Chinese cities, and their success will be determined by their ability to achieve long-term environmental, economic and social sustainability.
+description: By 2030, one-eighth of the world’s population will be residing in a Chinese city. This will put extreme pressure on Chinese cities, and their success will be determined by their ability to achieve long-term environmental, economic and social sustainability.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Howard James |
 
-***By 2030, one-eighth of the world’s population will be residing in a Chinese city. By then, approximately 70% of China’s population, or 1 billion people, [will be living in cities](http://news.xinhuanet.com/english/china/2012-04/03/c_131505592.htm). This massive urban population will put extreme pressure on Chinese cities, and their success will be determined by their ability to achieve long-term environmental, economic and social sustainability.***
+##### By 2030, one-eighth of the world’s population will be residing in a [Chinese city](http://news.xinhuanet.com/english/china/2012-04/03/c_131505592.htm). This will put extreme pressure on Chinese cities, and their success will be determined by their ability to achieve long-term environmental, economic and social sustainability.
 
-![Nanjing Road, Shanghai.](/images/features/2013/nanjing-road.jpg/)*Nanjing Road, Shanghai. Image © GlobalCitizen01*
+> ###### **Cities mentioned in this article:** <br> Kunming, Wuxi, Tianjin
+
+###### ![Nanjing Road, Shanghai.](/images/features/2013/nanjing-road.jpg/)**Nanjing Road, Shanghai** © GlobalCitizen01
 
 #### **Economic transition**
 
@@ -29,9 +31,12 @@ Land disputes, as a result of growing urban populations, have the potential to b
 
 However, despite these pressures, the Chinese government has managed the issue of social integration competently to date. China’s leaders are aware of the potential for instability, and Chinese Premier Li Keqiang recently stressed the need for [a new type of urbanisation](http://news.xinhuanet.com/english/indepth/2013-04/25/c_132340061.htm) that supports job creation and the provision of public services.
 
-Chinese cities also seem to be coping better than their peers from other emerging economies and have not suffered from the crime and civic violence seen in rapidly urbanising cities elsewhere. This, argues Sir Peter Hall, Professor of Planning at the Bartlett School of Architecture and Planning, University College London, is due to China’s urban authorities ability to create socio-economic prospects. “[Chinese cities] offer better opportunities for lower-income people to rise up the scale,” says Hall.
+Chinese cities also seem to be coping better than their peers from other emerging economies and have not suffered from the crime and civic violence seen in rapidly urbanising cities elsewhere. This, argues late Sir Peter Hall, then-Professor of Planning at the Bartlett School of Architecture and Planning, University College London, is due to China’s urban authorities ability to create socio-economic prospects. “[Chinese cities] offer better opportunities for lower-income people to rise up the scale,” says Hall.
 
-> “Chinese cities offer better opportunities for lower-income people to rise up the scale.” 
+<br>
+> ##### “Chinese cities offer better opportunities for lower-income people to rise up the scale.” 
+
+<div align="right"><b>— Late Sir Peter Hall</b></div>
 
 #### **Environmental stewardship**
 
@@ -39,13 +44,13 @@ As vital to the socio-economic development of a country as cities are, their soc
 
 Chinese cities continue to house an array of polluting factories from multiple industries. Furthermore, companies circumventing recently introduced waste management controls have created both environmental and health problems in urban areas. As a result, the World Bank estimates that around 750,000 Chinese die prematurely each year [due to pollution-related causes](http://www.nytimes.com/2007/08/26/world/asia/26china.html?pagewanted=all).
 
-Polluting industries have also created social discontent and public protests. In the city of Kunming there were [large-scale protests in May 2013 over the environmental impact of a proposed oil refinery](http://behindthewall.nbcnews.com/_news/2013/05/16/18294227-get-out-over-1000-take-to-the-streets-in-china-to-protest-oil-refinery). Yang Chaofei, the vice-chairman of the Chinese Society for Environmental Sciences, claimed that the [number of environmental protests in China rose by 120% from 2010 to 2011](http://www.wantchinatimes.com/news-subclass-cnt.aspx?id=20121030000046&cid=1505&MainCatID=0). The Chinese government has responded by cancelling plans for a number of factories and plants, and has vowed to make [greater effort in tackling the nation’s polluting factories](http://www.nytimes.com/2013/03/22/world/asia/as-chinas-environmental-woes-worsen-infighting-emerges-as-biggest-obstacle.html?pagewanted=all).
+Polluting industries have also created social discontent and public protests. In the city of Kunming there were [large-scale protests in May 2013 over the environmental impact of a proposed oil refinery](http://behindthewall.nbcnews.com/_news/2013/05/16/18294227-get-out-over-1000-take-to-the-streets-in-china-to-protest-oil-refinery). Yang Chaofei, the vice-chairman of the Chinese Society for Environmental Sciences, claimed that the [number of environmental protests in China rose by 120 percent from 2010 to 2011](http://www.wantchinatimes.com/news-subclass-cnt.aspx?id=20121030000046&cid=1505&MainCatID=0). The Chinese government has responded by cancelling plans for a number of factories and plants, and has vowed to make [greater effort in tackling the nation’s polluting factories](http://www.nytimes.com/2013/03/22/world/asia/as-chinas-environmental-woes-worsen-infighting-emerges-as-biggest-obstacle.html?pagewanted=all).
 
-Pollution in China is compounded by the country’s reliance on fossil fuels. China accounts for [47% of global coal consumption](http://www.eia.gov/todayinenergy/detail.cfm?id=9751) and this has resulted in many Chinese cities suffering from chronic air pollution. In January 2013, the US Environmental Protection Agency reported record levels of air pollution in Beijing and [recommended people to stay indoors](http://www.nytimes.com/2013/01/31/world/asia/beijing-takes-emergency-steps-to-fight-smog.html).
+Pollution in China is compounded by the country’s reliance on fossil fuels. China accounts for [47 percent of global coal consumption](http://www.eia.gov/todayinenergy/detail.cfm?id=9751) and this has resulted in many Chinese cities suffering from chronic air pollution. In January 2013, the US Environmental Protection Agency reported record levels of air pollution in Beijing and [recommended people to stay indoors](http://www.nytimes.com/2013/01/31/world/asia/beijing-takes-emergency-steps-to-fight-smog.html).
 
 Responding to this challenge, the government announced in March 2013 that it would commit 100 billion yuan (US$16 billion) to tackling the city’s pollution problems. This includes greater policing of sewage disposal and garbage treatment, and [other measures aimed at improving air quality](http://www.reuters.com/article/2013/03/29/us-china-pollution-investment-idUSBRE92S01420130329).
 
-China today is at a crossroads. According to Dr Qiu Baoxing, the nation’s Vice Minister for Housing and Urban Redevelopment, its “high consumption, high pollution and high carbon emission” path can no longer be tolerated, and the nation must adopt a “green and low [carbon] path.”
+China today is at a crossroads. According to Dr Qiu Baoxing, the nation’s then-Vice Minister for Housing and Urban Redevelopment, its “high consumption, high pollution and high carbon emission” path can no longer be tolerated, and the nation must adopt a “green and low [carbon] path.”
 
 Some Chinese cities are already adopting environmental sustainability measures. The city of Wuxi in Jiangsu province hosts a joint venture between the governments of China and Sweden to create one of China’s new ‘eco-cities’. Environmental stewardship is mirrored through investment in low-carbon industries, and the city’s housing and transportation infrastructure are all but carbon-neutral. Despite shutting down polluting industries, Wuxi has achieved positive economic growth. Other sustainable ventures include the Sino-Singapore Tianjin Eco-City and the Guangzhou Knowledge City.
 
@@ -53,7 +58,10 @@ There is also growing awareness that urban development in China must also preser
 
 Dr Qiu believes this is indicative of a change in Chinese urban leadership. “Many of China’s municipal governments have revised their development goals and methods, putting more emphasis on building liveable and sustainable cities,” he says.
 
-> "Many of China’s municipal governments have revised their development goals and methods, putting more emphasis on building liveable and sustainable cities."
+<br>
+> ##### "Many of China’s municipal governments have revised their development goals and methods, putting more emphasis on building liveable and sustainable cities."
+
+<div align="right"><b>— Dr Qiu Baoxing</b></div>
 
 #### **Towards sustainable cities**
 
@@ -61,8 +69,10 @@ To be sustainable, cities need to have comprehensive, long-term planning to tack
 
 Urban development in many Western cities has been successfully driven by public-private partnerships (PPPs) that merge private sector skills with the vision of civic leadership. However, according to Dr Qiu, China’s political system, where local authorities are inextricably linked to both private and state-owned companies, makes implementing PPPs logistically and politically difficult. “Without adequate information and legal constraints, it’s still premature to promote PPPs in sustainable cities,” explains Dr Qiu.
 
-Others argue that PPPs can add value to China’s sustainable development. Professor Marilyn Taylor, Dean of the School of Design, University of Pennsylvania, claims that successful PPPs in China are possible as long as public leaders are clear about what they want to accomplish. To succeed, the private sector must understand the vision of city leaders and support them.
+Others argue that PPPs can add value to China’s sustainable development. Professor Marilyn Taylor, then-Dean of the School of Design, University of Pennsylvania, claims that successful PPPs in China are possible as long as public leaders are clear about what they want to accomplish. To succeed, the private sector must understand the vision of city leaders and support them.
 
-Chinese cities will remain the engine of the country’s growth story. Yet, for this to continue, social, economic and environmental issues cannot be tackled in isolation and must be part of an integrated solution. The Chinese government has already set sustainability targets in its most recent five-year plan. It aims to decrease water consumption by 30%, decrease energy consumption by 16% per unit of GDP, and [decrease CO₂ emissions by 17% per unit of GDP](http://www.guardian.co.uk/sustainable-business/china-growth-challenge-resource-economy-infographic#zoomed-picture). Chinese businesses too are adopting more sustainable practices. The Low Carbon Manufacturing Programme in China’s Pearl River Delta – the [world's highest concentration of manufacturing infrastructure](http://www.wwf.org.hk/en/whatwedo/footprint/climate/corpactions/lcmp/) – helped to [avoid 14,000 tons of carbon emissions in 2012](http://www.guardian.co.uk/sustainable-business/china-growth-challenge-resource-economy-infographic#zoomed-picture).
+Chinese cities will remain the engine of the country’s growth story. Yet, for this to continue, social, economic and environmental issues cannot be tackled in isolation and must be part of an integrated solution. The Chinese government has already set sustainability targets in its most recent five-year plan. It aims to decrease water consumption by 30 percent, decrease energy consumption by 16 percent per unit of GDP, and [decrease CO₂ emissions by 17 percent per unit of GDP](http://www.guardian.co.uk/sustainable-business/china-growth-challenge-resource-economy-infographic#zoomed-picture). 
+
+Chinese businesses too are adopting more sustainable practices. The Low Carbon Manufacturing Programme in China’s Pearl River Delta – the [world's highest concentration of manufacturing infrastructure](http://www.wwf.org.hk/en/whatwedo/footprint/climate/corpactions/lcmp/) – helped to [avoid 14,000 tons of carbon emissions in 2012](http://www.guardian.co.uk/sustainable-business/china-growth-challenge-resource-economy-infographic#zoomed-picture).
 
 China’s cities must continue this movement towards achieving long-term sustainability. This will require committed leadership in collaboration with government agencies, the private sector and the general public at large. **<font color="#967942">O</font>**
