@@ -28,8 +28,8 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
     font-size: 18px;
     font-style: nil;
     margin-bottom: 10px;
-    padding: 8px 10px;
-    width: 300px;
+    padding: 0px 20px;
+    width: 500px;
 		border-radius: 20px;
 		-moz-border-radius: 20px;
 		-webkit-border-radius: 20px;
@@ -43,8 +43,8 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 			color: #fff;
 			cursor: pointer;
 			font-size: 18px;
-			width: 35%;
-			padding: 8px 0;
+			width: 50%;
+			padding: 0px 0;
 
 		}
 			#mailchimp input[type="submit"]:hover { color: #F2C94C }
@@ -53,10 +53,10 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 <div id="mailchimp">
 	<form action="https://leekuanyewworldcityprize.us20.list-manage.com/subscribe/post?u=9ba93559f08e773e70d4115c4&amp;id=412167998e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 
-		<input type="email" size="30" value="Enter your email" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" size="30" value="Enter your name" name="FNAME" class="name" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" size="30" value="Enter your designation" name="ROLE" class="role" id="mce-ROLE" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" size="30" value="Enter your city" name="CITY" class="city" id="mce-CITY" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="email" size="50" value="Enter your email" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="text" size="50" value="Enter your name" name="FNAME" class="name" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="text" size="50" value="Enter your designation" name="ROLE" class="role" id="mce-ROLE" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="text" size="50" value="Enter your city" name="CITY" class="city" id="mce-CITY" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 
 		<div id="mce-responses" class="clear">
 			<div class="response" id="mce-error-response" style="display:none"></div>
