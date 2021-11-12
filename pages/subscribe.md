@@ -3,9 +3,11 @@ title: Subscribe to our mailing list
 permalink: /subscribe/
 ---
 
-##### **Hello!**
+##### Subscribe to our monthly newsletter to keep abreast of key city issues and shared solutions, with highlights and learning points from the Prize Laureates and Special Mentions, as well as opinions from leading experts and thought-leaders. One-click unsubscribe at anytime.
 
 ###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
+
+If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 
 ---
 
