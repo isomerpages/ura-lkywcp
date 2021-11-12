@@ -14,7 +14,7 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:24px 'Open Sans' ,sans-serif;  width:1024px; line-height: 2;}
+	#mc_embed_signup{background:#fff; clear:left; font:20px 'Open Sans' ,sans-serif;  line-height: 1.5;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
