@@ -19,7 +19,7 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 #mailchimp {
 	background: #ffffff;
 	color: #967942;
-	padding: 20px 10px 20px 0px;
+	padding: 20px 30px 20px 0px;
 }
 	#mailchimp input {
 		 border: medium none;
