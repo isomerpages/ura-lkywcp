@@ -5,8 +5,6 @@ permalink: /stage-a-nomination-form/
 
 ##### **Stage A closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [subscribe to our mailing list](https://go.gov.sg/newsletter).
 
-###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
-
 If the form below is not loaded, you can also fill it in at [here](https://form.gov.sg/5f376d3b8fd842001160fc4a).
 
 ---
