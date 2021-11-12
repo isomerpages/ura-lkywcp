@@ -19,7 +19,7 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 #mailchimp {
 	background: #ffffff;
 	color: #967942;
-	padding: 20px 15px;
+	padding: 20px 0px;
 }
 	#mailchimp input {
 		 border: medium none;
@@ -27,9 +27,9 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     font-style: nil;
-    margin-bottom: 10px;
-    padding: 20px 0px;
-    width: 500px;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    width: 300px;
 		border-radius: 20px;
 		-moz-border-radius: 20px;
 		-webkit-border-radius: 20px;
