@@ -7,7 +7,7 @@ permalink: /subscribe/
 
 ###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
 
-If the following form does not load, click [here](https://go.gov.sg/newsletter/). 
+If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-newsletter/). 
 
 ---
 
