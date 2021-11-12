@@ -1,5 +1,5 @@
 ---
-title: Subscribe to our mailing list
+title: Subscribe
 permalink: /subscribe/
 ---
 
@@ -7,7 +7,7 @@ permalink: /subscribe/
 
 ###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
 
-If the following form does not load, click [here](https://go.gov.sg/newsletter/)
+| If the following form does not load, click [here](https://go.gov.sg/newsletter/). |
 
 ---
 
@@ -38,7 +38,7 @@ If the following form does not load, click [here](https://go.gov.sg/newsletter/)
 	<label for="mce-CITY">City: </label>
 	<input type="text" value="" name="CITY" class="" id="mce-CITY">
 </div>
-<p><a href="https://us20.campaign-archive.com/home/?u=9ba93559f08e773e70d4115c4&id=412167998e" title="View previous campaigns">View previous campaigns.</a></p>
+<p><a href="https://us20.campaign-archive.com/home/?u=9ba93559f08e773e70d4115c4&id=412167998e" title="View previous campaigns">View previous campaigns</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
