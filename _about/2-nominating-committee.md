@@ -13,7 +13,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/cheong-koon-hean.png" alt="Cheong Koon Hean" /></td>
-<td><strong>Dr Cheong Koon Hean</strong><br />Chair<br />Lee Kuan Yew Centre for Innovative Cities & Centre for Liveable Cities<br />Singapore<br><a href="/about/prize-jury/nominating-committee/cheong-koon-hean/">Biography</a></td>
+<td><strong>Dr Cheong Koon Hean</strong><br />Chair<br />Lee Kuan Yew Centre for Innovative Cities <br> Centre for Liveable Cities<br />Singapore<br><a href="/about/prize-jury/nominating-committee/cheong-koon-hean/">Biography</a></td>
 </tr>
 </tbody>
 </table>
