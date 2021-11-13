@@ -36,5 +36,5 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 ##### **Directory**
 
 | • [Prize Secretary](/about/prize-secretary/) | • [Prize Sponsor](/prize-sponsor/) |
-| • [Prize Partners](/prize-partners/) | • [Contact us](/contact-us/) | 
+| • [Prize Partners](/prize-partners/) | • [Contact us](/feedback/) | 
 | • [Newsletter](/subscribe/) | • [YouTube channel](https://go.gov.sg/watch) |
