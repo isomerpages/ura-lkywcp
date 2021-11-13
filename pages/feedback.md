@@ -13,7 +13,7 @@ permalink: /feedback/
 c/o Urban Redevelopment Authority<br>
 45 Maxwell Road<br>
 The URA Centre, Tower<br>
-\#13-01<br>
+13-01<br>
 Singapore 069118 |
 
 If the form below is not loaded, click [here](https://form.gov.sg/#!/5dca55f048e82f0012b1a3f8).
