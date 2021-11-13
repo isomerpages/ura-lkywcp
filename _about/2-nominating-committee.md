@@ -32,7 +32,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 </tr>
 <tr>
 <td><br><img src="/images/jury/chris-luebkeman.png" alt="Chris Luebkeman" /><br></td>
-<td><br><strong>Dr Chris Luebkeman</strong><br />Leader, >Strategic Foresight Hub <br> Office of the President, ETH Zurich<br />Switzerland<br><a href="/about/prize-jury/nominating-committee/chris-luebkeman/">Biography</a></td>
+<td><br><strong>Dr Chris Luebkeman</strong><br />Leader, Strategic Foresight Hub <br> Office of the President, ETH Zurich<br />Switzerland<br><a href="/about/prize-jury/nominating-committee/chris-luebkeman/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/marilyn-taylor.png" alt="Marilyn Taylor" /><br></td>
