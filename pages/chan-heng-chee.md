@@ -1,6 +1,6 @@
 ---
-title: Biography - Chan Heng Chee
-permalink: /about/prize-jury/prize-council/chan-heng-chee
+title: Biography — Chan Heng Chee
+permalink: /chan-heng-chee
 ---
 
 <div style="width:150px"><img src="/images/jury/chan-heng-chee.png" alt="Chan Heng Chee" /></div>
