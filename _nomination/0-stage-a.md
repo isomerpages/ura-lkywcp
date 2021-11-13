@@ -40,7 +40,7 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
-- [Contact us](/contact-us/)
+- [Contact us](/feedback/)
 
 ---
 
