@@ -40,5 +40,5 @@ Sydney’s transformation is a testament to the dynamic leadership of Lord Mayor
 
 ##### **Features** 
 
-| [4 different cities, 3 common themes - the 2016 Special Mention cities](/resources/features/four-different-cities/) |
+| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
 | [Engaging communities for a sustainable future](/resources/features/engaging-communities-sustainable-future/) |
