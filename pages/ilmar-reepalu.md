@@ -1,6 +1,6 @@
 ---
-title: Biography - Ilmar Reepalu
-permalink: /about/prize-jury/prize-council/ilmar-reepalu/
+title: Biography — Ilmar Reepalu
+permalink: /ilmar-reepalu/
 ---
 
 <div style="width:150px"><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /></div>
