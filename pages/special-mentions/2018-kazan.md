@@ -40,7 +40,7 @@ Kazan is highly remarkable as a city of diverse cultures, comprising 115 differe
 
 ##### **In pictures** 
 
-| [Kazan in pictures - healthy city, positive lives](/resources/in-pictures/kazan/) |
+| [Kazan in pictures — healthy city, positive lives](/resources/in-pictures/kazan/) |
 
 ##### **Case study** 
 
@@ -49,4 +49,4 @@ Kazan is highly remarkable as a city of diverse cultures, comprising 115 differe
 ##### **Features** 
 
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Kazan’s second life - how the city found a new purpose in sports](/resources/features/kazan-second-life/) |
+| [Kazan’s second life — finding new purpose in sports](/resources/features/kazan-second-life/) |
