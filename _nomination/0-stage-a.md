@@ -3,7 +3,7 @@ title: Stage A
 permalink: /nominations/stagea/
 ---
 
-##### **Stage A closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [subscribe to our mailing list](https://go.gov.sg/newsletter).
+##### **Stage A closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [subscribe to our mailing list](/subscribe/).
 
 ###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
 
