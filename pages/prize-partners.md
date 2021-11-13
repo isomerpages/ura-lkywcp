@@ -23,4 +23,4 @@ The Prize's esteemed partners:
 
 #### **Keen to partner us?**
 
-- [Contact us](/contact-us/) 
+- [Contact us](/feedback/) 
