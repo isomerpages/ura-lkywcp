@@ -38,12 +38,12 @@ Vienna is already widely recognised as one of the most liveable cities in the wo
 
 ##### **In pictures** 
 
-| [Vienna in pictures - raising the bar of liveability](/resources/in-pictures/vienna/) |
+| [Vienna in pictures — raising the bar of liveability](/resources/in-pictures/vienna/) |
 
 ##### **Features** 
 
-| [4 different cities, 3 common themes - the 2016 Special Mention cities](/resources/features/four-different-cities/) |
-| [Looking east and west - Vienna at the crossroads](/resources/features/vienna-at-crossroads/) |
+| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
+| [Looking east and west — Vienna at the crossroads](/resources/features/vienna-at-crossroads/) |
 
 --- 
 
