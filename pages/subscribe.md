@@ -30,9 +30,9 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
     margin-bottom: 20px;
     padding: 10px 10px;
     width: 300px;
-		border-radius: 20px;
-		-moz-border-radius: 20px;
-		-webkit-border-radius: 20px;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
 	}
 		#mailchimp input.email { background: #f0e8d9 }
 		#mailchimp input.name { background: #f0e8d9 }
