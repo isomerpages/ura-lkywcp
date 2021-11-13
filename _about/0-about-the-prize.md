@@ -1,6 +1,6 @@
 ---
 title: About the Prize
-permalink: /about/about-the-prize/
+permalink: /about-the-prize/
 ---
 
 ![medallion](/images/medallion-1280.jpg)
