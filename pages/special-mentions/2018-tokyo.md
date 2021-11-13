@@ -37,7 +37,7 @@ Tokyo is working towards a planned vision for its future. Under the [**<mark>Act
 
 ##### **In pictures** 
 
-| [Tokyo in pictures - a megacity that works](/resources/in-pictures/tokyo/) |
+| [Tokyo in pictures — a megacity that works](/resources/in-pictures/tokyo/) |
 
 ##### **Case studies** 
 
@@ -46,11 +46,11 @@ Tokyo is working towards a planned vision for its future. Under the [**<mark>Act
 ##### **Features** 
 
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Tokyo - the power of people-public-private partnerships](/resources/features/people-public-private-partnerships/) |
+| [Tokyo — the power of people-public-private partnerships](/resources/features/people-public-private-partnerships/) |
 
 ##### **Interviews** 
 
-| [Tokyo's CBD - from business district to vibrant hub](/resources/interviews/business-district-vibrant-hub/) |
+| [Tokyo's CBD — from business district to vibrant hub](/resources/interviews/business-district-vibrant-hub/) |
 
 ---
 
