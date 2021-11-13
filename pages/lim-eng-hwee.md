@@ -1,6 +1,6 @@
 ---
-title: Biography - Lim Eng Hwee
-permalink: /about/prize-jury/nominating-committee/lim-eng-hwee/
+title: Biography — Lim Eng Hwee
+permalink: /lim-eng-hwee/
 ---
 
 <div style="width:150px"><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /></div>
