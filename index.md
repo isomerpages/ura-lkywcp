@@ -23,7 +23,7 @@ sections:
         button: Find out more    
         url: /about/about-the-prize/
     - infopic:
-        title: Post-pandemic cities - how will they shape up?
+        title: Post-pandemic cities — how will they shape up?
         subtitle: Article spotlight
         description: What are some of the key focuses of cities in a post-pandemic world? We look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.
         button: Read More
