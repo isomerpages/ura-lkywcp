@@ -9,9 +9,7 @@ permalink: /feedback/
 
 #### **Contact us**
 
-| **Prize Secretary** | [Mr Larry Ng](/larry-ng/) |
 | **Mailing address** | **Lee Kuan Yew World City Prize Secretariat** <br> c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower <br> #13-01 <br> Singapore 069118 |
-| **Location** | [Google Maps](https://goo.gl/maps/UeauLzGxt7etbUzA9) |
 | **Phone** | +65 6321 6532 | 
 | **Email address** | [leekuanyew_worldcityprize@ura.gov.sg](mailto://leekuanyew_worldcityprize@ura.gov.sg) |
 
