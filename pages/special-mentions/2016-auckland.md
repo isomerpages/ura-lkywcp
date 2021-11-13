@@ -45,11 +45,11 @@ Auckland sends a message of exemplary significance to other cities that are seek
 
 ##### **In pictures** 
 
-| [Auckland in pictures - designing spaces, integrating people](/resources/in-pictures/auckland/) |
+| [Auckland in pictures — designing spaces, integrating people](/resources/in-pictures/auckland/) |
 
 #####  **Features** 
 
-| [4 different cities, 3 common themes - the 2016 Special Mention cities](/resources/features/four-different-cities/) |
+| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
 | [Transforming governance, placing people first](/resources/features/transforming-governance-placing-people-first/) |
 | [Reinventing Auckland through design](/resources/features/reinventing-auckland-through-design/) |
 
