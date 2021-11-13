@@ -33,7 +33,7 @@ The results will be announced via a dedicated media conference held in Singapore
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
-- [Contact us](/contact-us/)
+- [Contact us](/feedback/)
 
 ---
 
