@@ -1,6 +1,6 @@
 ---
-title: Biography - Helen Clark
-permalink: /about/prize-jury/prize-council/helen-clark/
+title: Biography — Helen Clark
+permalink: /helen-clark/
 ---
 
 <div style="width:150px"><img src="/images/jury/helen-clark.png" alt="Helen Clark" /></div>
