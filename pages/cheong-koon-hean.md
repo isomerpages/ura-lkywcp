@@ -1,6 +1,6 @@
 ---
-title: Biography - Cheong Koon Hean
-permalink: /about/prize-jury/nominating-committee/cheong-koon-hean/
+title: Biography — Cheong Koon Hean
+permalink: /cheong-koon-hean/
 ---
 
 <div style="width:150px"><img src="/images/jury/cheong-koon-hean.png" alt="Cheong Koon Hean" /></div>
