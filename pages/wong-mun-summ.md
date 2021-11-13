@@ -1,6 +1,6 @@
 ---
-title: Biography - Wong Mun Summ
-permalink: /about/prize-jury/nominating-committee/wong-mun-summ/
+title: Biography — Wong Mun Summ
+permalink: /wong-mun-summ/
 ---
 
 <div style="width:150px"><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /></div>
