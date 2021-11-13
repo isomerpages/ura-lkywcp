@@ -7,14 +7,20 @@ permalink: /feedback/
 
 ###### ![Feedback](/images/feedback.jpg/)**Illustration** © Stories/ Freepik.com
 
-#### **Mailing address**
+#### **Contact us**
 
-> | **Lee Kuan Yew World City Prize Secretariat**
-> | c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower <br> #13-01 <br> Singapore 069118 |
+> | **Mailing address** |
+> | Lee Kuan Yew World City Prize Secretariat <br> c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower <br> #13-01 <br> Singapore 069118 |
+> | **Phone** |
+> | +65 6321 6532 | 
+> | **Email address** |
+> | [leekuanyew_worldcityprize@ura.gov.sg](mailto://leekuanyew_worldcityprize@ura.gov.sg) |
 
 If the form below is not loaded, click [here](https://form.gov.sg/#!/5dca55f048e82f0012b1a3f8).
 
 ---
+
+#### **Feedback form**
 
 <div style="font-family:'Open Sans', Sans-Serif;font-size:18px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px"></div>
 
