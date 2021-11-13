@@ -123,7 +123,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 #### **When will the results be announced?**
 
-The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our mailing list](https://go.gov.sg/newsletter) to get our latest news in your inbox.
+The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our newsletter](/subscribe/) to get our latest news in your inbox.
 
 #### **Who will be invited to receive the award?**
 
