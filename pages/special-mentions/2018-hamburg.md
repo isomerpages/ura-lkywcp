@@ -39,7 +39,7 @@ Hamburg is also commendable for its push towards sustainable urban development t
 
 ##### **In pictures** 
 
-| [Hamburg in pictures - a welcoming city of opportunities](/resources/in-pictures/hamburg/) |
+| [Hamburg in pictures — a welcoming city of opportunities](/resources/in-pictures/hamburg/) |
 
 ##### **Case studies** 
 
@@ -48,4 +48,4 @@ Hamburg is also commendable for its push towards sustainable urban development t
 ##### **Features** 
 
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Hamburg transformed - how the city leads in urban regeneration](/resources/features/hamburg-transformed/) |
+| [Hamburg transformed — leading urban regeneration](/resources/features/hamburg-transformed/) |
