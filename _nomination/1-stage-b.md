@@ -3,7 +3,7 @@ title: Stage B
 permalink: /nominations/stageb/
 ---
 
-##### **Stage B closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [subscribe to our mailing list](https://go.gov.sg/newsletter).
+##### **Stage B closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [subscribe to our mailing list](/subscribe/).
 
 ###### ![Stage B Report](/images/stage-b-report.jpg/)**Illustration** © stories/ freepik.com
 
