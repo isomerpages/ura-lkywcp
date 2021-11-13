@@ -35,7 +35,7 @@ After completing [Stage A](//nominations/stagea), the nominated city will be inf
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
-- [Contact us](/contact-us/)
+- [Contact us](/feedback/)
 
 ---
 
