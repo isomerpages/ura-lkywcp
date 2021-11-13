@@ -35,6 +35,10 @@ The city is also a leader in partnering the industry to develop smart technologi
 
 | ▶️ [Nobuya Suzuki on driving change in Yokohama](https://youtu.be/Wqz9FdIgeIE) |
 
+##### **Features**
+
+| [Selling cities — the Yokohama story](/resources/features/selling-cities-yokohama-story/) |
+
 ---
 
 [^1]: Up to 2014.
