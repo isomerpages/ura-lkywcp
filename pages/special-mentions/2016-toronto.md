@@ -40,12 +40,12 @@ Despite limited support from the Federal and Provincial governments and a ‘wea
 
 ##### **In pictures** 
 
-| [Toronto in pictures - Toronto revitalised](/resources/in-pictures/toronto/) |
+| [Toronto in pictures — Toronto revitalised](/resources/in-pictures/toronto/) |
 
 ##### **Features** 
 
-| [4 different cities, 3 common themes - the 2016 Special Mention cities](/resources/features/four-different-cities/) |
-| [From industrial portlands to a vibrant waterfront - Toronto's transformation](/resources/features/torontos-transformation/) |
+| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
+| [Toronto — from industrial portlands to vibrant waterfront](/resources/features/torontos-transformation/) |
 
 ---
 
