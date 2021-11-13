@@ -13,8 +13,8 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Prize Laureates
-              description: 
+            - title: 
+              description: Prize Laureates
               url: /cities/laureates/
     - infobar:    
         title: The Prize
