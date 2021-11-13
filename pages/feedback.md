@@ -5,7 +5,7 @@ permalink: /feedback/
 
 ###### ![Feedback](/images/feedback.jpg/)**Illustration** © Stories/ Freepik.com
 
-If the form below is not loaded, click [here](https://form.gov.sg/5f376d3b8fd842001160fc4a).
+If the form below is not loaded, click [here](https://form.gov.sg/#!/5dca55f048e82f0012b1a3f8).
 
 ---
 
