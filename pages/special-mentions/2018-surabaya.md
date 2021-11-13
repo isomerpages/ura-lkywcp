@@ -42,7 +42,7 @@ The involvement and commitment of both the people and then-Mayor Rismaharini wor
 
 ##### **In pictures** 
 
-| [Surabaya in pictures - a modern kampung city](/resources/in-pictures/surabaya/) |
+| [Surabaya in pictures — a modern kampung city](/resources/in-pictures/surabaya/) |
 
 ##### **Case study** 
 
@@ -51,7 +51,7 @@ The involvement and commitment of both the people and then-Mayor Rismaharini wor
 ##### **Features** 
 
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Surabaya - preserving the past, conserving the future](/resources/features/preserving-past-conserving-future/) |
+| [Surabaya — preserving the past, conserving the future](/resources/features/preserving-past-conserving-future/) |
 
 ##### **Interviews** 
 
