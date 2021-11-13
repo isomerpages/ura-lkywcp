@@ -47,7 +47,7 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 			padding: 10px 10px;
 
 		}
-			#mailchimp input[type="submit"]:hover { color: #373531 }
+			#mailchimp input[type="submit"]:hover { color: #fff; font-style: bold; }
 </style>
 			
 <div id="mailchimp">
