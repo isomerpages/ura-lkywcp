@@ -146,7 +146,7 @@ For COVID-19-related measures and travel restrictions in Singapore, please visit
 
 ---
 
-For other enquiries, please [contact us](/contact-us/). 
+For other enquiries, please [contact us](/feedback/). 
 
 ---
 
