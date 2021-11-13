@@ -10,7 +10,7 @@ permalink: /feedback/
 #### **Mailing address**
 
 | **Lee Kuan Yew World City Prize Secretariat** |
-| c/o Urban Redevelopment Authority<br>
+| c\o Urban Redevelopment Authority<br>
 45 Maxwell Road<br>
 The URA Centre, Tower<br>
 13-01<br>
