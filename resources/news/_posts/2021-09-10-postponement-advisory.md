@@ -17,7 +17,7 @@ WCS 2022 had originally been scheduled to take place from 17 to 21 April, in con
 
 Similarly, the Lee Kuan Yew World City Prize events will be rescheduled to take place together with WCS within the period of 31 July to 3 August 2022. The results of the 2020 Prize will also be announced at a later date. Watch this space for further updates.
 
-For any queries, please get in touch with us at [leekuanyew_worldcityprize@ura.gov.sg](mailto://leekuanyew_worldcityprize@ura.gov.sg). [Subscribe to our newsletter](https://go.gov.sg/newsletter) to get the latest updates in your inbox.
+For any queries, please [contact us](/feedback/) or [subscribe to our newsletter](/subscribe/) to get the latest updates in your inbox.
 
 Thank you.
 
