@@ -45,7 +45,7 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 			cursor: pointer;
 			font-size: 18px;
 			font-style: bold;
-			width: 38%;
+			width: 150px;
 			padding: 10px 0px 10px 0px;
 
 		}
