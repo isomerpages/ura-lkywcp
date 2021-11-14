@@ -1,6 +1,6 @@
 ---
 title: Prize Council
-permalink: /about/prize-council
+permalink: /prize-council/
 ---
 
 #### **Role of the Prize Council**
