@@ -44,7 +44,8 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 			color: #fff;
 			cursor: pointer;
 			font-size: 18px;
-			width: 35%;
+			font-style: bold;
+			width: 38%;
 			padding: 10px 0px 10px 0px;
 
 		}
@@ -54,9 +55,9 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 <div id="mailchimp">
 	<form action="https://leekuanyewworldcityprize.us20.list-manage.com/subscribe/post?u=9ba93559f08e773e70d4115c4&amp;id=412167998e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 
-		<input type="email" size="30" value="Email" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" size="30" value="Name" name="FNAME" class="name" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" size="30" value="Designation" name="ROLE" class="role" id="mce-ROLE" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="email" size="30" value="Email" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"> <br>
+		<input type="text" size="30" value="Name" name="FNAME" class="name" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"> <br>
+		<input type="text" size="30" value="Designation" name="ROLE" class="role" id="mce-ROLE" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"> <br>
 		<input type="text" size="30" value="City" name="CITY" class="city" id="mce-CITY" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 
 		<div id="mce-responses" class="clear">
