@@ -1,6 +1,6 @@
 ---
 title: Evaluations
-permalink: /nominations/evaluations/
+permalink: /evaluations/
 ---
 
 ##### The evaluations of the 2020 Prize have concluded. The results will be announced at a later date. 
@@ -9,7 +9,7 @@ permalink: /nominations/evaluations/
 
 #### **Evaluation process**
 
-All submissions are evaluated through a rigorous two-tier process comprising the [Nominating Committee](/about/nominating-committee/) and [Prize Council](/about/prize-council/). Both panels consist of prominent practitioners, policy makers, academics and experts from a wide range of disciplines in the public and private sectors.
+All submissions are evaluated through a rigorous two-tier process comprising the [Nominating Committee](/nominating-committee/) and [Prize Council](/prize-council/). Both panels consist of prominent practitioners, policy makers, academics and experts from a wide range of disciplines in the public and private sectors.
 
 #### **Judging criteria**
 
