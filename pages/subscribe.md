@@ -19,7 +19,7 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 #mailchimp {
 	background: #ffffff;
 	color: #967942;
-	padding: 20px 30px 20px 0px;
+	padding: 20px 50px 20px 0px;
 }
 	#mailchimp input {
 		 border: medium none;
