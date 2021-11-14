@@ -1,6 +1,6 @@
 ---
 title: Prize Laureates
-permalink: /cities/laureates/
+permalink: /laureates/
 ---
 
 ![Prize Laureates](/images/laureates/worldmap-laureates.jpg/)
