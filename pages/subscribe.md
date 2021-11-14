@@ -35,10 +35,10 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
-		#mailchimp input.email { background: #f0e8d9 }
-		#mailchimp input.name { background: #E2E2E2 }
-		#mailchimp input.role { background: #E2E2E2 }
-		#mailchimp input.city { background: #E2E2E2 }
+		#mailchimp input.email { background: #F5F5F5 }
+		#mailchimp input.name { background: #F5F5F5 }
+		#mailchimp input.role { background: #F5F5F5 }
+		#mailchimp input.city { background: #F5F5F5 }
 		#mailchimp input[type="submit"] {
 			background: #967942;
 			color: #fff;
