@@ -5,7 +5,7 @@ permalink: /nominating-committee/
 
 #### **Role of the Nominating Committee**
 
-The Nominating Committee reviews and examines submissions, and recommends potential Laureates to the [Prize Council](/about/prize-council/).
+The Nominating Committee reviews and examines submissions, and recommends potential Laureates to the [Prize Council](/prize-council/).
 
 #### **Chair of the Nominating Committee 2020**
 
