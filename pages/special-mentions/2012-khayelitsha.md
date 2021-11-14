@@ -3,7 +3,7 @@ title: 2012 Special Mention — Khayelitsha
 permalink: /khayelitsha/
 ---
 
-##### AHT Group AG & Sun Development (Khayelitsha) are recognised for its prevention of violence through their comprehensive Urban Upgrading (VPUU) Programme.
+##### AHT Group AG & Sun Development (Khayelitsha) are recognised for its prevention of violence through their comprehensive Urban Upgrading (VPUU) Programme.[^1]
 
 ###### ![Khayelitsha](/images/special-mentions/khayelitsha.jpg)**Harare Urban Park** © SUN Development
 
@@ -24,3 +24,7 @@ The scheme is already accepted by Cape Town for emulation in comparable areas an
 ##### **YouTube videos**
 
 | ▶️ [Prize Forum 2012: Cape Town — violence prevention through urban upgrading](https://youtu.be/39r96ZESjvU) |
+
+---
+
+[^1]: Since 2014, the Prize accepted nominations from cities only, unlike the first two editions (2010 and 2012) where individuals and organisations were also eligible. This approach emphasises how successful cities require cooperation and collaboration across the different sectors. Key leaders, organisations and partners will still be recognised as part of the nomination. AHT Group AG & Sun Development is recognised under the 'organisations' category for the 2012 Prize.
