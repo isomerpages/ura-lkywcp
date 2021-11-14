@@ -3,7 +3,7 @@ title: 2010 Special Mention — Dr Jaime Lerner
 permalink: /jaime-lerner/
 ---
 
-##### The late Dr Jaime Lerner is recognised for implementing impactful urban solutions during his term as the mayor of Curitiba and the governor of Paraná.
+##### The late Dr Jaime Lerner is recognised for implementing impactful urban solutions during his term as the mayor of Curitiba and the governor of Paraná.[^1]
 
 ###### ![Jaime Lerner](/images/special-mentions/jaime-lerner.jpg)**The late Dr Jaime Lerner** © Instituto Jaime Lerner
 
@@ -20,3 +20,7 @@ Most importantly, these strategies deliver tangible benefits to a wide spectrum 
 ##### **Biography**
 
 | The late Dr Jaime Lerner was an architect and urban planner, founder of the Jaime Lerner Institute and chairman of Jaime Lerner Arquitetos Associados (JLAA). Former president of the UIA – International Union of Architects in the 2002/2005 term, three-time mayor of Curitiba, Brazil, he led the urban revolution that made the city renowned for urban planning, public transportation, environmental social programmes and urban projects. He served as governor of Parana State twice and conducted an economic and social transformation both in the urban and rural areas. [More](https://www.jaimelerner.com/team/jaime-lerner?lang=en) |
+
+---
+
+[^1]: Since 2014, the Prize accepted nominations from cities only, unlike the first two editions (2010 and 2012) where individuals and organisations were also eligible. This approach emphasises how successful cities require cooperation and collaboration across the different sectors. Key leaders, organisations and partners will still be recognised as part of the nomination. The late-Mrs Sheila Dikshit was recognised under the individuals category for the 2010 Prize.
