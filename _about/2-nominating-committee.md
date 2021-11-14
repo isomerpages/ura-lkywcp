@@ -1,6 +1,6 @@
 ---
 title: Nominating Committee
-permalink: /about/nominating-committee
+permalink: /nominating-committee/
 ---
 
 #### **Role of the Nominating Committee**
