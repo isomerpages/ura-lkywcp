@@ -28,8 +28,8 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
     font-size: 18px;
     font-style: nil;
     margin-bottom: 20px;
-    padding: 10px 50px 10px 10px;
-    width: 300px;
+    padding: 10px 10px;
+    width: 500px;
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
