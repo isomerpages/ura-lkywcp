@@ -36,9 +36,9 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 		-webkit-border-radius: 5px;
 	}
 		#mailchimp input.email { background: #f0e8d9 }
-		#mailchimp input.name { background: #f0e8d9 }
-		#mailchimp input.role { background: #f0e8d9 }
-		#mailchimp input.city { background: #f0e8d9 }
+		#mailchimp input.name { background: #E2E2E2 }
+		#mailchimp input.role { background: #E2E2E2 }
+		#mailchimp input.city { background: #E2E2E2 }
 		#mailchimp input[type="submit"] {
 			background: #967942;
 			color: #fff;
