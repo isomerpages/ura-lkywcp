@@ -44,7 +44,7 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 			color: #fff;
 			cursor: pointer;
 			font-size: 18px;
-			width: 40%;
+			width: 35%;
 			padding: 10px 10px;
 
 		}
