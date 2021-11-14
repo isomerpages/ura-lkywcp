@@ -3,11 +3,11 @@ title: 2012 Joint Special Mention — Copenhagen and Malmö
 permalink: /copenhagen-malmo/
 ---
 
-***Copenhagen and Malmö are jointly recognised for their close collaboration and a shared vision across borders.***
+##### Copenhagen and Malmö are jointly recognised for their close collaboration and a shared vision across borders.
 
-![Øresund bridge](/images/special-mentions/copenhagen.jpg)*Øresund Bridge © Copenhagen*
+###### ![Øresund bridge](/images/special-mentions/copenhagen.jpg)**Øresund Bridge** © City of Copenhagen
 
-**COPENHAGEN AND MALMÖ** are jointly recognised for their close collaboration at government and business levels, and shared vision of a holistic set of economic, environmental and socially sustainable goals.
+<b><font color="#967942">COPENHAGEN AND MALMÖ</font></b> are jointly recognised for their close collaboration at government and business levels, and shared vision of a holistic set of economic, environmental and socially sustainable goals.
 
 #### **Pooling resources**
 
@@ -22,6 +22,22 @@ Malmö, which has established itself as Sweden’s best city for cycling, aims t
 The remarkable level of collaboration to achieve successful outcomes demonstrates the need for creative re-thinking of the structure of government and cities beyond municipal and national boundaries. The cities of Copenhagen and Malmö are exemplary for their forward-thinking vision and strategies. **<font color="#967942">O</font>**
 
 ---
+
+##### **City profile (Copenhagen)**
+
+| **Mayor** | Lars Weiss (Acting) (2020 - date) <br> Frank Jensen (2010 - 2020) |
+| **Area** | 88.25 km<sup>2</sup> |
+| **Population** | 602,481 people (2017) | 
+| **Density** | 6,827 per km<sup>2</sup> |
+| **Master plan** | [Københavns Kommuneplan 2019](https://www.kp19.kk.dk) |
+
+##### **City profile (Malmö)**
+
+| **Mayor** | Sara Katrin Stjernfeldt Jammeh (2013 - date) <br> Ilmar Reepalu (1995 - 2013) |
+| **Area** | 158.4 km<sup>2</sup> |
+| **Population** | 344,166 people (2019) | 
+| **Density** | 2,173 per km<sup>2</sup> |
+| **Master strategy** | [Comprehensive Plan for Malmö](https://malmo.se/download/18.6c44cd5c17283283332b3de/1592233669232/OP_english_summary_lores.pdf) |
 
 ##### **YouTube videos**
 

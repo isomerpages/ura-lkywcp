@@ -9,9 +9,11 @@ description: By targeting pollutive construction, cities can eliminate a signifi
 |---:|
 | Feng Zengkun |
 
-***By targeting pollutive construction, cities can eliminate a significant portion of their greenhouse gas emissions and clear their path to a more sustainable future. These are some of the cities leading the way through measures such as mandating zero-emissions construction sites, developing low-carbon materials and 3D-printing buildings.***
+##### By targeting pollutive construction, cities can eliminate a significant portion of their greenhouse gas emissions and clear their path to a more sustainable future. These are some of the cities leading the way through measures such as mandating zero-emissions construction sites, developing low-carbon materials and 3D-printing buildings.
 
-![How can cities eliminate pollutive construction?](/images/features/2021/clean-construction.jpg/)*How can cities eliminate pollutive construction? Photo: [onlyyouqj](https://www.freepik.com)*
+> ###### **Cities mentioned in this article:** <br> Oslo, London, Los Angeles, Vancouver BC, Honolulu, Sydney, Dubai, Cardiff, Beijing
+
+###### ![How can cities eliminate pollutive construction?](/images/features/2021/clean-construction.jpg/)**How can cities eliminate pollutive construction?** © onlyyouqj/ freepik.com
 
 In November 2020, the Mayors of Oslo, Budapest, Mexico City and Los Angeles [pledged to halve their cities’ greenhouse gas emissions from construction by 2030](https://www.c40.org/press_releases/clean-construction-declaration-launch), aiming to play their part to make the carbon-intensive construction sector more environmentally friendly. Among other measures, the cities will normalise the use of electric machinery in construction by employing them in government projects, approve at least one flagship net-zero emissions construction project by 2025, and publish annual reports on their progress.
 
@@ -31,7 +33,7 @@ As part of its wide-ranging efforts to become a carbon-neutral city by 2050, Los
 
 #### **Looking beyond concrete**
 
-![Can cities use timber more extensively as a concrete alternative?](/images/features/2021/timber-construction.jpg/)*Can cities use timber more extensively as a concrete alternative? Photo: brizmaker © 123rf.com*
+###### ![Can cities use timber more extensively as a concrete alternative?](/images/features/2021/timber-construction.jpg/)**Can cities use timber more extensively as a concrete alternative?** © brizmaker/ 123rf.com
 
 Some cities are [encouraging developers to replace concrete](https://www.sciencedaily.com/releases/2020/03/200323132416.htm), a carbon-intensive product that is responsible for eight percent of global emissions, with sustainable alternatives. Vancouver in Canada has [provided technical assistance to firms building with mass timber](https://council.vancouver.ca/20200527/documents/pspc2.pdf?utm_source=vancouver%20is%20awesome&utm_campaign=vancouver%20is%20awesome&utm_medium=referral), which is made up of small pieces of lumber laminated together to form fire-resistant components for floors, walls, columns and beams, because it could reduce construction’s embodied emissions by 25 to 45 percent or more. 
 
@@ -41,14 +43,17 @@ Several cities, including Honolulu in the state of Hawaii in the United States a
 
 Sydney developed lower-carbon concrete made partially from waste from its coal-fired power stations and steel manufacturing plants, and is currently [trialling the material’s performance and durability on a major road leading to the Sydney Airport](https://news.cityofsydney.nsw.gov.au/articles/sydney-drives-world-first-green-roads-trial). The city calculated that its concrete’s production generates just one third of the emissions of traditional concrete, and researchers will use the trial’s findings to formulate guidelines for its wider application.
 
-#### **Of printing and prefabrication**
+<br>
+> ##### "We need to unite businesses, industry and government on all levels to advance climate action. Together, we can ensure that the air in our cities is cleaner and healthier to breathe."
 
-> "We need to unite businesses, industry and government on all levels to advance climate action. Together, we can ensure that the air in our cities is cleaner and healthier to breathe."
+<div align="right"><b>— Mr Raymond Johansen</b> <br> Governing Mayor of Oslo</div>
+
+#### **Of printing and prefabrication**
 
 As technologies mature, they can open up opportunities for cities. With 3D printing machines becoming increasingly versatile and powerful, Dubai in the United Arab Emirates has [set the goal of using them in at least 25 percent of new buildings’ construction by 2030](https://gulfbusiness.com/dubai-plans-to-3d-print-25-of-buildings-by-2030/), to cut labour costs by 50 to 80 percent, construction waste by up to 60 percent, and overall costs by 50 to 70 percent. In traditional building projects, workers put together wooden forms and pour concrete into them to make walls and other structures. Depending on the complexity of the building’s design, some forms may be used only once. By using 3D printing for construction, no forms are needed, eliminating a significant source of waste, among others. 
 
 When Dubai used the technology in 2019 to [erect an ambitious 640-square-metre, two-storey building for the city’s administration](https://www.thenationalnews.com/uae/government/dubai-unveils-world-s-largest-3d-printed-two-storey-building-1.927590), which is still the world’s largest 3D printed building, it completed the construction in two weeks, halved the number of workers required to 15, decreased its cost from about AED 2.5 million to under AED 1 million (approximately USD $680,740 to under USD $272,230), and produced 60 percent less waste, benefiting the environment. To further the use of 3D printing in construction and other fields, the city will [establish a district devoted to its development and deployment](https://u.ae/en/about-the-uae/science-and-technology/key-sectors-in-science-and-technology/3d-printing), with research centres, start-ups, international firms and business accelerator programmes.
 
-Cardiff in Wales and Beijing in Shanghai, on the other hand, are among the cities tapping prefabricated construction to minimise their carbon footprint. Mr Edward Rees, regional director of housing construction firm Wates Residential which was appointed by the Cardiff Council to pilot prefabricated, affordable public homes in the city in 2019, noted that manufacturing their components off-site in indoor, [controlled conditions decreases energy use](https://www.wates.co.uk/articles/news/modular-housing-cardiff/). “It also shortens our time on-site, reducing emissions and disruptions for residents,” he said. Beijing, for its part, has been [using prefabricated components to build all new public subsidised homes and government-invested buildings](http://www.chinadaily.com.cn/china/2017-01/05/content_27873828.htm). 
+Cardiff in Wales and Beijing in China, on the other hand, are among the cities tapping prefabricated construction to minimise their carbon footprint. Mr Edward Rees, regional director of housing construction firm Wates Residential which was appointed by the Cardiff Council to pilot prefabricated, affordable public homes in the city in 2019, noted that manufacturing their components off-site in indoor, [controlled conditions decreases energy use](https://www.wates.co.uk/articles/news/modular-housing-cardiff/). “It also shortens our time on-site, reducing emissions and disruptions for residents,” he said. Beijing, for its part, has been [using prefabricated components to build all new public subsidised homes and government-invested buildings](http://www.chinadaily.com.cn/china/2017-01/05/content_27873828.htm). 
 
 When Mr Johansen announced Oslo’s pledge to halve its construction emissions, he stressed that cities must do more to shift the sector onto a more sustainable path. He said: “We need to unite businesses, industry and government on all levels to advance climate action. Together, we can remove fossil fuels and reduce emissions from construction sites altogether. This will make them safer, quieter, cleaner places to work, and ensure that the air in our cities is cleaner and healthier to breathe.” **<font color="#967942">O</font>**

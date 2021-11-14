@@ -1,6 +1,6 @@
 ---
 title: Centre for Liveable Cities
-permalink: /organiser/clc/
+permalink: /clc/
 ---
 
 <div style="width:300px"><img src="/images/clclogo.png" alt="Centre for Liveable Cities" /></div>

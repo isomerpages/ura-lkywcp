@@ -5,11 +5,11 @@ image: /images/features/2019/nyc-highline-case-study.jpg
 description: The High Line in New York City needs no introduction. Its huge success has already inspired and spurred many other similar urban rejuvenation projects around the world. In this case study, we revisit the origins of this ground-breaking project and the remarkable story of how the 2012 Prize Laureate city fought to create a truly original landmark.
 ---
 
-***The High Line in New York City needs no introduction. Its huge success has already inspired and spurred many other similar urban rejuvenation projects around the world. In this case study, we revisit the origins of this ground-breaking project and the remarkable story of how the 2012 Prize Laureate city fought to create a truly original landmark.*** 
+##### The High Line in New York City needs no introduction. Its huge success has already inspired and spurred many other similar urban rejuvenation projects around the world. In this case study, we revisit the origins of this ground-breaking project and the remarkable story of how the 2012 Prize Laureate city fought to create a truly original landmark. 
 
 <br>
 
-| **City** | New York City |
+| **City** | [New York City](/nyc/) |
 | **Type** | Urban regeneration |
 | **Completion** | Completed in 2014 |
 | **Size** | 2.33 kilometres |
@@ -17,7 +17,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **In brief**
 
-![The West Chelsea/High Line Plan](/images/features/2019/west-chelsea-plan.jpg/)*The West Chelsea/High Line Plan © NYC Department of City Planning*
+###### ![The West Chelsea/High Line Plan](/images/features/2019/west-chelsea-plan.jpg/)**The West Chelsea/High Line Plan** © NYC Department of City Planning
 
 - The West Chelsea/High Line Plan is a Special Zoning District that adopts innovative regulatory and urban design framework for the development of new and affordable housing and preservation of the city’s premier art gallery district. 
 - The Plan centred on the transformation of the 2.4-kilometre High Line, an abandoned elevated rail line running though the district into a unique elevated linear park, features a Transfer of Development Rights (TDR) scheme that allows owners of property within the High Line Transfer Corridor to transfer their development rights to ‘designated’ receiving sites within the special district.
@@ -28,7 +28,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Key issues faced before the implementation of the project**
 
-![The High Line before its rejuvenation](/images/features/2019/highline-before.jpg/)*The High Line before its rejuvenation © NYC Department of City Planning*
+###### ![The High Line before its rejuvenation](/images/features/2019/highline-before.jpg/)**The High Line before its rejuvenation** © NYC Department of City Planning
 
 - West Chelsea was dominated by underutilised buildings and parking lots, due to the area’s light manufacturing zoning. Hence, the vibrant residential core of Chelsea has not been able to expand to extend westwards.   
 - A critical need for new and affordable housing in the West Chelsea area.  
@@ -47,7 +47,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Creativity and innovation**
 
-![Floor area transfer mechanism](/images/features/2019/floor-area-transfer-mechanism.png/)*Floor area transfer mechanism © NYC Department of City Planning*
+###### ![Floor area transfer mechanism](/images/features/2019/floor-area-transfer-mechanism.png/)**Floor area transfer mechanism** © NYC Department of City Planning
 
 - The West Chelsea plan demonstrates that innovative zoning tools can be a powerful tool for unlocking development potential and creating new public assets that benefit the entire city.
 - The unique floor area transfer mechanism allows owners below the High Line to transfer their development rights to sites within a designated area, thus enabling these sites to realise their developmental potential and spur unrealised growth potential within the district.  It also preserves light, air and views around the High Line open space.
@@ -59,22 +59,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Impacts of the project**
 
-<table style="width: 100%;" cellpadding="0">
-<tbody>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/workers.png" alt="workers" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>8 million visitors per year<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/company.png" alt="company" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>USD $2 billion private investment<br></td>
-</tr>
-<tr>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/park.png" alt="park" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Improved quality of life<br></td>
-<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/features/2019/exhibition.png" alt="exhibition" /><br></td>
-<td style="text-align: left; vertical-align: top;"><br>Art gallery district increased<br></td>
-</tr>
-</tbody>
-</table>*Icons made by Freepik from [www.flaticon.com](http://www.flaticon.com/)*
+###### ![Impacts](/images/features/2019/impacts-nyc1.png/)
 
 - West Chelsea has transformed from an underutilised manufacturing area into a premier neighbourhood in the city.
 Quality of life of residents and business owners improved. 

@@ -1,17 +1,17 @@
 ---
-title: Investing in culture and people - Bilbao looks ahead to the future
+title: Juan María Aburto on investing in culture and people
 permalink: /resources/interviews/investing-culture-people/
 image: /images/features/2017/juan-maria-aburto.jpg
-description: Bilbao was the first Laureate of the Lee Kuan Yew World City Prize in 2010. Since then, the Spanish city has continued to champion the urban transformation of its formerly industrial landscape and forge partnerships both within and beyond its borders. Mayor Juan María Aburto shared his thoughts on Bilbao’s efforts to become a smart city of culture, knowledge and innovation in this special interview.
+description: Since winning the inaugural Prize, Bilbao has continued to champion the transformation of its former industrial landscape and forge partnerships both within and beyond its borders. Mayor Juan María Aburto shared his thoughts on Bilbao becoming a smart city of culture, knowledge and innovation.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Marcus Ng |
 
-***Bilbao was the first Laureate of the Lee Kuan Yew World City Prize in 2010. Since then, the Spanish city has continued to champion the urban transformation of its formerly industrial landscape and forge partnerships both within and beyond its borders. Mayor Juan María Aburto shared his thoughts on Bilbao’s efforts to become a smart city of culture, knowledge and innovation in this special interview.***
+##### Since winning the inaugural Prize, Bilbao has continued to champion the transformation of its former industrial landscape and forge partnerships both within and beyond its borders. Mayor Juan María Aburto shared his thoughts on Bilbao becoming a smart city of culture, knowledge and innovation.
 
-![Mayor of Bilbao Juan María Aburto](/images/features/2017/juan-maria-aburto.jpg/)*Mayor of Bilbao Juan María Aburto © Lee Kuan Yew World City Prize*
+###### ![Mayor of Bilbao Juan María Aburto](/images/features/2017/juan-maria-aburto.jpg/)**Mayor of Bilbao Juan María Aburto** © Urban Redevelopment Authority Singapore
 
 #### **Could you share about the impact to Bilbao of being the first Laureate of the Lee Kuan Yew World City Prize?**
 
@@ -27,16 +27,20 @@ As you know, our most important cultural icon is the Guggenheim Museum for moder
 
 For instance, one of our most renowned features is our cuisine and gastronomy: there are only two million people in the Basque Country but we have 30 Michelin-starred restaurants. The opening of the Azkuna Zentroa, named after the former Mayor of Bilbao, the late Iñaki Azkuna (1943 – 2014) is the latest development on our cultural front. This is a major cultural and sports facility for both our population and the more than one million guests we receive every year.
 
+<br>
 > | **Azkuna Zentroa** |
 > | Opened in 2010 as Alhóndiga Bilbao, Azkuna Zentroa serves as an integrated centre for arts, cultural, leisure and sports activities. The centre’s ultra-modern facilities are housed within a wine warehouse built in 1905, which was restored as part of Bilbao’s urban renewal efforts to transform from an industrial metropolis into a modern city of culture. It was renamed Azkuna Zentroa on 16 March 2015 to honour Iñaki Azkuna, Mayor of Bilbao from 1999-2014. |
 
-![The new Azkuna Zentroa cultural centre](/images/features/2017/azkuna-zentroa.jpg/)*The new Azkuna Zentroa cultural centre © Azkuna Zentroa, Leisure and Culture*
+###### ![The new Azkuna Zentroa cultural centre](/images/features/2017/azkuna-zentroa.jpg/)**The new Azkuna Zentroa cultural centre** © Azkuna Zentroa, Leisure and Culture
 
-From both the urban and economic perspectives, the most important project we have is the Zorrotzaurre – an area of 800,000 square metres that was formerly a peninsula by the Nervión River. This long peninsula is being transformed into an island on the river and will become a “Knowledge Island” or an “Island of Talent”.
+From both the urban and economic perspectives, the most important project we have is the Zorrotzaurre – an area of 800,000 square metres that was formerly a peninsula by the Nervión River. This long peninsula is being transformed into an island on the river and will become a 'Knowledge Island' or an 'Island of Talent'.
 
 This year, the peninsula will become an island and we are going to build more than 5,000 buildings on it. Transforming the entire island will be a long-term project that will take 15-20 years. Zorrotzaurre will be a mix of residential and commercial developments, including an urban scientific park. These activities will be crucial for the development of a new digital economy in Bilbao.
 
-> “We congratulated ourselves but we have not stood still. Instead, we continued working to improve the city and tackle new projects and challenges.”
+<br>
+> ##### “We congratulated ourselves but we have not stood still. Instead, we continued working to improve the city and tackle new projects and challenges.”
+
+<div align="right"><b>— Juan María Aburto</b><br>Mayor, Bilbao</div>
 
 #### **What are the key challenges faced by Bilbao?**
 
@@ -46,10 +50,11 @@ One way we are doing this is by tapping on our experience in urban transformatio
 
 Attracting people with knowledge and talent will be another key challenge. We want to be a smart city. In a way we are already a smart city due to our strong culture of innovation, which is not only technology but also the strong collaboration between agencies, institutions and enterprises. As a result of these public-private partnerships, we have achieved good results in our urban transformation and we want to continue to improve on this.
 
+<br>
 > | **Zorrotzaurre: Industrial peninsula to Island of Talent** |
 > | Like many other parts of Bilbao, Zorrotzaurre was an industrial area in the 1960s but became derelict by the 1980s. To rejuvenate the area, Bilbao approved a master plan in 2012, led by Zaha Hadid Architects, to transform Zorrotzaure into a new urban quarter with affordable housing, environmentally friendly business zones and ample green, cultural and creative spaces for residents and visitors. |
 
-![The new Zorrotzaurre district](/images/features/2017/zorrotzaurre.jpg/)*The new Zorrotzaurre district © Zorrotzaurre Management Commission*
+###### ![The new Zorrotzaurre district](/images/features/2017/zorrotzaurre.jpg/)**The new Zorrotzaurre district** © Zorrotzaurre Management Commission
 
 #### **How are you investing in your people and urban communities?**
 
@@ -59,7 +64,10 @@ Social cohesion is very important to us. To maintain our social fabric, we are i
 
 We are also trying to develop entrepreneurship, which is closely linked to innovation and most developed in dense, urban areas. Bilbao is a city with many small neighbourhoods. Thus, we are building spaces in these neighbourhoods to give opportunities and places for people to develop their own business projects, start-ups and incubation centres.
 
-> “We have had an urban transformation, but what we want in the future is a transformation of our people, and this has to come from the knowledge and talent of our people and from the universities.”
+<br>
+> ##### “We have had an urban transformation, but what we want in the future is a transformation of our people, and this has to come from the knowledge and talent of our people and from the universities.”
+
+<div align="right"><b>— Juan María Aburto</b><br>Mayor, Bilbao</div>
 
 #### **What have you learned from this visit to the World Cities Summit?**
 

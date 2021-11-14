@@ -1,12 +1,11 @@
 ---
-title: Biography - Marilyn Taylor
-permalink: /about/prize-jury/nominating-committee/marilyn-taylor/
+title: Biography — Marilyn Taylor
+permalink: /marilyn-taylor/
 ---
 
 <div style="width:150px"><img src="/images/jury/marilyn-taylor.png" alt="Marilyn Taylor" /></div>
 
-**Prof Marilyn Jordan Taylor**<br>
-Professor of Architecture and Urban Design, Former Dean, School of Design, University of Pennsylvania, USA
+##### **Prof Marilyn Jordan Taylor** <br> Professor of Architecture and Urban Design, Former Dean <br> School of Design, University of Pennsylvania <br> USA
 
 ---
 

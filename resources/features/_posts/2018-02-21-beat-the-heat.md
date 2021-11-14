@@ -1,17 +1,19 @@
 ---
-title: Beat the heat - how cities are keeping cool
+title: Beat the heat — cooling cities
 permalink: /resources/features/beat-the-heat/
 image: /images/features/2018/beat-the-heat.jpg
-description: Rising temperatures across the world are casting a spotlight on the need to provide cooling in cities without worsening climate change or overburdening urban power grids. From district cooling systems in Singapore to white roofs in Ahmedabad and wind corridors in Guiyang, here’s a look at how some cities are implementing sustainable cooling projects to help their citizens to beat the heat.  
+description: Rising temperatures are casting a spotlight on the need to provide cooling in cities without worsening climate change or overburdening power grids. From district cooling systems in Singapore to white roofs in Ahmedabad and wind corridors in Guiyang, cities are implementing sustainable cooling projects to help their citizens beat the heat.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***Rising temperatures across the world are casting a spotlight on the need to provide cooling in cities without worsening climate change or overburdening urban power grids. From district cooling systems in Singapore to white roofs in Ahmedabad and wind corridors in Guiyang, here’s a look at how some cities are implementing sustainable cooling projects to help their citizens to beat the heat.***
+##### Rising temperatures are casting a spotlight on the need to provide cooling in cities without worsening climate change or overburdening power grids. From district cooling systems in Singapore to white roofs in Ahmedabad and wind corridors in Guiyang, cities are implementing sustainable cooling projects to help their citizens beat the heat.
 
-![Air-con compressors](/images/features/2018/beat-the-heat.jpg/)*© nordroden / 123RF Stock Photo*
+> ###### **Cities mentioned in this article:** <br> New York City, Ahmedabad, Sydney, Melbourne, Darwin, Penrith, Guiyang, Singapore, Cyberjaya
+
+###### ![Air-con compressors](/images/features/2018/beat-the-heat.jpg/)**How can cities cool themselves without worsening climate change?** © nordroden/ 123rf.com
 
 In January 2018, parts of Australia became so hot that a stretch of the asphalt highway connecting Sydney and Melbourne melted and blackouts occurred [because too many people switched on their air-conditioners](https://www.nytimes.com/2018/01/07/world/australia/heat-wave.html). The scariest part of the heatwave, however, was that it could become the norm for the country in the near future.
 
@@ -21,11 +23,14 @@ The rising mercury not only poses health risks in the form of heat exhaustion an
 
 To combat the projected rise in temperatures and occurrence of heatwaves, cities from New York City in the United States to Ahmedabad in India and Penrith in Australia have been developing heat action plans and implementing sustainable mitigation measures.
 
-> “The rising mercury not only poses health risks in the form of heat exhaustion and heat strokes, but could also stress cities’ energy systems through the increased use of air-conditioning and disproportionately affect low-income families who cannot afford cooling technologies such as air-conditioners and refrigerators.”
+<br>
+> ##### “Seventeen of the 18 warmest years on record have been during this century, and the degree of warming during the past three years \[2015-2017] has been exceptional.”
+
+<div align="right"><b>— World Meteorological Organisation</b></div>
 
 #### **White roofs and green streets**
 
-Both New York City and Ahmedabad have started carrying out “cool roof” programmes to reduce their urban temperatures. Ahmedabad’s latest Heat Action Plan 2017 notes that “simple low-cost options such as lime-based white wash, tarp-like coverings or white ceramic tiles can help to bring roof temperatures down by as much as 30 degrees Celsius and [reduce indoor temperatures by 3 to 7 degrees Celsius](https://www.nrdc.org/experts/anjali-jaiswal/5-reasons-why-ahmedabad-heat-action-plan-saves-lives)”.
+Both New York City and Ahmedabad have started carrying out 'cool roof' programmes to reduce their urban temperatures. Ahmedabad’s latest Heat Action Plan 2017 notes that “simple low-cost options such as lime-based white wash, tarp-like coverings or white ceramic tiles can help to bring roof temperatures down by as much as 30 degrees Celsius and [reduce indoor temperatures by 3 to 7 degrees Celsius](https://www.nrdc.org/experts/anjali-jaiswal/5-reasons-why-ahmedabad-heat-action-plan-saves-lives)”.
 
 In New York City, the government’s Cool Roofs Programme has coated more than 5.7 million square feet (529,547 square metres) of rooftop space with a [white reflective coating to lower temperatures](http://www.nyc.gov/html/gbee/html/initiatives/coolroofs.shtml).
 
@@ -33,9 +38,9 @@ Between 2007 and 2015, the New York Restoration Project, a non-profit organisati
 
 The city of Melbourne in Australia has also taken to greening its streets to beat the heat. Since 2012, its government has planted 3,000 trees each year as part of a plan to increase its green canopy cover from 22 percent to 40 percent by 2040. This will help to cool the city’s neighbourhoods and reduce its greenhouse gas emissions. It has also studied which tree species would better cope with a hotter climate, and is [gradually switching its street greenery to hardier species](http://www.abc.net.au/news/2016-11-17/melbourne-gets-a-tree-change-in-readiness-for-a-hotter-climate/8035270) such as the Algerian oak.
 
-![Sydney aims to increase its tree canopy cover in the city by 50% by 2030](/images/features/2018/sydney-tree-canopy.jpg/)*Sydney aims to increase its tree canopy cover in the city by 50% by 2030 © Sydney*
-
 #### **Keeping public spaces cool**
+
+###### ![Sydney aims to increase its tree canopy cover in the city by 50% by 2030](/images/features/2018/sydney-tree-canopy.jpg/)**Sydney aims to increase its tree canopy cover in the city by 50 percent by 2030** © City of Sydney
 
 Other cities in Australia are looking into innovative ways to cool their streets, buildings and public spaces too. Apart from committing to a 50 percent increase in tree canopy cover by 2030, Sydney has begun to test the use of lighter-coloured pavement in one street to see if that will lower the street’s temperature by reducing its heat absorption.
 
@@ -45,11 +50,14 @@ Darwin’s latest, 2015 City Centre Master Plan also identifies several measures
 
 They recommended installing awnings and solar-powered fans over streets to keep pedestrians cool. The government is also considering developing whole-of-city-centre, all-year sun path and wind pattern maps so that urban planners and architects can design more effective shading and cooling features.
 
-In 2015, Penrith in New South Wales, Australia, adopted a comprehensive [“Cooling the City Strategy”](https://www.penrithcity.nsw.gov.au/Waste-and-Environment/Sustainability/Beat-the-heat---Cooling-the-City/). Its city council noted: “Taking action to cool the city is increasingly important, given the consistent projections of increasing heatwaves and the number of extreme temperature days for the region. This may have a serious impact on our city’s liveability and its desirability to residents, businesses and investors.”
+In 2015, Penrith in New South Wales, Australia, adopted a comprehensive ['Cooling the City Strategy'](https://www.penrithcity.nsw.gov.au/Waste-and-Environment/Sustainability/Beat-the-heat---Cooling-the-City/). Its city council noted: “Taking action to cool the city is increasingly important, given the consistent projections of increasing heatwaves and the number of extreme temperature days for the region. This may have a serious impact on our city’s liveability and its desirability to residents, businesses and investors.”
 
 It has incorporated urban heat considerations into the design of new community spaces and upgrading of existing ones. These include installing water-retention features such as rain gardens, swales and wetlands that can both reduce the risk of flooding and cool their surroundings. The council is also auditing the city’s bus stops, parks, pedestrian areas around schools and other public spaces to ensure that they have sufficient shading, and identifying government buildings that should be painted in lighter colours or have heat-reflective roofs.
 
-> “Cooling the city will have direct and lasting social, economic and environmental benefits as more people are encouraged to walk and visit the city.”
+<br>
+> ##### “Cooling the city will have direct and lasting social, economic and environmental benefits as more people are encouraged to walk and visit the city.”
+
+<div align="right"><b>— Darwin's 2015 City Centre Master Plan</b></div>
 
 #### **Smart layouts, cooler cities**
 
@@ -65,14 +73,17 @@ District energy systems, a technology that has existed for more than 120 years, 
 
 The district cooling system in Singapore’s Marina Bay precinct has slashed its users’ air-conditioning energy use by more than 40 percent compared to traditional air-conditioning systems. A similar system will be installed in the upcoming Jurong Lake District to serve the entire area, including homes.
 
-“Instead of buildings having individual chiller plant rooms and cooling towers, a centralised network can provide greater energy efficiency and more economies of scale,” [said the country’s Minister for National Development Lawrence Wong](https://www.nccs.gov.sg/news/speech-minister-lawrence-wong-commissioning-marina-bay-district-cooling-network) in a speech in 2016.
+“Instead of buildings having individual chiller plant rooms and cooling towers, a centralised network can provide greater energy efficiency and more economies of scale,” [said the country’s then-Minister for National Development Lawrence Wong](https://www.nccs.gov.sg/news/speech-minister-lawrence-wong-commissioning-marina-bay-district-cooling-network) in a speech in 2016.
 
-> “Cooling is essential to human health and prosperity, and is becoming more important as the world urbanises, economies grow and the planet heats up.”
+<br> 
+> ##### “Cooling is essential to human health and prosperity, and is becoming more important as the world urbanises, economies grow and the planet heats up.”
+
+<div align="right"><b>— Dan Hamza-Goodacre</b><br> Executive Director, Kigali Cooling Efficiency Programme (K-CEP)</div>
 
 Malaysia has also invested in the systems. Its largest one, in Cyberjaya, a town with a science park in the west coast state of Selangor, helped to reap the equivalent of 8.2 gigawatt hours in electricity savings and avoid 4,100 tonnes of carbon dioxide emissions between 2012 and mid-2017.
 
 Datuk Ismail Ibrahim, Chief Executive of the Iskandar Regional Development Authority, [added in an interview with the Eco-Business website](http://www.eco-business.com/news/keeping-it-cool-malaysia-looks-to-district-energy-systems/): “The rapid development of commercial centres and industrial parks in Iskandar Malaysia will create a huge demand for heating and cooling. Centralised heating and cooling through district energy systems will significantly decrease their energy usage and increase cost savings.”
 
-Beyond technological and urban planning solutions, cities also need to look into energy efficiency policies and standards for air-conditioners and other cooling systems, according to Mr Dan Hamza-Goodacre, Executive Director of the Kigali Cooling Efficiency Program (K-CEP), a global initiative focused on clean cooling and housed within the non-governmental ClimateWorks Foundation.
+Beyond technological and urban planning solutions, cities also need to look into energy efficiency policies and standards for air-conditioners and other cooling systems, according to Mr Dan Hamza-Goodacre, Executive Director of the Kigali Cooling Efficiency Programme (K-CEP), a global initiative focused on clean cooling and housed within the non-governmental ClimateWorks Foundation.
 
 [He wrote on K-CEP’s website](http://www.k-cep.org/): “Efficient cooling can be achieved through equipment and refrigerant efficiency, improved building and urban design, behaviour change and management of peak energy demand. Cooling is essential to human health and prosperity, and is becoming more important as the world urbanises, economies grow and the planet heats up.” **<font color="#967942">O</font>**

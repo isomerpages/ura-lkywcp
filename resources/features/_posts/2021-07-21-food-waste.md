@@ -9,9 +9,11 @@ description: Nearly one billion tonnes of food go to waste each year, even as on
 |---:|
 | Feng Zengkun |
 
-***Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.***
+##### Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.
 
-![How can cities reduce their food wastage?](/images/features/2021/infographic-food-waste.png/)*How can cities reduce their food wastage? Illustration © GoodStudio/Shutterstock.com, additional text: Lee Kuan Yew World City Prize*
+> ###### **Cities mentioned in this article:** <br> Milan, New York City, Brisbane, Seoul, London, Cambridge, Shanghai, Okayama, Luxembourg City, Copenhagen, Berlin, Toronto, Bangkok
+
+###### ![How can cities reduce their food wastage?](/images/features/2021/infographic-food-waste.png/)**How can cities reduce their food wastage?** © GoodStudio/ Shutterstock.com, additional text: Editor's own
 
 Hunger could be a thing of the past if the world wasted less food. In 2019 alone, households, eateries and retailers threw away 931 million tonnes of food, amounting to 17 percent of the food produced that year, [the United Nations (UN) said in a March 2021 report](https://wedocs.unep.org/bitstream/handle/20.500.11822/35280/FoodWaste.pdf). It noted that [the COVID-19 pandemic has likely worsened the wastage](https://www.un.org/en/observances/end-food-waste-day), with food distributors stymied by closures in the hospitality industry, and people’s panic buying and stockpiling preventing supermarkets from donating to food banks, and probably resulting in more discarded food.
 
@@ -21,9 +23,12 @@ With nearly one in ten people worldwide suffering from hunger, such waste is una
 
 With cities slated to [house 66 percent of the global population and consume over 80 percent of food by 2050](https://www.undp.org/content/undp/en/home/blog/2020/how-cities-can-fight-food-loss-and-waste-.html), they must take the lead in minimising food waste and redirecting surpluses to people in need. Several cities have begun to do so in a variety of ways. 
 
-#### **Bringing businesses on board**
+<br>
+> ##### "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
 
-> "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
+<div align="right"><b>— Ms Inger Andersen</b> <br> Executive Director, UN Environment Programme</div>
+
+#### **Bringing businesses on board**
 
 Since 2016, cities in France have [banned supermarkets from discarding food and deliberately spoiling it](https://www.theguardian.com/world/2016/feb/04/french-law-forbids-food-waste-by-supermarkets) to stop people from foraging in their bins. The cities have also stipulated that those with over 400 squares metres of floor area must sign donation contracts with charities. These regulations are part of a law that the country passed to make better use of its food waste, which surpassed 7.1 million tonnes per year, and violations incur hefty fines and even jail terms. In 2019, [the government noted that the law has been effective](https://www.pbs.org/newshour/show/is-frances-groundbreaking-food-waste-law-working), with over 2,700 supermarkets diverting 46,000 tonnes of food each year from landfills, and donations to food banks up by more than 20 percent.
 
@@ -35,7 +40,7 @@ In the United States, [New York City developed a website](https://www1.nyc.gov/a
 
 #### **Making a difference with people**
 
-![How can we curb wastefulness?](/images/features/2021/discard-food.jpg/)*How can we curb wastefulness? Photo © freepik.com*
+###### ![How can we curb wastefulness?](/images/features/2021/discard-food.jpg/)**How can we curb wastefulness?** © freepik.com
 
 With households responsible for over half of the food that is thrown away, cities are taking steps to curb their wastefulness too. Since 2017, Brisbane in Australia has [reduced household food waste by over 32 percent](https://www.brisbane.qld.gov.au/sites/default/files/documents/2020-10/Annual-Report-2019-20-Oct%202020.pdf) through a [‘Love Food Hate Waste’ campaign](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/reducing-waste-at-home/love-food-hate-waste) that shares tips on how to plan meals and shop thoughtfully to avoid waste, store food properly and make the most of leftovers. 
 
@@ -47,7 +52,7 @@ Some cities also have ‘community fridges’, where residents can leave their s
 
 #### **The beauty of ugly food**
 
-![How can cities reduce their food wastage?](/images/features/2021/ugly-food.jpg/)*Getting consumers to accept misshapen or 'ugly food' can help reduce food wastage. Photo © j.chizhe/Shutterstock.com*
+###### ![How can cities reduce their food wastage?](/images/features/2021/ugly-food.jpg/)**Getting consumers to accept misshapen or 'ugly food' can help reduce food wastage** © j.chizhe/ Shutterstock.com
 
 Some cities are shining a spotlight on ugly produce and other types of food that are often wasted. In Luxembourg City, the capital of Luxembourg, [‘social supermarkets’ sell surplus food](https://www.vdl.lu/en/living/aid-and-assistance/people-need/social-supermarkets), and food that is edible but rejected by grocers due to imperfections and other reasons, at steep discounts to needy residents. The city sources the food from bakeries, supermarkets, companies and others, and provides the residents with a card that gives them access to the stores, with large families and single-parent households having priority. Each recipient pays a token fee of two Euros (approximately 2.40 USD).
 

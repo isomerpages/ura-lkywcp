@@ -2,16 +2,18 @@
 title: Opening big data for urban innovation
 permalink: /resources/features/opening-big-data-urban-innovation/
 image: /images/features/2015/big-data.jpg
-description: With advancement in big data analytics, urban planners and city governments now have another resource to gain insights into their cities, as well as to catalyse and effectuate urban innovation. The emergence of huge data sets, however, poses significant challenges in multiple areas, such as access and security, and deriving relevant insights and applications. As part of efforts to mitigate these challenges, open data initiatives by city governments are progressively gaining traction.  
+description: The advancement in big data analytics allow cities to gain insights, and catalyse urban innovation. The emergence of huge data sets, however, poses challenges in access and security, and deriving relevant insights and applications. To mitigate these challenges, open data initiatives are gaining traction.  
 ---
 
-| Author |
+| Writer |
 |---:|
 | Tan Chui Hua |
 
-***With advancement in big data analytics, urban planners and city governments now have another resource to gain insights into their cities, as well as to catalyse and effectuate urban innovation. The emergence of huge data sets, however, poses significant challenges in multiple areas, such as access and security, and deriving relevant insights and applications. As part of efforts to mitigate these challenges, open data initiatives by city governments are progressively gaining traction.***
+##### The advancement in big data analytics allow cities to gain insights, and catalyse urban innovation. The emergence of huge data sets, however, poses challenges in access and security, and deriving relevant insights and applications. To mitigate these challenges, open data initiatives are gaining traction.
 
-![Big data](/images/features/2015/big-data.jpg/)*Image © Kris Krüg 2013*
+> ###### **Cities mentioned in this article:** <br> Santander, Singapore
+
+###### ![Big data](/images/features/2015/big-data.jpg/)**Image** © Kris Krüg 2013
 
 Technology company IBM estimates that the world produces [some 2.5 quintillion bytes of data every day](http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html). Sensors, mobile phones, machines, wearable technology and social media – these are just some of the diverse sources feeding the data torrent. As technology and the Internet of Things become increasingly intertwined with work and life, the volume of data generation likewise is set to grow in tandem.
 
@@ -20,8 +22,6 @@ Large data sets are not new to urban planning. Municipal authorities have always
 The city of Santander in northern Spain illustrates how connected devices increase the volume and scope of precise, location-specific data. Residents may use their smart phones to send physical sensing information such as GPS coordinates, environmental information on issues such as noise and temperature to the public SmartSantander platform. With their phones, they may also tag points of interest in the city such as parks, shops and attractions to distribute location-based information.
 
 For urban planners and city governments, such granular views into living and working in the city are important data sets that can form the foundation of policy formulation and execution. Coupled with big data analytics, today’s big data sets open up new and exciting possibilities in gaining data-driven perspectives, precise mapping of behaviour and trends, and developing data-driven urban solutions and innovations.
-
-> “Technology company IBM estimates that the world produces some 2.5 quintillion bytes of data every day.”
 
 #### **Challenges in utilising big data**
 
@@ -33,7 +33,10 @@ Engaging or partnering technology companies directly to develop end-to-end solut
 
 Nonetheless, these approaches still grant limited, or rather, specific access to the expertise, innovations and solutions available in the industry. Open data initiatives, however, allow city governments to cast their nets wider and crowd source innovation.
 
-> “Given that cities are the engines for human development, it is critical that governments leverage advanced computational methods and analytics to explore the city’s data and find data-driven solutions for urgent urban issues.”
+<br>
+> ##### “Given that cities are the engines for human development, it is critical that governments leverage advanced computational methods and analytics to explore the city’s data and find data-driven solutions for urgent urban issues.”
+
+<div align="right"><b>— Writer</b></div>
 
 #### **Open data initiatives: for and against**
 
@@ -57,7 +60,10 @@ Over at United Kingdom, the government’s open data initiative has been reaping
 
 Economic benefits are only part of the story of open data’s impact. For instance, using data from United Kingdom’s Environment Agency, a software company had developed an app which allows residents living in flood-prone areas to monitor local river levels and assess the risk of floods. In 2012, using transport data from the government, the American Red Cross launched the Hurricane app, which helps people find safe ways to move around using open roads, rails and airports in case of disasters. When Hurricane Sandy struck, the app was downloaded by some 700,000 during the first two days alone.
 
-> “Governments need to be open to innovation from the private sector, because the industry drives innovation.”
+<br>
+> ##### “Governments need to be open to innovation from the private sector, because the industry drives innovation.”
+
+<div align="right"><b>— Donald Pressley</b><br> Senior Vice-President, Booz Allen Hamilton</div>
 
 #### **Towards collaborative data-driven innovation**
 

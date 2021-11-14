@@ -27,5 +27,5 @@ contacts:
     content:
     - phone: 
     - email: 
-    - other: <a href="https://go.gov.sg/newsletter"><u>go.gov.sg/newsletter</u></a>
+    - other: <a href="/subscribe/"><u>Subscribe now</u></a>
 ---

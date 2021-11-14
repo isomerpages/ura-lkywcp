@@ -2,16 +2,18 @@
 title: Building bonds through sharing cities
 permalink: /resources/features/sharing-cities/
 image: /images/features/2019/car-sharing.jpg
-description: Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, with the goal of making their cities more efficient, sustainable and inclusive, and building stronger bonds within and between communities.
+description: Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, to make their cities more efficient, sustainable and inclusive, and build stronger community bonds.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, with the goal of making their cities more efficient, sustainable and inclusive, and building stronger bonds within and between communities.***
+##### Companies such as Airbnb and Uber have become ubiquitous by tapping into the potential of underused resources. Now, more governments, non-profit organisations and citizens across the world are participating in the sharing economy and even taking the lead in shaping it, to make their cities more efficient, sustainable and inclusive, and build stronger community bonds.
 
-![Car sharing](/images/features/2019/car-sharing.jpg/)*Image: dolgachov © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> New York City, Amsterdam, Copenhagen, Toronto, Seoul, Aarhus, Montreal, San Francisco, Minnesota, Dublin
+
+###### ![Car sharing](/images/features/2019/car-sharing.jpg/)**Car-sharing in the city** © dolgachov/ 123rf.com
 
 Most cars are idle for hours at a time, many homes have unused rooms and staggering amounts of food are dumped and wasted on a daily basis. While companies such as ride-sharing firm Uber and home rental service Airbnb have become household names by tapping on these and other underutilised resources, governments, non-profit groups and citizens are increasingly looking into ways to share them to maximise their value and benefit people. 
 
@@ -21,11 +23,14 @@ On the other side of the world, New York City in the United States, Amsterdam in
 
 Other countries have reported growing use of sharing platforms and are forming their own partnerships to encourage citizens to come together and make better use of their possessions. In 2017, the Danish government published a long-awaited [sharing economy strategy](http://www.nordiclabourjournal.org/nyheter/news-2017/article.2017-10-16.2190527501) with 22 proposals setting out how it will work with others and develop its own solutions. Aarhus, the country’s second-largest city, has been designated as a pilot city for experiments, including an ongoing [electric vehicle sharing programme](http://www.nordiclabourjournal.org/i-fokus/in-focus-2017/sharing-economy-2017/article.2017-05-24.6860971960). 
 
-Seoul, the winner of the [2018 Lee Kuan Yew World City Prize](/laureates/2018/laureate/), declared its goal to become a sharing city in 2012 and has since introduced [several major initiatives](http://sharehub.kr/shareabout/about_us.do;jsessionid=2A2E0E4EB600A58BD9C4902F30026F80), including a bicycle-sharing system with about 500,000 members, a car-sharing programme with 1.8 million members, and a government rental service to encourage the sharing of children’s clothes and toys, which are typically used for only a short period and would otherwise be discarded. 
+Seoul, the winner of the [2018 Prize](/seoul/), declared its goal to become a sharing city in 2012 and has since introduced [several major initiatives](http://sharehub.kr/shareabout/about_us.do;jsessionid=2A2E0E4EB600A58BD9C4902F30026F80), including a bicycle-sharing system with about 500,000 members, a car-sharing programme with 1.8 million members, and a government rental service to encourage the sharing of children’s clothes and toys, which are typically used for only a short period and would otherwise be discarded. 
 
 “Sharing not only often decreases the cost of access, but can be used to address long-term societal challenges and make cities more inclusive,” said Ms Cheryl Martin, the World Economic Forum’s (WEF) Head of Industries, in the organisation’s [2017 report](http://www3.weforum.org/docs/White_Paper_Collaboration_in_Cities_report_2017.pdf) on the rise of the sharing economy. “The wealth of ideas, products and skills in cities makes them fertile grounds for exchange, with new technology platforms connecting users and facilitating transactions at a rate never before imaginable.” The following are some innovative examples. 
 
-> “Sharing not only often decreases the cost of access, but can be used to address long-term societal challenges and make cities more inclusive.”
+<br>
+> ##### “Sharing not only often decreases the cost of access, but can be used to address long-term societal challenges and make cities more inclusive.”
+
+<div align="right"><b>— Ms Cheryl Martin</b><br> Head of Industries, World Economic Forum</div>
 
 #### **Sharing to make more efficient cities**
 
@@ -41,7 +46,10 @@ The sharing economy’s potential in improving land use is not limited to transp
 
 Since 2013, the state of Minnesota in the United States has also tapped on the sharing economy to boost its use of solar power. Since many residents do not have ideal rooftop spaces to install solar panels, the state passed a law to [enable farmers to host “community solar gardens”](https://minnesota.cbslocal.com/2018/05/31/solar-gardens-good-question/) on their land instead. Residents can subscribe to one of their nearby gardens to receive power from it via the local grid, and reap savings on their utility bills. The state now has about [160 community solar gardens](http://www.startribune.com/minnesota-set-to-see-second-consecutive-year-of-strong-solar-energy-growth/503453282/) that make up nearly 60 percent of its solar power capacity and have more than 10,000 residential subscribers. 
 
-> “The sharing economy can boost the economy, improve the environment by making the most efficient use of resources, and nurture a sense of community by bringing people into contact with one another and facilitating neighbourliness. If managed well, it promises to have a transformative impact on cities.”
+<br>
+> ##### “The sharing economy can boost the economy, improve the environment by making the most efficient use of resources, and nurture a sense of community by bringing people into contact with one another and facilitating neighbourliness. If managed well, it promises to have a transformative impact on cities.”
+
+<div align="right"><b>— World Economic Forum</b></div>
 
 #### **Sharing as a means of caring**
 

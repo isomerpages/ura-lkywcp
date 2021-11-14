@@ -5,9 +5,9 @@ image: /images/features/2021/greg-clark.jpg
 description: COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
 ---
 
-***COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.***
+##### COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview[^1], Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
 
-![Greg Clark](/images/features/2021/greg-clark.jpg/)*Greg Clark © Centre for Liveable Cities*
+###### ![Greg Clark](/images/features/2021/greg-clark.jpg/)**Greg Clark** © Centre for Liveable Cities
 
 #### **COVID-19 has hit cities hard. Do you expect this 'new normal' to change cities’ identities as magnets for talent, investment, and people seeking opportunities?**
 
@@ -35,7 +35,7 @@ Each of these will be an exciting part of the post-COVID-19 world. I foresee tha
 
 #### **You have spoken of 'Blended Cities' that are likely to emerge within the next two decades, where as a result of digitalisation, cities become both a place and a service. Please tell us more.**
 
-![Blended City concept](/images/features/2021/blended-city.jpg/)*The Blended City is the hybrid physical-digital city © Prof Greg Clark CBE*
+###### ![Blended City concept](/images/features/2021/blended-city.jpg/)**The Blended City is the hybrid physical-digital city** © Prof Greg Clark CBE
 
 **GC:** There is no zero-sum between digital platforms and the physical city. Digitalisation simply means cities becoming more hybrid. Too many voices are prophesising 'the end of the city' as a result of COVID-19 and the rapid digital acceleration. I do not see that. 
 
@@ -64,7 +64,7 @@ The pandemic is starting to play a 'sorting' role, separating the things that st
 - **Talent attraction:** Cities will increasingly compete to attract top talents and skilled workers, drawing them with special visas, incentives, and flexible live-and-work models available in a 'Blended City'.
 - **Digital platforms in physical space:** A new logistics economy driven by digital commerce is emerging in cities. The growth of home delivery and its related mobility systems, the rise of data centres, fulfilment centres, dark kitchens and collection hubs, and their links to infrastructure webs, present new opportunities for cities to re-engineer space. One key issue is how to both enable these digitalised services, and also protect public goods such as safe pavements, clean air, and mobility flows. These new activities will need to address their own externalities and I expect to see new regulations requiring them to do so.
 
-![Flexible work arrangements will continue to drive the future of cities](/images/features/2021/flexible-work.jpg/)*Flexible work arrangements will continue to drive the future of cities © rawpixel.com/freepik.com*
+###### ![Flexible work arrangements will continue to drive the future of cities](/images/features/2021/flexible-work.jpg/)**Flexible work arrangements will continue to drive the future of cities** © rawpixel.com/ freepik.com
 
 #### **How can cities in developing nations, which are growing rapidly and struggling to find the resources to adapt to the pandemic and other major disruptions such as climate change, cope in the long-term?**
 
@@ -75,8 +75,9 @@ The pandemic will also accelerate the shift in population growth from very large
 Post-pandemic, many developing nations will try to manage an overall system of cities, rather than focus narrowly on individual cities. In Indonesia, for example, we may see policies that simultaneously seek to regenerate Jakarta, create a new capital in East Kalimantan, increase the role and size of Bandung and Surabaya, and support the growth of another six to 10 cities. This approach will be essential to embrace sustainability and manage population movements.
 
 One permanent challenge, which the pandemic has starkly revealed, is weak urban governance. COVID-19 has highlighted the need for well-run cities that are able to manage extreme situations effectively.  
-
->  "Learning together by sharing knowledge and insights will enrich all cities’ efforts to become better places to live. Because successful cities are fundamental to creating a better planet, there is no real competition. We need all cities to succeed."
+<br>
+> ##### "Learning together by sharing knowledge and insights will enrich all cities’ efforts to become better places to live. Because successful cities are fundamental to creating a better planet, there is no real competition. We need all cities to succeed."
+<div align="right"><b>— Greg Clark</b></div>
 
 #### **Finally, in this time of crisis where global travel and the international conference sector remain severely curtailed, while some nations have turned inward-looking, a word please on the prospects for continued global collaboration.**
 
@@ -96,5 +97,7 @@ For cities, the appeal of international cooperation remains compelling. Every ci
 |:---|
 | Prof Greg Clark CBE is the Group Advisor, Future Cities & New Industries at HSBC, and is Chair of the Connected Places Catapult, and Moderator of the World Cities Summit Mayors Forum. He has advised more than 250 cities, 50 national governments, and global corporations across the developed and developing world. |
 
-###### *This is an edited version of the article published in the June 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol19](https://www.go.gov.sg/urbsol19), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.*
+---
+
+[^1]: This is an edited version of the article published in the June 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol19](https://www.go.gov.sg/urbsol19), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.
 

@@ -9,9 +9,11 @@ description: More cities are taking steps to address inequalities exposed and de
 |---:|
 | Feng Zengkun |
 
-***More cities are taking steps to address inequalities exposed and deepened by the COVID-19 crisis. In this third in a series of articles examining how cities are planning for a more sustainable and equitable recovery, we look at initiatives to boost affordable housing, help low-wage workers and improve poorer neighbourhoods.***
+##### More cities are taking steps to address inequalities exposed and deepened by the COVID-19 crisis. In this third in a series of articles examining how cities are planning for a more sustainable and equitable recovery, we look at initiatives to boost affordable housing, help low-wage workers and improve poorer neighbourhoods.
 
-![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg/)*COVID-19 has exposed the equity gaps in cities more so than ever. Photo: [Korakoch Sookkerd](https://www.123rf.com/profile_korakochstock) © [123rf.com](https://www.123rf.com)*
+> ###### **Cities mentioned in this article:** <br> Calgary, Lisbon, New Delhi, Oklahoma City, New York City, Liverpool, Baltimore, Los Angeles, Seattle
+
+###### ![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg/)**COVID-19 has exposed the equity gaps in cities more so than ever** ©  Korakoch Sookkerd/ 123rf.com
 
 From London to Paris to New York, cities worldwide are confronting a grim reality: [the COVID-19 pandemic has hit their poorer residents harder due to many reasons](https://globalnews.ca/news/6958322/coronavirus-poor-neighbourhoods/), causing higher unemployment and death rates among them. “Many people who are higher-income have the resources and ability to work from home, which enable them to create layers of protection for themselves and ensure that they don’t come into contact with the virus,” explained Dr Steven Hoffman, a professor of global health, law and political science at Canada’s York University. Many low-income people, on the other hand, have jobs, including in the food, service and retail industries, that involve contact with others and cannot be done remotely, forcing them to choose between making a living and staying safe.
 
@@ -29,7 +31,7 @@ In India, New Delhi and many other cities are implementing a far-reaching [‘Af
 
 #### **An equitable economy**
 
-![How can cities help small businesses stay afloat should the pandemic stretches over an extended period?](/images/features/2020/covid-small-business.jpg/)*How can cities help small businesses stay afloat should the pandemic stretches over an extended period? Photo: [master1305](www.freepik.com)*
+###### ![How can cities help small businesses stay afloat should the pandemic stretches over an extended period?](/images/features/2020/covid-small-business.jpg/)**How can cities help small businesses stay afloat should the pandemic stretches over an extended period?** © master1305/ Freepik.com
 
 In the fight to get their economies back on track, cities have also carved out special assistance for lower-wage employees and small local businesses in poorer neighbourhoods. The former are more likely to lose their jobs, partly due to their limited ability to telework, while keeping the latter operational is key to preventing the areas from deteriorating further. In April 2020, Oklahoma City in the United States approved [a USD $400,000 plan](https://www.okc.gov/Home/Components/News/News/3425/5296) to give grants of up to USD $10,000 each to microbusinesses that are owned by low-to-moderate-income residents, or located in districts where the majority of residents are in those income brackets. The money can be used for payroll, rent, equipment, inventory and other expenses.
 
@@ -37,11 +39,12 @@ Looking ahead, New York City has negotiated agreements to [prioritise the hiring
 
 By setting out [an ambitious GBP 159 million (approximately USD $205 million) project](http://councillors.liverpool.gov.uk/documents/s244011/Appendix%201%20-%20Economic%20Recovery%20Plan.pdf) to retrofit about 4,000 homes and build about 250 new ones in deprived neighbourhoods over the next five years, Liverpool in Britain is thinking long-term too. The initiative, which is part of the city’s COVID-19 recovery plan, includes upgrading the existing homes’ insulation and replacing their heating systems with more energy-efficient ones. When implemented, it will generate 4,360 construction jobs, lower the households’ utility bills, reduce sickness among them and cut the city’s carbon emissions. The government said: “The city’s most vulnerable people, the unemployed and those with health problems, live in the communities with the worst housing. This will provide good quality housing to the people who most need it.” 
 
-#### **Improving life in poorer neighbourhoods**
-
 <br>
+> ##### "Leveraging a moment when policies and social norms may be more malleable than during normal times, we must take bold steps to address the inequalities this crisis has laid bare."
 
-> "Leveraging a moment when policies and social norms may be more malleable than during normal times, we must take bold steps to address the inequalities this crisis has laid bare."
+<div align="right"><b>— United Nations</b></div>
+
+#### **Improving life in poorer neighbourhoods**
 
 Other cities are also taking steps to improve their less prosperous neighbourhoods and better address lower-income residents’ issues in the wake of the COVID-19 outbreak. Since May 2020, Baltimore and other cities in the state of Maryland in the United States have [enabled their low-income residents to shop for groceries online at approved stores](https://www.baltimoresun.com/coronavirus/bs-md-snap-online-groceries-20200520-guktlxumrnd2jfw2h2tx45w72q-story.html) using their government-issued financial aid debit card, so that they do not have to travel long distances to supermarkets to buy fresh and affordable food if these are not available near them. Previously, the card could be used only at physical stores. This change not only lessens the residents’ COVID-19 infection risk but is more convenient for them in the long run. 
 

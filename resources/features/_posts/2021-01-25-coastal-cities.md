@@ -9,9 +9,11 @@ description: With sea levels rising across the world, coastal cities at risk of 
 |---:|
 | Feng Zengkun |
 
-***With sea levels rising across the world, coastal cities at risk of going under are fighting back with adaptive measures to protect lives, land and infrastructure. We take a look at how some forward-looking cities are holding the water at bay and making plans for safe relocations when necessary.***
+##### With sea levels rising across the world, coastal cities at risk of going under are fighting back with adaptive measures to protect lives, land and infrastructure. We take a look at how some forward-looking cities are holding the water at bay and making plans for safe relocations when necessary.
 
-![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)*Coastal cities are at risk from rising sea levels due to climate change. Photo: [cassidy muir](https://www.pexels.com/@cassidy-muir-1079619?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels*
+> ###### **Cities mentioned in this article:** <br> Copenhagen, Hong Kong, Norfolk, Boston, Amsterdam, Rotterdam, Virginia Beach
+
+###### ![Coastal cities are at risk from rising sea levels due to climate change](/images/features/2021/turning-the-tide.jpg/)**Coastal cities are at risk from rising sea levels due to climate change** © cassidy muir/ Pexels
 
 Five years after the landmark Paris Agreement to limit climate change and global warming, over 50 leading cities, including New York, London, Stockholm, Melbourne, Mexico City and Paris, are [on track to deliver their fair share of greenhouse gas emissions cuts](https://www.c40.org/press_releases/new-analysis-world-cities-on-track). Even with this progress, however, permanent sea level rises and temporary storm surges, which are increases in the sea level during storms, will expose more coastal cities to flooding in the next few decades, necessitating urgent adaptation initiatives, according to recent studies. 
 
@@ -31,7 +33,7 @@ In Britain, Norfolk is also turning to nature to protect communities along its c
 
 #### **Adapt to survive**
 
-![Rotterdam has decades of experience dealing with rising flood waters](/images/features/2021/rotterdam.jpg/)*Rotterdam has decades of experience dealing with rising flood waters. Photo: jovannig © 123rf.com*
+###### ![Rotterdam has decades of experience dealing with rising flood waters](/images/features/2021/rotterdam.jpg/)**Rotterdam has decades of experience dealing with rising flood waters** © jovannig/ 123rf.com
 
 As cities aim to limit coastal flooding and its impact, they may also need to change planning norms and adapt existing infrastructure. Boston in the United States now requires developers to assess new and redeveloped large projects' vulnerability to a 40-inch (approximately one-metre) sea level rise by completing a ['Climate Change Resiliency and Preparedness Checklist'](http://www.bostonplans.org/documents/planning/policy-planning/boston-climate-resiliency-checklist-word-version-2). For buildings that would be affected by the sea level rise, developers must list adaptation measures, such as hard and soft barriers to prevent flooding, provisions for emergency power and water so that occupants can shelter in place if necessary, and strategies to support quick recovery after storms. The 40-inch threshold [addresses the city’s analysis](https://www.boston.gov/sites/default/files/file/2020/10/Final_North%20End%20Downtown%20Final_EMBARGO_0.pdf) that its sea level will likely rise by nine inches by 2030, 21 inches by 2050, and 36 inches by 2070, as well as expected land subsidence.
 
@@ -40,10 +42,13 @@ Vietnam, on the other hand, is partnering with the United Nations to [construct 
 Cities could also invest in floating homes as a solution to rising sea levels. Amsterdam in the Netherlands has created two residential estates, named [Schoonschip](http://www.spaceandmatter.nl/schoonschip) and [Waterbuurt](https://www.news18.com/news/buzz/waterbuurt-this-floating-locality-in-amsterdam-is-paving-the-way-to-live-with-rising-sea-levels-3198983.html), with such homes to extend its limited area for housing out onto the water and adapt to its rising sea level. While the neighbourhoods currently have only a few hundred residents, they could be expanded in the future. The homes use lightweight materials, such as cork for flooring, and sit on airtight and hollow concrete tubs that float and have mooring poles to anchor them to the seabed. Bridges connect the homes to land. Several other cities have similar houses in the works, such as Helsinki in Finland, which will [start building a pilot group of 40 floating homes in its seaside Verkkosaari district in 2022](https://thehill.com/changing-america/sustainability/infrastructure/485887-can-floating-houses-provide-a-solution-to). 
 
 For years, Rotterdam in the Netherlands has also been fortifying itself against its rising sea level and storm surges. About 90 percent of the city lies below the sea level, and three rivers merge within it before flowing to the nearby sea, putting many residential areas at risk of flooding. To keep the rivers and sea at bay during heavy storms, it raised levees and erected the Maeslant Barrier, one of the world’s largest moving structures, to [close automatically across the mouth of its port when the sea is expected to rise more than three metres above its normal level](https://www.rijkswaterstaat.nl/english/about-us/gems-of-rijkswaterstaat/maeslant-barrier/index.aspx). It has also [built 10 public plazas across the city](https://pulitzercenter.org/reporting/pour-it-how-dutch-cities-are-soaking-rain-and-reducing-flooding) to retain rainwater to avert flooding elsewhere, and will complete five more by 2023. Benthemplein Water Square, the largest of the existing plazas, can store nearly 480,000 gallons of water. 
-    
-#### **Managing coastal retreats**
 
-> "The sea level rise is baked in. Even if we reduce emissions today, the sea level will continue to rise as the glaciers will continue to melt for hundreds of years."
+<br>
+> ##### "The sea level rise is baked in. Even if we reduce emissions today, the sea level will continue to rise as the glaciers will continue to melt for hundreds of years."
+
+<div align="right"><b>— Professor Ian Young</b> <br> University of Melbourne</div>
+
+#### **Managing coastal retreats**
 
 For some cities, however, relocating residents in coastal areas severely endangered by sea level rises could be more cost-effective than constructing sea barriers or adapting the homes and infrastructure. To ensure that such ‘coastal retreat’ plans proceed smoothly, cities must have fair and transparent policies to address issues such as compensation for the relocation. 
 

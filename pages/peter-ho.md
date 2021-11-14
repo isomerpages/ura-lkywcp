@@ -1,12 +1,11 @@
 ---
-title: Biography - Peter Ho
-permalink: /about/prize-jury/prize-council/peter-ho/
+title: Biography — Peter Ho
+permalink: /peter-ho/
 ---
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
-**Mr Peter Ho**<br>
-Chairman, Urban Redevelopment Authority, Singapore
+##### **Mr Peter Ho** <br> Chairman <br> Urban Redevelopment Authority <br> Singapore
 
 ---
 

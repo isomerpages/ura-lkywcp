@@ -1,31 +1,29 @@
 ---
 title: Stage B
-permalink: /nominations/stageb/
+permalink: /stage-b/
 ---
 
-# **Stage B closed**
+##### **Stage B closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [join our mailing list](/subscribe/).
 
-#### **Important note:** The next cycle of the Prize is delayed due to COVID-19. Watch this space for news of further developments, or subscribe to our monthly newsletter: [go.gov.sg/newsletter](https://go.gov.sg/newsletter).
+###### ![Stage B Report](/images/stage-b-report.jpg/)**Illustration** © stories/ freepik.com
 
----
+The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
 
-The Lee Kuan Yew World City Prize is **awarded to cities only**. Please complete [Stage A](/nominations/stagea) before proceeding.
+#### **Detailed written report**
 
-#### **Stage B**
+After completing [Stage A](/stage-a), the nominated city will be informed to prepare and submit a detailed report using the official report template[^1]. This report comprises the following: 
 
-After completing [Stage A](//nominations/stagea), the nominated city will be informed to prepare and submit a detailed report using the official report template. This report comprises the following: 
+| **1** | **Key statistics** <br> Comparing the city today and 10-20 years ago |
+| **2** | **City portfolio** <br> Background information on the city |
+| **3** | **Master plan/strategy** <br> Elaboration of the overall master plan/strategy |
+| **4** | **Demonstration projects** <br> A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy |
+| **5** | **Key visuals** <br> Photos, diagrams, charts, etc. |
+| **6** | **References** <br> 2-5 reference letters written and signed by independent third parties |
+| **7** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
 
-- Key statistics comparing the city today and 10-20 years ago 
-- Background information on the city 
-- Elaboration of the overall master plan/strategy
-- A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy 
-- Key visuals (photos, diagrams, charts, etc.) 
-- 2-5 reference letters written and signed by independent third parties
-- *Optional: supporting documents such as city reports, media reports, accolades, etc.*
+**<mark>Please note that this report may require some time and resources to complete.</mark>** 
 
-**Please note that this report may require some time and resources to complete.** 
-
-#### **Important notes**
+#### **Information for the nominated city**
 
 - A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
 - Please ensure the timely delivery of all submission materials. 
@@ -37,4 +35,8 @@ After completing [Stage A](//nominations/stagea), the nominated city will be inf
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
-- [Contact us](/contact-us/)
+- [Contact us](/feedback/)
+
+---
+
+[^1]: The link to download the official report template will be made available when nominations are open. 

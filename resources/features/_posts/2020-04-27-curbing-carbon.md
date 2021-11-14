@@ -5,13 +5,15 @@ image: /images/features/2020/curbing-carbon.jpg
 description: With the United Nations warning that the world has just one decade left to avert catastrophic climate change, more cities are taking aim at their greenhouse gas emissions. From energy efficiency grades and limits for buildings to cooling systems that harness seawater and innovative loans for sustainability projects, these are 10 ways that cities have curtailed their emissions.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***With the United Nations warning that the world has just one decade left to [avert catastrophic climate change](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), more cities are taking aim at their greenhouse gas emissions. From energy efficiency grades and limits for buildings to cooling systems that harness seawater and innovative loans for sustainability projects, these are 10 ways that cities have curtailed their emissions.***
+##### With the United Nations warning that the world has just one decade left to [avert catastrophic climate change](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), more cities are taking aim at their greenhouse gas emissions. From energy efficiency grades and limits for buildings to cooling systems that harness seawater and innovative loans for sustainability projects, these are 10 ways that cities have curtailed their emissions.
 
-![Sustainable city](/images/features/2020/curbing-carbon.jpg/)*Illustration: batsheba © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Helsinki, Petaling Jaya, New York City, Melbourne, Frankfurt, Bristol, Shenzhen, Chicago, Copenhagen, Rotterdam
+
+###### ![Sustainable city](/images/features/2020/curbing-carbon.jpg/)**10 ways cities can cut their emissions** © batsheba/ 123rf.com
 
 #### **01: Empower residents**
 
@@ -51,15 +53,15 @@ So far, the fund has loaned over AUD $30 million (approximately USD $19 million)
 
 #### **05: Set energy efficiency standards**
 
-Frankfurt, Germany, is another city that has made eco-friendly buildings a priority. In 2007, it announced that all new municipal buildings must meet [‘Passive House standards’](https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf), which are a set of strict energy efficiency standards. These include using at most 15 kilowatt-hours of electricity per square metre of living space for heating. 
+**Frankfurt**, Germany, is another city that has made eco-friendly buildings a priority. In 2007, it announced that all new municipal buildings must meet [‘Passive House standards’](https://rmi.org/wp-content/uploads/2017/11/the-Carbon-Free-City-Handbook-1.0.pdf), which are a set of strict energy efficiency standards. These include using at most 15 kilowatt-hours of electricity per square metre of living space for heating. 
 
 In 2010, it built on its commitment by requiring all city-owned buildings, including affordable housing apartment blocks, to meet the same standards. Today, the city has more than 300,000 square metres of gross floor area that conform to the standards, and over 50 building projects in the pipeline that will do so as well.
-
-![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg/)*Transport in Bristol. Photo: bagwold © 123rf.com*
 
 ---
 
 #### **06: Clean up transport**
+
+###### ![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg/)**Transport in Bristol** © bagwold/ 123rf.com
 
 In transport, **Bristol** is leading the way in Britain. In 2019, the city’s council approved a [first-in-the-nation plan to minimise pollution from vehicles](https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117). If given the green light by the central government, all private diesel vehicles except buses, taxis and emergency service vehicles will be banned from entering part of the city centre between 7 am and 3 pm from March 2021.
 

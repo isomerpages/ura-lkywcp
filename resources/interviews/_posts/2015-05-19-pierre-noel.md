@@ -5,13 +5,13 @@ image: /images/features/2015/data-centre.jpg
 description: Mr Pierre Noel, Chief Security Officer, Asia, Microsoft, discusses the threats cities face from cyber-attacks, the fall-out from these, and what cities must do to become resilient to web-based threats.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Howard James |
 
-***Mr Pierre Noel, Chief Security Officer, Asia, Microsoft, discusses the threats cities face from cyber-attacks, the fall-out from these, and what cities must do to become resilient to web-based threats.***
+##### Mr Pierre Noel, Chief Security Officer, Asia, Microsoft, discusses the threats cities face from cyber-attacks, the fall-out from these, and what cities must do to become resilient to web-based threats.
 
-![Data Centre](/images/features/2015/data-centre.jpg/)*Data Centre © Robert Harker 2012*
+###### ![Data Centre](/images/features/2015/data-centre.jpg/)**Data Centre** © Robert Harker 2012
 
 #### **How threatening are cyber-attacks to cities, and to what extent can they disrupt the day-to-day functionality of municipal areas?**
 
@@ -23,7 +23,10 @@ description: Mr Pierre Noel, Chief Security Officer, Asia, Microsoft, discusses 
 
 Perpetrators target cities with the aim of achieving many different outcomes. These include financial reward by means of bribery or theft; disruption or damage to physical and digital assets; and exposure of confidential information, which could be viewed as controversial by the general public.
 
-> “Cities around the world are exposed to cyber-attacks on a daily basis, with the number and diversity of these risks set to grow exponentially in future.”
+<br> 
+> ##### “Cities around the world are exposed to cyber-attacks on a daily basis, with the number and diversity of these risks set to grow exponentially in future.”
+
+<div align="right"><b>— Pierre Noel</b><br>Chief Security Officer, Asia, Microsoft</div>
 
 #### **What are the most common cyber-risks threatening cities?**
 
@@ -37,7 +40,10 @@ The other types of attacks are advanced persistent threats, which are specialise
 
 As part of their remit, they must assess all threats and communicate the implications of these to all stakeholders, including other government entities, industry and the community. By doing this, cities will be able to determine where gaps in their resilience reside and what must be done to address it. More often than not, these gaps result from substandard technological deployment and somewhat lax human behaviour. In order to mitigate the likelihood of cyber-threats, city authorities must ensure their defence systems are up-to-date and guarantee that all stakeholders are educated on web-based risks.
 
-> “In order to mitigate the likelihood of cyber-threats, city authorities must ensure their defence systems are up-to-date and guarantee that all stakeholders are educated on web-based risks.”
+<br>
+> ##### “In order to mitigate the likelihood of cyber-threats, city authorities must ensure their defence systems are up-to-date and guarantee that all stakeholders are educated on web-based risks.”
+
+<div align="right"><b>— Pierre Noel</b><br>Chief Security Officer, Asia, Microsoft</div>
 
 Few countries are better protected against the threat of cyber-attacks than Singapore. The nation has invested in state-of-the art defence systems and has implemented robust processes to counter the risks. Being a city-state, Singapore also benefits from having government agencies like the Infocomm Development Authority, Ministry of Home Affairs and Ministry of Defence, which collectively monitor cyber-security issues. With the number and sheer scale of these increasing, cities are looking to implement specific teams aimed at mitigating cyber-risks, among many other web-based threats. **<font color="#967942">O</font>** 
 

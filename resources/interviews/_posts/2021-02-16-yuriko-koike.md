@@ -5,9 +5,9 @@ image: /images/features/2021/yuriko-koike.jpg
 description: Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a new normal for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.
 ---
 
-***Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a 'new normal' for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.***
+##### Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a 'new normal' for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.[^1]
 
-![Yuriko Koike](/images/features/2021/yuriko-koike.jpg/)*Yuriko Koike © Tokyo Metropolitan Government*
+###### ![Yuriko Koike](/images/features/2021/yuriko-koike.jpg/)**Tokyo Governor Yuriko Koike** © Tokyo Metropolitan Government
 
 #### **The COVID-19 pandemic has been an unexpected crisis for cities around the world as they try to manage the strain on public health infrastructure and maintain economic activity. How has Tokyo approached the crisis, and how has the city fared in tackling the crisis?**
 
@@ -33,7 +33,7 @@ TMG has asked a wide range of businesses including restaurants, bars, theatres, 
 
 TMG also understands the need for compassion and the diverse needs and concerns of citizens during such a difficult period. In October, we opened a [newly designated facility](https://www.arabnews.jp/en/japan/article_28617/) for recovery where people who have mild or no symptoms can stay with their beloved pets such as cats, dogs, hamsters and rabbits.
 
-![Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo](/images/features/2021/shinjuku.jpg/)*Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo. Photo: [wirestock](https://www.123rf.com/profile_wirestock) © 123rf.com*
+###### ![Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo](/images/features/2021/shinjuku.jpg/)**Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo** © wirestock/ 123rf.com
 
 #### **What will Tokyo’s 'new normal' look like?**
 
@@ -49,7 +49,10 @@ We are also promoting the spread of bicycle-sharing services, one of the key mea
 
 TMG was already promoting these initiatives before the pandemic. With the spread of the coronavirus, I firmly believe that these trends will continue to grow.
 
-> "Tokyo’s new normal includes washing our hands, wearing a mask, maintaining social distance, and avoiding closed spaces, crowded places and close conversation."
+<br>
+> ##### "Tokyo’s new normal includes washing our hands, wearing a mask, maintaining social distance, and avoiding closed spaces, crowded places and close conversation."
+
+<div align="right"><b>— Yuriko Koike</b><br>Governor, Tokyo</div>
 
 #### **What are the Tokyo Metropolitan Government’s initiatives for sectors, groups and communities affected by the COVID-19 crisis?**
 
@@ -68,7 +71,10 @@ We realise that digital transformation will be critical in restoring connections
 Rather than try to return to a pre-pandemic society, TMG must realise a Tokyo for everyone, where diversity and inclusiveness are embraced through the establishment of a new normal and digital transformation. TMG aims to create a resilient and sustainable society that generates
 new values by responding flexibly to change; creating spaces where people can connect despite quarantine measures; creating environments where children can learn; and creating a system in which people can work and gain an income with peace of mind, and continue their artistic, cultural and sporting activities.
 
-> "Rather than return to a pre-pandemic society, TMG must realise a Tokyo for everyone, where diversity and inclusiveness are embraced through the establishment of a new normal and digital transformation."
+<br>
+> ##### "Rather than return to a pre-pandemic society, TMG must realise a Tokyo for everyone, where diversity and inclusiveness are embraced through the establishment of a new normal and digital transformation."
+
+<div align="right"><b>— Yuriko Koike</b><br>Governor, Tokyo</div>
 
 #### **The Tokyo Metropolitan Government has plans for a new disease control centre as a response to the pandemic and to prepare for future shocks and disruptions. What role will this centre play in the future of Tokyo’s public health governance and how will it help to build resilience for similar epidemics?**
 
@@ -95,5 +101,7 @@ Through these numerous efforts, we believe that the Tokyo 2020 Games can rise to
 |:---|
 | Yuriko Koike (小池 百合子) is the Governor of the Tokyo Metropolitan Government. She was a member of the House of Representatives of Japan from 1993 to 2016 (when she resigned to run in the Tokyo gubernatorial election), and was previously the Minister of Defense in the cabinet of Prime Minister Shinzō Abe. |
 
-###### *This is an edited version of the article published in the January 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol18](https://www.go.gov.sg/urbsol18), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.*
+---
+
+[^1]: This is an edited version of the article published in the January 2021 issue of Urban Solutions magazine [www.go.gov.sg/urbsol18](https://www.go.gov.sg/urbsol18), a publication by the Centre for Liveable Cities [www.clc.gov.sg](https://www.clc.gov.sg) under the Ministry of National Development Singapore.
 

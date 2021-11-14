@@ -2,16 +2,16 @@
 title: Peter Williams on mitigating the effects of natural disasters
 permalink: /resources/interviews/mitigating-effects-natural-disasters/
 image: /images/features/2015/typhoon-haiyan.jpg
-description: Dr Peter Williams, Chief Technology Officer, Big Green Innovations, IBM, shares his views on how cities can best mitigate the effects of natural disasters. Addressing issues like climate change and substandard infrastructure, he argues that city and national governments will only become truly resilient when constituents and their leaders engage in two-way communication.
+description: Dr Peter Williams of IBM shares his views on how cities can best mitigate the effects of natural disasters. Addressing issues like climate change and substandard infrastructure, he argues that city and national governments will only become truly resilient when constituents and their leaders engage in two-way communication.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Howard James |
 
-***Dr Peter Williams, Chief Technology Officer, Big Green Innovations, IBM, shares his views on how cities can best mitigate the effects of natural disasters. Addressing issues like climate change and substandard infrastructure, he argues that city and national governments will only become truly resilient when constituents and their leaders engage in two-way communication.***
+##### Dr Peter Williams of IBM shares his views on how cities can best mitigate the effects of natural disasters. Addressing issues like climate change and substandard infrastructure, he argues that city and national governments will only become truly resilient when constituents and their leaders engage in two-way communication.
 
-![Typhoon Haiyan](/images/features/2015/typhoon-haiyan.jpg/)*Typhoon Haiyan © NASA 2013*
+###### ![Typhoon Haiyan](/images/features/2015/typhoon-haiyan.jpg/)**Typhoon Haiyan** © NASA 2013
 
 #### **What are the pre-eminent natural disasters facing today’s cities?**
 
@@ -33,7 +33,10 @@ Infrastructure, too, significantly influences how cities fuel or mitigate natura
 
 We see cities more greatly impacted by disaster when leaders fail to consider the infrastructure interface between the natural and urban environment, and secure contingency management plans and adhere to appropriate building codes and land use.
 
-> “Developing resilience is vital because urban disasters are going to affect growing numbers of people.”
+<br>
+> ##### “Developing resilience is vital because urban disasters are going to affect growing numbers of people.”
+
+<div align="right"><b>— Dr Peter Williams</b><br>Chief Technology Officer, Big Green Innovations, IBM</div>
 
 #### **Are Western cities better prepared against the threat of natural disasters when compared their counterparts in emerging markets?**
 
@@ -55,7 +58,7 @@ IBM also works with the Government of South Australia to crowdsource data with t
 
 #### **How can cities best govern their resilience initiatives?**
 
-**PW:** Cities can manage their natural disaster defence programmes through three complementary models. These are: a top-down approach, where an authority instructs residents and businesses on the best course of action; a “side-to-side” approach, which involves citizens coordinating their actions with one another; and a bottom-up model, where citizens feedback to authorities and what they need.
+**PW:** Cities can manage their natural disaster defence programmes through three complementary models. These are: a top-down approach, where an authority instructs residents and businesses on the best course of action; a 'side-to-side' approach, which involves citizens coordinating their actions with one another; and a bottom-up model, where citizens feedback to authorities and what they need.
 
 Cities and national authorities must incorporate all three models in order to maximise their resilience to floods, hurricanes and so forth. Furthermore, city leaders must continuously engage with their constituents in order to have an in-depth understanding of the foremost challenges experienced on the ground – something the leaders of the Municipality of San Francisco in the Philippines have done to great effect. **<font color="#967942">O</font>** 
 

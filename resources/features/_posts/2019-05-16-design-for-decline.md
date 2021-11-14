@@ -1,17 +1,19 @@
 ---
-title: Design for decline - how shrinking cities are saving themselves
+title: Design for decline — how shrinking cities are saving themselves
 permalink: /resources/features/design-for-decline/
 image: /images/features/2019/toyama-japan.jpg
-description: In several countries across the world, the woes of urbanisation are going hand-in-hand with a much less documented challenge - the problem of cities shrinking due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure that is too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries and trying other strategies. 
+description: In some countries, the woes of urbanisation go hand-in-hand with a less documented challenge - shrinking cities due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries, among other strategies. 
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***In some countries, the woes of urbanisation go hand-in-hand with a much less documented challenge: shrinking cities due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure that is too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries and trying other strategies.***
+##### In some countries, the woes of urbanisation go hand-in-hand with a less documented challenge: shrinking cities due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries, among other strategies.
 
-![The city of Toyama in Japan](/images/features/2019/toyama-japan.jpg/)*The city of Toyama in Japan. Photo: Sean Pavone©123rf.com*
+> ###### **Cities mentioned in this article:** <br> Toyama, Yubari, Sheffield City, Pittsburgh, Utica, Manheim, Leipzig
+
+###### ![The city of Toyama in Japan](/images/features/2019/toyama-japan.jpg/)**The city of Toyama in Japan** © Sean Pavone/ 123rf.com
 
 For decades, people have moved from their countries’ rural areas to cities, boosting the proportion of the world’s urban population from 30 percent in 1950 to [55 percent today](https://population.un.org/wup/Publications/Files/WUP2018-KeyFacts.pdf). While this trend is set to continue, it masks a growing problem for many countries, including the United States, Japan, China and Germany: the depopulation of many of their cities due to falling fertility rates and migration caused by failing industries and natural resource depletion. 
 
@@ -23,17 +25,22 @@ Even China, which has the world’s largest population, has not been spared. In 
 
 As cities shrink, their governments have to maintain infrastructure built for a larger population with smaller tax revenues. Other problems may arise. For example, lower demand for water means that water may stay in distribution pipes for longer periods, increasing the risk of bacterial growth and contamination. In a 2018 commentary, three urban planning experts from the National University of Singapore wrote: “Societies have had centuries of experience on how to expand infrastructural requirements. What we are facing now is a different type of problem that’s becoming increasingly familiar in both developed and developing countries: how can shrinking cities downsize existing infrastructure and find a usable financial model for its operation and maintenance?” 
 
-> “As cities shrink, their governments have to maintain infrastructure built for a larger population with smaller tax revenues.”
+<br>
+> ##### “What we are facing now is a different type of problem that’s becoming increasingly familiar in both developed and developing countries: how can shrinking cities downsize existing infrastructure and find a usable financial model for its operation and maintenance?”
+
+<div align="right"><b>— Planning experts from National University of Singapore</b></div>
 
 #### **The compact city strategy**
 
-For the local governments of [nearly 200 shrinking Japanese cities](https://apolitical.co/solution_article/japan-wants-to-help-the-elderly-by-making-cities-more-dense/), the answer is a “compact city” strategy that concentrates residents in a few neighbourhoods close to major public transport lines, freeing them to demolish the remaining estates and associated infrastructure. In Toyama, the government offers [housing subsidies](http://www.clair.or.jp/e/2016-4-1Toyama%20City.pdf) to those willing to move to the city centre, within 500 metres of the city’s railway and tram stops, or within 300 metres of its high-frequency bus services’ stops. 
+For the local governments of [nearly 200 shrinking Japanese cities](https://apolitical.co/solution_article/japan-wants-to-help-the-elderly-by-making-cities-more-dense/), the answer is a 'compact city' strategy that concentrates residents in a few neighbourhoods close to major public transport lines, freeing them to demolish the remaining estates and associated infrastructure. In Toyama, the government offers [housing subsidies](http://www.clair.or.jp/e/2016-4-1Toyama%20City.pdf) to those willing to move to the city centre, within 500 metres of the city’s railway and tram stops, or within 300 metres of its high-frequency bus services’ stops. 
 
 Since 2005, the proportion of residents living in the city’s centre has risen from 28 percent to 38 percent, and the goal is to increase this further to 42 percent by 2025. The strategy has also revitalised the city centre, attracted new businesses to it and slashed the number of vacant stores, helping to stabilise the city’s tax revenues [despite its smaller population](https://www.economist.com/asia/2018/01/11/a-small-japanese-city-shrinks-with-dignity). Mayor Masashi Mori noted that while the city is unlikely to be able to stem its population decline, it can become a more efficient small city for its residents to live in comfortably. 
 
 Meanwhile, the city of Yubari, which has lost more than 90 percent of its population since the 1960s, has taken [more drastic measures](https://www.japantimes.co.jp/news/2016/09/26/business/deserted-yubari-tries-creating-new-population-nucleus-test-case-japan/#.XNN3U6ZS8b0). Its government has merged schools, closed bus routes and forcibly relocated residents from the city’s outskirts to new low-rise housing blocks in the city centre. This has reduced its annual cost of maintaining public housing from 100 million yen (US$897,000) to less than 70 million yen, so that it can continue to provide municipal services despite its smaller tax base. The government is also wooing national and foreign investment in tourism and agriculture in a bid to reverse its fortunes. 
 
 #### **From sunset to sunrise industries**
+
+###### ![The city of Pittsburgh](/images/features/2019/pittsburgh.jpg/)**The city of Pittsburgh** © ESB Professional/ Shutterstock.com
 
 For cities hobbled by the shuttering of their sunset industries, on the other hand, pivoting to sunrise sectors that tap on their existing assets and expertise can be a successful strategy. Sheffield City in Britain was once a global powerhouse in coal mining and steel manufacturing, but a deep recession in the 1970s, the country’s privatisation of those industries in the 1980s and globalisation led to [factory closures and firms deserting the city](http://sticerd.lse.ac.uk/dps/case/cr/casereport103.pdf). Between 1971 and 2001, the city’s population fell by one-sixth, or nearly 100,000 people. 
 
@@ -45,7 +52,10 @@ In the 1980s and 1990s, the government and universities partnered with firms to 
 
 Pittsburgh now hosts industry giants such as Google, Apple, Facebook, Bosch and GE, as well as an array of start-ups, many of which were spun off from the universities’ and institutions’ research. A single five-kilometre stretch in the city, nicknamed ‘[Robotics Row](https://archive.triblive.com/local/pittsburgh-allegheny/tech-firms-keep-expanding-robotics-row-pittsburghs-mini-silicon-valley/)’, alone houses more than 20 companies and organisations working on robotics and autonomous technologies. 
 
-> “For cities hobbled by the shuttering of their sunset industries, on the other hand, pivoting to sunrise sectors that tap on their existing assets and expertise can be a successful strategy.”
+<br>
+> ##### “The refugee population has helped the city’s economy tremendously, and added not only to the quality of life but also to the diversity of our neighbourhoods, schools and retail business offerings.”
+
+<div align="right"><b>— Brian Thomas</b><br> Commissioner, Utica’s Department of Urban and Economic Development</div>
 
 #### **Saving refugees, saving cities**
 

@@ -1,6 +1,6 @@
 ---
 title: Prize Council
-permalink: /about/prize-council
+permalink: /prize-council/
 ---
 
 #### **Role of the Prize Council**
@@ -13,7 +13,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-<td><strong>Mr Peter Ho</strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/about/prize-jury/prize-council/peter-ho/">Biography</a></td>
+<td><strong>Mr Peter Ho</strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
 </tr>
 </tbody>
 </table>
@@ -24,19 +24,19 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/flemming-borreskov.png" alt="Flemming Borreskov" /><br></td>
-<td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Biography</a></td>
+<td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/flemming-borreskov/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/chan-heng-chee.png" alt="Chan Heng Chee" /><br></td>
-<td><br><strong>Ambassador Chan Heng Chee</strong><br />Professor (Former Chair)<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/about/prize-jury/prize-council/chan-heng-chee/">Biography</a></td>
+<td><br><strong>Ambassador Chan Heng Chee</strong><br />Professor (Former Chair)<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/chan-heng-chee/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
-<td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/about/prize-jury/prize-council/helen-clark/">Biography</a></td>
+<td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/helen-clark/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
-<td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/about/prize-jury/prize-council/ilmar-reepalu/">Biography</a></td>
+<td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/ilmar-reepalu/">Biography</a></td>
 </tr> 
 </tbody>
 </table>

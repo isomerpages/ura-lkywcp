@@ -9,9 +9,11 @@ description: More cities are taking to drones and other unmanned aircraft to boo
 |---:|
 | Feng Zengkun |
 
-***More cities are taking to drones and other unmanned aircraft to boost their emergency services, fight crime and achieve other goals. These are 10 examples of how cities are tapping the aerial technologies and ensuring their proper use.***
+##### More cities are taking to drones and other unmanned aircraft to boost their emergency services, fight crime and achieve other goals. These are 10 examples of how cities are tapping the aerial technologies and ensuring their proper use.
 
-![Urban farming](/images/features/2020/making-most-out-of-airspace.jpg/)*Illustration: irstone © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Guangzhou, Seoul, Nice, Burgas, Vilnius, Daejeon, Gothenburg, Mexico City, Sacramento, New York City, Los Angeles, Tokyo, Singapore
+
+###### ![10 ways drones are reshaping cities](/images/features/2020/making-most-out-of-airspace.jpg/)**10 ways drones are reshaping cities** © irstone/ 123rf.com
 
 #### **01: A new way to fly**
 
@@ -35,7 +37,7 @@ Cities have also turned to drones for help in the midst of the COVID-19 pandemic
 
 In **Vilnius**, the capital of Lithuania, drones were tasked to distribute leaflets with information about quarantines to citizens. These and other cities’ experience demonstrate how drones could play a role in future outbreak response measures. 
 
-![Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus](/images/features/2020/drone-covid2.jpg/)*Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus. Photo: Vasilis Ververidis © 123rf.com*
+###### ![Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus](/images/features/2020/drone-covid2.jpg/)**Drone with recorded message informs citizens of Thessaloniki in Greece to stay home to be protected from the coronavirus** © Vasilis Ververidis/ 123rf.com
 
 ---
 

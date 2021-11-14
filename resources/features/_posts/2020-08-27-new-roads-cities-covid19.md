@@ -9,9 +9,11 @@ description: As cities adapt to life in the COVID-19 era, many are seizing the m
 |---:|
 | Feng Zengkun |
 
-***As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this first in a series of articles, we look at how cities are repurposing streets to make room for businesses, cyclists and pedestrians, transform travel and reinvent neighbourhoods.***
+##### As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this first in a series of articles, we look at how cities are repurposing streets to make room for businesses, cyclists and pedestrians, transform travel and reinvent neighbourhoods.
 
-![Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes](/images/features/2020/milan-cycling.jpg/)*Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes. Photo: photolime © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Seattle, Vancouver BC, Milan, Paris, Montreal, Madrid, Portland, Melbourne, London
+
+###### ![Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes](/images/features/2020/milan-cycling.jpg/)**Milan is widening pedestrian paths and transforming 35km of streets into permanent cycling lanes** © photolime/ 123rf.com
 
 As the COVID-19 coronavirus spread in the United States earlier this year, the city of Seattle, like many others, asked residents to stay at home and venture out only to buy groceries and exercise. To help those with no parks near them, [the city closed over 20 miles (approximately 32 kilometres) of roads](https://www.seattle.gov/transportation/projects-and-programs/programs/stay-healthy-streets) in areas with low car ownership and limited open space to most vehicles, so that people could walk, cycle and exercise outdoors. 
 
@@ -19,7 +21,10 @@ Although this 'Stay Healthy Streets' initiative was intended to be a temporary m
 
 Across the world, cities are adapting to the pressures of the pandemic and taking steps to protect their citizens’ health. The disruption caused by the coronavirus, however, has also given them a rare window to reinvent their land use. Nowhere is this more apparent than in the streets. Cities are introducing new plans and accelerating existing ones to repurpose their roads for a variety of uses, not only to satisfy the need for physical distancing but to lay the groundwork for a more resilient, sustainable and healthier future.
 
-> "As we rebuild our city, we have the opportunity to build lasting, positive change towards a more liveable, safer city for all."
+<br>
+> ##### "As we rebuild our city, we have the opportunity to build lasting, positive change towards a more liveable, safer city for all."
+
+<div align="right"><b>— City of Seattle government</b></div>
 
 #### **Making room for safe distancing**
 
@@ -33,7 +38,7 @@ Similarly, Milan is [widening pedestrian paths and transforming 35 kilometres of
 
 For some cities, the retooling of streets is a crucial component in ambitious plans to reimagine neighbourhoods. By constructing and connecting cycling lanes, or restricting traffic on groups of streets to produce car-lite or car-free zones, cities are making it easier and safer for people to cycle or walk to shops and services in their vicinity while observing social distancing. This will increase footfall to local businesses, aiding in their recovery from the impact of COVID-19. In the longer term, such neighbourhoods will also benefit from less motor-related noise and air pollution, and help to foster stronger bonds within communities.
 
-![Paris Mayor Anne Hidalgo pledges towards a 15-minute city](/images/features/2020/paris-cycling.jpg/)*Paris Mayor Anne Hidalgo pledges towards a 15-minute city for the French capital. Photo: Jerome Labouyrie © 123rf.com*
+###### ![Paris Mayor Anne Hidalgo pledges towards a 15-minute city](/images/features/2020/paris-cycling.jpg/)**Paris Mayor Anne Hidalgo pledges towards a 15-minute city for the French capital** © Jerome Labouyrie/ 123rf.com
 
 Since the pandemic started, Paris, France, has [reserved 50 kilometres of lanes normally used by cars for bicycles](https://www.rfi.fr/en/france/20200701-paris-temporary-bike-lanes-to-become-permanent-after-hidalgo-re-election-mayor-green-pollution-cars). The Rue de Rivoli, which is the main east-west thoroughfare through the French capital, [is now solely for cyclists and pedestrians](https://www.bbc.com/news/world-europe-52483684), with only a few exceptions, such as for emergency vehicles, and this could become permanent. These new cycling corridors will [contribute towards Paris Mayor Anne Hidalgo’s goal to have a bicycle lane on every street by 2024](https://www.independent.co.uk/news/world/europe/paris-municipal-election-mayor-bike-lane-anne-hidalgo-a9341776.html), which is essential to her far-reaching vision for Paris to become a ['15-minute city'](https://www.theguardian.com/world/2020/feb/07/paris-mayor-unveils-15-minute-city-plan-in-re-election-campaign) – an urban planning concept where all residents can reach essential goods and services, including parks, schools, clinics, shops and their workplaces, within 15 minutes by walking or cycling. 
 
@@ -43,7 +48,10 @@ In a similar bid to give pedestrians and cyclists more space, Madrid in Spain wi
 
 Other cities, including Portland in the United States and Melbourne in Australia, are enacting similar plans. In Portland, for example, the authorities are [adding bicycle lanes to selected roads in some neighbourhoods](https://bikeportland.org/2020/06/25/pbot-has-funding-and-plan-to-vastly-improve-biking-in-northwest-317655) so that nearly all residents and shops are within 500 feet (approximately 150 metres) of one of the lanes.
 
-> "We must invest in a sustainable, resilient and equitable recovery, not only to address the immediate COVID-19 pandemic, but to ensure that we are prepared for future shocks."
+<br>
+> ##### "We must invest in a sustainable, resilient and equitable recovery, not only to address the immediate COVID-19 pandemic, but to ensure that we are prepared for future shocks."
+
+<div align="right"><b>—Mayors worldwide belonging to C40 Cities</b></div>
 
 #### **Changing the city**
 

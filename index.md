@@ -15,15 +15,15 @@ sections:
         key_highlights:
             - title: Prize Laureates
               description: 
-              url: /cities/laureates/
+              url: /laureates/
     - infobar:    
         title: The Prize
         subtitle: Established 2009
         description: The Lee Kuan Yew World City Prize is a biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: Find out more    
-        url: /about/about-the-prize/
+        url: /about-the-prize/
     - infopic:
-        title: Post-pandemic cities - how will they shape up?
+        title: Post-pandemic cities — how will they shape up?
         subtitle: Article spotlight
         description: What are some of the key focuses of cities in a post-pandemic world? We look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.
         button: Read More
@@ -43,9 +43,9 @@ sections:
         subtitle: Join our mailing list
         description: Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
         button: Click here   
-        url: https://go.gov.sg/newsletter
+        url: /subscribe/
     - resources:
         title: 
-        subtitle: Fresh content
-        button: More articles
+        subtitle: Lessons from cities
+        button: More resources
 ---

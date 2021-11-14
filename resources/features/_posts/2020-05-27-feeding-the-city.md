@@ -5,13 +5,15 @@ image: /images/features/2020/feeding-the-city.jpg
 description: Cities can provide significant amounts of vegetables and other crops to help feed the world as its population grows, according to a recent study. Many cities are already building rooftop farms, converting greenery into vegetable plots and encouraging residents to become part-time farmers through a variety of means.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***Cities can provide significant amounts of vegetables and other crops to help feed the world as its population grows, according to a recent study. Many cities are already building rooftop farms, converting greenery into vegetable plots and encouraging residents to become part-time farmers through a variety of means.***
+##### Cities can provide significant amounts of vegetables and other crops to help feed the world as its population grows, according to a recent study. Many cities are already building rooftop farms, converting greenery into vegetable plots and encouraging residents to become part-time farmers through a variety of means.
 
-![Urban agriculture](/images/features/2020/feeding-the-city.jpg/)*Man holding a bucket full of lettuce in front of his urban farm. Photo: ferli © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Singapore, Seattle, Tokyo, Paris, London, Liverpool, Quito, Vancouver BC
+
+###### ![Urban agriculture](/images/features/2020/feeding-the-city.jpg/)**Man holding a bucket full of lettuce in front of his urban farm** © ferli/ 123rf.com
 
 By 2050, the world will need to produce up to 70 percent more food to feed about two billion more people, [according to projections by the United Nations and scientists](https://theconversation.com/we-dont-need-to-double-world-food-production-by-2050-heres-why-74211). While improving farming practices and minimising food waste are essential to meeting this challenge, growing more food in cities could also mean the difference between success and failure. 
 
@@ -21,6 +23,8 @@ Dr Robert Costanza, Professor of Public Policy at the Australian National Univer
 
 #### **Finding room for growth**
 
+###### ![A rooftop urban farm in Singapore](/images/features/2020/urban-farm-sg.jpg/)**A rooftop urban farm in Singapore** © thosewhowander/ Shutterstock.com
+
 In land-scarce Singapore, the government is setting its sights on increasing the number of rooftop farms. In 2019, it worked with urban farming firm to [construct a 1,800-square-metre farm on top of a multi-storey carpark](https://www.straitstimes.com/singapore/urban-farm-to-grow-four-tonnes-of-vegetables-a-month-on-top-of-hdb-carpark) and evaluate its productivity. The farm currently grows up to four tonnes of vegetables monthly which are sold in a nearby supermarket. With its success, the government will [allow businesses to rent nine other publicly-owned carparks’ rooftop areas to farm vegetables and other crops](https://www.straitstimes.com/singapore/nine-multi-storey-carpark-rooftops-in-singapore-to-be-converted-to-urban-farms). It also plans to lease more sites. 
 
 Apart from making space for the farms, the city also introduced grants and legislation to boost interest in them. In April 2020, it launched a [SGD $30 million (approximately USD $21 million) fund to help local farmers](https://www.channelnewsasia.com/news/singapore/singapore-food-security-30-million-grant-eggs-vegetables-fish-12621414) of vegetables, fish and eggs ramp up production, including through investments in technology. Property developers, who have long been required to replace the greenery displaced by their projects, can also now [install rooftop farms to meet the mandate](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr17-77). 
@@ -29,7 +33,10 @@ Seattle in the United States, on the other hand, has encouraged residents to gro
 
 Beyond rooftops and roadside planting strips, other spaces in a city could be ripe for urban agriculture too. In Tokyo, Japan, the authorities have [utilised vacant spaces under elevated train tracks to propagate plants](https://www.straitstimes.com/asia/east-asia/goats-pigs-and-veggies-crop-up-in-urban-tokyo), including kale, endives and basil. The cultivated crops are sold to restaurants in the city. Owners of shopping centres and office towers have set aside units or even entire floors to grow vegetables which are harvested and served in their cafes and cafeterias. Official statistics show that the [produce grown in Tokyo alone can feed at least 700,000 people](http://english.agrinews.co.jp/?p=8976), and the city also organised and hosted an inaugural Urban Agriculture World Summit in 2019 to learn from others.
 
-> "Urban agriculture alone will never feed the world, but it can vastly improve the natural capital in cities and produce a range of benefits beyond just food."
+<br>
+> ##### "Urban agriculture alone will never feed the world, but it can vastly improve the natural capital in cities and produce a range of benefits beyond just food."
+
+<div align="right"><b>— Dr Robert Costanza</b> <br> Professor of Public Policy, Australian National University</div>
 
 #### **From vacant lots to vegetable plots**
 
@@ -41,7 +48,10 @@ Other cities have transformed their derelict underground spaces into highly prod
 
 In Britain, [London](https://www.theguardian.com/environment/2019/feb/10/urban-farming-feeding-cities-of-the-future) and [Liverpool](https://www.theguardian.com/environment/2019/dec/26/farming-of-the-future-rise-of-hydroponic-food-labs-thomas-myers) have sited underground farms in various defunct facilities, including a former bomb shelter and its tunnels as well as the deep basements of industrial buildings that have been repurposed for other uses. In 2018, the South Korean government also gave the green light for [an agriculture firm to grow leafy greens and strawberries in an abandoned, 600-metre-long highway tunnel south of Seoul](https://edition.cnn.com/2019/12/09/asia/south-korea-vertical-farm-intl-c2e/index.html). [Stockholm in Sweden](https://www.fastcompany.com/40503488/this-underground-urban-farm-also-heats-the-building-above-it) and [New York City in the United States](https://newyork.cbslocal.com/2019/04/17/from-basement-to-table-underground-farm-grows-specialty-items-in-manhattan/) are other examples of cities that have invested in underground farms.
 
-> “Urban agriculture helps to make cities more resilient, not only by diversifying food sources and income opportunities, but by enhancing vegetation cover and water infiltration, and contributing to the sustainable management of water and natural resources.”
+<br>
+> ##### “Urban agriculture helps to make cities more resilient, not only by diversifying food sources and income opportunities, but by enhancing vegetation cover and water infiltration, and contributing to the sustainable management of water and natural resources.”
+
+<div align="right"><b>— United Nations</b></div>
 
 #### **A community effort**
 

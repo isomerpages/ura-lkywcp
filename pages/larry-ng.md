@@ -1,13 +1,11 @@
 ---
-title: Biography - Larry Ng
-permalink: /about/prize-secretary/
+title: Biography — Larry Ng
+permalink: /larry-ng/
 ---
 
 <div style="width:150px"><img src="/images/jury/larry-ng.png" alt="Larry Ng" /></div>
 
-**Mr Larry Ng**<br>
-Prize Secretary<br>
-Lee Kuan Yew World City Prize
+##### **Mr Larry Ng** <br> Prize Secretary <br> Lee Kuan Yew World City Prize <br> Singapore
 
 ---
 

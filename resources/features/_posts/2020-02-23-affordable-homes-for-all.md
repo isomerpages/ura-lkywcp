@@ -5,13 +5,15 @@ image: /images/features/2020/housing-green.jpg
 description: Cities from Sydney to Los Angeles are grappling with soaring home prices and a growing lack of affordable accommodation for residents. From novel ways to adapt residential estates to self-sustaining financing models, these are some examples of new infrastructural and legislative ideas.
 ---
 
-| Author |
+| Writer |
 |---:|
 | Feng Zengkun |
 
-***Cities from Sydney to Los Angeles are grappling with soaring home prices and a growing lack of affordable accommodation for residents. From novel ways to adapt residential estates to self-sustaining financing models, these are some examples of new infrastructural and legislative ideas.***
+##### Cities from Sydney to Los Angeles are grappling with soaring home prices and a growing lack of affordable accommodation for residents. From novel ways to adapt residential estates to self-sustaining financing models, these are some examples of new infrastructural and legislative ideas.
 
-![Housing for all](/images/features/2020/housing-green.jpg/)*Illustration: venimo © 123rf.com*
+> ###### **Cities mentioned in this article:** <br> Sydney, Los Angeles, Maputo, Harrow, Coventry, Norwich, Bristol, Paris, Madrid, Valencia, Barcelona, Vienna, Melbourne, Fremantle
+
+###### ![Housing for all](/images/features/2020/housing-green.jpg/)**How can cities provide affordable housing for all?** © venimo/ 123rf.com
 
 More people are moving to cities, but homes in them are becoming increasingly unaffordable. In 2019, property consultancy Knight Frank found that [the average real house price in 32 major cities worldwide is rising much faster than their residents’ average real income](https://www.knightfrank.com/blog/2019/01/28/the-knight-frank-global-affordability-monitor-2019), signalling a growing problem in housing affordability. Between 2013 and 2018, the average real house price in the cities, which includes Sydney, Berlin, Tokyo, Amsterdam, London, Hong Kong, Vancouver and Kuala Lumpur, rose by 24 percent, compared to just 8 percent for their residents’ average real income.
 
@@ -19,7 +21,10 @@ The Knight Frank survey echoed findings by many other organisations. [According 
 
 To provide more affordable housing and arrest the growth in home prices, many cities are taking steps to adapt their residential estates to house more people, turn underused spaces such as car parks into homes, and ensure the proper use of existing housing stock. 
 
-> "Cities in all regions face serious affordability challenges when it comes to housing, and housing affordability deteriorates as cities face increases in population.”
+<br>
+> ##### "Cities in all regions face serious affordability challenges when it comes to housing, and housing affordability deteriorates as cities face increases in population.”
+
+<div align="right"><b>— A study from New York University</b></div>
 
 #### **Making housing denser**
 
@@ -31,7 +36,7 @@ The city offers [financing and technical advice to build the ADUs](https://adu.l
 
 In Maputo, the capital of Mozambique, on the other hand, the focus is on transforming informal settlements that have become part of the urban landscape. While their single-storey, makeshift houses serve as affordable homes for low-income residents, they are an inefficient use of land. The government has come up with an [elegant and self-sustaining solution](https://www.casaminha.co/): demolish the ramshackle homes, build well-designed, two-storey, two-home properties in their place, give one to the low-income family for a nominal fee, and sell the other to finance the operation. Residents can choose whether or not to participate in the initiative. 
 
-![Housing for all](/images/features/2020/affordable-housing.jpg/)*Providing affordable housing for its residents is an increasing challenge for cities as they grow. Illustration: Bakhtiar Zein © 123rf.com*
+###### ![Housing for all](/images/features/2020/affordable-housing.jpg/)**Providing affordable housing for its residents is an increasing challenge for cities as they grow** © Bakhtiar Zein/ 123rf.com
 
 #### **Repurpose for results**
 
@@ -39,7 +44,10 @@ Emerging trends may also free up land that can be used for additional housing. W
 
 Office space conversions are another potential solution for housing shortages. Paris in France plans to use oversupplied office spaces to [create the majority of its targeted 30,000 new affordable homes in the next six years](https://www.citylab.com/transportation/2020/01/paris-municipal-election-anne-hidalgo-green-proposal-housing/604975/). The homes, to be funded by a public-private partnership, will have rents at least 20 percent lower than market rates. As more companies adopt hotdesking and activity-based work, which require less office space, such conversions will become an increasingly viable option for cities.
 
-> “There’s no one-size-fits-all solution to address homeless and improving housing affordability across countries. Cities need to invest more in affordable housing, and policy makers must adopt different solutions according to their specific city contexts.”
+<br>
+> ##### “There’s no one-size-fits-all solution to address homeless and improving housing affordability across countries. Cities need to invest more in affordable housing, and policy makers must adopt different solutions according to their specific city contexts.”
+
+<div align="right"><b>— United Nations</b></div>
 
 #### **A legislative approach**
 

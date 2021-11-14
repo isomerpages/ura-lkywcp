@@ -1,12 +1,11 @@
 ---
-title: Biography - Wulf Daseking
-permalink: /about/prize-jury/nominating-committee/wulf-daseking/
+title: Biography — Wulf Daseking
+permalink: /wulf-daseking/
 ---
 
 <div style="width:150px"><img src="/images/jury/wulf-daseking.png" alt="Wulf Daseking" /></div>
 
-**Prof Wulf Daseking**<br>
-Professor, University of Freiburg, Germany
+##### **Prof Wulf Daseking** <br> Professor <br> University of Freiburg <br> Germany
 
 ---
 

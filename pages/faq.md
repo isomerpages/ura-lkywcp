@@ -7,6 +7,16 @@ permalink: /faq/
 |---:|
 | 20 Oct 2021 |
 
+###### ![FAQ](/images/FAQ.jpg/)**Illustration** © stories/ freepik.com
+
+#### **Sections**
+
+- [Stage A nominations](#stage-a-nominations) 
+- [Stage B submissions](#stage-b-submissions)
+- [Announcement and award](#announcement-and-award)
+
+---
+
 # **Stage A nominations**
 
 #### **Who is eligible to nominate?**
@@ -24,15 +34,15 @@ Self-nominations (i.e. nominations made by the city administration for their own
 
 #### **How many nominations can a nominator make?**
 
-There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form (*nominations closed*) and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
+There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form[^1] and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
 
 #### **Who can be nominated for the Prize?**
 
-The Prize is <u>awarded to cities only</u>. As such, a city may be nominated with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable). 
+The Prize is **<mark>awarded to cities only</mark>**. As such, a city may be nominated with the city government taking the lead in the nomination, in association with their key partner organisations (if applicable). 
 
 #### **How do I make the nomination?**
 
-The nominator shall make the nominations using the official nomination form (*nominations closed*), accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
+The nominator shall make the nominations using the official nomination form[^1], accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
 
 #### **How will I know if my nomination is received?**
 
@@ -44,7 +54,7 @@ No. There are no fees required for both Stage A and B.
 
 #### **What should the Stage A recommendation letter contain?**
 
-The nominator should make a case to support why the city should win the Prize by highlighting key strategies and/or initiatives that contribute to the holistic transformation of the city over <u>at least 10 years</u>, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
+The nominator should make a case to support why the city should win the Prize by highlighting key strategies and/or initiatives that contribute to the holistic transformation of the city over **<mark>at least 10 years</mark>**, in particular the creation of liveable, vibrant and sustainable communities within a quality built environment that incorporates the principles of sustainable development.
 
 The following are some guiding points for the recommendation letter:
 
@@ -58,6 +68,8 @@ The following are some guiding points for the recommendation letter:
 
 The recomendation letter should preferably be around 600 words.
 
+[Back to top](#sections)
+
 ---
 
 # **Stage B submissions**
@@ -68,7 +80,7 @@ The nominated city (i.e. city government and/or key partner organisation appoint
 
 #### **What do I need to submit for Stage B?**
 
-The nominated city will be informed via email to prepare and submit a detailed report using the official report template. This report comprises the following:
+The nominated city will be informed via email to prepare and submit a detailed report using the official report template[^2]. This report comprises the following:
 
 - Key statistics comparing the city today and 10-20 years ago
 - Background of the city
@@ -103,31 +115,40 @@ The demonstration projects should illustrate the success of the city's overall m
 
 Demonstration projects can either be fully or partially completed. The completed phase(s) should sufficiently demonstrate the efficacy of the project, i.e. there should be some quantifiable or observable results. The will allow the jurors to make a fair evaluation of the project.
 
+[Back to top](#sections)
+
 ---
 
-# **World Cities Summit** 
+# **Announcement and award** 
 
 #### **When will the results be announced?**
 
-The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our monthly newsletter](https://go.gov.sg/newsletter) to get our latest news in your inbox.
+The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our newsletter](/subscribe/) to get our latest news in your inbox.
 
 #### **Who will be invited to receive the award?**
 
-The Mayor of the Laureate city will be invited to the Lee Kuan Yew Prize Award Ceremony & Banquet (a highlight event of the World Cities Summit, a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate.
+The Mayor of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony & Banquet</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
 
-#### **Will the Prize Laureate and Special Mention(s) be sharing at a public platform?**
+#### **Will the Prize Laureate and Special Mention(s) be invited to speak?**
 
-The Prize Laureate will be invited to share their achievements at the Lee Kuan Yew World City Prize Lecture, while the Special Mention(s) will be invited to share their urban initiatives at the Lee Kuan Yew World City Prize Forum. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
+The Prize Laureate will be invited to share their achievements at the **<mark>Lee Kuan Yew World City Prize Lecture</mark>**, while the Special Mention(s) will be invited to share their urban initiatives at the **<mark>Lee Kuan Yew World City Prize Forum</mark>**. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-World Cities Summit (WCS) will return to the in-person format from 31 July to 3 August 2022, at the Sands Expo & Convention Centre in Singapore. The Prize events will be held in conjunction with WCS 2022. Please check the WCS website [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+World Cities Summit (WCS) will return to the in-person format from 31 July to 3 August 2022, at the Sands Expo & Convention Centre in Singapore. The Prize events will be held in conjunction with WCS 2022. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 For COVID-19-related measures and travel restrictions in Singapore, please visit the following resources: 
 
 - [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
 - [Border control measures in Singapore](https://safetravel.ica.gov.sg)
 
+[Back to top](#sections)
+
 ---
 
-For other enquiries, please [contact us](/contact-us/). 
+For other enquiries, please [contact us](/feedback/). 
+
+---
+
+[^1]: The link to the online nomination form will be made available when nominations are open.
+[^2]: The link to download the official report template will be made available when nominations are open.
