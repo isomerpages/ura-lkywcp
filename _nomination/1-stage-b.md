@@ -1,17 +1,17 @@
 ---
 title: Stage B
-permalink: /nominations/stageb/
+permalink: /stage-b/
 ---
 
 ##### **Stage B closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [join our mailing list](/subscribe/).
 
 ###### ![Stage B Report](/images/stage-b-report.jpg/)**Illustration** © stories/ freepik.com
 
-The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/nominations/stagea) before proceeding.
+The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
 
 #### **Detailed written report**
 
-After completing [Stage A](//nominations/stagea), the nominated city will be informed to prepare and submit a detailed report using the official report template[^1]. This report comprises the following: 
+After completing [Stage A](/stage-a), the nominated city will be informed to prepare and submit a detailed report using the official report template[^1]. This report comprises the following: 
 
 | **1** | **Key statistics** <br> Comparing the city today and 10-20 years ago |
 | **2** | **City portfolio** <br> Background information on the city |
