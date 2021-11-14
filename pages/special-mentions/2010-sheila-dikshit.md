@@ -3,7 +3,7 @@ title: 2010 Special Mention — Mrs Sheila Dikshit
 permalink: /sheila-dikshit/
 ---
 
-##### The late Mrs Sheila Dikshit is recognised for her efforts to improve the living environment of Delhi through various implementations, despite limited resources and control.
+##### The late Mrs Sheila Dikshit is recognised for her efforts to improve the living environment of Delhi through various implementations, despite limited resources and control.[^1]
 
 ###### ![Sheila Dikshit](/images/special-mentions/sheila-dikshit.jpg)**The late Mrs Sheila Dikshit addressing a crowd (standing on the right).**
 
@@ -24,3 +24,7 @@ Other positive outcomes include the lowering of aggregate technical and commerci
 ##### **Biography** 
 
 | The late Mrs Sheila Dikshit served as the chief minister of Delhi for three consecutive terms, lasting from 1998 to 2013. She was the second woman chief minister of Delhi, after succeeding the previous Delhi chief minister, Sushma Swaraj. [More](https://www.oneindia.com/politicians/sheila-dikshit-59757.html) |
+
+---
+
+[^1]: Since 2014, the Prize accepted nominations from cities only, unlike the first two editions (2010 and 2012) where individuals and organisations were also eligible. This approach emphasises how successful cities require cooperation and collaboration across the different sectors. Key leaders, organisations and partners will still be recognised as part of the nomination. The late-Mrs Sheila Dikshit was recognised under the 'individuals' category for the 2010 Prize.
