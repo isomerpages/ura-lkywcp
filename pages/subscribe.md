@@ -45,7 +45,7 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 			cursor: pointer;
 			font-size: 18px;
 			width: 35%;
-			padding: 10px 10px;
+			padding: 10px 0px 10px 0px;
 
 		}
 			#mailchimp input[type="submit"]:hover { background: #000; }
