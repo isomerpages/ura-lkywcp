@@ -1,13 +1,13 @@
 ---
 title: Stage A
-permalink: /nominations/stagea/
+permalink: /stage-a/
 ---
 
 ##### **Stage A closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [join our mailing list](/subscribe/).
 
 ###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
 
-The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/nominations/stageb/).
+The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
 
 #### **Nominations**
 
@@ -35,7 +35,7 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 #### **Next step**
 
-- [Stage B](/nominations/stageb/)
+- [Stage B](/stage-b/)
 
 #### **Questions?**
 
