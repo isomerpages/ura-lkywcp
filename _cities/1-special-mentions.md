@@ -1,6 +1,6 @@
 ---
 title: Special Mentions
-permalink: /cities/special-mentions/
+permalink: /special-mentions/
 ---
 
 ![Special Mentions](/images/laureates/worldmap-special-mentions.jpg/)
