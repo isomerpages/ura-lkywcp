@@ -23,7 +23,7 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 }
 	#mailchimp input {
 		 border: medium none;
-    color: #000;
+    color: #484848;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     font-style: nil;
@@ -49,7 +49,7 @@ If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-
 			padding: 10px 10px;
 
 		}
-			#mailchimp input[type="submit"]:hover { background: #000; }
+			#mailchimp input[type="submit"]:hover { background: #484848; }
 </style>
 			
 <div id="mailchimp">
