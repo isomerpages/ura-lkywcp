@@ -8,12 +8,15 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 ##### Faced with increasing public opposition to urban development, Seoul could have taken the easy way out. Fortunately, the city chose to face its challenges and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.
 
-<br>
+#### **Case study 12**
 
 | **City** | [Seoul](/seoul/) |
 | **Type** | Urban planning |
 | **Location** | Citywide |
 | **Scale** | Large |
+| **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
+
+---
 
 #### **In brief**
 
@@ -23,9 +26,11 @@ description: Faced with increasing public opposition to urban development, Seoul
 - Extensive participatory planning efforts culminated in the [Seoul Plan 2030](http://english.kompass.kr/policy/urban-planning/urban-planning/1-2030-seoul-basic-urban-plan/), with a vision – “Happy City of Citizens with Communication & Consideration” decided by citizens.
 - On top of that, the government launched the ‘Participatory Budget System’ and ‘Community Building Project’ to give citizens a bigger say in local matters. 
 
+[Back to top](#case-study-12)
+
 ---
 
-#### **Key issues faced before the implementation of the project**
+#### **Key issues before the project**
 
 ###### ![A highway plies above the Cheonggyecheong stream pre-restoration](/images/features/2020/seoul-before.jpg/)**A highway plies above the Cheonggyecheong stream pre-restoration** © Seoul Metropolitan Government
 
@@ -34,6 +39,8 @@ description: Faced with increasing public opposition to urban development, Seoul
 - A fast-paced government-led development in the past brought benefits to the city, but gradually disintegrated community ties, local identities and communal traditions. 
 - Past master plans were ineffective in coping with the rapid changes in social conditions, such as the rise of single-person households, social polarisation and worsening gender inequality. Citizens were also largely left out of their formulation. 
 - The lack of an effective master plan translates to an inconsistent urban development, risking a disorderly development pattern across the city. 
+
+[Back to top](#case-study-12)
 
 ---
 
@@ -46,6 +53,8 @@ description: Faced with increasing public opposition to urban development, Seoul
 - For instance, community plans are established for the sub-regions of Seoul, to actualise the visions and strategies under the Seoul Plan 2030 in these smaller areas. 
 - Citizen participatory groups are also formed at various levels as small as neighbourhoods. 
 - The regional planning process is designed as a bottom-up process where citizens’ inputs are fully accounted for. The city organises educational programmes to cultivate citizens, while ensuring full transparency of the planning processes.
+
+[Back to top](#case-study-12)
 
 ---
 
@@ -63,7 +72,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 ---
 
-#### **Impacts of the project**
+#### **Impacts**
 
 ###### ![Impacts](/images/features/2020/impacts-seoul1.png/)
 
@@ -73,6 +82,8 @@ description: Faced with increasing public opposition to urban development, Seoul
 - Under the Participatory Budget System, nearly 117,000 people voted for projects in 2017. Before that, the vote was limited to a committee of 250 people selected through a random electronic draw. 
 - Between 2012 – 2018, many community projects have received funding through the Participatory Budget System. These include gas safety valves installation in the homes of low-income elderly, setting up community restaurant that makes bean sprout dishes with bean sprout grown in senior citizen centres, initiatives to stop bullying and school violence, and improvement of facilities for people with disabilities.
 
+[Back to top](#case-study-12)
+
 ---
 
 #### **Replicable ideas**
@@ -81,3 +92,5 @@ description: Faced with increasing public opposition to urban development, Seoul
 
 - The governance structure created for Seoul Plan 2030 can serve as a platform to reach social consensus on follow-up plans, with citizens at the centre of processes. 
 - A city’s master plan can contain strategies for the better future ‘of the citizen’, ‘by the citizens’ and ‘for the citizens’. It is an important step for a city to progress not just in material prosperity but also in a way that the citizens desired. **<font color="#967942">O</font>**
+
+[Back to top](#case-study-12)
