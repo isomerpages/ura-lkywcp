@@ -13,7 +13,6 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 | **City** | [Medellín](/medellin/) |
 | **Type** | Urban regeneration/ social programmes |
 | **Size** | 11,110 ha |
-| **Scale** | Large |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
 
 ---
@@ -71,13 +70,13 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 ###### ![Impacts](/images/features/2020/impacts-medellin1.png/)
 
-- 41ha of ecological restoration were completed to protect the Pan de Azúcar hill and the distances from creeks. 
+- 41 hectares of ecological restoration were completed to protect the Pan de Azúcar hill and the distances from creeks. 
 - 120,000 new trees are planted, of which 50,000 are crop trees, allowing harvest and generation of economy. 
 - Over 12,000 garden varieties are planted to beautify the surroundings of the transformed spaces, and 31,000 square metres of gardens are planted that benefit some 490 families for self-sufficiency through barter trades and sales for surpluses.
 - Two eco-parks are built and three others under construction, which will be connected to a footpath called ‘Camino de la Vida’ (Path of Life), with 3.8 kilometres already built. 
 - Under the targets of the city masterplan, the project aims to increase public space from 3.8 square metres to 15 square metres per inhabitant.
 - More than 49,000 people are mobilised in the processes of socialisation, participation, workshops, tours and events.
-- Around 2,500 people are trained in agro-ecology, partnerships, construction, and landscape work, with 95% of the workers being local residents, of which 30 percent are women.
+- Around 2,500 people are trained in agro-ecology, partnerships, construction, and landscape work, with 95 percent of the workers being local residents, of which 30 percent are women.
 
 [Back to top](#case-study-9)
 
