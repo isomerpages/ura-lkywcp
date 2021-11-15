@@ -12,7 +12,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 | **City** | [Tokyo](/tokyo/) |
 | **Type** | Urban planning/transport & mobility |
-| **Period of development** | Approximately 60 years  |
+| **Project period** | Approximately 60 years  |
 | **Project scope** | 63 km<sup>2</sup> (area within JR Yamanote line in central Tokyo)  |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
 
