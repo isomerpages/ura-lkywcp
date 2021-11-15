@@ -36,7 +36,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 ###### ![Tokyo faced traffic congestion in its early days of rapid urbanisation](/images/features/2021/tokyo-congestion.jpg/)**Tokyo faced severe traffic congestion in its early days of rapid urbanisation** © Tokyo Metropolitan Government
 
 - The devastation from the second World War gave the national and city government an urgent need to rebuild Tokyo from scratch. 
-- The post-war rapid economic growth coupled with population increase saw a lack of public transport capacity in the metropolitan region. Congestion rate in trains exceeded 200% then. 
+- The post-war rapid economic growth coupled with population increase saw a lack of public transport capacity in the metropolitan region. Congestion rate in trains exceeded 200 percent then. 
 - Insufficient housing in the city centre meant that housing needed to be expanded in suburban areas in order to cater to the increasing population. 
 - Tokyo needed to find a sustainable model to operate its railway business, as well as allowing anyone to move freely in the megacity regardless of income level and without private car ownership.
 
