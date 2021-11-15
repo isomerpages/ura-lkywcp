@@ -8,12 +8,15 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 ##### A former industrial brownfield site, HafenCity is Hamburg’s new ‘city-within-a-city’ and a role model of inclusive inner-city densification realised through an innovative governance structure and a unique land sales programme.
 
-<br>
+#### **Case study 14**
 
 | **City** | [Hamburg](/hamburg/) |
 | **Type** | Urban regeneration |
 | **Location** | Elbe River waterfront  |
-| **Size** | 157 hectares |
+| **Size** | 157 ha |
+| **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
+
+---
 
 #### **In brief**
 
@@ -23,9 +26,11 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - When completed, HafenCity will house more than 2.4 million square metres of gross floor area, more than 7,000 residential units, accommodate 5,000 university students and 70,000 visitors a day, and open up some 45,000 job opportunities. 
 - HafenCity is anchored by the iconic cultural project – [Elbphilharmonie Concert Hall](https://www.elbphilharmonie.de/en/), an adaptive reuse of an old warehouse and designed by renowned architects Herzog & de Meuron.
 
+[Back to top](#case-study-14)
+
 ---
 
-#### **Key issues faced before the implementation of the project**
+#### **Key issues before the project**
 
 ###### ![The extent of HafenCity next to the inner-city](/images/features/2021/hafencity-area.jpg/)**The extent of HafenCity next to the inner-city** © City of Hamburg/HafenCity
 
@@ -34,16 +39,20 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - Increasing container logistics in the 1990s drove much of Hamburg’s industrial activities away towards the south of the Elbe River, where the port could expand to cater to large container ships. 
 - Faced with an increasing demand for housing and offices as well as flood risks, the city decided to redevelop the former port area to create a new urban district.
 
+[Back to top](#case-study-14)
+
 ---
 
 #### **Leadership and governance**
 
 - A [master plan](https://www.hafencity.com/en/concepts/the-foundation-of-hafencity-the-masterplan.html) was created for HafenCity first in 2000, and subsequently amended in 2010, to guide the development of the district. 
-- The land is owned by the master planner – [HafenCity Hamburg GmbH](https://www.hafencity.com/en/home.html), a 100% subsidiary of the City of Hamburg but autonomous in operations from the city government. 
+- The land is owned by the master planner – [HafenCity Hamburg GmbH](https://www.hafencity.com/en/home.html), a 100 percent subsidiary of the City of Hamburg but autonomous in operations from the city government. 
 - By setting up tendering processes that favour quality over price criteria, HafenCity Hamburg GmbH drives development concepts that support a socially balanced mix of apartments – one-third of which are reserved for low and medium-income households, good architecture and urban design, and energy-efficiency. 
 - Contracts are awarded in a pre-sale process, which allows the successful bidder sufficient time to obtain finances, plan the architecture (also through a tender process), and obtain the building permit. 
 - The city on the other hand, intervenes during the development process to ensure diversity and quality of uses before a building permit can be obtained.
 - This process ensures a high degree of compliance with the overall vision of the district. 
+
+[Back to top](#case-study-14)
 
 ---
 
@@ -59,9 +68,11 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - HafenCity is elevated to 8 metres above sea level, with sufficient flood basins to address risks of flooding caused by tidal surges. 
 - The district’s urban design reflects the traditional architecture of the neighbouring Speicherstadt, with vistas carefully aligned to ensure the historic spires of churches are not obscured. 
 
+[Back to top](#case-study-14)
+
 ---
 
-#### **Impacts of the project**
+#### **Impacts**
 
 ###### ![Impacts](/images/features/2021/impacts-hamburg.png/)
 
@@ -69,6 +80,8 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - Several schools and kindergartens and HafenCity University as well as two other universities have opened. 
 - The [U4 subway](https://www.hafencity.com/en/concepts/new-subway-line-u4.html) started regular services in 2012.
 - Hamburg’s inner city now extends to the waterfront, creating a new modern identity for the city, and increasing the quality of the built environment. 
+
+[Back to top](#case-study-14)
 
 ---
 
@@ -80,3 +93,5 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - In large urban areas with a long-term development plan such as HafenCity, a flexible process would allow its development to address new challenges, requirements and issues over time. As such, the master plan was completely reworked in 2010 with intensive public discussion to address other areas that were not originally included. 
 - The process of land ownership and tendering process allow both the city and the stakeholders to achieve their objectives while jointly create a diversified urban and social fabric. 
 - The setting up of HafenCity Hamburg GmbH as an autonomous subsidiary helps to avoid cumbersome and lengthy planning processes and red tape. **<font color="#967942">O</font>**
+
+[Back to top](#case-study-14)
