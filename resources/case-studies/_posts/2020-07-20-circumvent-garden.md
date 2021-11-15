@@ -29,7 +29,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 ---
 
-#### **Key issues before tthe project**
+#### **Key issues before the project**
 
 ###### ![Path of Life](/images/features/2020/circumvent-garden-path.jpg/)**Path of Life** © ACI Medellín
 
