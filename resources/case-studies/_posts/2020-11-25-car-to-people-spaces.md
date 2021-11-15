@@ -79,7 +79,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 ---
 
-#### **Impacts of the project**
+#### **Impacts**
 
 ###### ![Impacts](/images/features/2020/impacts-seoul2.png/)
 
