@@ -12,7 +12,6 @@ description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East Riv
 | **City** | [New York City](/nyc/) |
 | **Type** | Urban regeneration |
 | **Size** | 34 ha |
-| **Scale** | Large |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
 
 ---
