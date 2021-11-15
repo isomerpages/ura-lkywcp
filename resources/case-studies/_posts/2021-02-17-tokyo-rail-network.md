@@ -31,7 +31,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 ---
 
-#### **Key issues faced before the implementation of the project**
+#### **Key issues before the project**
 
 ###### ![Tokyo faced traffic congestion in its early days of rapid urbanisation](/images/features/2021/tokyo-congestion.jpg/)**Tokyo faced severe traffic congestion in its early days of rapid urbanisation** © Tokyo Metropolitan Government
 
@@ -70,17 +70,17 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 ---
 
-#### **Impacts of the project**
+#### **Impacts**
 
 ###### ![Impacts](/images/features/2021/impacts-tokyo.png/)
 
-- The total rail length in Tokyo metropolitan area increased from 1,566km in 1956 to 2,705km in 2015, while the number of stations increased from 807 in 1956 to 1,510 in 2015. 
+- The total rail length in Tokyo metropolitan area increased from 1,566 kilometres in 1956 to 2,705 kilometres in 2015, while the number of stations increased from 807 in 1956 to 1,510 in 2015. 
 - Several mega stations (such as Shinjuku, Shibuya and Ikebukuro) have [daily passengers exceeding 2 million](https://pdf.savills.asia/asia-pacific-research/japan-research/japan-investment/jp-train-analysis-05-2020.pdf). 
-- The train modal share in Tokyo’s 23 Special Wards is 48%, higher than many major cities in the world. 
-- Approximately 80% of commuters in Tokyo use public transportation such as trains and buses. 
-- The centre of Tokyo within the JR Yamanote loop line is well covered by rail networks, with 64% of the area less than 5 minutes from the nearest station on foot, and almost 100% within 10 minutes from the nearest station on foot.
-- Tokyo’s measures to ease congestion, such as construction of new lines, adding tracks to existing lines, making trains longer, and enhancing through-services between railway operators, has seen its congestion rate decreased from 221% in 1975 to 164% in 2015. 
-- Railway stations are equipped with barrier-free features, with 90% equipped with elevators, 100% with guiding blocks for visually handicapped, and 95% with wheelchair-accessible washrooms. 
+- The train modal share in Tokyo’s 23 Special Wards is 48 percent, higher than many major cities in the world. 
+- Approximately 80 percent of commuters in Tokyo use public transportation such as trains and buses. 
+- The centre of Tokyo within the JR Yamanote loop line is well covered by rail networks, with 64% of the area less than 5 minutes from the nearest station on foot, and almost 100 percent within 10 minutes from the nearest station on foot.
+- Tokyo’s measures to ease congestion, such as construction of new lines, adding tracks to existing lines, making trains longer, and enhancing through-services between railway operators, has seen its congestion rate decreased from 221 percent in 1975 to 164 percent in 2015. 
+- Railway stations are equipped with barrier-free features, with 90 percent equipped with elevators, 100 percent with guiding blocks for visually handicapped, and 95 percent with wheelchair-accessible washrooms. 
 - Underground shopping streets around stations have been developed since the 1950s, providing a comfortable shopping experience for passengers and contributing revenue for railway companies. 
 
 [Back to top](#case-study-15)
