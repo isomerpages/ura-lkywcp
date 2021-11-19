@@ -7,7 +7,7 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: O
+        title: ·
         subtitle: 
         background: /images/worldmap-hero10.jpg
         button: 
