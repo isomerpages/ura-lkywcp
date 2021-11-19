@@ -27,4 +27,4 @@ Other positive outcomes include the lowering of aggregate technical and commerci
 
 ---
 
-[^1]: Since 2014, the Prize accepted nominations from cities only, unlike the first two editions (2010 and 2012) where individuals and organisations were also eligible. This approach emphasises how successful cities require cooperation and collaboration across the different sectors. Key leaders, organisations and partners will still be recognised as part of the nomination. The late-Mrs Sheila Dikshit was recognised under the 'individuals' category for the 2010 Prize.
+[^1]: The first two editions of the Prize (2010 and 2012) accepted nominations from both individuals and organisations. Since 2014, the Prize accepted nominations from cities only. The late-Mrs Sheila Dikshit was recognised under the 'individuals' category for the 2010 Prize.
