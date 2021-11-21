@@ -41,6 +41,8 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 - The Seoul Station Overpass and other overpasses in the city created an unpleasant urban landscape.
 - To better manage transportation demand in congested areas of the city, South Korea's Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
 
+[Back to top](#case-study-13)
+
 ---
 
 #### **Leadership and governance**
