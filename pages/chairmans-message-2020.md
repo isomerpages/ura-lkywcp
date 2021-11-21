@@ -1,6 +1,7 @@
 ---
 title: Chairman's Message
 permalink: /nomination/chairmans-message/
+published: false
 ---
 
 ![10 year anniversary](/images/10-year-anniversary.jpg)

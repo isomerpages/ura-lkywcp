@@ -27,4 +27,4 @@ The scheme is already accepted by Cape Town for emulation in comparable areas an
 
 ---
 
-[^1]: Since 2014, the Prize accepted nominations from cities only, unlike the first two editions (2010 and 2012) where individuals and organisations were also eligible. This approach emphasises how successful cities require cooperation and collaboration across the different sectors. Key leaders, organisations and partners will still be recognised as part of the nomination. AHT Group AG & Sun Development were recognised under the 'organisations' category for the 2012 Prize.
+[^1]: The first two editions of the Prize (2010 and 2012) accepted nominations from both individuals and organisations. Since 2014, the Prize accepted nominations from cities only. AHT Group AG & Sun Development were recognised under the 'organisations' category for the 2012 Prize.
