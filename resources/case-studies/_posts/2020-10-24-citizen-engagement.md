@@ -69,6 +69,8 @@ description: Faced with increasing public opposition to urban development, Seoul
 - After Seoul Metropolitan Council confirms each year’s budget, the Conflict Mediation Division analyses all slated projects and identifies those that could cause public unhappiness. With the help of professional mediators, the city then formulates resolution strategies to tackle them in a sensitive manner. 
 - If disagreements do occur, a conflict mediation agency conducts in-depth interviews with the parties and designs a settlement process, together with third-party professional mediators if necessary.  
 
+[Back to top](#case-study-12)
+
 ---
 
 #### **Impacts**
