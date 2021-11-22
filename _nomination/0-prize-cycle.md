@@ -7,7 +7,7 @@ permalink: /prize-cycle/
 
 ###### ![2020 Prize cycle](/images/prize-cycle.jpg)
 
-#### **2020 Prize cycle**
+#### **2020 Prize Cycle**
 
 | Date | Phase |
 | :--- | :--- |
