@@ -11,9 +11,9 @@ permalink: /prize-cycle/
 
 | Date | Phase |
 | :--- | :--- |
-| Jul 2018 - May 2019 | **Stage A** <br> Nominations of cities by independent third parties. <br> [Stage A nominations](/stage-a/) have closed. |
-| Jul 2018 - May 2019 | **Stage B** <br> Submissions of detailed report by nominated cities. <br> [Stage B submissions](/stage-b/) have closed. |
-| Jun 2019 - Mar 2020 | **Evaluations** <br> Evaluations of the submissions through a rigourous two-tier selection process. <br> [Evaluations](/evaluations/) have concluded. |
+| <s>Jul 2018 - May 2019</s> | **Stage A** <br> Nominations of cities by independent third parties. <br> [Stage A nominations](/stage-a/) have closed. |
+| <s>Jul 2018 - May 2019</s> | **Stage B** <br> Submissions of detailed report by nominated cities. <br> [Stage B submissions](/stage-b/) have closed. |
+| <s>Jun 2019 - Mar 2020</s> | **Evaluations** <br> Evaluations of the submissions through a rigourous two-tier selection process. <br> [Evaluations](/evaluations/) have concluded. |
 | Coming soon | **Announcement** <br> The results of the 2020 Prize will be announced soon. Watch this space. |
 | 31 Jul - 3 Aug 2022 | **Prize Lecture & Forum** <br> The Prize Laureate and Special Mentions will share their unique urban initiatives. <br> <br> **Award Ceremony** <br> The Prize will be awarded at the [World Cities Summit 2022](https://www.worldcitiessummit.com.sg) in Singapore. |
 
