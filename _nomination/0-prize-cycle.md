@@ -11,7 +11,7 @@ permalink: /prize-cycle/
 
 | Date | Phase |
 | :--- | :--- |
-| <s>Jul 2018 - May 2019</s> | **[Stage A Nominations](/stage-a/)** <br> Nominations of cities by independent third parties. <br> --- <br> ⚠️ <mark>Stage A nominations have closed.</mark> |
+| <s>Jul 2018 - May 2019</s> | **[Stage A Nominations](/stage-a/)** <br> Nominations of cities by independent third parties. <br> --- <br> ⚠️ Stage A nominations have closed. |
 | <s>Jul 2018 - May 2019</s> | **[Stage B Submissions](/stage-b/)** <br> Submissions of detailed report by nominated cities. <br> --- <br> ⚠️ <mark>Stage B submissions have closed.</mark> |
 | <s>Jun 2019 - Mar 2020</s> | **[Evaluations](/evaluations/)** <br> Evaluations of the submissions through a rigourous two-tier selection process. <br> --- <br> ⚠️ <mark>Evaluations have concluded.</mark> |
 | Coming soon | **Announcement** <br> Announcement of the results via a media conference in Singapore.[^1] <br> --- <br> The results of the 2020 Prize will be announced soon. Watch this space. |
