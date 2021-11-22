@@ -15,7 +15,7 @@ permalink: /prize-cycle/
 | <s>Jul 2018 - May 2019</s> | **[Stage B Submissions](/stage-b/)** <br> Submissions of detailed report by nominated cities. <br> --- <br> ⚠️ <mark>Stage B submissions have closed.</mark> |
 | <s>Jun 2019 - Mar 2020</s> | **[Evaluations](/evaluations/)** <br> Evaluations of the submissions through a rigourous two-tier selection process. <br> --- <br> ⚠️ <mark>Evaluations have concluded.</mark> |
 | Coming soon | **Announcement** <br> Announcement of the results via a media conference in Singapore.[^1] <br> --- <br> The results of the 2020 Prize will be announced soon. Watch this space. |
-| 31 Jul - 3 Aug 2022 | **Prize Lecture & Forum** <br> The Prize Laureate and Special Mentions will share their unique urban initiatives. <br> --- <br> **Award Ceremony** <br> The Prize will be awarded at the [World Cities Summit 2022](https://www.worldcitiessummit.com.sg) in Singapore. |
+| 31 Jul - 3 Aug 2022 | **Prize Lecture & Forum** <br> The Prize Laureate and Special Mentions will share their unique urban initiatives at the Lee Kuan Yew World City Prize Lecture and Forum, key highlights of [World Cities Summit (WCS) 2022](https://www.worldcitiessummit.com.sg) in Singapore. <br> --- <br> **Award Ceremony** <br> The Prize will be presented at the Lee Kuan Yew Prize Award Ceremony & Banquet. |
 
 #### **Questions?**
 
