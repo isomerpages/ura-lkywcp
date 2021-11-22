@@ -10,7 +10,7 @@ permalink: /prize-cycle/
 #### **2020 Prize cycle**
 
 | Date | Phase |
-| :---: | :--- |
+| :--- | :--- |
 | Jul 2018 - May 2019 | **Stage A** <br> Nominations of cities by independent third parties. <br> [Stage A nominations](/stage-a/) have closed. |
 | Jul 2018 - May 2019 | **Stage B** <br> Submissions of detailed report by nominated cities. <br> [Stage B submissions](/stage-b/) have closed. |
 | Jun 2019 - Mar 2020 | **Evaluations** <br> Evaluations of the submissions through a rigourous two-tier selection process. <br> [Evaluations](/evaluations/) have concluded. |
