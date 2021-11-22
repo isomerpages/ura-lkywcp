@@ -64,6 +64,8 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 - The project also aims to increase the city’s public spaces (such as sports facilities and community farms) from 3.8 square metres to 15 square metres per inhabitant under the city masterplan. 
 - Multi-modal routes connect the once-isolated areas to the rest of city, hence opening up to jobs and opportunities, and act as a social equaliser that helps to break down boundaries and reduce crime.
 
+[Back to top](#case-study-9)
+
 ---
 
 #### **Impacts**
