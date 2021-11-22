@@ -7,7 +7,7 @@ permalink: /prize-cycle/
 
 ###### ![2020 Prize cycle](/images/prize-cycle.jpg)
 
-##### **2020 Prize cycle**
+#### **2020 Prize cycle**
 
 | **Jul 2018 - May 2019** | **Stage A** <br> Nominations of cities by independent third parties. [Stage A nominations](/stage-a/) have closed. |
 | **Jul 2018 - May 2019** | **Stage B** <br> Submissions of detailed report by nominated cities. [Stage B submissions](/stage-b/) have closed. |
