@@ -1,6 +1,7 @@
 ---
 title: Nominating Committee
 permalink: /nominating-committee/
+third_nav_title: Prize Jury
 ---
 
 #### **Role of the Nominating Committee**
