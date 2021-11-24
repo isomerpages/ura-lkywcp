@@ -4,7 +4,7 @@ permalink: /stage-b/
 third_nav_title: Nominations
 ---
 
-##### **Stage B closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [join our mailing list](/subscribe/).
+##### The nominations for the 2020 Prize has closed. 
 
 ###### ![Stage B Report](/images/stage-b-report.jpg/)**Illustration** © stories/ freepik.com
 
