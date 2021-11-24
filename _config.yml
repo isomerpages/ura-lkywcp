@@ -6,7 +6,7 @@ shareicon: /images/shareicon.png
 collections:
   about:
     output: true
-  nomination:
+  apply:
     output: true
   cities:
     output: true
