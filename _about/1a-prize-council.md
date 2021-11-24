@@ -1,6 +1,7 @@
 ---
 title: Prize Council
 permalink: /prize-council/
+third_nav_title: Prize Jury
 ---
 
 #### **Role of the Prize Council**
