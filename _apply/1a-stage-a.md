@@ -4,7 +4,7 @@ permalink: /stage-a/
 third_nav_title: Nominations
 ---
 
-##### The nominations for the 2020 Prize has closed.
+##### The nominations for the 2020 Prize have closed.
 
 ###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
 
