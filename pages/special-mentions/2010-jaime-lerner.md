@@ -1,6 +1,8 @@
 ---
 title: 2010 Special Mention — Dr Jaime Lerner
 permalink: /jaime-lerner/
+image: /images/special-mentions/jaime-lerner.jpg
+description: The late Dr Jaime Lerner is recognised for implementing impactful urban solutions during his term as the mayor of Curitiba and the governor of Paraná.
 ---
 
 ##### The late Dr Jaime Lerner is recognised for implementing impactful urban solutions during his term as the mayor of Curitiba and the governor of Paraná.[^1]

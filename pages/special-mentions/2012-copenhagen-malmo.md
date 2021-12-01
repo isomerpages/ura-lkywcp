@@ -1,6 +1,8 @@
 ---
 title: 2012 Joint Special Mention — Copenhagen and Malmö
 permalink: /copenhagen-malmo/
+image: /images/special-mentions/copenhagen.jpg
+description: Copenhagen and Malmö are jointly recognised for their close collaboration and a shared vision across borders.
 ---
 
 ##### Copenhagen and Malmö are jointly recognised for their close collaboration and a shared vision across borders.

@@ -1,6 +1,8 @@
 ---
 title: 2018 Special Mention — Kazan
 permalink: /kazan/
+image: /images/special-mentions/kazan.jpg
+description: Kazan is recognised for its impressive turnaround from a formerly drab city with youth crimes and health issues into a healthy and harmonious city.
 ---
 
 ##### Kazan is recognised for its impressive turnaround from a formerly drab city with youth crimes and health issues into a healthy and harmonious city.

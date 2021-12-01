@@ -1,6 +1,8 @@
 ---
 title: 2016 Special Mention — Toronto
 permalink: /toronto/
+image: /images/special-mentions/toronto.jpg
+description: Toronto is recognised for its excellent social integration strategies, and its ambitious Waterfront Toronto initiative to rejuvenate the city core.
 ---
 
 ##### Toronto is recognised for its excellent social integration strategies, and its ambitious Waterfront Toronto initiative to rejuvenate the city core.

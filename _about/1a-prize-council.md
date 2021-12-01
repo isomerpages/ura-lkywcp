@@ -2,6 +2,7 @@
 title: Prize Council
 permalink: /prize-council/
 third_nav_title: Prize Jury
+description: The Prize Council reviews and selects the Prize Laureate based on the recommendations by the Nominating Committee.
 ---
 
 #### **Role of the Prize Council**

@@ -2,9 +2,11 @@
 title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
+image: /images/stage-a-nominations.jpg
+description: Cities interested to apply for the Prize shall approach an independent third party (nominator) to nominate them. 
 ---
 
-##### **Stage A closed:** The next cycle of the Prize is delayed due to COVID-19. Watch this space, or [join our mailing list](/subscribe/).
+##### The nominations for the 2020 Prize have closed.
 
 ###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
 
