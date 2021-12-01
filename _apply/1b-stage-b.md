@@ -2,6 +2,8 @@
 title: Stage B
 permalink: /stage-b/
 third_nav_title: Nominations
+image: /images/stage-b-report.jpg
+description: After completing Stage A, the nominated city will be informed to prepare and submit a detailed report using the official report template.
 ---
 
 ##### The nominations for the 2020 Prize have closed. 
