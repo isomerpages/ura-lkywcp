@@ -1,6 +1,8 @@
 ---
 title: Subscribe now
 permalink: /subscribe/
+image: /images/subscribe.jpg
+description: Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
 ---
 
 ##### Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
