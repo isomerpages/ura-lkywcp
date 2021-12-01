@@ -1,6 +1,8 @@
 ---
 title: 2016 Special Mention — Auckland
 permalink: /auckland/
+image: /images/special-mentions/auckland.jpg
+description: Auckland is recognised for overcoming planning challenges through a highly integrated and innovative governance model.
 ---
 
 ##### Auckland is recognised for overcoming planning challenges through a highly integrated and innovative governance model.
