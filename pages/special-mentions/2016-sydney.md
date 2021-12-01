@@ -1,6 +1,8 @@
 ---
 title: 2016 Special Mention — Sydney
 permalink: /sydney/
+image: /images/special-mentions/sydney.jpg
+description: Sydney is recognised for its strong leadership, commitment, and partnership with its citizens and stakeholders in tackling their urban challenges.
 ---
 
 ##### Sydney is recognised for its strong leadership, commitment, and partnership with its citizens and stakeholders in tackling their urban challenges.
