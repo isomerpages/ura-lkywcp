@@ -1,6 +1,8 @@
 ---
 title: 2018 Prize Laureate — Seoul
 permalink: /seoul/
+image: /images/laureates/seoul.jpg
+description: Seoul is awarded the 2018 Prize for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.
 ---
 
 ##### Seoul is awarded the 2018 Prize for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.
