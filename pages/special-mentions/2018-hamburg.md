@@ -1,6 +1,8 @@
 ---
 title: 2018 Special Mention — Hamburg
 permalink: /hamburg/
+image: /images/special-mentions/hamburg.jpg
+description: Hamburg is recognised as an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities.
 ---
 
 ##### Hamburg is recognised as an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities.
