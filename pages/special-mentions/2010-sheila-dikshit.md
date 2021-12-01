@@ -1,6 +1,8 @@
 ---
 title: 2010 Special Mention — Mrs Sheila Dikshit
 permalink: /sheila-dikshit/
+image: /images/special-mentions/sheila-dikshit.jpg
+description: The late Mrs Sheila Dikshit is recognised for her efforts to improve the living environment of Delhi through various implementations, despite limited resources and control.
 ---
 
 ##### The late Mrs Sheila Dikshit is recognised for her efforts to improve the living environment of Delhi through various implementations, despite limited resources and control.[^1]
