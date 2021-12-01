@@ -1,6 +1,8 @@
 ---
 title: Evaluations
 permalink: /evaluations/
+image: /images/evaluations.jpg
+description: All submissions are evaluated through a rigorous two-tier process comprising the Nominating Committee and Prize Council.
 ---
 
 ##### The evaluations of the 2020 Prize have concluded. The results will be announced at a later date. 
