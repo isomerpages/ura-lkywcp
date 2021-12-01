@@ -1,6 +1,8 @@
 ---
 title: 2012 Special Mention — Khayelitsha
 permalink: /khayelitsha/
+image: /images/special-mentions/khayelitsha.jpg
+description: AHT Group AG & Sun Development (Khayelitsha) are recognised for its prevention of violence through their comprehensive Urban Upgrading (VPUU) Programme.
 ---
 
 ##### AHT Group AG & Sun Development (Khayelitsha) are recognised for its prevention of violence through their comprehensive Urban Upgrading (VPUU) Programme.[^1]
