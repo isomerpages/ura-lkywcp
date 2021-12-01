@@ -1,6 +1,8 @@
 ---
 title: 2018 Special Mention — Tokyo
 permalink: /tokyo/
+image: /images/special-mentions/tokyo.jpg
+description: Tokyo is recognised for being a well-managed megacity despite its large and seemingly ungovernable size.
 ---
 
 ##### Tokyo is recognised for being a well-managed megacity despite its large and seemingly ungovernable size.
