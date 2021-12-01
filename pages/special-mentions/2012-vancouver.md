@@ -1,6 +1,8 @@
 ---
 title: 2012 Special Mention — Vancouver
 permalink: /vancouver/
+image: /images/special-mentions/vancouver.jpg
+description: Vancouver is recognised for demonstrating strong visioning, community values and long-term planning, contributing to a more liveable and vibrant city.
 ---
 
 ##### Vancouver is recognised for demonstrating strong visioning, community values and long-term planning, contributing to a more liveable and vibrant city.
