@@ -1,6 +1,8 @@
 ---
 title: Special Mentions
 permalink: /special-mentions/
+image: /images/laureates/worldmap-special-mentions.jpg
+description: Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
 ---
 
 ![Special Mentions](/images/laureates/worldmap-special-mentions.jpg/)
