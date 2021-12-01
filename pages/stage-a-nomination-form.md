@@ -2,6 +2,8 @@
 title: Stage A nomination form
 permalink: /stage-a-nomination-form/
 published: false
+image: /images/prize-partners.jpg
+description: The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations.
 ---
 
 #### **Instructions**
