@@ -1,6 +1,8 @@
 ---
 title: 2010 Special Mention — Melbourne
 permalink: /melbourne/
+image: /images/special-mentions/melbourne.jpg
+description: Melbourne is recognised for adopting an integrated approach and commitment to strategic planning, leading to a highly liveable and inclusive city.
 ---
 
 ##### Melbourne is recognised for adopting an integrated approach and commitment to strategic planning, leading to a highly liveable and inclusive city.
