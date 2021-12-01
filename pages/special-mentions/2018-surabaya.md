@@ -1,6 +1,8 @@
 ---
 title: 2018 Special Mention — Surabaya
 permalink: /surabaya/
+image: /images/special-mentions/surabaya.jpg
+description: Surabaya is recognised for its strong appreciation of culture and taking a bold urban development strategy to preserve and develop its kampung neighbourhoods, while experiencing rapid economic growth.
 ---
 
 ##### Surabaya is recognised for its strong appreciation of culture and taking a bold urban development strategy to preserve and develop its kampung neighbourhoods, while experiencing rapid economic growth.
