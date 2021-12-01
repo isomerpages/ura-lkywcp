@@ -1,6 +1,8 @@
 ---
 title: 2014 Special Mention — Yokohama
 permalink: /yokohama/
+image: /images/special-mentions/yokohama.jpg
+description: Yokohama is recognised for overcoming its urban challenges through excellent partnership with its citizens and stakeholders.
 ---
 
 ##### Yokohama is recognised for overcoming its urban challenges through excellent partnership with its citizens and stakeholders.
