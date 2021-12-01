@@ -2,6 +2,7 @@
 title: Nominating Committee
 permalink: /nominating-committee/
 third_nav_title: Prize Jury
+description: The Nominating Committee reviews and examines submissions, and recommends potential Laureates to the Prize Council.
 ---
 
 #### **Role of the Nominating Committee**
