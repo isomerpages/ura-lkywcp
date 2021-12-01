@@ -1,6 +1,8 @@
 ---
 title: 2020 Prize Cycle
 permalink: /prize-cycle/
+image: /images/prize-cycle.jpg
+description: The nominations and evaluations for the 2020 Prize cycle have concluded. The results will be announced soon. Watch this space.
 ---
 
 ##### The nominations and evaluations for the 2020 Prize cycle have concluded. The results will be announced soon. Watch this space.
