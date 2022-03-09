@@ -30,6 +30,14 @@ sections:
         url: /resources/features/post-pandemic-cities/
         image: /images/features/2021/nyc-equality.jpg
         alt: Post-pandemic cities
+    - infopic:
+        title: From trash to table
+        subtitle: Article spotlight
+        description: Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand through various initiatives.
+        button: Read More
+        url: /resources/features/food-waste/
+        image: /images/features/2021/discard-food.jpg
+        alt: Food waste
     - infobar:    
         title: Subscribe now
         subtitle: Join our mailing list
