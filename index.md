@@ -31,13 +31,13 @@ sections:
         image: /images/features/2021/nyc-equality.jpg
         alt: Post-pandemic cities
     - infopic:
-        title: Elevating quality of life through sports
-        subtitle: City case study — Kazan
-        description: Kazan leveraged on international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to quickly improve the health of its people, elevate its quality of life and become the sports capital of Russia.
+        title: From trash to table
+        subtitle: Article spotlight
+        description: Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand through various initiatives.
         button: Read More
-        url: /resources/case-studies/kazan-sports/
-        image: /images/features/2021/mayor-sports.jpg
-        alt: Kazan
+        url: /resources/features/food-waste/
+        image: /images/features/2021/discard-food.jpg
+        alt: Food waste
     - infobar:    
         title: Subscribe now
         subtitle: Join our mailing list
