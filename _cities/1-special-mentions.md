@@ -21,11 +21,11 @@ Every cycle, cities with outstanding urban initiatives are selected as Special M
 | **14** | [Auckland](/auckland/) overcame planning challenges through a highly integrated and innovative governance model. |
 | **13** | [Sydney](/sydney/) demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. |
 | **12** | [Toronto](/toronto/) is exemplary in integrating its diverse population, and rejuvenating its city core. | 
-| **11** | [Vienna](/vienna/) takes the lead in protecting the environment and its rich cultural heritage while elevating quality of life. | 
+| **11** | [Vienna](/vienna-sm/) takes the lead in protecting the environment and its rich cultural heritage while elevating quality of life. | 
 
 #### **2014 Special Mentions**
 
-| **10** | [Medellín](/medellin-special-mention/) significantly reduced its homicide rates over the past few decades. | 
+| **10** | [Medellín](/medellin-sm/) significantly reduced its homicide rates over the past few decades. | 
 | **09** | [Yokohama](/yokohama/) overcame urban challenges through excellent partnership with its citizens and stakeholders. | 
 
 #### **2012 Special Mentions**
