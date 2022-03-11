@@ -5,7 +5,7 @@ image: /images/evaluations.jpg
 description: All submissions are evaluated through a rigorous two-tier process comprising the Nominating Committee and Prize Council.
 ---
 
-##### The evaluations of the 2020 Prize have concluded. The results will be announced at a later date. 
+##### The nominations for the 2024 Prize will open on 1 Aug 2022. 
 
 ###### ![Evaluation Process](/images/evaluations.jpg/)**Illustration** © stories/ freepik.com
 
