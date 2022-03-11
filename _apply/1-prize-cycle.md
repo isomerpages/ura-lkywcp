@@ -2,10 +2,10 @@
 title: 2020 Prize Cycle
 permalink: /prize-cycle/
 image: /images/prize-cycle.jpg
-description: The nominations and evaluations for the 2020 Prize cycle have concluded. The results will be announced soon. Watch this space.
+description: The nominations and evaluations for the 2020 Prize cycle have concluded. Join us at the World Cities Summit in Singapore from 31 Jul-3 Aug 2022.
 ---
 
-##### The nominations and evaluations for the 2020 Prize cycle have concluded. The results will be announced soon. Watch this space.
+##### The nominations and evaluations for the 2020 Prize cycle have concluded. Join us at the World Cities Summit in Singapore from 31 Jul-3 Aug 2022.
 
 ###### ![2020 Prize cycle](/images/prize-cycle.jpg)
 
