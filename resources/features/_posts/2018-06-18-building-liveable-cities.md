@@ -19,7 +19,7 @@ By 2050, about 6.7 billion people will live in cities, up from 4.2 billion peopl
 
 “Many countries will face challenges in meeting the needs of their growing urban populations, including for housing, transportation, energy systems and other infrastructure […] To ensure that the benefits of urbanisation are fully shared and inclusive, policies to manage urban growth need to ensure access to infrastructure and social services for all,” said the UN.
 
-In 2018, four cities were honoured with a Special Mention for their efforts in these areas. The cities are Hamburg in Germany, Kazan in the Russian Federation, Surabaya in Indonesia and Tokyo in Japan.
+In 2018, four cities were honoured with a Special Mention for their efforts in these areas. The cities are Hamburg, Kazan, Surabaya and Tokyo.
 
 While the cities are located in different parts of the world, they faced the same issues, including how to provide adequate and affordable housing for their growing population and vulnerable residents, and keep their neighbourhoods vibrant and liveable. Their success in meeting these challenges offers lessons for other cities.
 
