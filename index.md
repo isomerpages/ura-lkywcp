@@ -16,12 +16,22 @@ sections:
             - title: Prize Laureates
               description: 
               url: /laureates/
-    - infobar:    
+<!-- This is commented out.
+   - infobar:    
         title: 
         subtitle: 
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: About the Prize
         url: /about-the-prize/
+-->
+    - infopic:    
+        title: 
+        subtitle: 
+        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
+        button: About the Prize 
+        url: /about-the-prize/
+        image: /images/blank.jpg/
+        alt: Blank
     - infopic:
         title: Shaping up post-pandemic cities
         subtitle: Article spotlight
@@ -45,7 +55,7 @@ sections:
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infopic:    
-        title: Subscribe now
+        title: 
         subtitle: 
         description: Join our mailing list and get the latest news and city-related articles in your inbox!
         button: Click here  
