@@ -19,7 +19,7 @@ Through these initiatives, the city has seen dramatic improvements in the cityâ€
 
 #### **Embracing innovation**
 
-Kazan is also commendable for taking the lead among Russian cities in embracing innovation. The city capitalises on its youth, as seen in its young leadership, and is committed to bringing new ideas that could catalyse positive change. Kazan is one of the host cities for the 2018 FIFA World Cup in Russia, as well as the host for the 2019 WorldSkills Competition. These events provide the impetus for infrastructural upgrades and urban development that will benefit the everyday life of its residents. The development of the embankment of the Kaban Lake and the rehabilitation of Lebyazhye Lake are also positive examples to show how Kazan creatively improves the city through landscaping, while providing new recreational areas and opportunities for the people. 
+Kazan is also commendable for taking the lead within the country in embracing innovation. The city capitalises on its youth, as seen in its young leadership, and is committed to bringing new ideas that could catalyse positive change. Kazan is one of the host cities for the 2018 FIFA World Cup, as well as the host for the 2019 WorldSkills Competition. These events provide the impetus for infrastructural upgrades and urban development that will benefit the everyday life of its residents. The development of the embankment of the Kaban Lake and the rehabilitation of Lebyazhye Lake are also positive examples to show how Kazan creatively improves the city through landscaping, while providing new recreational areas and opportunities for the people. 
 
 #### **City of diverse cultures**
 
