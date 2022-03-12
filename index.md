@@ -25,17 +25,11 @@ sections:
     - infopic:
         title: Post-pandemic cities — how will they shape up?
         subtitle: Article spotlight
-        description: What are some of the key focuses of cities in a post-pandemic world? We look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.
+        description: Seoul, Medellín and New York City show us how to build greener, fairer and more resilient economies and societies in a post-pandemic world.
         button: Read More
         url: /resources/features/post-pandemic-cities/
         image: /images/features/2021/nyc-equality.jpg
         alt: Post-pandemic cities
-    - infobar:    
-        title: 
-        subtitle: Video — sustainability meets quality of life
-        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        button: More videos
-        url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infopic:
         title: From trash to table
         subtitle: Article spotlight
@@ -45,9 +39,15 @@ sections:
         image: /images/features/2021/discard-food.jpg
         alt: Food waste
     - infobar:    
+        title: 
+        subtitle: Featured video — sustainability meets quality of life
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        button: More videos
+        url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
+    - infobar:    
         title: Subscribe now
         subtitle: Join our mailing list
-        description: Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
+        description: Subscribe to our newsletter to get the latest news and city-related articles in your inbox!
         button: Click here   
         url: /subscribe/
     - resources:
