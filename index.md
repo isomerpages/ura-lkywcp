@@ -16,14 +16,12 @@ sections:
             - title: Prize Laureates
               description: 
               url: /laureates/
-    - infopic:    
+    - infobar:    
         title: The Prize
         subtitle: Established 2009
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: About the Prize 
         url: /about-the-prize/
-        image: /images/blank.jpg/
-        alt: Blank
     - infopic:
         title: Shaping up post-pandemic cities
         subtitle: Article spotlight
