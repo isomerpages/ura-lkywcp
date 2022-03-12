@@ -19,7 +19,7 @@ sections:
     - infobar:    
         title: The Prize
         subtitle: Established 2009
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
+        description: Honouring outstanding cities in creating liveable, vibrant & sustainable urban communities around the world
         button: About the Prize 
         url: /about-the-prize/
     - infopic:
