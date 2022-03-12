@@ -19,7 +19,7 @@ sections:
     - infobar:    
         title: 
         subtitle: 
-        description: Honouring outstanding cities in creating liveable, vibrant & sustainable urban communities around the world
+        description: Honouring outstanding achievements and contributions to the creation of liveable, vibrant & sustainable urban communities around the world.
         button: About the Prize 
         url: /about-the-prize/
     - infopic:
