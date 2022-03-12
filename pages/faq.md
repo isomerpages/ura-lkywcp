@@ -125,15 +125,15 @@ Demonstration projects can either be fully or partially completed. The completed
 
 #### **When will the results be announced?**
 
-The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our newsletter](/subscribe/) to get our latest news in your inbox.
+The results of the 2020 Prize have been announced on 14 March 2022. Click [here](/resources/news/2022-press-release/) for more info. Please [subscribe to our newsletter](/subscribe/) to get our latest news in your inbox.
 
 #### **Who will be invited to receive the award?**
 
-The Mayor of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony & Banquet</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
+The Mayor of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
 
 #### **Will the Prize Laureate and Special Mention(s) be invited to speak?**
 
-The Prize Laureate will be invited to share their achievements at the **<mark>Lee Kuan Yew World City Prize Lecture</mark>**, while the Special Mention(s) will be invited to share their urban initiatives at the **<mark>Lee Kuan Yew World City Prize Forum</mark>**. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
+The Prize Laureate and Special Mentions(s) will be invited to share their achievements and unique urban intiatives at the **<mark>Lee Kuan Yew World City Prize Lecture & Forum</mark>**, key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
