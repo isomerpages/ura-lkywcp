@@ -31,9 +31,9 @@ sections:
         image: /images/features/2021/nyc-equality.jpg
         alt: Post-pandemic cities
     - infobar:    
-        title: Sustainability meets quality of life (352)
+        title: Sustainability meets quality of life (351)
         subtitle: 2020 commemorative video
-        description: <iframe height="352" width="100%" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        description: <iframe height="351" width="100%" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         button: Like & subscribe!
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infopic:
