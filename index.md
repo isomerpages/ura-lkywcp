@@ -33,7 +33,7 @@ sections:
     - infobar:    
         title: Sustainability meets quality of life
         subtitle: 2020 commemorative video
-        description: <iframe height="100%" width="100%" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        description: <iframe height="auto" width="100%" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         button: Like & subscribe!
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infopic:
