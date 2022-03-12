@@ -19,7 +19,7 @@ sections:
     - infobar:    
         title: 
         subtitle: About the Prize
-        description: Honouring outstanding achievements and contributions to the creation of liveable, vibrant & sustainable urban communities around the world.
+        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
         button: More 
         url: /about-the-prize/
     - infopic:
