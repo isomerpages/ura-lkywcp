@@ -18,9 +18,9 @@ sections:
               url: /laureates/
     - infobar:    
         title: 
-        subtitle: 
+        subtitle: About the Prize
         description: Honouring outstanding achievements and contributions to the creation of liveable, vibrant & sustainable urban communities around the world.
-        button: About the Prize 
+        button: More 
         url: /about-the-prize/
     - infopic:
         title: Shaping up post-pandemic cities
@@ -45,7 +45,7 @@ sections:
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
-        title: Subscribe now!
+        title: Subscribe now
         subtitle: 
         description: Join our mailing list and get the latest news and city-related articles in your inbox!
         button: Click here  
