@@ -17,8 +17,8 @@ sections:
               description: 
               url: /laureates/
     - infopic:    
-        title: 
-        subtitle: 
+        title: Established 2009
+        subtitle: The Prize
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: About the Prize 
         url: /about-the-prize/
