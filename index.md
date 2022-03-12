@@ -19,7 +19,7 @@ sections:
     - infobar:    
         title: 
         subtitle: <div alight="left">Lee Kuan Yew<br>World City Prize</div>
-        description: <div alight="left"><font size="3"><i>A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.</i></font></div>
+        description: <div alight="left" line-height="1"><font size="3"><i>A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.</i></font></div>
         button: Find out more
         url: /about-the-prize/
     - infopic:
