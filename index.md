@@ -17,11 +17,11 @@ sections:
               description: 
               url: /laureates/
     - infobar:    
-        title: Lee Kuan Yew<br>World City Prize
+        title: 
         subtitle: 
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
-        button: About the Prize
-        url: /about-the-prize/
+        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation. \| [More info](/about-the-prize/)
+        button: 
+        url: 
     - infopic:
         title: Shaping up post-pandemic cities
         subtitle: Article spotlight
