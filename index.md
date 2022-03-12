@@ -23,7 +23,7 @@ sections:
         button: About the Prize
         url: /about-the-prize/
     - infopic:
-        title: Post-pandemic cities — how will they shape up?
+        title: Shaping up post-pandemic cities
         subtitle: Article spotlight
         description: Seoul, Medellín and New York City show us how to build greener, fairer and more resilient economies and societies in a post-pandemic world.
         button: Read More
