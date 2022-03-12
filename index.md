@@ -17,9 +17,9 @@ sections:
               description: 
               url: /laureates/
     - infobar:    
-        title: The Prize
+        title: 
         subtitle: Established 2009
-        description: Honouring outstanding cities in creating liveable, vibrant & sustainable urban communities around the world
+        description: ---<br>Honouring outstanding cities in creating liveable, vibrant & sustainable urban communities around the world
         button: About the Prize 
         url: /about-the-prize/
     - infopic:
