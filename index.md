@@ -45,7 +45,7 @@ sections:
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
-        title: Subscribe now
+        title: 
         subtitle: Join our mailing list
         description: Get the latest news and city-related articles in your inbox!
         button: Click here   
