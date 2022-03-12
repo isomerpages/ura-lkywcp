@@ -1,6 +1,6 @@
 ---
 title: 2020 Prize Cycle
-permalink: /prize-cycle/
+permalink: /2020-prize-cycle/
 image: /images/prize-cycle.jpg
 description: The nominations and evaluations for the 2020 Prize cycle have concluded. Join us at the World Cities Summit in Singapore from 31 Jul-3 Aug 2022.
 ---
