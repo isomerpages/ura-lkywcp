@@ -17,8 +17,8 @@ sections:
               description: 
               url: /laureates/
     - infobar:    
-        title: 
-        subtitle: Lee Kuan Yew World City Prize
+        title: Lee Kuan Yew World City Prize
+        subtitle: 
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: About the Prize
         url: /about-the-prize/
@@ -45,10 +45,10 @@ sections:
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
-        title: 
-        subtitle: Join our mailing list
+        title: Subscribe now
+        subtitle: 
         description: Get the latest news and city-related articles in your inbox!
-        button: Subscribe now   
+        button: Click here  
         url: /subscribe/
     - resources:
         title: 
