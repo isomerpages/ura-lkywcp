@@ -17,7 +17,7 @@ sections:
               description: 
               url: /laureates/
     - infobar:    
-        title: 
+        title: The Prize
         subtitle: 
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: About the Prize
@@ -45,10 +45,10 @@ sections:
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
-        title: 
+        title: Subscribe now
         subtitle: 
         description: Join our mailing list and get the latest news and city-related articles in your inbox!
-        button: Subscribe now!  
+        button: Click here  
         url: /subscribe/
     - resources:
         title: 
