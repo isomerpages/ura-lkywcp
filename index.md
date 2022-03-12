@@ -32,7 +32,7 @@ sections:
         alt: Post-pandemic cities
     - infobar:    
         title: 
-        subtitle: 2020 commemorative video
+        subtitle: Commemorative video — sustainability meets quality of life
         description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: Like & subscribe!
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
