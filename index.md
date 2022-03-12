@@ -48,7 +48,7 @@ sections:
         title: 
         subtitle: Join our mailing list
         description: Get the latest news and city-related articles in your inbox!
-        button: Click here   
+        button: Subscribe now   
         url: /subscribe/
     - resources:
         title: 
