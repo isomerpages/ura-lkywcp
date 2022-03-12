@@ -31,7 +31,7 @@ sections:
         image: /images/features/2021/nyc-equality.jpg
         alt: Post-pandemic cities
     - infobar:    
-        title: Sustainability meets quality of life (CPIB)
+        title: 
         subtitle: 2020 commemorative video
         description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></div>
         button: Like & subscribe!
