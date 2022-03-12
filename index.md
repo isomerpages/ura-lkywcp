@@ -30,6 +30,12 @@ sections:
         url: /resources/features/post-pandemic-cities/
         image: /images/features/2021/nyc-equality.jpg
         alt: Post-pandemic cities
+    - infobar:    
+        title: Seoul good!
+        subtitle: Commemorative video
+        description: <iframe width="560" height="315" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        button: Subscribe to our YouTube Channel
+        url: /https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infopic:
         title: From trash to table
         subtitle: Article spotlight
