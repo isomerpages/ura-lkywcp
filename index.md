@@ -20,7 +20,7 @@ sections:
         title: 
         subtitle: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation
         description: 
-        button: Find out more
+        button: About the Prize
         url: /about-the-prize/
     - infopic:
         title: Post-pandemic cities — how will they shape up?
