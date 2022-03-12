@@ -16,14 +16,6 @@ sections:
             - title: Prize Laureates
               description: 
               url: /laureates/
-<!-- This is commented out.
-   - infobar:    
-        title: 
-        subtitle: 
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
-        button: About the Prize
-        url: /about-the-prize/
--->
     - infopic:    
         title: 
         subtitle: 
@@ -54,14 +46,12 @@ sections:
         description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
-    - infopic:    
-        title: 
+   - infobar:    
+        title: Subscribe now!
         subtitle: 
         description: Join our mailing list and get the latest news and city-related articles in your inbox!
         button: Click here  
         url: /subscribe/
-        image: /images/blank.jpg/
-        alt: Blank
     - resources:
         title: 
         subtitle: Latest updates
