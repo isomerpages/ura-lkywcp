@@ -15,7 +15,7 @@ description: By branding itself as a world-class sports capital, Kazan has impro
 
 ###### ![Mass sports in Kazan](/images/features/2018/mass-sports-kazan.jpg/)**Mass sports in Kazan** © City of Kazan
 
-What do the World Cup, World Fencing Championships, FINA World Aquatics Championship and World University Summer Games have in common? Over the past five years, the city of Kazan in Russia has hosted all of these elite international sporting events. 
+What do the World Cup, World Fencing Championships, FINA World Aquatics Championship and World University Summer Games have in common? Over the past five years, the city of Kazan has hosted all of these elite international sporting events. 
 
 In the span of a decade, the city has built hundreds of sports facilities and created social programmes to improve its residents’ health and life expectancy, turning itself into a world-class sports hub in the process. Allied to this push has been investments in schools and child nutrition to give future generations a better start and build on the improvements. 
 
