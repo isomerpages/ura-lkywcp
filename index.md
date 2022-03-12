@@ -17,7 +17,7 @@ sections:
               description: 
               url: /laureates/
     - infobar:    
-        title: The Prize
+        title: 
         subtitle: 
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
         button: About the Prize
