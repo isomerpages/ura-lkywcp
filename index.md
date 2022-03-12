@@ -46,7 +46,7 @@ sections:
         description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lpvnAsDj2dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
-   - infobar:    
+    - infobar:    
         title: Subscribe now!
         subtitle: 
         description: Join our mailing list and get the latest news and city-related articles in your inbox!
