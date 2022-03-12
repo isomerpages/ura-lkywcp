@@ -46,6 +46,6 @@ sections:
         url: /subscribe/
     - resources:
         title: 
-        subtitle: Lessons from cities
-        button: More resources
+        subtitle: Latest updates
+        button: More useful resources
 ---
