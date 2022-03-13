@@ -30,7 +30,7 @@ sections:
         url: /vienna/
         image: /images/laureates/vienna.jpg
         alt: Vienna wins the 2020 Prize
-    - infopic:
+    - infopic: 
         title: Antwerp, Boston and Lisbon
         subtitle: 2020 Special Mentions
         description: Three cities have been selected as the 2020 Special Mentions to showcase their good and unique urban practices.
