@@ -22,18 +22,22 @@ sections:
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
         button: More 
         url: /about-the-prize/
-    - infobar:    
-        title: 
-        subtitle: About the Prize
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
+    - infopic:    
+        title: Vienna wins the 2020 Prize!
+        subtitle: 2020 Prize Laureate
+        description: Vienna has been conferred the Lee Kuan Yew World City Prize 2020 for reinventing itself for success without losing its distinctive city identity.
+        button: Read the full citation 
+        url: /vienna/
+        image: /images/laureates/vienna.jpg
+        alt: Vienna wins the 2020 Prize
+    - infopic:    
+        title: Antwerp, Boston & Lisbon
+        subtitle: 2020 Special Mentions
+        description: Three cities have been selected as the 2020 Special Mentions to showcase their unique urban initiatives. 
         button: More 
-        url: /about-the-prize/
-    - infobar:    
-        title: 
-        subtitle: About the Prize
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
-        button: More 
-        url: /about-the-prize/
+        url: /special-mentions/
+        images: /images/features/2022/2020-sm.jpg
+        alt: Special Mentions
     - infobar:    
         title: 
         subtitle: Featured video
