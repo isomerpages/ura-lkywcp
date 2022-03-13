@@ -54,6 +54,8 @@ Representatives from Vienna and the three Special Mention cities will also be in
 
 – END –
 
+---
+
 **For media queries, please contact:**<br>
 Ms Rachel Quek<br>
 Manager, Media Relations<br>
