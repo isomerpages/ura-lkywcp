@@ -36,7 +36,7 @@ sections:
         description: Three cities have been selected as the 2020 Special Mentions to showcase their unique urban initiatives. 
         button: More 
         url: /special-mentions/
-        images: /images/features/2022/2020-sm.jpg
+        image: /images/features/2022/2020-sm.jpg
         alt: Special Mentions
     - infobar:    
         title: 
