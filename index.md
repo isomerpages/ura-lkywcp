@@ -25,22 +25,22 @@ sections:
     - infopic:    
         title: Vienna wins the 2020 Prize!
         subtitle: 2020 Prize Laureate
-        description: Vienna wins the 2020 Prize for reinventing itself for success without losing its distinctive city identity.
-        button: Full citation 
+        description: Vienna reinvented itself for success for the 21st century without losing its distinctive city identity.
+        button: More 
         url: /vienna/
         image: /images/laureates/vienna.jpg
         alt: Vienna wins the 2020 Prize
     - infopic:    
         title: Antwerp, Boston & Lisbon
         subtitle: 2020 Special Mentions
-        description: Three cities have been selected as the 2020 Special Mentions to showcase their unique urban initiatives. 
+        description: Read how the three 2020 Special Mentions transformed their cities using different strategies. 
         button: More 
         url: /special-mentions/
         image: /images/features/2022/2020-sm.jpg
         alt: Special Mentions
     - infobar:    
         title: 
-        subtitle: Featured video
+        subtitle: Featured video<br>Vienna, sustainability meets liveability
         description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/t6RpNG7ZOZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
