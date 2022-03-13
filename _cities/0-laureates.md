@@ -7,7 +7,7 @@ description: The Prize is awarded to Bilbao (2010), New York City (2012), Suzhou
 
 ![Prize Laureates](/images/laureates/worldmap-laureates.jpg/)
 
-#### **The Prize Laureates**
+#### **Prize Laureates**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
