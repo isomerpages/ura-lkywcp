@@ -25,7 +25,7 @@ sections:
     - infopic:    
         title: Vienna wins the 2020 Prize!
         subtitle: 2020 Prize Laureate
-        description: Vienna reinvented itself for success for the 21st century without losing its distinctive city identity.
+        description: Find out how the Austrian capital reinvented itself for success without losing its distinctive identity.
         button: More 
         url: /vienna/
         image: /images/laureates/vienna.jpg
@@ -40,7 +40,7 @@ sections:
         alt: Special Mentions
     - infobar:    
         title: 
-        subtitle: Featured video<br>Vienna, sustainability meets liveability
+        subtitle: Featured video –<br>Vienna, sustainability meets quality of life
         description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/t6RpNG7ZOZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
