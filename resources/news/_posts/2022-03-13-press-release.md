@@ -23,9 +23,15 @@ Vienna has taken a strategic approach to create a distinctive and delightful hom
 
 [More details on these strategies](/vienna/)
 
-“Even as the world faces a climate emergency, Vienna is an exemplar of responsible environmental stewardship for its region. It has been remarkably successful in sustaining a high quality of life for its inhabitants, through steadfast improvements and innovative digital technology. Vienna holds many lessons for us as it has met the needs of modern society in a sustainable way, while retaining its attractiveness and charm as a city of history and culture. Such an inspirational city is indeed most deserving of the Lee Kuan Yew World City Prize,” said Nominating Committee Chairman Dr. Cheong Koon Hean.
+<br>
+> ##### "Even as the world faces a climate emergency, Vienna is an exemplar of responsible environmental stewardship for its region. It has been remarkably successful in sustaining a high quality of life for its inhabitants, through steadfast improvements and innovative digital technology. Vienna holds many lessons for us as it has met the needs of modern society in a sustainable way, while retaining its attractiveness and charm as a city of history and culture. Such an inspirational city is indeed most deserving of the Lee Kuan Yew World City Prize."
 
-Vienna’s Mayor, Dr. Michael Ludwig, said, “I am very proud and grateful that Vienna emerged as the winner among many other wonderful cities. We will continue on our consistent path of high quality of life for everyone through social and technical innovation in all areas, while maximising conservation of resources and thus resume to be a reliable partner for others.”
+<div align="right"><b>— Dr. Cheong Koon Hean</b> <br> Chair, Nominating Committee 2020</div>
+
+<br>
+> ##### "I am very proud and grateful that Vienna emerged as the winner among many other wonderful cities. We will continue on our consistent path of high quality of life for everyone through social and technical innovation in all areas, while maximising conservation of resources and thus resume to be a reliable partner for others."
+
+<div align="right"><b>— Dr. Michael Ludwig</b> <br> Mayor, Vienna</div>
 
 In addition to Vienna, three cities were also recognised as Special Mentions for their best practices in city management:
 
@@ -39,12 +45,14 @@ In addition to Vienna, three cities were also recognised as Special Mentions for
 
 The Lee Kuan Yew Prize Award Ceremony will be held during the upcoming [World Cities Summit](https://www.worldcitiessummit.com.sg), which will take place from 31 July to 3 August 2022. In addition to an award certificate, Vienna will receive a cash prize of S$300,000 and a gold medallion worth S$50,000. This Prize is sponsored by [Keppel Corporation](/prize-sponsor/).
 
-“Congratulations to Vienna for winning the Lee Kuan Yew World City Prize. Apart from its rich culture and history, Vienna is a leader in addressing the challenges of climate change. As a provider of solutions for sustainable urbanisation, Keppel is committed to sustainability. We look forward to working with cities around the world to build a sustainable future together,” said Mr. Loh Chin Hua, Chief Executive Officer of Keppel Corporation.
+<br>
+> ##### "Congratulations to Vienna for winning the Lee Kuan Yew World City Prize. Apart from its rich culture and history, Vienna is a leader in addressing the challenges of climate change. As a provider of solutions for sustainable urbanisation, Keppel is committed to sustainability. We look forward to working with cities around the world to build a sustainable future together."
+
+<div align="right"><b>— Mr. Loh Chin Hua</b> <br> Chief Executive Officer, Keppel Corporation</div>
 
 Representatives from Vienna and the three Special Mention cities will also be invited to celebrate their achievements and share their unique urban initiatives and experiences at the Lee Kuan Yew World City Prize Lecture and Forum, which will be held in conjunction with the Summit.
- 
--END-
 
+-END-
 
 **For media queries, please contact:**
 Ms Rachel Quek
