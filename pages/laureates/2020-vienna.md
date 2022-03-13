@@ -17,7 +17,7 @@ The environmental stewardship improved the flow and water quality of the Danube 
 
 #### **Commitment to social housing and public transportation**
   
-Vienna has earned a singular reputation for its commitment to social housing which began in the mid-19th century and continued through to the present day. The city is creating a broad variety of affordable housing choices and new communities as demonstrated in the redevelopment of **<mark>Aspern Seestadt</mark>** and **<mark>Nordbahnhof</mark>**. 
+Vienna has earned a singular reputation for its commitment to social housing which began in the mid-19th century and continued through to the present day. The city is creating a broad variety of affordable housing choices and new communities as demonstrated in the redevelopment of [**<mark>Aspern Seestadt</mark>**](https://www.aspern-seestadt.at/en) and **<mark>Nordbahnhof</mark>**. 
 
 The active promotion of cycling and walking is complemented by an extensive public transit network that presents a wide spectrum of commuting options in the form of metro, trams, and buses. By setting the price of an annual public transportation ticket at a very affordable €365, or €1 per day, more people have chosen to give up their cars. As of 2018, there are more people owning an annual public transport ticket than a car. Today, to get around the city, 28 percent of inhabitants walk, 7 percent cycle, 38 percent use public transport, and 27 percent use motorised transport.
 
