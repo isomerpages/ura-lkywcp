@@ -23,21 +23,21 @@ sections:
         button: More 
         url: /about-the-prize/
     - infopic:
-        title: Shaping up post-pandemic cities
-        subtitle: Article spotlight
-        description: Seoul, Medellín and New York City show us how to build greener, fairer and more resilient economies and societies in a post-pandemic world.
-        button: Read More
-        url: /resources/features/post-pandemic-cities/
-        image: /images/features/2021/nyc-equality.jpg
-        alt: Post-pandemic cities
+        title: Vienna wins the 2020 Prize!
+        subtitle: 2020 Prize Laureate
+        description: Vienna has been conferred the Lee Kuan Yew World City Prize 2020 for reinventing itself for success in the 21st century without losing its distinctive identity as a capital of culture, music and history.
+        button: Read the full citation
+        url: /vienna/
+        image: /images/laureates/vienna.jpg
+        alt: Vienna wins the 2020 Prize
     - infopic:
-        title: From trash to table
-        subtitle: Article spotlight
-        description: Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand through various initiatives.
-        button: Read More
-        url: /resources/features/food-waste/
-        image: /images/features/2021/discard-food.jpg
-        alt: Food waste
+        title: Antwerp, Boston and Lisbon
+        subtitle: 2020 Special Mentions
+        description: Three cities have been selected as the 2020 Special Mentions to showcase their good and unique urban practices.
+        button: Find out more
+        url: /special-mentions/
+        image: /images/features/2022/2020-sm.jpg
+        alt: Special Mentions
     - infobar:    
         title: 
         subtitle: Featured video
