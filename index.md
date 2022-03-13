@@ -28,7 +28,7 @@ sections:
         description: Vienna has been conferred the Lee Kuan Yew World City Prize 2020 for reinventing itself for success without losing its distinctive city identity.
         button: Read the full citation 
         url: /vienna/
-        image: /images/laureates/vienna.jpg
+        image: /images/features/2022/frontpage-vienna.jpg
         alt: Vienna wins the 2020 Prize
     - infopic:    
         title: Antwerp, Boston & Lisbon
