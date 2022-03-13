@@ -46,9 +46,9 @@ sections:
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
         title: 
-        subtitle: Subscribe now
+        subtitle: 
         description: Join our mailing list and get the latest news and city-related articles in your inbox!
-        button: Click here  
+        button: Subscribe now!  
         url: /subscribe/
     - resources:
         title: 
