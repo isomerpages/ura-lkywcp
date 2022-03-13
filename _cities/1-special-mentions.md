@@ -9,6 +9,12 @@ description: Every cycle, cities with outstanding urban initiatives are selected
 
 Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
 
+#### **2020 Special Mentions**
+
+| **21** | [Antwerp](/antwerp/) shows that its strategic urban interventions can help to rejuvenate the city. |
+| **20**| [Boston](/boston/) exemplifies a whole-of-society effort to transform the city. | 
+| **19** | [Lisbon](/lisbon/) demonstrates a dramatic resurgence over the past decade despite limited resources. |
+
 #### **2018 Special Mentions**
 
 | **18** | [Hamburg](/hamburg/) is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. | 
