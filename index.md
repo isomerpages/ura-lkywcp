@@ -47,7 +47,7 @@ sections:
     - infobar:    
         title: 
         subtitle: 
-        description: Join our mailing list to get the latest news in your inbox!
+        description: 📨 Join our mailing list to get the latest news in your inbox!
         button: Subscribe now!  
         url: /subscribe/
     - resources:
