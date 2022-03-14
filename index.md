@@ -39,9 +39,9 @@ sections:
         image: /images/features/2022/2020-sm.jpg
         alt: Special Mentions
     - infobar:    
-        title: <font size="10" line-height="1">Vienna, reinventing for success</font>
+        title: 
         subtitle: Featured video
-        description: test <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/t6RpNG7ZOZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        description: In this video, we commemorate Vienna's successes in meeting urban sustainability and high quality of life. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/t6RpNG7ZOZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
