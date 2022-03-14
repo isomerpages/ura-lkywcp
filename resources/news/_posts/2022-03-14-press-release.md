@@ -52,7 +52,7 @@ The Lee Kuan Yew Prize Award Ceremony will be held during the upcoming [World Ci
 
 Representatives from Vienna and the three Special Mention cities will also be invited to celebrate their achievements and share their unique urban initiatives and experiences at the Lee Kuan Yew World City Prize Lecture and Forum, which will be held in conjunction with the Summit.
 
-<div align="center">– END –</div>
+<p align="center">– END –</p>
 
 ---
 
