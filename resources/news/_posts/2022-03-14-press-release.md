@@ -21,7 +21,7 @@ Vienna has taken a strategic approach to create a distinctive and delightful hom
 2. **Promoting liveable and healthy communities.** <br>To create a variety of new infrastructure and affordable housing choices for its people, Vienna embarked on large urban redevelopment projects in Aspern Seestadt and Nordbahnhof. In these new urban centres, Vienna’s residents are connected to their workplaces and recreation nodes by active mobility networks, as well as an extensive network of affordable public transit options. This has encouraged a shift towards more eco-compatible modes of commuting around the city, such as walking, cycling, and public transport.
 3. **Strong citizen and stakeholder engagement.** <br>Vienna’s commitment to a participatory development process has cultivated a shared vision and durable culture of cooperation. For example, the city provides various platforms for its citizenry to shape public spaces. One such platform is the Grätzloase (Neighbourhood Oasis), a ground-up initiative that transforms parking lanes into parklets for vibrant community interaction. 
 
-➜ [More details on these strategies](/vienna/)
+<p align="right">➜ [More details on these strategies](/vienna/)</p>
 
 <br>
 > ##### "Even as the world faces a climate emergency, Vienna is an exemplar of responsible environmental stewardship for its region. It has been remarkably successful in sustaining a high quality of life for its inhabitants, through steadfast improvements and innovative digital technology. Vienna holds many lessons for us as it has met the needs of modern society in a sustainable way, while retaining its attractiveness and charm as a city of history and culture. Such an inspirational city is indeed most deserving of the Lee Kuan Yew World City Prize."
@@ -39,7 +39,7 @@ In addition to Vienna, three cities were also recognised as Special Mentions for
 2. [Boston](/boston/), United States
 3. [Lisbon](/lisbon/), Portugal
 
-➜ [More details on the Special Mention cities](/special-mentions/) 
+<p align="right">➜ [More details on the Special Mention cities](/special-mentions/) </p>
 
 #### **Prize Lecture and Award Ceremony at World Cities Summit 2022**
 
