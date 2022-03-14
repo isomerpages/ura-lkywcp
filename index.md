@@ -33,7 +33,7 @@ sections:
     - infopic:    
         title: Antwerp, Boston & Lisbon
         subtitle: 2020 Special Mentions
-        description: Read how the three 2020 Special Mentions transformed their cities using different strategies. 
+        description: Read how the three 2020 Special Mention cities transformed themselves using different strategies. 
         button: More 
         url: /special-mentions/
         image: /images/features/2022/2020-sm.jpg
