@@ -46,8 +46,8 @@ sections:
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
         title: 
-        subtitle: 
-        description: 📨 Join our mailing list to get the latest news in your inbox!
+        subtitle: 📩
+        description: Join our mailing list to get the latest news in your inbox!
         button: Subscribe now!  
         url: /subscribe/
     - resources:
