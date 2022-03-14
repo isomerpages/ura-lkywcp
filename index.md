@@ -47,7 +47,7 @@ sections:
     - infobar:    
         title: 
         subtitle: 
-        description: <p align="right">Join our mailing list and get the latest news and city-related articles in your inbox!</p>
+        description: <p align="right">Join our mailing list to get the latest news in your inbox!</p>
         button: Subscribe now!  
         url: /subscribe/
     - resources:
