@@ -17,35 +17,41 @@ sections:
               description: 
               url: /laureates/
     - infobar:    
-        title: The Prize
-        subtitle: Established 2009
-        description: The Lee Kuan Yew World City Prize is a biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic and sustained urban transformation.
-        button: Find out more    
+        title: 
+        subtitle: About the Prize
+        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
+        button: More
         url: /about-the-prize/
-    - infopic:
-        title: Post-pandemic cities — how will they shape up?
-        subtitle: Article spotlight
-        description: What are some of the key focuses of cities in a post-pandemic world? We look at how cities Seoul, Medellín and New York City build greener, fairer and more resilient economies and societies as they take the long-term view in their recovery.
-        button: Read More
-        url: /resources/features/post-pandemic-cities/
-        image: /images/features/2021/nyc-equality.jpg
-        alt: Post-pandemic cities
-    - infopic:
-        title: From trash to table
-        subtitle: Article spotlight
-        description: Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand through various initiatives.
-        button: Read More
-        url: /resources/features/food-waste/
-        image: /images/features/2021/discard-food.jpg
-        alt: Food waste
+    - infopic:    
+        title: Vienna wins the 2020 Prize!
+        subtitle: 2020 Prize Laureate
+        description: Find out how the Austrian capital reinvented itself for success without losing its distinctive identity.
+        button: More 
+        url: /vienna/
+        image: /images/laureates/vienna.jpg
+        alt: Vienna wins the 2020 Prize
+    - infopic:    
+        title: Antwerp, Boston & Lisbon
+        subtitle: 2020 Special Mentions
+        description: Read how the three 2020 Special Mention cities transformed themselves using different strategies. 
+        button: More 
+        url: /special-mentions/
+        image: /images/features/2022/2020-sm.jpg
+        alt: Special Mentions
     - infobar:    
-        title: Subscribe now
-        subtitle: Join our mailing list
-        description: Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
-        button: Click here   
+        title: Vienna, reinventing for success
+        subtitle: Featured video
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/t6RpNG7ZOZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        button: More videos
+        url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
+    - infobar:    
+        title: 📩
+        subtitle: 
+        description: Join our mailing list to get the latest news in your inbox!
+        button: Subscribe now!  
         url: /subscribe/
     - resources:
         title: 
-        subtitle: Lessons from cities
-        button: More resources
+        subtitle: Latest updates
+        button: More useful resources
 ---

@@ -15,7 +15,7 @@ description: By branding itself as a world-class sports capital, Kazan has impro
 
 ###### ![Mass sports in Kazan](/images/features/2018/mass-sports-kazan.jpg/)**Mass sports in Kazan** © City of Kazan
 
-What do the World Cup, World Fencing Championships, FINA World Aquatics Championship and World University Summer Games have in common? Over the past five years, the city of Kazan in Russia has hosted all of these elite international sporting events. 
+What do the World Cup, World Fencing Championships, FINA World Aquatics Championship and World University Summer Games have in common? Over the past five years, the city of Kazan has hosted all of these elite international sporting events. 
 
 In the span of a decade, the city has built hundreds of sports facilities and created social programmes to improve its residents’ health and life expectancy, turning itself into a world-class sports hub in the process. Allied to this push has been investments in schools and child nutrition to give future generations a better start and build on the improvements. 
 
@@ -26,7 +26,7 @@ After Kazan was awarded a Special Mention in 2018 for its [achievements](/kazan/
 For many other cities across the world, Kazan’s experience shows a way out of the vicious circle of poor public health and crime, exodus of young people and families, and deteriorating infrastructure that once mired it. Here’s a look at how Kazan remade itself. 
 
 <br>
-> ##### “We are proud that Kazan is now referred to as the Sports Capital of Russia, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.”
+> ##### “We are proud that Kazan is now referred to as the country's Sports Capital, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.”
 
 <div align="right"><b>— Daria Sannikova</b><br> Head of Kazan’s Committee for Tourism Development</div>
 
@@ -42,7 +42,7 @@ Still, providing the hardware alone would not have been enough. To motivate all 
 
 The government has also implemented social initiatives to target two age groups: children, to inculcate a lifelong love of sports, and the elderly, who may need encouragement to keep fit and stay healthy. “As early as kindergarten, children start to attend sports sessions and participate in competitions. The elderly are granted free visits to swimming pools in sports centres,” said Ms Sannikova. 
 
-The dual focus on constructing new facilities and nudging residents to use them has paid off handsomely. Between 2006 and 2018, the proportion of citizens who are involved in sports regularly surged from less than 10 percent to 42 percent. Ms Sannikova remarked: “We are proud that Kazan is now referred to as the Sports Capital of Russia, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.” 
+The dual focus on constructing new facilities and nudging residents to use them has paid off handsomely. Between 2006 and 2018, the proportion of citizens who are involved in sports regularly surged from less than 10 percent to 42 percent. Ms Sannikova remarked: “We are proud that Kazan is now referred to as the country's Sports Capital, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.” 
 
 ###### ![The Kazan Arena](/images/features/2018/kazan-arena.jpg/)**The Kazan Arena** © City of Kazan
 

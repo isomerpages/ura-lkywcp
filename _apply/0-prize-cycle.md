@@ -1,29 +1,25 @@
 ---
-title: 2020 Prize Cycle
+title: 2024 Prize Cycle
 permalink: /prize-cycle/
-image: /images/prize-cycle.jpg
-description: The nominations and evaluations for the 2020 Prize cycle have concluded. The results will be announced soon. Watch this space.
+image: /images/2024-prize-cycle.jpg
+description: The nominations for the 2024 Prize cycle will open soon. Watch this space.
 ---
 
-##### The nominations and evaluations for the 2020 Prize cycle have concluded. The results will be announced soon. Watch this space.
+##### The nominations for the 2024 Prize cycle will on 1 Aug 2022. Join us at the [World Cities Summit 2022](https://www.worldcitiessummit.com.sg) in Singapore!
 
-###### ![2020 Prize cycle](/images/prize-cycle.jpg)
+###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)
 
-#### **2020 Prize Cycle**
+#### **2024 Prize Cycle**
 
 | Date | Phase |
 | :--- | :--- |
-| <s>Jul 2018 - May 2019</s> | **[Stage A Nominations](/stage-a/)** <br> Nominations of cities by independent third parties. <br> --- <br> ⚠️ Stage A nominations have closed. |
-| <s>Jul 2018 - May 2019</s> | **[Stage B Submissions](/stage-b/)** <br> Submissions of detailed report by nominated cities. <br> --- <br> ⚠️ Stage B submissions have closed. |
-| <s>Jun 2019 - Mar 2020</s> | **[Evaluations](/evaluations/)** <br> Evaluations of the submissions through a rigourous two-tier selection process. <br> --- <br> ⚠️ Evaluations have concluded. |
-| Coming soon | **Announcement** <br> Announcement of the results via a media conference in Singapore.[^1] <br> --- <br> The results of the 2020 Prize will be announced soon. |
-| 31 Jul - 3 Aug 2022 | **Prize Lecture & Forum** <br> Conference presentations by the Prize Laureate and Special Mentions. <br> --- <br> **Award Ceremony & Banquet** <br> Gala dinner and presentation of the award to the Prize Laureate. |
+| 1 Aug 2022 - 31 Mar 2023 | **[Stage A Nominations](/stage-a/)** <br> Nominations of cities by independent third parties |
+| 1 Aug 2022 - 31 May 2023 | **[Stage B Submissions](/stage-b/)** <br> Submissions of detailed report by nominated cities |
+| Jun 2023 - Mar 2024 | **[Evaluations](/evaluations/)** <br> Evaluations of submissions through a rigourous two-tier selection process |
+| Mar 2024 | **Announcement** <br> Announcement of the results |
+| Jul/Aug 2024 | **Prize Lecture & Forum** <br> Sharing by the Prize Laureate and Special Mention(s) at [World Cities Summit](https://www.worldcitiessummit.com.sg) <br> --- <br> **Award Ceremony** <br> Presentation of the award to the Prize Laureate |
 
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
 - [Contact us](/feedback/)
-
----
-
-[^1]: Due to the COVID-19 pandemic, the announcement of the 2020 Prize may adopt a different format.

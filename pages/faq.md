@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 20 Oct 2021 |
+| 14 March 2022 |
 
 ###### ![FAQ](/images/FAQ.jpg/)**Illustration** © stories/ freepik.com
 
@@ -125,24 +125,26 @@ Demonstration projects can either be fully or partially completed. The completed
 
 #### **When will the results be announced?**
 
-The results of the 2020 Prize is [postponed](/resources/news/covid19-advisory/) until further notice. Please [subscribe to our newsletter](/subscribe/) to get our latest news in your inbox.
+The results of the 2020 Prize have been announced on 14 March 2022. Click [here](/resources/news/2022-press-release/) for more info. Please [subscribe to our newsletter](/subscribe/) to get our latest news in your inbox.
 
 #### **Who will be invited to receive the award?**
 
-The Mayor of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony & Banquet</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
+The Mayor of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
 
 #### **Will the Prize Laureate and Special Mention(s) be invited to speak?**
 
-The Prize Laureate will be invited to share their achievements at the **<mark>Lee Kuan Yew World City Prize Lecture</mark>**, while the Special Mention(s) will be invited to share their urban initiatives at the **<mark>Lee Kuan Yew World City Prize Forum</mark>**. Both events are key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
+The Prize Laureate and Special Mentions(s) will be invited to share their achievements and unique urban intiatives at the **<mark>Lee Kuan Yew World City Prize Lecture & Forum</mark>**, key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
 World Cities Summit (WCS) will return to the in-person format from 31 July to 3 August 2022, at the Sands Expo & Convention Centre in Singapore. The Prize events will be held in conjunction with WCS 2022. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
-For COVID-19-related measures and travel restrictions in Singapore, please visit the following resources: 
+#### **How is the COVID-19 situation in Singapore? Can I travel to Singapore to attend the World Cities Summit?**
 
-- [COVID-19 situation in Singapore](https://www.moh.gov.sg/covid-19) 
-- [Border control measures in Singapore](https://safetravel.ica.gov.sg)
+For the latest COVID-19-related updates and travel information to Singapore, please visit the following resources: 
+
+- [Updates on Singapore's COVID-19 situation](https://www.moh.gov.sg/covid-19) 
+- [Travelling to Singapore](https://safetravel.ica.gov.sg)
 
 [Back to top](#sections)
 

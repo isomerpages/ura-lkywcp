@@ -6,7 +6,7 @@ image: /images/stage-a-nominations.jpg
 description: Cities interested to apply for the Prize shall approach an independent third party (nominator) to nominate them. 
 ---
 
-##### The nominations for the 2020 Prize have closed.
+##### The nominations for the 2024 Prize will open on 1 Aug 2022.
 
 ###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
 
