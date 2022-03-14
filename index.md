@@ -45,8 +45,8 @@ sections:
         button: More videos
         url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
     - infobar:    
-        title: 
-        subtitle: 📩
+        title: 📩
+        subtitle: 
         description: Join our mailing list to get the latest news in your inbox!
         button: Subscribe now!  
         url: /subscribe/
