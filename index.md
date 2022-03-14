@@ -18,9 +18,9 @@ sections:
               url: /laureates/
     - infobar:    
         title: 
-        subtitle: About the Prize
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
-        button: More 
+        subtitle: <p align="left">About the Prize</p>
+        description: <p align="left">A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.</p>
+        button: <p align="left">More </p>
         url: /about-the-prize/
     - infopic:    
         title: Vienna wins the 2020 Prize!
