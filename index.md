@@ -19,7 +19,7 @@ sections:
     - infobar:    
         title: 
         subtitle: About the Prize
-        description: <p align="left">A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.</p>
+        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
         button: More
         url: /about-the-prize/
     - infopic:    
