@@ -7,7 +7,7 @@ description: Lisbon is recognised for its dramatic resurgence over the past ten 
 
 ##### Lisbon is recognised for its dramatic resurgence over the past ten years, achieving significant results and becoming an attractive city despite limited resources.[^1]
 
-###### ![Riberia das Naus on the Lisbon waterfront](/images/special-mentions/lisbon.jpg)**Riberia das Naus on the Lisbon waterfront** © Lisboa City Council
+###### ![Ribeira das Naus on the Lisbon waterfront](/images/special-mentions/lisbon.jpg)**Ribeira das Naus on the Lisbon waterfront** © Lisboa City Council
 
 <b><font color="#967942">LISBON</font></b> is recognised for its dramatic resurgence over the past ten years. Suffering from a two-decade financial turmoil, the city took the crisis as a chance for better governance and transformed itself into an attractive city with new investments, residents, and visitors. Through innovative ideas and effective implementation, Lisbon has achieved significant results in a short period of time despite limited financial resources.
 
