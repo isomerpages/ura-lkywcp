@@ -5,7 +5,7 @@ image: /images/special-mentions/vienna.jpg
 description: Vienna is recognised for taking the lead in protecting the environment and its rich cultural heritage while elevating the quality of life.
 ---
 
-##### Vienna is recognised for taking the lead in protecting the environment and its rich cultural heritage while elevating the quality of life.
+##### Vienna is recognised for taking the lead in protecting the environment and its rich cultural heritage while elevating the quality of life.[^1]
 
 ###### ![The Danube River and Danube Island](/images/special-mentions/vienna.jpg)**The Danube River and Danube Island** © trabantos/ Shutterstock.com
 
@@ -13,7 +13,7 @@ description: Vienna is recognised for taking the lead in protecting the environm
 
 #### **Environmental stewardship**
 
-Vienna is highly commendable for its stewardship of the environment. The city recognises its location on the upstream of the Danube River which runs through 19 countries before terminating in the Black Sea, and takes the lead in the protection of the environment. Under its ambitious goal of becoming Europe’s Environmental Model City, the city safeguarded more than 50 percent of its municipal lands as green spaces, 35 percent as protection zones, and 15 percent as species protection. Waste management measures contributed to the reduction of 130,000 tonnes of CO2 emissions annually. The city actively engages its enterprises in its environmental pursuits through the [**<mark>EcoBusinessPlan</mark>**](https://smartcity.wien.gv.at/en/ecobusiness-vienna/), a consultancy service to help businesses reduce their environmental impact and in turn achieved operating costs savings of Euro 121.4 million[^1] since its inauguration in 1998.
+Vienna is highly commendable for its stewardship of the environment. The city recognises its location on the upstream of the Danube River which runs through 19 countries before terminating in the Black Sea, and takes the lead in the protection of the environment. Under its ambitious goal of becoming Europe’s Environmental Model City, the city safeguarded more than 50 percent of its municipal lands as green spaces, 35 percent as protection zones, and 15 percent as species protection. Waste management measures contributed to the reduction of 130,000 tonnes of CO2 emissions annually. The city actively engages its enterprises in its environmental pursuits through the [**<mark>EcoBusinessPlan</mark>**](https://smartcity.wien.gv.at/en/ecobusiness-vienna/), a consultancy service to help businesses reduce their environmental impact and in turn achieved operating costs savings of Euro 121.4 million[^2] since its inauguration in 1998.
 
 #### **Foreward-looking flood protection**
 
@@ -23,30 +23,7 @@ In an age with pressing climate change issues, Vienna is far-sighted in its appr
 
 Vienna is already widely recognised as one of the most liveable cities in the world today. Yet, the city does not rest on its laurels but continues to raise the bar of sustainability and liveability, under the long-term leadership of then-Mayor Dr Michael Häupl and assisted by the Executive Policy Group looking into all aspects of quality of life in the city. Vienna is a role model in its commitment to good environment and sends an important environmental message to other cities around the world. **<font color="#967942">O</font>**
 
----
-
-##### **City profile** 
-
-| **Mayor** | Michael Ludwig (2018 - date) <br> Michael Häupl (1994 - 2018) |
-| **Area** | 414.6 km<sup>2</sup> |
-| **Population** | 1,897,000 people (2019) | 
-| **Density** | 4,575 per km<sup>2</sup> |
-| **Master plan** | [STEP 2025 Urban Development Plan](https://www.wien.gv.at/stadtentwicklung/studien/pdf/b008379b.pdf) |
-
-##### **YouTube videos** 
-
-| ▶️ [Prize Forum 2016: Walter Kling on Vienna's ambitious pursuits](https://youtu.be/CAyC_oThxNA) |
-| ▶️ [Interview: Walter Kling on Vienna's environmental stewardship](https://youtu.be/mldnlrUZunE) |
-
-##### **In pictures** 
-
-| [Vienna in pictures — raising the bar of liveability](/resources/in-pictures/vienna/) |
-
-##### **Features** 
-
-| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
-| [Looking east and west — Vienna at the crossroads](/resources/features/vienna-at-crossroads/) |
-
 --- 
 
-[^1]: Information correct as of 2016.
+[^1]: Vienna has since won the 2020 Prize. Click [here](/vienna) to read the citation. 
+[^2]: Information correct as of 2016.
