@@ -49,6 +49,20 @@ Despite its many successes in the past, Vienna continues to build on the strong 
 
 </div>
 
+##### **YouTube videos** 
+
+| ▶️ [Prize Forum 2016: Walter Kling on Vienna's ambitious pursuits](https://youtu.be/CAyC_oThxNA) |
+| ▶️ [Interview: Walter Kling on Vienna's environmental stewardship](https://youtu.be/mldnlrUZunE) |
+
+##### **In pictures** 
+
+| [Vienna in pictures — raising the bar of liveability](/resources/in-pictures/vienna/) |
+
+##### **Features** 
+
+| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
+| [Looking east and west — Vienna at the crossroads](/resources/features/vienna-at-crossroads/) |
+
 ---
 
 [^1]: All information correct as of 2019.
