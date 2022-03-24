@@ -2,14 +2,14 @@
 title: Looking east and west — Vienna at the crossroads
 permalink: /resources/features/vienna-at-crossroads/
 image: /images/features/2017/vienna-danube.jpg
-description: Vienna’s progress in environmental stewardship, such as the visionary flood management of the Danube River, has earned it the 2016 Special Mention. We learn from Walter Kling about the experience and the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.
+description: Vienna’s progress in environmental stewardship, such as the visionary flood management of the Danube River, has earned it the 2016 Special Mention and the 2020 Prize. We learn from Walter Kling about the experience and the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.
 ---
 
 | Writer |
 |---:|
 | Marcus Ng |
 
-##### Vienna’s progress in environmental stewardship, such as the visionary flood management of the Danube River, has earned it the [2016 Special Mention](/vienna/). We learn from Walter Kling about the experience and the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.
+##### Vienna’s progress in environmental stewardship, such as the visionary flood management of the Danube River, has earned it the [2016 Special Mention](/vienna-sm/) and the [2020 Prize](/vienna/). We learn from Walter Kling about the experience and the challenges facing this historic yet progressive city that straddles Western and Eastern Europe.
 
 > ###### **Cities mentioned in this article:** <br> Vienna
 
