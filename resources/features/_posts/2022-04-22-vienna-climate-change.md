@@ -46,7 +46,7 @@ It also continues to set aside land plots, and rehabilitate brownfield sites, in
 
 #### **A leader in sustainable housing**
 
-###### ![A new residential district in Vienna](/images/features/2022/aspern seestadt.jpg/)**A new residential district in Vienna** © Chang Jun Biao
+###### ![A new residential district in Vienna](/images/features/2022/aspern-seestadt.jpg/)**A new residential district in Vienna** © Chang Jun Biao
 
 As Vienna’s population grew, it introduced measures to keep housing affordable and sustainable too. Since the city completed its first municipal housing estate in 1925, it has [erected about 220,000 low-rent public flats](https://socialhousing.wien/) that house about 500,000 people, or a quarter of its population. Successful applicants, who must meet age, income and other criteria, also do not have to pay deposits, commissions or contract fees, making the flats the least costly form of housing in the city.
 
