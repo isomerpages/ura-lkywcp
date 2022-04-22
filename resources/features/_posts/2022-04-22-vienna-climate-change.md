@@ -24,7 +24,7 @@ The city’s commitment to the environment is one reason that it was [awarded th
 
 #### **Channelling efforts against flood risks**
 
-###### ![Seoul invests in IoT](/images/features/2021/seoul-iot.jpg/)**Seoul invests in IoT** © raker/ Shutterstock.com
+###### ![Danube Island](/images/features/2022/danube-island.jpg/)**Recreational activities on Danube Island** © Bravavod161/ Shutterstock.com
 
 Even before the city implemented its first climate protection programme, it conducted studies and built defences to reduce its flood risks. One ambitious project, which consisted of excavating a flood control channel called the New Danube, and using the excavated soil to create a recreational island named the Danube Island, was [finished in 1989](https://www.digital.wienbibliothek.at/wbrup/download/pdf/3397508?originalFilename=true). The undertaking both raised the city’s flood protection and added a centrally-located closed water body and large public park for outdoor activities.
 
@@ -32,14 +32,9 @@ The 21-kilometre flood control channel, which runs parallel to the Danube River,
 
 With climate change accelerating since the city constructed the Danube Island, it also [started a five-year project](https://www.wien.gv.at/english/environment/waterbodies/danube-island/dicca/project-description/index.html) in 2018 to further green it. The measures include expanding its green spaces, installing a wind-powered ditch irrigation system and using a flock of 70 sheep to graze on grassland in lieu of lawnmowers. These will decrease the island’s carbon emissions by up to 20 percent and maintenance costs by up to 15 percent. 
 
-<br>
-> ##### "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
-
-<div align="right"><b>— Ms Inger Andersen</b> <br> Executive Director, UN Environment Programme</div>
-
 #### **A green capital of the world**
 
-###### ![Medellin aims to become an eco-city](/images/features/2021/medellin-river-park-2021.jpg/)**Medellín aims to become an eco-city and a tech haven** © Oscar Garces/ Shutterstock.com
+###### ![Vienna preserves over 50% of its land areas as green spaces](/images/features/2022/vienna-greenery.jpg/)**Vienna preserves over 50% of its land areas as green spaces** © Syed Zain Mujtaba/ Shutterstock.com
 
 Over the years, Vienna has also enacted plans to expand its green and open spaces, boost its affordable and sustainable housing, and reconfigure its transport system to favour public transport, walking, cycling and other environmentally friendly travel modes. Its [STEP 2025 urban development plan](https://www.wien.gv.at/english/transportation-urbanplanning/step-2025.html), adopted in 2014, sets out targets and initiatives in all three areas.
 
@@ -49,14 +44,9 @@ The city also develops local green plans when it embarks on renewal, densificati
 
 It also continues to set aside land plots, and rehabilitate brownfield sites, into parks. By 2025, it will convert its former Nordbahnhof railway station into a 93,000-square-metre park and nature area, called [Freie Mitte](https://wien.orf.at/stories/3112886/), with features such as cycling lanes, skate parks, and a wildlife reserve. Freie Mitte will be its largest new park since it built the Kurpark Oberlaa Park in 1974.
 
-<br>
-> ##### "If food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions."
-
-<div align="right"><b>— Ms Inger Andersen</b> <br> Executive Director, UN Environment Programme</div>
-
 #### **A leader in sustainable housing**
 
-###### ![New York City strives for a fairer society](/images/features/2021/nyc-equality.jpg/)**New York City strives for a fairer society** © blvdone/ Shutterstock.com
+###### ![A new residential district in Vienna](/images/features/2022/aspern seestadt.jpg/)**A new residential district in Vienna** © Chang Jun Biao
 
 As Vienna’s population grew, it introduced measures to keep housing affordable and sustainable too. Since the city completed its first municipal housing estate in 1925, it has [erected about 220,000 low-rent public flats](https://socialhousing.wien/) that house about 500,000 people, or a quarter of its population. Successful applicants, who must meet age, income and other criteria, also do not have to pay deposits, commissions or contract fees, making the flats the least costly form of housing in the city.
 
@@ -65,6 +55,11 @@ Vienna has funded another 200,000 subsidised apartments, run by co-operative hou
 By taking a larger role in housing, the city has reined in its building sector’s impact on the environment. Since 1998, it has [mandated low-energy standards for new public and publicly-subsidised flats](https://www.irishtimes.com/business/commercial-property/vienna-is-active-on-passive-public-housing-1.675473). These standards were also [raised in 2007](https://www.eumayors.eu/IMG/pdf/Vienna_Case_Study_Covenant_Mayors.pdf). Electricity for heating, which consumes the most power in its homes, for example, is now limited to 30 kilowatt-hour per square metre per year. The city estimates that its social housing [averts about 371,000 tonnes of carbon dioxide emissions annually](https://socialhousing.wien/policy/the-vienna-model).
 
 It has gone further in recent years. In June 2020, it designated three areas as its first [‘climate protection areas’](https://www.wien.gv.at/english/environment/energy/climate-protection-areas.html), where new buildings are only permitted if their proposed system to provide heating and hot water is climate-friendly. It intends to create more of such areas, and added: “As a next step, climate protection areas shall be extended to phase out fossil fuel heating and cooling systems in existing buildings.”
+
+<br>
+> ##### "We will continue on our consistent path of high quality of life for everyone through social and technical innovation in all areas, while maximising the conservation of resources and being a reliable partner for others."
+
+<div align="right"><b>— Dr Michael Ludwig</b> <br> Mayor, City of Vienna</div>
 
 #### **A model for eco-friendly mobility**
 
