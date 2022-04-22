@@ -14,7 +14,7 @@ description: Vienna, the 2020 Prize Laureate, has been at the forefront of effor
 
 > ###### **Cities mentioned in this article:** <br> Vienna
 
-###### ![Danube River, Danube Island and New Danube](/images/2022/vienna-climate-change.jpg)**Left to right: Danube River, Danube Island and New Danube** © saiko3p/ Shutterstock.com
+###### ![Danube River, Danube Island and New Danube](/images/features/2022/vienna-climate-change.jpg)**Left to right: Danube River, Danube Island and New Danube** © saiko3p/ Shutterstock.com
 
 For Vienna in Austria, care for the environment has been a core principle of its urban planning for decades. When the city launched its [Vienna Climate Roadmap](https://www.wien.gv.at/umwelt-klimaschutz/pdf/klima-fahrplan-lang.pdf) in January 2022, its Mayor Michael Ludwig noted that it adopted its first climate protection programme more than two decades ago, in 1999. Since then, it has reduced its carbon emissions per capita by almost 40 percent while improving its residents’ lives. It also aims to be carbon-neutral by 2040.
 
