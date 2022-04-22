@@ -22,7 +22,7 @@ For Vienna in Austria, care for the environment has been a core principle of its
 
 The city’s commitment to the environment is one reason that it was [awarded the 2020 Prize](/resources/news/2022-press-release/). The Prize’s jurors said: “Even as the world faces a climate emergency, Vienna is an exemplar of responsible environmental stewardship for its region. It holds many lessons for us, as it has met the needs of modern society in a sustainable way while retaining its attractiveness and charm as a city of history and culture.”  
 
-#### **Foresight in flood mitigation**
+#### **Channelling efforts against flood risks**
 
 ###### ![Seoul invests in IoT](/images/features/2021/seoul-iot.jpg/)**Seoul invests in IoT** © raker/ Shutterstock.com
 
