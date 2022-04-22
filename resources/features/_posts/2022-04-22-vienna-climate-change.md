@@ -1,5 +1,5 @@
 ---
-title: Vienna — channelling efforts against climate change
+title: Vienna — channeling efforts against climate change
 permalink: /resources/features/vienna-climate-change/
 image: /images/features/2022/vienna-climate-change.jpg
 description: Vienna, the 2020 Prize Laureate, has been at the forefront of efforts to limit the adverse effects of and adapt to climate change. We look at the ground-breaking initiatives which have slashed its carbon emissions per person and raised the quality of life for residents. 
@@ -22,7 +22,7 @@ For Vienna in Austria, care for the environment has been a core principle of its
 
 The city’s commitment to the environment is one reason that it was [awarded the 2020 Prize](/resources/news/2022-press-release/). The Prize’s jurors said: “Even as the world faces a climate emergency, Vienna is an exemplar of responsible environmental stewardship for its region. It holds many lessons for us, as it has met the needs of modern society in a sustainable way while retaining its attractiveness and charm as a city of history and culture.”  
 
-#### **Channelling efforts against flood risks**
+#### **Channeling efforts against flood risks**
 
 ###### ![Danube Island](/images/features/2022/danube-island.jpg/)**Recreational activities on Danube Island** © Bravavod161/ Shutterstock.com
 
