@@ -42,7 +42,7 @@ Mr Zhou Naixiang, Suzhou’s Communist Party Secretary and former Mayor of Suzho
 <br>
 > ##### “Suzhou has become a hub for trade and business, and is one of the most popular destinations for global professionals to turn their dream into reality.”
 
-<div align="right"><b>— Li Yaping</b> <br> Mayor, Suzhou</div>
+<div align="right"><b>— Li Yaping</b> <br> Former Mayor, Suzhou</div>
 
 #### **An all-systems upgrade**
 
@@ -58,4 +58,4 @@ A [dramatic expansion of the city’s metro system](https://www.shine.cn/news/na
 
 Furthermore, [intelligent transport systems](https://www.worldbank.org/en/news/feature/2018/11/16/reducing-traffic-congestion-and-emission-in-chinese-cities) to improve the city’s traffic are already in place. At the Suzhou Public Transport Command Centre, such technologies provide officers with a real-time overview of the city’s public bus service, which comprises about 370 routes and nearly 4,700 buses that ferry 1.5 million passengers daily. Data collected from surveillance cameras and payment machines on the buses, as well as from cameras at bus stops, aids operators in monitoring passenger flows so that they can adjust bus schedules, frequencies and speeds as needed. With the intelligent systems, the city can now predict its traffic flow within the next hour to an accuracy of more than 94 percent. 
 
-Such technological advancements, combined with a careful tending of traditions, will continue to be the Suzhou way. In May 2019, [Mayor of Suzhou Li Yaping noted](http://www.chinadaily.com.cn/cndy/2019-05/20/content_37471064.htm) that the city’s development projects have helped it to prosper. He said: “Suzhou has become a hub for trade and business, and is one of the most popular destinations for global professionals to turn their dream into reality.” **<font color="#967942">O</font>**
+Such technological advancements, combined with a careful tending of traditions, will continue to be the Suzhou way. In May 2019, [then-Mayor of Suzhou Li Yaping noted](http://www.chinadaily.com.cn/cndy/2019-05/20/content_37471064.htm) that the city’s development projects have helped it to prosper. He said: “Suzhou has become a hub for trade and business, and is one of the most popular destinations for global professionals to turn their dream into reality.” **<font color="#967942">O</font>**

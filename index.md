@@ -23,21 +23,13 @@ sections:
         button: More
         url: /about-the-prize/
     - infopic:    
-        title: Vienna wins the 2020 Prize!
-        subtitle: 2020 Prize Laureate
-        description: Find out how the Austrian capital reinvented itself for success without losing its distinctive identity.
+        title: Channelling efforts against climate change
+        subtitle: Featured article
+        description: We look at 2020 Prize Laureate Vienna's ground-breaking initiatives which reduced its carbon emissions and raised its quality of life. 
         button: More 
-        url: /vienna/
-        image: /images/laureates/vienna.jpg
-        alt: Vienna wins the 2020 Prize
-    - infopic:    
-        title: Antwerp, Boston & Lisbon
-        subtitle: 2020 Special Mentions
-        description: Read how the three 2020 Special Mention cities transformed themselves using different strategies. 
-        button: More 
-        url: /special-mentions/
-        image: /images/features/2022/2020-sm.jpg
-        alt: Special Mentions
+        url: /resources/features/vienna-climate-change/
+        image: /images/features/2022/vienna-climate-change.jpg
+        alt: New Danube in Vienna
     - infobar:    
         title: Vienna, reinventing for success
         subtitle: Featured video
