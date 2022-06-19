@@ -7,7 +7,7 @@ description: The nominations for the 2024 Prize cycle will open soon. Watch this
 
 ##### The nominations for the 2024 Prize cycle will open on 1 Aug 2022. Join us at the [World Cities Summit 2022](https://www.worldcitiessummit.com.sg) in Singapore!
 
-###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)
+###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)**Click [here](/documents/2024-prize-cycle.pdf/) for mobile version**
 
 #### **2024 Prize Cycle**
 
