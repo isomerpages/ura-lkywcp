@@ -8,8 +8,6 @@ description: After completing Stage A, the nominated city will be informed to pr
 
 ##### The nominations for the 2024 Prize will open on 1 Aug 2022. 
 
-###### ![Stage B Report](/images/stage-b-report.jpg/)**Illustration** © stories/ freepik.com
-
 The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
 
 #### **Detailed written report**
