@@ -6,13 +6,13 @@ image: /images/stage-b-report.jpg
 description: After completing Stage A, the nominated city will be informed to prepare and submit a detailed report using the official report template.
 ---
 
-##### The nominations for the 2024 Prize will open on 1 Aug 2022. 
+#### **Instructions**
 
-The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
+The nominations for the 2024 Prize will open on 1 Aug 2022. The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
 
-#### **Detailed written report**
+#### **Detailed Stage B report**
 
-After completing [Stage A](/stage-a), the nominated city will be informed to prepare and submit a detailed report using the official report template[^1]. This report comprises the following: 
+After completing [Stage A](/stage-a), we will inform the nominated city to prepare and submit a detailed Stage B report using the official report template[^1]. This report comprises the following: 
 
 | **1** | **Key statistics** <br> Comparing the city today and 10-20 years ago |
 | **2** | **City portfolio** <br> Background information on the city |
@@ -24,7 +24,7 @@ After completing [Stage A](/stage-a), the nominated city will be informed to pre
 
 **<mark>Please note that this report may require some time and resources to complete.</mark>** 
 
-#### **Information for the nominated city**
+#### **Nominated city – please read the following**
 
 - A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
 - Please ensure the timely delivery of all submission materials. 
