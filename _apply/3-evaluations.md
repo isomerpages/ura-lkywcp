@@ -7,8 +7,6 @@ description: All submissions are evaluated through a rigorous two-tier process c
 
 ##### The nominations for the 2024 Prize will open on 1 Aug 2022. 
 
-###### ![Evaluation Process](/images/evaluations.jpg/)**Illustration** © stories/ freepik.com
-
 #### **Evaluation process**
 
 All submissions are evaluated through a rigorous two-tier process comprising the [Nominating Committee](/nominating-committee/) and [Prize Council](/prize-council/). Both panels consist of prominent practitioners, policy makers, academics and experts from a wide range of disciplines in the public and private sectors.
@@ -27,8 +25,6 @@ All submissions are evaluated based on the following criteria:
 | **6** | **Integration of Plans** <br> Successful integration or relation of plans at the regional/metropolitan level. |
 
 #### **Announcement & award**
-
-###### ![Prize Lecture](/images/prize-lecture.jpg/)**Illustration** © stories/ freepik.com
 
 The results will be announced via a dedicated media conference held in Singapore[^1]. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture and Prize Forum respectively, key highlights of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
 
