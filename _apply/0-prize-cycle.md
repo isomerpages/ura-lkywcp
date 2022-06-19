@@ -17,7 +17,7 @@ description: The nominations for the 2024 Prize cycle will open soon. Watch this
 | 1 Oct 2022 - 31 May 2023 | **[Stage B Submissions](/stage-b/)** <br> Submissions of detailed report by nominated cities |
 | Jun 2023 - Feb 2024 | **[Evaluations](/evaluations/)** <br> Evaluations of submissions through a rigourous two-tier selection process |
 | Mar 2024 | **Announcement** <br> Announcement of the results |
-| Jul/Aug 2024 | **Prize Lecture & Forum** <br> Sharing by the Prize Laureate and Special Mention(s) at [World Cities Summit](https://www.worldcitiessummit.com.sg) <br> --- <br> **Award Ceremony** <br> Presentation of the award to the Prize Laureate |
+| Jul/Aug 2024 | **Prize Lecture & Forum** <br> Sharing by the Prize Laureate and Special Mention(s) at [World Cities Summit](https://www.worldcitiessummit.com.sg) <br> --- <br> **Award Ceremony & Banquet** <br> Presentation of the award to the Prize Laureate |
 
 #### **Questions?**
 
