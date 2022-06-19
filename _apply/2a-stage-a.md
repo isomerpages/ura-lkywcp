@@ -8,8 +8,6 @@ description: Cities interested to apply for the Prize shall approach an independ
 
 ##### The nominations for the 2024 Prize will open on 1 Aug 2022.
 
-###### ![Stage A Nominations](/images/stage-a-nominations.jpg/)**Illustration** © stories/ freepik.com
-
 The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
 
 #### **Nominations**
