@@ -56,8 +56,6 @@ In mobility, the city is piloting electric vehicle (EV)-sharing models that are 
 
 #### **A mass movement for mobility**
 
-###### ![A new residential district in Vienna](/images/features/2022/aspern-seestadt.jpg/)**A new residential district in Vienna** © Chang Jun Biao
-
 <br>
 > ##### "By making the steps to use public space as easy as possible, we can build a more liveable and inclusive city with engaged citizens."
 
