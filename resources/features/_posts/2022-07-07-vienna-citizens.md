@@ -1,6 +1,6 @@
 ---
 title: Shaping Vienna together with citizens
-permalink: /resources/features/shaong-vienna-together/
+permalink: /resources/features/shaping-vienna-together/
 image: /images/features/2022/shaping-vienna-together.jpg
 description: Vienna, the 2020 Prize Laureate, has built a stronger and more sustainable society by enlisting its citizens early and often in its urban development process, and empowering them to work with one another to lead projects to improve their neighbourhoods. 
 
@@ -16,7 +16,7 @@ description: Vienna, the 2020 Prize Laureate, has built a stronger and more sust
 
 ###### ![Danube River, Danube Island and New Danube](/images/features/2022/vienna-climate-change.jpg)**Left to right: Danube River, Danube Island and New Danube** © saiko3p/ Shutterstock.com
 
-What better way to improve the lives of youths than to involve them directly in the process? In 2019, Vienna hosted some 1,300 workshops with more than 22,500 youths and children to learn more about their interests, concerns, and needs. The city then used their feedback and suggestions to formulate its inaugural five-year Children and Youth Strategy1 that was launched in 2020. 
+What better way to improve the lives of people than to involve them directly in the process? In 2019, Vienna hosted some 1,300 workshops with more than 22,500 youths and children to learn more about their interests, concerns, and needs. The city then used their feedback and suggestions to formulate its inaugural five-year Children and Youth Strategy1 that was launched in 2020. 
 
 For example, the city committed to giving its young residents opportunities to plant trees and spend at least one day in nature each year as part of their classes so that they can learn more about the environment. It will also set up a free and anonymous service for youths to discuss their mental well-being with trained counsellors, install lower handles for children on public transport, and commit 1 million Euros (approximately 1.04 million USD) each year to projects led by and for the youngsters.
 
@@ -58,6 +58,11 @@ In mobility, the city is piloting electric vehicle (EV)-sharing models that are 
 
 ###### ![A new residential district in Vienna](/images/features/2022/aspern-seestadt.jpg/)**A new residential district in Vienna** © Chang Jun Biao
 
+<br>
+> ##### "By making the steps to use public space as easy as possible, we can build a more liveable and inclusive city with engaged citizens."
+
+<div align="right"><b>— Dr Michael Ludwig</b> <br> Mayor, City of Vienna</div>
+
 Constructed on a former airfield, Vienna’s new Aspern Seestadt district14 offers lessons in mobility and citizen participation. Over 13,200 people already live and work in the area. When it is fully completed in 2028, it will have homes for over 20,000 people and thousands of workplaces. Complementing its extensive public transit network, wide cycling paths and generous sidewalks, mobility suggestions from the public have helped to achieve 38 percent of trips by public transport, 28 percent on foot and seven percent by bicycle.
 
 To discourage private vehicle ownership, the district provides just 0.7 parking spaces per home15, concentrates them in underground carparks, and requires their operators to pay fees into a Mobility Fund16 that finances eco-friendly ideas from the public. This helped to fund a shopping trolley for every household to spur walks to supermarkets and stores, a bicycle-sharing scheme that includes electric cargo bicycles to safely transport children and goods, among others17. 
@@ -67,8 +72,3 @@ Residents also get a free ‘Seestadt Card’18 valued at 10 Euros (approximatel
 Vienna’s government noted in its Children and Youth Strategy: “Similar to a car which is taken for inspection, residents can check over a city to find out what is working well, what is running smoothly, what needs to be improved and what is missing.”
 
 “Furthermore, a truly sustainable development which is fit for the future can only be accomplished if all people who live in Vienna have a chance to participate in it and actively do so, by taking part in discussions, being involved in the development and implementation of projects, contributing their knowledge and experience, and making responsible consumption and mobility decisions. This is why the city actively promotes citizen participation.” <b><font color="#967942">O</font></b>
-
-<br>
-> ##### "We will continue on our consistent path of high quality of life for everyone through social and technical innovation in all areas, while maximising the conservation of resources and being a reliable partner for others."
-
-<div align="right"><b>— Dr Michael Ludwig</b> <br> Mayor, City of Vienna</div>
