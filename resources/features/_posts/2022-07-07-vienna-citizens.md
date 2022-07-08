@@ -14,7 +14,7 @@ description: Vienna, the 2020 Prize Laureate, has built a stronger and more sust
 
 > ###### **Cities mentioned in this article:** <br> Vienna
 
-###### ![Danube River, Danube Island and New Danube](/images/features/2022/vienna-climate-change.jpg)**Left to right: Danube River, Danube Island and New Danube** © saiko3p/ Shutterstock.com
+###### ![Vienna actively engages its citizens for their collective future](/images/features/2022/shaping-vienna-together.jpg)**Vienna actively engages its citizens for their collective future** © Christian Fürthner
 
 What better way to improve the lives of people than to engage them directly in the process? In 2019, in a bid to find out more about the interests, concerns and needs of its younger residents, Vienna hosted an extensive 1,300 workshops involving more than 22,500 youths and children. The city then used their feedback and suggestions to formulate its inaugural five-year [Children and Youth Strategy](https://werkstadt.junges.wien.gv.at/wp-content/uploads/sites/48/2020/09/The-Vienna-Children-and-Youth-Strategy.pdf) that was launched in 2020. 
 
