@@ -1,8 +1,8 @@
 ---
 title: Shaping Vienna from the ground up
-permalink: /resources/features/shaping-vienna-together/
+permalink: /resources/features/shaping-vienna-ground-up/
 image: /images/features/2022/shaping-vienna-together.jpg
-description: Vienna, the 2020 Prize Laureate, has built a stronger and more sustainable society by enlisting its citizens early and often in its urban development process, and empowering them to work with one another to lead projects to improve their neighbourhoods. 
+description: How can cities build a stronger and more sustainable society for the future? Vienna shows us how by enlisting its citizens early and often in its urban development process, and empowering them to work with one another to lead projects to improve their neighbourhoods.  
 
 ---
 
@@ -10,7 +10,7 @@ description: Vienna, the 2020 Prize Laureate, has built a stronger and more sust
 | ---: |
 | Feng Zengkun |
 
-##### Vienna, the 2020 Prize Laureate, has built a stronger and more sustainable society by enlisting its citizens early and often in its urban development process, and empowering them to work with one another to lead projects to improve their neighbourhoods. 
+##### How can cities build a stronger and more sustainable society for the future? Vienna shows us how by enlisting its citizens early and often in its urban development process, and empowering them to work with one another to lead projects to improve their neighbourhoods.  
 
 > ###### **Cities mentioned in this article:** <br> Vienna
 
