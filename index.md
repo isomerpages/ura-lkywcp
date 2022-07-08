@@ -35,7 +35,7 @@ sections:
         subtitle: Photo essay
         description: Vienna focuses on small initiatives to achieve big impacts. Find out how in this photo essay.
         button: More 
-        url: /resources/features/resources/in-pictures/vienna/
+        url: /resources/in-pictures/vienna/
         image: /images/features/2022/gratzloase3.jpg/
         alt: Parklet
     - infobar:    
