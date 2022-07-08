@@ -1,5 +1,5 @@
 ---
-title: Shaping Vienna together with citizens
+title: Shaping Vienna from the ground up
 permalink: /resources/features/shaping-vienna-together/
 image: /images/features/2022/shaping-vienna-together.jpg
 description: Vienna, the 2020 Prize Laureate, has built a stronger and more sustainable society by enlisting its citizens early and often in its urban development process, and empowering them to work with one another to lead projects to improve their neighbourhoods. 
