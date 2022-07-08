@@ -23,19 +23,21 @@ sections:
         button: More
         url: /about-the-prize/
     - infopic:    
-        title: Channelling efforts against climate change
+        title: Shaping Vienna from the ground up
         subtitle: Featured article
-        description: We look at 2020 Prize Laureate Vienna's ground-breaking initiatives which reduced its carbon emissions and raised its quality of life. 
+        description: How can cities build a stronger and more sustainable society for the future? 2020 Prize Laureate Vienna shows us how. 
         button: More 
-        url: /resources/features/vienna-climate-change/
-        image: /images/features/2022/vienna-climate-change.jpg
-        alt: New Danube in Vienna
-    - infobar:    
-        title: Vienna, reinventing for success
-        subtitle: Featured video
-        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/t6RpNG7ZOZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        button: More videos
-        url: https://www.youtube.com/channel/UCSOtwygMxkPsCymV7EXPUjQ/
+        url: /resources/features/shaping-vienna-ground-up/
+        image: /images/features/2022/vienna-ground-up.jpg
+        alt: Vienna ground up
+    - infopic:    
+        title: Vienna in pictures I — small initiatives, big impacts
+        subtitle: Photo essay
+        description: Vienna focuses on small initiatives to achieve big impacts. Find out how in this photo essay.
+        button: More 
+        url: /resources/features/resources/in-pictures/vienna/
+        image: /images/features/2022/gratzloase3.jpg/
+        alt: Parklet
     - infobar:    
         title: 📩
         subtitle: 
