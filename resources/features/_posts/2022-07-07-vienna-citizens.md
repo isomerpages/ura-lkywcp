@@ -26,7 +26,7 @@ For decades, Vienna has empowered citizens to shape its future. It has consulted
 
 #### **Co-creating spaces with communities**
 
-###### ![Danube Island](/images/features/2022/danube-island.jpg/)**Recreational activities on Danube Island** © Bravavod161/ Shutterstock.com
+###### ![The Grätzloase programme invites citizens to revitalise public spaces](/images/features/2022/street-festival.jpg/)**The Grätzloase programme invites citizens to revitalise public spaces** © Stadt Wien
 
 For example, the city operates [‘Local Agenda 21’](https://www.la21wien.at/home.html) (LA 21), district-level programmes where residents and public officials cooperate on projects to enhance their neighbourhoods. Each programme typically lasts four years and receives about 100,000 Euros (approximately 105,200 USD) in funding per year. 
 
@@ -42,7 +42,10 @@ More recently, it has [streamlined applications for the use public spaces](https
 
 #### **A shared effort for sustainability**
 
-###### ![Vienna preserves over 50% of its land areas as green spaces](/images/features/2022/vienna-greenery.jpg/)**Vienna preserves over 50% of its land areas as green spaces** © Syed Zain Mujtaba/ Shutterstock.com
+<br>
+> ##### "By making the steps to use public space as easy as possible, we can build a more liveable and inclusive city with engaged citizens."
+
+<div align="right"><b>— Dr Michael Ludwig</b> <br> Mayor, City of Vienna</div>
 
 Residents too are at the heart of Vienna’s innovative initiatives in renewable energy and electric mobility, as the city [continues on-track to be carbon-neutral by 2040](https://www.wien.gv.at/umwelt/klimaschutz/klimafahrplan/#:~:text=Wien%20will%20bis%202040%20klimaneutral,aller%20Menschen%20in%20der%20Stadt). In the past decade, energy provider Wien Energie has built 28 solar power plants and four wind turbines that were [financed entirely by the public](https://smartcity.wien.gv.at/en/approach/smart-city-made-simple/co-owning-a-solar-power-plant/). 
 
@@ -56,10 +59,7 @@ In mobility, the city is piloting electric vehicle (EV)-sharing models that are 
 
 #### **A mass movement for mobility**
 
-<br>
-> ##### "By making the steps to use public space as easy as possible, we can build a more liveable and inclusive city with engaged citizens."
-
-<div align="right"><b>— Dr Michael Ludwig</b> <br> Mayor, City of Vienna</div>
+###### ![Vienna promotes active mobility in the city](/images/features/2022/active-mobility.jpg/)**Vienna promotes active mobility in the city** © mirawonderland/ 123RF.com
 
 Constructed on a former airfield, Vienna’s new [Aspern Seestadt](https://www.aspern-seestadt.at/en/business_hub/planning__reality/master_plan) district offers lessons in mobility and citizen participation. Over 13,200 people already live and work in the area. When it is fully completed in 2028, it will have homes for over 20,000 people and thousands of workplaces. Complementing its extensive public transit network, wide cycling paths and generous sidewalks, mobility suggestions from the public have helped to achieve 38 percent of trips by public transport, 28 percent on foot and seven percent by bicycle.
 
