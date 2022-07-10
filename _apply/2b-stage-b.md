@@ -17,7 +17,7 @@ After completing [Stage A](/stage-a), we will inform the nominated city to prepa
 | **Part I** <br> Key statistics | **A** – Land area and population <br> **B** – Economy <br> **C** – Quality of Life <br> **D** – Modal split for daily commute <br> **E** – Sustainability  |
 | **Part II** <br> Detailed report | **A** – City portfolio <br> **B** – Master plan or strategy <br> **C** – Three demonstration projects <br> **D** – Key visuals |
 | **Part III** <br> References | 2-5 reference letters written and signed by independent third parties |
-| **Part IV** <br> Optional supporting documents | E.g. city reports, media reports, accolades, etc. |
+| **Part IV** <br> Optional supporting<br>documents | E.g. city reports, media reports, accolades, etc. |
 
 Parts I and II must be completed using the official templates[^1].
 
