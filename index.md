@@ -31,7 +31,7 @@ sections:
         image: /images/features/2022/vienna-ground-up.jpg
         alt: Vienna ground up
     - infopic:    
-        title: Vienna in pictures I — small initiatives, big impacts
+        title: Small initiatives, big impacts
         subtitle: Photo essay
         description: Vienna focuses on small initiatives to achieve big impacts. Find out how in this photo essay.
         button: More 
