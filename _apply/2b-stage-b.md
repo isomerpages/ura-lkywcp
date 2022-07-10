@@ -15,7 +15,7 @@ The nominations for the 2024 Prize will open on 1 Aug 2022. The Prize is **<mark
 The Prize Secretariat will verify the [Stage A](/stage-a) nominations, and inform nominated cities via email to prepare for Stage B submission comprising the following parts: 
 
 | **Part I** <br> Key statistics <br> in 5 areas | **A** – Land area and population <br> **B** – Economy <br> **C** – Quality of Life <br> **D** – Modal split for daily commute <br> **E** – Sustainability  |
-| **Part II** <br> Detailed report | **A** – City portfolio <br> **B** – Master plan or strategy <br> **C** – Three demonstration projects <br> **D** – Key visuals |
+| **Part II** <br> Detailed report <br> in 4 sections | **A** – City portfolio <br> **B** – Master plan or strategy <br> **C** – Three demonstration projects <br> **D** – Key visuals |
 | **Part III** <br> References | 2-5 reference letters written and signed by independent third parties |
 | **Part IV** <br> Optional supporting<br>documents | E.g. city reports, media reports, accolades, etc. |
 
