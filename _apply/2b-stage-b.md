@@ -18,7 +18,7 @@ After completing [Stage A](/stage-a), we will inform the nominated city to prepa
 | **2** | **City portfolio** <br> Background information on the city |
 | **3** | **Master plan/strategy** <br> Elaboration of the overall master plan/strategy |
 | **4** | **Demonstration projects** <br> A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy |
-| **5** | **Photo gallery** <br> Photos and/or illustrations to illustrate various aspects of the city, the master plan/strategy and three demonstration projects |
+| **5** | **Photo gallery** <br> Photos to illustrate various aspects of the city, the master plan/strategy and three demonstration projects |
 | **6** | **References** <br> 2-5 reference letters written and signed by independent third parties |
 | **7** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
 
