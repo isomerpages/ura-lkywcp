@@ -8,24 +8,24 @@ description: After completing Stage A, the nominated city will be informed to pr
 
 #### **Instructions**
 
-The nominations for the 2024 Prize will open on 1 Aug 2022. The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
+Please complete [Stage A](/stage-a) before proceeding.
 
 #### **Stage B submission**
 
 The Prize Secretariat will verify the [Stage A](/stage-a) nominations, and inform nominated cities via email to prepare for Stage B submission comprising the following parts: 
 
-| **Part I** <br> Key statistics <br> in 5 areas | **A** – Land area and population <br> **B** – Economy <br> **C** – Quality of Life <br> **D** – Modal split for daily commute <br> **E** – Sustainability  |
-| **Part II** <br> Detailed report <br> in 4 sections | **A** – City portfolio <br> **B** – Master plan or strategy <br> **C** – Three demonstration projects <br> **D** – Key visuals |
-| **Part III** <br> References | 2-5 reference letters written and signed by independent third parties |
-| **Part IV** <br> Optional supporting<br>documents | E.g. city reports, media reports, accolades, etc. |
+| **Part I** <br> ***Key statistics*** <br> ***in 5 areas*** | - Land area and population <br> - Economy <br> - Quality of Life <br> - Modal split for daily commute <br> - Sustainability  |
+| **Part II** <br> ***Detailed report*** <br> ***in 4 sections*** | - City portfolio <br> - Master plan or strategy <br> - Three demonstration projects <br> - Key visuals |
+| **Part III** <br> ***References*** | 2-5 reference letters written and signed by independent third parties |
+| **Part IV** <br> ***Optional supporting***<br>***documents*** | E.g. city reports, media reports, accolades, etc. |
 
 Parts I and II must be completed using the official templates[^1], and submitted in their respective original formats, i.e. Excel and Word documents.
 
-**<mark>Please note that this report may require some time and resources to complete.</mark>** 
+**<mark>Please note that Stage B submission may require some time and resources to complete.</mark>** 
 
 #### **Submission format**
 
-Nominated cities shall submit the complete Stage B documents _digitally_ via a cloud service such as WeTransfer to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). In view of sustainability, the Prize Secretariat will not accept any printed or physical submissions. 
+Nominated cities shall submit the completed Stage B documents _digitally_ via a cloud service such as WeTransfer to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). In view of sustainability, the Prize Secretariat will not accept any printed or physical submissions. 
 
 #### **Please read the following**
 
