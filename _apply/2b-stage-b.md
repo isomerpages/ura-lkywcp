@@ -14,10 +14,10 @@ The nominations for the 2024 Prize will open on 1 Aug 2022. The Prize is **<mark
 
 After completing [Stage A](/stage-a), we will inform the nominated city to prepare for the Stage B submission, comprising the following parts: 
 
-| **Part I** | **Key statistics** comparing the city today and 10-20 years ago in 5 key areas: <br> **A** Land area and population <br> **B** Economy <br> **C** Quality of Life <br> **D** Modal split for daily commute <br> 5. Sustainability  |
-| **Part II** | **Detailed report** in 4 sections: <br> **A** City portfolio with information on the city <br> **B** Master plan or strategy for the city <br> **C** Three demonstration projects to demonstrate the success in implementing the master plan/strategy <br> **D** Photo gallery to illustrate various aspects of the city, the master plan/strategy and three demonstration projects |
-| **Part III** | **References** <br> 2-5 reference letters written and signed by independent third parties |
-| **Part IV** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
+| **Part I** | **Key statistics** | Comparing the city today and 10-20 years ago in 5 key areas: <br> **A** Land area and population <br> **B** Economy <br> **C** Quality of Life <br> **D** Modal split for daily commute <br> 5. Sustainability  |
+| **Part II** | **Detailed report** | In 4 sections: <br> **A** City portfolio with information on the city <br> **B** Master plan or strategy for the city <br> **C** Three demonstration projects to demonstrate the success in implementing the master plan/strategy <br> **D** Photo gallery to illustrate various aspects of the city, the master plan/strategy and three demonstration projects |
+| **Part III** | **References** | 2-5 reference letters written and signed by independent third parties |
+| **Part IV** | ***Optional supporting documents*** | E.g. city reports, media reports, accolades, etc. |
 
 Parts I and II must be completed using the official templates[^1].
 
