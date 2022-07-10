@@ -25,7 +25,7 @@ Parts I and II must be completed using the official templates[^1], and submitted
 
 #### **Submission format**
 
-Nominated cities shall submit the completed Stage B documents _digitally_ via a cloud service such as WeTransfer to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). In view of sustainability, the Prize Secretariat will not accept any printed or physical submissions. 
+Nominated cities shall submit their completed set of documents _digitally_ via a cloud service such as WeTransfer to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). In view of sustainability, the Prize Secretariat will not accept any printed or physical submissions. 
 
 #### **Please read the following**
 
