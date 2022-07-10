@@ -14,7 +14,7 @@ Please complete [Stage A](/stage-a) before proceeding.
 
 The Prize Secretariat will verify the [Stage A](/stage-a) nominations, and inform nominated cities via email to prepare for Stage B submission comprising the following parts: 
 
-| **Part I** <br> Key statistics | - Land area & population <br> - Economy <br> - Quality of Life <br> - Modal split <br> - Sustainability  |
+| **Part I** <br> Key statistics | - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split <br> - Sustainability  |
 | **Part II** <br> Detailed report | - City portfolio <br> - Master plan or strategy <br> - 3 demonstration projects <br> - Key visuals |
 | **Part III** <br> References | 2-5 reference letters written and signed by independent third parties |
 | **Part IV** <br> Optional | Optional supporting documents such as city reports, media reports, accolades, etc. |
