@@ -10,21 +10,41 @@ description: After completing Stage A, the nominated city will be informed to pr
 
 The nominations for the 2024 Prize will open on 1 Aug 2022. The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
 
-#### **Detailed Stage B report**
+#### **Stage B submission**
 
-After completing [Stage A](/stage-a), we will inform the nominated city to prepare and submit a detailed Stage B report using the official report template[^1]. This report comprises the following: 
+After completing [Stage A](/stage-a), we will inform the nominated city to prepare for the Stage B submission, comprising the following components: 
 
 | **1** | **Key statistics** <br> Comparing the city today and 10-20 years ago |
-| **2** | **City portfolio** <br> Background information on the city |
-| **3** | **Master plan/strategy** <br> Elaboration of the overall master plan/strategy |
-| **4** | **Demonstration projects** <br> A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy |
-| **5** | **Photo gallery** <br> Photos to illustrate various aspects of the city, the master plan/strategy and three demonstration projects |
-| **6** | **References** <br> 2-5 reference letters written and signed by independent third parties |
-| **7** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
+| **2** | **Detailed report** <br> See section below |
+| **3** | **References** <br> 2-5 reference letters written and signed by independent third parties |
+| **4** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
+
+#### **Key statistics**
+
+Nominated cities shall provide key statistics of the city using the official template[^1], in five key areas:
+
+1. Land area and population
+2. Economy
+3. Quality of Life
+4. Modal split for daily commute
+5. Sustainability
+
+#### **Detailed report**
+
+Nominated cities shall complete a detailed report using the official report template[^1], in four sections: 
+
+1. **City portfolio** – Background information on the city
+2. **Master plan or strategy** – Elaboration of the overall master plan/strategy
+3. **Three demonstration projects** – A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy
+4. **Photo gallery** – Photos to illustrate various aspects of the city, the master plan/strategy and three demonstration projects
 
 **<mark>Please note that this report may require some time and resources to complete.</mark>** 
 
-#### **Nominated city – please read the following**
+#### **Submission format**
+
+Nominated cities shall submit the complete Stage B documents _digitally_ via a cloud service such as WeTransfer to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). In view of sustainability, the Prize Secretariat will not accept any printed or physical submissions. 
+
+#### **Please read the following**
 
 - A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
 - Please ensure the timely delivery of all submission materials. 
