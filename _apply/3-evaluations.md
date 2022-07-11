@@ -22,6 +22,8 @@ All submissions are evaluated based on the following criteria:
 | **5** | **Sustainability of the Transformation** <br> Institutionalised processes to sustain the city's urban transformation that will be unaffected by changes in the city's leadership; buy-in from local communities to achieve the city's vision. |
 | **6** | **Integration of Plans** <br> Successful integration or relation of plans at the regional/metropolitan level. |
 
+#### **Special focus for 2024 Prize**
+
 The 2024 Prize will also focus on emerging issues such as adapting to climate change, addressing social equity, and building urban resilience to counter shock events, etc. 
 
 Guiding questions:
