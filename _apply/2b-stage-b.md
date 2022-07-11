@@ -36,7 +36,7 @@ Nominated cities shall submit their completed set of documents _digitally_ via a
 - The Prize Secretariat may arrange and pay for in-person travels to the nominated city for further on-site evaluations if required. 
 - The Prize Secretariat may also request for additional information if required. 
 - The Prize Secretariat shall retain all submitted materials. 
-- Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. 
+- Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. In cases where copyright owners were not indicated, the Prize Secretariat shall credit the city. |
 
 #### **Questions?**
 
