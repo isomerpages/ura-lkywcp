@@ -16,14 +16,13 @@ The Stage B submission comprises the following parts:
 
 | Part | Item | Details |
 | ---: | :--- | :--- |
-| 1 | Key statistics report | Key statistics comparing your city today and 10-20 years on 5 areas: land area & population, economy, quality of life, modal split for daily commute, and sustainability. |
-| 2a | City portfolio | Information on the city | 
-| 2b | Master plan or strategy | Information on the overall master plan or strategy for the city |
-
-| **Part I** | **Key statistics report** <br> Please provide key statistics comparing your city today and 10-20 years on 5 areas: land area & population, economy, quality of life, modal split for daily commute, and sustainability |
-| **Part II** | **Detailed report** <br> Please complete a detailed report in 4 sections: city portfolio, master plan or strategy of the city, a selection of 3 demonstration projects to illustrate the success of the master plan or strategy, and photos to show the various aspects of the city and demonstration projects |
-| **Part III** | **References** <br> 2-5 reference letters written and signed by independent third parties |
-| **Part IV** | **Optional supporting documents** <br> You may choose to attach optional supporting documents to support your submission such as city reports, media reports, accolades, etc. |
+| I | **Key statistics** | Key statistics comparing your city today and 10-20 years on 5 areas: <br> - land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| II-a | **City portfolio** | Information on the city | 
+| II-b | **Master plan or strategy** | Information on the overall master plan or strategy for the city |
+| II-c | **Demonstration projects** | A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. |
+| II-d | **Photo gallery** | Photos to show the various aspects of the city, before and after its urban transformation, and the demonstration projects. |
+| III | **References** | At least 2 but not more than 5 reference letters (approx. 600 words each) written and signed by independent third parties, who can provide testimony to the success of the city's urban transformation. | 
+| IV | **Supporting documents** | Optional: Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
 Parts I and II must be completed using the official templates[^1], and submitted in their respective original formats, i.e. Excel and Word documents.
 
