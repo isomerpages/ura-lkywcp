@@ -15,12 +15,13 @@ Please complete [Stage A](/stage-a) before proceeding. The Prize Secretariat wil
 The Stage B submission comprises the following parts: 
 
 | Part | Item | Details |
-| ---: | :--- | :--- |
-| I | **Key statistics** | Key statistics comparing your city today and 10-20 years on 5 areas: <br> - land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
-| II-a | **City portfolio** | Information on the city | 
-| II-b | **Master plan or strategy** | Information on the overall master plan or strategy for the city |
-| II-c | **Demonstration projects** | A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. |
-| II-d | **Photo gallery** | Photos to show the various aspects of the city, before and after its urban transformation, and the demonstration projects. |
+| :--- | :--- | :--- |
+| I | **Key statistics report** | Key statistics comparing your city today and 10-20 years on 5 areas: <br> - land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| II | **Detailed report** | A detailed written report to be completed in 4 sections: <br>
+**City portfolio** <br> Information on the city <br><br> 
+**Master plan or strategy** <br> Information on the overall master plan or strategy for the city <br><br>
+**Demonstration projects** <br> A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. <br><br>
+**Photo gallery** <br> Photos to show the various aspects of the city, before and after its urban transformation, and the demonstration projects. |
 | III | **References** | At least 2 but not more than 5 reference letters (approx. 600 words each) written and signed by independent third parties, who can provide testimony to the success of the city's urban transformation. | 
 | IV | **Supporting documents** | Optional: Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
