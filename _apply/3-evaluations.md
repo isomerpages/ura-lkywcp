@@ -26,7 +26,6 @@ All submissions are evaluated based on the following criteria:
 
 The 2024 Prize will also focus on emerging issues such as adapting to climate change, addressing social equity, and building urban resilience to counter shock events, etc. 
 
-Guiding questions:
 - As cities recover from the COVID-19 pandemic, how can they creatively adapt/transform short-term measures that addressed immediate demands to meet longer-term goals and objectives? 
 - How can cities increase their resiliency to bolster against future shocks? 
 - What can cities do to bridge the gaps of social equity?
