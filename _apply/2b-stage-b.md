@@ -8,16 +8,16 @@ description: After completing Stage A, the nominated city will be informed to pr
 
 #### **Instructions**
 
-Please complete [Stage A](/stage-a) before proceeding. The Prize Secretariat will verify the Stage A nominations, and inform nominated cities via email to prepare for Stage B submission.
+Please complete [Stage A](/stage-a) before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission.
 
 #### **Stage B submission**
 
 The Stage B submission comprises the following parts: 
 
-| **Part I** <br> Key statistics | - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split <br> - Sustainability  |
-| **Part II** <br> Detailed report | - City portfolio <br> - Master plan or strategy <br> - 3 demonstration projects <br> - Key visuals |
-| **Part III** <br> References | 2-5 reference letters written and signed by independent third parties |
-| **Part IV** <br> Optional | Optional supporting documents such as city reports, media reports, accolades, etc. |
+| **Part I** | **Key statistics report** <br> Please provide key statistics comparing your city today and 10-20 years on 5 areas: land area & population, economy, quality of life, modal split for daily commute, and sustainability |
+| **Part II** | **Detailed report** <br> Please complete a detailed report in 4 sections: city portfolio, master plan or strategy of the city, a selection of 3 demonstration projects to illustrate the success of the master plan or strategy, and photos to show the various aspects of the city and demonstration projects |
+| **Part III** | **References** <br> 2-5 reference letters written and signed by independent third parties |
+| **Part IV** | **Optional supporting documents** <br> You may choose to attach optional supporting documents to support your submission such as city reports, media reports, accolades, etc. |
 
 Parts I and II must be completed using the official templates[^1], and submitted in their respective original formats, i.e. Excel and Word documents.
 
