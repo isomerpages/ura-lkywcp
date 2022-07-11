@@ -31,12 +31,12 @@ Nominated cities shall submit their completed set of documents _digitally_ via a
 
 #### **Please read the following**
 
-- A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
-- Please ensure the timely delivery of all submission materials. 
-- An incomplete report or a submission that is not prepared using the official report template may be considered invalid. 
-- The Prize Secretariat shall arrange and pay for in-person jury travels to the city where necessary. 
-- The Prize Secretariat shall also request for additional detailed information where necessary. 
-- The Prize Secretariat shall retain all submitted materials and use them for the Prize publicity and activities, such as exhibitions, lectures, publications, website, etc., at their discretion and with credits to the respective authors. 
+- Materials submitted for previous Prize cycles will not be taken into consideration. 
+- An incomplete report or a submission that is not prepared using the official templates may be disqualified. 
+- The Prize Secretariat may arrange and pay for in-person travels to the nominated city for further on-site evaluations if required. 
+- The Prize Secretariat may also request for additional information if required. 
+- The Prize Secretariat shall retain all submitted materials. 
+- Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. 
 
 #### **Questions?**
 
