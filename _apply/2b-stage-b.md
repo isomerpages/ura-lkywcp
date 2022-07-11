@@ -14,6 +14,12 @@ Please complete [Stage A](/stage-a) before proceeding. The Prize Secretariat wil
 
 The Stage B submission comprises the following parts: 
 
+| Part | Item | Details |
+| ---: | :--- | :--- |
+| 1 | Key statistics report | Key statistics comparing your city today and 10-20 years on 5 areas: land area & population, economy, quality of life, modal split for daily commute, and sustainability. |
+| 2a | City portfolio | Information on the city | 
+| 2b | Master plan or strategy | Information on the overall master plan or strategy for the city |
+
 | **Part I** | **Key statistics report** <br> Please provide key statistics comparing your city today and 10-20 years on 5 areas: land area & population, economy, quality of life, modal split for daily commute, and sustainability |
 | **Part II** | **Detailed report** <br> Please complete a detailed report in 4 sections: city portfolio, master plan or strategy of the city, a selection of 3 demonstration projects to illustrate the success of the master plan or strategy, and photos to show the various aspects of the city and demonstration projects |
 | **Part III** | **References** <br> 2-5 reference letters written and signed by independent third parties |
