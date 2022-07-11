@@ -27,8 +27,7 @@ Parts I and II must be completed using the official templates[^1], and submitted
 
 #### **Digital submissions only**
 
-- Upload completed set of documents to a cloud service, e.g., WeTransfer, Google Drive, Dropbox, etc., and address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). 
-- Please do not send any physical and/or printed materials to the Prize Secretariat. 
+Upload completed set of documents to a cloud service, e.g., WeTransfer, Google Drive, Dropbox, etc., and address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). 
 
 #### **Please read the following**
 
