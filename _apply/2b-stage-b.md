@@ -6,35 +6,38 @@ image: /images/stage-b-report.jpg
 description: After completing Stage A, the nominated city will be informed to prepare and submit a detailed report using the official report template.
 ---
 
-##### The nominations for the 2024 Prize will open on 1 Aug 2022. 
+#### **Instructions**
 
-###### ![Stage B Report](/images/stage-b-report.jpg/)**Illustration** © stories/ freepik.com
+Please complete [Stage A](/stage-a) before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission.
 
-The Prize is **<mark>awarded to cities only</mark>**. Please complete [Stage A](/stage-a) before proceeding.
+#### **Stage B submission**
 
-#### **Detailed written report**
+The Stage B submission comprises the following parts: 
 
-After completing [Stage A](/stage-a), the nominated city will be informed to prepare and submit a detailed report using the official report template[^1]. This report comprises the following: 
+| Part | Details |
+| :--- | :--- |
+| I <br> **Key statistics report** | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| II <br> **Detailed report** | A detailed written report in 4 sections: <br><br> **A. City portfolio** <br> Information on the city. <br><br> **B. Master plan or strategy** <br> Information on the overall master plan or strategy for the city. <br><br> **C. Demonstration projects** <br> A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. <br><br> **D. Photo gallery** <br> Photos to show the various aspects of the city, before and after its urban transformation, and the demonstration projects. |
+| III <br> **References** | At least 2 but not more than 5 reference letters (approx. 600 words each) written and signed by independent third parties who can provide testimony to the success of the city's urban transformation. | 
+| IV <br> **Supporting documents** | _Optional_: Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
-| **1** | **Key statistics** <br> Comparing the city today and 10-20 years ago |
-| **2** | **City portfolio** <br> Background information on the city |
-| **3** | **Master plan/strategy** <br> Elaboration of the overall master plan/strategy |
-| **4** | **Demonstration projects** <br> A selection of three (3) key projects covering various aspects to demonstrate the success in implementing the master plan/strategy |
-| **5** | **Key visuals** <br> Photos, diagrams, charts, etc. |
-| **6** | **References** <br> 2-5 reference letters written and signed by independent third parties |
-| **7** | ***Optional supporting documents*** <br> E.g. city reports, media reports, accolades, etc. |
+Parts I and II must be completed using the official templates[^1], and submitted in their respective original formats, i.e. Excel and Word documents.
 
-**<mark>Please note that this report may require some time and resources to complete.</mark>** 
+**<mark>Please note that Stage B submission may require some time and resources to complete.</mark>** 
 
-#### **Information for the nominated city**
+#### **Digital submissions only**
 
-- A fresh and complete set of report is required for each cycle as previously submitted materials will not be taken into consideration. 
-- Please ensure the timely delivery of all submission materials. 
-- An incomplete report or a submission that is not prepared using the official report template may be considered invalid. 
-- The Prize Secretariat shall arrange and pay for in-person jury travels to the city where necessary. 
-- The Prize Secretariat shall also request for additional detailed information where necessary. 
-- The Prize Secretariat shall retain all submitted materials and use them for the Prize publicity and activities, such as exhibitions, lectures, publications, website, etc., at their discretion and with credits to the respective authors. 
+Upload completed set of documents to a cloud service, e.g., WeTransfer, Google Drive, Dropbox, etc., and address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). 
 
+#### **Please read the following**
+
+- Materials submitted for previous Prize cycles will not be taken into consideration. 
+- An incomplete report or a submission that is not prepared using the official templates may be disqualified. 
+- The Prize Secretariat may arrange and pay for in-person travels to the nominated city for further on-site evaluations if required. 
+- The Prize Secretariat may also request for additional information if required. 
+- The Prize Secretariat shall retain all submitted materials. 
+- Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. In cases where copyright owners were not indicated, the Prize Secretariat shall credit the city. 
+  
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
