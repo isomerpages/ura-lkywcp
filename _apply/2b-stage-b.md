@@ -21,9 +21,15 @@ The Stage B submission comprises the following parts:
 | III <br> **References** | At least 2 but not more than 5 reference letters (approx. 600 words each) written and signed by independent third parties who can provide testimony to the success of the city's urban transformation. | 
 | IV <br> **Supporting documents** | _Optional_: Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
-Parts I and II must be completed using the official templates[^1], and submitted in their respective original formats, i.e. Excel and Word documents.
+Parts I and II must be completed using the [official templates](#stage-b-templates), and submitted in their respective original formats, i.e. Excel and Word documents.
 
 **<mark>Please note that Stage B submission may require some time and resources to complete.</mark>** 
+
+#### **Stage B templates**
+
+Please download the Stage B templates by clicking on the icons below: 
+
+
 
 #### **Digital submissions only**
 
