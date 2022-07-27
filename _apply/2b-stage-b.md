@@ -29,7 +29,7 @@ Parts I and II must be completed using the [official templates](#stage-b-templat
 
 Please download the Stage B templates by clicking on the icons below: 
 
-
+![Key statistics template](/images/nominations/key-statistics.png)
 
 #### **Digital submissions only**
 
