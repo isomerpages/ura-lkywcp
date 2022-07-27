@@ -36,12 +36,12 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 #### **Nomination form**
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5f376d3b8fd842001160fc4a">here</a>.</div>
 
-<!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/5f376d3b8fd842001160fc4a" style="width:100%;height:2000px"></iframe>
+<div style="font-family:'Open Sans', Sans-Serif;font-size:18px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5f376d3b8fd842001160fc4a">here</a>.</div>
 
-<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
+<iframe id="iframe" scrolling="no" src="https://form.gov.sg/5f376d3b8fd842001160fc4a" style="width:100%;height:2500px"></iframe>
+
+<div style="font-family:'Open Sans', Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
 #### **Next step**
 
