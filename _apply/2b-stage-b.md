@@ -32,8 +32,8 @@ Please download the Stage B templates by clicking on the icons below:
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="text-align: center"><a href="https://www.google.com/"><img style="width: 140px;" src="/images/nominations/key-statistics.png" alt="Key statistics template" /></a><br><strong>Part I</strong><br>Key statistics template</td>
-<td style="text-align: center"><a href="https://www.google.com/"><img style="width: 140px;" src="/images/nominations/detailed-report.png" alt="Detailed report" /></a><br><strong>Part II</strong><br>Detailed report template</td>
+<td style="text-align: center"><a href="https://www.google.com/"><img style="width: 120px;" src="/images/nominations/key-statistics.png" alt="Key statistics template" /></a><br><strong>Part I</strong><br>Key statistics template</td>
+<td style="text-align: center"><a href="https://www.google.com/"><img style="width: 120px;" src="/images/nominations/detailed-report.png" alt="Detailed report" /></a><br><strong>Part II</strong><br>Detailed report template</td>
 </tr>
 </tbody>
 </table>
