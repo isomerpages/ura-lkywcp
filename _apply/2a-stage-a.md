@@ -41,8 +41,6 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 <iframe id="iframe" scrolling="no" src="https://form.gov.sg/5f376d3b8fd842001160fc4a" style="width:100%;height:2500px"></iframe>
 
-<div style="font-family:'Open Sans', Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
-
 #### **Next step**
 
 - [Stage B](/stage-b/)
