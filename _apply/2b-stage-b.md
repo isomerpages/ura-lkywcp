@@ -31,6 +31,19 @@ Please download the Stage B templates by clicking on the icons below:
 
 ![Key statistics template](/images/nominations/key-statistics.png)
 
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="/images/nominations/key-statistics.png" alt="Key statistics template" /></td>
+<td><strong>Part I</strong><br /><a href="/peter-ho/">Key statistics template</a></td>
+</tr>
+<tr>
+<td style="width: 150px;"><img src="/images/nominations/detailed-report.png" alt="Detailed report" /></td>
+<td><strong>Part II</strong><br /><a href="/peter-ho/">Detailed report template</a></td>
+</tr>
+</tbody>
+</table>
+
 #### **Digital submissions only**
 
 Upload completed set of documents to a cloud service, e.g., WeTransfer, Google Drive, Dropbox, etc., and address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). 
