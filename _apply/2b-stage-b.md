@@ -40,7 +40,9 @@ Please download the Stage B templates by clicking on the icons below:
 
 #### **Digital submissions only**
 
-Please upload the complete set of documents ([Parts I to IV](#stage-b-submission)) to a cloud service, e.g., WeTransfer, Google Drive, Dropbox, etc., and address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). All submissions must be sent by **31 May 2023, 6pm (+8 GMT Singapore Time)**. 
+Please upload the complete set of documents ([Parts I to IV](#stage-b-submission)) to a cloud service, e.g., WeTransfer, Google Drive, Dropbox, etc., and address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). 
+
+All submissions must be sent by **31 May 2023, 6pm (+8 GMT Singapore Time)**. 
 
 #### **Please read the following**
 
