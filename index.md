@@ -4,7 +4,7 @@ title: Lee Kuan Yew World City Prize
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
 image: /images/shareicon.png/
 permalink: /
-notification: Nominations for 2024 Prize <a href="/stage-a/">now open</a>!
+notification: 
 sections:
     - hero:
         title: ·
@@ -13,9 +13,9 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Prize Laureates
+            - title: Nominations now open!
               description: 
-              url: /laureates/
+              url: /stage-a/
     - infobar:    
         title: 
         subtitle: About the Prize
