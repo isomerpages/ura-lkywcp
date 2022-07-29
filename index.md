@@ -23,6 +23,14 @@ sections:
         button: More
         url: /about-the-prize/
     - infopic:    
+        title: Celebrating Ten Years of the Prize
+        subtitle: New eBook launch!
+        description: We are happy to announce the launch of our new eBook. Download your copy now! 
+        button: More 
+        url: /resources/news/new-ebook/
+        image: /images/features/2022/lky-book.jpg
+        alt: New eBook launch
+    - infopic:    
         title: Shaping Vienna from the ground up
         subtitle: Featured article
         description: How can cities build a stronger and more sustainable society for the future? 2020 Prize Laureate Vienna shows us how. 
