@@ -8,7 +8,7 @@ collections:
     output: true
   apply:
     output: true
-  cities:
+  laureates:
     output: true
 google_analytics: UA-48396056-10
 resources_name: resources
