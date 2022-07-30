@@ -13,15 +13,23 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Prize Laureates
+            - title: Nominations now open!
               description: 
-              url: /laureates/
+              url: /stage-a/
     - infobar:    
         title: 
         subtitle: About the Prize
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
         button: More
         url: /about-the-prize/
+    - infopic:    
+        title: Celebrating Ten Years of the Prize
+        subtitle: New eBook launch
+        description: We are happy to announce the launch of our new eBook. Download your copy now! 
+        button: Download 
+        url: /resources/news/new-ebook/
+        image: /images/features/2022/lky-book.jpg
+        alt: New eBook launch
     - infopic:    
         title: Shaping Vienna from the ground up
         subtitle: Featured article

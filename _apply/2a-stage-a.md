@@ -8,7 +8,7 @@ description: Cities interested to apply for the Prize shall approach an independ
 
 #### **Instructions**
 
-The nominations for the 2024 Prize will open on 1 Aug 2022. The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
+The nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
 
 #### **Interested cities – please read the following**
 
@@ -25,7 +25,7 @@ Cities interested to participate shall approach an independent third party (nomi
 
 #### **Nominators – please read the following**
 
-Please ensure that the city or cities that you are intending to nominate agree(s) to participate in the Prize. Please write and attach a short recommendation letter (*around 600 words*) together with the nomination form[^2] to support why the city that you are nominating should win the Prize, covering aspects such as: 
+Please ensure that the city or cities that you are intending to nominate agree(s) to participate in the Prize. Please write and attach a short recommendation letter (*around 600 words*) together with the [nomination form](#nomination-form) to support why the city that you are nominating should win the Prize, covering aspects such as: 
 
 - Outstanding leadership and governance
 - Successful urban transformation
@@ -33,6 +33,12 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 - Lessons for other cities
 
 **<mark>There is no entry fee required.</mark>**
+
+#### **Nomination form**
+
+If the form below is not loaded, you can also fill it in [here](https://form.gov.sg/62e4f365140cd3001168b367).
+
+<iframe id="iframe" scrolling="no" src="https://form.gov.sg/62e4f365140cd3001168b367" style="width:100%;height:3200px"></iframe>
 
 #### **Next step**
 
@@ -45,5 +51,4 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 ---
 
-[^1]: Self-nominations refer to nominations that are made by the city administration/officials for their own city. 
-[^2]: The link to the online nomination form will be made available when nominations are open.
+[^1]: Self-nominations refer to nominations that are made by the city administration/officials for their own city.
