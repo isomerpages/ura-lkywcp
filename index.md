@@ -24,7 +24,7 @@ sections:
         url: /about-the-prize/
     - infopic:    
         title: Celebrating Ten Years of the Prize
-        subtitle: New eBook launch!
+        subtitle: New eBook launch
         description: We are happy to announce the launch of our new eBook. Download your copy now! 
         button: Download 
         url: /resources/news/new-ebook/
