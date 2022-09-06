@@ -1,7 +1,7 @@
 ---
 title: Cities on the rebound
 permalink: /resources/features/cities-on-the-rebound/
-image: /images/features/2022/shaping-vienna-together.jpg
+image: /images/features/2022/lisbon-riverfront.jpg
 description: Antwerp, Boston and Lisbon, the 2020 Lee Kuan Yew World City Prize Special Mentions, created innovative strategies to overcome difficult pasts and become successful, forward-looking cities. We look at how their ideas help improve housing, citizen participation and climate change mitigation and adaptation efforts. 
 
 ---
@@ -22,7 +22,7 @@ As urban areas face increasingly complex and diverse challenges, including the n
 
 #### **Antwerp – Harnessing urban renewal**
 
-###### ![The Grätzloase programme invites citizens to revitalise public spaces](/images/features/2022/street-festival.jpg/)**The Grätzloase programme invites citizens to revitalise public spaces** © Stadt Wien
+###### ![The Grätzloase programme invites citizens to revitalise public spaces](/images/features/2022/lisbon-riverfront.jpg/)**The Grätzloase programme invites citizens to revitalise public spaces** © Stadt Wien
 
 While Antwerp’s lack of coordination in its post-war development and the relocation of its port led to many disused and dilapidated areas, especially along its Scheldt River, it created innovative plans and programmes to reverse the decline.  
 
