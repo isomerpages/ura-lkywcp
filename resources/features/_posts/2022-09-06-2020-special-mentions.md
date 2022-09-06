@@ -14,7 +14,7 @@ description: Antwerp, Boston and Lisbon, the 2020 Lee Kuan Yew World City Prize 
 
 > ###### **Cities mentioned in this article:** <br> Antwerp, Boston, Lisbon
 
-###### ![Vienna actively engages its citizens for their collective future](/images/features/2022/shaping-vienna-together.jpg)**Vienna actively engages its citizens for their collective future** © Christian Fürthner
+###### ![Vienna actively engages its citizens for their collective future](/images/features/2022/lisbon-riverfront.jpg)**Vienna actively engages its citizens for their collective future** © Christian Fürthner
 
 Over the past few decades, [Antwerp](/antwerp), [Boston](/boston) and [Lisbon](/lisbon) have engineered remarkable transformations, overcoming issues such as out-migration, poor urban planning in the past and economic crises to become thriving cities that are prepared for the future.
 
