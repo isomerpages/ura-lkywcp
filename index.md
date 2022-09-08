@@ -41,7 +41,7 @@ sections:
     - infopic:    
         title: Nominations now open!
         subtitle: 2024 Prize
-        description: Cities who are interested to participate should approach an independent third party to nominate them.
+        description: Cities interested to participate should approach an independent third party to nominate them.
         button: More info
         url: /stage-a/
         image: /images/features/2022/call-for-nominations.gif/
