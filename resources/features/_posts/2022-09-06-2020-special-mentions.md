@@ -22,7 +22,7 @@ As urban areas face increasingly complex and diverse challenges, including the n
 
 #### **Antwerp – Harnessing urban renewal**
 
-###### ![The Grätzloase programme invites citizens to revitalise public spaces](/images/features/2022/lisbon-riverfront.jpg/)**The Grätzloase programme invites citizens to revitalise public spaces** © Stadt Wien
+###### ![The Museum aan de Stroom at Antwerp's River Scheldt](/images/features/2022/antwerp-mas.jpg/)**The Museum aan de Stroom (MAS) at Antwerp's River Scheldt** © siraanamwong/Shutterstock
 
 While Antwerp’s lack of coordination in its post-war development and the relocation of its port led to many disused and dilapidated areas, especially along its Scheldt River, it created innovative plans and programmes to reverse the decline.  
 
