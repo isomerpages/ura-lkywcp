@@ -31,21 +31,21 @@ sections:
         image: /images/features/2022/lky-book.jpg
         alt: New eBook launch
     - infopic:    
-        title: Shaping Vienna from the ground up
+        title: Cities on the rebound
         subtitle: Featured article
-        description: How can cities build a stronger and more sustainable society for the future? 2020 Prize Laureate Vienna shows us how. 
-        button: More 
-        url: /resources/features/shaping-vienna-ground-up/
-        image: /images/features/2022/vienna-ground-up.jpg
-        alt: Vienna ground up
+        description: How did Antwerp, Boston and Lisbon overcome planning challenges to forge ahead to the future?  
+        button: Find out here 
+        url: /resources/features/cities-on-the-rebound/
+        image: /images/features/2022/antwerp-mas.jpg
+        alt: Antwerp
     - infopic:    
-        title: Small initiatives, big impacts
+        title: Honouring the best at WCS 2022
         subtitle: Photo essay
-        description: Vienna focuses on small initiatives to achieve big impacts. Find out how in this photo essay.
+        description: Missed World Cities Summit in person? Relive the Prize events on 1 August 2022.
         button: More 
-        url: /resources/in-pictures/vienna2/
-        image: /images/features/2022/gratzloase3.jpg/
-        alt: Parklet
+        url: /resources/in-pictures/wcs2022/
+        image: /images/features/2022/award-ceremony-2022.jpg/
+        alt: Prize Award Ceremony & Banquet
     - infobar:    
         title: 📩
         subtitle: 
