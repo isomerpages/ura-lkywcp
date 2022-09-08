@@ -23,14 +23,6 @@ sections:
         button: More
         url: /about-the-prize/
     - infopic:    
-        title: Celebrating Ten Years of the Prize
-        subtitle: New eBook launch
-        description: We are happy to announce the launch of our new eBook. Download your copy now! 
-        button: Download 
-        url: /resources/news/new-ebook/
-        image: /images/features/2022/lky-book.jpg
-        alt: New eBook launch
-    - infopic:    
         title: Cities on the rebound
         subtitle: Featured article
         description: How did Antwerp, Boston and Lisbon overcome planning challenges to forge ahead to the future?  
@@ -51,9 +43,9 @@ sections:
         subtitle: 2024 Prize
         description: Cities who are interested to participate should approach an independent third party to nominate them.
         button: More info
-        url: /resources/in-pictures/wcs2022/
+        url: /stage-a/
         image: /images/features/2022/call-for-nominations.gif/
-        alt: Prize Award Ceremony & Banquet
+        alt: Call for nominations
     - infobar:    
         title: 📩
         subtitle: 
