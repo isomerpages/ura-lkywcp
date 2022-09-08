@@ -1,7 +1,7 @@
 ---
 title: Cities on the rebound
 permalink: /resources/features/cities-on-the-rebound/
-image: /images/features/2022/lisbon-riverfront.jpg
+image: /images/features/2022/antwerp-mas.jpg
 description: Antwerp, Boston and Lisbon, the 2020 Lee Kuan Yew World City Prize Special Mentions, created innovative strategies to overcome difficult pasts and become successful, forward-looking cities. We look at how their ideas help improve housing, citizen participation and climate change mitigation and adaptation efforts. 
 
 ---
@@ -14,15 +14,13 @@ description: Antwerp, Boston and Lisbon, the 2020 Lee Kuan Yew World City Prize 
 
 > ###### **Cities mentioned in this article:** <br> Antwerp, Boston, Lisbon
 
-###### ![Vienna actively engages its citizens for their collective future](/images/features/2022/lisbon-riverfront.jpg)**Vienna actively engages its citizens for their collective future** © Christian Fürthner
+###### ![The Museum aan de Stroom at Antwerp's River Scheldt](/images/features/2022/antwerp-mas.jpg/)**The Museum aan de Stroom (MAS) at Antwerp's River Scheldt** © siraanamwong/Shutterstock
 
 Over the past few decades, [Antwerp](/antwerp), [Boston](/boston) and [Lisbon](/lisbon) have engineered remarkable transformations, overcoming issues such as out-migration, poor urban planning in the past and economic crises to become thriving cities that are prepared for the future.
 
 As urban areas face increasingly complex and diverse challenges, including the need to provide affordable housing for growing populations, encourage civic participation and limit climate change and cope with its effects, the three cities’ experiences offer useful lessons. 
 
 #### **Antwerp – Harnessing urban renewal**
-
-###### ![The Museum aan de Stroom at Antwerp's River Scheldt](/images/features/2022/antwerp-mas.jpg/)**The Museum aan de Stroom (MAS) at Antwerp's River Scheldt** © siraanamwong/Shutterstock
 
 While Antwerp’s lack of coordination in its post-war development and the relocation of its port led to many disused and dilapidated areas, especially along its Scheldt River, it created innovative plans and programmes to reverse the decline.  
 
@@ -38,10 +36,7 @@ The [Blue Gate zone](https://www.bluegateantwerp.eu/hp-rewrite/494344643a9b1d855
 
 #### **Boston – Ramping up climate resilience**
 
-<br>
-> ##### "By making the steps to use public space as easy as possible, we can build a more liveable and inclusive city with engaged citizens."
 
-<div align="right"><b>— Dr Michael Ludwig</b> <br> Mayor, City of Vienna</div>
 
 Looking ahead, Boston has created city-wide, localised and sector-specific initiatives to curb its greenhouse gas emissions and cope with climate change’s effects. In 2017, it launched [Imagine Boston 2030](https://www.boston.gov/civic-engagement/imagine-boston-2030), its first master plan in over 50 years, which included over 15,000 residents’ input. The plan sets out strategies to address key challenges, including sustainability-related ones. These include reallocating road space to merge medians and sidewalks into wider green corridors to promote walking and cycling. 
 
@@ -68,6 +63,11 @@ To make the participatory budgeting process more inclusive, the city hosts works
 Lisbon has also partnered with private developers on an [Affordable Rent Programme](http://www.lisboarendaacessivel.pt/en/business-model.html) that aims to build 6,000 high quality homes for middle-income households. These will have rents not exceeding one-third of the households’ income. Under the programme, the city provides prime land for developers to design, build and rent homes, of which at least 65 per cent must be affordable housing. The partnerships typically last 30 years, after which the city recovers the land and takes over the buildings.
 
 With this arrangement, the city can tap on the private sector’s resources to build more affordable homes. The developers get to use prime land for free, and do not have to apply for construction permits, among other benefits. In July 2022, the city gave the keys to the first 128 homes to families who are paying, on average, [70 per cent less in rent than they would pay in the open market](https://www.idealista.pt/news/imobiliario/habitacao/2022/07/26/53302-arrendamento-acessivel-foram-entregues-128-casas-em-lisboa). 
+
+<br>
+> ##### "With the Citizens’ Council, we will have more participatory decisions, and therefore better decisions, more adapted to people’s needs."
+
+<div align="right"><b>— Carlos Moedas</b> <br> Mayor, City of Lisbon</div>
 
 In May 2022, the government held its first [Citizens’ Council](https://cidadania.lisboa.pt/participacao/conselho-de-cidadaos) event to further boost civic participation. Under the new initiative, it hosts conferences on various themes and selects 50 volunteers, who represent the city’s population in terms of age, gender, educational level, professional status and home district, to attend each one. The participants discuss ideas and develop proposals. The [inaugural event](https://www.publico.pt/2022/05/16/local/noticia/conselho-cidadaos-lisboa-quer-reduzir-80-entrada-carros-ate-2048-fim-casas-devolutas-2006331) was on combating climate change, and the attendees came up with 35 suggestions, including introducing sustainability competitions in schools. 
 
