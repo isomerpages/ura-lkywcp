@@ -46,6 +46,14 @@ sections:
         url: /resources/in-pictures/wcs2022/
         image: /images/features/2022/award-ceremony-2022.jpg/
         alt: Prize Award Ceremony & Banquet
+    - infopic:    
+        title: Nominations now open!
+        subtitle: 2024 Prize
+        description: Cities who are interested to participate should approach an independent third party to nominate them.
+        button: More info
+        url: /resources/in-pictures/wcs2022/
+        image: /images/features/2022/call-for-nominations.gif/
+        alt: Prize Award Ceremony & Banquet
     - infobar:    
         title: 📩
         subtitle: 
