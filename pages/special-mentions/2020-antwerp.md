@@ -41,6 +41,9 @@ The sense of cooperation that transcends all levels from citizens to city admini
 | **Density** | 2,567 per km<sup>2</sup> |
 | **Master plan** | [Strategic Spatial Plan Antwerp](https://www.antwerpen.be/docs/Stad/Stadsvernieuwing/9746949_urbandevelopment_English.pdf) |
 
+##### **Features** 
+
+
 ---
 
 [^1]: All information correct as of 2019.
