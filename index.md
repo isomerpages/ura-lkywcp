@@ -40,7 +40,7 @@ sections:
         alt: Prize Award Ceremony & Banquet
     - infopic:    
         title: Nominations now open!
-        subtitle: 2024 Prize
+        subtitle: Be the next Laureate
         description: Cities interested to participate should approach an independent third party to nominate them.
         button: More info
         url: /stage-a/
