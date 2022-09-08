@@ -43,6 +43,7 @@ The sense of cooperation that transcends all levels from citizens to city admini
 
 ##### **Features** 
 
+| [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
 
 ---
 
