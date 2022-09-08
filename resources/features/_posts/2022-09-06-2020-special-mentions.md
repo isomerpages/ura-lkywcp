@@ -36,7 +36,7 @@ The [Blue Gate zone](https://www.bluegateantwerp.eu/hp-rewrite/494344643a9b1d855
 
 #### **Boston – Ramping up climate resilience**
 
-###### ![The North End Parks on the Rose Kennedy Greenway have reconnected Boston](/images/features/2022/boston-park.jpg/)**The North End Parks on the Rose Kennedy Greenway have reconnected Boston** © Radomir Rezny/Shutterstock
+###### ![The North End Parks on the Rose Kennedy Greenway](/images/features/2022/boston-park.jpg/)**The North End Parks on the Rose Kennedy Greenway** © Radomir Rezny/Shutterstock
 
 Looking ahead, Boston has created city-wide, localised and sector-specific initiatives to curb its greenhouse gas emissions and cope with climate change’s effects. In 2017, it launched [Imagine Boston 2030](https://www.boston.gov/civic-engagement/imagine-boston-2030), its first master plan in over 50 years, which included over 15,000 residents’ input. The plan sets out strategies to address key challenges, including sustainability-related ones. These include reallocating road space to merge medians and sidewalks into wider green corridors to promote walking and cycling. 
 
