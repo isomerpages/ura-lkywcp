@@ -39,6 +39,10 @@ Lisbon demonstrates resilience in the face of adversity to overcome limitations 
 | **Density** | 5,4725,623 per km<sup>2</sup> |
 | **Master plan** | Lisbon Master Plan |
 
+##### **Features** 
+
+| [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
+
 ---
 
 [^1]: All information correct as of 2019.
