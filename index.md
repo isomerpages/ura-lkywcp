@@ -32,7 +32,7 @@ sections:
         alt: Antwerp
     - infopic:    
         title: A day to honour the best
-        subtitle: Photo essay
+        subtitle: Photo report
         description: Missed World Cities Summit in person? Relive the Prize events on 1 August 2022.
         button: More 
         url: /resources/in-pictures/wcs2022/
