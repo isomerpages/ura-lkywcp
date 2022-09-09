@@ -25,13 +25,13 @@ sections:
     - infopic:    
         title: Cities on the rebound
         subtitle: Featured article
-        description: How did Antwerp, Boston and Lisbon overcome planning challenges to forge ahead to the future?  
+        description: How did Antwerp, Boston and Lisbon overcome planning challenges to forge ahead into the future?  
         button: Find out here 
         url: /resources/features/cities-on-the-rebound/
         image: /images/features/2022/antwerp-mas.jpg
         alt: Antwerp
     - infopic:    
-        title: Honouring the best at WCS 2022
+        title: A day to honour the best
         subtitle: Photo essay
         description: Missed World Cities Summit in person? Relive the Prize events on 1 August 2022.
         button: More 
@@ -40,7 +40,7 @@ sections:
         alt: Prize Award Ceremony & Banquet
     - infopic:    
         title: Nominations now open!
-        subtitle: Be the next Laureate
+        subtitle: Be the next Prize Laureate
         description: Cities interested to participate should approach an independent third party to nominate them.
         button: More info
         url: /stage-a/
