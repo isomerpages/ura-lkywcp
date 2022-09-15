@@ -38,7 +38,7 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 If the form below is not loaded, you can also fill it in [here](https://form.gov.sg/62e4f365140cd3001168b367).
 
-<iframe id="iframe" scrolling="no" src="https://form.gov.sg/62e4f365140cd3001168b367" style="width:100%;height:3200px"></iframe>
+<iframe id="iframe" scrolling="no" src="https://form.gov.sg/62e4f365140cd3001168b367" style="width:100%;height:3000px"></iframe>
 
 #### **Next step**
 

@@ -41,6 +41,10 @@ Overall, Boston’s foresight in resilience leads the way, and urges other water
 | **Density** | 5,623 per km<sup>2</sup> |
 | **Master plan** | [Imagine Boston 2030](https://www.boston.gov/civic-engagement/imagine-boston-2030) |
 
+##### **Features** 
+
+| [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
+
 ---
 
 [^1]: All information correct as of 2019.
