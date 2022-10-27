@@ -26,7 +26,7 @@ sections:
         title: A strategy of slow urbanism
         subtitle: Featured article
         description: While other cities do it fast, Antwerp deliberately takes things slow.  
-        button: Find out here 
+        button: Find out how 
         url: /resources/features/antwerp-slow-urbanism/
         image: /images/features/2022/antwerp-scheldt.jpg
         alt: Antwerp
