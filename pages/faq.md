@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 14 March 2022 |
+| 28 October 2022 |
 
 ###### ![FAQ](/images/FAQ.jpg/)**Illustration** © stories/ freepik.com
 
@@ -36,7 +36,7 @@ Self-nominations (i.e. nominations made by the city administration for their own
 
 #### **How many nominations can a nominator make?**
 
-There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form[^1] and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
+There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an [official nomination form](https://form.gov.sg/#!/62e4f365140cd3001168b367) and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
 
 #### **Who can be nominated for the Prize?**
 
@@ -44,7 +44,7 @@ The Prize is **<mark>awarded to cities only</mark>**. As such, a city may be nom
 
 #### **How do I make the nomination?**
 
-The nominator shall make the nominations using the official nomination form[^1], accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
+The nominator shall make the nominations using the [official nomination form](https://form.gov.sg/#!/62e4f365140cd3001168b367), accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
 
 #### **How will I know if my nomination is received?**
 
@@ -82,7 +82,7 @@ The nominated city (i.e. city government and/or key partner organisation appoint
 
 #### **What do I need to submit for Stage B?**
 
-The nominated city will be informed via email to prepare and submit a detailed report using the official report template[^2]. This report comprises the following:
+The nominated city will be informed via email to prepare and submit a detailed report using the [official report template](/stage-b/#stage-b-templates). This report comprises the following:
 
 - Key statistics comparing the city today and 10-20 years ago
 - Background of the city
@@ -125,7 +125,7 @@ Demonstration projects can either be fully or partially completed. The completed
 
 #### **When will the results be announced?**
 
-The results of the 2020 Prize have been announced on 14 March 2022. Click [here](/resources/news/2022-press-release/) for more info. Please [subscribe to our newsletter](/subscribe/) to get our latest news in your inbox.
+The results of the 2024 Prize will be announced in March 2024.
 
 #### **Who will be invited to receive the award?**
 
@@ -137,22 +137,10 @@ The Prize Laureate and Special Mentions(s) will be invited to share their achiev
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-World Cities Summit (WCS) will return to the in-person format from 31 July to 3 August 2022, at the Sands Expo & Convention Centre in Singapore. The Prize events will be held in conjunction with WCS 2022. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
-
-#### **How is the COVID-19 situation in Singapore? Can I travel to Singapore to attend the World Cities Summit?**
-
-For the latest COVID-19-related updates and travel information to Singapore, please visit the following resources: 
-
-- [Updates on Singapore's COVID-19 situation](https://www.moh.gov.sg/covid-19) 
-- [Travelling to Singapore](https://safetravel.ica.gov.sg)
+World Cities Summit (WCS) will be held in July/August 2024 in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 [Back to top](#sections)
 
 ---
 
 For other enquiries, please [contact us](/feedback/). 
-
----
-
-[^1]: The link to the online nomination form will be made available when nominations are open.
-[^2]: The link to download the official report template will be made available when nominations are open.
