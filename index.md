@@ -20,7 +20,7 @@ sections:
         title: 
         subtitle: About the Prize
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
-        button: More
+        button: About the Prize
         url: /about-the-prize/
     - infopic:    
         title: A strategy of slow urbanism
@@ -34,7 +34,7 @@ sections:
         title: A city taking things slow
         subtitle: Photo essay
         description: Take a look at Antwerp's 'slow' approach in this photo essay.
-        button: More 
+        button: Photo essay 
         url: /resources/in-pictures/antwerp/
         image: /images/features/2022/park-spoor-noord.jpg/
         alt: Park Spoor Noord in Antwerp
@@ -42,7 +42,7 @@ sections:
         title: Nominations now open!
         subtitle: Be the next Prize Laureate
         description: Cities interested to participate should approach an independent third party to nominate them.
-        button: More info
+        button: Nominate today
         url: /stage-a/
         image: /images/features/2022/call-for-nominations.gif/
         alt: Call for nominations
