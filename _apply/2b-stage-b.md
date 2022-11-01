@@ -44,14 +44,14 @@ Please upload the complete set of documents ([Parts I to IV](#stage-b-submission
 
 All submissions must be sent by **31 May 2023, 6pm (+8 GMT Singapore Time)**. 
 
-#### **Please read the following**
+#### **The fine print**
 
-- Materials submitted for previous Prize cycles will not be taken into consideration. 
-- An incomplete report or a submission that is not prepared using the official templates may be disqualified. 
-- The Prize Secretariat may arrange and pay for in-person travels to the nominated city for further on-site evaluations if required. 
-- The Prize Secretariat may also request for additional information if required. 
-- The Prize Secretariat shall retain all submitted materials. 
-- Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. In cases where copyright owners were not indicated, the Prize Secretariat shall credit the city. 
+| **1** | Materials submitted for previous Prize cycles will not be taken into consideration. |
+| **2** | An incomplete report or a submission that is not prepared using the official templates may be disqualified. | 
+| **3** | The Prize Secretariat may arrange and pay for in-person travels to the nominated city for further on-site evaluations if required. | 
+| **4** | The Prize Secretariat may also request for additional information if required. | 
+| **5** | The Prize Secretariat shall retain all submitted materials. | 
+| **6** | Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. In cases where copyright owners were not indicated, the Prize Secretariat shall credit the city. |
   
 #### **Questions?**
 

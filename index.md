@@ -20,29 +20,29 @@ sections:
         title: 
         subtitle: About the Prize
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
-        button: More
+        button: About the Prize
         url: /about-the-prize/
     - infopic:    
-        title: Cities on the rebound
+        title: A strategy of slow urbanism
         subtitle: Featured article
-        description: How did Antwerp, Boston and Lisbon overcome planning challenges to forge ahead into the future?  
-        button: Find out here 
-        url: /resources/features/cities-on-the-rebound/
-        image: /images/features/2022/antwerp-mas.jpg
+        description: While other cities do it fast, Antwerp deliberately takes things slow.  
+        button: Find out how 
+        url: /resources/features/antwerp-slow-urbanism/
+        image: /images/features/2022/antwerp-scheldt.jpg
         alt: Antwerp
     - infopic:    
-        title: A day to honour the best
-        subtitle: Photo report
-        description: Missed World Cities Summit in person? Relive the Prize events on 1 August 2022.
-        button: More 
-        url: /resources/in-pictures/wcs2022/
-        image: /images/features/2022/award-ceremony-2022.jpg/
-        alt: Prize Award Ceremony & Banquet
+        title: A city taking things slow
+        subtitle: Photo essay
+        description: Take a look at Antwerp's 'slow' approach in this photo essay.
+        button: Photo essay 
+        url: /resources/in-pictures/antwerp/
+        image: /images/features/2022/park-spoor-noord.jpg/
+        alt: Park Spoor Noord in Antwerp
     - infopic:    
         title: Nominations now open!
         subtitle: Be the next Prize Laureate
         description: Cities interested to participate should approach an independent third party to nominate them.
-        button: More info
+        button: Nominate today
         url: /stage-a/
         image: /images/features/2022/call-for-nominations.gif/
         alt: Call for nominations

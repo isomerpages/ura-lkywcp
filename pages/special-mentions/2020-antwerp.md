@@ -44,6 +44,11 @@ The sense of cooperation that transcends all levels from citizens to city admini
 ##### **Features** 
 
 | [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
+| [A strategy of slow urbanism](/resources/features/antwerp-slow-urbanism/)|
+
+##### **In pictures** 
+
+| [A city taking things slow](/resources/in-pictures/antwerp/) |
 
 ---
 
