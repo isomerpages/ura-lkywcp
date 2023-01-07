@@ -28,7 +28,7 @@ sections:
         description: Learn how Boston transformed itself with its people & partners 
         button: Feature story
         url: /resources/features/reimagining-boston/
-        image: /images/features/2023/boston-city2.jpg
+        image: /images/features/2023/boston-city3.jpg
         alt: Boston
     - infopic:    
         title: Stimulating changes big & small
