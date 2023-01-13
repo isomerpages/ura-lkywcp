@@ -33,7 +33,7 @@ sections:
     - infopic:    
         title: Larry Ng steps down as Prize Secretary
         subtitle: Latest news
-        description: We thank Larry for his service & passion for cities.
+        description: We thank Larry for his service to the Prize & strong passion for cities.
         button: Read the tribute
         url: /resources/news/larry-ng/
         image: /images/features/2023/larry-ng.jpg/
