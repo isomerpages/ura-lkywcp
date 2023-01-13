@@ -31,13 +31,13 @@ sections:
         image: /images/features/2023/boston-city1.jpg
         alt: Boston
     - infopic:    
-        title: Stimulating changes big & small
-        subtitle: Photo essay
-        description: This photo essay looks at Boston's urban transformation big & small.
-        button: Photo essay 
-        url: /resources/in-pictures/boston/
-        image: /images/features/2023/bruce-c-bolling-after2.jpg/
-        alt: Bruce C Bolling
+        title: Larry Ng steps down as Prize Secretary
+        subtitle: Latest news
+        description: We thank Larry for his service & passion for cities.
+        button: Read the tribute
+        url: /resources/news/larry-ng/
+        image: /images/features/2023/larry-ng.jpg/
+        alt: Larry Ng
     - infopic:    
         title: Nominations now open!
         subtitle: Be the next Prize Laureate
