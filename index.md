@@ -41,7 +41,7 @@ sections:
     - infopic:    
         title: Nominations now open!
         subtitle: Be the next Prize Laureate
-        description: Cities interested to participate should approach an independent third party to nominate them.
+        description: Apply now and be a part of shaping the future of urban living! 
         button: Nominate today
         url: /stage-a/
         image: /images/features/2022/call-for-nominations.gif/
