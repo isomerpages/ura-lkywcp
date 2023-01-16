@@ -1,57 +1,26 @@
 ---
-title: Prize Council
-permalink: /prize-council/
-third_nav_title: Prize Jury
-description: The Prize Council reviews and selects the Prize Laureate based on the recommendations by the Nominating Committee.
+title: Prize Secretariat
+permalink: /prize-secretariat/
+description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Redevelopment Authority Singapore.
 ---
 
-#### **Role of the Prize Council**
-
-The Prize Council reviews and selects the Prize Laureate based on the recommendations by the [Nominating Committee](/nominating-committee/).
-
-#### **Chair of the Prize Council 2020**
+#### Meet the team behind the Prize
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-<td><strong>Mr Peter Ho</strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
-</tr>
-</tbody>
-</table>
-
-#### **Members of the Prize Council 2020**
-
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/jury/flemming-borreskov.png" alt="Flemming Borreskov" /><br></td>
-<td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/flemming-borreskov/">Biography</a></td>
+<td style="width: 150px;"><img src="/images/jury/flemming-borreskov.png" alt="Yap Lay Bee" /><br></td>
+<td><strong>Ms Yap Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/chan-heng-chee.png" alt="Chan Heng Chee" /><br></td>
-<td><br><strong>Ambassador Chan Heng Chee</strong><br />Professor (Former Chair)<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/chan-heng-chee/">Biography</a></td>
+<td><br><img src="/images/jury/chan-heng-chee.png" alt="Eugene Lau" /><br></td>
+<td><br><strong>Mr Eugene Lau</strong><br />Acting Director (Architecture & Urban Design, Industry & Innovation)<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
-<td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/helen-clark/">Biography</a></td>
-</tr>
-<tr>
-<td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
-<td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/ilmar-reepalu/">Biography</a></td>
+<td><br><img src="/images/jury/helen-clark.png" alt="Damien Woon" /><br></td>
+<td><br><strong>Mr Damien Woon</strong><br />Senior Planner<br />Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/damien-woon/">Biography</a></td>
 </tr> 
 </tbody>
 </table>
 
----
-
-##### **Past members**
-
-| **1** | **Mr S. Dhanabalan** <br> Former Chair, Temasek Holdings | 
-| **2** | **Dr Pierre Laconte** <br> Former President, ISOCARP | 
-| **3** | **Mr Fumihiko Maki** <br> Principal, Maki & Associates | 
-| **4** | **Mr J Y Pillay** <br> Former Chair, Council of Presidential Advisers Singapore | 
-| **5** | **Mr John So** <br> Former Lord Mayor, Melbourne | 
-| **6** | **Mr Achim Steiner** <br> Administrator, United Nations Development Programme |
-| **7** | **Dr Qiu Baoxing** <br> Counsellor, State Council, China |
-| **8** | **Late Park Won-soon** <br> Former Mayor, Seoul |
+For all enquiries, please email [malto:leekuanyew_worldcityprize@ura.gov.sg](leekuanyew_worldcityprize@ura.gov.sg)
