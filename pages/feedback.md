@@ -7,6 +7,7 @@ description: Questions? Feedback? Get in touch with the Prize Secretariat and we
 
 ##### Questions? Feedback? Get in touch with the Prize Secretariat by filling up the form below and we will get back you. 
 
+<br>
 - [Directory](#directory)
 - [Feedback form](#feedback-form)
 
