@@ -11,7 +11,7 @@ The Lee Kuan Yew World City Prize Secretariat resides within [Urban Redevelopmen
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/generic.png" alt="Yap Lay Bee" /><br></td>
+<td style="width: 150px;"><img src="/images/secretariat/yap-lay-bee.png" alt="Yap Lay Bee" /><br></td>
 <td><strong>Ms Yap Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a></td>
 </tr>
 <tr>
