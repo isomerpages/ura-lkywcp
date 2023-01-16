@@ -31,7 +31,18 @@ The Prize is co-organised by the [Urban Redevelopment Authority Singapore](/ura/
 
 #### **Visual identity**
 
-The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore. <b><font color="#967942">O</font></b>
+The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore. 
+
+#### **Prize partners**
+
+The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
+
+| American Planning Association | The City Planning Institute of Japan | European Urban Knowledge Network |
+| Fundacion Metropoli | International Federation for Housing and Planning | INTA - International Urban Development Association |
+| ISOCARP | Urban Land Institute | United Nations Environment Programme |
+| Urban Planning Society of China | World Green Building Council | 
+
+<b><font color="#967942">O</font></b>
 
 ---
 
