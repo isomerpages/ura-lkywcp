@@ -11,7 +11,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 - [Stage A nominations](#stage-a-nominations)
 - [Stage B submissions](#stage-b-submissions)
-- [Announcement and award](#announcement-and-award) |
+- [Announcement and award](#announcement-and-award)
 
 ---
 
