@@ -6,7 +6,7 @@ description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Red
 
 #### Meet the team behind the Prize
 
-THe Lee Kuan Yew World City Prize Secretariat resides within Urban Redevelopment Authority Singapore. For all enquiries, please email [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
+THe Lee Kuan Yew World City Prize Secretariat resides within [Urban Redevelopment Authority Singapore](/ura/). For connections and enquiries, please email [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
