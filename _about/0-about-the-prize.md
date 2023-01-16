@@ -38,17 +38,6 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
 
 | American Planning Association | The City Planning Institute of Japan | European Urban Knowledge Network |
-| Fundacion Metropoli | International Federation for Housing and Planning | INTA - International Urban Development Association |
+| Fundación Metrópoli | International Federation for Housing and Planning | INTA - International Urban Development Association |
 | ISOCARP | Urban Land Institute | United Nations Environment Programme |
 | Urban Planning Society of China | World Green Building Council | 
-
-<b><font color="#967942">O</font></b>
-
----
-
-##### **Directory**
-
-| • [Prize Secretary](/larry-ng/) | • [Prize Sponsor](/prize-sponsor/) |
-| • [Prize Partners](/prize-partners/) | • [Contact us](/feedback/) | 
-| • [Newsletter](/subscribe/) | • [YouTube](https://www.youtube.com/@leekuanyewworldcityprize/) |
-| • [Instagram](https://www.instagram.com/leekuanyew_worldcityprize/) | • [Facebook](https://www.facebook.com/leekuanyewworldcityprize/) |
