@@ -16,7 +16,7 @@ The Lee Kuan Yew World City Prize Secretariat resides within [Urban Redevelopmen
 </tr>
 <tr>
 <td><br><img src="/images/jury/generic.png" alt="Eugene Lau" /><br></td>
-<td><br><strong>Mr Eugene Lau</strong><br />Acting Director (Architecture & Urban Design, Industry & Innovation)<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
+<td><br><strong>Mr Eugene Lau</strong><br />Acting Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/secretariat/damien-woon.png" alt="Damien Woon" /><br></td>
