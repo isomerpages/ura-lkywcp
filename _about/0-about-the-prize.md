@@ -37,15 +37,15 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 
 The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
 
-| --: | --- |
-| **01** | American Planning Association | 
-| **02** | The City Planning Institute of Japan | 
-| **03** | European Urban Knowledge Network | 
-| **04** | Fundación Metrópoli | 
-| **05** | International Federation for Housing and Planning | 
-| **06** | INTA - International Urban Development Association |
-| **07** | ISOCARP |
-| **08** | Urban Land Institute | 
-| **09** | United Nations Environment Programme |
-| **10** | Urban Planning Society of China | 
-| **11** | World Green Building Council | 
+| --: | --- | --: |
+| **01** | American Planning Association | Link |
+| **02** | The City Planning Institute of Japan | Link |
+| **03** | European Urban Knowledge Network | Link |
+| **04** | Fundación Metrópoli | Link |
+| **05** | International Federation for Housing and Planning | Link |
+| **06** | INTA - International Urban Development Association | Link |
+| **07** | ISOCARP | Link |
+| **08** | Urban Land Institute | Link |
+| **09** | United Nations Environment Programme | Link |
+| **10** | Urban Planning Society of China | Link |
+| **11** | World Green Building Council | Link |
