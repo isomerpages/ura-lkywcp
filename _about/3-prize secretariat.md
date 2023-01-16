@@ -23,4 +23,4 @@ description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Red
 </tbody>
 </table>
 
-For all enquiries, please email [malto:leekuanyew_worldcityprize@ura.gov.sg](leekuanyew_worldcityprize@ura.gov.sg)
+For all enquiries, please email [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
