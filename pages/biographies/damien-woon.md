@@ -3,7 +3,7 @@ title: Biography — Damien Woon
 permalink: /damien-woon/
 ---
 
-<div style="width:150px"><img src="/images/secreatariat/damien-woon.png" alt="Damien Woon" /></div>
+<div style="width:150px"><img src="/images/secretariat/damien-woon.png" alt="Damien Woon" /></div>
 
 ##### **Mr Damien Woon** <br> Senior Planner <br> Architecture & Urban Design, Industry & Innovation <br> Urban Redevelopment Authority Singapore
 
