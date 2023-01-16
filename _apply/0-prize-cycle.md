@@ -7,7 +7,7 @@ description: The nominations for the 2024 Prize cycle are now open! Nominate you
 
 ##### The nominations for the 2024 Prize cycle are now open! Nominate your city now. 
 
-###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)**Click [here](/images/2024-prize-cycle-mobile.jpg/) to view the mobile version**
+###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile.jpg/)**
 
 #### **2024 Prize Cycle**
 
