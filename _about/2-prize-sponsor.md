@@ -7,7 +7,7 @@ description: Keppel Corporation - sponsor of Lee Kuan Yew World City Prize
 
 ##### Keppel Corporation is the sponsor of the Lee Kuan Yew World City Prize since 2010.
 
-<div style="width:400px"><img src="/images/kepcorp.jpg" alt="Keppel Corporation" /></div>
+<div style="width:300px"><img src="/images/kepcorp.jpg" alt="Keppel Corporation" /></div>
 
 #### **About Keppel Corporation**
 
