@@ -7,8 +7,6 @@ description: Questions? Feedback? Get in touch with the Prize Secretariat and we
 
 ##### Questions? Feedback? Get in touch with the Prize Secretariat by filling up the form below and we will get back you. 
 
-###### ![Feedback](/images/feedback.jpg/)**Illustration** © Stories/ Freepik.com
-
 #### **Directory**
 
 | **Mailing address** | **Lee Kuan Yew World City Prize Secretariat** <br> c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower <br> #13-01 <br> Singapore 069118 |
