@@ -9,7 +9,7 @@ description: Keppel Corporation - sponsor of Lee Kuan Yew World City Prize
 
 <div style="width:400px"><img src="/images/kepcorp.jpg" alt="Keppel Corporation" /></div>
 
-#### **Keppel Corporation**
+#### **About Keppel Corporation**
 
 With a global footprint in more than 20 countries, Keppel is an ecosystem of companies with a common mission to provide solutions for sustainable urbanisation that meet growing needs for energy, infrastructure, clean environments, quality homes and offices, and connectivity.
 
