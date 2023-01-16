@@ -39,5 +39,5 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 
 | • [Prize Secretary](/larry-ng/) | • [Prize Sponsor](/prize-sponsor/) |
 | • [Prize Partners](/prize-partners/) | • [Contact us](/feedback/) | 
-| • [Newsletter](/subscribe/) | • [YouTube channel](https://go.gov.sg/watch) |
+| • [Newsletter](/subscribe/) | • [YouTube](https://www.youtube.com/@leekuanyewworldcityprize/) |
 | • [Instagram](https://www.instagram.com/leekuanyew_worldcityprize/) | • [Facebook](https://www.facebook.com/leekuanyewworldcityprize/) |
