@@ -1,6 +1,8 @@
 ---
 title: Prize Sponsor
 permalink: /prize-sponsor/
+image: /images/kepcorp.jpg
+description: Keppel Corporation - sponsor of Lee Kuan Yew World City Prize
 ---
 
 <div style="width:300px"><img src="/images/kepcorp.jpg" alt="Keppel Corporation" /></div>
