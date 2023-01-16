@@ -9,7 +9,7 @@ permalink: /damien-woon/
 
 ---
 
-**Mr Damien Woon** is the project lead for Lee Kuan Yew World City Prize since 2015. Under the guidance of the Prize Secretary, he conceptualises, plans and implements each two-year Prize cycle, including overall budgeting and resourcing, call for nominations, connecting to international experts for evaluations, and preparing the announcement and award via high-profile international events. 
+**Mr Damien Woon** is the project lead for Lee Kuan Yew World City Prize since 2015. Under the guidance of the [Prize Secretary](/yap-lay-bee/), he conceptualises, plans and implements each two-year Prize cycle, including overall budgeting and resourcing, call for nominations, connecting to international experts for evaluations, and preparing the announcement and award via high-profile international events. 
 
 He is also the editor-in-charge of all Prize-related publications and collaterals, and content for the Prize website, bi-monthly newsletter and social media content.
 
