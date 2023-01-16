@@ -17,4 +17,4 @@ In his other portfolio, he is part of a [team](https://www.facebook.com/AUDEonli
 
 He has produced/edited three publications: ['Lee Kuan Yew World City Prize - Celebrating Ten Years of the Prize'](/resources/news/new-ebook/) (2022), ['Contemporaneous Architecture'](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/ContemporaneousArchitecture-regular) (2019), and ['Greening the Vertical Garden City'](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/2015-11_greening_the_vertical_garden_city) (2015). 
 
-He graduated with a degree in Architecture from the National University of Singapore and has a keen interest in photography and cities. His personal portfolio can be found at: [woonder.space](https://woonder.space/). **<font color="#967942">O</font>**
+He graduated with a degree in Architecture from the National University of Singapore and has a combined 13 years of experience working in the Singapore public service. He has a keen interest in photography and cities, and his personal portfolio can be found at: [woonder.space](https://woonder.space/). **<font color="#967942">O</font>**
