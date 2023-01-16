@@ -9,10 +9,6 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 |---:|
 | 28 October 2022 |
 
-###### ![FAQ](/images/FAQ.jpg/)**Illustration** © stories/ freepik.com
-
-#### **Sections**
-
 - [Stage A nominations](#stage-a-nominations) 
 - [Stage B submissions](#stage-b-submissions)
 - [Announcement and award](#announcement-and-award)
