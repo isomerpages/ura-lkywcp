@@ -129,11 +129,11 @@ The Mayor (or highest level representative) of the Laureate city will be invited
 
 #### **Will the Prize Laureate and Special Mention(s) be invited to speak?**
 
-The Prize Laureate and Special Mentions(s) will be invited to share their achievements and unique urban intiatives at the **<mark>Lee Kuan Yew World City Prize Lecture & Forum</mark>**, key highlights of the World Cities Summit, a biennial international Summit held in Singapore. 
+The Prize Laureate and Special Mentions(s) will be invited to share their achievements and unique urban intiatives at the **<mark>Lee Kuan Yew World City Prize Lecture & Forum</mark>**, a key highlight of the World Cities Summit, a biennial international Summit held in Singapore. 
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-World Cities Summit (WCS) will be held in July/August 2024 in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+The next edition of World Cities Summit (WCS) will be held in July/August 2024 in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 [Back to top](#sections)
 
