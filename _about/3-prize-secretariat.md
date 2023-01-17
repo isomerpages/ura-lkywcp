@@ -8,12 +8,22 @@ description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Red
 
 The Lee Kuan Yew World City Prize Secretariat resides within [Urban Redevelopment Authority Singapore](/ura/). For requests and enquiries, please [contact us](/feedback/). <br><br>
 
+#### **Prize Secretary**
+
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/secretariat/yap-lay-bee.png" alt="Yap Lay Bee" /><br></td>
 <td><strong>Ms Yap Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a></td>
 </tr>
+</tbody>
+</table>
+
+
+#### **Team**
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
 <tr>
 <td><br><img src="/images/jury/generic.png" alt="Eugene Lau" /><br></td>
 <td><br><strong>Mr Eugene Lau</strong><br />Acting Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
