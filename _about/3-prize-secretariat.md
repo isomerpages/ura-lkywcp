@@ -19,7 +19,6 @@ The Prize Secretariat manages the entire Prize cycle and resides within [Urban R
 </tbody>
 </table>
 
-
 #### **Team**
 
 <table style="width: 100%;" border="0" cellpadding="10">
