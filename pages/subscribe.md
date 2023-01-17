@@ -7,9 +7,7 @@ description: Subscribe to our monthly newsletter to get the latest news and city
 
 ##### Subscribe to our monthly newsletter to get the latest news and city-related feature articles in your inbox. One-click unsubscribe at anytime.
 
-###### ![Subscribe](/images/subscribe.jpg/)**Illustration** © Stories/ Freepik.com 
-
-If the following form does not load, click [here](https://mailchi.mp/ura/lkywcp-newsletter/). 
+If the following form does not load, [access the external form](https://mailchi.mp/ura/lkywcp-newsletter/). 
 
 ---
 
