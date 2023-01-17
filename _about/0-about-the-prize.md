@@ -37,7 +37,7 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 
 The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
 
-| --: | --- | --: |
+| ---: | --- | ---: |
 | **1** | American Planning Association | [URL](http://www.planning.org/) |
 | **2** | The City Planning Institute of Japan | [URL](http://https//www.cpij.or.jp/eng/) |
 | **3** | European Urban Knowledge Network | [URL](http://www.eukn.eu/) |
