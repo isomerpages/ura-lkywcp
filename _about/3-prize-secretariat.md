@@ -14,7 +14,7 @@ The Prize Secretariat manages the entire Prize cycle and resides within [Urban R
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/secretariat/yap-lay-bee.png" alt="Yap Lay Bee" /><br></td>
-<td><strong>Ms Yap Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a></td>
+<td><strong>Ms Lay Bee YAP</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/lay-bee-yap/">Biography</a></td>
 </tr>
 </tbody>
 </table>
@@ -25,11 +25,11 @@ The Prize Secretariat manages the entire Prize cycle and resides within [Urban R
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/secretariat/eugene-lau.png" alt="Eugene Lau" /><br></td>
-<td><strong>Mr Eugene Lau</strong><br />Acting Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
+<td><strong>Mr Eugene LAU</strong><br />Acting Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/secretariat/damien-woon.png" alt="Damien Woon" /><br></td>
-<td><br><strong>Mr Damien Woon</strong><br />Senior Planner<br />Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/damien-woon/">Biography</a></td>
+<td><br><strong>Mr Damien WOON</strong><br />Senior Planner<br />Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/damien-woon/">Biography</a></td>
 </tr> 
 </tbody>
 </table>
