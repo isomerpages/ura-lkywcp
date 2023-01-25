@@ -24,7 +24,7 @@ The Prize Secretariat manages the entire Prize cycle and resides within [Urban R
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/generic.png" alt="Eugene Lau" /><br></td>
+<td style="width: 150px;"><img src="/images/secretariat/eugene-lau.png" alt="Eugene Lau" /><br></td>
 <td><strong>Mr Eugene Lau</strong><br />Acting Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
 </tr>
 <tr>
