@@ -5,11 +5,11 @@ permalink: /wong-mun-summ/
 
 <div style="width:150px"><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /></div>
 
-##### **Mr Wong Mun Summ** <br> Founding Director <br> WOHA Architects <br> Singapore
+##### **Mr <u>Wong</u> Mun Summ** <br> Founding Director <br> WOHA Architects <br> Singapore
 
 ---
 
-<b>Mr <u>Wong</u> Mun Summ</b> is the joint founding director of WOHA, one of Southeast Asia’s best known and most awarded architectural practices based in Singapore. Wong Mun Summ graduated with Honours from the National University of Singapore in 1989 and is a member of various Design Advisory Panels in Singapore. 
+**Mr <u>Wong</u> Mun Summ** is the joint founding director of WOHA, one of Southeast Asia’s best known and most awarded architectural practices based in Singapore. Wong Mun Summ graduated with Honours from the National University of Singapore in 1989 and is a member of various Design Advisory Panels in Singapore. 
 
 Wong Mun Summ formed WOHA as a partnership with Richard Hassell in 1994. WOHA’s architecture is notable for its constant evolution: no two buildings adopt the same ‘style’, as each project constitutes a specific response to the potential of the programme and the site. Environmental principles have always been fundamental to WOHA’s designs. 
 
