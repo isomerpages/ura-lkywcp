@@ -9,7 +9,7 @@ permalink: /wulf-daseking/
 
 ---
 
-**Professor Wulf Daseking** is born in the historic city of Goslar in Northern Germany. His first experiences with the topic of urban structures were gained at school – from the ancient world to the modern age. His secondary school final examination essay was on “Analysis of the resident structure in a neighbourhood within a historic city centre”. 
+<b>Professor Wulf <u>Daseking</u></b> is born in the historic city of Goslar in Northern Germany. His first experiences with the topic of urban structures were gained at school – from the ancient world to the modern age. His secondary school final examination essay was on “Analysis of the resident structure in a neighbourhood within a historic city centre”. 
 
 Prof Daseking holds a degree in Architecture and Urban Planning from the Technical University of Hannover, Germany. In 1971, he received the DAAD Scholarship at the Swiss Federal Institute of Technogloy ETH () Zürich, Switzerland. From 1973 – 1975, he was an assistant in the office of Professor Deilmann in Münster. 
 
