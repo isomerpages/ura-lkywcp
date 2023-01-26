@@ -9,7 +9,7 @@ permalink: /chan-heng-chee/
 
 ---
 
-<b>Ambassador <u>Chan</u> Heng Chee</b>** is Ambassador-at-Large with the Singapore Foreign Ministry. She is Professor at the Lee Kuan Yew Centre for Innovative Cities in the Singapore University of Technology and Design. In November 2019, she took up the position of Chairman of the ISEAS (Institute of Southeast Asian Studies)-Yusof Ishak Institute. She is Deputy Chairman of the Social Science Research Council (SSRC), a Member of the Science of Cities Committee, National Research Foundation (NRF) , and a member of the Advisory Council on the Ethical Use of Artificial Intelligence (AI) and Data, Ministry of Communications and Information. She is also a Member of the Presidential Council for Minority Rights. 
+**Ambassador <u>Chan</u> Heng Chee** is Ambassador-at-Large with the Singapore Foreign Ministry. She is Professor at the Lee Kuan Yew Centre for Innovative Cities in the Singapore University of Technology and Design. In November 2019, she took up the position of Chairman of the ISEAS (Institute of Southeast Asian Studies)-Yusof Ishak Institute. She is Deputy Chairman of the Social Science Research Council (SSRC), a Member of the Science of Cities Committee, National Research Foundation (NRF) , and a member of the Advisory Council on the Ethical Use of Artificial Intelligence (AI) and Data, Ministry of Communications and Information. She is also a Member of the Presidential Council for Minority Rights. 
 
 Ambassador Chan is a Member of the Board of Trustees of the National University of Singapore and a Member of the Yale-NUS Governing Board. She is Chairman of the Pro-tem committee to establish a university of the arts in Singapore. 
 
