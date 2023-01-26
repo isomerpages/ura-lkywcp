@@ -5,11 +5,11 @@ permalink: /ilmar-reepalu/
 
 <div style="width:150px"><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /></div>
 
-##### **Mr Ilmar Reepalu** <br> Vice President <br> Swedish Association of Local Authorities and Regions <br> Sweden
+##### **Mr Ilmar <u>Reepalu</u>** <br> Vice President <br> Swedish Association of Local Authorities and Regions <br> Sweden
 
 ---
 
-<b>Mr Ilmar <u>Reepalu</u></b> was born 1943 in Estonia. He holds a Master of Science in Civil Engineering and Architecture from Chalmers University and a Supplementary Degree in Architecture from the Royal University College of Fine Arts. 
+**Mr Ilmar <u>Reepalu</u>** was born 1943 in Estonia. He holds a Master of Science in Civil Engineering and Architecture from Chalmers University and a Supplementary Degree in Architecture from the Royal University College of Fine Arts. 
 
 From 1970-1985 he worked as architect in Gothenburg specialising in sustainable city planning. From 1985-1994 he was Vice Mayor of Malmö. Since 1994 he is Chairman of the City Executive Board and Lord Mayor. 
 
