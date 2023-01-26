@@ -51,8 +51,8 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 
 ##### **Past members**
 
-| **1** | **Prof Kishore Mahbubani** <br> Distinguished Fellow, Asian Research Institute |
-| **2** | **Prof Alan A. Altshuler** <br> Professor, Harvard Graduate School of Design | 
-| **3** | **Late Sir Peter Hall** <br> Former Professor, The Bartlett, University College London | 
-| **4** | **Dr Liu Thai Ker** <br> Founder, Morrow Architects and Planners |
-| **5** | **Dr Alfonso Vegara** <br> Founder & Honorary President, Fundación Metropoli |
+| **1** | **Prof Alan A. <u>Altshuler</u>** <br> Professor, Harvard Graduate School of Design | 
+| **2** | **Late Sir Peter <u>Hall</u>** <br> Former Professor, The Bartlett, University College London | 
+| **3** | **Dr <u>Liu</u> Thai Ker** <br> Founder, Morrow Architects and Planners |
+| **4** | **Prof Kishore <u>Mahbubani</u>** <br> Distinguished Fellow, Asian Research Institute |
+| **5** | **Dr Alfonso <u>Vegara</u>** <br> Founder & Honorary President, Fundación Metropoli |
