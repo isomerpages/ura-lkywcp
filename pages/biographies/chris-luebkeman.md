@@ -5,11 +5,11 @@ permalink: /chris-luebkeman/
 
 <div style="width:150px"><img src="/images/jury/chris-luebkeman.png" alt="Chris Luebkeman" /></div>
 
-##### **Dr Chris Luebkeman** <br> Leader, Strategic Foresight Hub <br> Office of the President, ETH Zurich <br> Switzerland
+##### **Dr Chris <u>Luebkeman</u>** <br> Leader, Strategic Foresight Hub <br> Office of the President, ETH Zurich <br> Switzerland
 
 ---
 
-<b>Dr Chris <u>Luebkeman</u></b> is the leader of the Strategic Foresight Hub in the Office of the President at ETH Zurich. This recently establish Hub is a team which engages a broad range of stakeholders concerning future focused drivers of change. 
+**Dr Chris <u>Luebkeman</u>** is the leader of the Strategic Foresight Hub in the Office of the President at ETH Zurich. This recently establish Hub is a team which engages a broad range of stakeholders concerning future focused drivers of change. 
 
 He combines an attitude of pragmatic optimism with curiosity and a deep sense of planetary responsibility to all of his collaborations. Dr Luebkeman’s career to date has spanned professions and geographies. His multidisciplinary education (geology, civil engineering, structural engineering, entrepreneurship and a Doctorate in Architecture) was encouraged by his Mid-Western family of educators. His journey included Vanderbilt, Cornell and the ETH Zurich. He became an academic gypsy teaching Studios on Design and courses on Technology at the University of Oregon, the Chinese University of Hong Kong and at the MIT. He joined the global engineering consultancy Arup in London to lead the Research and Development group in 1999. He became a corporate intrapreneur by founding the Foresight, Innovation and Incubation teams. He established the Drivers of Change program and is proud to have been accused by the Guardian to have a mindset “in league with the future”. 
 
