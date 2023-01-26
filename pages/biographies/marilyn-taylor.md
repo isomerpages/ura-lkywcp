@@ -5,11 +5,11 @@ permalink: /marilyn-taylor/
 
 <div style="width:150px"><img src="/images/jury/marilyn-taylor.png" alt="Marilyn Taylor" /></div>
 
-##### **Prof Marilyn Jordan Taylor** <br> Professor of Architecture and Urban Design, Former Dean <br> School of Design, University of Pennsylvania <br> USA
+##### **Prof Marilyn Jordan <u>Taylor</u>** <br> Professor of Architecture and Urban Design, Former Dean <br> School of Design, University of Pennsylvania <br> USA
 
 ---
 
-<b>Marilyn Jordan <u>Taylor</u></b> is Professor of Architecture & Urban Design at UPenn. She had a distinguished tenure as Dean of the School of Design at UPenn from 2008 - 2016, following a 35-year career with Skidmore, Owings & Merrill as architect and urban designer as well as partner and chairman of the firm, the first woman to hold this position. 
+**Marilyn Jordan <u>Taylor</u>** is Professor of Architecture & Urban Design at UPenn. She had a distinguished tenure as Dean of the School of Design at UPenn from 2008 - 2016, following a 35-year career with Skidmore, Owings & Merrill as architect and urban designer as well as partner and chairman of the firm, the first woman to hold this position. 
 
 Over her years with SOM based in Washington DC and New York, she led multidisciplinary teams responsible for many of the firm's largest and most complex projects, creating the firm’s Transportation and Airports Group as well as leading its Urban Design practice. She led award-winning design teams on a wide array of transformative projects including JFK Terminal 4, Singapore Changi Terminal 3, the Ben Gurion Airport, the revisioning of New York’s Pennsylvania Station and Moynihan Station, Providence Capitol Centre, and the Denver Union Station revitalisation as the heart of a vibrant new neighbourhood. 
 
