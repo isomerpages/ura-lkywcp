@@ -6,7 +6,7 @@ description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Red
 
 #### **Role of the Prize Secretariat**
 
-The Prize Secretariat manages the entire Prize cycle and resides within [Urban Redevelopment Authority Singapore](/ura/). For requests and enquiries, please [contact us](/feedback/).
+The Prize Secretariat manages the entire Prize cycle, including budgeting and resourcing, call for nominations, international relations and event management. The Prize Secretariat resides within [Urban Redevelopment Authority Singapore](/ura/). For requests and enquiries, please [contact us](/feedback/).
 
 #### **Prize Secretary**
 
