@@ -16,11 +16,11 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Our office is temporarily closed due to COVID-19
+        description: 
 contacts:
   - title: General enquiries & feedback
     content:
-    - phone: +65 6321 6532 
+    - phone:  
     - email: leekuanyew_worldcityprize@ura.gov.sg
     - other: 
   - title: Join our mailing list 
