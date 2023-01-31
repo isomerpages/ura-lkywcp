@@ -51,7 +51,7 @@ sections:
         subtitle: 
         description: Join our mailing list to get the latest news in your inbox!
         button: Subscribe now!  
-        url: /subscribe/
+        url: https://share.hsforms.com/1i1RJ2Ny9R5CnOgq9q3NwiAe7vkz
     - resources:
         title: 
         subtitle: Latest updates
