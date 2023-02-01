@@ -51,7 +51,7 @@ sections:
         subtitle: 
         description: Join our mailing list to get the latest news in your inbox!
         button: Subscribe now!  
-        url: https://share.hsforms.com/1i1RJ2Ny9R5CnOgq9q3NwiAe7vkz
+        url: lee-kuan-yew-world-city-prize-23882147.hubspotpagebuilder.com/subscribe
     - resources:
         title: 
         subtitle: Latest updates
