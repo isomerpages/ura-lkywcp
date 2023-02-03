@@ -13,7 +13,7 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Nominations now open!
+            - title: Nominations closing soon!
               description: 
               url: /stage-a/
     - infobar:    
@@ -39,7 +39,7 @@ sections:
         image: /images/features/2023/bruce-c-bolling-after2.jpg/
         alt: Boston
     - infopic:    
-        title: Nominations now open!
+        title: Nominations closing soon!
         subtitle: Be the next Prize Laureate
         description: Apply now and be a part of shaping the future of urban living! 
         button: Nominate today
