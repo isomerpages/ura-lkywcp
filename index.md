@@ -13,7 +13,7 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Nominations now open!
+            - title: Nominations closing soon!
               description: 
               url: /stage-a/
     - infobar:    
@@ -23,25 +23,25 @@ sections:
         button: About the Prize
         url: /about-the-prize/
     - infopic:    
-        title: A strategy of slow urbanism
+        title: Boston's collective effort
         subtitle: Featured article
-        description: While other cities do it fast, Antwerp deliberately takes things slow.  
-        button: Find out how 
-        url: /resources/features/antwerp-slow-urbanism/
-        image: /images/features/2022/antwerp-scheldt.jpg
-        alt: Antwerp
+        description: Learn how Boston transformed itself with its people & partners 
+        button: Feature story
+        url: /resources/features/reimagining-boston/
+        image: /images/features/2023/boston-city1.jpg
+        alt: Boston
     - infopic:    
-        title: A city taking things slow
+        title: Stimulating changes big & small
         subtitle: Photo essay
-        description: Take a look at Antwerp's 'slow' approach in this photo essay.
-        button: Photo essay 
-        url: /resources/in-pictures/antwerp/
-        image: /images/features/2022/park-spoor-noord.jpg/
-        alt: Park Spoor Noord in Antwerp
+        description: Let's look at Boston’s urban transformation, big and small.
+        button: Photo essay
+        url: /resources/in-pictures/boston/
+        image: /images/features/2023/bruce-c-bolling-after2.jpg/
+        alt: Boston
     - infopic:    
-        title: Nominations now open!
+        title: Nominations closing soon!
         subtitle: Be the next Prize Laureate
-        description: Cities interested to participate should approach an independent third party to nominate them.
+        description: Apply now and be a part of shaping the future of urban living! 
         button: Nominate today
         url: /stage-a/
         image: /images/features/2022/call-for-nominations.gif/
@@ -51,7 +51,7 @@ sections:
         subtitle: 
         description: Join our mailing list to get the latest news in your inbox!
         button: Subscribe now!  
-        url: /subscribe/
+        url: https://lee-kuan-yew-world-city-prize-23882147.hubspotpagebuilder.com/subscribe
     - resources:
         title: 
         subtitle: Latest updates

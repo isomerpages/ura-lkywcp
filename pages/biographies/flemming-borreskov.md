@@ -5,11 +5,11 @@ permalink: /flemming-borreskov/
 
 <div style="width:150px"><img src="/images/jury/flemming-borreskov.png" alt="Flemming Borreskov" /></div>
 
-##### **Mr Flemming Borreskov** <br> President <br> Catalytic Society <br> Denmark
+##### **Mr Flemming <u>Borreskov</u>** <br> President <br> Catalytic Society <br> Denmark
 
 ---
 
-**Flemming Borreskov** is Founder and President of Catalytic Society with the mission to develop and promote the creative interaction between government, the business community and civil society - with a particular emphasis on cities and on the interaction between people and cities.
+**Flemming <u>Borreskov</u>** is Founder and President of Catalytic Society with the mission to develop and promote the creative interaction between government, the business community and civil society - with a particular emphasis on cities and on the interaction between people and cities.
 
 He is former CEO of Realdania, a strategic philanthropic foundation based in Denmark, with the objective of initiating and supporting projects that improve the built environment and subsequently improve the quality of life for the common good.
 

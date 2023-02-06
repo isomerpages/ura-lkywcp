@@ -27,17 +27,25 @@ The Prize Laureate will be presented with an award certificate, a gold medallion
 
 The Prize is named after [Singapore’s first Prime Minister](https://www.pmo.gov.sg/Past-Prime-Ministers/Mr-LEE-Kuan-Yew). Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
 
-The Prize is co-organised by the [Urban Redevelopment Authority of Singapore](/ura/) (URA) and the [Centre for Liveable Cities](/clc/) (CLC). The Prize Secretariat sits within URA. 
+The Prize is co-organised by the [Urban Redevelopment Authority Singapore](/ura/) (URA) and the [Centre for Liveable Cities](/clc/) (CLC). The Prize Secretariat sits within URA. 
 
 #### **Visual identity**
 
-The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore. <b><font color="#967942">O</font></b>
+The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore. 
 
----
+#### **Prize partners**
 
-##### **Directory**
+The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
 
-| • [Prize Secretary](/larry-ng/) | • [Prize Sponsor](/prize-sponsor/) |
-| • [Prize Partners](/prize-partners/) | • [Contact us](/feedback/) | 
-| • [Newsletter](/subscribe/) | • [YouTube channel](https://go.gov.sg/watch) |
-| • [Instagram](https://www.instagram.com/leekuanyew_worldcityprize/) | • [Facebook](https://www.facebook.com/leekuanyewworldcityprize/) |
+| ---: | :--- | ---: |
+| **1** | American Planning Association | [URL](http://www.planning.org/) |
+| **2** | The City Planning Institute of Japan | [URL](http://https//www.cpij.or.jp/eng/) |
+| **3** | European Urban Knowledge Network | [URL](http://www.eukn.eu/) |
+| **4** | Fundación Metrópoli | [URL](http://www.fundacion-metropoli.org/) |
+| **5** | International Federation for Housing and Planning | [URL](https://www.ifhp.org/) |
+| **6** | INTA - International Urban Development Association | [URL](https://inta-aivn.org/en/) |
+| **7** | ISOCARP | [URL](https://isocarp.org/) |
+| **8** | Urban Land Institute | [URL](https://uli.org/) |
+| **9** | United Nations Environment Programme | [URL](https://www.unenvironment.org/) |
+| **10** | Urban Planning Society of China | [URL](http://en.planning.org.cn/) |
+| **11** | World Green Building Council | [URL](https://www.worldgbc.org/) |

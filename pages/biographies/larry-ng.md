@@ -1,6 +1,7 @@
 ---
 title: Biography — Larry Ng
 permalink: /larry-ng/
+published: false 
 ---
 
 <div style="width:150px"><img src="/images/jury/larry-ng.png" alt="Larry Ng" /></div>

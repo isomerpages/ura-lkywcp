@@ -5,11 +5,11 @@ permalink: /cheong-koon-hean/
 
 <div style="width:150px"><img src="/images/jury/cheong-koon-hean.png" alt="Cheong Koon Hean" /></div>
 
-##### **Dr Cheong Koon Hean** <br> Chair, Lee Kuan Yew Centre for Innovative Cities <br> Chair, Centre for Liveable Cities <br> Singapore
+##### **Dr <u>Cheong</u> Koon Hean** <br> Chair, Lee Kuan Yew Centre for Innovative Cities <br> Chair, Centre for Liveable Cities <br> Singapore
 
 ---
 
-**Dr Cheong Koon Hean** is Chair of the Lee Kuan Yew Centre for Innovative Cities as well as Professor of Practice in the Singapore University of Technology and Design. She is concurrently Chairman of the Centre for Liveable Cities under the Ministry of National Development, Singapore.
+**Dr <u>Cheong</u> Koon Hean** is Chair of the Lee Kuan Yew Centre for Innovative Cities as well as Professor of Practice in the Singapore University of Technology and Design. She is concurrently Chairman of the Centre for Liveable Cities under the Ministry of National Development, Singapore.
 
 Dr Cheong has played an active role in the urban transformation of Singapore over the years. She was the CEO of the Housing and Development Board (HDB) from 2010 to 2020, overseeing the development and management of over 1 million public housing flats. At HDB, she introduced a new generation of public housing and implemented large scale sustainability, biophilic and smart features in HDB towns.
 
