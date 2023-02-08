@@ -38,6 +38,8 @@ Please download the Stage B templates by clicking on the icons below:
 </tbody>
 </table>
 
+Having issues downloading the files? [Contact us](/feedback/)
+
 #### **Digital submissions only**
 
 Please upload the complete set of documents ([Parts I to IV](#stage-b-submission)) to a cloud service, e.g., [WeTransfer](https://wetransfer.com/), [Google Drive](https://www.google.com/drive/), [Dropbox](https://www.dropbox.com/), etc., and address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). 
