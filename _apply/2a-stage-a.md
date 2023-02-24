@@ -10,6 +10,8 @@ description: Cities interested to apply for the Prize shall approach an independ
 
 The nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
 
+- [Nomination Form](#nomination-form)
+
 #### **Interested cities – please read the following**
 
 Cities interested to participate shall approach an independent third party (nominator) in any of the following categories to nominate them:
