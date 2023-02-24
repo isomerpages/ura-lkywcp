@@ -31,7 +31,7 @@ sections:
         image: /images/features/2023/boston-city1.jpg
         alt: Boston
     - infopic:    
-        title: Nominations extended!
+        title: Stage A nominations extended!
         subtitle: Be the next Prize Laureate
         description: Stage A nominations extended to 31 May 2023. 
         button: Nominate today
