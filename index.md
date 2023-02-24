@@ -14,7 +14,7 @@ sections:
         url: 
         key_highlights:
             - title: Stage A nominations extended!
-              description: 
+              description: Nominate your city today
               url: /stage-a/
     - infobar:    
         title: 
