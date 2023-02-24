@@ -2,12 +2,12 @@
 title: 2024 Prize Cycle
 permalink: /prize-cycle/
 image: /images/2024-prize-cycle.jpg
-description: Stage A nominations are extended! Nominate your city now.
+description: Stage A nominations are extended to 31 May 2023! Nominate your city now.
 ---
 
-##### Stage A nominations are extended! Nominate your city now. 
+##### Stage A nominations are extended to 31 May 2023! Nominate your city now. 
 
-###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile.jpg/)**
+###### ![2024 Prize cycle](/images/features/2023/2024-prize-cycle-extended.jpg)**[View the mobile version](/images/features/2023/2024-prize-cycle-mobile-extended.jpg/)**
 
 #### **2024 Prize Cycle**
 
