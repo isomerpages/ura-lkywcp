@@ -2,10 +2,10 @@
 title: 2024 Prize Cycle
 permalink: /prize-cycle/
 image: /images/2024-prize-cycle.jpg
-description: The nominations for the 2024 Prize cycle are closing soon! Nominate your city now.
+description: Stage A nominations are extended! Nominate your city now.
 ---
 
-##### The nominations for the 2024 Prize cycle are closing soon! Nominate your city now. 
+##### Stage A nominations are extended! Nominate your city now. 
 
 ###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile.jpg/)**
 
