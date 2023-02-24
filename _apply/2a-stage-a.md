@@ -3,12 +3,13 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/stage-a-nominations.jpg
-description: Cities interested to apply for the Prize shall approach an independent third party (nominator) to nominate them. 
+description: Nominations for the 2024 Prize are now open!
+
 ---
 
 #### **Instructions**
 
-The nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
+Nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
 
 - [Stage A Nomination Form](#nomination-form)
 
