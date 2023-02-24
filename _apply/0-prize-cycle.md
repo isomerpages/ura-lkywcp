@@ -19,10 +19,6 @@ description: Stage A nominations are extended to 31 May 2023! Nominate your city
 | Mar 2024 | **Announcement** <br> Announcement of the results |
 | Jun 2024 | **Prize Lecture & Forum** <br> Sharing by the Prize Laureate and Special Mention(s) at [World Cities Summit](https://www.worldcitiessummit.com.sg) <br> --- <br> **Award Ceremony & Banquet** <br> Presentation of the award to the Prize Laureate |
 
-#### **Download e-brochure**
-
-[Download 2024 Prize nomination e-brochure](/documents/2024-prize-nomination-brochure.pdf/) (2.7 MB)
-
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
