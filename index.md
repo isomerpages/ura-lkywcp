@@ -23,14 +23,6 @@ sections:
         button: About the Prize
         url: /about-the-prize/
     - infopic:    
-        title: Boston's collective effort
-        subtitle: Featured article
-        description: Learn how Boston transformed itself with its people & partners 
-        button: Feature story
-        url: /resources/features/reimagining-boston/
-        image: /images/features/2023/boston-city1.jpg
-        alt: Boston
-    - infopic:    
         title: Stage A nominations extended!
         subtitle: Be the next Prize Laureate
         description: Stage A nominations extended to 31 May 2023. 
@@ -38,6 +30,14 @@ sections:
         url: /stage-a/
         image: /images/features/2023/cfn-extended.gif/
         alt: Call for nominations
+    - infopic:    
+        title: Boston's collective effort
+        subtitle: Featured article
+        description: Learn how Boston transformed itself with its people & partners 
+        button: Feature story
+        url: /resources/features/reimagining-boston/
+        image: /images/features/2023/boston-city1.jpg
+        alt: Boston
     - infopic:    
         title: Stimulating changes big & small
         subtitle: Photo essay
