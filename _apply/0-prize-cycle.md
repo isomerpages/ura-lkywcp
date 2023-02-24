@@ -13,7 +13,7 @@ description: The nominations for the 2024 Prize cycle are closing soon! Nominate
 
 | Date | Phase |
 | :--- | :--- |
-| 1 Aug 2022 - <s>31 Mar</s> 31 May 2023 | **[Stage A Nominations](/stage-a/)** <br> Nominations of cities by independent third parties |
+| 1 Aug 2022 - <s>31 Mar</s> 31 May 2023 | **[Stage A Nominations](/stage-a/) <mark>EXTENDED!</mark>** <br> Nominations of cities by independent third parties |
 | 1 Oct 2022 - 31 May 2023 | **[Stage B Submissions](/stage-b/)** <br> Submissions of detailed report by nominated cities |
 | Jun 2023 - Feb 2024 | **[Evaluations](/evaluations/)** <br> Evaluations of submissions through a rigourous two-tier selection process |
 | Mar 2024 | **Announcement** <br> Announcement of the results |
