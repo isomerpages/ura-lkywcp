@@ -46,7 +46,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **D**
 
 - **Daily commute**: refers to the regular travel that people undertake between their home and workplace or school. It is the journey that people make on a daily basis as part of their routine to reach their destination.
-- **Digital divide**: refers to the gap between individuals or groups who have access to digital technologies and those who do not. Examples include access to the internet, ownership of digital devices such as computers and smartphones, and proficiency in using digital technologies. The digital divide can be influenced by various factors, such as income, education level, geography, and social status. Those who lack access to digital technologies and the skills to use them effectively may experience significant disadvantages in areas such as education, employment, and social participation.
+- **Digital divide**: refers to the gap between those who have access to digital technologies and those who do not. This can include access to the internet, ownership of digital devices, and proficiency in using them. Those without access or skills may face significant disadvantages in education, employment, and social participation.
 - **Disaster mitigation**: refers to the actions and strategies taken to reduce or prevent the adverse impacts of natural or human-made disasters. This includes efforts to identify potential hazards and vulnerabilities, develop plans and protocols for responding to disasters, and implement measures to minimise their impact.
 
 [Back to top](#directory)
