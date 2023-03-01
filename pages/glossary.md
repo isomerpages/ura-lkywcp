@@ -41,6 +41,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **K**
+
+- **Key strategies/actions**: refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
+
+[Back to top](#directory)
+
+---
+
 #### **L**
 
 - **Legalised housing**: refers to housing that has been formally recognised and approved by relevant authorities, such as the government, as meeting the legal requirements for housing. This means that the housing meets specific standards and regulations regarding safety, health, and habitability.
