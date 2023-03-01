@@ -33,6 +33,15 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **E**
+
+- **Energy efficiency**: refers to the use of technologies, practices, and systems that reduce the amount of energy required to perform a given task or function. It involves optimising the use of energy resources by minimising waste, improving efficiency, and reducing environmental impacts.
+- **Energy transition**: refers to the shift from traditional, fossil fuel-based energy systems to more sustainable and low-carbon alternatives. It involves a fundamental transformation of the energy sector, including the production, distribution, and consumption of energy.
+
+[Back to top](#directory)
+
+---
+
 #### **G**
 
 - **Green space**:  refers to publicly accesible areas of land that are covered by vegetation, such as trees, shrubs and grass, and typically includes parks, gardens, forests or other natural landscapes. Its  intent is to positively impact physical, mental and psychological health and well-being of the community while also enhancing the environmental quality. 
@@ -53,6 +62,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **L**
 
 - **Legalised housing**: refers to housing that has been formally recognised and approved by relevant authorities, such as the government, as meeting the legal requirements for housing. This means that the housing meets specific standards and regulations regarding safety, health, and habitability.
+- **Low carbon**: refers to practices, technologies, or systems that produce a relatively low amount of carbon emissions, typically in the context of energy production and use. This includes the use of renewable energy sources, energy efficiency improvements, and the adoption of low-emission technologies and practices.
 
 [Back to top](#directory)
 
@@ -94,6 +104,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **R**
 
+- **Renewables**: _(short for renewable energy sources)_ refer to energy sources that are replenished naturally and can be used to generate electricity or heat without depleting finite resources. These sources of energy include solar, wind, geothermal, hydro, tidal, and biomass.
 - **Resiliency**: refers to the ability of an individual, community, or system to cope, adapt, and bounce back from adversity, stress, or difficult situations. It is the capacity to recover from challenges and setbacks, and to maintain a positive outlook and sense of purpose despite obstacles.
 
 [Back to top](#directory)
@@ -107,6 +118,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 - **Social stability**: refers to the ability of a society to maintain order, security, and harmony among its members, even in the face of external or internal challenges. Social stability can be characterised by the absence of major social, political, or economic disruptions, and the presence of social cohesion, trust, and a sense of common purpose among the members of the society.
 - **Stakeholders**: refer to individuals, groups, organisations, or entities that have a direct or indirect interest in, or are affected by, the development and management of the city. This can include various groups such as residents, business owners, non-profit organisations, local government officials, investors, developers, and advocacy groups.
 - **Strategic land sales**: refer to the sale of large parcels of land typically by government agencies for the purpose of generating revenue or advancing specific policy objectives. Strategic land sales can include the sale of land for residential, commercial, industrial, or mixed-use development, as well as the sale of surplus government-owned land or assets.
+- **Sustainable transport**: refers to transportation systems and modes of travel that are designed to minimise their negative impact on the environment and support social and economic well-being. It involves the use of more efficient, cleaner, and greener transportation options that help reduce greenhouse gas emissions, air pollution, and congestion, while improving mobility and accessibility for people and goods.
 
 [Back to top](#directory)
 
@@ -130,4 +142,4 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
-For other enquiries, please [contact us](/feedback/). 
+Something missing? [Contact us](/feedback/). 
