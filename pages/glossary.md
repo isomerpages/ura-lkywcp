@@ -155,6 +155,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **T**
+
+- **Transit-oriented development (TOD)**: refers to a planning approach that prioritises mixed-use development around public transportation infrastructure, such as train or bus stations. The aim is to create walkable, bike-friendly neighborhoods that reduce automobile dependency and increase access to affordable housing, employment, and amenities.
+
+[Back to top](#directory)
+
+---
+
 #### **U**
 
 - **Universal design**: refers to the application of universal design principles to the design and planning of public spaces, buildings, transportation systems, and other urban infrastructure. Its goal is to create an inclusive and accessible environment that accommodates the needs of all individuals, including those with disabilities and seniors.
