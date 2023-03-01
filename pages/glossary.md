@@ -16,6 +16,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **A**
 
+- **Adaptive reuse**: refers to the process of repurposing an existing building or structure for a new function, while still preserving its historic, cultural, or architectural significance. This approach promotes sustainable development by reducing waste and preserving cultural heritage.
 - **Affordable/subsidised/low-cost housing**: refers to housing that is affordable to people with low to moderate incomes. Affordable housing may be subsidised by the government or provided by private developers at below-market rates.
 
 [Back to top](#directory)
@@ -85,6 +86,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **L**
 
 - **Legalised housing**: refers to housing that has been formally recognised and approved by relevant authorities, such as the government, as meeting the legal requirements for housing. This means that the housing meets specific standards and regulations regarding safety, health, and habitability.
+- **Liveability**: refers to the quality of life and well-being of individuals and communities within a particular environment. Factors that contribute to liveability include access to essential services, amenities, and public spaces, as well as social, economic, and environmental conditions that support a healthy and fulfilling lifestyle.
 - **Low carbon**: refers to practices, technologies, or systems that produce a relatively low amount of carbon emissions, typically in the context of energy production and use. This includes the use of renewable energy sources, energy efficiency improvements, and the adoption of low-emission technologies and practices.
 
 [Back to top](#directory)
