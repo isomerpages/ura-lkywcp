@@ -16,6 +16,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **C**
 
+- **Changing demographics**: refers to shifts in the population characteristics of a city over time. This can include changes in the age, race, ethnicity, gender, income level, and education level of the population. Demographic changes can be driven by a variety of factors, including immigration patterns, birth rates, mortality rates, and migration within the country.
 - **City manager**: _(in the context of a city's governance structure)_ refers to a professional administrator appointed by the city council or other elected officials to manage the day-to-day operations of a city government. City managers are responsible for overseeing the implementation of policies and programs established by the city council, as well as managing the city's budget, personnel, and resources.
 - **Climate change adaptation**: refers to the actions and strategies taken to prepare for and respond to the impacts of climate change, such as rising temperatures, sea level rise, and more frequent and severe weather events. Adaptation measures aim to reduce the vulnerability of individuals, communities, and ecosystems to the impacts of climate change and to build resilience to future changes. 
 - **Commission**: _(in the context of a city's governance structure)_ refers to a body of individuals appointed or elected to oversee a specific area of city government or public service. Commissions can have a variety of responsibilities and powers, ranging from advisory roles to decision-making authority.
@@ -116,6 +117,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 - **Urban initiatives**: refer to specific projects, programmes, or policies that are implemented to address the unique challenges and opportunities faced by the city. These initiatives are designed to promote sustainable and equitable development, improve quality of life for residents, and enhance the economic, social, and environmental vitality of the city.
 - **Urban resilience**: refers to the ability of a city or urban area to prepare for, adapt to, and recover from shocks and stresses, such as natural disasters, economic crises, or social upheavals, while maintaining essential functions and services for its residents. 
 - **Urban transformation**: refers to the process of significant change and redevelopment that occurs in urban areas over time. This can include physical, economic, social, and environmental changes that result in the transformation of a city's built environment, economy, and social fabric.
+
+[Back to top](#directory)
+
+---
+
+#### **V**
+
+- **Vulnerable groups**: refer to populations that are at greater risk of harm or disadvantage due to their social, economic, or physical circumstances. These groups may face discrimination, exclusion, or marginalisation in society, and may have limited access to resources, opportunities, and services that are necessary for their well-being.
 
 [Back to top](#directory)
 
