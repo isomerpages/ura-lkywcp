@@ -14,6 +14,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **A**
+
+- **Affordable/subsidised/low-cost housing**: refers to housing that is affordable to people with low to moderate incomes. Affordable housing may be subsidised by the government or provided by private developers at below-market rates.
+
+[Back to top](#directory)
+
+---
+
 #### **B**
 
 - **Brownfield development**: refers to the redevelopment of abandoned, derelict, or contaminated land for new uses. This can include the cleanup and reuse of former industrial sites, commercial properties, or other abandoned or underutilised parcels of land.
