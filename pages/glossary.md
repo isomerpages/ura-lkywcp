@@ -22,6 +22,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **L**
+
+- **Legalised housing**: refers to housing that has been formally recognised and approved by relevant authorities, such as the government, as meeting the legal requirements for housing. This means that the housing meets specific standards and regulations regarding safety, health, and habitability.
+
+[Back to top](#directory)
+
+---
+
 #### **N**
 
 - **Non-native population**: refers to a group of people who have migrated to the city from a different region or country and may have different cultural, linguistic, or ethnic backgrounds from those who were born in the city. They may include immigrants, refugees and/or long- or short-term workers.
