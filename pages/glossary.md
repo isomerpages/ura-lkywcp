@@ -103,6 +103,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **U**
 
+- **Urban initiatives**: refer to specific projects, programmes, or policies that are implemented to address the unique challenges and opportunities faced by the city. These initiatives are designed to promote sustainable and equitable development, improve quality of life for residents, and enhance the economic, social, and environmental vitality of the city.
 - **Urban resilience**: refers to the ability of a city or urban area to prepare for, adapt to, and recover from shocks and stresses, such as natural disasters, economic crises, or social upheavals, while maintaining essential functions and services for its residents. 
 - **Urban transformation**: refers to the process of significant change and redevelopment that occurs in urban areas over time. This can include physical, economic, social, and environmental changes that result in the transformation of a city's built environment, economy, and social fabric.
 
