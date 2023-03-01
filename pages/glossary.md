@@ -83,6 +83,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **Q**
+
+- **Quality of life**: refers to the overall well-being of the city's residents, taking into account various factors that contribute to their physical, emotional, social, and economic health and happiness within the urban environment.
+
+[Back to top](#directory)
+
+---
+
 #### **R**
 
 - **Resiliency**: refers to the ability of an individual, community, or system to cope, adapt, and bounce back from adversity, stress, or difficult situations. It is the capacity to recover from challenges and setbacks, and to maintain a positive outlook and sense of purpose despite obstacles.
