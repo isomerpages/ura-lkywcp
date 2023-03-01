@@ -58,4 +58,5 @@ All submissions must be sent by **31 May 2023, 6pm (+8 GMT Singapore Time)**.
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
+- [Glossary of terms](/glossary/)
 - [Contact us](/feedback/)
