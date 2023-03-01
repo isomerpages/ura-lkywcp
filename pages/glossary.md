@@ -33,6 +33,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **G**
 
 - **Green space**:  refers to publicly accesible areas of land that are covered by vegetation, such as trees, shrubs and grass, and typically includes parks, gardens, forests or other natural landscapes. Its  intent is to positively impact physical, mental and psychological health and well-being of the community while also enhancing the environmental quality. 
+- **Governance structure**: refers to the framework of rules, policies, and institutions that define how a group or organisation makes decisions, sets priorities, and manages its resources. It encompasses the formal and informal mechanisms of decision-making, as well as the roles and responsibilities of individuals and groups within the organisation. 
 
 [Back to top](#directory)
 
