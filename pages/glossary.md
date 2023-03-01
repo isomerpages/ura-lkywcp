@@ -17,7 +17,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **A**
 
 - **Adaptive reuse**: refers to the process of repurposing an existing building or structure for a new function, while still preserving its historic, cultural, or architectural significance. This approach promotes sustainable development by reducing waste and preserving cultural heritage.
-- **Affordable/subsidised/low-cost housing**: refers to housing that is affordable to people with low to moderate incomes. Affordable housing may be subsidised by the government or provided by private developers at below-market rates.
+- **Affordable/subsidised/low-cost/social housing**: refers to housing that is affordable to people with low to moderate incomes. Affordable housing may be subsidised by the government or provided by private developers at below-market rates.
 
 [Back to top](#directory)
 
@@ -38,6 +38,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 - **City beautification**: refers to the efforts and initiatives taken to improve the aesthetic appeal, functionality, and overall appearance of a city or urban area. Examples include cleaning up litter and graffiti, planting trees and flowers, installing public art, etc. Its goal is to make the urban environment more attractive, inviting, and enjoyable for residents and visitors alike, while also enhancing the quality of life and sense of community in the area.
 - **City manager**: _(in the context of a city's governance structure)_ refers to a professional administrator appointed by the city council or other elected officials to manage the day-to-day operations of a city government. City managers are responsible for overseeing the implementation of policies and programs established by the city council, as well as managing the city's budget, personnel, and resources.
 - **Climate change adaptation**: refers to the actions and strategies taken to prepare for and respond to the impacts of climate change, such as rising temperatures, sea level rise, and more frequent and severe weather events. Adaptation measures aim to reduce the vulnerability of individuals, communities, and ecosystems to the impacts of climate change and to build resilience to future changes. 
+- **Climate neutrality**: refers to the balance between greenhouse gas emissions and their removal or mitigation in the atmosphere, resulting in no net contribution to global warming. Achieving climate neutrality involves reducing emissions through sustainable practices, transitioning to renewable energy sources, and investing in carbon sequestration and other mitigation measures.
 - **Commission**: _(in the context of a city's governance structure)_ refers to a body of individuals appointed or elected to oversee a specific area of city government or public service. Commissions can have a variety of responsibilities and powers, ranging from advisory roles to decision-making authority.
 
 [Back to top](#directory)
@@ -121,6 +122,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **P**
 
+- **Paris Agreement**: refers to the legally binding international treaty adopted by 196 countries in 2015 under the United Nations Framework Convention on Climate Change (UNFCCC). Its goal is to limit global warming to well below 2 degrees Celsius above pre-industrial levels and pursue efforts to limit it to 1.5 degrees Celsius, through country-specific mitigation and adaptation measures and financial support to developing countries.
 - **Participatory planning**: refers to an approach in urban planning and development that emphasises the active involvement of community members, stakeholders, and other interested parties in the planning process. Its goal is to promote greater transparency, accountability, and democracy in decision-making, and to ensure that the needs and perspectives of all stakeholders are taken into account.
 - **Public-private partnership (PPP)**: refers to a contractual agreement between a government or public entity and a private sector entity, in which the two parties collaborate to deliver a project or service that would traditionally be provided by the public sector alone. PPPs typically involve a private sector partner that designs, builds, finances, operates, and/or maintains a public infrastructure project or delivers a public service, while the public partner retains ownership and oversight of the project or service. PPPs are often used to deliver large-scale infrastructure projects, such as highways, airports, and water treatment plants, as well as social services, such as healthcare, education, and affordable housing.
 
