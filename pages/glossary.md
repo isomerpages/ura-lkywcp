@@ -10,7 +10,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **Directory**
 
-\| [A](#stage-a-nominations) \| [B](#stage-b-submissions) \|  [C](#announcement-and-award)
+[A](#a) \| [B](#b) \| [C](#c) \| [D](#d) \| [E](#e) \| [F](#f) \| [G](#g) \| [H](#h) \| [I](#i)
 
 ---
 
@@ -65,7 +65,7 @@ The following are some guiding points for the recommendation letter:
 
 The recomendation letter should preferably be around 600 words.
 
-[Back to top](#sections)
+[Back to top](#directory)
 
 ---
 
@@ -112,7 +112,7 @@ The demonstration projects should illustrate the success of the city's overall m
 
 Demonstration projects can either be fully or partially completed. The completed phase(s) should sufficiently demonstrate the efficacy of the project, i.e. there should be some quantifiable or observable results. The will allow the jurors to make a fair evaluation of the project.
 
-[Back to top](#sections)
+[Back to top](#directory)
 
 ---
 
@@ -134,7 +134,7 @@ The Prize Laureate and Special Mentions(s) will be invited to share their achiev
 
 The next edition of World Cities Summit (WCS) will be held in June 2024 (exact dates to be announced) in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
-[Back to top](#sections)
+[Back to top](#directory)
 
 ---
 
