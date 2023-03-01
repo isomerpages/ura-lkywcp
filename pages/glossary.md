@@ -75,6 +75,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **I**
+
+- **Internet of Things (IoT)**: refers to the interconnected network of physical devices, vehicles, appliances, and other objects that are embedded with sensors, software, and network connectivity, allowing them to exchange data and communicate with each other and with humans.
+
+[Back to top](#directory)
+
+---
+
 #### **K**
 
 - **Key strategies/actions**: refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
@@ -133,6 +141,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 - **Renewables**: _(short for renewable energy sources)_ refer to energy sources that are replenished naturally and can be used to generate electricity or heat without depleting finite resources. These sources of energy include solar, wind, geothermal, hydro, tidal, and biomass.
 - **Replicability**: refers to the ability of a project, programme, or intervention to be successfully replicated or reproduced in other contexts or locations. In other words, if a project or programme is replicable, it can be adapted and implemented elsewhere with similar outcomes and impacts.
 - **Resiliency**: refers to the ability of an individual, community, or system to cope, adapt, and bounce back from adversity, stress, or difficult situations. It is the capacity to recover from challenges and setbacks, and to maintain a positive outlook and sense of purpose despite obstacles.
+- **Rural-urban migration**: refers to the movement of people from rural areas to urban areas in search of employment, better living conditions, and other opportunities. This process is driven by economic and social factors, such as industrialisation, urbanisation, and demographic changes, and can have significant impacts on both rural and urban communities.
 
 [Back to top](#directory)
 
