@@ -115,7 +115,7 @@ The demonstration projects should illustrate the success of the city's overall m
 
 Demonstration projects can either be fully or partially completed. The completed phase(s) should sufficiently demonstrate the efficacy of the project, i.e. there should be some quantifiable or observable results. The will allow the jurors to make a fair evaluation of the project.
 
-#### **I do not understand a certain term.**
+#### **Where can I find the definitions to certain terms used in the Stage B report?**
 
 Please refer to the [glossary of terms](/glossary/) for a list of definitions.
 
