@@ -49,6 +49,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **D**
 
 - **Daily commute**: refers to the regular travel that people undertake between their home and workplace or school. It is the journey that people make on a daily basis as part of their routine to reach their destination.
+- **Decarbonise**: means to reduce or eliminate carbon emissions from various sources such as industries, transportation, and buildings by transitioning to cleaner energy sources and adopting sustainable practices to mitigate climate change and promote environmental sustainability. _See also "low carbon"_
 - **Digital divide**: refers to the gap between those who have access to digital technologies and those who do not. This can include access to the internet, ownership of digital devices, and proficiency in using them. Those without access or skills may face significant disadvantages in education, employment, and social participation.
 - **Disaster mitigation**: refers to the actions and strategies taken to reduce or prevent the adverse impacts of natural or human-made disasters. This includes efforts to identify potential hazards and vulnerabilities, develop plans and protocols for responding to disasters, and implement measures to minimise their impact.
 
@@ -88,6 +89,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **K**
 
 - **Key strategies/actions**: refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
+- **Knowledge economy**: refers to an economic system where the production, distribution, and consumption of goods and services are based on knowledge-intensive activities that require high levels of expertise, creativity, and information technology, leading to innovation, competitiveness, and sustainable growth.
 
 [Back to top](#directory)
 
