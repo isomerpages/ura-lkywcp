@@ -14,6 +14,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **C**
+
+- **Climate change adaptation**: refers to the actions and strategies taken to prepare for and respond to the impacts of climate change, such as rising temperatures, sea level rise, and more frequent and severe weather events. Adaptation measures aim to reduce the vulnerability of individuals, communities, and ecosystems to the impacts of climate change and to build resilience to future changes. 
+
+[Back to top](#directory)
+
+---
+
 #### **D**
 
 - **Daily commute**: refers to the regular travel that people undertake between their home and workplace or school. It is the journey that people make on a daily basis as part of their routine to reach their destination.
