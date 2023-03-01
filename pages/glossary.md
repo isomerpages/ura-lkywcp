@@ -14,6 +14,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **D**
+
+- **Daily commute**: refers to the regular travel that people undertake between their home and workplace or school. It is the journey that people make on a daily basis as part of their routine to reach their destination.
+
+[Back to top](#directory)
+
+---
+
 #### **G**
 
 - **Green space**:  refers to publicly accesible areas of land that are covered by vegetation, such as trees, shrubs and grass, and typically includes parks, gardens, forests or other natural landscapes. Its  intent is to positively impact physical, mental and psychological health and well-being of the community while also enhancing the environmental quality. 
