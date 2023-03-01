@@ -158,6 +158,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **T**
 
 - **Transit-oriented development (TOD)**: refers to a planning approach that prioritises mixed-use development around public transportation infrastructure, such as train or bus stations. The aim is to create walkable, bike-friendly neighborhoods that reduce automobile dependency and increase access to affordable housing, employment, and amenities.
+- **Transparency**: _(in the context of a city)_ refers to the accessibility and availability of information and decision-making processes to the public. This includes open and accountable governance, clear communication channels, and easy access to public data and records.
 
 [Back to top](#directory)
 
