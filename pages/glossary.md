@@ -54,6 +54,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **R**
+
+- **Resiliency**: refers to the ability of an individual, community, or system to cope, adapt, and bounce back from adversity, stress, or difficult situations. It is the capacity to recover from challenges and setbacks, and to maintain a positive outlook and sense of purpose despite obstacles.
+
+[Back to top](#directory)
+
+---
+
 #### **S**
 
 - **Social integration strategies**: refer to tactics or approaches that aim to promote social integration or the inclusion of individuals from diverse backgrounds into a society. Examples include education and awareness programmes, cross-cultural events, access to basic necessities, inclusive policies, community-based programmes, etc. These strategies aim to break down social barriers and create a more inclusive and cohesive society by promoting cross-cultural understanding, respect, and acceptance.
