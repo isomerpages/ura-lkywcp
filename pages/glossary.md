@@ -14,6 +14,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **B**
+
+- **Brownfield development**: refers to the redevelopment of abandoned, derelict, or contaminated land for new uses. This can include the cleanup and reuse of former industrial sites, commercial properties, or other abandoned or underutilised parcels of land.
+
+[Back to top](#directory)
+
+---
+
 #### **C**
 
 - **Changing demographics**: refers to shifts in the population characteristics of a city over time. This can include changes in the age, race, ethnicity, gender, income level, and education level of the population. Demographic changes can be driven by a variety of factors, including immigration patterns, birth rates, mortality rates, and migration within the country.
@@ -35,6 +43,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **E**
 
+- **E-governance, or electronic governance**: refers to the use of information and communication technologies (ICTs) to improve and streamline the delivery of government services and information to citizens.
 - **Energy efficiency**: refers to the use of technologies, practices, and systems that reduce the amount of energy required to perform a given task or function. It involves optimising the use of energy resources by minimising waste, improving efficiency, and reducing environmental impacts.
 - **Energy transition**: refers to the shift from traditional, fossil fuel-based energy systems to more sustainable and low-carbon alternatives. It involves a fundamental transformation of the energy sector, including the production, distribution, and consumption of energy.
 
@@ -88,6 +97,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **P**
 
+- **Participatory planning**: refers to an approach in urban planning and development that emphasises the active involvement of community members, stakeholders, and other interested parties in the planning process. Its goal is to promote greater transparency, accountability, and democracy in decision-making, and to ensure that the needs and perspectives of all stakeholders are taken into account.
 - **Public-private partnership (PPP)**: refers to a contractual agreement between a government or public entity and a private sector entity, in which the two parties collaborate to deliver a project or service that would traditionally be provided by the public sector alone. PPPs typically involve a private sector partner that designs, builds, finances, operates, and/or maintains a public infrastructure project or delivers a public service, while the public partner retains ownership and oversight of the project or service. PPPs are often used to deliver large-scale infrastructure projects, such as highways, airports, and water treatment plants, as well as social services, such as healthcare, education, and affordable housing.
 
 [Back to top](#directory)
@@ -105,6 +115,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **R**
 
 - **Renewables**: _(short for renewable energy sources)_ refer to energy sources that are replenished naturally and can be used to generate electricity or heat without depleting finite resources. These sources of energy include solar, wind, geothermal, hydro, tidal, and biomass.
+- **Replicability**: refers to the ability of a project, programme, or intervention to be successfully replicated or reproduced in other contexts or locations. In other words, if a project or programme is replicable, it can be adapted and implemented elsewhere with similar outcomes and impacts.
 - **Resiliency**: refers to the ability of an individual, community, or system to cope, adapt, and bounce back from adversity, stress, or difficult situations. It is the capacity to recover from challenges and setbacks, and to maintain a positive outlook and sense of purpose despite obstacles.
 
 [Back to top](#directory)
@@ -126,6 +137,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **U**
 
+- **Universal design**: refers to the application of universal design principles to the design and planning of public spaces, buildings, transportation systems, and other urban infrastructure. Its goal is to create an inclusive and accessible environment that accommodates the needs of all individuals, including those with disabilities and seniors.
 - **Urban initiatives**: refer to specific projects, programmes, or policies that are implemented to address the unique challenges and opportunities faced by the city. These initiatives are designed to promote sustainable and equitable development, improve quality of life for residents, and enhance the economic, social, and environmental vitality of the city.
 - **Urban resilience**: refers to the ability of a city or urban area to prepare for, adapt to, and recover from shocks and stresses, such as natural disasters, economic crises, or social upheavals, while maintaining essential functions and services for its residents. 
 - **Urban transformation**: refers to the process of significant change and redevelopment that occurs in urban areas over time. This can include physical, economic, social, and environmental changes that result in the transformation of a city's built environment, economy, and social fabric.
