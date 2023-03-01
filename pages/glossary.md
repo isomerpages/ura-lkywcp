@@ -38,6 +38,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **M**
+
+- **Modal split**: refers to the distribution of passenger transportation demand among different modes of transport, such as cars, buses, trains, bicycles, or walking. It is the percentage of people who choose to use a particular mode of transportation for a given trip or purpose.
+
+[Back to top](#directory)
+
+---
+
 #### **N**
 
 - **Non-native population**: refers to a group of people who have migrated to the city from a different region or country and may have different cultural, linguistic, or ethnic backgrounds from those who were born in the city. They may include immigrants, refugees and/or long- or short-term workers.
