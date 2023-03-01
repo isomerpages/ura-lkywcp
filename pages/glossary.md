@@ -45,6 +45,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **D**
 
 - **Daily commute**: refers to the regular travel that people undertake between their home and workplace or school. It is the journey that people make on a daily basis as part of their routine to reach their destination.
+- **Digital divide**: refers to the gap between individuals or groups who have access to digital technologies and those who do not. Examples include access to the internet, ownership of digital devices such as computers and smartphones, and proficiency in using digital technologies. The digital divide can be influenced by various factors, such as income, education level, geography, and social status. Those who lack access to digital technologies and the skills to use them effectively may experience significant disadvantages in areas such as education, employment, and social participation.
 - **Disaster mitigation**: refers to the actions and strategies taken to reduce or prevent the adverse impacts of natural or human-made disasters. This includes efforts to identify potential hazards and vulnerabilities, develop plans and protocols for responding to disasters, and implement measures to minimise their impact.
 
 [Back to top](#directory)
@@ -134,6 +135,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **S**
 
+- **Slow urbanism**: refers to an urban planning and design philosophy that emphasises the importance of creating cities that prioritise people, community, and the environment over the speed and efficiency of transportation and commerce. 
 - **Smart city initiatives**: refer to efforts by cities to use digital technology and data to improve the efficiency, sustainability, and livability of urban environments. Smart city initiatives can take many different forms, including the deployment of sensors and other connected devices to collect data on traffic, air quality, energy use, and other aspects of urban life.
 - **Social equity**: refers to the concept of fairness and justice in the distribution of resources, opportunities, and benefits among individuals and groups within a society. It involves ensuring that everyone has equal access to the opportunities and resources needed to succeed and thrive, regardless of their race, ethnicity, gender, socio-economic status, or other characteristics.
 - **Social integration strategies**: refer to tactics or approaches that aim to promote social integration or the inclusion of individuals from diverse backgrounds into a society. Examples include education and awareness programmes, cross-cultural events, access to basic necessities, inclusive policies, community-based programmes, etc. These strategies aim to break down social barriers and create a more inclusive and cohesive society by promoting cross-cultural understanding, respect, and acceptance.
