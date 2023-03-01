@@ -176,6 +176,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **T**
 
+- **Tactical/guerilla/pop-up urbanism**: refers to a grassroots approach to urban planning and design that involves citizens in temporary, low-cost, and scalable interventions, such as parklets, pop-up markets, and bike lanes, to transform public spaces and test new ideas for urban improvements that are quick, flexible, and responsive to local needs.
 - **Transit-oriented development (TOD)**: refers to a planning approach that prioritises mixed-use development around public transportation infrastructure, such as train or bus stations. The aim is to create walkable, bike-friendly neighborhoods that reduce automobile dependency and increase access to affordable housing, employment, and amenities.
 - **Transparency**: _(in the context of a city)_ refers to the accessibility and availability of information and decision-making processes to the public. This includes open and accountable governance, clear communication channels, and easy access to public data and records.
 
