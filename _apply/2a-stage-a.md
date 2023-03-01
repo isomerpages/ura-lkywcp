@@ -50,6 +50,7 @@ If the form below is not loaded, [access the external form](https://form.gov.sg/
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
+- [Glossary of terms](/glossary/)
 - [Contact us](/feedback/)
 
 ---
