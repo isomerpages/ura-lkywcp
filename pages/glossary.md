@@ -33,6 +33,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **C**
 
 - **Changing demographics**: refers to shifts in the population characteristics of a city over time. This can include changes in the age, race, ethnicity, gender, income level, and education level of the population. Demographic changes can be driven by a variety of factors, including immigration patterns, birth rates, mortality rates, and migration within the country.
+- **Circular economy**: refers to an economic system designed to minimise waste and maximise the use of resources by keeping materials in use and regenerating natural systems. It aims to create a closed-loop system where waste is minimised, resources are conserved, and sustainability is prioritised.
 - **City beautification**: refers to the efforts and initiatives taken to improve the aesthetic appeal, functionality, and overall appearance of a city or urban area. Examples include cleaning up litter and graffiti, planting trees and flowers, installing public art, etc. Its goal is to make the urban environment more attractive, inviting, and enjoyable for residents and visitors alike, while also enhancing the quality of life and sense of community in the area.
 - **City manager**: _(in the context of a city's governance structure)_ refers to a professional administrator appointed by the city council or other elected officials to manage the day-to-day operations of a city government. City managers are responsible for overseeing the implementation of policies and programs established by the city council, as well as managing the city's budget, personnel, and resources.
 - **Climate change adaptation**: refers to the actions and strategies taken to prepare for and respond to the impacts of climate change, such as rising temperatures, sea level rise, and more frequent and severe weather events. Adaptation measures aim to reduce the vulnerability of individuals, communities, and ecosystems to the impacts of climate change and to build resilience to future changes. 
@@ -163,6 +164,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **V**
 
+- **Vibrancy**: _(in the context of a city)_ refers to the energy, liveliness, and activity that makes it an attractive and engaging place to live, work, and visit. It is characterised by a diverse mix of people, cultures, and activities, and an abundance of social, cultural, and economic opportunities.
 - **Vulnerable groups**: refer to populations that are at greater risk of harm or disadvantage due to their social, economic, or physical circumstances. These groups may face discrimination, exclusion, or marginalisation in society, and may have limited access to resources, opportunities, and services that are necessary for their well-being.
 
 [Back to top](#directory)
