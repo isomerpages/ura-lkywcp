@@ -16,6 +16,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **C**
 
+- **City manager**: _(in the context of a city's governance structure)_ refers to a professional administrator appointed by the city council or other elected officials to manage the day-to-day operations of a city government. City managers are responsible for overseeing the implementation of policies and programs established by the city council, as well as managing the city's budget, personnel, and resources.
 - **Climate change adaptation**: refers to the actions and strategies taken to prepare for and respond to the impacts of climate change, such as rising temperatures, sea level rise, and more frequent and severe weather events. Adaptation measures aim to reduce the vulnerability of individuals, communities, and ecosystems to the impacts of climate change and to build resilience to future changes. 
 - **Commission**: _(in the context of a city's governance structure)_ refers to a body of individuals appointed or elected to oversee a specific area of city government or public service. Commissions can have a variety of responsibilities and powers, ranging from advisory roles to decision-making authority.
 
