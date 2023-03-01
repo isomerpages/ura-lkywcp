@@ -63,6 +63,14 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **P**
+
+- **Public-private partnership (PPP)**: refers to a contractual agreement between a government or public entity and a private sector entity, in which the two parties collaborate to deliver a project or service that would traditionally be provided by the public sector alone. PPPs typically involve a private sector partner that designs, builds, finances, operates, and/or maintains a public infrastructure project or delivers a public service, while the public partner retains ownership and oversight of the project or service. PPPs are often used to deliver large-scale infrastructure projects, such as highways, airports, and water treatment plants, as well as social services, such as healthcare, education, and affordable housing.
+
+[Back to top](#directory)
+
+---
+
 #### **R**
 
 - **Resiliency**: refers to the ability of an individual, community, or system to cope, adapt, and bounce back from adversity, stress, or difficult situations. It is the capacity to recover from challenges and setbacks, and to maintain a positive outlook and sense of purpose despite obstacles.
