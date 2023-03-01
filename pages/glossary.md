@@ -48,6 +48,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **M**
 
+- **Master plan/strategy**: refers to a comprehensive and long-term plan that sets out a vision, goals, and policies for the future development and growth of a city or urban area. The master plan/strategy typically covers a range of topics, including land use, transportation, housing, public spaces, infrastructure, and environmental sustainability.
 - **Modal split**: refers to the distribution of passenger transportation demand among different modes of transport, such as cars, buses, trains, bicycles, or walking. It is the percentage of people who choose to use a particular mode of transportation for a given trip or purpose.
 
 [Back to top](#directory)
