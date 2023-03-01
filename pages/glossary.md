@@ -10,7 +10,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **Directory**
 
-[A](#a) \| [B](#b) \| [C](#c) \| [D](#d) \| [E](#e) \| [G](#g) \| [I](#i) \| [K](#k) \| [L](#l) \| [M](#m) \| [N](#n) \| [P](#p) \| [Q](#q) \| [R](#r) \| [S](#s) \| [T](#t) \| [U](#u) \| [V](#v) \| [W](#w)
+[A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [G](#g) • [I](#i) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w)
 
 ---
 
