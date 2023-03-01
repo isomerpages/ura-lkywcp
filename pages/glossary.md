@@ -164,4 +164,12 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **W**
+
+- **Waste management**: refers to the processes and systems that are in place to collect, transport, treat, and dispose of waste generated within the city's boundaries. This includes household waste, commercial and industrial waste, and hazardous waste.
+
+[Back to top](#directory)
+
+---
+
 Something missing? [Contact us](/feedback/). 
