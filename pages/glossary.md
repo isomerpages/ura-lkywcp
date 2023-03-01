@@ -62,4 +62,11 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 ---
 
+#### **U**
+
+- **Urban resilience**: refers to the ability of a city or urban area to prepare for, adapt to, and recover from shocks and stresses, such as natural disasters, economic crises, or social upheavals, while maintaining essential functions and services for its residents. 
+
+[Back to top](#directory)
+---
+
 For other enquiries, please [contact us](/feedback/). 
