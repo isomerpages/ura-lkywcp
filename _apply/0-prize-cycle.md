@@ -22,4 +22,5 @@ description: Stage A nominations are extended to 31 May 2023! Nominate your city
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
+- [Glossary of terms](/glossary/)
 - [Contact us](/feedback/)
