@@ -49,7 +49,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **D**
 
 - **Daily commute**: refers to the regular travel that people undertake between their home and workplace or school. It is the journey that people make on a daily basis as part of their routine to reach their destination.
-- **Decarbonise**: means to reduce or eliminate carbon emissions from various sources such as industries, transportation, and buildings by transitioning to cleaner energy sources and adopting sustainable practices to mitigate climate change and promote environmental sustainability. _See also "low carbon"_
+- **Decarbonise**: means to reduce or eliminate carbon emissions from various sources such as industries, transportation, and buildings by transitioning to cleaner energy sources and adopting sustainable practices to mitigate climate change and promote environmental sustainability. _See also: low carbon_
 - **Digital divide**: refers to the gap between those who have access to digital technologies and those who do not. This can include access to the internet, ownership of digital devices, and proficiency in using them. Those without access or skills may face significant disadvantages in education, employment, and social participation.
 - **Disaster mitigation**: refers to the actions and strategies taken to reduce or prevent the adverse impacts of natural or human-made disasters. This includes efforts to identify potential hazards and vulnerabilities, develop plans and protocols for responding to disasters, and implement measures to minimise their impact.
 
@@ -90,7 +90,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **K**
 
-- **Key strategies/actions**: refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
+- **Key strategies/actions**: _(in the context of a ciy's master plan/strategy or urban initiatives)_ refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
 - **Knowledge economy**: refers to an economic system where the production, distribution, and consumption of goods and services are based on knowledge-intensive activities that require high levels of expertise, creativity, and information technology, leading to innovation, competitiveness, and sustainable growth.
 
 [Back to top](#directory)
@@ -101,7 +101,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 - **Legalised housing**: refers to housing that has been formally recognised and approved by relevant authorities, such as the government, as meeting the legal requirements for housing. This means that the housing meets specific standards and regulations regarding safety, health, and habitability.
 - **Liveability**: refers to the quality of life and well-being of individuals and communities within a particular environment. Factors that contribute to liveability include access to essential services, amenities, and public spaces, as well as social, economic, and environmental conditions that support a healthy and fulfilling lifestyle.
-- **Low carbon**: refers to practices, technologies, or systems that produce a relatively low amount of carbon emissions, typically in the context of energy production and use. This includes the use of renewable energy sources, energy efficiency improvements, and the adoption of low-emission technologies and practices.
+- **Low carbon**: refers to practices, technologies, or systems that produce a relatively low amount of carbon emissions, typically in the context of energy production and use. This includes the use of renewable energy sources, energy efficiency improvements, and the adoption of low-emission technologies and practices. _See also: decarbonise_
 
 [Back to top](#directory)
 
@@ -149,7 +149,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 #### **R**
 
 - **Renewables**: _(short for renewable energy sources)_ refer to energy sources that are replenished naturally and can be used to generate electricity or heat without depleting finite resources. These sources of energy include solar, wind, geothermal, hydro, tidal, and biomass.
-- **Replicability**: refers to the ability of a project, programme, or intervention to be successfully replicated or reproduced in other contexts or locations. In other words, if a project or programme is replicable, it can be adapted and implemented elsewhere with similar outcomes and impacts.
+- **Replicability**: _(in the context of Stage B demonstration projects)_ refers to the ability of a project, programme, or intervention to be successfully replicated or reproduced in other contexts or locations. In other words, if a project or programme is replicable, it can be adapted and implemented elsewhere with similar outcomes and impacts.
 - **Resiliency**: refers to the ability of an individual, community, or system to cope, adapt, and bounce back from adversity, stress, or difficult situations. It is the capacity to recover from challenges and setbacks, and to maintain a positive outlook and sense of purpose despite obstacles.
 - **Rural-urban migration**: refers to the movement of people from rural areas to urban areas in search of employment, better living conditions, and other opportunities. This process is driven by economic and social factors, such as industrialisation, urbanisation, and demographic changes, and can have significant impacts on both rural and urban communities.
 
@@ -186,7 +186,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **U**
 
-- **Universal design**: refers to the application of universal design principles to the design and planning of public spaces, buildings, transportation systems, and other urban infrastructure. Its goal is to create an inclusive and accessible environment that accommodates the needs of all individuals, including those with disabilities and seniors.
+- **Universal design**: _(in the context of a city)_ refers to the application of universal design principles to the design and planning of public spaces, buildings, transportation systems, and other urban infrastructure. Its goal is to create an inclusive and accessible environment that accommodates the needs of all individuals, including those with disabilities and seniors.
 - **Urban acupuncture**: refers to an urban planning and design approach that uses small-scale interventions to revitalise neglected or underutilised areas of a city. These interventions are strategically placed to stimulate positive social and economic change and improve the overall health of the community.
 - **Urban agriculture**: refers to the practice of growing, processing, and distributing food in or near urban areas. This can include traditional farming practices such as cultivating crops, raising livestock, and harvesting fish, as well as newer techniques such as hydroponics, aquaponics, and rooftop gardening.
 - **Urban initiatives**: refer to specific projects, programmes, or policies that are implemented to address the unique challenges and opportunities faced by the city. These initiatives are designed to promote sustainable and equitable development, improve quality of life for residents, and enhance the economic, social, and environmental vitality of the city.
