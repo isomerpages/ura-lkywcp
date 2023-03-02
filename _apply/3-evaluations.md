@@ -29,5 +29,6 @@ The results will be announced via a dedicated media conference held in Singapore
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
+- [Glossary of terms](/glossary/)
 - [Contact us](/feedback/)
 
