@@ -33,7 +33,7 @@ sections:
     - infopic:    
         title: Lisbon making a comeback
         subtitle: Featured article
-        description: Find out how Lisbon demonstrates resilience despite constraints
+        description: Find out how Lisbon showed resilience in the face of challenges and constraints
         button: Feature story
         url: /resources/features/lisbon-resurgence/
         image: /images/features/2023/lisbon-plaza.jpg
