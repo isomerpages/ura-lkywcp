@@ -31,13 +31,13 @@ sections:
         image: /images/features/2023/cfn-extended.gif/
         alt: Call for nominations
     - infopic:    
-        title: Boston's collective effort
+        title: Lisbon making a comeback
         subtitle: Featured article
-        description: Learn how Boston transformed itself with its people & partners 
+        description: Find out how Lisbon demonstrates resilience despite constraints
         button: Feature story
-        url: /resources/features/reimagining-boston/
-        image: /images/features/2023/boston-city1.jpg
-        alt: Boston
+        url: /resources/features/lisbon-resurgence/
+        image: /images/features/2023/lisbon-plaza.jpg
+        alt: Lisbon
     - infopic:    
         title: Stimulating changes big & small
         subtitle: Photo essay
