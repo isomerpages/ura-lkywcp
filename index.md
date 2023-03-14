@@ -39,9 +39,9 @@ sections:
         image: /images/features/2023/lisbon-plaza.jpg
         alt: Lisbon
     - infopic:    
-        title: Lisbon in pictures – creative urban projects
+        title: A pictorial of Lisbon's creative urban projects
         subtitle: Photo essay
-        description: Lens on Lisbon – See the city's innovative urban regeneration in pictures
+        description: Lens on Lisbon – see the city's innovative urban regeneration in pictures
         button: Photo essay
         url: /resources/in-pictures/lisbon/
         image: /images/features/2023/maat.jpg/
