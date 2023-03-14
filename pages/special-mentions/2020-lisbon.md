@@ -42,6 +42,11 @@ Lisbon demonstrates resilience in the face of adversity to overcome limitations 
 ##### **Features** 
 
 | [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
+| [From slump to success – Lisbon’s resurgence](/resources/features/lisbon-resurgence/) |
+
+##### **In pictures** 
+
+| [Lisbon in pictures – creative urban projects](/resources/in-pictures/lisbon/) |
 
 ---
 
