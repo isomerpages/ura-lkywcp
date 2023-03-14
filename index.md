@@ -39,13 +39,13 @@ sections:
         image: /images/features/2023/lisbon-plaza.jpg
         alt: Lisbon
     - infopic:    
-        title: Stimulating changes big & small
+        title: A pictorial of Lisbon's creative urban projects
         subtitle: Photo essay
-        description: Let's look at Boston’s urban transformation, big and small.
+        description: Lens on Lisbon - See the city's urban regeneration in pictures
         button: Photo essay
-        url: /resources/in-pictures/boston/
-        image: /images/features/2023/bruce-c-bolling-after2.jpg/
-        alt: Boston
+        url: /resources/in-pictures/lisbon/
+        image: /images/features/2023/maat.jpg/
+        alt: Lisbon
     - infobar:    
         title: 📩
         subtitle: 
