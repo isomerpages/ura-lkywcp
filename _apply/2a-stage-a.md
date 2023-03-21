@@ -11,7 +11,7 @@ description: Nominations for the 2024 Prize are now open!
 
 Nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
 
-- [Stage A Nomination Form](#stage-a-nomination-form)
+- [Stage A Nomination Form](#nomination-form)
 
 #### **Interested cities – please read the following**
 
@@ -37,7 +37,7 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 **<mark>There is no entry fee required.</mark>**
 
-#### **Stage A Nomination Form**
+#### **Nomination Form**
 
 If the form below is not loaded, [access the external form](https://form.gov.sg/62e4f365140cd3001168b367).
 
