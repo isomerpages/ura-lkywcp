@@ -9,7 +9,7 @@ description: Nominations for the 2024 Prize are now open!
 
 #### **Instructions**
 
-Nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
+Nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/). 
 
 - [Stage A Nomination Form](#nomination-form)
 
