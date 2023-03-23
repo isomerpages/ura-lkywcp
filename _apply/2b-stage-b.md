@@ -42,11 +42,11 @@ Having issues downloading the files? [Contact us](/feedback/)
 
 #### **Digital submissions only**
 
-1. Complete the [Stage B documents](#stage-b-submission)
+1. Complete the [Stage B documents](#stage-b-submission).
 2. Upload the documents to a cloud service, e.g., [WeTransfer](https://wetransfer.com/), [Google Drive](https://www.google.com/drive/), [Dropbox](https://www.dropbox.com/), etc. 
 3. Address to [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg). 
 
-All submissions must be sent by **31 May 2023, 6pm (+8 GMT Singapore Time)**. Please do not submit any physcial documents as they will not be used for evaluations. 
+All submissions must be sent by **31 May 2023, 6pm (+8 GMT Singapore Time)**. Please do not submit any physical materials as they will not be used for evaluations. 
 
 #### **The fine print**
 
