@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 1 February 2023 |
+| 8 February 2023 |
 
 #### **Sections**
 
@@ -115,6 +115,10 @@ The demonstration projects should illustrate the success of the city's overall m
 
 Demonstration projects can either be fully or partially completed. The completed phase(s) should sufficiently demonstrate the efficacy of the project, i.e. there should be some quantifiable or observable results. The will allow the jurors to make a fair evaluation of the project.
 
+#### **Where can I find the definitions to certain terms used in the Stage B report?**
+
+Please refer to the [glossary of terms](/glossary/) for a list of definitions.
+
 [Back to top](#sections)
 
 ---
@@ -135,7 +139,7 @@ The Prize Laureate and Special Mentions(s) will be invited to share their achiev
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-The next edition of World Cities Summit (WCS) will be held in July/August 2024 in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+The next edition of World Cities Summit (WCS) will be held in June 2024 (exact dates to be announced) in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 [Back to top](#sections)
 

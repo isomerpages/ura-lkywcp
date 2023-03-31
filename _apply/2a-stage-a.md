@@ -3,12 +3,15 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/stage-a-nominations.jpg
-description: Cities interested to apply for the Prize shall approach an independent third party (nominator) to nominate them. 
+description: Nominations for the 2024 Prize are now open!
+
 ---
 
 #### **Instructions**
 
-The nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/).
+Nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/). 
+
+- [Stage A Nomination Form](#nomination-form)
 
 #### **Interested cities – please read the following**
 
@@ -25,7 +28,7 @@ Cities interested to participate shall approach an independent third party (nomi
 
 #### **Nominators – please read the following**
 
-Please ensure that the city or cities that you are intending to nominate agree(s) to participate in the Prize. Please write and attach a short recommendation letter (*around 600 words*) together with the [nomination form](#nomination-form) to support why the city that you are nominating should win the Prize, covering aspects such as: 
+Please ensure that the city or cities that you are intending to nominate agree(s) to participate in the Prize. Please write and attach a short recommendation letter (*around 600 words*) together with the [Nomination Form](#stage-a-nomination-form) to support why the city that you are nominating should win the Prize, covering aspects such as: 
 
 - Outstanding leadership and governance
 - Successful urban transformation
@@ -34,7 +37,7 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 **<mark>There is no entry fee required.</mark>**
 
-#### **Nomination form**
+#### **Nomination Form**
 
 If the form below is not loaded, [access the external form](https://form.gov.sg/62e4f365140cd3001168b367).
 
@@ -47,6 +50,7 @@ If the form below is not loaded, [access the external form](https://form.gov.sg/
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
+- [Glossary of terms](/glossary/)
 - [Contact us](/feedback/)
 
 ---

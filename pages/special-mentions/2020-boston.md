@@ -44,6 +44,11 @@ Overall, Boston’s foresight in resilience leads the way, and urges other water
 ##### **Features** 
 
 | [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
+| [Reimagining Boston – a collective effort](/resources/features/reimagining-boston/) |
+
+##### **In pictures** 
+
+| [Stimulating changes big and small](/resources/in-pictures/boston/) |
 
 ---
 

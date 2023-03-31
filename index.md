@@ -13,8 +13,8 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Nominations closing soon!
-              description: 
+            - title: Stage A nominations extended!
+              description: Nominate your city today
               url: /stage-a/
     - infobar:    
         title: 
@@ -23,29 +23,29 @@ sections:
         button: About the Prize
         url: /about-the-prize/
     - infopic:    
-        title: Boston's collective effort
-        subtitle: Featured article
-        description: Learn how Boston transformed itself with its people & partners 
-        button: Feature story
-        url: /resources/features/reimagining-boston/
-        image: /images/features/2023/boston-city1.jpg
-        alt: Boston
-    - infopic:    
-        title: Stimulating changes big & small
-        subtitle: Photo essay
-        description: Let's look at Boston’s urban transformation, big and small.
-        button: Photo essay
-        url: /resources/in-pictures/boston/
-        image: /images/features/2023/bruce-c-bolling-after2.jpg/
-        alt: Boston
-    - infopic:    
-        title: Nominations closing soon!
+        title: Stage A nominations extended!
         subtitle: Be the next Prize Laureate
-        description: Apply now and be a part of shaping the future of urban living! 
+        description: Stage A nominations extended to 31 May 2023. 
         button: Nominate today
         url: /stage-a/
-        image: /images/features/2022/call-for-nominations.gif/
+        image: /images/features/2023/cfn-extended.gif/
         alt: Call for nominations
+    - infopic:    
+        title: Lisbon making a comeback
+        subtitle: Featured article
+        description: Find out how Lisbon showed resilience in the face of challenges and constraints
+        button: Feature story
+        url: /resources/features/lisbon-resurgence/
+        image: /images/features/2023/lisbon-plaza.jpg
+        alt: Lisbon
+    - infopic:    
+        title: A pictorial of Lisbon's creative urban projects
+        subtitle: Photo essay
+        description: Lens on Lisbon – see the city's innovative urban regeneration in pictures
+        button: Photo essay
+        url: /resources/in-pictures/lisbon/
+        image: /images/features/2023/maat.jpg/
+        alt: Lisbon
     - infobar:    
         title: 📩
         subtitle: 
