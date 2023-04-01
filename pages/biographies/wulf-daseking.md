@@ -1,6 +1,7 @@
 ---
 title: Biography — Wulf Daseking
 permalink: /wulf-daseking/
+published: false
 ---
 
 <div style="width:150px"><img src="/images/jury/wulf-daseking.png" alt="Wulf Daseking" /></div>
