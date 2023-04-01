@@ -25,7 +25,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td><br><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /><br></td>
+<td style="width: 150px;"><br><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /><br></td>
 <td><br><strong>Mr <u>Lim</u> Eng Hwee</strong><br />Chief Executive Officer<br />Urban Redevelopment Authority<br />Singapore<br><a href="/lim-eng-hwee/">Biography</a></td>
 </tr>
 <tr>
