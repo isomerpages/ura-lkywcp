@@ -1,6 +1,7 @@
 ---
 title: Biography — Helen Clark
 permalink: /helen-clark/
+published: false
 ---
 
 <div style="width:150px"><img src="/images/jury/helen-clark.png" alt="Helen Clark" /></div>
