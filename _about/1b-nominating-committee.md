@@ -9,7 +9,7 @@ description: The Nominating Committee reviews and examines submissions, and reco
 
 The Nominating Committee reviews and examines submissions, and recommends potential Laureates to the [Prize Council](/prize-council/).
 
-#### **Chair of the Nominating Committee 2020**
+#### **Chair of the Nominating Committee 2024**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
