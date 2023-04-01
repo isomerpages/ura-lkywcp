@@ -20,7 +20,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 </tbody>
 </table>
 
-#### **Members of the Nominating Committee 2020**
+#### **Members of the Nominating Committee 2024**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
