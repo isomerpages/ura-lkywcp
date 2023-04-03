@@ -35,7 +35,11 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <tr>
 <td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
 <td><br><strong>Mr Ilmar <u>Reepalu</u></strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/ilmar-reepalu/">Biography</a></td>
-</tr> 
+</tr>
+<tr>
+<td><br><img src="/images/jury/maimunah-mohd-sharif.png" alt="Maimunah Mohd Sharif" /><br></td>
+<td><br><strong>Ms Maimunah Mohd <u>Sharif</u></strong><br />Executive Director<br />United Nations Human Settlements Programme (UN-Habitat)<br />Malaysia/Kenya<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
+</tr>
 </tbody>
 </table>
 
