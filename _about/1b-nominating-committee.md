@@ -26,7 +26,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 <tbody>
 <tr>
 <td style="width: 150px;"><br><img src="/images/jury/ricky-burdett.png" alt="Ricky Burdett" /><br></td>
-<td><br><strong>Prof Ricky <u>Burdett</u></strong><br />Professor of Urban Studies <br> Director of LSE Cities and Urban age<br />London School of Economics and Political Science<br />United Kingdom<br><a href="/ricky-burdett/">Biography</a></td>
+<td><br><strong>Prof Ricky <u>Burdett</u></strong><br />Professor of Urban Studies, Director of LSE Cities and Urban age<br />London School of Economics and Political Science<br />United Kingdom<br><a href="/ricky-burdett/">Biography</a></td>
 </tr>
 <tr>
 <td style="width: 150px;"><br><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /><br></td>
