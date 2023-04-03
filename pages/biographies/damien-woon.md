@@ -1,7 +1,7 @@
 ---
 title: Biography — Damien Woon
 permalink: /damien-woon/
-published: false
+published: true
 ---
 
 <div style="width:150px"><img src="/images/secretariat/damien-woon.png" alt="Damien Woon" /></div>
