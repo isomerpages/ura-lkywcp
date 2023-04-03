@@ -25,6 +25,10 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
+<td style="width: 150px;"><br><img src="/images/jury/ricky-burdett.png" alt="Ricky Burdett" /><br></td>
+<td><br><strong>Prof Ricky <u>Burdett</u></strong><br />Professor of Urban Studies <br> Director of LSE Cities and Urban age<br />London School of Economics and Political Science<br />United Kingdom<br><a href="/ricky-burdett/">Biography</a></td>
+</tr>
+<tr>
 <td style="width: 150px;"><br><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /><br></td>
 <td><br><strong>Mr <u>Lim</u> Eng Hwee</strong><br />Chief Executive Officer<br />Urban Redevelopment Authority<br />Singapore<br><a href="/lim-eng-hwee/">Biography</a></td>
 </tr>
