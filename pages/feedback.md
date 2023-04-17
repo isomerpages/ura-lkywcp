@@ -13,7 +13,7 @@ description: Questions? Feedback? Get in touch with the Prize Secretariat and we
 | **Email address** | [leekuanyew_worldcityprize@ura.gov.sg](mailto://leekuanyew_worldcityprize@ura.gov.sg) |
 | **YouTube** | [@leekuanyewworldcityprize](https://www.youtube.com/@leekuanyewworldcityprize/)
 | **Facebook** | [@leekuanyewworldcityprize](https://www.facebook.com/leekuanyewworldcityprize/)
-| **Instagram** | [@leekuanyew_worldcityprize](https://www.instagram.com/leekuanyew_worldcityprize) |
+| **Instagram** | [@leekuanyewworldcityprize](https://www.instagram.com/leekuanyewworldcityprize) |
 
 If the form below is not loaded, click [here](https://form.gov.sg/#!/5dca55f048e82f0012b1a3f8).
 
