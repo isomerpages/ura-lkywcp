@@ -9,7 +9,7 @@ description: The Prize Council reviews and selects the Prize Laureate based on t
 
 The Prize Council reviews and selects the Prize Laureate based on the recommendations by the [Nominating Committee](/nominating-committee/).
 
-#### **Chair of the Prize Council 2024**
+#### **Chair**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
@@ -20,7 +20,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 </tbody>
 </table>
 
-#### **Members of the Prize Council 2024**
+#### **Members**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
