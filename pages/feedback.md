@@ -5,7 +5,7 @@ image: /images/feedback.jpg
 description: Questions? Feedback? Get in touch with the Prize Secretariat and we will get back you.
 ---
 
-##### Questions? Feedback? Get in touch with the Prize Secretariat by filling up the form below and we will get back you.
+##### Questions? Feedback? Get in touch with the Prize Secretariat by filling up the [form](#feedback-form) below and we will get back you.
 
 #### **Directory**
 
