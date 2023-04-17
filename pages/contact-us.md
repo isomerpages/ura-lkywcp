@@ -27,5 +27,5 @@ contacts:
     content:
     - phone: 
     - email: 
-    - other: <a href="/subscribe/"><u>Subscribe now</u></a>
+    - other: <a href="https://lee-kuan-yew-world-city-prize-23882147.hubspotpagebuilder.com/subscribe"><u>Subscribe now</u></a>
 ---
