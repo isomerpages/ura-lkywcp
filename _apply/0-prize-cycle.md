@@ -5,7 +5,9 @@ image: /images/2024-prize-cycle.jpg
 description: Final call for nominations! Nominate your city now.
 ---
 
-##### Final call for nominations! Nominate your city now. 
+##### Final call for nominations! Nominate your city now.
+
+- [Stage A Nomination Form](/stage-a/#nomination-form)
 
 ###### ![2024 Prize cycle](/images/2024-prize-cycle-extended.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile-extended.jpg/)**
 
