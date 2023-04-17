@@ -23,9 +23,9 @@ sections:
         button: About the Prize
         url: /about-the-prize/
     - infopic:    
-        title: Stage A nominations extended!
-        subtitle: Be the next Prize Laureate
-        description: Stage A nominations extended to 31 May 2023. 
+        title: Final call for nominations!
+        subtitle: Lee Kuan Yew World City Prize 2024
+        description: Last chance to apply for the 2024 Prize and showcase your city's innovative solutions on a global stage. 
         button: Nominate today
         url: /stage-a/
         image: /images/features/2023/cfn-extended.gif/
