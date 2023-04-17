@@ -13,9 +13,9 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Stage A nominations extended!
+            - title: Final call for nominations!
               description: Nominate your city today
-              url: /stage-a/
+              url: /stage-a/#nomination-form
     - infobar:    
         title: 
         subtitle: About the Prize
