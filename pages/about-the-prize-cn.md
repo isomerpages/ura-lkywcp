@@ -24,3 +24,5 @@ description: 李光耀世界城市奖**是每两年颁发一次的国际性大�
 李光耀世界城市奖是以新加坡[首任总理李光耀](https://www.pmo.gov.sg/Past-Prime-Ministers/Mr-LEE-Kuan-Yew)的名义设立的奖项。李光耀先生是新加坡能在短短几十年的时间内发展成干净又独具特色之绿色花园城市的重要奠基者。在他的领导之下实行的策略性土地使用、交通及环境政策和计划，有效帮助新加坡发展成一个拥有优质生活环境且经济快速增长的宜居城市。
 
 李光耀世界城市奖由[市区重建局](/ura/)及[宜居城市中心](/clc/)联合颁发。
+
+如有任何疑问，请与该奖秘书处联系：[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
