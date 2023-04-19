@@ -15,6 +15,10 @@ description: The Lee Kuan Yew World City Prize is a biennial international award
 
 The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
 
+李光耀世界城市奖是每两年颁发一次的国际性大奖，旨在表扬对创造宜居、富有活力及可持续发展的城市社区做出的卓越成就和贡献。此奖项用于奖励以远见卓识、良好治理和创新思维解决城市面临之许多挑战，并能以纵观全局的方式为不同社区带来社会、经济及环境效益的城市及其领导人和组织。
+
+为在世界范围内推动分享易于在各城市之间效仿的城市解决方案的最佳准则，此奖项将着重于对全球城市有益的实际和具成本效益的方案及思维。新加坡希望藉由此奖项树立典范思维领导力并促进城市间的意见交流，以在可持续城市发展方面，激发更多创新思维。
+
 #### **Practical solutions**
 
 To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. 
