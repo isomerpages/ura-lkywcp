@@ -5,31 +5,25 @@ image: /images/medallion-1280.jpg/
 description: The Lee Kuan Yew World City Prize is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 
-[中文版](/about-the-prize-chinese/)
-
 ![medallion](/images/medallion-1280.jpg)
 
-> ##### "通过这个奖项，我们希望能汲取灵感，分享经验，并作为一个全球社区共同进步。"
+> #### "通过这个奖项，我们希望能汲取灵感，分享经验，并作为一个全球社区共同进步。"
 
 <div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee 2024</div>
 
 **李光耀世界城市奖**是每两年颁发一次的国际性大奖，旨在表扬对创造宜居、富有活力及可持续发展的城市社区做出的卓越成就和贡献。此奖项用于奖励以远见卓识、良好治理和创新思维解决城市面临之许多挑战，并能以纵观全局的方式为不同社区带来社会、经济及环境效益的城市及其领导人和组织。
 
+#### **实际解决方案**
+
 为在世界范围内推动分享易于在各城市之间效仿的城市解决方案的最佳准则，此奖项将着重于对全球城市有益的实际和具成本效益的方案及思维。新加坡希望藉由此奖项树立典范思维领导力并促进城市间的意见交流，以在可持续城市发展方面，激发更多创新思维。
 
-#### **Practical solutions**
+李光耀世界城市奖的得主将会获得由新加坡[吉宝企业](/prize-sponsor)赞助的一枚金质奖章，一份得奖证书与 30万新元现金奖。
 
-To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. 
+#### **合适的敬意**
 
-Through this Prize, Singapore hopes to promote exemplary thought-leadership and exchange of ideas among cities, so as to spur further innovation in the area of sustainable urban development.
+该奖项是以新加坡[首任总理](https://www.pmo.gov.sg/Past-Prime-Ministers/Mr-LEE-Kuan-Yew)的名字命名的。李先生在短短几十年间将新加坡发展成为一个独特的、干净的、绿色的花园城市，起到了重要作用。在他的领导下，采用战略性的土地使用、交通和环境政策和计划，帮助新加坡在经济快速增长的同时，发展成为一个拥有高质量生活环境的宜居城市。
 
-The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Corporation](/prize-sponsor/).
-
-#### **A fitting tribute**
-
-The Prize is named after [Singapore’s first Prime Minister](https://www.pmo.gov.sg/Past-Prime-Ministers/Mr-LEE-Kuan-Yew). Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
-
-The Prize is co-organised by the [Urban Redevelopment Authority Singapore](/ura/) (URA) and the [Centre for Liveable Cities](/clc/) (CLC). The Prize Secretariat sits within URA. 
+该奖项由新加坡[市区重建局](/ura/)（URA）和[宜居城市中心](/clc/)（CLC）共同举办。该奖项的秘书处设在市建局内。
 
 #### **Visual identity**
 
