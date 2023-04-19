@@ -25,4 +25,6 @@ description: 李光耀世界城市奖**是每两年颁发一次的国际性大�
 
 李光耀世界城市奖由[市区重建局](/ura/)及[宜居城市中心](/clc/)联合颁发。
 
+---
+
 如有任何疑问，请与该奖秘书处联系：[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
