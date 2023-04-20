@@ -1,5 +1,5 @@
 ---
-title: 关于奖项
+title: 奖项介绍
 permalink: /chinese/
 third_nav_title: About the Prize
 image: /images/medallion-1280.jpg/
