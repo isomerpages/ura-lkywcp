@@ -18,7 +18,7 @@ description: 李光耀世界城市奖**是每两年颁发一次的国际性大�
 
 为在世界范围内推动分享易于在各城市之间效仿的城市解决方案的最佳准则，此奖项将着重于对全球城市有益的实际和具成本效益的方案及思维。新加坡希望藉由此奖项树立典范思维领导力并促进城市间的意见交流，以在可持续城市发展方面，激发更多创新思维。
 
-李光耀世界城市奖的得主将会获得由新加坡[吉宝企业](/prize-sponsor)赞助的一枚金质奖章，一份得奖证书与 30万新元现金奖。
+李光耀世界城市奖的得主将会获得由[吉宝企业](/prize-sponsor)赞助的一枚金质奖章，一份得奖证书与 30万新元现金奖。
 
 #### **向一代领袖致敬**
 
@@ -28,4 +28,5 @@ description: 李光耀世界城市奖**是每两年颁发一次的国际性大�
 
 ---
 
-如有任何疑问，请与该奖秘书处联系：[leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
+1. 如有任何疑问，请与秘书处联系: [leekuanyew_worldcityprize@ura.gov.sg](mailto:leekuanyew_worldcityprize@ura.gov.sg)
+2. [奖项相关常用词汇中英文对照](/glossary-chinese/)
