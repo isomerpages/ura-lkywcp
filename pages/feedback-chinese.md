@@ -6,7 +6,6 @@ description: 如有任何疑问或反馈，请与奖项秘书处联系，我们�
 ---
 
 ##### 如有任何疑问或反馈，请使用以下[反馈表](#反馈表)与奖项秘书处联系，我们会尽早回复您。
-
 <br>
 
 | **李光耀世界城市奖秘书处** <br> c/o 新加坡市区重建局 <br> 45 Maxwell Road <br> The URA Centre, Tower, #13-01 <br> Singapore 069118 <br> [百度地图](https://j.map.baidu.com/91/Y-l) |
