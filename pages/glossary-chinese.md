@@ -285,4 +285,4 @@ description: 奖项相关常用词汇中英文对照
 
 ---
 
-疑问? [与我们联系](/feedback/). 
+疑问? [与我们联系](/feedback-chinese/). 
