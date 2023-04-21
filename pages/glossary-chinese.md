@@ -33,27 +33,25 @@ description: 奖项相关常用词汇中英文对照
 
 #### **C**
 
-- **Changing demographics**: refers to shifts in the population characteristics of a city over time. This can include changes in the age, race, ethnicity, gender, income level, and education level of the population. Demographic changes can be driven by a variety of factors, including immigration patterns, birth rates, mortality rates, and migration within the country.
-- **Circular economy**: refers to an economic system designed to minimise waste and maximise the use of resources by keeping materials in use and regenerating natural systems. It aims to create a closed-loop system where waste is minimised, resources are conserved, and sustainability is prioritised.
-- **City beautification**: refers to the efforts and initiatives taken to improve the aesthetic appeal, functionality, and overall appearance of a city or urban area. Examples include cleaning up litter and graffiti, planting trees and flowers, installing public art, etc. Its goal is to make the urban environment more attractive, inviting, and enjoyable for residents and visitors alike, while also enhancing the quality of life and sense of community in the area.
-- **City manager**: _(in the context of a city's governance structure)_ refers to a professional administrator appointed by the city council or other elected officials to manage the day-to-day operations of a city government. City managers are responsible for overseeing the implementation of policies and programs established by the city council, as well as managing the city's budget, personnel, and resources.
-- **Climate change adaptation**: refers to the actions and strategies taken to prepare for and respond to the impacts of climate change, such as rising temperatures, sea level rise, and more frequent and severe weather events. Adaptation measures aim to reduce the vulnerability of individuals, communities, and ecosystems to the impacts of climate change and to build resilience to future changes. 
-- **Climate neutrality**: refers to the balance between greenhouse gas emissions and their removal or mitigation in the atmosphere, resulting in no net contribution to global warming. Achieving climate neutrality involves reducing emissions through sustainable practices, transitioning to renewable energy sources, and investing in carbon sequestration and other mitigation measures.
-- **Co-creation**: _(in the context of a city)_ refers to a collaborative process where citizens, businesses, and government work together to identify and solve urban challenges, design solutions, and create shared value for the community.
-- **Commission**: _(in the context of a city's governance structure)_ refers to a body of individuals appointed or elected to oversee a specific area of city government or public service. Commissions can have a variety of responsibilities and powers, ranging from advisory roles to decision-making authority.
+- **Changing demographics**: 人口结构的变化
+- **Circular economy**: 循环经济
+- **City beautification**: 城市美化
+- **Climate change adaptation**: 气候变化适应性
+- **Climate neutrality**: 气候中和
+- **Co-creation**: 共同创造
 
-[Back to top](#directory)
+[返回顶部](#目录)
 
 ---
 
 #### **D**
 
-- **Daily commute**: refers to the regular travel that people undertake between their home and workplace or school. It is the journey that people make on a daily basis as part of their routine to reach their destination.
-- **Decarbonise**: means to reduce or eliminate carbon emissions from various sources such as industries, transportation, and buildings by transitioning to cleaner energy sources and adopting sustainable practices to mitigate climate change and promote environmental sustainability. _See also: low carbon_
-- **Digital divide**: refers to the gap between those who have access to digital technologies and those who do not. This can include access to the internet, ownership of digital devices, and proficiency in using them. Those without access or skills may face significant disadvantages in education, employment, and social participation.
-- **Disaster mitigation**: refers to the actions and strategies taken to reduce or prevent the adverse impacts of natural or human-made disasters. This includes efforts to identify potential hazards and vulnerabilities, develop plans and protocols for responding to disasters, and implement measures to minimise their impact.
+- **Daily commute**: 日常通勤
+- **Decarbonise**: 脱碳
+- **Digital divide**: 数字鸿沟
+- **Disaster mitigation**: 减轻灾害的措施
 
-[Back to top](#directory)
+[返回顶部](#目录)
 
 ---
 
