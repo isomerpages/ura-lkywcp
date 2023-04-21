@@ -70,38 +70,38 @@ description: 奖项相关常用词汇中英文对照
 
 - **Green infrastructure**: 绿色基础设施
 - **Green space**:  城市绿地
-- **Gross Domestic Product (GDP)**: refers to a measure of a country's economic performance that represents the total value of all goods and services produced within a country's borders during a specific period, usually a year, and is used to compare the economic performance of different countries.
-- **Gross Regional Product (GRP)**: refers to a measure of the economic output of a particular region, such as a state, province, or city, that represents the total value of all goods and services produced within that region during a specific period, and is used to compare the economic performance of different regions.
-- **Governance structure**: refers to the framework of rules, policies, and institutions that define how a group or organisation makes decisions, sets priorities, and manages its resources. It encompasses the formal and informal mechanisms of decision-making, as well as the roles and responsibilities of individuals and groups within the organisation. 
+- **Gross Domestic Product (GDP)**: 国内生产总值
+- **Gross Regional Product (GRP)**: 地区生产总值
+- **Governance structure**: 城市治理结构 
 
-[Back to top](#directory)
+[返回顶部](#目录)
 
 ---
 
 #### **I**
 
-- **Internet of Things (IoT)**: refers to the interconnected network of physical devices, vehicles, appliances, and other objects that are embedded with sensors, software, and network connectivity, allowing them to exchange data and communicate with each other and with humans.
+- **Internet of Things (IoT)**: 即物联网、互联设备的集合网络
 
-[Back to top](#directory)
+[返回顶部](#目录)
 
 ---
 
 #### **K**
 
-- **Key strategies/actions**: _(in the context of a ciy's master plan/strategy or urban initiatives)_ refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
-- **Knowledge economy**: refers to an economic system where the production, distribution, and consumption of goods and services are based on knowledge-intensive activities that require high levels of expertise, creativity, and information technology, leading to innovation, competitiveness, and sustainable growth.
+- **Key strategies/actions**: _(指城市的总体规划/战略或城市举措)_ 关键战略、措施
+- **Knowledge economy**: 知识型经济
 
-[Back to top](#directory)
+[返回顶部](#目录)
 
 ---
 
 #### **L**
 
-- **Legalised housing**: refers to housing that has been formally recognised and approved by relevant authorities, such as the government, as meeting the legal requirements for housing. This means that the housing meets specific standards and regulations regarding safety, health, and habitability.
-- **Liveability**: refers to the quality of life and well-being of individuals and communities within a particular environment. Factors that contribute to liveability include access to essential services, amenities, and public spaces, as well as social, economic, and environmental conditions that support a healthy and fulfilling lifestyle.
-- **Low carbon**: refers to practices, technologies, or systems that produce a relatively low amount of carbon emissions, typically in the context of energy production and use. This includes the use of renewable energy sources, energy efficiency improvements, and the adoption of low-emission technologies and practices. _See also: decarbonise_
+- **Legalised housing**: 合法住屋
+- **Liveability**: 宜居性
+- **Low carbon**: 低碳
 
-[Back to top](#directory)
+[返回顶部](#目录)
 
 ---
 
