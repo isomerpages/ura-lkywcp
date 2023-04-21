@@ -18,6 +18,7 @@ description: 奖项相关常用词汇中英文对照
 
 - **Adaptive reuse**： 活化再利用
 - **Affordable/subsidised/low-cost/social housing**: 经济适用房
+- **Award Ceremony and Banquet**: 颁奖典礼及晚宴
 
 [返回顶部](#目录)
 
@@ -25,6 +26,7 @@ description: 奖项相关常用词汇中英文对照
 
 #### **B**
 
+- **Best practices in urban solutions**: 城市解决方案的典范
 - **Brownfield development**: 棕地修复
 
 [返回顶部](#目录)
@@ -33,12 +35,17 @@ description: 奖项相关常用词汇中英文对照
 
 #### **C**
 
+- **Centre for Liveable Cities**: 宜居城市中心
 - **Changing demographics**: 人口结构的变化
 - **Circular economy**: 循环经济
 - **City beautification**: 城市美化
+- **Civil service**: 公务人员
 - **Climate change adaptation**: 气候变化适应性
 - **Climate neutrality**: 气候中和
+- **Closing date**: 截止日期
 - **Co-creation**: 共同创造
+- **Community engagement**: 社群参与
+- **Co-organisers**: 联合主办单位
 
 [返回顶部](#目录)
 
@@ -187,10 +194,10 @@ description: 奖项相关常用词汇中英文对照
 - **Universal design**: 通用设计
 - **Urban acupuncture**: 城市針灸術理念
 - **Urban agriculture**: 城市农业
-- **Urban initiatives**: refer to specific projects, programmes, or policies that are implemented to address the unique challenges and opportunities faced by the city. These initiatives are designed to promote sustainable and equitable development, improve quality of life for residents, and enhance the economic, social, and environmental vitality of the city.
-- **Urban logistics**: refers to the management of goods and services within a city or urban area. It involves the planning, coordination, and execution of delivery and transportation activities, as well as the management of associated infrastructure, such as warehouses and distribution centres. The aim is to ensure efficient and sustainable movement of goods while minimising negative impacts on urban environments and residents.
-- **Urban resilience**: refers to the ability of a city or urban area to prepare for, adapt to, and recover from shocks and stresses, such as natural disasters, economic crises, or social upheavals, while maintaining essential functions and services for its residents. 
-- **Urban transformation**: refers to the process of significant change and redevelopment that occurs in urban areas over time. This can include physical, economic, social, and environmental changes that result in the transformation of a city's built environment, economy, and social fabric.
+- **Urban initiatives**: 指为应对城市面临的独特挑战和而实施的具体项目、计划或政策
+- **Urban logistics**: 城市物流
+- **Urban resilience**: 城市韧性
+- **Urban transformation**: 城市转型
 
 [返回顶部](#目录)
 
@@ -198,8 +205,8 @@ description: 奖项相关常用词汇中英文对照
 
 #### **V**
 
-- **Vibrancy**: _(in the context of a city)_ refers to the energy, liveliness, and activity that makes it an attractive and engaging place to live, work, and visit. It is characterised by a diverse mix of people, cultures, and activities, and an abundance of social, cultural, and economic opportunities.
-- **Vulnerable groups**: refer to populations that are at greater risk of harm or disadvantage due to their social, economic, or physical circumstances. These groups may face discrimination, exclusion, or marginalisation in society, and may have limited access to resources, opportunities, and services that are necessary for their well-being.
+- **Vibrancy**: 城市活力
+- **Vulnerable groups**: 弱势群体
 
 [返回顶部](#目录)
 
@@ -207,8 +214,8 @@ description: 奖项相关常用词汇中英文对照
 
 #### **W**
 
-- **Waste management**: refers to the processes and systems that are in place to collect, transport, treat, and dispose of waste generated within the city's boundaries. This includes household waste, commercial and industrial waste, and hazardous waste.
-- **Water-sensitive urban design (WSUD)**: refers to an approach to urban planning and design that seeks to manage water sustainably and enhance the liveability of cities. The approach is based on the principles of the water cycle, which involves the movement, storage, and use of water within a given area. Examples include rain gardens, green roofs, and wetlands.
+- **Waste management**: 废弃物管理
+- **Water-sensitive urban design (WSUD)**: 水敏性城市设计
 
 [返回顶部](#目录)
 
