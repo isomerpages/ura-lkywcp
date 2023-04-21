@@ -16,7 +16,7 @@ description: 奖项相关常用词汇中英文对照
 
 #### **A**
 
-- **Adaptive reuse**： 活化再利用
+- **Adaptive reuse**: 活化再利用
 - **Affordable/subsidised/low-cost/social housing**: 经济适用房
 - **Ageing population**: 人口老龄化
 - **Award Ceremony and Banquet**: 颁奖典礼及晚宴
