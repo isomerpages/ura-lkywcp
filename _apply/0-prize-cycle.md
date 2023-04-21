@@ -2,10 +2,12 @@
 title: 2024 Prize Cycle
 permalink: /prize-cycle/
 image: /images/2024-prize-cycle.jpg
-description: Stage A nominations are extended to 31 May 2023! Nominate your city now.
+description: Final call for nominations! Nominate your city now.
 ---
 
-##### Stage A nominations are extended to 31 May 2023! Nominate your city now. 
+##### Final call for nominations! Nominate your city now.
+
+- [Stage A Nomination Form](/stage-a/#nomination-form)
 
 ###### ![2024 Prize cycle](/images/2024-prize-cycle-extended.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile-extended.jpg/)**
 
@@ -13,7 +15,7 @@ description: Stage A nominations are extended to 31 May 2023! Nominate your city
 
 | Date | Phase |
 | :--- | :--- |
-| 1 Aug 2022 - <s>31 Mar</s> 31 May 2023 | **[Stage A Nominations](/stage-a/) <mark>EXTENDED!</mark>** <br> Nominations of cities by independent third parties |
+| 1 Aug 2022 - <s>31 Mar</s> 31 May 2023 | **[Stage A Nominations](/stage-a/) <mark>FINAL CALL!</mark>** <br> Nominations of cities by independent third parties |
 | 1 Oct 2022 - 31 May 2023 | **[Stage B Submissions](/stage-b/)** <br> Submissions of detailed report by nominated cities |
 | Jun 2023 - Feb 2024 | **[Evaluations](/evaluations/)** <br> Evaluations of submissions through a rigourous two-tier selection process |
 | Mar 2024 | **Announcement** <br> Announcement of the results |

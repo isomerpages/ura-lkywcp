@@ -1,6 +1,7 @@
 ---
 title: Biography — Marilyn Taylor
 permalink: /marilyn-taylor/
+published: false
 ---
 
 <div style="width:150px"><img src="/images/jury/marilyn-taylor.png" alt="Marilyn Taylor" /></div>

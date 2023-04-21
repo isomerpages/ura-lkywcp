@@ -10,6 +10,8 @@ collections:
     output: true
   laureates:
     output: true
+  chinese:
+    output: true
 google_analytics: UA-48396056-10
 resources_name: resources
 is_government: false

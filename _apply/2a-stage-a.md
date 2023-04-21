@@ -3,13 +3,13 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/stage-a-nominations.jpg
-description: Nominations for the 2024 Prize are now open!
+description: Final call for nominations for the 2024 Prize!
 
 ---
 
 #### **Instructions**
 
-Nominations for the 2024 Prize are now open! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/). 
+Final call for nominations for the 2024 Prize! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/). 
 
 - [Stage A Nomination Form](#nomination-form)
 

@@ -90,7 +90,7 @@ description: Glossary of terms for Lee Kuan Yew World City Prize
 
 #### **K**
 
-- **Key strategies/actions**: _(in the context of a ciy's master plan/strategy or urban initiatives)_ refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
+- **Key strategies/actions**: _(in the context of a city's master plan/strategy or urban initiatives)_ refer to the specific actions, policies, and initiatives that are identified as essential for achieving the goals and objectives of a city's master plan/strategy. These strategies are often developed through a comprehensive planning process that involves input from a wide range of stakeholders, including community members, elected officials, city staff, and other experts.
 - **Knowledge economy**: refers to an economic system where the production, distribution, and consumption of goods and services are based on knowledge-intensive activities that require high levels of expertise, creativity, and information technology, leading to innovation, competitiveness, and sustainable growth.
 
 [Back to top](#directory)
