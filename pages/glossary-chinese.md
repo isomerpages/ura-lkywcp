@@ -10,7 +10,7 @@ description: 奖项相关常用词汇中英文对照
 
 #### **目录**
 
-[A](#a) ∙ [B](#b) ∙ [C](#c) ∙ [D](#d) ∙ [E](#e) ∙ [G](#g) ∙ [I](#i) ∙ [K](#k) ∙ [L](#l) ∙ [M](#m) ∙ [N](#n) ∙ [P](#p) ∙ [Q](#q) ∙ [R](#r) ∙ [S](#s) ∙ [T](#t) ∙ [U](#u) ∙ [V](#v) ∙ [W](#w)
+[A](#a) ∙ [B](#b) ∙ [C](#c) ∙ [D](#d) ∙ [E](#e) ∙ [F](#f) ∙ [G](#g) ∙ [I](#i) ∙ [K](#k) ∙ [L](#l) ∙ [M](#m) ∙ [N](#n) ∙ [P](#p) ∙ [Q](#q) ∙ [R](#r) ∙ [S](#s) ∙ [T](#t) ∙ [U](#u) ∙ [V](#v) ∙ [W](#w)
 
 ---
 
@@ -18,6 +18,7 @@ description: 奖项相关常用词汇中英文对照
 
 - **Adaptive reuse**： 活化再利用
 - **Affordable/subsidised/low-cost/social housing**: 经济适用房
+- **Ageing population**: 人口老龄化
 - **Award Ceremony and Banquet**: 颁奖典礼及晚宴
 
 [返回顶部](#目录)
@@ -46,6 +47,7 @@ description: 奖项相关常用词汇中英文对照
 - **Co-creation**: 共同创造
 - **Community engagement**: 社群参与
 - **Co-organisers**: 联合主办单位
+- **Cultural heritage**: 文化遗产
 
 [返回顶部](#目录)
 
@@ -55,8 +57,10 @@ description: 奖项相关常用词汇中英文对照
 
 - **Daily commute**: 日常通勤
 - **Decarbonise**: 脱碳
+- **Demonstration project**: 示范项目
 - **Digital divide**: 数字鸿沟
 - **Disaster mitigation**: 减轻灾害的措施
+- **Diverse/Diversity**: 多样性
 
 [返回顶部](#目录)
 
@@ -68,6 +72,12 @@ description: 奖项相关常用词汇中英文对照
 - **E-governance, or electronic governance**: 电子治理服务
 - **Energy efficiency**: 能源效率
 - **Energy transition**: 能源转型
+
+[返回顶部](#目录)
+
+#### **F**
+
+- **Flood protection**: 防洪措施
 
 [返回顶部](#目录)
 
