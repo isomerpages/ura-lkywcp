@@ -57,19 +57,19 @@ description: 奖项相关常用词汇中英文对照
 
 #### **E**
 
-- **Ecosystem services**: refer to the benefits that humans derive from natural ecosystems, such as clean water, clean air, food, fiber, and recreational opportunities. They also include the regulation of climate, pollination, and pest control, among others.
-- **E-governance, or electronic governance**: refers to the use of information and communication technologies (ICTs) to improve and streamline the delivery of government services and information to citizens.
-- **Energy efficiency**: refers to the use of technologies, practices, and systems that reduce the amount of energy required to perform a given task or function. It involves optimising the use of energy resources by minimising waste, improving efficiency, and reducing environmental impacts.
-- **Energy transition**: refers to the shift from traditional, fossil fuel-based energy systems to more sustainable and low-carbon alternatives. It involves a fundamental transformation of the energy sector, including the production, distribution, and consumption of energy.
+- **Ecosystem services**: 生态系统服务
+- **E-governance, or electronic governance**: 电子治理服务
+- **Energy efficiency**: 能源效率
+- **Energy transition**: 能源转型
 
-[Back to top](#directory)
+[返回顶部](#目录)
 
 ---
 
 #### **G**
 
-- **Green infrastructure**: refers to the network of natural and semi-natural features such as parks, forests, wetlands, and green roofs that provide ecosystem services to urban areas. It helps to improve air and water quality, reduce urban heat island effects, and provide recreational opportunities while enhancing biodiversity and habitat.
-- **Green space**:  refers to publicly accesible areas of land that are covered by vegetation, such as trees, shrubs and grass, and typically includes parks, gardens, forests or other natural landscapes. Its  intent is to positively impact physical, mental and psychological health and well-being of the community while also enhancing the environmental quality. 
+- **Green infrastructure**: 绿色基础设施
+- **Green space**:  城市绿地
 - **Gross Domestic Product (GDP)**: refers to a measure of a country's economic performance that represents the total value of all goods and services produced within a country's borders during a specific period, usually a year, and is used to compare the economic performance of different countries.
 - **Gross Regional Product (GRP)**: refers to a measure of the economic output of a particular region, such as a state, province, or city, that represents the total value of all goods and services produced within that region during a specific period, and is used to compare the economic performance of different regions.
 - **Governance structure**: refers to the framework of rules, policies, and institutions that define how a group or organisation makes decisions, sets priorities, and manages its resources. It encompasses the formal and informal mechanisms of decision-making, as well as the roles and responsibilities of individuals and groups within the organisation. 
