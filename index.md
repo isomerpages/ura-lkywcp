@@ -31,13 +31,13 @@ sections:
         image: /images/features/2023/cfn-extended.gif/
         alt: Call for nominations
     - infopic:    
-        title: Lisbon making a comeback
+        title: Climate-smart cities for the future
         subtitle: Featured article
-        description: Find out how Lisbon showed resilience in the face of challenges and constraints
+        description: Smart technologies enable cities to be more responsive and efficient in mitigating the impacts of climate change
         button: Feature story
-        url: /resources/features/lisbon-resurgence/
+        url: /resources/features/climate-smart-cities/
         image: /images/features/2023/lisbon-plaza.jpg
-        alt: Lisbon
+        alt: Climate smart cities
     - infopic:    
         title: Turning parking lanes into parklets
         subtitle: Case study 18
