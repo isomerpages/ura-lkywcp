@@ -1,0 +1,81 @@
+---
+title: Climate-smart cities for the future
+permalink: /resources/features/climate-smart-cities/
+image: /images/features/2023/lisbon-plaza.jpg
+description: Smart technologies are being used by cities to combat the effects of climate change, such as flooding and extreme heat waves. They enable cities to be more responsive and efficient in mitigating climate change and its consequences. 
+
+---
+
+| Writer | 
+| ---: |
+| Tan Chui Hua |
+
+##### Smart technologies are being used by cities to combat the effects of climate change, such as flooding and extreme heat waves. They enable cities to be more responsive and efficient in mitigating climate change and its consequences. 
+
+> ###### **Cities mentioned in this article:** <br> Norfolk, Mumbai, Rotterdam, Athens, New York City, Singapore, Sydney 
+
+#### **Key takeaways**
+
+| 1 | Lisbon tapped on various funding sources to finance 130 rehabilitation projects. |
+| 2 | The city co-created public and green spaces with citizens through 'A Square in Each Neighbourhood' programme. |
+| 3 | Street art and events can help to celebrate and enhance neighbourhoods. |
+| 4 | Lisbon's sustainable development strategy aims to create a better environment and reduce public expenditure. |
+| 5 | Investing in transport infrastructure and effecting behavioural changes are examples of how Lisbon addresses its traffic issues. |
+| 6 | To tackle food wastage, the city created a digital platform to consolidate resources and a city-wide composting network. |
+
+###### ![Praça do Comércio at Lisbon's riverfront](/images/features/2023/lisbon-plaza.jpg/)**Praça do Comércio at Lisbon's riverfront** © sopotniccy/123RF
+
+From more frequent and intense adverse weather events to rising sea level, the impact of climate change on cities is multi-faceted and likely to worsen over time. Increasingly, cities are adopting smart technologies as part of their strategies to mitigate such impact. 
+
+These technologies, with their ability to integrate and process raw data from sensors and cameras through data analytics platforms and digital solutions, help cities address the impact of climate change. For instance, real-time ground data provide accurate, up-to-date information on critical parameters such as stormwater levels and ambient temperatures, which in turn allow cities to make informed decisions to avert or mitigate the impact of related crises. 
+
+Such systems provide other benefits as well – such as long-term cost savings and enhancing the quality of life for citizens. As smart technologies become more widely adopted, they demonstrate that such investment goes a long way in boosting the climate resilience and liveability of cities. 
+
+#### **Leveraging private capital**
+
+Since the 1990s, Lisbon has been successfully leveraging private capital in urban renewal and public projects, whether through public-private partnerships or programmes to incentivise private development. Its first large-scale public-private partnership project was a 12-kilometre vehicular bridge over Tagus River commissioned in 1991. To finance the Euro 645 million (approx. USD 690 million) works, Lisbon relied on European Union (EU) funding, private loans, and a concession granted to the developer. The contract allows the developer to [collect toll revenues for two bridges](https://www.mfcr.cz/assets/en/media/Case-study-the-Vasco-da-Gama-Bridge-project.pdf) crossing the river until 2030 and the exclusive right to explore future river crossings near Lisbon for 28 years.  
+
+Lisbon likewise relies on private capital when it comes to the long-standing issue of rehabilitating degraded buildings. In 2018, reports showed that Portugal had around a million derelict buildings, of which [at least 44,000 were in Lisbon](https://www.idealista.pt/en/news/financial-advice-portugal/2018/03/28/62-there-are-least-44000-dilapidated-buildings-lisbon). Recognising that public funds alone would not suffice in rehabilitating these buildings, the city exercises various schemes to catalyse private involvement in urban rejuvenation. 
+
+In 2015, the government established [IFRRU 2020](https://www.iea.org/policies/6496-ifrru-2020-financial-instrument-for-urban-rehabilitation-and-renewal) (Instrumento Financeiro para a Reabilitacao e Revitalizacao), which brings together different sources of funding such as European Investment Bank loans to support private investment in urban rehabilitation. Loans with interest rates below market rates are granted to developers to rehabilitate buildings aged 30 years or more, abandoned industrial spaces, or private units integrated in a social housing building. Since its launch in 2017, IFRRU has availed some [USD 688 million to finance 130 rehabilitation projects in Lisbon](https://ifrru.ihru.pt/web/guest/projetos#OPERA%C3%87%C3%95ES_APROVADAS).   
+
+###### ![Street festival in Alfama, Lisbon](/images/features/2023/lisbon-alfama.jpg/)**Street festival in Alfama, Lisbon** © dudlajzov/123RF
+
+Another example of how Lisbon catalyses private development is through rejuvenation of historic districts. In Alfama, a hillside neighbourhood on Tagus River, the city [provides financial aid](https://www.researchgate.net/publication/256520756_Alfama_from_degradation_to_rehabilitation) up to 65 percent of the costs of preservation and repair works on buildings in a state of disrepair. Between 1988 to 1993, 82 rehabilitation projects were carried out. As Alfama regained its charm, private developers began [coming on board](https://fenix.tecnico.ulisboa.pt/downloadFile/563345090416679/Ines%20Borges_Extended%20abstract_Final.pdf) to rehabilitate their buildings, converting many of them into [hotels and rental establishments](https://www.researchgate.net/publication/343712913_Independent_Research_Project_An_analysis_of_the_Portuguese_housing_dynamics_Study_case_of_tourism_gentrification_in_Alfama_Lisbon).  
+
+In the case of Mouraria, a quarter once infamous for prostitution, drugs, and crime, the city government launched an [extensive renewal process](https://fenix.tecnico.ulisboa.pt/downloadFile/281870113703317/extended_abstract.isabel_ferreira.pdf) in 2008. The initiative saw the renovation of public spaces, such as the pedestrianisation of Intendente Square from former parking lots and the creation of spaces to host outdoor performances and markets. Similarly, the renewed Mouraria drew private developers who further invested in rehabilitating their buildings for commercial, retail, and tourist accommodation purposes.  
+
+#### **Capitalising on strategic interventions** 
+
+###### ![A Fado band performing on the street of Alfama, Lisbon](/images/features/2023/alfama-fado.jpg/)**A Fado band performing on the street of Alfama, Lisbon** © Sopotnicki/Shutterstock
+
+Small but strategic interventions go a long way in remaking Lisbon. In 2017, Lisbon launched [‘A Square in Each Neighbourhood’](https://www.sciencedirect.com/science/article/pii/S266668392200058X) programme, where the city works with residents to create or revamp public and green spaces. For instance, in the [neighbourhood of Campolide](https://una.city/nbs/lisboa/square-each-neighbourhood-street-campolide), the city widened the pavements, created playgrounds and outdoor seating areas, and eliminated a road lane.  
+
+Sofia Mourão, Municipal Director of Urbanism, Lisbon City Council, who spearheaded the programme, highlights the impact of the initiative, “The goal of the programme was to create liveable and friendly public areas to entice people to leave their house, enjoy the city, shop, and socialise. We design the spaces for pedestrian success, with new green areas. The construction of squares encourages further private investments, triggering the rehabilitation of buildings, boosting commerce, and creating jobs.” 
+
+The riverfront is one of Lisbon’s most iconic attractions today. Prior to urban renewal in the 2000s, however, much of it was inaccessible port-owned areas. While major projects such as new plazas and museums redefined the waterfront, [smaller interventions](https://www.mdpi.com/2071-1050/13/10/5665) too played a critical role. Green spaces, boardwalks, and walkways reduce car movements and provide continuous public spaces for pedestrians and cyclists to enjoy. On weekends, road closures on stretches along the riverfront add further to the vibrancy.  
+
+To celebrate and enhance the distinctive character of its neighbourhoods, the city taps on interventions such as street art and events. In Alfama, the city [commissioned street artist Vhils](https://www.streetartbio.com/guides/street-art-city-walks-lisbon/) to create a portrait of Amalia Rodrigues – a singer who popularised ‘Fado’ (a music genre originating in Lisbon) and had a song named after the historic district – using traditional Portuguese paving stones.  
+
+###### ![Martim Moniz Plaza, Lisbon](/images/features/2023/lisbon-martim-moniz.jpg/)**Martim Moniz Plaza, Lisbon** © finkelsen/123RF
+
+In Mouraria, new immigrants in recent decades give rise to a multi-ethnic character aside from the district’s Moorish heritage. In one of its plazas, Martim Moniz, the city established the ['Mercado de Fusao'](https://www.coe.int/en/web/interculturalcities/-/the-fusion-market-mercado-de-fusao-) (Fusion Market), where street food from different parts of the world is sold daily. The market not only acknowledges Mouraria’s diverse communities, but also brings in new visitors to rediscover the district. 
+
+<br>
+> ##### "The goal [of the 'A Square in Each Neighbourhood' programme] was to create liveable and friendly public areas to entice people to leave their house, enjoy the city, shop, and socialise."
+
+<div align="right"><b>— Sofia Mourão</b> <br>Municipal Director of Urbanism, Lisbon City Council</div>
+
+#### **Committing to sustainability**
+
+The first Southern European city to be named [European Union Green Capital](https://www.circularcityfundingguide.eu/case-studies/lisbon-the-first-eu-green-capital-in-southern-europe/), Lisbon's journey to become greener and more sustainable began during the 2008 global financial crisis, with a sustainable development strategy to create a better environment and reduce public expenditure. Its approach is often multi-pronged and targets long-term behavioural change for greater impact. 
+
+A case in point is the city’s efforts to tackle its transport issue. To date, as part of infrastructural investments, Lisbon has built [over 100 kilometres of cycling paths](https://www.themayor.eu/en/a/view/lisbon-plans-for-post-corona-refurbishment-5126?trans=en-US) and an [extensive network of electric vehicle charging points](https://www.uswitch.com/electric-car/ev-charging/european-capitals-best-density-ev-charging-stations/). It [works closely with private operators](https://tomorrow.city/a/lisbon-transport-after-big-crisis) to integrate private supplies of transport, such as shared electric motorcycles and bicycles.  
+
+To effect long-term behavioural change, Lisbon [engages companies](https://www2.deloitte.com/content/dam/insights/us/articles/4331_Deloitte-City-Mobility-Index/Lisbon_GlobalCityMobility_WEB.pdf) to adopt sustainable mobility measures and comply with the city’s green goals and Corporate Mobility Pact. Under the pact, companies may adopt initiatives such as offering workers mobility credits for bicycles and transport passes and adopting electric vehicles in business fleets. The city [discourages private car use through policies](https://www.centreforcities.org/blog/what-can-british-cities-learn-from-the-portuguese-public-transport-system/) such as parking levies, road pricing systems, and reduced parking lots.
+
+Furthermore, in 2019, the city introduced an integrated transport pass with a monthly price cap of Euro 40 (approx. USD 43), allowing one to use multiple transit modes via a single platform at an accessible cost. As a result, [car purchases in Lisbon fell by 22 percent while train journeys between suburbs and the city centre increased by 25.7 percent](https://www.eltis.org/in-brief/news/mobility-service-partnership-delivers-lisbon-and-neighbouring-evora) in that year alone. In 2022, Lisbon approved free public transport for young people and seniors.  
+
+Lisbon’s solution to food wastage is another example. In 2016, the city implemented a policy strategy to repurpose food waste. It created an integrated digital platform, [Lisboa Zero](https://www.lisboazero.app/en/organic-and-food-waste/), that brings together stakeholders, including food producers, redistributors, and beneficiaries to separate bio-waste at source and redirect surplus food to the city’s less fortunate. The city also [installed 4,000 domestic composters](https://www.c40knowledgehub.org/s/article/Cities100-Increasing-resource-recovery-to-tackle-food-waste-in-Lisbon?language=en_US) city-wide for household use, thus reducing food waste transport and incineration.  
+
+While Lisbon still faces other common city challenges such as housing affordability, neighbourhood gentrification, and economic diversification, the last decade has shown that the city is more than ready to find new and innovative ways to address ongoing challenges and reinvent itself to be even more liveable and people-centric. <b><font color="#967942">O</font></b>
