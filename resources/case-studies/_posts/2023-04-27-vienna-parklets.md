@@ -33,8 +33,6 @@ description:  In Vienna, ‘Grätzloase’ is an initiative that provides suppor
 
 #### **Key issues before the project**
 
-###### ![A parking lane converted into a temporal park](/images/features/2023/parklets2.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
-
 - The city recognised that public space should be used in diverse ways, and that the quality of stay in should be increased. 
 - Vienna hopes to facilitate neighbours in organising themselves to realise small projects in public space and strengthen local communities through the initiative.
 The city also aims to support citizens to shape public space and make the city greener. 
@@ -57,6 +55,8 @@ An intensive social media campaign on the realised projects also helped to widen
 ---
 
 #### **Creativity and innovation**
+
+###### ![A parking lane converted into a temporal park](/images/features/2023/parklets2.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
 - The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book ['Parklets // Street Furniture Vienna'](https://www.startnext.com/parklets).
 - The parklets helped to create easily accessible public spaces where everyone could take part in creative and fun activities such as playing table tennis with a round table and self-made rackets and bread-making on the streets. 
