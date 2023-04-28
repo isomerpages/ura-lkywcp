@@ -40,9 +40,9 @@ sections:
         alt: Lisbon
     - infopic:    
         title: Turning parking lanes into parklets
-        subtitle: Case study #18
+        subtitle: Case study 18
         description: Look at how Vienna provides support for ground-up temporary public space activation.
-        button: Photo essay
+        button: Case study 18
         url: /resources/case-studies/vienna-parklets/
         image: /images/features/2023/parklets1.jpg/
         alt: Vienna parklet
