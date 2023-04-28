@@ -60,7 +60,7 @@ An intensive social media campaign on the realised projects also helped to widen
 
 ###### ![The Universiade Village](/images/features/2021/universiade-village.jpg/)**The Universiade Village** © City of Kazan
 
-- The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book [Parklets // Street Furniture Vienna](https://www.startnext.com/parklets).
+- The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book ['Parklets // Street Furniture Vienna'](https://www.startnext.com/parklets).
 - The parklets helped to create easily accessible public spaces where everyone could take part in creative and fun activities such as playing table tennis with a round table and self-made rackets and bread-making on the streets. 
 Novel activities such as dining on the street were replicated in various parts throughout the city. 
 
