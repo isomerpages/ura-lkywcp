@@ -16,14 +16,12 @@ description: Smart technologies are being used by cities to combat the effects o
 
 #### **Key takeaways**
 
-| 1 | Smart technologies, with their ability to integrate and process raw data from sensors and cameras through data analytics platforms and digital solutions, help cities address the impact of climate change. |
-| 2 | Coastal cities have also introduced smart systems to help manage their vulnerabilities. |
-| 3 | Rotterdam created a network of green roofs acting as storm water reservoirs. |
-| 4 | Miami-Dade County appointed the world's first Chief Heat Officer to coordinate projects on cooling, education, and infrastructure. |
-| 5| Athens launched launched an app called ‘Extrema’, which evaluates users’ real-time personalised health risk and directs them to the nearest cooling centres. |
-| 6 | New York City developed a heat warning system to anticipate heat waves. |
-| 7 | Singapore employs a range of smart technologies to manage its urban forests and parks. |
-| 8 | A new pilot in Sydney deploys smart technology to manage parks and direct users to coolest spots. |
+| 1 | Rotterdam created a network of green roofs acting as storm water reservoirs. |
+| 2 | Miami-Dade County appointed the world's first Chief Heat Officer. |
+| 3 | Athens launched launched an app to evaluate and direct users to nearest cooling centres. |
+| 4 | New York City developed a heat warning system to anticipate heat waves. |
+| 5 | Singapore employs smart technologies to manage its urban forests and parks. |
+| 6 | A new smart pilot in Sydney manages parks and directs users to coolest spots. |
 
 ###### ![Praça do Comércio at Lisbon's riverfront](/images/features/2023/lisbon-plaza.jpg/)**Praça do Comércio at Lisbon's riverfront** © sopotniccy/123RF
 
