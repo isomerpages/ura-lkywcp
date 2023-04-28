@@ -70,7 +70,7 @@ Novel activities such as dining on the street were replicated in various parts t
 
 #### **Impacts**
 
-###### ![Impacts of the case study](/images/features/2021/kazan-impacts.png/)
+###### ![Impacts of the case study](/images/features/2023/impacts-vienna-parklets.png/)
 
 - The enthusiasm of residents brought about a broad variety of ideas, with nearly all the selected projects realised. 
 - New neighbourly relationships were forged and strengthened as seen through the replication of ‘dining on the street’. 
