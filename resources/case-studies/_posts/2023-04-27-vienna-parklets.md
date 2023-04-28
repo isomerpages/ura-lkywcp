@@ -1,7 +1,7 @@
 ---
 title: Turning parking lanes into parklets
 permalink: /resources/case-studies/vienna-parklets/
-image: /images/features/2021/case-study-kazan.jpg
+image: /images/features/2023/parklets1.jpg
 description:  In Vienna, ‘Grätzloase’ is an initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. 
 
 ---
@@ -20,7 +20,7 @@ description:  In Vienna, ‘Grätzloase’ is an initiative that provides suppor
 
 #### **In brief**
 
-###### ![Mayor Ilsur Metshin signing a football](/images/features/2021/mayor-sports.jpg/)**Mayor Ilsur Metshin signing a football** © City of Kazan
+###### ![A parking lane converted into a temporal park](/images/features/2023/parklets1.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
 - Born from the belief that public spaces should be used in diverse ways that increase the quality of people's stay, [‘Grätzloase’](https://graetzloase.at/en/home)[^2] is an initiative that provides support for temporary public space activation programmes in Vienna.
 - With advice from [Local Agenda 21](https://demarchesterritorialesdedeveloppementdurable.org/vienna-austria/#:~:text=The%20LA21%20Vienna%20offers%20citizens,promote%20the%20sustainable%20urban%20development.), citizens can shape public space by transforming parking lanes into parklets that serve as meeting points.
@@ -33,7 +33,7 @@ description:  In Vienna, ‘Grätzloase’ is an initiative that provides suppor
 
 #### **Key issues before the project**
 
-###### ![Degraded environment before the transformation](/images/features/2021/bulak-river-before.jpg/)**Degraded environment before the transformation** © City of Kazan
+###### ![A parking lane converted into a temporal park](/images/features/2023/parklets2.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
 - The city recognised that public space should be used in diverse ways, and that the quality of stay in should be increased. 
 - Vienna hopes to facilitate neighbours in organising themselves to realise small projects in public space and strengthen local communities through the initiative.
@@ -45,7 +45,7 @@ The city also aims to support citizens to shape public space and make the city g
 
 #### **Leadership and governance**
 
-###### ![Children engaging in sports](/images/features/2021/sports-kazan.jpg/)**Children engaging in sports** © City of Kazan
+###### ![A parking lane converted into a temporal park](/images/features/2023/parklets3.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
 - The city created the three-year programme (2015 – 2018), which provides financial support for the projects and counselling for the citizens through the Local Agenda 21 association in Vienna. The project was then extended for another 3 years (2018 – 2020).
 - The city introduced new regulations for using parking lanes for ‘parklets’ – transforming one or more parking spots as public spaces.
@@ -57,8 +57,6 @@ An intensive social media campaign on the realised projects also helped to widen
 ---
 
 #### **Creativity and innovation**
-
-###### ![The Universiade Village](/images/features/2021/universiade-village.jpg/)**The Universiade Village** © City of Kazan
 
 - The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book ['Parklets // Street Furniture Vienna'](https://www.startnext.com/parklets).
 - The parklets helped to create easily accessible public spaces where everyone could take part in creative and fun activities such as playing table tennis with a round table and self-made rackets and bread-making on the streets. 
@@ -83,8 +81,6 @@ Novel activities such as dining on the street were replicated in various parts t
 ---
 
 #### **Replicable ideas**
-
-###### ![Kazan has improved its quality of life](/images/features/2021/bulak-river.jpg/)**Kazan has improved its quality of life** © City of Kazan
 
 - Financial support and advice from the city are a good lever to promote citizen engagement and ground-up initiatives, creating a collaborative atmosphere between citizens and district councils. 
 - A variety of public spaces were used for the programme, including parking lanes, squares, sidewalks, traffic islands, stairs, parks, and roads. Cities can look for opportunities to turn drab utilitarian spaces into fun and vibrant shared spaces at low cost. **<font color="#967942">O</font>**
