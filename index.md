@@ -39,13 +39,13 @@ sections:
         image: /images/features/2023/lisbon-plaza.jpg
         alt: Lisbon
     - infopic:    
-        title: A pictorial of Lisbon's creative urban projects
-        subtitle: Photo essay
-        description: Lens on Lisbon – see the city's innovative urban regeneration in pictures
+        title: Turning parking lane into parklets
+        subtitle: Case study 18
+        description: Look at how Vienna provides support for ground-up temporary public space activation.
         button: Photo essay
-        url: /resources/in-pictures/lisbon/
-        image: /images/features/2023/maat.jpg/
-        alt: Lisbon
+        url: /resources/case-study/vienna-parklets/
+        image: /images/features/2023/parklets1.jpg/
+        alt: Vienna parklet
     - infobar:    
         title: 📩
         subtitle: 
