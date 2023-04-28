@@ -22,8 +22,8 @@ description:  In Vienna, ‘Grätzloase’ is an initiative that provides suppor
 
 ###### ![Mayor Ilsur Metshin signing a football](/images/features/2021/mayor-sports.jpg/)**Mayor Ilsur Metshin signing a football** © City of Kazan
 
-- Born from the belief that public spaces should be used in diverse ways that increase the quality of people's stay, ‘Grätzloase’ is an initiative that provides support for temporary public space activation programmes in Vienna.
-- With advice from Local Agenda 21, citizens can shape public space by transforming parking lanes into parklets that serve as meeting points.
+- Born from the belief that public spaces should be used in diverse ways that increase the quality of people's stay, [‘Grätzloase’](https://graetzloase.at/en/home)[^2] is an initiative that provides support for temporary public space activation programmes in Vienna.
+- With advice from [Local Agenda 21](https://demarchesterritorialesdedeveloppementdurable.org/vienna-austria/#:~:text=The%20LA21%20Vienna%20offers%20citizens,promote%20the%20sustainable%20urban%20development.), citizens can shape public space by transforming parking lanes into parklets that serve as meeting points.
 - Since 2015, over 140 ‘Grätzloase’ projects have created local havens throughout Vienna, with more than 700 activities staged including parties, workshops, sports events, communal dining and more.
 - More importantly, the projects are highly effective citizen engagement levers that contribute to making the city greener, foster strong community relationships and create a cooperative atmosphere between citizens and district councils.
 
@@ -60,7 +60,7 @@ An intensive social media campaign on the realised projects also helped to widen
 
 ###### ![The Universiade Village](/images/features/2021/universiade-village.jpg/)**The Universiade Village** © City of Kazan
 
-- The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book [Parklets // Street Furniture Vienna]( https://www.startnext.com/parklets).
+- The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book [Parklets // Street Furniture Vienna](https://www.startnext.com/parklets).
 - The parklets helped to create easily accessible public spaces where everyone could take part in creative and fun activities such as playing table tennis with a round table and self-made rackets and bread-making on the streets. 
 Novel activities such as dining on the street were replicated in various parts throughout the city. 
 
@@ -94,3 +94,4 @@ Novel activities such as dining on the street were replicated in various parts t
 ---
 
 [^1]: The information in this case study is correct as of 2019.
+[^2]: The Lokale Agenda 21 Wien (LA21) association coordinates and organises processes fostering sustainable urban development at the district level in Vienna.
