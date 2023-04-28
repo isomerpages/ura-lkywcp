@@ -16,12 +16,14 @@ description: Smart technologies are being used by cities to combat the effects o
 
 #### **Key takeaways**
 
-| 1 | Lisbon tapped on various funding sources to finance 130 rehabilitation projects. |
-| 2 | The city co-created public and green spaces with citizens through 'A Square in Each Neighbourhood' programme. |
-| 3 | Street art and events can help to celebrate and enhance neighbourhoods. |
-| 4 | Lisbon's sustainable development strategy aims to create a better environment and reduce public expenditure. |
-| 5 | Investing in transport infrastructure and effecting behavioural changes are examples of how Lisbon addresses its traffic issues. |
-| 6 | To tackle food wastage, the city created a digital platform to consolidate resources and a city-wide composting network. |
+| 1 | Smart technologies, with their ability to integrate and process raw data from sensors and cameras through data analytics platforms and digital solutions, help cities address the impact of climate change. |
+| 2 | Coastal cities have also introduced smart systems to help manage their vulnerabilities. |
+| 3 | Rotterdam created a network of green roofs acting as storm water reservoirs. |
+| 4 | Miami-Dade County appointed the world's first Chief Heat Officer to coordinate projects on cooling, education, and infrastructure. |
+| 5| Athens launched launched an app called ‘Extrema’, which evaluates users’ real-time personalised health risk and directs them to the nearest cooling centres. |
+| 6 | New York City developed a heat warning system to anticipate heat waves. |
+| 7 | Singapore employs a range of smart technologies to manage its urban forests and parks. |
+| 8 | A new pilot in Sydney deploys smart technology to manage parks and direct users to coolest spots. |
 
 ###### ![Praça do Comércio at Lisbon's riverfront](/images/features/2023/lisbon-plaza.jpg/)**Praça do Comércio at Lisbon's riverfront** © sopotniccy/123RF
 
