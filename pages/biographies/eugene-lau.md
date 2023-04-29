@@ -6,7 +6,7 @@ published: true
 
 <div style="width:150px"><img src="/images/secretariat/eugene-lau.png" alt="Eugene Lau" /></div>
 
-##### **Mr Eugene <u>Lau</u>** <br> Acting Director <br> Architecture & Urban Design, Industry & Innovation <br> Urban Redevelopment Authority Singapore
+##### **Mr Eugene <u>Lau</u>** <br>Director <br> Architecture & Urban Design, Industry & Innovation <br> Urban Redevelopment Authority Singapore
 
 ---
 
