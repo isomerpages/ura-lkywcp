@@ -26,7 +26,7 @@ The Prize Secretariat manages the entire Prize cycle, including budgeting and re
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/secretariat/eugene-lau.png" alt="Eugene Lau" /><br></td>
-<td><strong>Mr Eugene <u>Lau</u></strong><br />Acting Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
+<td><strong>Mr Eugene <u>Lau</u></strong><br />Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
 </tr>
 </tbody>
 </table>
