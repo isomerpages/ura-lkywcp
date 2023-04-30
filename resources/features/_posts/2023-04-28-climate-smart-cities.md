@@ -18,7 +18,7 @@ description: Smart technologies are being used by cities to combat the effects o
 
 | 1 | Rotterdam created a network of green roofs acting as storm water reservoirs. |
 | 2 | Miami-Dade County appointed the world's first Chief Heat Officer. |
-| 3 | Athens launched launched an app to evaluate and direct users to nearest cooling centres. |
+| 3 | Athens launched an app to evaluate and direct users to nearest cooling centres. |
 | 4 | New York City developed a heat warning system to anticipate heat waves. |
 | 5 | Singapore employs smart technologies to manage its urban forests and parks. |
 | 6 | A new smart pilot in Sydney manages parks and directs users to coolest spots. |
