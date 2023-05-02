@@ -23,7 +23,7 @@ description: Smart technologies are being used by cities to combat the effects o
 | 5 | Singapore employs smart technologies to manage its urban forests and parks. |
 | 6 | A new smart pilot in Sydney manages parks and directs users to coolest spots. |
 
-###### ![Praça do Comércio at Lisbon's riverfront](/images/features/2023/lisbon-plaza.jpg/)**Praça do Comércio at Lisbon's riverfront** © sopotniccy/123RF
+###### ![A rooftop rainwater collection and management system in Rotterdam](/images/features/2023/rotterdam-roof.jpg/)**A rooftop rainwater collection and management system in Rotterdam** © Frans Blok/123RF
 
 From more frequent and intense adverse weather events to rising sea level, the impact of climate change on cities is multi-faceted and [likely to worsen over time](https://www.livescience.com/is-the-weather-getting-worse). Increasingly, cities are adopting smart technologies as part of their strategies to mitigate such impact. 
 
