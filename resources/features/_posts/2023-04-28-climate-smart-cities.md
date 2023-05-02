@@ -43,9 +43,12 @@ In Rotterdam, the Netherlands, flooding risk is exceptionally high with [four-fi
 
 The city has implemented an [innovative approach](https://www.corporateknights.com/built-environment/rotterdam-uses-smart-tech-to-save-city-from-drowning/) to reduce flood risks by creating a network of green roofs acting as storm water reservoirs. Electronic valves in the tanks can be operated remotely to release the water when the drainage systems are less taxed. By linking these roofs to the weather forecast, the roofs automatically adjust their storage by releasing water in advance when heavy rains are predicted. 
 
-#### **Navigating heat waves** 
+<br>
+> ##### "As a low-lying city in the Dutch river delta, Rotterdam is vulnerable to the effects of climate change. Climate adaptation – adapting Rotterdam to climate change – is absolutely essential."
 
-###### ![A Fado band performing on the street of Alfama, Lisbon](/images/features/2023/alfama-fado.jpg/)**A Fado band performing on the street of Alfama, Lisbon** © Sopotnicki/Shutterstock
+<div align="right"><b>— Arno Bonte</b> <br>Vice Mayor, Rotterdam</div>
+
+#### **Navigating heat waves** 
 
 With increasing extreme heat waves, cities are particularly affected due to the [urban heat island effect](https://www.heat.gov/pages/urban-heat-islands). Recognising the gravity of this challenge, Miami-Dade County, United States, appointed the world’s first [Chief Heat Officer](https://www.bloomberg.com/news/articles/2021-09-29/miami-chief-heat-officer-sets-out-resilience-agenda) in 2021, with the task of coordinating projects on cooling, education, and infrastructure. Other cities, including [Athens](https://www.theguardian.com/environment/2021/jul/23/athens-appoints-chief-heat-officer-combat-climate-crisis) and [Melbourne](https://news.melbourne.vic.gov.au/media-releases/new-tool-to-combat-rising-temperatures-in-city/#:~:text=Melbourne%20became%20the%20sixth%20city,Chief%20Heat%20Officers%20last%20year.), soon followed suit. 
 
@@ -55,12 +58,9 @@ To combat the problem, Athens has launched a slew of initiatives including [esta
 
 New York City has developed a heat warning system to anticipate heat waves. The city uses satellite data to draw up an [interactive heat map](https://council.nyc.gov/data/heat/), which alerts the government to the neighbourhoods and populations most vulnerable to heat waves. Such data, together with [other datasets](https://www.health.ny.gov/environmental/weather/vulnerability_index/) on population density and public transit networks, helps the city to establish locations where [neighbourhood cooling centres](https://www.c40knowledgehub.org/s/article/Cool-Neighborhoods-NYC-A-comprehensive-approach-to-keep-communities-safe-in-extreme-heat?language=en_US) – publicly accessible spaces with air-conditioning – are needed during heatwaves.
 
-<br>
-> ##### "As a low-lying city in the Dutch river delta, Rotterdam is vulnerable to the effects of climate change. Climate adaptation – adapting Rotterdam to climate change – is absolutely essential."
-
-<div align="right"><b>— Arno Bonte</b> <br>Vice Mayor, Rotterdam</div>
-
 #### **Managing urban greenery more efficiently**
+
+###### ![Singapore employs smart technologies to manage its urban forests and parks](/images/features/2023/singapore-trees.jpg/)**Singapore employs smart technologies to manage its urban forests and parks** © Tanya Keisha/123RF
 
 The drive to incorporate more green spaces to help mitigate the effects of climate change has been gaining traction in cities, and smart technologies are now essential to help governments manage their urban greenery more efficiently and effectively.
 
