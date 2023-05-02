@@ -36,7 +36,7 @@ sections:
         description: Smart technologies enable cities to be more responsive and efficient in mitigating the impacts of climate change
         button: Feature story
         url: /resources/features/climate-smart-cities/
-        image: /images/features/2023/lisbon-plaza.jpg
+        image: /images/features/2023/rotterdam-roof.jpg
         alt: Climate smart cities
     - infopic:    
         title: Turning parking lanes into parklets
