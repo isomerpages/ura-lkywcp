@@ -82,6 +82,8 @@ Novel activities such as dining on the street were replicated in various parts t
 
 #### **Replicable ideas**
 
+###### ![Dining with neighbours in the street](/images/features/2022/gratzloase2.jpg/)**Dining with neighbours in the street** © Daniel Dutkowski
+
 - Financial support and advice from the city are a good lever to promote citizen engagement and ground-up initiatives, creating a collaborative atmosphere between citizens and district councils. 
 - A variety of public spaces were used for the programme, including parking lanes, squares, sidewalks, traffic islands, stairs, parks, and roads. Cities can look for opportunities to turn drab utilitarian spaces into fun and vibrant shared spaces at low cost. **<font color="#967942">O</font>**
 
