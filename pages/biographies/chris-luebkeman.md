@@ -1,5 +1,6 @@
 ---
 title: Biography — Chris Luebkeman
+image: /images/jury/chris-luebkeman.png
 permalink: /chris-luebkeman/
 ---
 
