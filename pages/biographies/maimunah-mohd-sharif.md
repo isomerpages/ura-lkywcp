@@ -1,5 +1,6 @@
 ---
 title: Biography — Maimunah Mohd Sharif
+image: /images/jury/maimunah-mohd-sharif.png
 permalink: /maimunah-mohd-sharif/
 ---
 
