@@ -6,7 +6,7 @@ permalink: /maimunah-mohd-sharif/
 
 <div style="width:150px"><img src="/images/jury/maimunah-mohd-sharif.png" alt="Maimunah Mohd Sharif" /></div>
 
-##### **Maimunah Mohd <u>Sharif</u>** <br> Executive Director <br> United Nations Human Settlements Programme (UN-Habitat) <br> Malaysia/Kenya
+##### **Maimunah Mohd <u>Sharif</u>** <br> Member, Lee Kuan Yew World City Prize Council <br> Executive Director, United Nations Human Settlements Programme (UN-Habitat) <br> Malaysia/Kenya
 
 ---
 
