@@ -6,7 +6,7 @@ permalink: /chan-heng-chee/
 
 <div style="width:150px"><img src="/images/jury/chan-heng-chee.png" alt="Chan Heng Chee" /></div>
 
-##### **Ambassador <u>Chan</u> Heng Chee** <br> Professor (Former Chair) <br> Lee Kuan Yew Centre for Innovative Cities <br> Singapore
+##### **Ambassador <u>Chan</u> Heng Chee** <br> Member, Lee Kuan Yew World City Prize Council <br> Professor (Former Chair), Lee Kuan Yew Centre for Innovative Cities <br> Singapore
 
 ---
 
