@@ -6,7 +6,7 @@ permalink: /flemming-borreskov/
 
 <div style="width:150px"><img src="/images/jury/flemming-borreskov.png" alt="Flemming Borreskov" /></div>
 
-##### **Mr Flemming <u>Borreskov</u>** <br> President <br> Catalytic Society <br> Denmark
+##### **Mr Flemming <u>Borreskov</u>** <br> Member, Lee Kuan Yew World City Prize Council <br> President, Catalytic Society <br> Denmark
 
 ---
 
