@@ -1,5 +1,6 @@
 ---
 title: Biography — Wong Mun Summ
+image: /images/jury/wong-mun-summ.png
 permalink: /wong-mun-summ/
 ---
 
