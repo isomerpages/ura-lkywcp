@@ -1,5 +1,6 @@
 ---
 title: Biography — Cheong Koon Hean
+image: /images/jury/cheong-koon-hean.png
 permalink: /cheong-koon-hean/
 ---
 
