@@ -1,5 +1,6 @@
 ---
 title: Biography — Ilmar Reepalu
+image: /images/jury/ilmar-reepalu.png
 permalink: /ilmar-reepalu/
 ---
 
