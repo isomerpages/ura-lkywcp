@@ -1,5 +1,6 @@
 ---
 title: Biography — Lim Eng Hwee
+image: /images/jury/lim-eng-hwee.png
 permalink: /lim-eng-hwee/
 ---
 
