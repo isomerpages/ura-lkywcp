@@ -1,6 +1,7 @@
 ---
 title: Biography — Eugene Lau
 permalink: /eugene-lau/
+image: /images/secretariat/eugene-lau.png
 published: true
 ---
 
