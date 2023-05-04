@@ -24,3 +24,7 @@ Ambassador Chan received a number of awards including The Public Administration 
 When Ambassador Chan left Washington at the end of her appointment, she received the Inaugural Asia Society Outstanding Diplomatic Achievement Award, the inaugural Foreign Policy Outstanding Diplomatic Achievement Award 2012 and the United States Navy Distinguished Public Service Award. 
 
 Ambassador Chan holds a B.Soc.Sc (Hons) First Class from the National University of Singapore, an M.A. from Cornell University and a Ph.D from the University of Singapore. **<font color="#967942">O</font>**
+
+---
+
+[Back to Prize Council](/prize-council/)
