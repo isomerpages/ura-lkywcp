@@ -1,5 +1,6 @@
 ---
 title: Biography — Maimunah Mohd Sharif
+image: /images/jury/maimunah-mohd-sharif.png
 permalink: /maimunah-mohd-sharif/
 ---
 
@@ -14,3 +15,7 @@ permalink: /maimunah-mohd-sharif/
 Ms Sharif began her career as a Town Planner at the Municipal Council of Penang Island in 1985. In 2003, she was promoted to Director of Planning and Development, a position she held until November 2009. As Director, she was responsible for the preparation of structure and local plans, and was directly involved in development control of Penang City projects and landscape development. She also led a team for the planning and implementation of the Urban Renewal Projects in George Town. In November 2009, she was entrusted as the first General Manager to establish George Town World Heritage Incorporated and manage the George Town World Heritage Site which was inscribed by UNESCO in July 2008. 
 
 She holds a Bachelor of Science with Honors in Town Planning Studies from the University of Wales Institutes of Science and Technology, United Kingdom and a Master of Science in Planning studies from the Malaysia Science University. She is married and has two daughters. **<font color="#967942">O</font>**
+
+---
+
+[Back to Prize Council](/prize-council/)

@@ -1,5 +1,6 @@
 ---
 title: Biography — Flemming Borreskov
+image: /images/jury/flemming-borreskov.png
 permalink: /flemming-borreskov/
 ---
 
@@ -25,3 +26,7 @@ Flemming Borreskov holds a number of Danish board positions as well as various i
 - Initiator of the Strategic Urban Governance Masterclass Program for Danish Urban Executives
 
 Flemming Borreskov holds a MSc in Economics from Copenhagen University. **<font color="#967942">O</font>**
+
+---
+
+[Back to Prize Council](/prize-council/)

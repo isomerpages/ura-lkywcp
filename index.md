@@ -31,21 +31,21 @@ sections:
         image: /images/features/2023/cfn-extended.gif/
         alt: Call for nominations
     - infopic:    
-        title: Lisbon making a comeback
+        title: Climate-smart cities for the future
         subtitle: Featured article
-        description: Find out how Lisbon showed resilience in the face of challenges and constraints
+        description: Smart technologies enable cities to be more responsive and efficient in mitigating the impacts of climate change
         button: Feature story
-        url: /resources/features/lisbon-resurgence/
-        image: /images/features/2023/lisbon-plaza.jpg
-        alt: Lisbon
+        url: /resources/features/climate-smart-cities/
+        image: /images/features/2023/rotterdam-roof.jpg
+        alt: Climate smart cities
     - infopic:    
-        title: A pictorial of Lisbon's creative urban projects
-        subtitle: Photo essay
-        description: Lens on Lisbon – see the city's innovative urban regeneration in pictures
-        button: Photo essay
-        url: /resources/in-pictures/lisbon/
-        image: /images/features/2023/maat.jpg/
-        alt: Lisbon
+        title: Turning parking lanes into parklets
+        subtitle: Case study 18
+        description: Look at how Vienna provides support for ground-up temporary public space activation.
+        button: Case study 18
+        url: /resources/case-studies/vienna-parklets/
+        image: /images/features/2023/parklets1.jpg/
+        alt: Vienna parklet
     - infobar:    
         title: 📩
         subtitle: 

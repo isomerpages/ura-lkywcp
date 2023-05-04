@@ -1,5 +1,6 @@
 ---
 title: Biography — Cheong Koon Hean
+image: /images/jury/cheong-koon-hean.png
 permalink: /cheong-koon-hean/
 ---
 
@@ -20,3 +21,7 @@ An active contributor to international discourse on urban issues, Dr Cheong was 
 She is currently a board member of the National University of Singapore (NUS) and is on the Advisory Committees of NUS School of Design and Environment, NUS Engineering Faculty, Singapore Sustainability Academy and the URA Academy. Dr Cheong has served on the boards of the Urban Redevelopment Authority, Housing & Development Board, Jurong Town Corporation, National Heritage Board, Jurong Port and the Civil Service College.
 
 A Colombo Plan scholar, Dr Cheong holds a 1st Class Honours degree and University Gold Medal in Architecture and a Doctor of Architecture honoris causa conferred by the University of Newcastle; a Master’s degree in urban development planning from University College London and has completed the Advanced Management Programme in Harvard Business School. She is also a Tan Swan Beng Endowed Professor in Nanyang Technological University, the Institute of Policy Studies’ 5th S R Nathan Fellow, Fellow (Life) of the Singapore Institute of Architects and Honorary Fellow of the Singapore Institute of Planners. Prof Cheong has been conferred multiple awards, notably the Meritorious Service Medal for outstanding public service, the University of Newcastle’s Convocation Medal for Professional Excellence and the 2017 Asia-Pacific Landscape Architecture Luminary Award by the International Federation of Landscape Architects. In 2016, she became the first Asian to be conferred the Urban Land Institute Prize for Visionaries in Urban Development as well as the Council on Tall Buildings and Urban Habitat’s Lynn S Beedle Lifetime Achievement Award. **<font color="#967942">O</font>**
+
+---
+
+[Back to Nominating Committee](/nominating-committee/)
