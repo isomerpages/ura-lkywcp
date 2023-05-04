@@ -1,5 +1,6 @@
 ---
 title: Biography — Flemming Borreskov
+image: /images/jury/flemming-borreskov.png
 permalink: /flemming-borreskov/
 ---
 
