@@ -1,5 +1,6 @@
 ---
 title: Biography — Peter Ho
+image: /images/jury/peter-ho.png
 permalink: /peter-ho/
 ---
 
