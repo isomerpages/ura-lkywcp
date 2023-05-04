@@ -6,7 +6,7 @@ permalink: /peter-ho/
 
 <div style="width:150px"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></div>
 
-##### **Mr Peter <u>Ho</u>** <br> Chairman <br> Urban Redevelopment Authority <br> Singapore
+##### **Mr Peter <u>Ho</u>** <br> Chairman, Lee Kuan Yew World City Prize Council <br> Chairman, Urban Redevelopment Authority <br> Singapore
 
 ---
 
