@@ -6,7 +6,7 @@ permalink: /wong-mun-summ/
 
 <div style="width:150px"><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /></div>
 
-##### **Mr <u>Wong</u> Mun Summ** <br> Founding Director <br> WOHA Architects <br> Singapore
+##### **Mr <u>Wong</u> Mun Summ** <br> Member, Lee Kuan Yew World City Prize Nominating Committee <br> Founding Director, WOHA Architects <br> Singapore
 
 ---
 

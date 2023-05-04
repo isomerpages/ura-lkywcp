@@ -6,7 +6,7 @@ permalink: /ricky-burdett/
 
 <div style="width:150px"><img src="/images/jury/ricky-burdett.png" alt="Ricky Burdett" /></div>
 
-##### **Prof Ricky <u>Burdett</u>** <br> Professor of Urban Studies, Director of LSE Cities and Urban Age <br> London School of Economics and Political Science <br> United Kingdom
+##### **Prof Ricky <u>Burdett</u>** <br> Member, Lee Kuan Yew World City Prize Nominating Committee <br> Professor of Urban Studies, Director of LSE Cities and Urban Age, London School of Economics and Political Science <br> United Kingdom
 
 ---
 

@@ -7,7 +7,7 @@ published: true
 
 <div style="width:150px"><img src="/images/secretariat/yap-lay-bee.png" alt="Yap Lay Bee" /></div>
 
-##### **Ms <u>Yap</u> Lay Bee** <br> Prize Secretary <br> Group Director (Architecture & Urban Design) <br> Urban Redevelopment Authority Singapore
+##### **Ms <u>Yap</u> Lay Bee** <br> Lee Kuan Yew World City Prize Secretary <br> Group Director (Architecture & Urban Design) <br> Urban Redevelopment Authority Singapore
 
 ---
 

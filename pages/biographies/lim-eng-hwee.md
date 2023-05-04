@@ -6,7 +6,7 @@ permalink: /lim-eng-hwee/
 
 <div style="width:150px"><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /></div>
 
-##### **Mr <u>Lim</u> Eng Hwee** <br> Chief Executive Officer <br> Urban Redevelopment Authority <br> Singapore
+##### **Mr <u>Lim</u> Eng Hwee** <br> Member, Lee Kuan Yew World City Prize Nominating Committee <br> Chief Executive Officer, Urban Redevelopment Authority <br> Singapore
 
 ---
 

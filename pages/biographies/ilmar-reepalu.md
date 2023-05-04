@@ -6,7 +6,7 @@ permalink: /ilmar-reepalu/
 
 <div style="width:150px"><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /></div>
 
-##### **Mr Ilmar <u>Reepalu</u>** <br> Vice President <br> Swedish Association of Local Authorities and Regions <br> Sweden
+##### **Mr Ilmar <u>Reepalu</u>** <br> Member, Lee Kuan Yew World City Prize Council <br> Vice President, Swedish Association of Local Authorities and Regions <br> Sweden
 
 ---
 
