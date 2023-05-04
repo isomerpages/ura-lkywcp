@@ -1,5 +1,6 @@
 ---
 title: Biography — Chan Heng Chee
+image: /images/jury/chan-heng-chee.png
 permalink: /chan-heng-chee/
 ---
 
