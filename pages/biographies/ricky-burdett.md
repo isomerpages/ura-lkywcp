@@ -1,5 +1,6 @@
 ---
 title: Biography — Ricky Burdett
+image: /images/jury/ricky-burdett.png
 permalink: /ricky-burdett/
 ---
 
