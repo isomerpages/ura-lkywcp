@@ -9,9 +9,7 @@ published: true
 
 ##### **Mr Eugene <u>Lau</u>** 
 
-| Project Director, Lee Kuan Yew World City Prize |
-| Director, Architecture & Urban Design, Industry & Innovation | 
-| Urban Redevelopment Authority Singapore |
+###### Project Director, Lee Kuan Yew World City Prize <br> Director, Architecture & Urban Design, Industry & Innovation <br> Urban Redevelopment Authority Singapore
 
 ---
 
