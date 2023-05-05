@@ -66,6 +66,10 @@ Despite its many successes in the past, Vienna continues to build on the strong 
 | [Vienna — channelling efforts against climate change](/resources/features/vienna-climate-change/) |
 | [Shaping Vienna from the ground up](/resources/features/shaping-vienna-ground-up/) |
 
+##### **Case studies** 
+
+| [Turning parking lanes into parklets](/resources/case-studies/vienna-parklets/) |
+
 ---
 
 [^1]: All information correct as of 2019.
