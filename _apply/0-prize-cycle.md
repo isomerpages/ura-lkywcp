@@ -7,7 +7,7 @@ description: Nominations for the 2024 Prize have closed.
 
 ##### Nominations for the 2024 Prize have closed.
 
-###### ![2024 Prize cycle](/images/2024-prize-cycle-extended.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile-extended.jpg/)**
+###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile.jpg/)**
 
 #### **2024 Prize Cycle**
 
