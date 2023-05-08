@@ -13,7 +13,7 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Nominations closed
+            - title: 
               description: 
               url: 
     - infobar:    
