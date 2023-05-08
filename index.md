@@ -22,6 +22,12 @@ sections:
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
         button: About the Prize
         url: /about-the-prize/
+    - infobar:    
+        title: Nominations closed!
+        subtitle: Lee Kuan Yew World City Prize 2024
+        description: Nominations for the 2024 Prize have closed. Thank you for your interest. The results will be announced in March 2024. Watch this space. 
+        button: 
+        url:
     - infopic:    
         title: Climate-smart cities for the future
         subtitle: Featured article
@@ -38,12 +44,6 @@ sections:
         url: /resources/case-studies/vienna-parklets/
         image: /images/features/2023/parklets1.jpg/
         alt: Vienna parklet
-    - infobar:    
-        title: Nominations closed!
-        subtitle: Lee Kuan Yew World City Prize 2024
-        description: Nominations for the 2024 Prize have closed. Thank you for your interest. The results will be announced in March 2024. Watch this space. 
-        button: 
-        url:
     - infobar:    
         title: 📩
         subtitle: 
