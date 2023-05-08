@@ -38,14 +38,12 @@ sections:
         url: /resources/case-studies/vienna-parklets/
         image: /images/features/2023/parklets1.jpg/
         alt: Vienna parklet
-    - infopic:    
+    - infobar:    
         title: Nominations closed!
         subtitle: Lee Kuan Yew World City Prize 2024
         description: Nominations for the 2024 Prize have closed. Thank you for your interest. The results will be announced in March 2024. Watch this space. 
         button: 
-        url: 
-        image: /images/features/2023/cfn-extended.gif/
-        alt: Nominations closed
+        url:
     - infobar:    
         title: 📩
         subtitle: 
