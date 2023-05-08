@@ -13,23 +13,15 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Final call for nominations!
-              description: Nominate your city today
-              url: /stage-a/#nomination-form
+            - title: Nominations closed
+              description: 
+              url: 
     - infobar:    
         title: 
         subtitle: About the Prize
         description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
         button: About the Prize
         url: /about-the-prize/
-    - infopic:    
-        title: Final call for nominations!
-        subtitle: Lee Kuan Yew World City Prize 2024
-        description: Last chance to apply for the 2024 Prize and showcase your city's innovative solutions on a global stage. 
-        button: Nominate today
-        url: /stage-a/#nomination-form
-        image: /images/features/2023/cfn-extended.gif/
-        alt: Call for nominations
     - infopic:    
         title: Climate-smart cities for the future
         subtitle: Featured article
@@ -46,6 +38,14 @@ sections:
         url: /resources/case-studies/vienna-parklets/
         image: /images/features/2023/parklets1.jpg/
         alt: Vienna parklet
+    - infopic:    
+        title: Nominations closed!
+        subtitle: Lee Kuan Yew World City Prize 2024
+        description: Nominations for the 2024 Prize have closed. Thank you for your interest.
+        button: 
+        url: 
+        image: /images/features/2023/cfn-extended.gif/
+        alt: Nominations closed
     - infobar:    
         title: 📩
         subtitle: 
