@@ -17,12 +17,6 @@ sections:
               description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
               url: /about-the-prize/
     - infobar:    
-        title: 
-        subtitle: About the Prize
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
-        button: About the Prize
-        url: /about-the-prize/
-    - infobar:    
         title: Nominations closed!
         subtitle: 
         description: The results of the 2024 Prize will be announced in March 2024. Watch this space. 
