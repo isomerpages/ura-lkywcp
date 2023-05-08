@@ -3,15 +3,13 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/stage-a-nominations.jpg
-description: Final call for nominations for the 2024 Prize!
+description: Nominations for 2024 Prize have closed.
 
 ---
 
 #### **Instructions**
 
-Final call for nominations for the 2024 Prize! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b/). 
-
-- [Stage A Nomination Form](#nomination-form)
+Nominations for 2024 Prize have closed.
 
 #### **Interested cities – please read the following**
 
@@ -36,12 +34,6 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 - Lessons for other cities
 
 **<mark>There is no entry fee required.</mark>**
-
-#### **Nomination Form**
-
-If the form below is not loaded, [access the external form](https://form.gov.sg/62e4f365140cd3001168b367).
-
-<iframe id="iframe" scrolling="no" src="https://form.gov.sg/62e4f365140cd3001168b367" style="width:100%;height:3000px" title="Nomination Form"></iframe>
 
 #### **Next step**
 
