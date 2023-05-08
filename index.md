@@ -24,8 +24,8 @@ sections:
         url: /about-the-prize/
     - infobar:    
         title: Nominations closed!
-        subtitle: Lee Kuan Yew World City Prize 2024
-        description: Nominations for the 2024 Prize have closed. Thank you for your interest. The results will be announced in March 2024. Watch this space. 
+        subtitle: Thank you for your interest!
+        description: The results of the 2024 Prize will be announced in March 2024. Watch this space. 
         button: 
         url:
     - infopic:    
