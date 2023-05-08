@@ -26,7 +26,7 @@ Cities interested to participate shall approach an independent third party (nomi
 
 #### **Nominators – please read the following**
 
-Please ensure that the city or cities that you are intending to nominate agree(s) to participate in the Prize. Please write and attach a short recommendation letter (*around 600 words*) together with the [Nomination Form](#stage-a-nomination-form) to support why the city that you are nominating should win the Prize, covering aspects such as: 
+Please ensure that the city or cities that you are intending to nominate agree(s) to participate in the Prize. Please write and attach a short recommendation letter (*around 600 words*) together with the Nomination Form to support why the city that you are nominating should win the Prize, covering aspects such as: 
 
 - Outstanding leadership and governance
 - Successful urban transformation
