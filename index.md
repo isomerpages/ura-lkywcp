@@ -14,8 +14,8 @@ sections:
         url: 
         key_highlights:
             - title: 
-              description: 
-              url: 
+              description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
+              url: /about-the-prize/
     - infobar:    
         title: 
         subtitle: About the Prize
