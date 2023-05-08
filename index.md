@@ -24,7 +24,7 @@ sections:
         url: /about-the-prize/
     - infobar:    
         title: Nominations closed!
-        subtitle: Thank you for your interest!
+        subtitle: 
         description: The results of the 2024 Prize will be announced in March 2024. Watch this space. 
         button: 
         url:
