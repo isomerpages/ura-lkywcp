@@ -6,7 +6,7 @@ permalink: /weiping-wu/
 
 <div style="width:150px"><img src="/images/jury/weiping-wu.png" alt="Weiping Wu" /></div>
 
-##### **Prof Weiping <u>Wu</u>** <br> Member, Lee Kuan Yew World City Prize Nominating Committee <br> Professor and Director, Urban Planning Programme, Columbia GSAPP <br> USA
+##### **Prof Weiping <u>Wu</u>** <br> Member, Lee Kuan Yew World City Prize Nominating Committee <br> Professor, Director of Urban Planning Programme, Columbia GSAPP <br> USA
 
 ---
 
