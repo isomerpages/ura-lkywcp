@@ -14,7 +14,7 @@ sections:
         url: 
         key_highlights:
             - title: About the Prize
-              description: Recognising outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
+              description: Recognising outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation
               url: /about-the-prize/
     - infobar:    
         title: Nominations closed!
