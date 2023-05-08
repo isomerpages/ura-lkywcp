@@ -42,7 +42,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 </tr>
 <tr>
 <td><br><img src="/images/jury/weiping-wu.png" alt="Weiping Wu" /><br></td>
-<td><br><strong>Prof Weiping <u>Wu</u> </strong><br /> Professor of Urban Planning and Director of the Urban Planning programmes<br />Columbia University Graduate School of Architecture, Planning and Preservation<br />USA<br><a href="/weiping-wu/">Biography</a></td>
+<td><br><strong>Prof Weiping <u>Wu</u> </strong><br /> Professor and Director, Urban Planning programme<br />Columbia GSAPP<br />USA<br><a href="/weiping-wu/">Biography</a></td>
   </tr>
 </tbody>
 </table>
