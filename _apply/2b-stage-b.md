@@ -6,9 +6,7 @@ image: /images/stage-b-report.jpg
 description: Please complete Stage A before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission.
 ---
 
-#### **Instructions**
-
-Submissions for the 2024 Prize have closed.
+##### Nominations for the 2024 Prize have closed.
 
 #### **Stage B submission**
 
