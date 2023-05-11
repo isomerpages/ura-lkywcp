@@ -7,9 +7,8 @@ description: Nominations for 2024 Prize have closed.
 
 ---
 
-#### **Instructions**
 
-Nominations for 2024 Prize have closed.
+##### Nominations for the 2024 Prize have closed.
 
 #### **Interested cities – please read the following**
 
