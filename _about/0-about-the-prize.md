@@ -9,7 +9,7 @@ description: The Lee Kuan Yew World City Prize is a biennial international award
 
 > ##### "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
 
-<div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee 2024</div>
+<div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee</div>
 
 **The Lee Kuan Yew World City Prize** is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. 
 
