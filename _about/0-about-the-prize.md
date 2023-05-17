@@ -2,7 +2,7 @@
 title: About the Prize
 permalink: /about-the-prize/
 image: /images/medallion-1280.jpg/
-description: The Lee Kuan Yew World City Prize is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
+description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 
 ![medallion](/images/medallion-1280.jpg)
@@ -11,15 +11,11 @@ description: The Lee Kuan Yew World City Prize is a biennial international award
 
 <div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee</div>
 
-**The Lee Kuan Yew World City Prize** is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. 
-
-The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
+**The Lee Kuan Yew World City Prize** is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
 
 #### **Practical solutions**
 
-To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. 
-
-Through this Prize, Singapore hopes to promote exemplary thought-leadership and exchange of ideas among cities, so as to spur further innovation in the area of sustainable urban development.
+To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. Through this Prize, Singapore hopes to promote exemplary thought-leadership and exchange of ideas among cities, so as to spur further innovation in the area of sustainable urban development.
 
 The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Corporation](https://www.kepcorp.com/).
 
