@@ -34,14 +34,9 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
 
 | ---: | :--- | ---: |
-| **1** | [American Planning Association](http://www.planning.org/) |
-| **2** | [The City Planning Institute of Japan](http://https//www.cpij.or.jp/eng/) |
-| **3** | [European Urban Knowledge Network](http://www.eukn.eu/) |
-| **4** | [Fundación Metrópoli](http://www.fundacion-metropoli.org/) |
-| **5** | [International Federation for Housing and Planning](https://www.ifhp.org/) |
-| **6** | [INTA - International Urban Development Association](https://inta-aivn.org/en/) |
-| **7** | [ISOCARP](https://isocarp.org/) |
-| **8** | [Urban Land Institute](https://uli.org/) |
-| **9** | [United Nations Environment Programme](https://www.unenvironment.org/) |
-| **10** | [Urban Planning Society of China](http://en.planning.org.cn/) |
-| **11** | [World Green Building Council](https://www.worldgbc.org/) |
+| [American Planning Association](http://www.planning.org/) | [The City Planning Institute of Japan](http://https//www.cpij.or.jp/eng/) |
+| [European Urban Knowledge Network](http://www.eukn.eu/) | [Fundación Metrópoli](http://www.fundacion-metropoli.org/) |
+| [International Federation for Housing and Planning](https://www.ifhp.org/) | [INTA - International Urban Development Association](https://inta-aivn.org/en/) |
+| [ISOCARP](https://isocarp.org/) | [Urban Land Institute](https://uli.org/) |
+| [United Nations Environment Programme](https://www.unenvironment.org/) | [Urban Planning Society of China](http://en.planning.org.cn/) |
+| [World Green Building Council](https://www.worldgbc.org/) |
