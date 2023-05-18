@@ -34,14 +34,14 @@ The Prize's logo and visual identity is based on the 'ring' symbol commonly used
 The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
 
 | ---: | :--- | ---: |
-| **1** | American Planning Association | [URL](http://www.planning.org/) |
-| **2** | The City Planning Institute of Japan | [URL](http://https//www.cpij.or.jp/eng/) |
-| **3** | European Urban Knowledge Network | [URL](http://www.eukn.eu/) |
-| **4** | Fundación Metrópoli | [URL](http://www.fundacion-metropoli.org/) |
-| **5** | International Federation for Housing and Planning | [URL](https://www.ifhp.org/) |
-| **6** | INTA - International Urban Development Association | [URL](https://inta-aivn.org/en/) |
-| **7** | ISOCARP | [URL](https://isocarp.org/) |
-| **8** | Urban Land Institute | [URL](https://uli.org/) |
-| **9** | United Nations Environment Programme | [URL](https://www.unenvironment.org/) |
-| **10** | Urban Planning Society of China | [URL](http://en.planning.org.cn/) |
-| **11** | World Green Building Council | [URL](https://www.worldgbc.org/) |
+| **1** | [American Planning Association](http://www.planning.org/) |
+| **2** | [The City Planning Institute of Japan](http://https//www.cpij.or.jp/eng/) |
+| **3** | [European Urban Knowledge Network](http://www.eukn.eu/) |
+| **4** | [Fundación Metrópoli](http://www.fundacion-metropoli.org/) |
+| **5** | [International Federation for Housing and Planning](https://www.ifhp.org/) |
+| **6** | [INTA - International Urban Development Association](https://inta-aivn.org/en/) |
+| **7** | [ISOCARP](https://isocarp.org/) |
+| **8** | [Urban Land Institute](https://uli.org/) |
+| **9** | [United Nations Environment Programme](https://www.unenvironment.org/) |
+| **10** | [Urban Planning Society of China](http://en.planning.org.cn/) |
+| **11** | [World Green Building Council](https://www.worldgbc.org/) |
