@@ -13,15 +13,15 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: About the Prize
-              description:
+            - title: Final extension of nominations!
+              description: Nominations extended to 15 July
               url: /about-the-prize/
     - infobar:    
-        title: Nominations closed!
-        subtitle: 
-        description: The results of the 2024 Prize will be announced in March 2024. Watch this space. 
+        title: Final extension of nominations!
+        subtitle: Lee Kuan Yew World City Prize 2024
+        description: This is the final extension of the 2024 Prize to 15 July. We have simplified the process. Nominate your city today! 
         button: 
-        url:
+        url: /stage-a/#nomination-form
     - infopic:    
         title: Climate-smart cities for the future
         subtitle: Featured article
