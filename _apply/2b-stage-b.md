@@ -12,7 +12,7 @@ description: Please complete Stage A before proceeding. The Prize Secretariat wi
 
 #### **Stage B submission**
 
-The Stage B submission report comprises the following parts: 
+The Stage B submission report ([download template](/documents/stage-b-report-template.docx/) comprises the following parts: 
 
 | Part | Details |
 | :--- | :--- |
