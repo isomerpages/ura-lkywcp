@@ -9,7 +9,7 @@ description: Final extension of nominations to 14 July 2023!
 
 #### **Instructions** 
 
-Final extension of nominations to 13 July 2023! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b).
+Final extension of nominations to 14 July 2023! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b).
 
 - [Stage A nomination form](/stage-a/#nomination-form)
 
