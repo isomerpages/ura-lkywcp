@@ -4,7 +4,7 @@ title: Lee Kuan Yew World City Prize
 description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation
 image: /images/shareicon.png/
 permalink: /
-notification: 
+notification: Final extension of nominations to 15 July 2023!
 sections:
     - hero:
         title: ·
@@ -18,7 +18,7 @@ sections:
               url: /about-the-prize/
     - infobar:    
         title: Final extension of nominations!
-        subtitle: Lee Kuan Yew World City Prize 2024
+        subtitle: 
         description: This is the final extension of the 2024 Prize to 15 July. We have simplified the process. Nominate your city today! 
         button: 
         url: /stage-a/#nomination-form
