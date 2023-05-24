@@ -8,7 +8,7 @@ description: Please complete Stage A before proceeding. The Prize Secretariat wi
 
 #### **Instructions**
 
-**<mark>We have simplified the process!</mark>** Please complete [Stage A](/stage-a) before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission. 
+**<mark>We have simplified the process!</mark>** Please complete [Stage A](/stage-a) before proceeding. 
 
 #### **Stage B submission**
 
