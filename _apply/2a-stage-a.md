@@ -48,18 +48,6 @@ If the form below is not loaded, [access the external form](https://form.gov.sg/
   style="width: 100%; height: 3200px"
 ></iframe>
 
-<div
-  style="
-    font-family: Sans-Serif;
-    font-size: 12px;
-    color: #999;
-    opacity: 0.5;
-    padding-top: 5px;
-  "
->
-  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
-</div>
-
 #### **Next step**
 
 - [Stage B](/stage-b/)
