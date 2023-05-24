@@ -41,20 +41,6 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 
 If the form below is not loaded, [access the external form](https://form.gov.sg/62e4f365140cd3001168b367).
 
-<div
-  style="
-    font-family: Sans-Serif;
-    font-size: 15px;
-    color: #000;
-    opacity: 0.9;
-    padding-top: 5px;
-    padding-bottom: 8px;
-  "
->
-  If the form below is not loaded, you can also fill it in at
-  <a href="https://form.gov.sg/62e4f365140cd3001168b367">here</a>.
-</div>
-
 <!-- Change the width and height values to suit you best -->
 <iframe
   id="iframe"
