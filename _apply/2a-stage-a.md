@@ -7,8 +7,9 @@ description: Nominations for 2024 Prize have closed.
 
 ---
 
+##### Final extension of nominations to 15 July! Nominate your city now.
 
-##### Nominations for the 2024 Prize have closed.
+- [Stage A nomination form](/stage-a/#nomination-form)
 
 #### **Interested cities – please read the following**
 
@@ -33,6 +34,43 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 - Lessons for other cities
 
 **<mark>There is no entry fee required.</mark>**
+
+#### **Nomination form**
+
+If the form below is not loaded, [access the external form](https://form.gov.sg/62e4f365140cd3001168b367).
+
+<div
+  style="
+    font-family: Sans-Serif;
+    font-size: 15px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;
+  "
+>
+  If the form below is not loaded, you can also fill it in at
+  <a href="https://form.gov.sg/62e4f365140cd3001168b367">here</a>.
+</div>
+
+<!-- Change the width and height values to suit you best -->
+<iframe
+  id="iframe"
+  src="https://form.gov.sg/62e4f365140cd3001168b367"
+  style="width: 100%; height: 500px"
+></iframe>
+
+<div
+  style="
+    font-family: Sans-Serif;
+    font-size: 12px;
+    color: #999;
+    opacity: 0.5;
+    padding-top: 5px;
+  "
+>
+  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
+</div>
 
 #### **Next step**
 
