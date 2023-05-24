@@ -12,7 +12,7 @@ description: Please complete Stage A before proceeding. The Prize Secretariat wi
 
 #### **Stage B submission**
 
-The Stage B submission report ([download template](/documents/stage-b-report-template.docx/) comprises the following parts: 
+The Stage B submission report ([download template](/documents/stage-b-report.docx/)) comprises the following parts: 
 
 | Part | Details |
 | :--- | :--- |
@@ -22,7 +22,7 @@ The following items are **<mark>optional</mark>**. Nominated cities may choose t
 
 | Part | Details |
 | :--- | :--- |
-| II <br> **Key statistics** | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| II <br> **[Key statistics](/documents/key-statistics.xlsx)** | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
 | III <br> **Supporting documents** | Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
 #### **The fine print**
