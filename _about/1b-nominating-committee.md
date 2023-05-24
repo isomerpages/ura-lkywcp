@@ -38,8 +38,12 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 </tr>
 <tr>
 <td><br><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /><br></td>
-<td><br><strong>Mr <u>Wong</u> Mun Summ</strong><br />Director<br />WOHA Architects<br />Singapore<br><a href="/wong-mun-summ/">Biography</a></td>
+<td><br><strong>Mr <u>Wong</u> Mun Summ</strong><br /> Director<br />WOHA Architects<br />Singapore<br><a href="/wong-mun-summ/">Biography</a></td>
 </tr>
+<tr>
+<td><br><img src="/images/jury/weiping-wu.png" alt="Weiping Wu" /><br></td>
+<td><br><strong>Prof Weiping <u>Wu</u> </strong><br /> Professor, Director of Urban Planning programme<br />Columbia GSAPP<br />USA<br><a href="/weiping-wu/">Biography</a></td>
+  </tr>
 </tbody>
 </table>
 

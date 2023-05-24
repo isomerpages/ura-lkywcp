@@ -33,6 +33,10 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <td><br><strong>Ambassador <u>Chan</u> Heng Chee</strong><br />Professor (Former Chair)<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/chan-heng-chee/">Biography</a></td>
 </tr>
 <tr>
+<td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
+<td><br><strong>Ms Helen <u>Clark</u> </strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/helen-clark/">Biography</a></td>
+</tr>
+<tr>
 <td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
 <td><br><strong>Mr Ilmar <u>Reepalu</u></strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/ilmar-reepalu/">Biography</a></td>
 </tr>
@@ -47,12 +51,11 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 
 ##### **Past members**
 
-| **1** | **Ms Helen <u>Clark</u>** <br> Former Administrator, United Nations Development Programme |
-| **2** | **Mr S. <u>Dhanabalan</u>** <br> Former Chair, Temasek Holdings | 
-| **3** | **Dr Pierre <u>Laconte</u>** <br> Former President, ISOCARP | 
-| **4** | **Mr Fumihiko <u>Maki</u>** <br> Principal, Maki & Associates | 
-| **5** | **Late <u>Park</u> Won-soon** <br> Former Mayor, Seoul |
-| **6** | **Mr J Y <u>Pillay</u>** <br> Former Chair, Council of Presidential Advisers Singapore | 
-| **7** | **Mr John <u>So</u>** <br> Former Lord Mayor, Melbourne | 
-| **8** | **Mr Achim <u>Steiner</u>** <br> Administrator, United Nations Development Programme |
-| **9** | **Dr <u>Qiu</u> Baoxing** <br> Counsellor, State Council, China |
+| **1** | **Mr S. <u>Dhanabalan</u>** <br> Former Chair, Temasek Holdings | 
+| **2** | **Dr Pierre <u>Laconte</u>** <br> Former President, ISOCARP | 
+| **3** | **Mr Fumihiko <u>Maki</u>** <br> Principal, Maki & Associates | 
+| **4** | **Late <u>Park</u> Won-soon** <br> Former Mayor, Seoul |
+| **5** | **Mr J Y <u>Pillay</u>** <br> Former Chair, Council of Presidential Advisers Singapore | 
+| **6** | **Mr John <u>So</u>** <br> Former Lord Mayor, Melbourne | 
+| **7** | **Mr Achim <u>Steiner</u>** <br> Administrator, United Nations Development Programme |
+| **8** | **Dr <u>Qiu</u> Baoxing** <br> Counsellor, State Council, China |

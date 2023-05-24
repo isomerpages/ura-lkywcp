@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: Lee Kuan Yew World City Prize
-description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world
+description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation
 image: /images/shareicon.png/
 permalink: /
-notification: 
+notification: Final extension of nominations to 15 July 2023! <a href="/stage-a/#nomination-form">Nominate your city</a> today!
 sections:
     - hero:
         title: ·
@@ -13,23 +13,15 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Final call for nominations!
-              description: Nominate your city today
-              url: /stage-a/#nomination-form
+            - title: Nominations extended to 15 July!
+              description: 
+              url: /stage-a/#nomination-form/ 
     - infobar:    
-        title: 
-        subtitle: About the Prize
-        description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation.
-        button: About the Prize
-        url: /about-the-prize/
-    - infopic:    
-        title: Final call for nominations!
-        subtitle: Lee Kuan Yew World City Prize 2024
-        description: Last chance to apply for the 2024 Prize and showcase your city's innovative solutions on a global stage. 
-        button: Nominate today
-        url: /stage-a/#nomination-form
-        image: /images/features/2023/cfn-extended.gif/
-        alt: Call for nominations
+        title: Final extension of nominations!
+        subtitle: 
+        description: This is the final extension of the 2024 Prize to 15 July. We have simplified the process. Nominate your city today! 
+        button: Nominate today!
+        url: /stage-a/#nomination-form/
     - infopic:    
         title: Climate-smart cities for the future
         subtitle: Featured article
