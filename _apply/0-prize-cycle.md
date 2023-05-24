@@ -5,7 +5,9 @@ image: /images/2024-prize-cycle.jpg
 description: Nominations for the 2024 Prize have closed.
 ---
 
-##### Nominations for the 2024 Prize have closed.
+##### Final extension of nominations to 15 July! Nominate your city now.
+
+- [Stage A nomination form](/stage-a/#nomination-form) 
 
 ###### ![2024 Prize cycle](/images/2024-prize-cycle.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile.jpg/)**
 
