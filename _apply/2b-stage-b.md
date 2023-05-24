@@ -36,7 +36,7 @@ If the form below is not loaded, [access the external form](https://form.gov.sg/
   style="width: 100%; height: 1000px"
 ></iframe>
 
-All submissions must be sent by **15 Jul 2023**. Please do not submit any physical materials as they will not be used for evaluations.
+All submissions must be sent by **14 July 2023**. Please do not submit any physical materials as they will not be used for evaluations.
 
 #### **The fine print**
 
