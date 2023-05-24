@@ -59,7 +59,7 @@ If the form below is not loaded, [access the external form](https://form.gov.sg/
 <iframe
   id="iframe"
   src="https://form.gov.sg/62e4f365140cd3001168b367"
-  style="width: 100%; height: 500px"
+  style="width: 100%; height: 3500px"
 ></iframe>
 
 <div
