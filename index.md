@@ -15,7 +15,7 @@ sections:
         key_highlights:
             - title: Nominations extended to 15 July!
               description: 
-              url: /about-the-prize/
+              url: /stage-a/#nomination-form/ 
     - infobar:    
         title: Final extension of nominations!
         subtitle: 
