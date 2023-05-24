@@ -6,11 +6,13 @@ image: /images/stage-b-report.jpg
 description: Please complete Stage A before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission.
 ---
 
-##### Nominations for the 2024 Prize have closed.
+#####
+
+Please complete [Stage A](/stage-a) before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission. 
 
 #### **Stage B submission**
 
-The Stage B submission comprises the following parts: 
+**<mark>We have simplified the process!</mark>** The Stage B submission comprises the following parts: 
 
 | Part | Details |
 | :--- | :--- |
@@ -18,8 +20,6 @@ The Stage B submission comprises the following parts:
 | II <br> **Detailed report** | A detailed written report in 4 sections: <br><br> **A. City portfolio** <br> Information on the city. <br><br> **B. Master plan or strategy** <br> Information on the overall master plan or strategy for the city. <br><br> **C. Demonstration projects** <br> A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. <br><br> **D. Photo gallery** <br> Photos to show the various aspects of the city, before and after its urban transformation, and the demonstration projects. |
 | III <br> **References** | At least 2 but not more than 5 reference letters (approx. 600 words each) written and signed by independent third parties who can provide testimony to the success of the city's urban transformation. | 
 | IV <br> **Supporting documents** | _Optional_: Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
-
-**<mark>Please note that Stage B submission may require some time and resources to complete.</mark>** 
 
 #### **The fine print**
 
