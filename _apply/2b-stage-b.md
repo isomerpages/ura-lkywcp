@@ -16,7 +16,7 @@ The Stage B submission report ([download template](/documents/stage-b-report.doc
 
 | Part | Details |
 | :--- | :--- |
-| I <br> **Submission report** | A written report in 4 sections: <br><br> **A. City portfolio** <br> Brief information on the city. <br><br> **B. Master plan or strategy** <br> Brief information on the overall master plan or strategy for the city. <br><br> **C. Demonstration projects** <br> A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. |
+| I <br> **Submission report** | A written report in 3 sections: <br><br> **A. City portfolio** <br> Brief information on the city. <br><br> **B. Master plan or strategy** <br> Brief information on the overall master plan or strategy for the city. <br><br> **C. Demonstration projects** <br> A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. |
 
 The following items are **<mark>optional</mark>**. Nominated cities may choose to submit the following as additional information: 
 
