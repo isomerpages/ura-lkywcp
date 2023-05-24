@@ -9,7 +9,7 @@ description: Final extension of nominations to 15 July!
 
 #### **Instructions** 
 
-Final extension of nominations to 15 July! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to Stage B.
+Final extension of nominations to 15 July! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b).
 
 - [Stage A nomination form](/stage-a/#nomination-form)
 
