@@ -2,7 +2,7 @@
 title: 2024 Prize Cycle
 permalink: /prize-cycle/
 image: /images/2024-prize-cycle.jpg
-description: Nominations for the 2024 Prize have closed.
+description: Final extension of nominations to 15 July!
 ---
 
 ##### Final extension of nominations to 15 July! Nominate your city now.
