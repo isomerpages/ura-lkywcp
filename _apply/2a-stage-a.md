@@ -3,11 +3,13 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/stage-a-nominations.jpg
-description: Nominations for 2024 Prize have closed.
+description: Final extension of nominations to 15 July! 
 
 ---
 
-##### Final extension of nominations to 15 July! Nominate your city now.
+#### **Instructions** 
+
+Final extension of nominations to 15 July! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to Stage B.
 
 - [Stage A nomination form](/stage-a/#nomination-form)
 
