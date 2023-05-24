@@ -13,8 +13,8 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Nominations
-              description: Extended to 15 July!
+            - title: Nominations extended to 15 July!
+              description: 
               url: /about-the-prize/
     - infobar:    
         title: Final extension of nominations!
