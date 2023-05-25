@@ -19,8 +19,8 @@ sections:
     - infobar:    
         title: Final extension of nominations!
         subtitle: 
-        description: This is the final extension of the 2024 Prize to 14 July 2023. We have simplified the process. Nominate your city today! 
-        button: Nominate today!
+        description: <mark><b>We have simplified the Stage submission process!</b></mark> 
+        button: Nominate your city today!
         url: /stage-a/#nomination-form/
     - infopic:    
         title: Climate-smart cities for the future
