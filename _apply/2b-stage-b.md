@@ -25,7 +25,7 @@ The following items are **<mark>optional</mark>**. Nominated cities may choose t
 | II <br> **[Key statistics](/documents/key-statistics.xlsx)** | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
 | III <br> **Supporting documents** | Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
-#### **Digital submissions only**
+#### **Stage B submission form**
 
 If the form below is not loaded, [access the external form](https://form.gov.sg/646e0f225f5cf2001102293c).
 
