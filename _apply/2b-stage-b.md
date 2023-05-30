@@ -10,6 +10,8 @@ description: Please complete Stage A before proceeding. The Prize Secretariat wi
 
 **<mark>We have simplified the process!</mark>** Please complete [Stage A](/stage-a) before proceeding. 
 
+- [Stage B submission form](#submission-form)
+
 #### **Stage B submission**
 
 The Stage B submission report ([download template](/documents/stage-b-report.docx)) comprises the following parts: 
@@ -22,7 +24,7 @@ The following items are **<mark>optional</mark>**. Nominated cities may choose t
 
 | Part | Details |
 | :--- | :--- |
-| II <br> **[Key statistics](/documents/key-statistics.xlsx)** | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| II <br> **Key statistics** <br> ([Download template](/documents/key-statistics.xlsx)) | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
 | III <br> **Supporting documents** | Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
 #### **Submission form**
@@ -33,7 +35,7 @@ If the form below is not loaded, [access the external form](https://form.gov.sg/
 <iframe
   id="iframe"
   src="https://form.gov.sg/646e0f225f5cf2001102293c"
-  style="width: 100%; height: 1500px"
+  style="width: 100%; height: 1350px"
 ></iframe>
 
 All submissions must be sent by **14 July 2023**. Please do not submit any physical materials as they will not be used for evaluations.
