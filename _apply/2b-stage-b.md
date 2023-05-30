@@ -24,7 +24,7 @@ The following items are **<mark>optional</mark>**. Nominated cities may choose t
 
 | Part | Details |
 | :--- | :--- |
-| II <br> **Key statistics** <br> [Download template](/documents/key-statistics.xlsx) | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| II <br> **Key statistics** <br> ([Download template](/documents/key-statistics.xlsx)) | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
 | III <br> **Supporting documents** | Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
 
 #### **Submission form**
