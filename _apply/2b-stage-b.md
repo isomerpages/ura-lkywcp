@@ -35,7 +35,7 @@ If the form below is not loaded, [access the external form](https://form.gov.sg/
 <iframe
   id="iframe"
   src="https://form.gov.sg/646e0f225f5cf2001102293c"
-  style="width: 100%; height: 1400px"
+  style="width: 100%; height: 1350px"
 ></iframe>
 
 All submissions must be sent by **14 July 2023**. Please do not submit any physical materials as they will not be used for evaluations.
