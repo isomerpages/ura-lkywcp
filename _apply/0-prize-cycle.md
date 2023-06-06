@@ -1,7 +1,7 @@
 ---
 title: 2024 Prize Cycle
 permalink: /prize-cycle/
-image: /images/2024-prize-cycle.jpg
+image: /images/2024-prize-cycle-extended.jpg
 description: Final extension of nominations to 14 July 2023!
 ---
 
