@@ -2,7 +2,7 @@
 title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
-image: /images/stage-a-nominations.jpg
+image: /images/nominations/2024-stage-a.png
 description: Final extension of nominations to 14 July 2023! 
 
 ---
