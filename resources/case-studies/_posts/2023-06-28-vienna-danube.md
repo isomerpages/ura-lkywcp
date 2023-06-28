@@ -57,9 +57,11 @@ description:  In Vienna, ‘Grätzloase’ is an initiative that provides suppor
 
 ###### ![A parking lane converted into a temporal park](/images/features/2023/parklets2.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
-- The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book ['Parklets // Street Furniture Vienna'](https://www.startnext.com/parklets).
-- The parklets helped to create easily accessible public spaces where everyone could take part in creative and fun activities such as playing table tennis with a round table and self-made rackets and bread-making on the streets. 
-Novel activities such as dining on the street were replicated in various parts throughout the city. 
+- Danube Island is raised at least 1m above projected flood levels, offering a 390ha flood-free surface.
+- New Danube is designed as a large usable waterbody for water sports, with inlets and basins for docking rowing boats and sailboats.
+- Danube Island is designed as a large park with its ends as forested zones and meadows, and integrated old river branches with residues of riparian forest and ancient trees.
+- A facility built to absorb the wastewater from the Eastern bank helped prevent the contamination of New Danube.
+- A controlled introduction of water to the Lobau floodplains nature reserve helped prevent further depletion of water volumes due to reduction of groundwater levels.. 
 
 [Back to top](#case-study-18)
 
@@ -69,11 +71,11 @@ Novel activities such as dining on the street were replicated in various parts t
 
 ###### ![Impacts of the case study](/images/features/2023/impacts-vienna-parklets.png/)
 
-- The enthusiasm of residents brought about a broad variety of ideas, with nearly all the selected projects realised. 
-- New neighbourly relationships were forged and strengthened as seen through the replication of ‘dining on the street’. 
-- 44 parklets were realised in 2018, and 70 in 2019, demonstrating the popularity of the programme in turning parking lanes into meeting nodes. 
-- Private areas were opened for public use, for example a supermarket’s parking lot was used as a playground for children.
-- The initiative generated numerous positive press reports that created wider awareness.
+- The farsighted planning allowed the city to continue growing on the banks of the Danube and offer a high quality of life.
+- The flood protection system helps the city avert major damages during flood events, such as during a record torrential downpour in July 2021.
+- New Danube and Danube Island are popular leisure destinations today, with frequent large-scale cultural and sporting events, such as Danube Island Festival.
+- The project with its careful landscaping has seen an increased in biodiversity.
+- The Freudenau Power Plant completed in 1998 provides 1.037 billion kWh of electricity per year, sufficient to supply over 280,000 households or half of Vienna’s private households.
 
 [Back to top](#case-study-18)
 
@@ -83,12 +85,12 @@ Novel activities such as dining on the street were replicated in various parts t
 
 ###### ![Dining with neighbours in the street](/images/features/2022/gratzloase2.jpg/)**Dining with neighbours in the street** © Daniel Dutkowski
 
-- Financial support and advice from the city are a good lever to promote citizen engagement and ground-up initiatives, creating a collaborative atmosphere between citizens and district councils. 
-- A variety of public spaces were used for the programme, including parking lanes, squares, sidewalks, traffic islands, stairs, parks, and roads. Cities can look for opportunities to turn drab utilitarian spaces into fun and vibrant shared spaces at low cost. **<font color="#967942">O</font>**
+- Taking the long-term view, a city can turn potential threats into opportunities.
+- Vienna’s forward-looking plans allowed the city to continue to grow safely and sustainably, even before climate change entered the mainstream vocabulary.
+- Creative and integrated approaches allowed the city to look beyond a mere infrastructural solution, but developing multiple uses, especially those that would benefit the people directly. **<font color="#967942">O</font>**
 
 [Back to top](#case-study-18)
 
 ---
 
 [^1]: The information in this case study is correct as of 2019.
-[^2]: The Lokale Agenda 21 Wien (LA21) association coordinates and organises processes fostering sustainable urban development at the district level in Vienna.
