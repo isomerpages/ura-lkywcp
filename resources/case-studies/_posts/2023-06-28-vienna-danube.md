@@ -2,18 +2,18 @@
 title: Safeguarding Viennna against future floods
 permalink: /resources/case-studies/vienna-danube/
 image: /images/features/2023/parklets1.jpg
-description:  In Vienna, ‘Grätzloase’ is an initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. 
+description:  Vienna's foresight and planning into the future helps the city deter future devastating floods and safeguards its safe growth. 
 
 ---
 
-##### In Vienna, ‘Grätzloase’ is an initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens.[^1] 
+##### Vienna's foresight and planning into the future helps the city deter future devastating floods and safeguards its safe growth.[^1] 
 
 
-#### **Case study 18**
+#### **Case study 19**
 
 | **City** | [Vienna](/vienna/) |
-| **Type** | Public space activation |
-| **Location** | City-wide |
+| **Type** | Climate change adaptation |
+| **Location** | Danube river, city centre |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
 
 ---
