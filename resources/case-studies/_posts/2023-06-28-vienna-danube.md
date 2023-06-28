@@ -22,10 +22,10 @@ description:  In Vienna, ‘Grätzloase’ is an initiative that provides suppor
 
 ###### ![A parking lane converted into a temporal park](/images/features/2023/parklets1.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
-- Born from the belief that public spaces should be used in diverse ways that increase the quality of people's stay, [‘Grätzloase’](https://graetzloase.at/en/home)[^2] (Neighbourhood Oasis) is an initiative that provides support for temporary public space activation programmes in Vienna.
-- With advice from [Local Agenda 21](https://demarchesterritorialesdedeveloppementdurable.org/vienna-austria/#:~:text=The%20LA21%20Vienna%20offers%20citizens,promote%20the%20sustainable%20urban%20development.), citizens can shape public space by transforming parking lanes into parklets that serve as meeting points.
-- Since 2015, over 140 ‘Grätzloase’ projects have created local havens throughout Vienna, with more than 700 activities staged including parties, workshops, sports events, communal dining and more.
-- More importantly, the projects are highly effective citizen engagement levers that contribute to making the city greener, foster strong community relationships and create a cooperative atmosphere between citizens and district councils.
+- Vienna embarked on creating a flood relief channel (New Danube) in 1969 to mitigate potentially devastating floods, especially those exacerbated by climate change.
+- The new 21.1km-long, 210m-wide channel runs alongside the existing Danube, with its excavated soil forming a recreational island in between – Danube Island.
+- The Danube remains as a main navigation channel, while the New Danube is activated via weirs to absorb excess water volumes during flood events.
+- Otherwise, the New Danube and Danube Island are used for leisure purposes for most of the year.
 
 [Back to top](#case-study-18)
  
