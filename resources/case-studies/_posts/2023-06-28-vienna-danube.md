@@ -33,9 +33,9 @@ description:  In Vienna, ‘Grätzloase’ is an initiative that provides suppor
 
 #### **Key issues before the project**
 
-- The city recognised that public space should be used in diverse ways, and that the quality of stay in should be increased. 
-- Vienna hopes to facilitate neighbours in organising themselves to realise small projects in public space and strengthen local communities through the initiative.
-The city also aims to support citizens to shape public space and make the city greener. 
+- The Danube is key to Vienna’s urban development as a flood would be detrimental to the city.
+- In the 1870s, the city widened and straightened the existing Danube and created a 450m-wide inundation zone and a flood protection dam, catering to a maximum flood water volume of 11,700m<sup>3</sup>/s.
+- The 1954 flood highlighted the need to further increase the protection levels to handle larger flood volumes up to 14,000m<sup>3</sup>/s, statistically expected to occur every 3,000 to 5,000 years.
 
 [Back to top](#case-study-18)
 
@@ -45,10 +45,9 @@ The city also aims to support citizens to shape public space and make the city g
 
 ###### ![A parking lane converted into a temporal park](/images/features/2023/parklets3.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
-- The city created the three-year programme (2015 – 2018), which provides financial support for the projects and counselling for the citizens through the Local Agenda 21 association in Vienna. The project was then extended for another 3 years (2018 – 2020).
-- The city introduced new regulations for using parking lanes for ‘parklets’ – transforming one or more parking spots as public spaces.
-- Most projects are quick and temporary interventions, which can be easily replicated in other areas of the city. As such, many projects are being realised each year during the programme.
-An intensive social media campaign on the realised projects also helped to widen the publicity and outreach.. 
+- The city called for the architectural and landscape design of New Danube and Danube Island via an open competition.
+- A team made up of hydraulic engineers, architects and landscape planners worked closely during the planning and implementation phase.
+- The processes ensure that the project not only serves its primary function of flood protection, but provides free-of-charge leisure options, water and energy production, and nature and biodiversity protection.
 
 [Back to top](#case-study-18)
 
