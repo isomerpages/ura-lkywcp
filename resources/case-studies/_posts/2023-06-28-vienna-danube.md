@@ -2,11 +2,11 @@
 title: Safeguarding Viennna against future floods
 permalink: /resources/case-studies/vienna-danube/
 image: /images/features/2023/parklets1.jpg
-description:  Vienna's foresight and planning into the future helps the city deter future devastating floods and safeguards its safe growth. 
+description:  Vienna's foresight and long-term planning into the future helps the city avoid devastating floods and safeguards its safe growth. 
 
 ---
 
-##### Vienna's foresight and planning into the future helps the city deter future devastating floods and safeguards its safe growth.[^1] 
+##### Vienna's foresight and long-term planning into the future helps the city avoid devastating floods and safeguards its safe growth.[^1] 
 
 
 #### **Case study 19**
