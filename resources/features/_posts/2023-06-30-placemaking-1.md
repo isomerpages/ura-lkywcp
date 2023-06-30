@@ -31,11 +31,11 @@ However, urban assets that are integral to place-making, such as museums, parks,
 
 #### **Plan for localised placemaking**
 
-###### ![Community-based local events such as farmers' markets help support placemaking goals](/images/features/2023/farmers-market.jpg/)**Community-based local events such as farmers' markets help support placemaking goals** © rawpixel/123RF
-
 Planning for placemaking sets the foundation for impactful urban renewal. The plan achieves several important objectives – it demonstrates civic commitment, captures the collective vision, identifies urban assets that can be used in placemaking, guides community engagement, and details resources needed. 
 
 Cities across Australia have drawn up localised placemaking plans in recent years, tailored to the needs of their communities. For example, the city of Port Phillip [drew up a place plan for revitalising Fitzroy Street](https://wskra.com/placemaking/) in St Kilda after extensive discussions with residents, businesses, school community, and welfare organisations. Focusing on Fitzroy Street’s reputation as a vibrant melting pot, the community [implemented projects](https://s3.ap-southeast-2.amazonaws.com/hdp.au.prod.app.pp-haveyoursay.files/8915/7595/1195/CoPP_FITZROY_STREET_PLACE_PLAN_1119_FINAL_ONLINE.PDF) that would further enliven the street, such as commissioning street art, and working with property owners to avail vacant shops for artists, creative projects, and community initiatives. The city also awards grants to local groups whose projects support community placemaking goals, such as farmers’ markets and outdoor cinema.
+
+###### ![Community-based local events such as farmers' markets help support placemaking goals](/images/features/2023/farmers-market.jpg/)**Community-based local events such as farmers' markets help support placemaking goals** © rawpixel/123RF
 
 In September 2020, Wales launched a charter that places community-led placemaking at the heart of urban development. Julie James, then Minister for Housing and Local Government, [said](https://www.gov.wales/new-charter-will-put-places-heart-planning), “Lockdown has made us appreciate our local ‘places’ more so than ever before and it’s vital, therefore, that all of us who work in the built environment sector strive to make the places where we live, work, shop or meet with others as good as they can be, for every member of the society.” Following the launch, the government announced a [GBP 15.2 million placemaking fund](https://www.gov.wales/town-centres-wales-benefit-placemaking-fund) (approx. USD 19.3 million) to support local projects while Welsh cities and towns developed place plans leveraging local distinctive assets and community facilities to effect placemaking.
 
