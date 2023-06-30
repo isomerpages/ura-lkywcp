@@ -69,6 +69,7 @@ Despite its many successes in the past, Vienna continues to build on the strong 
 ##### **Case studies** 
 
 | [Turning parking lanes into parklets](/resources/case-studies/vienna-parklets/) |
+| [Safeguarding Vienna against future floods](/resources/case-studies/vienna-danube/) |
 
 ---
 
