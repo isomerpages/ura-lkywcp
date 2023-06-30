@@ -46,7 +46,7 @@ In September 2020, Wales launched a charter that places community-led placemakin
 
 #### **Engage local communities**
 
-###### ![Sydney Olympic Park](/images/features/2023/sydney-olympic-park.jpg/)**Sydney Olympic Park** © Maggie Yap/unsplash
+###### ![The City of Milan aims to ease traffic, reclaim pedestrian space and focus on public spaces](/images/features/2023/milan-street.jpg/)**The City of Milan aims to ease traffic, reclaim pedestrian space and focus on public spaces** © claudiodivizia/123RF
 
 Leveraging local community knowledge and involvement is crucial to sustainable localised placemaking. As experts of their neighbourhoods, residents have a more holistic perspective,  while city governments can provide specific expertise and resources to empower them in transforming their neighbourhoods. 
 
