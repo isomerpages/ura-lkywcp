@@ -31,6 +31,8 @@ However, urban assets that are integral to place-making, such as museums, parks,
 
 #### **Plan for localised placemaking**
 
+###### ![Community-based local events such as farmers' markets help support placemaking goals](/images/features/2023/singapore-trees.jpg/)**Community-based local events such as farmers' markets help support placemaking goals** © rawpixel/123RF
+
 Planning for placemaking sets the foundation for impactful urban renewal. The plan achieves several important objectives – it demonstrates civic commitment, captures the collective vision, identifies urban assets that can be used in placemaking, guides community engagement, and details resources needed. 
 
 Cities across Australia have drawn up localised placemaking plans in recent years, tailored to the needs of their communities. For example, the city of Port Phillip [drew up a place plan for revitalising Fitzroy Street](https://wskra.com/placemaking/) in St Kilda after extensive discussions with residents, businesses, school community, and welfare organisations. Focusing on Fitzroy Street’s reputation as a vibrant melting pot, the community [implemented projects](https://s3.ap-southeast-2.amazonaws.com/hdp.au.prod.app.pp-haveyoursay.files/8915/7595/1195/CoPP_FITZROY_STREET_PLACE_PLAN_1119_FINAL_ONLINE.PDF) that would further enliven the street, such as commissioning street art, and working with property owners to avail vacant shops for artists, creative projects, and community initiatives. The city also awards grants to local groups whose projects support community placemaking goals, such as farmers’ markets and outdoor cinema.
@@ -43,6 +45,8 @@ In September 2020, Wales launched a charter that places community-led placemakin
 <div align="right"><b>— Julie James</b> <br>Then-Minister for Housing and Local Government, Wales</div>
 
 #### **Engage local communities**
+
+###### ![Sydney Olympic Park](/images/features/2023/sydney-olympic-park.jpg/)**Sydney Olympic Park** © Maggie Yap/unsplash
 
 Leveraging local community knowledge and involvement is crucial to sustainable localised placemaking. As experts of their neighbourhoods, residents have a more holistic perspective,  while city governments can provide specific expertise and resources to empower them in transforming their neighbourhoods. 
 
@@ -61,13 +65,3 @@ This inclusive approach is also illustrated in the development of a mixed-use sp
 As part of supporting precinct-based placemaking, architects and planners have also started designing traditionally walled-off public facilities to be multi-functional and networked with their immediate environment. The [School in Sydhavnen](https://www.rockpanel.co.uk/inspiration/sydhavnen/), Copenhagen, for instance, was designed with its first two storeys open for public use, with the ground floor serving both as city square and school yard. In Olathe, Kansas, USA, the [Indian Creek Library](https://www.multi.studio/project/indian-creek-library/) located at the edge of the neighbourhood was built to be a multifunctional community hub connecting to a nearby park. Creation spaces, such as a maker space and recording studio are distributed through the library building, while façade treatments such as glass wall and metal cladding made it a placemaking icon.
 
 As cities become more globalised over time, localised placemaking will correspondingly grow more important in nurturing community bonds and a strong sense identity and belonging. By collaborating with residents and emphasising inclusivity in designs, cities are paving the way for creative, impactful placemaking from the ground up. <b><font color="#967942">O</font></b>
-
-
-
-
-###### ![Singapore employs smart technologies to manage its urban forests and parks](/images/features/2023/singapore-trees.jpg/)**Singapore employs smart technologies to manage its urban forests and parks** © Tanya Keisha/123RF
-
-
-###### ![Sydney Olympic Park](/images/features/2023/sydney-olympic-park.jpg/)**Sydney Olympic Park** © Maggie Yap/unsplash
-
-
