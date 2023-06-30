@@ -1,7 +1,7 @@
 ---
 title: From streets to communities – localised placemaking (Part 1)
 permalink: /resources/features/placemaking-1/
-image: /images/features/2023/lisbon-plaza.jpg
+image: /images/features/2023/street-furniture.jpg
 description: Post-pandemic cities are increasingly turning to localised placemaking initiatives to strengthen place identities and community engagement. This two-part feature explores key strategies employed by cities to implement sustainable, community-driven placemaking and highlights creative placemaking projects around the world. 
 
 ---
@@ -23,7 +23,7 @@ description: Post-pandemic cities are increasingly turning to localised placemak
 | 5 | Engaging local communities helps sustain placemaking. |
 | 6 | Inclusive design supports localised placemaking, facilitating community interactions. |
 
-###### ![A rooftop rainwater collection and management system in Rotterdam](/images/features/2023/rotterdam-roof.jpg/)**A rooftop rainwater collection and management system in Rotterdam** © Frans Blok/123RF
+###### ![Cities are increasinging turning to localised placemaking to create memorable spaces](/images/features/2023/street-furniture.jpg/)**Cities are increasinging turning to localised placemaking to create memorable spaces** © Viacheslav Lopatin/123RF
 
 [Placemaking](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Placemaking-and-Partnership) – a multi-faceted approach to planning, designing, and proactively managing public spaces to be distinct, liveable, and loveable places – has been gaining traction as a concept in the last two decades. Besides creating distinctive spaces, placemaking also [nurtures wellness](https://www.britishland.com/sites/british-land-corp/files/sustainability/reporting/earlier-reporting/2015/wellbeing-principles-for-british-land.pdf) and [resilience in communities](https://www.clc.gov.sg/docs/default-source/books/building-community-resilience.pdf) as places draw people together and provide opportunities for citizens to build connections and meaning. 
 
