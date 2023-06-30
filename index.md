@@ -25,7 +25,7 @@ sections:
     - infopic:    
         title: What makes a place? 
         subtitle: Featured article
-        description: What makes a place memorable for its local communities? Port Phillip, Milan, Paris, Perth, Xi’an shows you how.
+        description: What makes a place memorable for its local communities? Port Phillip, Milan, Paris, Perth and Xi’an shows you how.
         button: Feature story
         url: /resources/features/placemaking-1/
         image: /images/features/2023/street-furniture.jpg
