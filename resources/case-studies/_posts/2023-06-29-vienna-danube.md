@@ -55,7 +55,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **Creativity and innovation**
 
-###### ![People enjoying a vegan festival at Leuchtturm Wiese on Danube Island](/images/features/2023/danube-featival.jpg/)**People enjoying a festival on Danube Island** © nito500/123RF
+###### ![People enjoying a vegan festival at Leuchtturm Wiese on Danube Island](/images/features/2023/danube-festival.jpg/)**People enjoying a festival on Danube Island** © nito500/123RF
 
 - Danube Island is raised at least 1m above projected flood levels, offering a 390ha flood-free surface.
 - New Danube is designed as a large usable waterbody for water sports, with inlets and basins for docking rowing boats and sailboats.
