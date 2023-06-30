@@ -33,7 +33,7 @@ sections:
     - infopic:    
         title: Safeguarding for the future
         subtitle: Case study 19
-        description: A visionary plan helps Vienna avoid future devastating floods.
+        description: A visionary plan helps Vienna avoid future devastating floods and create new leisure options.
         button: Case study 19
         url: /resources/case-studies/vienna-danube/
         image: /images/features/2023/danube-boating.jpg/
