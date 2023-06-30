@@ -69,7 +69,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **Impacts**
 
-###### ![Impacts of the case study](/images/features/2023/impacts-vienna-parklets.png/)
+###### ![Impacts of the case study](/images/features/2023/impact-danube.png/)
 
 - The farsighted planning allowed the city to continue growing on the banks of the Danube and offer a high quality of life.
 - The flood protection system helps the city avert major damages during flood events, such as during a record torrential downpour in July 2021.
