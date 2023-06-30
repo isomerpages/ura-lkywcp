@@ -20,7 +20,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **In brief**
 
-###### ![A parking lane converted into a temporal park](/images/features/2023/parklets1.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
+###### ![New Danube and Danube Island in Vienna's city centre](/images/features/2023/danube-overview.jpg/)**New Danube and Danube Island in Vienna's city centre** © Cristi Croitoru/123RF
 
 - Vienna embarked on creating a flood relief channel (New Danube) in 1969 to mitigate potentially devastating floods, especially those exacerbated by climate change.
 - The new 21.1km-long, 210m-wide channel runs alongside the existing Danube, with its excavated soil forming a recreational island in between – Danube Island.
@@ -43,7 +43,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **Leadership and governance**
 
-###### ![A parking lane converted into a temporal park](/images/features/2023/parklets3.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
+###### ![Leisure activities on the New Danube during non-flood times](/images/features/2023/danube-boating.jpg/)**Leisure activities on the New Danube during non-flood times** © Przemyslaw Iciak/123RF
 
 - The city called for the architectural and landscape design of New Danube and Danube Island via an open competition.
 - A team made up of hydraulic engineers, architects and landscape planners worked closely during the planning and implementation phase.
@@ -55,7 +55,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **Creativity and innovation**
 
-###### ![A parking lane converted into a temporal park](/images/features/2023/parklets2.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
+###### ![People enjoying a vegan festival at Leuchtturm Wiese on Danube Island](/images/features/2023/danube-featival.jpg/)**People enjoying a festival on Danube Island** © nito500/123RF
 
 - Danube Island is raised at least 1m above projected flood levels, offering a 390ha flood-free surface.
 - New Danube is designed as a large usable waterbody for water sports, with inlets and basins for docking rowing boats and sailboats.
@@ -83,7 +83,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **Replicable ideas**
 
-###### ![Dining with neighbours in the street](/images/features/2022/gratzloase2.jpg/)**Dining with neighbours in the street** © Daniel Dutkowski
+###### ![Hydro Power plant Freudenau](/images/features/2023/danube-powerplant.jpg/)**Hydro Power plant Freudenau** © Daniel Dutkowski
 
 - Taking the long-term view, a city can turn potential threats into opportunities.
 - Vienna’s forward-looking plans allowed the city to continue to grow safely and sustainably, even before climate change entered the mainstream vocabulary.
