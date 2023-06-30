@@ -18,7 +18,7 @@ description: Post-pandemic cities are increasingly turning to localised placemak
 
 | 1 | Urban assets integral to place-making are often clustered in central areas. |
 | 2 | COVID-19 exposed centralisation's drawbacks, limiting citizens' access to meaningful places. |
-| 3 | Cities increasingly adopt localized placemaking for resilient, vibrant neighborhoods. |
+| 3 | Cities increasingly adopt localised placemaking for resilient, vibrant neighborhoods. |
 | 4 | Planning for placemaking sets the foundation for impactful urban renewal. |
 | 5 | Engaging local communities helps sustain placemaking. |
 | 6 | Inclusive design supports localised placemaking, facilitating community interactions. |
