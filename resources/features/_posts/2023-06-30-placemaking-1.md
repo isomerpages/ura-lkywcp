@@ -31,7 +31,7 @@ However, urban assets that are integral to place-making, such as museums, parks,
 
 #### **Plan for localised placemaking**
 
-###### ![Community-based local events such as farmers' markets help support placemaking goals](/images/features/2023/singapore-trees.jpg/)**Community-based local events such as farmers' markets help support placemaking goals** © rawpixel/123RF
+###### ![Community-based local events such as farmers' markets help support placemaking goals](/images/features/2023/farmers-market.jpg/)**Community-based local events such as farmers' markets help support placemaking goals** © rawpixel/123RF
 
 Planning for placemaking sets the foundation for impactful urban renewal. The plan achieves several important objectives – it demonstrates civic commitment, captures the collective vision, identifies urban assets that can be used in placemaking, guides community engagement, and details resources needed. 
 
