@@ -20,7 +20,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **In brief**
 
-###### ![New Danube and Danube Island in Vienna's city centre](/images/features/2023/danube-overview.jpg/)**New Danube and Danube Island in Vienna's city centre** © Cristi Croitoru/123RF
+###### ![New Danube and Danube Island in Vienna's city centre](/images/features/2023/danube-overview.jpg/)**New Danube (darker shade of blue) and Danube Island in Vienna's city centre** © Cristi Croitoru/123RF
 
 - Vienna embarked on creating a flood relief channel (New Danube) in 1969 to mitigate potentially devastating floods, especially those exacerbated by climate change.
 - The new 21.1km-long, 210m-wide channel runs alongside the existing Danube, with its excavated soil forming a recreational island in between – Danube Island.
