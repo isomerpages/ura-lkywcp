@@ -23,7 +23,7 @@ description: Post-pandemic cities are increasingly turning to localised initiati
 | 5 | Engaging local communities helps sustain placemaking. |
 | 6 | Inclusive design supports localised placemaking, facilitating community interactions. |
 
-###### ![Cities are increasingly turning to localised placemaking to create memorable spaces](/images/features/2023/street-furniture.jpg/)**Cities are increasingly turning to localised placemaking to create memorable spaces** © Viacheslav Lopatin/123RF
+###### ![In Xi'an, China, the Qujiang Creative Circle creates opportunities for placemaking with its interconnected walkways and linked terraces](/images/features/2023/qujiang.jpg/)**In Xi'an, China, the Qujiang Creative Circle creates opportunities for placemaking with its interconnected walkways and linked terraces** © The Oval Partnership/Guo Xinxin 郭新新
 
 [Placemaking](https://www.pps.org/category/placemaking) – a multi-faceted approach to planning, designing, and proactively managing public spaces to be distinct, liveable, and loveable places – has been gaining traction as a concept in the last two decades. Besides creating distinctive spaces, placemaking also [nurtures wellness](https://www.britishland.com/sites/british-land-corp/files/sustainability/reporting/earlier-reporting/2015/wellbeing-principles-for-british-land.pdf) and [resilience in communities](https://www.clc.gov.sg/docs/default-source/books/building-community-resilience.pdf) as places draw people together and provide opportunities for citizens to build connections and meaning. 
 
