@@ -1,8 +1,8 @@
 ---
-title: From streets to communities – localised placemaking (Part 1)
+title: Creating memorable places (Part 1)
 permalink: /resources/features/placemaking-1/
 image: /images/features/2023/street-furniture.jpg
-description: Post-pandemic cities are increasingly turning to localised placemaking initiatives to strengthen place identities and community engagement. This two-part feature explores key strategies employed by cities to implement sustainable, community-driven placemaking and highlights creative placemaking projects around the world. 
+description: Post-pandemic cities are increasingly turning to localised initiatives to strengthen place identities and community engagement. This two-part feature explores key strategies employed by cities to implement sustainable, community-driven placemaking and highlights creative projects around the world. 
 
 ---
 
@@ -10,7 +10,7 @@ description: Post-pandemic cities are increasingly turning to localised placemak
 | ---: |
 | Tan Chui Hua |
 
-##### Post-pandemic cities are increasingly turning to localised placemaking initiatives to strengthen place identities and community engagement. This two-part feature explores key strategies employed by cities to implement sustainable, community-driven placemaking and highlights creative placemaking projects around the world. 
+##### Post-pandemic cities are increasingly turning to localised initiatives to strengthen place identities and community engagement. This two-part feature explores key strategies employed by cities to implement sustainable, community-driven placemaking and highlights creative projects around the world. 
 
 > ###### **Cities mentioned in this article:** <br> Port Phillip, Milan, Paris, Perth, Xi'an
 
