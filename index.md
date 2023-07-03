@@ -28,7 +28,7 @@ sections:
         description: How can cities and their local communities come together to make memorable places? Port Phillip, Milan, Paris, Perth and Xi’an show you how.
         button: Feature story
         url: /resources/features/placemaking-1/
-        image: /images/features/2023/street-furniture.jpg
+        image: /images/features/2023/qujiang.jpg
         alt: Placemaking
     - infopic:    
         title: Safeguarding for the future
