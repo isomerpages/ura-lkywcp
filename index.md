@@ -13,31 +13,31 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: Nominations extended to 14 July!
+            - title: Final chance to nominate your city!
               description: 
               url: /stage-a/#nomination-form/ 
     - infobar:    
-        title: Final extension of nominations!
+        title: Nominations closing on 14 July!
         subtitle: 
         description: <mark><b>We have simplified the Stage submission process!</b></mark> 
         button: Nominate your city today!
         url: /stage-a/#nomination-form/
     - infopic:    
-        title: Climate-smart cities for the future
+        title: What makes a place? 
         subtitle: Featured article
-        description: Smart technologies enable cities to be more responsive and efficient in mitigating the impacts of climate change
+        description: How can cities and their local communities come together to make memorable places? Port Phillip, Milan, Paris, Perth and Xi’an show you how.
         button: Feature story
-        url: /resources/features/climate-smart-cities/
-        image: /images/features/2023/rotterdam-roof.jpg
-        alt: Climate smart cities
+        url: /resources/features/placemaking-1/
+        image: /images/features/2023/qujiang.jpg
+        alt: Placemaking
     - infopic:    
-        title: Turning parking lanes into parklets
-        subtitle: Case study 18
-        description: Look at how Vienna provides support for ground-up temporary public space activation.
-        button: Case study 18
-        url: /resources/case-studies/vienna-parklets/
-        image: /images/features/2023/parklets1.jpg/
-        alt: Vienna parklet
+        title: Safeguarding for the future
+        subtitle: Case study 19
+        description: A visionary plan helps Vienna avoid future devastating floods and create new leisure options.
+        button: Case study 19
+        url: /resources/case-studies/vienna-danube/
+        image: /images/features/2023/danube-boating.jpg/
+        alt: Vienna Danube
     - infobar:    
         title: 📩
         subtitle: 

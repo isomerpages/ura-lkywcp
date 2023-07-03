@@ -37,3 +37,4 @@ The Prize Secretariat manages the entire Prize cycle, including budgeting and re
 | **Email address** | [leekuanyew_worldcityprize@ura.gov.sg](mailto://leekuanyew_worldcityprize@ura.gov.sg) |
 | **Newsletter** | [Subscribe now](https://lee-kuan-yew-world-city-prize-23882147.hubspotpagebuilder.com/subscribe) |
 | **YouTube** | [@leekuanyewworldcityprize](https://www.youtube.com/@leekuanyewworldcityprize/) |
+| **LinkedIn** | [leekuanyewworldcityprize](https://www.linkedin.com/in/leekuanyewworldcityprize/) |

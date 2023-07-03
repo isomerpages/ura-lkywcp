@@ -48,7 +48,7 @@ The city also aims to support citizens to shape public space and make the city g
 - The city created the three-year programme (2015 – 2018), which provides financial support for the projects and counselling for the citizens through the Local Agenda 21 association in Vienna. The project was then extended for another 3 years (2018 – 2020).
 - The city introduced new regulations for using parking lanes for ‘parklets’ – transforming one or more parking spots as public spaces.
 - Most projects are quick and temporary interventions, which can be easily replicated in other areas of the city. As such, many projects are being realised each year during the programme.
-An intensive social media campaign on the realised projects also helped to widen the publicity and outreach.. 
+An intensive social media campaign on the realised projects also helped to widen the publicity and outreach. 
 
 [Back to top](#case-study-18)
 
