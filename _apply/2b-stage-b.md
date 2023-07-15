@@ -6,7 +6,7 @@ image: /images/nominations/2024-stage-b.png
 description: Please complete Stage A before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission.
 ---
 
-#### **Stage B submission**
+#### **Instructions**
 
 - [Stage B submission form](#submission-form)
 
