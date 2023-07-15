@@ -3,15 +3,13 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/nominations/2024-stage-a.png
-description: Final extension of nominations to 14 July 2023! 
+description: Nominations closed
 
 ---
 
 #### **Instructions** 
 
-Final extension of nominations to 14 July 2023! The Prize is **<mark>awarded to cities only</mark>**. Please complete Stage A before proceeding to [Stage B](/stage-b).
-
-- [Stage A nomination form](/stage-a/#nomination-form)
+Nominations closed. The Prize is **<mark>awarded to cities only</mark>**.
 
 #### **Interested cities – please read the following**
 
@@ -36,17 +34,6 @@ Please ensure that the city or cities that you are intending to nominate agree(s
 - Lessons for other cities
 
 **<mark>There is no entry fee required.</mark>**
-
-#### **Nomination form**
-
-If the form below is not loaded, [access the external form](https://form.gov.sg/62e4f365140cd3001168b367).
-
-<!-- Change the width and height values to suit you best -->
-<iframe
-  id="iframe"
-  src="https://form.gov.sg/62e4f365140cd3001168b367"
-  style="width: 100%; height: 3200px"
-></iframe>
 
 #### **Next step**
 
