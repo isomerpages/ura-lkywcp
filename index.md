@@ -31,13 +31,13 @@ sections:
         image: /images/features/2023/kaimakli1.jpg
         alt: Placemaking
     - infopic:    
-        title: What makes a place?
-        subtitle: Feature article
-        description: How can cities and their local communities come together to make memorable places? Port Phillip, Milan, Paris, Perth and Xi’an show you how.
-        button: Feature story
-        url: /resources/features/placemaking-1/
-        image: /images/features/2023/qujiang.jpg/
-        alt: Placemaking
+        title: New Nominating Committee members
+        subtitle: News
+        description: We welcome urban experts Prof Ricky Burdett and Weiping Wu to the Nominating Committee.
+        button: Find out more
+        url: /resources/news/new-nc-members-2024/
+        image: /images/features/2023/new-nc-members-2024.jpg/
+        alt: NC members
     - infobar:    
         title: 📩
         subtitle: 
