@@ -76,10 +76,11 @@ The developers of a housing project in the settlement thus worked closely with l
 
 Successful localised placemaking hinges upon synergistic collaboration among stakeholders, with city authorities providing necessary facilitation and frameworks. On the ground, communities, comprising residents, businesses, and community-based organisations, then serve as the driving force to create and sustain projects, transforming neighbourhoods into liveable, loveable places with distinctive character. <b><font color="#967942">O</font></b>
 
----
 Test
 
-<font size="7">
+---
+
+<div style="font-size:7">
 [^1]: Kim, Joanne et al. (2021, January 13). What transformative placemaking taught us in 2020, and how it can help build a better future. Brookings Institution.
 [^2]: New York City Department of Transportation. (2023). Open Streets.
 [^3]: Hu, Winnie. (2022, August 11). How New York City lost 63 miles of pedestrian-friendly ‘open streets’. The New  York Times.
@@ -95,4 +96,4 @@ Test
 [^13]: Wax, Emily. (2012, January 30). Heritage trails mark the path to preserving D. C. history. The Washington Post.
 [^14]: National Endowment for the Arts. (2013, August 24). Project summary: Santo Domingo heritage walk.
 [^15]: Kunkel, Joseph. (2021, October 4). Community powered creative placekeeping in Santo Domingo Pueblo. Grantmakers in the Arts. 
-</font>
+</div>
