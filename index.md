@@ -23,9 +23,9 @@ sections:
         button: 
         url: 
     - infopic:    
-        title: Local place-making in action 
+        title: Local placemaking in action 
         subtitle: Featured article
-        description: Discover how communities globally revitalise neighbourhoods through local knowledge and identity in this Part 2 feature!
+        description: Discover how communities globally revitalise neighbourhoods through local knowledge and identity in this Part 2 feature.
         button: Feature story
         url: /resources/features/placemaking-2/
         image: /images/features/2023/kaimakli1.jpg
