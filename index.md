@@ -23,12 +23,12 @@ sections:
         button: 
         url: 
     - infopic:    
-        title: What makes a place? 
+        title: Local place-making in action 
         subtitle: Featured article
-        description: How can cities and their local communities come together to make memorable places? Port Phillip, Milan, Paris, Perth and Xi’an show you how.
+        description: Discover how communities globally revitalise neighbourhoods through local knowledge and identity in this Part 2 feature!
         button: Feature story
-        url: /resources/features/placemaking-1/
-        image: /images/features/2023/qujiang.jpg
+        url: /resources/features/placemaking-2/
+        image: /images/features/2023/kaimakli1.jpg
         alt: Placemaking
     - infopic:    
         title: Safeguarding for the future
