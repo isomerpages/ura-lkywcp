@@ -31,13 +31,13 @@ sections:
         image: /images/features/2023/kaimakli1.jpg
         alt: Placemaking
     - infopic:    
-        title: Safeguarding for the future
-        subtitle: Case study 19
-        description: A visionary plan helps Vienna avoid future devastating floods and create new leisure options.
-        button: Case study 19
-        url: /resources/case-studies/vienna-danube/
-        image: /images/features/2023/danube-boating.jpg/
-        alt: Vienna Danube
+        title: What makes a place?
+        subtitle: Feature article
+        description: How can cities and their local communities come together to make memorable places? Port Phillip, Milan, Paris, Perth and Xi’an show you how.
+        button: Feature story
+        url: /resources/features/placemaking-1/
+        image: /images/features/2023/qujiang.jpg/
+        alt: Placemaking
     - infobar:    
         title: 📩
         subtitle: 
