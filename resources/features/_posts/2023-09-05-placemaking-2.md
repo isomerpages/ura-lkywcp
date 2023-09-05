@@ -12,16 +12,16 @@ description: From reclaiming underutilised spaces to projects that celebrate loc
 
 ##### From reclaiming underutilised spaces to projects that celebrate local identity and culture, communities around the world have been leveraging local knowledge and expertise to transform their neighbourhoods and creating spaces where residents could engage with their environments in more meaningful ways. 
 
-> ###### **Cities mentioned in this article:** <br> Port Phillip, Milan, Paris, Perth, Xi'an
+> ###### **Cities mentioned in this article:** <br> New York City, Sydney, Philadelphia, Nicosia, Hong Kong, Washington D. C., Santo Domingo (New Mexico)
 
 #### **Key takeaways**
 
-| 1 | Urban assets integral to place-making are often clustered in central areas. |
-| 2 | COVID-19 exposed centralisation's drawbacks, limiting citizens' access to meaningful places. |
-| 3 | Cities increasingly adopt localised placemaking for resilient, vibrant neighbourhoods. |
-| 4 | Planning for placemaking sets the foundation for impactful urban renewal. |
-| 5 | Engaging local communities helps sustain placemaking. |
-| 6 | Inclusive design supports localised placemaking, facilitating community interactions. |
+| 1 | Placemaking thrives when communities drive it, not just authorities. |
+| 2 | Community-led placemaking fosters identity and sustainability. |
+| 3 | Strategies include reclaiming spaces, celebrating what's local, and curating trails. |
+| 4 | Reclaiming underutilised spaces enhances community well-being. |
+| 5 | Local markets and festivals strengthen community bonds and identity. |
+| 6 | Curated trails enrich community identity and stimulate exploration. |
 
 ###### ![In Xi'an, China, the Qujiang Creative Circle creates opportunities for placemaking with its interconnected walkways and linked terraces](/images/features/2023/qujiang.jpg/)**In Xi'an, China, the Qujiang Creative Circle creates opportunities for placemaking with its interconnected walkways and linked terraces** © The Oval Partnership/Guo Xinxin 郭新新
 
