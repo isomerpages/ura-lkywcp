@@ -76,4 +76,9 @@ The developers of a housing project in the settlement thus worked closely with l
 
 Successful localised placemaking hinges upon synergistic collaboration among stakeholders, with city authorities providing necessary facilitation and frameworks. On the ground, communities, comprising residents, businesses, and community-based organisations, then serve as the driving force to create and sustain projects, transforming neighbourhoods into liveable, loveable places with distinctive character. <b><font color="#967942">O</font></b>
 
-Kim, Joanne et al. (2021, January 13). What transformative placemaking taught us in 2020, and how it can help build a better future. Brookings Institution. https://www.brookings.edu/articles/what-transformative-placemaking-taught-us-in-2020-and-how-it-can-help-build-a-better-future/ 
+---
+
+[^1]: Kim, Joanne et al. (2021, January 13). What transformative placemaking taught us in 2020, and how it can help build a better future. Brookings Institution. [https://www.brookings.edu/articles/what-transformative-placemaking-taught-us-in-2020-and-how-it-can-help-build-a-better-future/]
+[^2]: New York City Department of Transportation. (2023). Open Streets. [https://www.nyc.gov/html/dot/html/pedestrians/openstreets.shtml#:~:text=New%20York%20City's%20Open%20Streets,cultural%20programming%20and%20build%20community.] 
+[^3]: Hu, Winnie. (2022, August 11). How New York City lost 63 miles of pedestrian-friendly ‘open streets’. The New  York Times. [https://www.nytimes.com/2022/08/11/nyregion/open-streets-nyc.html] 
+
