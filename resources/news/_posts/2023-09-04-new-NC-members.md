@@ -1,14 +1,14 @@
 ---
-title: Welcoming new Lee Kuan Yew World City Prize Nominating Committee members
+title: Welcoming new Nominating Committee members
 permalink: /resources/news/new-nc-members-2024/
 image: 
 description: Meet our two distinguished urban experts, Prof. Ricky Burdett and Prof. Weiping Wu, as they enrich the Lee Kuan Yew World City Prize selection process.
 published: true 
 ---
 
-##### Meet our two distinguished urban experts, Prof. Ricky Burdett and Prof. Weiping Wu, as they enrich the Lee Kuan Yew World City Prize selection process.
+##### Meet our two distinguished urban experts, Prof Ricky Burdett and Prof Weiping Wu, as they enrich the Lee Kuan Yew World City Prize selection process.
 
-###### ![Larry Ng steps down as Prize Secretary](/images/features/2023/larry-ng.jpg/)**Making connections with the world: Mr Larry Ng (centre) and Ms Yap Lay Bee (second from right) with city officials in the city of Antwerp** © Damien Woon
+###### ![Prof Ricky Burdett and Prof Weiping Wu](/images/features/2023/new-nc-members-2024.jpg/)**Prof Ricky Burdett (left) and Prof Weiping Wu (right)**
 
 The Lee Kuan Yew World City Prize is happy to announce the addition of two distinguished urban experts to its Nominating Committee, Professor Ricky Burdett from LSE Cities and Professor Weiping Wu from Columbia GSAPP.
 
