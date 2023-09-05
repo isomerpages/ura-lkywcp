@@ -33,7 +33,7 @@ sections:
     - infopic:    
         title: New Nominating Committee members
         subtitle: News
-        description: We welcome urban experts Prof Ricky Burdett and Weiping Wu to the Nominating Committee.
+        description: We welcome urban experts Prof Ricky Burdett and Prof Weiping Wu to the Nominating Committee.
         button: Find out more
         url: /resources/news/new-nc-members-2024/
         image: /images/features/2023/new-nc-members-2024.jpg/
