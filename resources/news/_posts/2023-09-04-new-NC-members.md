@@ -1,5 +1,5 @@
 ---
-title: Welcoming new Nominating Committee members
+title: New Nominating Committee members & Prize Secretary
 permalink: /resources/news/new-nc-members-2024/
 image: 
 description: Meet our two distinguished urban experts, Prof. Ricky Burdett and Prof. Weiping Wu, as they enrich the Lee Kuan Yew World City Prize selection process.
@@ -16,6 +16,8 @@ Professor Ricky Burdett, a globally recognised figure in urban planning and desi
 
 Professor Weiping Wu, a prominent scholar and urbanist, serves as the Director of the Urban Planning Programme at Columbia University's Graduate School of Architecture, Planning and Preservation (GSAPP). Her expertise lies in exploring innovative urban strategies and sustainable urbanization in China. Professor Wu's deep insights into urban dynamics will greatly benefit the Prize's mission to honour outstanding urban solutions. Read her biography [here](/weiping-wu/).
 
-As the Lee Kuan Yew World City Prize continues to recognise and celebrate exemplary cities worldwide, we are excited to welcome Professor Ricky Burdett and Professor Weiping Wu to our esteemed Nominating Committee. Their wealth of knowledge and experience in the field of urbanism will undoubtedly enhance our ability to identify and honour cities that are pioneering sustainable, inclusive, and vibrant urban environments. We look forward to their invaluable contributions in selecting the most deserving recipients of this prestigious award.
+As the Lee Kuan Yew World City Prize continues to recognise and celebrate exemplary cities worldwide, we are excited to welcome Professor Ricky Burdett and Professor Weiping Wu to our esteemed Nominating Committee. Their wealth of knowledge and experience in the field of urbanism will undoubtedly enhance our ability to identify and honour cities that are pioneering sustainable, inclusive, and vibrant urban environments. We look forward to their invaluable contributions in selecting the most deserving recipients of this prestigious award. We would also like to extend our heartfelt gratitude to former committee members Prof Marilyn Jordan Taylor and Prof Wulf Daseking for their invaluable contributions to the Prize's success.
 
-We would also like to extend our heartfelt gratitude to former committee members Prof Marilyn Jordan Taylor and Prof Wulf Daseking for their invaluable contributions to the Prize's success. <b><font color="#967942">O</font></b>
+#### **New Prize Secretary**
+
+We are also pleased to introduce [Ms Yap Lay Bee](yap-lay-bee) as our new Prize Secretary. Currently, she serves as Group Director of Architecture & Urban Design at Singapore's Urban Redevelopment Authority, bringing extensive experience in urban planning and design. Her role involves shaping Singapore's sustainable and vibrant future through strategic planning and public-private partnerships. We would like to extend our gratitude to former Prize Secretary Mr Larry Ng for his instrumental role in elevating the Prize to its current stature.<b><font color="#967942">O</font></b>
