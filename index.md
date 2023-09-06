@@ -31,7 +31,7 @@ sections:
         image: /images/features/2023/kaimakli1.jpg
         alt: Placemaking
     - infopic:    
-        title: New Nominating Committee members
+        title: New Nominating Committee members & Prize Secretary
         subtitle: News
         description: We welcome urban experts Prof Ricky Burdett and Prof Weiping Wu to the Nominating Committee, and Ms Yap Lay Bee as our new Prize Secretary!
         button: Find out more
