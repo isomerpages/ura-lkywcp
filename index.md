@@ -33,10 +33,10 @@ sections:
     - infopic:    
         title: New Nominating Committee members
         subtitle: News
-        description: We welcome urban experts Prof Ricky Burdett and Prof Weiping Wu to the Nominating Committee.
+        description: We welcome urban experts Prof Ricky Burdett and Prof Weiping Wu to the Nominating Committee, and Ms Yap Lay Bee as our new Prize Secretary!
         button: Find out more
         url: /resources/news/new-nc-members-2024/
-        image: /images/features/2023/new-nc-members-2024.jpg/
+        image: /images/features/2023/new-nominating-committee.jpg/
         alt: NC members
     - infobar:    
         title: 📩
