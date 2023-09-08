@@ -23,21 +23,21 @@ sections:
         button: 
         url: 
     - infopic:    
-        title: What makes a place? 
+        title: Local placemaking in action 
         subtitle: Featured article
-        description: How can cities and their local communities come together to make memorable places? Port Phillip, Milan, Paris, Perth and Xi’an show you how.
+        description: Discover how communities globally revitalise neighbourhoods through local knowledge and identity in this Part 2 feature.
         button: Feature story
-        url: /resources/features/placemaking-1/
-        image: /images/features/2023/qujiang.jpg
+        url: /resources/features/placemaking-2/
+        image: /images/features/2023/kaimakli1.jpg
         alt: Placemaking
     - infopic:    
-        title: Safeguarding for the future
-        subtitle: Case study 19
-        description: A visionary plan helps Vienna avoid future devastating floods and create new leisure options.
-        button: Case study 19
-        url: /resources/case-studies/vienna-danube/
-        image: /images/features/2023/danube-boating.jpg/
-        alt: Vienna Danube
+        title: New Nominating Committee members & Prize Secretary
+        subtitle: News
+        description: We welcome urban experts Prof Ricky Burdett and Prof Weiping Wu to the Nominating Committee, and Ms Yap Lay Bee as our new Prize Secretary!
+        button: Find out more
+        url: /resources/news/new-nc-members-2024/
+        image: /images/features/2023/new-nominating-committee.jpg/
+        alt: NC members
     - infobar:    
         title: 📩
         subtitle: 
