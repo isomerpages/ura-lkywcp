@@ -17,9 +17,9 @@ sections:
               description: 
               url: /about-the-prize/
     - infobar:    
-        title: Nominations closed
-        subtitle: 
-        description: The results will be announced in March 2024. Watch this space!
+        title: 
+        subtitle: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
+        description:
         button: 
         url: 
     - infopic:    
