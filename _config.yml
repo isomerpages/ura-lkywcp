@@ -3,6 +3,22 @@ url: "https://www.leekuanyewworldcityprize.gov.sg" # the base hostname & protoco
 favicon: /images/favicon.png
 shareicon: /images/shareicon.png
 
+colors:
+  primary-color: "#967942"
+  secondary-color: "#967942"
+  media-colors:
+    - title: media-color-one
+      color: "#544d45"
+    - title: media-color-two
+      color: "#7D6C58"
+    - title: media-color-three
+      color: "#323232"
+    - title: media-color-four
+      color: "#8C8E7D"
+    - title: media-color-five
+      color: "#967942"
+
+
 collections:
   about:
     output: true
