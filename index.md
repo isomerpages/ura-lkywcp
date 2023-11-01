@@ -18,8 +18,8 @@ sections:
               url: /about-the-prize/
     - infobar:    
         title: 
-        subtitle: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
-        description:
+        subtitle: 
+        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: 
         url: 
     - infopic:    
