@@ -17,9 +17,9 @@ description:  Antwerp's Scheldt Quays is a project to reconnect the city and its
 
 ---
 
-#### **In brief**
+###### ![Droogdokkenpark at the north side of the Scheldt Quays](/images/features/2023/droogdokkenpark.jpg/)**Droogdokkenpark at the north side of the Scheldt Quays** © City of Antwerp
 
-###### ![New Danube and Danube Island in Vienna's city centre](/images/features/2023/danube-overview.jpg/)**New Danube (darker shade of blue) and Danube Island in Vienna's city centre** © Cristi Croitoru/123RF
+#### **In brief**
 
 The Scheldt Quays project in Antwerp aims to revive the historic port area on the right bank of the River Scheldt, originally designed for port activities but later neglected and used as parking lots. The project is a response to the need to adapt to global climate change and the requirements of the Sigma Plan, which mandates raising flood defences by 90 centimetres to protect the city from potential floods. Its objective is to breathe new life into these quays by creating dynamic public spaces while preserving the iconic 19th-century blue stone quay wall, ultimately reconnecting the city with its river.
 
@@ -37,8 +37,6 @@ Before the project's commencement, the city first addressed the challenge of eng
 
 #### **Key strategies**
 
-###### ![Leisure activities on the New Danube during non-flood times](/images/features/2023/danube-boating.jpg/)**Leisure activities on the New Danube during non-flood times** © Przemyslaw Iciak/123RF
-
 In 2007, the city and the Government of Flanders initiated a master plan for the redevelopment of the Scheldt Quays. They organised a design competition using the Open Call procedure, inviting both national and international design firms. Portuguese firm PROAP and Belgian architects Wit were chosen to develop the master plan, which was approved in 2010. To ensure buy-in, the city integrated a comprehensive communication and participation process into the project. This process encompassed information sharing, consultation, participation, and inspiring actions. The master plan serves as a flexible framework, embracing the concept of 'slow urbanism,' capable of evolving over time while maintaining its fundamental principles.
 
 The financing of the Scheldt Quays' renewal is a collaborative effort between the Flemish government and the city, with significant investments spread over an extended period. The project is phased, with the initial focus on zones such as 'Sint-Andries & Zuid,' 'het Eilandje,' and 'Droogdokkenpark.' The city sought private investments at the northern and southern ends to fund public spaces. The flood protection design is a key element, with a meandering approach that allows for varying distances from the river, resulting in a coherent landscape design with distinct characteristics along the entire embankment.
@@ -48,8 +46,6 @@ The financing of the Scheldt Quays' renewal is a collaborative effort between th
 ---
 
 #### **Impacts**
-
-###### ![Impacts of the case study](/images/features/2023/impact-danube.png/)
 
 The revitalisation of Scheldt Quays reconnected the city with the river and created valuable public spaces within the densely populated inner areas, promoting community well-being and social cohesion. Specific projects like Droogdokkenpark and improved active modes enhance connectivity and offer scenic views of the Scheldt, while the project also catalyses sustainable urban development in the form of Nieuw Zuid, featuring energy-efficient buildings, a heat network, car-free streets, innovative water management, and community engagement for a sustainable living environment.
 
