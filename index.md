@@ -31,7 +31,7 @@ sections:
         image: /images/features/2023/shenzhen-air.jpg
         alt: Clean air
     - infopic:    
-        title: Breathing new life in Antwerp's Scheldt Quays
+        title: Breathing new life into Antwerp's riverfront
         subtitle: Case study
         description: Learn about how Antwerp uses community-driven transformation to turn an industrial wasteland to a vibrant waterfront.
         button: Find out more
