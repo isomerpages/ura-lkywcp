@@ -1,7 +1,7 @@
 ---
 title: Cleaner energy, cleaner air
 permalink: /resources/features/cleaner-air/
-image: /images/features/2023/street-furniture.jpg
+image: /images/features/2023/shenzhen-air.jpg
 description: Clean air remains a global challenge due to fossil fuel pollution consumption. Advances in clean energy tech offer viable solutions, enabling cities to lower carbon emissions, adopt cleaner energy, and provide citizens with healthier air. 
 
 ---
@@ -23,7 +23,7 @@ description: Clean air remains a global challenge due to fossil fuel pollution c
 | 5 | Cities like Shenzhen, Pune, Oslo lead in clean energy adoption. |
 | 6 | Technology advances drive clean energy transition for improved urban air. |
 
-###### ![Outdoor film screenings during the Pame Kaimakli festival often include works that explore Kaimakli’s heritage and stories, centring the experience on the neighbourhood’s identity](/images/features/2023/kaimakli1.jpg/)**Outdoor film screenings during the Pame Kaimakli festival often include works that explore Kaimakli’s heritage and stories, centring the experience on the neighbourhood’s identity.** © Urban Gorillas
+###### ![Once a polluted city, Shenzhen's air quality is among the top in China.](/images/features/2023/shenzhen-air.jpg/)**Once a polluted city, Shenzhen's air quality is among the top in China.** © zhaojiankangphoto/123RF
 
 As the world rapidly urbanises and city dwellers are estimated to comprise some 70% of the world population by 2050[^1], one of the biggest ongoing challenges is to ensure clean air in urban environments. In a recent report by the World Health Organization, data from some 6,000 cities shows that 99% of the world’s population still breathes in unhealthy levels of air pollutants[^2].
 
@@ -42,6 +42,8 @@ Emissions from internal combustion engine vehicles are a main source of air poll
 
 In 2017, Shenzhen, China became the first city in the world to fully electrify its bus fleet. The city began its pilot of electric vehicles in 2009 with substantial funding from the government. Over time, Shenzhen built more than 500 charging stations with some 8,000 outlets and ensured utility companies worked closely with bus companies to install charging outlets along bus routes. Today, the city has the world’s largest electric bus fleet — over 16,000 — as well as the largest electric taxi fleet[^4]. Coupled with other pollution control measures, Shenzhen cut air pollution by 50 percent within the same period and is known as one of the cleanest cities in China[^5]. Since then, more cities have been adopting electric buses. Pune, India, has converted some 20 percent of its fleet to electric buses in recent years while Santiago de Chile has converted 30 percent of its fleet with a goal of 100 percent electrification by 2035[^6].
 
+###### ![Oslo aims to fully electrify the city's vehicles by 2030](/images/features/2023/oslo-tram.jpg/)**Oslo aims to fully electrify the city's vehicles by 2030.** © mumemories/123RF
+
 Oslo, Norway, has taken electrification further with its goal of becoming the world’s first capital city with an all-electric system[^7]. The city has been converting its fleets of trains, trams, ferries, buses, construction machines and shared bicycles to electric ones. In 2022, 80 percent of Oslo’s new car sales were electric[^8]. Furthermore, much of the electricity powering the grid comes from hydropower[^9]. 
 
 “The goal is to cut emissions, which is why E.V.s (electric vehicles) are so important, but also to make the city better to live in,” said Sirin Hellvin Stav, Vice Mayor for environment and transport[^10]. Just over a decade ago, the air pollution caused by vehicular emissions in Oslo and other Norwegian cities was a growing concern as diesel car population grew[^11]. With the switch to electric vehicles, pollutants such as nitrogen oxide and sulphur dioxide have decreased sharply, making for cleaner air[^12]. 
@@ -54,13 +56,11 @@ Within the European Union, Poland is the largest consumer of coal with around 14
 
 Beijing, China, also demonstrates how cities could dramatically improve their air quality by cutting back on coal use. Since the 1990s, the city had begun tackling air pollution with more stringent regulations on vehicular and industrial emissions. In 2013, the city began shutting down coal mines and plants. It built large gas-fired power plants, gradually replaced coal-fired boilers used in district heating with gas and electric systems and introduced programmes to incentivise households to switch from coal burners to electric. Over a decade from 2010 to 2020, Beijing cut down on coal use by 95 percent[^21]. By 2022, the city had slashed PM 2.5 levels by two-thirds from 2012[^22] while emissions of pollutants such as nitrogen oxides were reduced significantly[^23].
 
-###### ![Art installations in public spaces during Pame Kaimakli festival engage both residents and visitors, turning the quiet neighbourhood of Kaimakli into a vibrant place every summer](/images/features/2023/kaimakli2.jpg/)**Art installations in public spaces during Pame Kaimakli festival engage both residents and visitors, turning the quiet neighbourhood of Kaimakli into a vibrant place every summer.** © Urban Gorillas
-
-###### ![The Blue House, an award-winning conservation project, focuses on retaining local stories and identity and maintaining its role as a community hub](/images/features/2023/blue-house1.jpg/)**The Blue House, an award-winning conservation project, focuses on retaining local stories and identity and maintaining its role as a community hub.** © Oval Partnership
-
 #### **Renewing cities with renewables**
 
 Advances in technology has made it increasingly viable for cities worldwide to switch from pollutive fossil fuels to cleaner, renewable energy. Conventionally, adoption of renewable energy used to be highly dependent on having the right geographical conditions such as geothermal activity. 
+
+###### ![India has been establishing solar parks such as this in Raichur, in a bid to combta air pollution and carbon emissions](/images/features/2023/raichur-solar.jpg/)**India has been establishing solar parks such as this in Raichur, in a bid to combta air pollution and carbon emissions.** © lakshmiprasad Sindhnur/123RF
 
 With solar panels becoming more high-performance and cost-effective over time[^24], countries have accelerated the building of solar parks with significant capacities, such as China’s Golmud Solar Park which generates over 2.8 gigawatts[^25] and India’s Bhadla Solar Park, which is capable of powering 4.5 million homes[^26]. Recognising that solar energy adopting would improve air quality, Indian cities have been pushing solar power adoption in recent years. Lucknow, capital of Uttar Pradesh, has set ambitious targets for electricity production through solar installations such as farms and rooftop systems. Since 2022, the city has provided substantial subsidies for households to install solar rooftops, organised public programmes to increase awareness of renewable energy solutions, and deployed solar systems on public buildings[^27].
 
