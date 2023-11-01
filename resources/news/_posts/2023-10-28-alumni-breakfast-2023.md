@@ -15,6 +15,6 @@ The session provided a platform to catch up on the progress of these cities sinc
 
 - Seoul aims to make Yongsan the Korean 'Silicon Valley' and Yeouido its financial district, tackling social issues and incorporating nature into urban planning.
 - Antwerp prioritises public access, social equality, infrastructure, greenery, affordable housing (20 percent below market rate), social housing inclusion. Qualification criteria vary, including residency and support for young single mothers, with an annual waiting list reset.
-- Vienna emphasises urban planning and social sustainability, aims for 15m population. Affordable housing, with two-thirds for rent. Climatic, social, economic sustainability in strategies.
+- Vienna emphasises urban planning and social sustainability, and aims for a 15 million population. Affordable housing, with two-thirds for rent. Climatic, social, economic sustainability in strategies.
 - Bilbao’s centre transformed into a community hub during the pandemic, providing essential assistance and support to residents.
 - Brisbane saw COVID-related influx from Melbourne, emphasising housing affordability. Aims for carbon neutrality, focuses on urban green and blue spaces in planning. <b><font color="#967942">O</font></b>
