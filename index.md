@@ -14,7 +14,7 @@ sections:
         url: 
         key_highlights:
             - title: Nominations closed
-              description: 
+              description: Stay tuned for results!
               url: /prize-cycle/
     - infobar:    
         title: 
