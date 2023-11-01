@@ -1,7 +1,7 @@
 ---
 title: Reshaping Antwerp's river edge
 permalink: /resources/case-studies/antwerp-scheldt-quays/
-image: /images/features/2023/parklets1.jpg
+image: /images/features/2023/droogdokkenpark.jpg
 description:  Antwerp's Scheldt Quays is a project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. 
 
 ---
