@@ -39,13 +39,13 @@ sections:
         image: /images/features/2023/droogdokkenpark.jpg/
         alt: Antwerp Droogdokkenpark
     - infopic:    
-        title: Breathing new life in Antwerp's Scheldt Quays
-        subtitle: Case study
-        description: Learn about how Antwerp uses community-driven transformation to turn an industrial wasteland to a vibrant waterfront.
+        title: Updates from our Prize cities
+        subtitle: News
+        description: From Seoul's tech ambition to Antwerp's housing priorities, discover the insights that are driving changes in the Prize cities. 
         button: Find out more
-        url: /resources/case-studies/antwerp-scheldt-quays/
-        image: /images/features/2023/droogdokkenpark.jpg/
-        alt: Antwerp Droogdokkenpark
+        url: /resources/news/alumni-breakfast-2023/
+        image: /images/features/2023/alumni-breakfast-2023.jpg/
+        alt: Alumni Breakfast
     - infobar:    
         title: 📩
         subtitle: 
