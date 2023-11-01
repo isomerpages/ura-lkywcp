@@ -41,7 +41,7 @@ sections:
     - infopic:    
         title: Updates from our Prize cities
         subtitle: News
-        description: From Seoul's tech ambition to Antwerp's housing priorities, discover the insights that are driving changes in the Prize cities. 
+        description: From Seoul's tech ambition to Antwerp's housing priorities, discover the insights that are driving changes in our Prize cities. 
         button: Find out more
         url: /resources/news/alumni-breakfast-2023/
         image: /images/features/2023/alumni-breakfast-2023.jpg/
