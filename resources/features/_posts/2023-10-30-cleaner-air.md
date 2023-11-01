@@ -12,16 +12,16 @@ description: Clean air remains a global challenge due to fossil fuel pollution c
 
 ##### Clean air remains a global challenge due to fossil fuel pollution consumption. Advances in clean energy tech offer viable solutions, enabling cities to lower carbon emissions, adopt cleaner energy, and provide citizens with healthier air. 
 
-> ###### **Cities mentioned in this article:** <br> New York City, Sydney, Philadelphia, Nicosia, Hong Kong, Washington D. C., Santo Domingo (New Mexico)
+> ###### **Cities mentioned in this article:** <br> Shenzhen, Pune, Oslo, Warsaw, Beijing, Lucknow (Uttar Pradesh), Bristol
 
 #### **Key takeaways**
 
-| 1 | Placemaking thrives when communities drive it, not just authorities. |
-| 2 | Community-led placemaking fosters identity and sustainability. |
-| 3 | Strategies include reclaiming spaces, celebrating what's local, and curating trails. |
-| 4 | Reclaiming underutilised spaces enhances community well-being. |
-| 5 | Local markets and festivals strengthen community bonds and identity. |
-| 6 | Curated trails enrich community identity and stimulate exploration. |
+| 1 | 70% of urban population by 2050 demands clean air solutions. |
+| 2 | 99% of current world population exposed to unhealthy city air pollution. |
+| 3 | Clean energy yields lower emissions, cost savings, and better health. |
+| 4 | Electric vehicles reduce pollution with lower maintenance, and gaining traction worldwide. |
+| 5 | Cities like Shenzhen, Pune, Oslo lead in clean energy adoption. |
+| 6 | Technology advances drive clean energy transition for improved urban air. |
 
 ###### ![Outdoor film screenings during the Pame Kaimakli festival often include works that explore Kaimakli’s heritage and stories, centring the experience on the neighbourhood’s identity](/images/features/2023/kaimakli1.jpg/)**Outdoor film screenings during the Pame Kaimakli festival often include works that explore Kaimakli’s heritage and stories, centring the experience on the neighbourhood’s identity.** © Urban Gorillas
 
