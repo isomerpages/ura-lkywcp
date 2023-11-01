@@ -38,6 +38,14 @@ sections:
         url: /resources/case-studies/antwerp-scheldt-quays/
         image: /images/features/2023/droogdokkenpark.jpg/
         alt: Antwerp Droogdokkenpark
+    - infopic:    
+        title: Breathing new life in Antwerp's Scheldt Quays
+        subtitle: Case study
+        description: Learn about how Antwerp uses community-driven transformation to turn an industrial wasteland to a vibrant waterfront.
+        button: Find out more
+        url: /resources/case-studies/antwerp-scheldt-quays/
+        image: /images/features/2023/droogdokkenpark.jpg/
+        alt: Antwerp Droogdokkenpark
     - infobar:    
         title: 📩
         subtitle: 
