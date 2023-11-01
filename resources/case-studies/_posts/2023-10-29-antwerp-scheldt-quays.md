@@ -23,7 +23,7 @@ description:  Antwerp's Scheldt Quays is a project to reconnect the city and its
 
 The Scheldt Quays project in Antwerp aims to revive the historic port area on the right bank of the River Scheldt, originally designed for port activities but later neglected and used as parking lots. The project is a response to the need to adapt to global climate change and the requirements of the Sigma Plan, which mandates raising flood defences by 90 centimetres to protect the city from potential floods. Its objective is to breathe new life into these quays by creating dynamic public spaces while preserving the iconic 19th-century blue stone quay wall, ultimately reconnecting the city with its river.
 
-[Back to top](#case-study-19)
+[Back to top](#case-study-20)
  
 ---
 
@@ -31,7 +31,7 @@ The Scheldt Quays project in Antwerp aims to revive the historic port area on th
 
 Before the project's commencement, the city first addressed the challenge of engaging its community in the redevelopment process. To kickstart this engagement, the city conducted an internet survey titled 'How closely are you connected to the Scheldt'. This survey succeeded in capturing the thoughts and opinions of over 3,000 residents, revealing that 62 percent of them felt a strong connection to the area and expressed a keen interest in participating in the redevelopment project. This strong community connection highlights the significance of this project in fostering citizen engagement and inclusivity in urban planning and development.
 
-[Back to top](#case-study-19)
+[Back to top](#case-study-20)
 
 ---
 
@@ -41,7 +41,7 @@ In 2007, the city and the Government of Flanders initiated a master plan for the
 
 The financing of the Scheldt Quays' renewal is a collaborative effort between the Flemish government and the city, with significant investments spread over an extended period. The project is phased, with the initial focus on zones such as 'Sint-Andries & Zuid,' 'het Eilandje,' and 'Droogdokkenpark.' The city sought private investments at the northern and southern ends to fund public spaces. The flood protection design is a key element, with a meandering approach that allows for varying distances from the river, resulting in a coherent landscape design with distinct characteristics along the entire embankment.
 
-[Back to top](#case-study-19)
+[Back to top](#case-study-20)
 
 ---
 
@@ -51,7 +51,7 @@ The revitalisation of Scheldt Quays reconnected the city with the river and crea
 
 At the southern tip, Blue Gate Antwerp transforms a brownfield into an eco-effective industrial park focusing on the circular economy, recycling, and renewable energy. This not only accommodates innovative production and research activities but also establishes a green corridor connecting Nieuw Zuid park, Scheldt Quays, and the Hobokense Polder nature reserve, contributing to a greener and more sustainable urban landscape. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-19)
+[Back to top](#case-study-20)
 
 ---
 
