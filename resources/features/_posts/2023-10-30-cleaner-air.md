@@ -32,9 +32,9 @@ Factors that contribute to poor air quality in cities are wide-ranging: from veh
 By adopting clean energy, cities not only improve their air quality, but also benefit in other aspects. Clean energy help cities reduce their carbon emissions and contribute to mitigating the impact of climate change. These energy technologies often have lower operating and maintenance costs than fossil fuel-based power plants. Most importantly, improved air quality supports better health for the population and a more liveable environment. 
 
 <br>
-> ##### "What we’re looking to do to support equity across all of our Open Streets is to balance what partners do best, like organising, programming and keeping the space relevant, to what the city can support, which includes everything from evolving the design to full maintenance services."
+> ##### "The goal is to cut emissions, which is why E.V.s (electric vehicles) are so important, but also to make the city better to live in."
 
-<div align="right"><b>— Emily Weidenhof</b> <br>Director of Public Space, New York City Department of Transportation</div>
+<div align="right"><b>— Sirin Hellvin Stav</b> <br>Vice Mayor for environment and transport, Oslo</div>
 
 #### **Pushing for electric vehicles**
 
