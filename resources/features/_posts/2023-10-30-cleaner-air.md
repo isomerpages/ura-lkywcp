@@ -16,7 +16,7 @@ description: Clean air remains a global challenge due to fossil fuel pollution c
 
 #### **Key takeaways**
 
-| 1 | 70% of urban population by 2050 demands clean air solutions. |
+| 1 | With 70% of urban population by 2050, this demands clean air solutions. |
 | 2 | 99% of current world population exposed to unhealthy city air pollution. |
 | 3 | Clean energy yields lower emissions, cost savings, and better health. |
 | 4 | Electric vehicles reduce pollution with lower maintenance, and gaining traction worldwide. |
