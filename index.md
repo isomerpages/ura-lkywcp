@@ -13,31 +13,39 @@ sections:
         button: 
         url: 
         key_highlights:
-            - title: About the Prize
-              description: 
-              url: /about-the-prize/
+            - title: Nominations closed
+              description: Stay tuned for results!
+              url: /prize-cycle/
     - infobar:    
-        title: Nominations closed
-        subtitle: 
-        description: The results will be announced in March 2024. Watch this space!
-        button: 
+        title: 
+        subtitle: About the Prize
+        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
+        button: /about-the-prize/
         url: 
     - infopic:    
-        title: Local placemaking in action 
-        subtitle: Featured article
-        description: Discover how communities globally revitalise neighbourhoods through local knowledge and identity in this Part 2 feature.
+        title: Breathing better in our cities
+        subtitle: Feature article
+        description: Discover how cities are using clean energy tech to lower emissions and improve air quality.
         button: Feature story
-        url: /resources/features/placemaking-2/
-        image: /images/features/2023/kaimakli1.jpg
-        alt: Placemaking
+        url: /resources/features/cleaner-air/
+        image: /images/features/2023/shenzhen-air.jpg
+        alt: Clean air
     - infopic:    
-        title: New Nominating Committee members & Prize Secretary
-        subtitle: News
-        description: We welcome urban experts Prof Ricky Burdett and Prof Weiping Wu to the Nominating Committee, and Ms Yap Lay Bee as our new Prize Secretary!
+        title: Breathing new life into Antwerp's riverfront
+        subtitle: Case study
+        description: Learn about how Antwerp uses community-driven transformation to turn an industrial wasteland to a vibrant waterfront.
         button: Find out more
-        url: /resources/news/new-nc-members-2024/
-        image: /images/features/2023/new-nominating-committee.jpg/
-        alt: NC members
+        url: /resources/case-studies/antwerp-scheldt-quays/
+        image: /images/features/2023/droogdokkenpark.jpg/
+        alt: Antwerp Droogdokkenpark
+    - infopic:    
+        title: Updates from our Prize cities
+        subtitle: News
+        description: From Seoul's tech ambition to Antwerp's housing priorities, discover the insights that are driving changes in our Prize cities. 
+        button: Find out more
+        url: /resources/news/alumni-breakfast-2023/
+        image: /images/features/2023/alumni-breakfast-2023.jpg/
+        alt: Alumni Breakfast
     - infobar:    
         title: 📩
         subtitle: 
