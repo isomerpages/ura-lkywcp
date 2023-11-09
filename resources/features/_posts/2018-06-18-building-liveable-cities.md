@@ -30,7 +30,7 @@ While the cities are located in different parts of the world, they faced the sam
 
 #### **Making the most of brownfields**
 
-In the early 1990s, the government of Hamburg saw an opportunity to provide more homes and facilities for the city’s growing population. While the port area south of the central River Elbe was built up, the areas on the north bank of the river were unused or underused because they were [not suitable for container operations](https://www.hafencity.com/en/overview/hafencity-the-genesis-of-an-idea.html).
+In the early 1990s, the government of Hamburg saw an opportunity to provide more homes and facilities for the city’s growing population. While the port area south of the central River Elbe was built up, the areas on the north bank of the river were unused or underused because they were not suitable for container operations.
 
 In 1997, the government presented a plan to build a new city centre district on these areas, which spanned 157 hectares. The ongoing project, called HafenCity, will expand Hamburg’s city area by 40 percent, provide homes for more than 13,000 people and create up to 45,000 jobs [when it is completed by 2025](https://www.hafencity.com/upload/files/listitems/Fact_Sheet.pdf).
 
