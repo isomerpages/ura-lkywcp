@@ -21,7 +21,7 @@ Under the plan, the city planted one million more trees to reduce its ambient te
 
 The Prize jury noted that the government had integrated land use planning, transportation investment, environmental stewardship and other disciplines to guide the city’s sustainable development to 2030. The authorities’ efforts also addressed how the city would cater for an additional one million residents, renew its ageing physical infrastructure and mitigate climate change and its impact. “The city’s transformation serves as an inspiring model for other mature, high-density global cities and offers many innovative and replicable solutions for cities around the world,” said the jury. 
 
-Since then, the city has gone further to take advantage of emerging technologies and trends, such as the digitalisation of industries, and to limit their potential side effects, such as growing income inequality. In 2015, then-Mayor Bill de Blasio introduced the [One NYC 2050 plan](http://onenyc.cityofnewyork.us/), which builds on PlaNYC to shape the city up to 2050. [He said](http://onenyc.cityofnewyork.us/strategies/onenyc-2050/): “We are pushing ourselves to fight global warming on every front, achieve equity, and build a city where everyone is welcomed in civic life. New York has been a beacon to the world, and we hope this plan will serve as an antidote to the challenges facing our city, our nation and the globe.” 
+Since then, the city has gone further to take advantage of emerging technologies and trends, such as the digitalisation of industries, and to limit their potential side effects, such as growing income inequality. In 2015, then-Mayor Bill de Blasio introduced the One NYC 2050 plan, which builds on PlaNYC to shape the city up to 2050. He said: “We are pushing ourselves to fight global warming on every front, achieve equity, and build a city where everyone is welcomed in civic life. New York has been a beacon to the world, and we hope this plan will serve as an antidote to the challenges facing our city, our nation and the globe.” 
 
 <br>
 > ##### “We are pushing ourselves to fight global warming on every front, achieve equity, and build a city where everyone is welcomed in civic life. New York has been a beacon to the world, and we hope this plan will serve as an antidote to the challenges facing our city, our nation and the globe.”
@@ -65,7 +65,7 @@ Furthermore, an ongoing, 'once-in-a-century' project will change the city for th
 
 #### **Closing the digital divide**
 
-As digital technologies revolutionise industries and become an integral part of education and professional training, the city is also taking steps to [ensure that no one is left behind](http://onenyc.cityofnewyork.us/strategies/modern-infrastructure/). 
+As digital technologies revolutionise industries and become an integral part of education and professional training, the city is also taking steps to ensure that no one is left behind. 
 
 Over the past four years, the city has loaned or given away more than 15,000 free connected devices through partnership with libraries and other organisations. It has also worked with a consortium of technology companies to set up nearly 1,800 high-speed public WiFi access points with connected and secure tablets and free device charging. Moreover, public computer centres at over 500 locations collectively offer more than 11,000 free computer workstations and more than 2,500 hours of digital literacy training per week, as well as other digital tools and resources. 
 
