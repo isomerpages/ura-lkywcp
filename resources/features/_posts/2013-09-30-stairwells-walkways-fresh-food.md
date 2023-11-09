@@ -3,6 +3,7 @@ title: Stairwells, walkways and fresh food — healthy cities
 permalink: /resources/features/stairwells-walkways-fresh-food/
 image: /images/features/2013/healthy-cities.jpg
 description: Today’s cities are high-dense environments that house large populations, experience high traffic, and consume vast quantities of processed food and beverages from afar. Dr Karen Lee shares insight on what cities must do to keep their residents healthy while mitigating pollution and controlling levels of waste.
+published: false
 ---
 
 | Writer |
