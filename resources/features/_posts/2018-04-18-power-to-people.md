@@ -52,7 +52,7 @@ In their 2017 report, the Seoul Institute researchers summarised: “Before the 
 
 Besides giving citizens a larger say in the city’s future, the Seoul Metropolitan Government also launched two initiatives in 2012 to help them to improve their immediate surroundings more quickly: the Participatory Budget System and the Community Building Project.
 
-Since 2012, about five percent of the city’s annual budget – amounting to about 50 billion won each year between 2012 and 2016, and about 60 billion won each year in 2017 and 2018 – has been [set aside for public spending projects proposed by citizens](http://english.seoul.go.kr/get-to-know-us/city-hall/budget/participatory-budget-system/).
+Since 2012, about five percent of the city’s annual budget – amounting to about 50 billion won each year between 2012 and 2016, and about 60 billion won each year in 2017 and 2018 – has been set aside for public spending projects proposed by citizens.
 
 Under this Participatory Budget System, people who live, work and attend school in Seoul can vote online on the projects, to determine which ones should be implemented first. In 2017, nearly 117,000 people voted, up from 103,500 people in 2015. Before that, the vote was limited to a committee of 250 people selected through a random electronic draw.
 
