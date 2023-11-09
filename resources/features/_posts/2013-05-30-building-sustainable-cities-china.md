@@ -3,6 +3,7 @@ title: Building sustainable cities in China
 permalink: /resources/features/building-sustainable-cities-china/
 image: /images/features/2013/nanjing-road.jpg
 description: By 2030, one-eighth of the world’s population will be residing in a Chinese city. This will put extreme pressure on Chinese cities, and their success will be determined by their ability to achieve long-term environmental, economic and social sustainability.
+published: false
 ---
 
 | Writer |
