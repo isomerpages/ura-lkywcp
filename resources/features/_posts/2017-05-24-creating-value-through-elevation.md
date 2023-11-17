@@ -3,6 +3,7 @@ title: Creating value through elevation
 permalink: /resources/features/creating-value-through-elevation/
 image: /images/features/2017/nyc-high-line.jpg
 description: Elevated parks have become a worldwide trend since the launch of Paris’ Promenade Plantée in 1993, bringing with them economic and social benefits. In this article, we look at the advantages of tapping on elevated spaces in cities, from increased liveability to enrichment of pedestrian networks and a city’s connectivity.
+published: false
 ---
 
 | Writer |
