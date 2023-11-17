@@ -3,6 +3,7 @@ title: Beat the heat — cooling cities
 permalink: /resources/features/beat-the-heat/
 image: /images/features/2018/beat-the-heat.jpg
 description: Rising temperatures are casting a spotlight on the need to provide cooling in cities without worsening climate change or overburdening power grids. From district cooling systems in Singapore to white roofs in Ahmedabad and wind corridors in Guiyang, cities are implementing sustainable cooling projects to help their citizens beat the heat.
+published: false
 ---
 
 | Writer |
