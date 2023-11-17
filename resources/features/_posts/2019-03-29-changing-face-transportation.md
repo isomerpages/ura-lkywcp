@@ -3,6 +3,7 @@ title: The changing face of transportation
 permalink: /resources/features/changing-face-transportation/
 image: /images/features/2019/cycling-copenhagen.jpg
 description: With new ideas and technologies, many cities are reshaping themselves to favour walking, cycling and public transit over private cars. From Singapore’s on-demand public buses to Barcelona’s mini car-free neighbourhoods, here are some exciting initiatives to swap cars’ pollution and excessive spatial needs with better modes of travel.
+published: false
 ---
 
 | Writer |
