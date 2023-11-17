@@ -3,6 +3,7 @@ title: Living walls
 permalink: /resources/features/living-walls/
 image: /images/features/2013/vertical-wall.jpg
 description: Occupying the vertical surfaces of offices, residential and commercial buildings, green walls provide greenery to the urban environment without the traditional requirements of space. Jane Henley, former Chief Executive Officer of the World Green Building Council, shares her views on green walls as well as their lesser known environmental benefits, and the upward trend of these living facades.
+published: false
 ---
 
 | Writer |
