@@ -3,7 +3,7 @@ title: Immigration and integration in global cities
 permalink: /resources/features/immigration-integration-global-cities/
 image: /images/features/2017/people-crosswalk.jpg
 description: Immigration is increasingly shaping the demographics and development of global cities. While immigrants bring opportunities in terms of cultural and economic capital, they also pose various challenges to cities. As such, integrating and engaging immigrant communities becomes key to build dynamic, vibrant, resilient global cities.
-
+published: false
 ---
 
 | Writer |

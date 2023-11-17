@@ -3,6 +3,7 @@ title: The role of cities in preserving biodiversity
 permalink: /resources/features/role-cities-preserving-biodiversity/
 image: /images/features/2015/melboune.jpg
 description: Natural habitats and their biodiversity are increasingly seen as vital components of liveable cities. They provide spaces for recreation and help to restore physical and mental health. Urban parks and forests also contribute to a sense of belonging and well-being. We look at what cities can do to protect them.
+published: false
 ---
 
 | Writer |
@@ -51,7 +52,7 @@ Professor Beatley, who founded the Biophilic Cities Network of cities seeking to
 
 #### **Measuring urban biodiversity**
 
-A crucial step to protecting urban biodiversity is knowing how much of it exists and which habitats are of high value for their biodiversity and ecosystem services. This process requires a different methodology from that used in country-wide studies; hence, a dedicated tool called the [City Biodiversity Index (CBI)](https://www.nparks.gov.sg/biodiversity/the-singapore-index-on-cities-biodiversity) has been developed by Singapore’s National Parks Board with the co-operation of the United Nations, and was launched in 2010 at the 9th Meeting of the Conference of Parties to the Convention on Biological Diversity at Nagoya, Japan.
+A crucial step to protecting urban biodiversity is knowing how much of it exists and which habitats are of high value for their biodiversity and ecosystem services. This process requires a different methodology from that used in country-wide studies; hence, a dedicated tool called the City Biodiversity Index (CBI) has been developed by Singapore’s National Parks Board with the co-operation of the United Nations, and was launched in 2010 at the 9th Meeting of the Conference of Parties to the Convention on Biological Diversity at Nagoya, Japan.
 
 Dr Lena Chan of the National Parks Board, who helped develop the CBI, explains that the Index serves “as a long-term monitoring tool for city governments to evaluate their biodiversity conservation efforts”. Since its launch, the CBI has been applied by 24 city governments worldwide. “Academics have applied the index to a further 14 cities,” Dr Chan reveals. “In addition, twelve more city governments are currently in the process of applying the index.”
 

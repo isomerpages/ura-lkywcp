@@ -3,6 +3,7 @@ title: Transforming cities through cultural development
 permalink: /resources/features/transforming-cities-cultural-development/
 image: /images/features/2018/jeonju-hanok-village.jpg
 description: Creativity and culture shape cities in many ways, from identity and social participation to economic performance and innovation. We look at how cities naturally position themselves as their incubators and disseminators, and strategies ranging from policy-making and engendering inclusivity to capitalising on cultural resources and engaging citizenry.
+published: false
 ---
 
 | Writer |

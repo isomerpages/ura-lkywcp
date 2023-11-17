@@ -3,6 +3,7 @@ title: Taking vertical greenery to the next level
 permalink: /resources/features/taking-vertical-greenery-next-level/
 image: /images/features/2017/oasia-hotel-downtown.jpg
 description: Green buildings and vertical gardens alone are not enough to realise the vision of a truly green and sustainable city. In order to tackle the challenges of density, climate change, and biodiversity loss, cities must look beyond vertical greenery to include other dimensions and integrate with its larger landscape.
+published: false
 ---
 
 | Writer |

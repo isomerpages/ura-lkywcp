@@ -23,7 +23,7 @@ China’s economic story over the last four decades exemplifies this aspiration.
 
 A low-cost, yet literate workforce and pro-foreign investment policies attracted an array of multinational corporations, who saw Chinese cities as an attractive location within which to base their regional operations. Today, however, the Chinese leadership is purposefully shifting China’s economic base from low-value industries towards higher value sectors and services – particularly in its eastern provinces’ tier-one and tier-two cities.
 
-“China is going through an unprecedented transformation, with a greater focus on moving up the value chain in terms of productivity and labour input. The country is moving in this direction, with a key focus on qualitative growth versus quantitative growth of the past,” remarks Mr Aaron Lo, Partner at KPMG China in the firm’s [2014 Global Manufacturing Outlook](http://www.kpmg.com/Global/en/IssuesAndInsights/ArticlesPublications/global-manufacturing-outlook/Documents/competitive-advantage.pdf).
+“China is going through an unprecedented transformation, with a greater focus on moving up the value chain in terms of productivity and labour input. The country is moving in this direction, with a key focus on qualitative growth versus quantitative growth of the past,” remarks Mr Aaron Lo, Partner at KPMG China in the firm’s 2014 Global Manufacturing Outlook.
 
 “Our view is that we will see significant investment in high-value manufacturing for traditional industries and for government-backed investments in advanced technology industries.”
 
@@ -46,7 +46,7 @@ The transformation from low-value industrial hub to one characterised by housing
 
 In theory, cities that house high-value economic sectors should embrace social welfare and environmental stewardship, but this is not always the case. Challenges invariably remain. For example, many economically developing cites often struggle to accommodate the migrant workers they attract. Similarly, city authorities can be tempted by investment-driven initiatives that compromise the natural environment or overlook social interests. This can result in a city’s liveability and environmental quality deteriorating in the bid to become high-value.
 
-Conversely, housing low-value industries does not automatically decrease a city’s liveability. Prior to attracting higher-value industries, Lee Kuan Yew World City Prize Special Mentions, [Ahmedabad](/ahemdabad/) in India and [Medellín](/medellin-special-mention/) in Colombia both elevated the quality of living for their citizens through innovative urban planning.
+Conversely, housing low-value industries does not automatically decrease a city’s liveability. Prior to attracting higher-value industries, Lee Kuan Yew World City Prize Special Mentions, [Ahmedabad](/ahmedabad/) in India and [Medellín](/medellin/) in Colombia both elevated the quality of living for their citizens through innovative urban planning.
 
 “No matter how backward a city is, as long as its top leaders are committed to improving the city to better standards and learning the sound values of urban development, it is a good start. This needs to be complemented by an enlightened administrative system in which the leaders focus mainly on important policy decisions, and the planners must be given ample freedom and creative space to carry out their work,” says Dr Liu.
 

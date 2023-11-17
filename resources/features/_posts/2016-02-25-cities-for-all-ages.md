@@ -3,7 +3,7 @@ title: Cities for all ages
 permalink: /resources/features/cities-for-all-ages/
 image: /images/features/2016/cities-for-all-ages.jpg
 description: Populations of cities worldwide, both developing and developed, are rapidly ageing. As the average human lifespan increases, it is critical that urban planners re-imagine cities to be age-friendly.
-  
+published: false  
 ---
 
 | Writer |

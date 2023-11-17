@@ -3,6 +3,7 @@ title: Eco-cities — who, what, where and why?
 permalink: /resources/features/eco-cities/
 image: /images/features/2014/cycling.jpg
 description: The term ‘eco-cities’ is synonymous with urban areas that promote environmental preservation. However, decorating cities with boulevards and green buildings, and adopting energy- and waste-efficient technologies, are merely small parts of the modern eco-city. What do eco-cities need in order to function successfully?
+published: false
 ---
 
 | Writer |

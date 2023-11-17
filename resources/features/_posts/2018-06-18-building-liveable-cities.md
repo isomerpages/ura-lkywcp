@@ -30,17 +30,17 @@ While the cities are located in different parts of the world, they faced the sam
 
 #### **Making the most of brownfields**
 
-In the early 1990s, the government of Hamburg saw an opportunity to provide more homes and facilities for the city’s growing population. While the port area south of the central River Elbe was built up, the areas on the north bank of the river were unused or underused because they were [not suitable for container operations](https://www.hafencity.com/en/overview/hafencity-the-genesis-of-an-idea.html).
+In the early 1990s, the government of Hamburg saw an opportunity to provide more homes and facilities for the city’s growing population. While the port area south of the central River Elbe was built up, the areas on the north bank of the river were unused or underused because they were not suitable for container operations.
 
-In 1997, the government presented a plan to build a new city centre district on these areas, which spanned 157 hectares. The ongoing project, called HafenCity, will expand Hamburg’s city area by 40 percent, provide homes for more than 13,000 people and create up to 45,000 jobs [when it is completed by 2025](https://www.hafencity.com/upload/files/listitems/Fact_Sheet.pdf).
+In 1997, the government presented a plan to build a new city centre district on these areas, which spanned 157 hectares. The ongoing project, called HafenCity, will expand Hamburg’s city area by 40 percent, provide homes for more than 13,000 people and create up to 45,000 jobs when it is completed by 2025.
 
-Beyond the scope of the project, the planners of HafenCity have been lauded for their policies to ensure that the district is sustainable, vibrant and socially equitable. For example, its buildings are being constructed at 7.5 metres to 8 metres above the mean sea level to [prepare for climate change and higher flooding risks](https://www.hafencity.com/en/concepts/innovative-infrastructure-.html).
+Beyond the scope of the project, the planners of HafenCity have been lauded for their policies to ensure that the district is sustainable, vibrant and socially equitable. For example, its buildings are being constructed at 7.5 metres to 8 metres above the mean sea level to prepare for climate change and higher flooding risks.
 
-The buildings’ ground floors are also mandated to be five metre-high to accommodate not only retailers but also [exhibition areas, museums, theatres, cinemas, schools and universities](https://thecityateyelevel.files.wordpress.com/2016/04/6-creating-livability.pdf). “Building plots are not sold to the highest bidder. Prices are fixed… and the most convincing concept wins,” Ms Susanne Bühler, the project’s communications director, [told The Financial Times](https://www.ft.com/content/5dc98988-bb35-11e3-948c-00144feabdc0).
+The buildings’ ground floors are also mandated to be five metre-high to accommodate not only retailers but also exhibition areas, museums, theatres, cinemas, schools and universities. “Building plots are not sold to the highest bidder. Prices are fixed… and the most convincing concept wins,” Ms Susanne Bühler, the project’s communications director, [told The Financial Times](https://www.ft.com/content/5dc98988-bb35-11e3-948c-00144feabdc0).
 
 Furthermore, [one-third of HafenCity’s homes will be subsidised housing](https://www.nytimes.com/2011/11/18/business/global/a-bold-plan-long-thought-out-to-remake-hamburg.html). This is in keeping with the [government’s policy](https://www.clc.gov.sg/docs/default-source/urban-solutions/urb-sol-iss-9-pdfs/viewpoint-olaf-scholz.pdf?sfvrsn=fad88b6f_2) that housing on state-owned land consists of one-third social housing, one-third rental apartments and one-third privately-funded housing.
 
-“HafenCity has been honed through urban design competitions, open space competitions, zoning plans and architectural competitions. It is Europe’s largest inner-city development project, and can serve as a blueprint for the development of a European city on the waterfront,” [said the Hamburg government](https://www.hafencity.com/en/overview/the-hafencity-project.html).
+“HafenCity has been honed through urban design competitions, open space competitions, zoning plans and architectural competitions. It is Europe’s largest inner-city development project, and can serve as a blueprint for the development of a European city on the waterfront,” said the Hamburg government.
 
 #### **Improving on existing homes**
 

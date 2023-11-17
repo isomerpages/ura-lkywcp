@@ -3,6 +3,7 @@ title: How can cities ensure success in changing times?
 permalink: /resources/features/successful-cities/
 image: /images/features/2014/jeffrey-rhoda.jpg
 description: The world is unpredictable. Sudden changes – be they environmental, economic or socio-political – can reshape the established order, disrupt existing patterns and institutions and transform previously unassailable assumptions. To build resilience in this environment is to make cities’ communities, institutions and systems better prepared to face an inherently unpredictable world.
+published: false
 ---
 
 | Writer |

@@ -3,6 +3,7 @@ title: Designing a just city
 permalink: /resources/features/designing-just-city/
 image: /images/features/2014/nyc-high-line.jpg
 description: The economic success of a city is not an assurance of its liveability. As crucial as competitiveness is, city authorities should consider social inclusivity as a criterion by which they stitch together a city’s urban fabric. To build a ‘just city’, the principles of equity, democracy and diversity must be considered during the planning and policymaking processes.
+published: false
 ---
 
 | Writer |

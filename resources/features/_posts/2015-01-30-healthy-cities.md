@@ -3,6 +3,7 @@ title: How healthy are our cities?
 permalink: /resources/features/healthy-cities/
 image: /images/features/2015/nyc.jpg
 description: For the first time in history, more than half the world’s population live in cities. This urban growth has led to socio-economic and health imbalances, yet urban residents overwhelmingly enjoy better health than their respective countries’ national averages. Can the world’s cities deliver future health and well-being?
+published: false
 ---
 
 | Writer |

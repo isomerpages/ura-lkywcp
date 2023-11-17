@@ -3,6 +3,7 @@ title: Fire and flood — how cities are fighting natural disasters using AI
 permalink: /resources/features/fire-and-flood/
 image: /images/features/2019/flooding-bangkok.jpg
 description: With climate change set to unleash more unnatural weather and natural disasters, cities are turning to artificial intelligence to better build their defences, alert residents earlier and power up their response and rescue operations. Smart software can help cities make the right choices in hard times. 
+published: false
 ---
 
 | Writer |

@@ -3,6 +3,7 @@ title: People-centric cities — beyond modernism and the motorcar
 permalink: /resources/features/people-centric-cities/
 image: /images/features/2014/nyc.jpg
 description: In their quest to make cities liveable, urban planners should first and foremost consider conventional designs where buildings, streets and open spaces are modelled for pedestrians, according to Danish architect Jan Gehl. He reasons that cities will only be socially and environmentally sustainable by returning to urban models which consider alternative modes of mobility aside from the motorcar.
+published: false
 ---
 
 | Writer |

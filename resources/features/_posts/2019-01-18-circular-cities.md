@@ -3,6 +3,7 @@ title: Closing the loop on circular cities
 permalink: /resources/features/circular-cities/
 image: /images/features/2019/circular-cities.jpg
 description: In 2019, Denmark will complete its first residential area built out of recycled materials. With urbanisation increasingly putting a strain on cities’ resources, more of them are not only using their trash to build homes, offices, roads and other infrastructure, but ensuring that these are easily recyclable too, creating circular systems where materials can be reused endlessly.
+published: false
 ---
 
 | Writer |
@@ -31,7 +32,7 @@ By tapping recycled materials for construction, cities can reduce their waste an
 
 Constructing one kilometre of road in India typically requires 10 tonnes of bitumen. Since the mid-2000s, however, 11 states have built more than 100,000 km of partially-plastic roads that use one tonne of plastic waste and nine tonnes of bitumen for every kilometre, helping them to [recycle more of the former and use less of the latter](https://www.straitstimes.com/asia/south-asia/use-recycled-plastic-for-roads-the-daily-star). In 2015, the national government further cemented this practice by making it mandatory to use plastic waste in the construction of the country’s highways. 
 
-Other nations such as Australia have also begun trialling roads and paths partly made up of recycled waste. In 2018, the city of Melbourne in Australia started two pilot programmes to test the use of different types of waste. A road in the Richmond suburb was repaved with a [new asphalt product](http://www.roadsonline.com.au/city-of-yarra-uses-100-tonnes-of-recycled-waste-in-road-resurfacing/) containing used plastic bottles and glass bottles, while [a new road in the Craigieburn suburb](https://www.hume.vic.gov.au/About_Us_Contact_Details/Your_Council/Media_Publications_amp_Forms/Media_Releases/Media_Releases_2018/Road_built_with_plastic_bags_and_glass_in_Australian-first) was built with recycled asphalt, plastic bags and packaging, glass bottles and toner from printer cartridges. 
+Other nations such as Australia have also begun trialling roads and paths partly made up of recycled waste. In 2018, the city of Melbourne in Australia started two pilot programmes to test the use of different types of waste. A road in the Richmond suburb was repaved with a [new asphalt product](http://www.roadsonline.com.au/city-of-yarra-uses-100-tonnes-of-recycled-waste-in-road-resurfacing/) containing used plastic bottles and glass bottles, while a new road in the Craigieburn suburb was built with recycled asphalt, plastic bags and packaging, glass bottles and toner from printer cartridges. 
 
 Cities have also embraced the philosophy that waste is wealth in other ways. In 2019, the city of Copenhagen will complete Denmark’s first residential area [built out of recycled materials](https://www.weforum.org/agenda/2018/03/copenhagen-denmark-rebuilding-recycled-rubble/). The development, called Resource Rows, uses walls from abandoned rural homes, bricks from disused schools and industrial buildings, including Copenhagen’s historic Carlsberg brewery, and concrete and wood waste from the expansion of Copenhagen’s mass rapid transit system. 
 

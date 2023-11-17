@@ -3,6 +3,7 @@ title: Why cities must aspire to be 'global cities'
 permalink: /resources/features/global-cities/
 image: /images/features/2013/saskia-sassen.jpg
 description: Saskia Sassen is famously attributed with creating the term 'global city' - one that is dynamic, vibrant and influenced by different cultures and business practices. In a world increasingly characterised by the vast urban sprawls of megacities, Sassen argues that cities should aspire to be 'global'.
+published: false
 ---
 
 | Writer |

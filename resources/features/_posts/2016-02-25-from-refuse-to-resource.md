@@ -3,6 +3,7 @@ title: From refuse to resource — waste management in cities
 permalink: /resources/features/from-refuse-to-resource/
 image: /images/features/2016/from-refuse-to-resource.jpg
 description: Cities face new challenges and opportunities in waste management, as the world prepares for an era of climate change. The role and risks of landfills are being reassessed, as waste is increasingly looked upon as a resource and local communities emerge at the forefront of urban recycling movements. We look at some key trends in urban waste management.
+published: false
 ---
 
 | Writer |

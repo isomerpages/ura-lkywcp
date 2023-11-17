@@ -3,6 +3,7 @@ title: Planning to preserve — keeping heritage relevant in cities
 permalink: /resources/features/planning-to-preserve/
 image: /images/features/2017/vienna-historic-centre.jpg
 description: A city can grow in wealth and population, but its unique heritage, both built and cultural, is what sets it apart from other urban centres and adds to its quality of life. While preserving heritage has become a vital consideration in urban planning, it also requires engaging local communities to keep them relevant for all.
+published: false
 ---
 
 | Writer |

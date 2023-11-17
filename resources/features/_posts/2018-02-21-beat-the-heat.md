@@ -3,6 +3,7 @@ title: Beat the heat — cooling cities
 permalink: /resources/features/beat-the-heat/
 image: /images/features/2018/beat-the-heat.jpg
 description: Rising temperatures are casting a spotlight on the need to provide cooling in cities without worsening climate change or overburdening power grids. From district cooling systems in Singapore to white roofs in Ahmedabad and wind corridors in Guiyang, cities are implementing sustainable cooling projects to help their citizens beat the heat.
+published: false
 ---
 
 | Writer |
@@ -46,7 +47,7 @@ Other cities in Australia are looking into innovative ways to cool their streets
 
 Another potential solution is to build roads with porous surfaces that allow water to seep in and even grass to grow through them, as such roads would absorb less heat, although some experts have cautioned against measures that [may increase the city’s humidity excessively](https://www.theguardian.com/sustainable-business/2017/feb/21/urban-heat-islands-cooling-things-down-with-trees-green-roads-and-fewer-cars) and thus worsen the risk of heat stress.
 
-Darwin’s latest, 2015 City Centre Master Plan also identifies several measures to [reduce the impact of heat and climate change](https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/). “A key theme during our stakeholder consultation was that the heat and rain inhibit walking and outdoor activity for much of the year. Cooling the city will have direct and lasting social, economic and environmental benefits as more people are encouraged to walk and visit the city,” wrote the plan’s authors.
+Darwin’s latest, 2015 City Centre Master Plan also identifies several measures to reduce the impact of heat and climate change. “A key theme during our stakeholder consultation was that the heat and rain inhibit walking and outdoor activity for much of the year. Cooling the city will have direct and lasting social, economic and environmental benefits as more people are encouraged to walk and visit the city,” wrote the plan’s authors.
 
 They recommended installing awnings and solar-powered fans over streets to keep pedestrians cool. The government is also considering developing whole-of-city-centre, all-year sun path and wind pattern maps so that urban planners and architects can design more effective shading and cooling features.
 
