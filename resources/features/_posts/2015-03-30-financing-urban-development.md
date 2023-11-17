@@ -3,6 +3,7 @@ title: Financing urban development — windows of opportunity
 permalink: /resources/features/financing-urban-development/
 image: /images/features/2015/shanghai-stock-exchange.jpg
 description: In light of limited public sector budgets, tightened lending regulations and suppressed amounts of capital in the global markets, cities are increasingly turning to innovative funding models for urban development. We take a look at how authorities can do to persuade the private sector to invest in cities.
+published: false
 ---
 
 | Writer |
