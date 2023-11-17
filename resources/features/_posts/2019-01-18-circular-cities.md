@@ -3,6 +3,7 @@ title: Closing the loop on circular cities
 permalink: /resources/features/circular-cities/
 image: /images/features/2019/circular-cities.jpg
 description: In 2019, Denmark will complete its first residential area built out of recycled materials. With urbanisation increasingly putting a strain on cities’ resources, more of them are not only using their trash to build homes, offices, roads and other infrastructure, but ensuring that these are easily recyclable too, creating circular systems where materials can be reused endlessly.
+published: false
 ---
 
 | Writer |
