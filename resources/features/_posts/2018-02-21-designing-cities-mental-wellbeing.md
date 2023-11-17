@@ -3,6 +3,7 @@ title: Designing cities for mental well-being
 permalink: /resources/features/designing-cities-mental-wellbeing/
 image: /images/features/2018/nyc-high-line.jpg
 description: From New York City to Toronto and Tokyo, more cities are recognising good urban design as key to promoting mental well-being and counteracting the stresses of urban life. A well-designed city not only fosters closer social bonds and creates a more resilient populace but also boosts creativity and productivity. We look at some best practices across the globe.
+published: false
 ---
 
 | Writer |
