@@ -3,6 +3,7 @@ title: Do cities need vertical greenery?
 permalink: /resources/features/vertical-greenery-cities/
 image: /images/features/2013/vertical-greenery.jpg
 description: Vertical greenery is increasingly used in cities to both raise quality of life and improve urban environments and eco-systems. It can help to modify temperatures, improve air quality, increase biodiversity, and improve peoples’ physiology and mental health. Yet, how sustainable is it in the long term?
+published: false
 ---
 
 | Writer |
