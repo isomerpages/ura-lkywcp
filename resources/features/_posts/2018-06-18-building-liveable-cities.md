@@ -34,7 +34,7 @@ In the early 1990s, the government of Hamburg saw an opportunity to provide more
 
 In 1997, the government presented a plan to build a new city centre district on these areas, which spanned 157 hectares. The ongoing project, called HafenCity, will expand Hamburg’s city area by 40 percent, provide homes for more than 13,000 people and create up to 45,000 jobs [when it is completed by 2025](https://www.hafencity.com/upload/files/listitems/Fact_Sheet.pdf).
 
-Beyond the scope of the project, the planners of HafenCity have been lauded for their policies to ensure that the district is sustainable, vibrant and socially equitable. For example, its buildings are being constructed at 7.5 metres to 8 metres above the mean sea level to [prepare for climate change and higher flooding risks](https://www.hafencity.com/en/concepts/innovative-infrastructure-.html).
+Beyond the scope of the project, the planners of HafenCity have been lauded for their policies to ensure that the district is sustainable, vibrant and socially equitable. For example, its buildings are being constructed at 7.5 metres to 8 metres above the mean sea level to prepare for climate change and higher flooding risks.
 
 The buildings’ ground floors are also mandated to be five metre-high to accommodate not only retailers but also exhibition areas, museums, theatres, cinemas, schools and universities. “Building plots are not sold to the highest bidder. Prices are fixed… and the most convincing concept wins,” Ms Susanne Bühler, the project’s communications director, [told The Financial Times](https://www.ft.com/content/5dc98988-bb35-11e3-948c-00144feabdc0).
 
