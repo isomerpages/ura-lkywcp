@@ -62,7 +62,7 @@ While the Hamburg government is building HafenCity from scratch, it has taken me
 
 New mid-rise and high-rise buildings intended to increase Hamburg’s housing and commercial density are concentrated in the middle of HafenCity, away from its perimeter where it meets the rest of the traditionally low-rise city. The district’s layout also enables people to see the city’s old churches and city hall tower from many points, improving the sense of integration.
 
-“Another important lesson that HafenCity can offer to other cities is that it is very much financed by its own activities and not by transfers from the government,” said Prof Bruns-Berentelg. [Proceeds from building site sales](https://www.hafencity.com/en/faq-concepts-planning/how-is-hafencity-financed-.html) will fund infrastructure, roads, bridges, promenades and parks, the relocation of businesses and site clearance costs.
+“Another important lesson that HafenCity can offer to other cities is that it is very much financed by its own activities and not by transfers from the government,” said Prof Bruns-Berentelg. Proceeds from building site sales will fund infrastructure, roads, bridges, promenades and parks, the relocation of businesses and site clearance costs.
 
 <br>
 > ##### “In Wilhelmsburg, Altona and HafenCity, and with all these projects, what we have seen is that we can generate new paths of development in the city and achieve great progress.”
