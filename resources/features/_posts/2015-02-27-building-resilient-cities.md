@@ -3,6 +3,7 @@ title: Building resilient cities through technological transformation
 permalink: /resources/features/building-resilient-cities-technological-transformation/
 image: /images/features/2015/punggol.jpg
 description: With more than half of the world’s population living in urban areas, being resilient to physical, social and economic shocks is essential to the future prosperity and sustainability of cities. While technology plays an important part in building resilience, the role of monitoring and analytics, as well as robust security systems, will grow exponentially.  
+published: false
 ---
 
 | Writer |
