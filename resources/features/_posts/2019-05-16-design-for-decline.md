@@ -3,6 +3,7 @@ title: Design for decline — how shrinking cities are saving themselves
 permalink: /resources/features/design-for-decline/
 image: /images/features/2019/toyama-japan.jpg
 description: In some countries, the woes of urbanisation go hand-in-hand with a less documented challenge - shrinking cities due to low fertility rates, sunset industries and resource depletion. To combat issues such as hollowed-out neighbourhoods and excessive infrastructure too expensive to maintain, cities are relocating residents, downsizing their environs, pivoting to sunrise industries, among other strategies. 
+published: false
 ---
 
 | Writer |
