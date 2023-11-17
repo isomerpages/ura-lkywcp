@@ -3,6 +3,7 @@ title: Redesigning cities for people
 permalink: /resources/features/redesigning-cities-people/
 image: /images/features/2019/public-spaces-toronto.jpg
 description: In a world inundated with more complex urban challenges, Toronto’s former Chief City Planner Jennifer Keesmaat is hopeful. She talks about redefining the use of streets and the way residents are engaged to create more inclusive cities. 
+published: false
 ---
 
 | Writer |
