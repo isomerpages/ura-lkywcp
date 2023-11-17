@@ -3,6 +3,7 @@ title: Opening big data for urban innovation
 permalink: /resources/features/opening-big-data-urban-innovation/
 image: /images/features/2015/big-data.jpg
 description: The advancement in big data analytics allow cities to gain insights, and catalyse urban innovation. The emergence of huge data sets, however, poses challenges in access and security, and deriving relevant insights and applications. To mitigate these challenges, open data initiatives are gaining traction.  
+published: false
 ---
 
 | Writer |
