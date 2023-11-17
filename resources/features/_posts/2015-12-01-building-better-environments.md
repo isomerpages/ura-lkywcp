@@ -3,6 +3,7 @@ title: Building better environments for nature and man
 permalink: /resources/features/building-better-environments-nature-man/
 image: /images/features/2015/building-better-environments.jpg
 description: What is biophilia and how can this concept be incorporated into urban design and city planning? Three international urban experts share their thoughts on the principles of biophilic design and why forging a connection to nature is expected to become a significant concern for cities to create a more liveable and healthier environment.
+published: false
 ---
 
 | Writer |
