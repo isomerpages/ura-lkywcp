@@ -17,10 +17,10 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: About the Prize
+        title: World City Prize
         subtitle: 
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
-        button: More info
+        button: About the Prize
         url: /about-the-prize/
     - infopic:    
         title: Breathing better in our cities
