@@ -41,11 +41,9 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **City profile**
 
-| **Mayor** | Juan María Aburto (2015 - date) <br> Ibon Areso (2014 - 2015) <br> Late Iñaki Azkuna (1999 - 2014) | 
 | **Area** | 41.6 km<sup>2</sup> |
 | **Population** | 346,332 people | 
 | **Density** | 8,446 per km<sup>2</sup> |
-| **Master strategy** | [Mandate Plan 2019-2023](https://www-bilbao-eus.translate.goog/cs/Satellite?c=Page&cid=1279123253052&language=en&pageid=1279123253052&pagename=Bilbaonet/Page/BIO_contenidoFinal&_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) |
 
 ##### **Commemorative video** 
 
@@ -67,8 +65,4 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 ##### **Features** 
 
 | [Spotlight on Bilbao — how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
-
-##### **Interviews** 
-
-| [Juan María Aburto on investing in culture and people](/resources/interviews/investing-culture-people/) | 
-| [Andoni Aldekoa on constructing a knowledge city](/resources/interviews/constructing-knowledge-city/) |
+| [Juan María Aburto on investing in culture and people](/resources/interviews/investing-culture-people/) |
