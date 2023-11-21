@@ -2,7 +2,7 @@
 title: 2012 Special Mention — Brisbane
 permalink: /brisbane/
 image: /images/special-mentions/brisbane.jpg
-description: Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a country town blighted by urban decay into a vibrant metropolis.
+description: Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a country town blighted by urban decay into a vibrant metropolis. 
 --- 
 
 ##### Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a ‘country town’ blighted by urban decay into a vibrant metropolis.
