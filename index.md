@@ -18,7 +18,7 @@ sections:
               url: 
     - infobar:    
         title: 
-        subtitle: World City Prize
+        subtitle: The World City Prize
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: About the Prize
         url: /about-the-prize/
