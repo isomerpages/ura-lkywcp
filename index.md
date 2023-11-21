@@ -7,9 +7,9 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: ·
+        title: 
         subtitle: 
-        background: /images/worldmap-hero10.jpg
+        background: /images/worldmap-hero11.jpg
         button: 
         url: 
         key_highlights:
