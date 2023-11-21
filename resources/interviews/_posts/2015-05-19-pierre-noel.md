@@ -3,6 +3,7 @@ title: Pierre Noel on the growing threats of cyber risks
 permalink: /resources/interviews/growing-threat-cyber-risks/
 image: /images/features/2015/data-centre.jpg
 description: Mr Pierre Noel, Chief Security Officer, Asia, Microsoft, discusses the threats cities face from cyber-attacks, the fall-out from these, and what cities must do to become resilient to web-based threats.
+published: false
 ---
 
 | Writer |

@@ -2,7 +2,7 @@
 title: 2012 Special Mention — Brisbane
 permalink: /brisbane/
 image: /images/special-mentions/brisbane.jpg
-description: Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a country town blighted by urban decay into a vibrant metropolis.
+description: Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a country town blighted by urban decay into a vibrant metropolis. 
 --- 
 
 ##### Brisbane City Council's Urban Renewal Brisbane Agency is recognised for transforming the city from a ‘country town’ blighted by urban decay into a vibrant metropolis.
@@ -25,11 +25,9 @@ URB continues to play a key role in implementing Brisbane’s strategic vision o
 
 ##### **City profile**
 
-| **Mayor** | Adrian Schrinner (2019 - date) <br> Graham Quirk (2011 - 2019) |
 | **Area** | 1,343 km<sup>2</sup> |
 | **Population** | 1,253,982 people (2019) | 
 | **Density** | 934 per km<sup>2</sup> |
-| **Master plan** | [Brisbane City Plan 2014](https://www.brisbane.qld.gov.au/planning-and-building/planning-guidelines-and-tools/brisbane-city-plan-2014) |
 
 ##### **YouTube videos**
 

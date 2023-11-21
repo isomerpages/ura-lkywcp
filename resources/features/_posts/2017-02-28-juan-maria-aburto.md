@@ -1,6 +1,6 @@
 ---
 title: Juan María Aburto on investing in culture and people
-permalink: /resources/interviews/investing-culture-people/
+permalink: /resources/features/investing-culture-people/
 image: /images/features/2017/juan-maria-aburto.jpg
 description: Since winning the inaugural Prize, Bilbao has continued to champion the transformation of its former industrial landscape and forge partnerships both within and beyond its borders. Mayor Juan María Aburto shared his thoughts on Bilbao becoming a smart city of culture, knowledge and innovation.
 ---

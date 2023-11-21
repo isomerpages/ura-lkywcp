@@ -41,11 +41,9 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 ##### **City profile**
 
-| **Mayor** | Daniel Quintero Calle (2020 - date) <br> Federico Gutiérrez Zuluaga (2016 - 2020) <br> Aníbal Gaviria Correa (2012 - 2016) |
 | **Area** | 382.0 km<sup>2</sup> |
 | **Population** | 2,376,337 people | 
 | **Density** | 6,220 per km<sup>2</sup> |
-| **Master strategy** | [Medellín Future Development Plan 2020-2023](https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=contenido/6899-Plan-de-Desarrollo-2020---2023--Gaceta-oficial---Medellin-Futuro) |
 
 ##### **Commemorative video** 
 

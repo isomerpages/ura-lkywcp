@@ -27,11 +27,9 @@ Tokyo is working towards a planned vision for its future. Under the [**<mark>Act
 
 ##### **City profile** 
 
-| **Governor** | Yuriko Koike (2016 - date) |
 | **Area** | 2,194 km<sup>2</sup> |
 | **Population** | 13,960,000 people (2021) | 
 | **Density** | 6,363 per km<sup>2</sup> |
-| **Master plan** | [Outline of the City Planning](https://www.toshiseibi.metro.tokyo.lg.jp/eng/index.html) |
 
 ##### **YouTube videos** 
 
@@ -49,10 +47,8 @@ Tokyo is working towards a planned vision for its future. Under the [**<mark>Act
 
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
 | [Tokyo — the power of people-public-private partnerships](/resources/features/people-public-private-partnerships/) |
-
-##### **Interviews** 
-
-| [Tokyo's CBD — from business district to vibrant hub](/resources/interviews/business-district-vibrant-hub/) |
+| [Tokyo's CBD — from business district to vibrant hub](/resources/features/business-district-vibrant-hub/) |
+| [Yuriko Koike on the new normal in Tokyo](/resources/features/yuriko-koike/) |
 
 ---
 

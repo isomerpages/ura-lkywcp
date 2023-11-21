@@ -35,7 +35,6 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 ##### **City profile**
 
-| **Mayor** | Wu Qingwen, (2021 - date, Acting) <br> Li Yaping (2017 - 2021) <br> Qu Futian (2016 - 2017) <br> Zhou Naixiang (2012 - 2016) |
 | **Area** | 8,657.3 km<sup>2</sup> |
 | **Population** | 10,700,000 people | 
 | **Density** | 1,238 per km<sup>2</sup> |

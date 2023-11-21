@@ -33,7 +33,6 @@ The involvement and commitment of both the people and then-Mayor Rismaharini wor
 
 ##### **City profile** 
 
-| **Mayor** | Eri Cahyadi (2021 - date) <br> Tri Rismaharini (2010 - 2020) |
 | **Area** | 326.8 km<sup>2</sup> |
 | **Population** | 2,972,091 people (2021) | 
 | **Density** | 5,762 per km<sup>2</sup> |
@@ -54,7 +53,4 @@ The involvement and commitment of both the people and then-Mayor Rismaharini wor
 
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
 | [Surabaya — preserving the past, conserving the future](/resources/features/preserving-past-conserving-future/) |
-
-##### **Interviews** 
-
-| [Tri Rismaharini on developing a ground-up Surabaya](/resources/interviews/developing-groundup-surabaya/) |
+| [Tri Rismaharini on developing a ground-up Surabaya](/resources/features/developing-groundup-surabaya/) |

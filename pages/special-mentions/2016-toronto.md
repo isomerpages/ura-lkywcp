@@ -29,11 +29,9 @@ Despite limited support from the Federal and Provincial governments and a ‘wea
 
 ##### **City profile** 
 
-| **Mayor** | John Howard Tory (2014 - date) |
 | **Area** | 630.2 km<sup>2</sup> |
 | **Population** | 2,930,000 people (2017) | 
 | **Density** | 4,649 per km<sup>2</sup> |
-| **Master plan** | [Toronto Plan](https://www.toronto.ca/city-government/planning-development/official-plan-guidelines/official-plan/) |
 
 ##### **YouTube videos** 
 

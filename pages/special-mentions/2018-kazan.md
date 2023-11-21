@@ -29,11 +29,9 @@ Kazan is highly remarkable as a city of diverse cultures, comprising 115 differe
 
 ##### **City profile** 
 
-| **Mayor** | Ilsur Metshin (2005 - date) |
 | **Area** | 515.8 km<sup>2</sup> |
 | **Population** | 1,279,794 people (2021) | 
 | **Density** | 2,481 per km<sup>2</sup> |
-| **Master strategy** |[Kazan 2030 Strategy](https://kzn.ru/o-kazani/strategiya-kazani-2030/) |
 
 ##### **YouTube videos** 
 

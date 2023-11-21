@@ -33,11 +33,9 @@ Lisbon demonstrates resilience in the face of adversity to overcome limitations 
 
 ##### **City profile** 
 
-| **Mayor** | Carlos Moedas (2021 – date) <br> Fernando Medina (2015 – 2021)  |
 | **Area** | 100.1 km<sup>2</sup> |
 | **Population** | 547,733 people | 
 | **Density** | 5,4725,623 per km<sup>2</sup> |
-| **Master plan** | Lisbon Master Plan |
 
 ##### **Features** 
 

@@ -29,11 +29,9 @@ Sydney’s transformation is a testament to the dynamic leadership of Lord Mayor
 
 ##### **City profile** 
 
-| **Mayor** | Clover Margaret Moore (2004 - date) |
 | **Area** | 25 km<sup>2</sup> |
 | **Population** | 246,343 people (2019) | 
 | **Density** | 9,854 per km<sup>2</sup> |
-| **Master plan** | [Sustainable Sydney 2030](https://www.cityofsydney.nsw.gov.au/sustainable-sydney-2030) |
 
 ##### **YouTube videos** 
 

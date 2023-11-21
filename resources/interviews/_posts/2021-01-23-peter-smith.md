@@ -3,6 +3,7 @@ title: Peter Smith on creating memorable places
 permalink: /resources/interviews/peter-smith/
 image: /images/features/2021/peter-smith.jpg
 description: In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.
+published: false
 ---
 
 | Writer |

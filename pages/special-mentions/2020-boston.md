@@ -35,11 +35,9 @@ Overall, Boston’s foresight in resilience leads the way, and urges other water
 
 ##### **City profile** 
 
-| **Mayor** | Michelle Wu (2021 – date) <br> Kim Janey (2021, Acting) <br> Marty Walsh (2014 – 2021)  |
 | **Area** | 119 km<sup>2</sup> |
 | **Population** | 669,158 people | 
 | **Density** | 5,623 per km<sup>2</sup> |
-| **Master plan** | [Imagine Boston 2030](https://www.boston.gov/civic-engagement/imagine-boston-2030) |
 
 ##### **Features** 
 

@@ -3,6 +3,7 @@ title: Peter Williams on mitigating the effects of natural disasters
 permalink: /resources/interviews/mitigating-effects-natural-disasters/
 image: /images/features/2015/typhoon-haiyan.jpg
 description: Dr Peter Williams of IBM shares his views on how cities can best mitigate the effects of natural disasters. Addressing issues like climate change and substandard infrastructure, he argues that city and national governments will only become truly resilient when constituents and their leaders engage in two-way communication.
+published: false
 ---
 
 | Writer |

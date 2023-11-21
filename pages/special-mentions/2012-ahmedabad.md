@@ -27,7 +27,6 @@ AMC has distinguished itself as a forward-looking organisation and an inspiring 
 
 ##### **City profile**
 
-| **Mayor** | Kirit Parmar (2021 - date) |
 | **Area** | 464 km<sup>2</sup> |
 | **Population** | 5,571,000 people (2011) | 
 | **Density** | 12,006 per km<sup>2</sup> |
