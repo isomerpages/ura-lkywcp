@@ -47,7 +47,7 @@ sections:
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
     - infobar:
-        title: 💬
+        title: 
         subtitle: Connect with us on LinkedIn!
         description: 
         button: Linkedin
