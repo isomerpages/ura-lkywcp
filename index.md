@@ -52,8 +52,4 @@ sections:
         description: Connect with us on LinkedIn!
         button: LinkedIn
         url: https://www.linkedin.com/in/leekuanyewworldcityprize/
-    - resources:
-        title: 
-        subtitle: Latest updates
-        button: More useful resources
 ---
