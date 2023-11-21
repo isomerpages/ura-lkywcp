@@ -18,7 +18,7 @@ sections:
               url: /prize-cycle/
     - infobar:    
         title: About the Prize
-        subtitle: ❤
+        subtitle: 
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: More info
         url: /about-the-prize/
