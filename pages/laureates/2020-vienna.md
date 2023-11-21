@@ -35,11 +35,9 @@ Despite its many successes in the past, Vienna continues to build on the strong 
 
 ##### **City profile**
 
-| **Mayor** | Michael Ludwig (2018 - date) |
 | **Area** | 414.9 km<sup>2</sup> |
 | **Population** | 1,888,776 people | 
 | **Density** | 4,553 per km<sup>2</sup> |
-| **Master strategy** | [STEP 2025](https://www.wien.gv.at/stadtentwicklung/studien/pdf/b008379b.pdf) |
 
 ##### **Commemorative video**
 
