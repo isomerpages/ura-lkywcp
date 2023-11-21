@@ -27,11 +27,9 @@ Benefitting from an active citizenry bonded by a strong set of 'Vancouver Values
 
 ##### **City profile**
 
-| **Mayor** | Kennedy Stewart (2018 - date) <br> Gregor Robertson (2008 - 2018) |
 | **Area** | 115 km<sup>2</sup> |
 | **Population** | 675,218 people (2017) | 
 | **Density** | 5,871 per km<sup>2</sup> |
-| **Master plan** | [Vancouver Plan](https://vancouver.ca/home-property-development/vancouver-city-wide-plan.aspx) |
 
 ##### **YouTube videos**
 
