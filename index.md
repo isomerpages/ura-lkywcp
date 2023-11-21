@@ -49,7 +49,7 @@ sections:
     - infobar:
         title: 💬
         subtitle: 
-        description: Connect with us on LinkedIn!
-        button: LinkedIn
+        description: 
+        button: Connect with us on LinkedIn!
         url: https://www.linkedin.com/in/leekuanyewworldcityprize/
 ---
