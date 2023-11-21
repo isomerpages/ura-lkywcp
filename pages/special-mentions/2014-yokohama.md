@@ -27,11 +27,9 @@ The city is also a leader in partnering the industry to develop smart technologi
 
 ##### **City profile**
 
-| **Mayor** | Takeharu Yamanaka (2021 - date) <br> Fumiko Hayashi (2009 - 2021) |
 | **Area** | 437.4 km<sup>2</sup> |
 | **Population** | 3,725,000 people (2015) | 
 | **Density** | 8,516 per km<sup>2</sup> |
-| **Master strategy** | [Yokohama General Plan](https://www.city.yokohama.lg.jp/lang/residents/en/about-us/General_Plan.html) |
 
 ##### **YouTube videos**
 
