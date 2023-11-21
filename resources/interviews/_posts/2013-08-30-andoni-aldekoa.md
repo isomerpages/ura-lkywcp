@@ -3,6 +3,7 @@ title: Andoni Aldekoa on constructing a knowledge city
 permalink: /resources/interviews/constructing-knowledge-city/
 image: /images/features/2013/andoni-aldekoa.jpg
 description: In 2010, Bilbao was awarded the inaugural Prize for its transformation from being in industrial decline to a modern and vibrant city. We speak with Andoni Aldekoa, Chief Executive Officer of Bilbao City Council, about the next stage in the city’s development.
+published: false
 ---
 
 | Writer |
