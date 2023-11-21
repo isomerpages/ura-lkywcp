@@ -32,9 +32,9 @@ sections:
         alt: Clean air
     - infopic:    
         title: Breathing new life into Antwerp's riverfront
-        subtitle: Case study
+        subtitle: Case study 20
         description: Learn about how Antwerp uses community-driven transformation to turn an industrial wasteland to a vibrant waterfront.
-        button: Find out more
+        button: Read the case study
         url: /resources/case-studies/antwerp-scheldt-quays/
         image: /images/features/2023/droogdokkenpark.jpg/
         alt: Antwerp Droogdokkenpark
