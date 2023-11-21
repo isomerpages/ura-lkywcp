@@ -322,7 +322,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .image-card:hover {
   .news-content {
-    background-color: darken(#ffffff, 10%);
+    background-color: darken(#ffffff, 0%);
   }
 }
 
