@@ -41,11 +41,9 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 ##### **City profile**
 
-| **Mayor** | Oh Se-hoon (2021 - date) <br> Seo Jung-hyup (2020 - 2021) <br> Late Park Won-soon (2011 - 2020) |
 | **Area** | 605.2 km<sup>2</sup> |
 | **Population** | 10,041,574 people | 
 | **Density** | 16,591 per km<sup>2</sup> |
-| **Master strategy** | [Seoul Plan 2030](http://english.seoul.go.kr/policy/urban-planning/urban-planning/1-2030-seoul-basic-urban-plan/) |
 
 ##### **Commemorative video**
 
@@ -71,8 +69,5 @@ As cities become larger and more difficult to manage, achieving social sustainab
 | [Seoul rejuvenated — a people-first city](/resources/features/seoul-rejuvenated/) |
 | [Seoul solutions — tackling rising urban challenges](/resources/features/seoul-solutions/) |
 | [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |
-
-##### **Interviews** 
-
 | [Winy Maas on designing Seoullo 7017](/resources/interviews/designing-seoullo-7017/) |
 | [Hee Seon Jin on Seoulistic urban regeneration](/resources/interviews/seoulistic-urban-regeneration/) |
