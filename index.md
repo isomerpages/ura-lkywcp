@@ -8,17 +8,17 @@ notification:
 sections:
     - hero:
         title: ·
-        subtitle: 
+        subtitle: Hello world
         background: /images/worldmap-hero10.jpg
-        button: 
-        url: 
+        button: test
+        url: test
         key_highlights:
             - title: Nominations closed
               description: Stay tuned for results!
               url: /prize-cycle/
     - infobar:    
         title: About the Prize
-        subtitle: 
+        subtitle: ❤
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: More info
         url: /about-the-prize/
