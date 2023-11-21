@@ -139,7 +139,7 @@ The Prize Laureate and Special Mentions(s) will be invited to share their achiev
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-The next edition of World Cities Summit (WCS) will be held in June 2024 (exact dates to be announced) in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+The next edition of World Cities Summit (WCS) will be held from 2 - 5 June 2024 in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 [Back to top](#sections)
 

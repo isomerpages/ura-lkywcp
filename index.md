@@ -17,10 +17,10 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: About the Prize
-        subtitle: 
+        title: 
+        subtitle: The World City Prize
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
-        button: More info
+        button: About the Prize
         url: /about-the-prize/
     - infopic:    
         title: Breathing better in our cities
@@ -32,9 +32,9 @@ sections:
         alt: Clean air
     - infopic:    
         title: Breathing new life into Antwerp's riverfront
-        subtitle: Case study
+        subtitle: Case study 20
         description: Learn about how Antwerp uses community-driven transformation to turn an industrial wasteland to a vibrant waterfront.
-        button: Find out more
+        button: Read the case study
         url: /resources/case-studies/antwerp-scheldt-quays/
         image: /images/features/2023/droogdokkenpark.jpg/
         alt: Antwerp Droogdokkenpark
@@ -47,8 +47,8 @@ sections:
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
     - infobar:
-        title: Connect with us
-        subtitle: 💬
+        title: 💬
+        subtitle: 
         description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
         button: 
         url: 

@@ -35,6 +35,5 @@ The Prize Secretariat manages the entire Prize cycle, including budgeting and re
 
 | **Mailing address** | **Lee Kuan Yew World City Prize Secretariat** <br> c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower, #13-01 <br> Singapore 069118 <br> [Google Maps](https://goo.gl/maps/TC1db96iYdThEo8r8) |
 | **Email address** | [leekuanyew_worldcityprize@ura.gov.sg](mailto://leekuanyew_worldcityprize@ura.gov.sg) |
-| **Newsletter** | [Subscribe now](https://lee-kuan-yew-world-city-prize-23882147.hubspotpagebuilder.com/subscribe) |
+| **LinkedIn** | [Connect with us!](https://www.linkedin.com/in/leekuanyewworldcityprize/) |
 | **YouTube** | [@leekuanyewworldcityprize](https://www.youtube.com/@leekuanyewworldcityprize/) |
-| **LinkedIn** | [leekuanyewworldcityprize](https://www.linkedin.com/in/leekuanyewworldcityprize/) |
