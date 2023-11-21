@@ -33,11 +33,9 @@ Auckland sends a message of exemplary significance to other cities that are seek
 
 ##### **City profile** 
 
-| **Mayor** | Wayne Brown (2022  - date) <br> Phil Goff (2016 - 2022) <br> Len Brown (2010 - 2016) |
 | **Area** | 1,086 km<sup>2</sup> |
 | **Population** | 1,657,000 people (2017) | 
 | **Density** | 1,526 per km<sup>2</sup> |
-| **Master plan** | [Auckland Plan 2050](https://www.aucklandcouncil.govt.nz/plans-projects-policies-reports-bylaws/our-plans-strategies/auckland-plan/Pages/default.aspx) |
 
 ##### **YouTube videos** 
 
