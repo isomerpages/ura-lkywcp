@@ -48,7 +48,7 @@ sections:
         alt: Alumni Breakfast
     - infobar:
         title: Connect with us
-        subtitle: 
+        subtitle: 💬
         description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
         button: 
         url: 
