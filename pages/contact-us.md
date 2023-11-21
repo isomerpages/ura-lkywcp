@@ -23,9 +23,9 @@ contacts:
     - phone:  
     - email: leekuanyew_worldcityprize@ura.gov.sg
     - other: 
-  - title: Join our mailing list 
+  - title: Connect with us on LinkedIn!
     content:
     - phone: 
     - email: 
-    - other: <a href="https://lee-kuan-yew-world-city-prize-23882147.hubspotpagebuilder.com/subscribe"><u>Subscribe now</u></a>
+    - other: <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/"><u>LinkedIn</u></a>
 ---
