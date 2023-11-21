@@ -47,7 +47,7 @@ sections:
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
     - infobar:
-        title: Stay connected
+        title: Connect with us
         subtitle: 
         description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
         button: 
