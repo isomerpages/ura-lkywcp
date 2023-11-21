@@ -48,8 +48,8 @@ sections:
         alt: Alumni Breakfast
     - infobar:
         title: 
-        subtitle: Connect with us on LinkedIn!
-        description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/">LinkedIn!</a>
-        button: Linkedin
-        url: https://www.linkedin.com/in/leekuanyewworldcityprize/
+        subtitle: 
+        description: Connect with us on <u><a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942;">LinkedIn</a></u>!
+        button: 
+        url: 
 ---
