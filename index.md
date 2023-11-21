@@ -10,7 +10,7 @@ sections:
         title: 
         subtitle: 
         background: /images/herobanner.gif
-        button: Nominations closed
+        button: 2024 Prize
         url: /prize-cycle/
         key_highlights:
             - title: 
