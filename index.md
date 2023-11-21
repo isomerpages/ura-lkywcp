@@ -17,8 +17,8 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: World City Prize
-        subtitle: 
+        title: 
+        subtitle: World City Prize
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: About the Prize
         url: /about-the-prize/
@@ -47,7 +47,7 @@ sections:
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
     - infobar:
-        title: Connect with us
+        title: let's connect
         subtitle: 💬
         description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
         button: 
