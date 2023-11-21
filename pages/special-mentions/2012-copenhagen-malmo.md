@@ -27,19 +27,15 @@ The remarkable level of collaboration to achieve successful outcomes demonstrate
 
 ##### **City profile (Copenhagen)**
 
-| **Mayor** | Lars Weiss (Acting) (2020 - date) <br> Frank Jensen (2010 - 2020) |
 | **Area** | 88.25 km<sup>2</sup> |
 | **Population** | 602,481 people (2017) | 
 | **Density** | 6,827 per km<sup>2</sup> |
-| **Master plan** | [Københavns Kommuneplan 2019](https://www.kp19.kk.dk) |
 
 ##### **City profile (Malmö)**
 
-| **Mayor** | Sara Katrin Stjernfeldt Jammeh (2013 - date) <br> Ilmar Reepalu (1995 - 2013) |
 | **Area** | 158.4 km<sup>2</sup> |
 | **Population** | 344,166 people (2019) | 
 | **Density** | 2,173 per km<sup>2</sup> |
-| **Master strategy** | [Comprehensive Plan for Malmö](https://malmo.se/download/18.6c44cd5c17283283332b3de/1592233669232/OP_english_summary_lores.pdf) |
 
 ##### **YouTube videos**
 
