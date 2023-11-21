@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 8 February 2023 |
+| 21 November 2023 |
 
 #### **Sections**
 
@@ -42,7 +42,7 @@ The Prize is **<mark>awarded to cities only</mark>**. As such, a city may be nom
 
 #### **How do I make the nomination?**
 
-The nominator shall make the nominations using the [official nomination form](https://form.gov.sg/#!/62e4f365140cd3001168b367), accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
+The nominator shall make the nominations using the official nomination form[^1], accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
 
 #### **How will I know if my nomination is received?**
 
@@ -131,11 +131,11 @@ The results of the 2024 Prize will be announced in March 2024.
 
 #### **Who will be invited to receive the award?**
 
-The Mayor (or highest level representative) of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
+The Mayor (or highest level representative) of the Laureate city will be invited to the **<mark>Lee Kuan Yew Prize Award Ceremony & Banquet</mark>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
 
 #### **Will the Prize Laureate and Special Mention(s) be invited to speak?**
 
-The Prize Laureate and Special Mentions(s) will be invited to share their achievements and unique urban intiatives at the **<mark>Lee Kuan Yew World City Prize Lecture & Forum</mark>**, a key highlight of the World Cities Summit, a biennial international Summit held in Singapore. 
+The Prize Laureate and Special Mentions(s) will be invited to share their achievements and unique urban intiatives at the **<mark>Lee Kuan Yew World City Prize Lecture</mark>**, a key highlight of the World Cities Summit, a biennial international Summit held in Singapore. 
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
@@ -146,3 +146,7 @@ The next edition of World Cities Summit (WCS) will be held in June 2024 (exact d
 ---
 
 For other enquiries, please [contact us](/feedback/). 
+
+---
+
+[^1]: The link will be live during the Call for Nominations period.

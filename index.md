@@ -7,21 +7,21 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: ·
-        subtitle: 
-        background: /images/worldmap-hero10.jpg
-        button: 
-        url: 
-        key_highlights:
-            - title: Nominations closed
-              description: Stay tuned for results!
-              url: /prize-cycle/
-    - infobar:    
         title: 
-        subtitle: About the Prize
+        subtitle: 
+        background: /images/herobanner.gif
+        button: Nominations closed
+        url: /prize-cycle/
+        key_highlights:
+            - title: 
+              description: 
+              url: 
+    - infobar:    
+        title: About the Prize
+        subtitle: 
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
-        button: /about-the-prize/
-        url: 
+        button: More info
+        url: /about-the-prize/
     - infopic:    
         title: Breathing better in our cities
         subtitle: Feature article
@@ -47,9 +47,9 @@ sections:
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
     - infobar:
-        title: 💬
-        subtitle: 
-        description: 
-        button: Connect with us on LinkedIn!
-        url: https://www.linkedin.com/in/leekuanyewworldcityprize/
+        title: Connect with us
+        subtitle: 💬
+        description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
+        button: 
+        url: 
 ---
