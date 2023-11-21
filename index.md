@@ -10,12 +10,12 @@ sections:
         title: 
         subtitle: 
         background: /images/worldmap-hero10.jpg
-        button: test
-        url: test
+        button: Nominations closed
+        url: /prize-cycle/
         key_highlights:
-            - title: Nominations closed
-              description: Stay tuned for results!
-              url: /prize-cycle/
+            - title: 
+              description: 
+              url: 
     - infobar:    
         title: About the Prize
         subtitle: 
