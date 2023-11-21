@@ -9,7 +9,7 @@ sections:
     - hero:
         title: ·
         subtitle: 
-        background: /images/worldmap-hero11.jpg
+        background: /images/worldmap-hero10.jpg
         button: 
         url: 
         key_highlights:
