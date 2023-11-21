@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/worldmap-hero10.jpg
+        background: /images/worldmap-hero11.png
         button: Nominations closed
         url: /prize-cycle/
         key_highlights:
