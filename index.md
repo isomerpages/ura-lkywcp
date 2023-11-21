@@ -49,7 +49,7 @@ sections:
     - infobar:
         title: 
         subtitle: 
-        description: Connect with us on <u><a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942;">LinkedIn</a></u>!
+        description: <i>Connect with us on <u><a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942;">LinkedIn</a></u>!</i>
         button: 
         url: 
 ---
