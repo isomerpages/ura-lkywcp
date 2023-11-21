@@ -46,12 +46,6 @@ sections:
         url: /resources/news/alumni-breakfast-2023/
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
-    - infobar:    
-        title: 📩
-        subtitle: 
-        description: Join our mailing list to get the latest news in your inbox!
-        button: Subscribe now!  
-        url: https://lee-kuan-yew-world-city-prize-23882147.hubspotpagebuilder.com/subscribe
     - resources:
         title: 
         subtitle: Latest updates
