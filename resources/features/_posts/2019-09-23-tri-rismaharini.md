@@ -1,6 +1,6 @@
 ---
 title: Tri Rismaharini on developing a ground-up Surabaya
-permalink: /resources/interviews/developing-groundup-surabaya/
+permalink: /resources/features/developing-groundup-surabaya/
 image: /images/features/2019/interview-tri-rismaharini.jpg
 description: Without a big budget to finance every dream project, Surabaya could have taken the path of decline. Instead, the city creatively tapped onto its biggest resource, the people, for its many ground-up initiatives to become a clean and green city. Then-Mayor Tri Rismaharini shares how she overcame the biggest hurdles.
 ---
