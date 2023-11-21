@@ -46,6 +46,12 @@ sections:
         url: /resources/news/alumni-breakfast-2023/
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
+    - infobar:
+        title: 
+        subtitle: 💬
+        description: Connect with us on LinkedIn!
+        button: LinkedIn
+        url: https://www.linkedin.com/in/leekuanyewworldcityprize/
     - resources:
         title: 
         subtitle: Latest updates
