@@ -65,4 +65,4 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 ##### **Features** 
 
 | [Spotlight on Bilbao — how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
-| [Juan María Aburto on investing in culture and people](/resources/interviews/investing-culture-people/) |
+| [Juan María Aburto on investing in culture and people](/resources/features/investing-culture-people/) |
