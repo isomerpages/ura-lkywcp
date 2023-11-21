@@ -3,6 +3,7 @@ title: Anthony Townsend on the smart city
 permalink: /resources/interviews/anthony-townsend-smart-city/
 image: /images/features/2017/anthony-townsend.jpg
 description: Forecaster and urban planner Anthony Townsend has been writing, speaking and consulting on urbanisation, ubiquitous computing, technology-led innovation and economic development for many years. He talks about what it means to be a truly smart city addressing urban issues.
+published: false
 ---
 
 | Writer |
