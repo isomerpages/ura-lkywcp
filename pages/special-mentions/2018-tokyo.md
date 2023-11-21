@@ -48,7 +48,7 @@ Tokyo is working towards a planned vision for its future. Under the [**<mark>Act
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
 | [Tokyo — the power of people-public-private partnerships](/resources/features/people-public-private-partnerships/) |
 | [Tokyo's CBD — from business district to vibrant hub](/resources/interviews/business-district-vibrant-hub/) |
-| [Yuriko Koike on the new normal in Tokyo](/resources/features/yuriko-koike/) |
+| [Yuriko Koike on the new normal in Tokyo](/resources/interviews/yuriko-koike/) |
 
 ---
 
