@@ -35,11 +35,9 @@ The sense of cooperation that transcends all levels from citizens to city admini
 
 ##### **City profile** 
 
-| **Mayor** | Bart De Wever (2013 - date) |
 | **Area** | 204.3 km<sup>2</sup> |
 | **Population** | 524,501 people | 
 | **Density** | 2,567 per km<sup>2</sup> |
-| **Master plan** | [Strategic Spatial Plan Antwerp](https://www.antwerpen.be/docs/Stad/Stadsvernieuwing/9746949_urbandevelopment_English.pdf) |
 
 ##### **Features** 
 
