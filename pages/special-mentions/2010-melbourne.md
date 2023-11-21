@@ -23,11 +23,9 @@ As one of the fastest growing cities in Australia, Melbourne has plans to increa
 
 ##### **City profile**
 
-| **Mayor** | Sally Anne Capp (2018 - date) <br> Robert Keith Bennett Doyle (2008 - 2018) |
 | **Area** | 37.7 km<sup>2</sup> |
 | **Population** | 135,959 people (2016) | 
 | **Density** | 3,606 per km<sup>2</sup> |
-| **Master plan** | [Future Melbourne](https://www.melbourne.vic.gov.au/about-melbourne/future-melbourne/future-melbourne-2026-plan/Pages/future-melbourne-2026-plan.aspx) |
 
 ---
 
