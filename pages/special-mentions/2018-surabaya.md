@@ -53,4 +53,4 @@ The involvement and commitment of both the people and then-Mayor Rismaharini wor
 
 | [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
 | [Surabaya — preserving the past, conserving the future](/resources/features/preserving-past-conserving-future/) |
-| [Tri Rismaharini on developing a ground-up Surabaya](/resources/interviews/developing-groundup-surabaya/) |
+| [Tri Rismaharini on developing a ground-up Surabaya](/resources/features/developing-groundup-surabaya/) |
