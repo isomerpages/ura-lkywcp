@@ -3,6 +3,7 @@ title: Greg Clark on pioneering the post-pandemic city
 permalink: /resources/interviews/greg-clark/
 image: /images/features/2021/greg-clark.jpg
 description: COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview, Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
+published: false
 ---
 
 ##### COVID-19 has forced urbanists to rethink the cities of tomorrow. In this interview[^1], Prof Greg Clark CBE envisages the possible post-pandemic future for cities, from green recovery to 'blended cities' and global collaboration.
