@@ -7,8 +7,8 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: ·
-        subtitle: Hello world
+        title: 
+        subtitle: 
         background: /images/worldmap-hero10.jpg
         button: test
         url: test
