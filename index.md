@@ -20,7 +20,7 @@ sections:
         title: 
         subtitle: About the Prize
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
-        button: 
+        button: More info
         url: /about-the-prize/
     - infopic:    
         title: Breathing better in our cities
