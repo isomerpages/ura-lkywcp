@@ -17,8 +17,8 @@ sections:
               description: Stay tuned for results!
               url: /prize-cycle/
     - infobar:    
-        title: 
-        subtitle: About the Prize
+        title: About the Prize
+        subtitle: 
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: More info
         url: /about-the-prize/
@@ -48,8 +48,8 @@ sections:
         alt: Alumni Breakfast
     - infobar:
         title: 💬
-        subtitle: 
+        subtitle: Connect with us on LinkedIn!
         description: 
-        button: Connect with us on LinkedIn!
+        button: Linkedin
         url: https://www.linkedin.com/in/leekuanyewworldcityprize/
 ---
