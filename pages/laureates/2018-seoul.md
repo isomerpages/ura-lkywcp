@@ -69,5 +69,5 @@ As cities become larger and more difficult to manage, achieving social sustainab
 | [Seoul rejuvenated — a people-first city](/resources/features/seoul-rejuvenated/) |
 | [Seoul solutions — tackling rising urban challenges](/resources/features/seoul-solutions/) |
 | [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |
-| [Winy Maas on designing Seoullo 7017](/resources/interviews/designing-seoullo-7017/) |
-| [Hee Seon Jin on Seoulistic urban regeneration](/resources/interviews/seoulistic-urban-regeneration/) |
+| [Winy Maas on designing Seoullo 7017](/resources/features/designing-seoullo-7017/) |
+| [Hee Seon Jin on Seoulistic urban regeneration](/resources/features/seoulistic-urban-regeneration/) |
