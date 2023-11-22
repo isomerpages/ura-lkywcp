@@ -7,8 +7,8 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: 
-        subtitle: 2024 Prize
+        title: 2024 Prize
+        subtitle: 
         background: /images/herobanner.gif
         button: Nominations closed
         url: /prize-cycle/
