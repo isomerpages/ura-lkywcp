@@ -22,18 +22,24 @@ sections:
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: About the Prize
         url: /about-the-prize/
+    - infobar:    
+        title: "The Prize will play an important role in focusing global attention on mounting issues and drawing out the innovative and effective solutions to address them" 
+        subtitle: 
+        description: - Dr Cheong Koon Hean
+        button: 
+        url: 
     - infopic:    
         title: The Prize for cities
         subtitle: 
-        description: Established in 2009, the Lee Kuan Yew World City Prize is the only award in the world that looks at the holistic transformation of cities over a period of 10 - 20 years, recognising cities and their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
+        description: Established in 2009, the World City Prize is the only award in the world that looks at the holistic transformation of cities over a period of 10 - 20 years, recognising cities and their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
         alt: Clean air
     - infopic:    
-        title: Breathing new life into Antwerp's riverfront
-        subtitle: Case study 20
-        description: Learn about how Antwerp uses community-driven transformation to turn an industrial wasteland to a vibrant waterfront.
+        title: A global community of excellence 
+        subtitle: 
+        description: Over the past 14 years and six cycles, the World City Prize has recognised 
         button: Read the case study
         url: /resources/case-studies/antwerp-scheldt-quays/
         image: /images/features/2023/droogdokkenpark.jpg/
