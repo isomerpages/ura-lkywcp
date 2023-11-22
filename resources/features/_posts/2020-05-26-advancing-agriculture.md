@@ -69,7 +69,7 @@ The government funds up to 100 percent of the initial installation fees of accep
 
 #### **07: One-stop resource centres**
 
-Hobbyist farmers in **San Francisco** in the United States can [visit Urban Agriculture Resource Centres](http://sfrecpark.org/1404/Urban-Agriculture-Resources) to pick up free supplies, take gardening classes and meet likeminded people. Some of the centres also have [demonstration plant beds and help-desks with master gardeners](https://www.sfexaminer.com/news/sf-plans-to-launch-an-urban-agriculture-resource-center-for-community-gardeners/) to give advice and solve problems with plants.
+Hobbyist farmers in **San Francisco** in the United States can [visit Urban Agriculture Resource Centres](http://sfrecpark.org/1404/Urban-Agriculture-Resources) to pick up free supplies, take gardening classes and meet likeminded people. Some of the centres also have demonstration plant beds and help-desks with master gardeners to give advice and solve problems with plants.
 
 “You can walk up with a leaf from your plant and they will tell you what is wrong with it and how to manage it organically,” said Ms Mei Ling Hui, the city’s programme manager of community gardens and urban agriculture. “You can also ask them questions such as which kinds of tomatoes will grow well in your neighbourhood.” 
 
