@@ -78,7 +78,7 @@ new values by responding flexibly to change; creating spaces where people can co
 
 #### **The Tokyo Metropolitan Government has plans for a new disease control centre as a response to the pandemic and to prepare for future shocks and disruptions. What role will this centre play in the future of Tokyo’s public health governance and how will it help to build resilience for similar epidemics?**
 
-**YK:** The newly established [Tokyo Center for Infectious Disease Control and Prevention](https://www.japantimes.co.jp/news/2020/10/02/national/tokyo-government-center-for-disease-control/) or Tokyo iCDC is serving as a new permanent command post for conducting effective infectious disease countermeasures, including policy planning, crisis management, research and analysis, and information gathering and dissemination.
+**YK:** The newly established Tokyo Center for Infectious Disease Control and Prevention or Tokyo iCDC is serving as a new permanent command post for conducting effective infectious disease countermeasures, including policy planning, crisis management, research and analysis, and information gathering and dissemination.
 
 Under normal circumstances, Tokyo iCDC has been strengthening its fact-finding capabilities by training human resources in public health and establishing networks with local and international governments, research institutions and other organisations. And in times of crisis, Tokyo’s know-how and strengthened capabilities can be leveraged as Tokyo iCDC shifts to emergency operation mode, responding swiftly and effectively to any situation. 
 
