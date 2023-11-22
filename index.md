@@ -23,11 +23,11 @@ sections:
         button: About the Prize
         url: /about-the-prize/
     - infopic:    
-        title: Breathing better in our cities
-        subtitle: Feature article
-        description: Discover how cities are using clean energy tech to lower emissions and improve air quality.
-        button: Feature story
-        url: /resources/features/cleaner-air/
+        title: The Prize for cities
+        subtitle: 
+        description: The only Prize in the world that looks at the holistic transformation of cities over a period of 10-20 years. 
+        button: 
+        url: 
         image: /images/features/2023/shenzhen-air.jpg
         alt: Clean air
     - infopic:    
