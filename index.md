@@ -42,7 +42,7 @@ sections:
         description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to write deeply personal and reflective essays on the Prize Laureates and a broad range of topics.
         button: Download the eBook
         url: /documents/Celebrating-Ten-Years-of-the-Prize.pdf/
-        image: /images/features/2023/alumni-breakfast-2023.jpg/
+        image: /images/features/2023/linkedin.png/
         alt: Alumni Breakfast
     - infobar:
         title: 💬
