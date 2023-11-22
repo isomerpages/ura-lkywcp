@@ -23,9 +23,9 @@ sections:
         button:
         url:
     - infopic:    
-        title: The Prize that Inspires
+        title: The Prize for cities
         subtitle: 
-        description: A successful city requires a forward-looking, comprehensive, and sustainable approach to urban challenges. Strong leadership, governance, and effective structures are crucial. The Prize has evolved to recognise cities as a whole, considering the complexity of development, stakeholder engagement, and measurable improvements in citizens' lives. The Prize provides a holistic assessment of a city, and one that inspires cities of distinction. 
+        description: The wide spectrum of urban solutions, many of which are unique to the cities’ own context, are all responding to a similar set of urban challenges confronting the world today. The Prize is the only award for cities in the world that looks at the holistic transformation of cities over a period of 10 - 20 years. 
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
