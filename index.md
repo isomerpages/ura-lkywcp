@@ -25,7 +25,7 @@ sections:
     - infopic:    
         title: The Prize for cities
         subtitle: 
-        description: The wide spectrum of urban solutions, many of which are unique to the cities’ own context, are all responding to a similar set of urban challenges confronting the world today. The Prize is the only award for cities in the world that looks at the holistic transformation of cities over a period of 10 - 20 years. 
+        description: The Prize is the only award in the world that looks at the holistic and sustained urban transformation of cities over a period of 10 to 20 years. 
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
