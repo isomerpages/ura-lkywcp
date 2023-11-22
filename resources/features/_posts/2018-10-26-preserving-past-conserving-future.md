@@ -30,7 +30,7 @@ With this inclusive and preservation-minded approach to development, the governm
 
 #### **Capitalising on culture**
 
-With kampungs taking up about 60 percent of Surabaya’s land, replacing them would have been costly, time-consuming, and potentially ruinous to their low-income residents. Instead, then-Mayor Rismaharini’s government built on the [Kampung Improvement Programme](https://www.world-habitat.org/world-habitat-awards/winners-and-finalists/the-kampung-improvement-programme-surabaya/#award-content) carried out in the 1970s to 1990s that provided the settlements with better footpaths, roads, drainage, and water infrastructure. It added new lighting and erected more amenities, including libraries to encourage education, and football fields and playgrounds for recreation. 
+With kampungs taking up about 60 percent of Surabaya’s land, replacing them would have been costly, time-consuming, and potentially ruinous to their low-income residents. Instead, then-Mayor Rismaharini’s government built on the Kampung Improvement Programme carried out in the 1970s to 1990s that provided the settlements with better footpaths, roads, drainage, and water infrastructure. It added new lighting and erected more amenities, including libraries to encourage education, and football fields and playgrounds for recreation. 
 
 More critically, the government spearheaded two new projects, called Pahlawan Ekonomi (Economy Hero) and Kampung Unggulan (Prominent Kampung), to help the kampungs’ housewives earn an income. “The husbands were working but the families were still poor. We wanted to empower the housewives to counter Surabaya’s poverty problem,” then-Mayor Rismaharini told Singapore’s Urban Redevelopment Authority in a recent interview. 
 
