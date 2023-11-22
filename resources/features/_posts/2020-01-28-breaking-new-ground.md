@@ -42,7 +42,7 @@ The government summarised the benefits of going underground, which apply to not 
 
 #### **One space, many uses**
 
-###### ![Chulalongkorn University Centenary Park](/images/features/2020/chulalongkorn-park.jpg/)**Chulalongkorn University Centenary Park** © [landprocess](https://landprocessdesign.wixsite.com/landprocess/cucentenarypark)
+###### ![Chulalongkorn University Centenary Park](/images/features/2020/chulalongkorn-park.jpg/)**Chulalongkorn University Centenary Park** © landprocess
 
 With ingenuity, underground developments can also serve multiple purposes at the same time. In Kuala Lumpur, Malaysia, the [Stormwater Management and Road Tunnel in the city centre](https://www.thestar.com.my/metro/metro-news/2018/07/11/flood-control-the-priority-kl-motorists-need-to-realise-that-the-smart-tunnel-is-a-storm-drain-first) has reduced flood risks by 45 percent, including in previously flood-prone areas such as Masjid Jamek, Lebuh Ampang and Jalan Tun Perak, and cut motorists’ traveling times.
 
@@ -50,7 +50,7 @@ The tunnel consists of a four-kilometre motorway set on top of a 9.7-kilometre s
 
 Helsinki, a leader in subterranean development, has [demonstrated the dual advantages of placing data centres underground](https://www.datacenterknowledge.com/archives/2011/09/06/sea-cooled-data-center-heats-homes-in-helsinki). Cooling the servers in such centres is usually energy-intensive and expensive. Helsinki has sited several data centres in underground rock caverns to take advantage of their constant low temperature, and to tap chilly water from the nearby Baltic Sea more easily to cool the servers. The seawater heated by the servers is piped into the city’s district heating system to warm homes, realising even more energy savings.
 
-Other cities have shown that some underground land uses pair naturally with specific above-ground ones. In Bangkok, a 44,500-square-metre park at Chulalongkorn University [feeds stormwater into underground tanks for flood protection](https://ideas.ted.com/when-bangkok-floods-and-it-floods-a-lot-this-park-does-something-amazing/). The park is inclined at three degrees to facilitate the flow of stormwater into the containers, and is filled with plants that filter and clean the water so that it can be reused to maintain the greenery or discharged more safely into the public drainage system. The synergistic pairing has been such a success that the city is replicating it with a larger, 145,600-square-metre park at its Thammasat University.
+Other cities have shown that some underground land uses pair naturally with specific above-ground ones. In Bangkok, a 44,500-square-metre park at Chulalongkorn University feeds stormwater into underground tanks for flood protection. The park is inclined at three degrees to facilitate the flow of stormwater into the containers, and is filled with plants that filter and clean the water so that it can be reused to maintain the greenery or discharged more safely into the public drainage system. The synergistic pairing has been such a success that the city is replicating it with a larger, 145,600-square-metre park at its Thammasat University.
 
 <br>
 > ##### "Underground space can be an asset in providing urban areas with additional space. The future of our cities could well depend on planning the use of underground space in a comprehensive manner."
