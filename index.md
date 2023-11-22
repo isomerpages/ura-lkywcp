@@ -33,15 +33,15 @@ sections:
     - infobar:    
         title: 
         subtitle: 
-        description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> – Dr Cheong Koon Hean
+        description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> <br>– Dr Cheong Koon Hean
         button: 
         url: 
     - infopic:    
         title: A global community of excellence 
         subtitle: 
-        description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages. The six Laureates and 18 Special Mentions showcase transformative stories. These six Laureate cities highlight reinvention, progress-preservation balance, violence-to-innovation transformation, improved governance, and environmental stewardship for the highest quality of life. 
-        button: Read the case study
-        url: /resources/case-studies/antwerp-scheldt-quays/
+        description: Over a decade and six cycles, the Prize has seen participation from diverse cities at various developmental stages. The Prize's six Laureates and 18 Special Mentions form a unique gathering of cities that showcase transformative stories.
+        button: Find out more
+        url: /laureate/laureates
         image: /images/features/2023/droogdokkenpark.jpg/
         alt: Antwerp Droogdokkenpark
     - infopic:    
