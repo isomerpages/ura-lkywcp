@@ -22,20 +22,20 @@ sections:
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. The Prize is the only award in the world that looks at the holistic and sustained urban transformation of cities over a period of 10 to 20 years, emphasising liveability, sustainability, vibrancy and quality of life. 
         button: About the Prize
         url: /about-the-prize/ 
+    - infopic:    
+        title: A global community of urban excellence 
+        subtitle: 
+        description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
+        button: Find out more
+        url: /laureate/laureates
+        image: /images/features/2023/droogdokkenpark.jpg/
+        alt: Antwerp Droogdokkenpark
     - infobar:    
         title: 
         subtitle: 
         description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> <br>– Dr Cheong Koon Hean
         button: 
         url: 
-    - infopic:    
-        title: A global community of urban excellence 
-        subtitle: 
-        description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 Prize cities that showcase transformative and inspiring stories.
-        button: Find out more
-        url: /laureate/laureates
-        image: /images/features/2023/droogdokkenpark.jpg/
-        alt: Antwerp Droogdokkenpark
     - infopic:    
         title: A document of our journey  
         subtitle: 
