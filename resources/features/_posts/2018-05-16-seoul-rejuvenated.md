@@ -15,7 +15,7 @@ description: From converting a vehicle overpass into a sky garden to reviving a 
 
 ###### ![Seoullo 7017](/images/features/2018/seoullo-7017.jpg/)**Seoullo 7017 converted the former Seoul Station Overpass into a lush sky garden** © Seoul Metropolitan Government
 
-Visit the Mapo Culture Depot in Seoul, South Korea, and you will find a spacious park filled with a multipurpose pavilion, an outdoor amphitheatre, exhibition spaces and a cafeteria for visitors. Just a few years ago, however, it was a disused oil storage facility that had been shut down since 2000 due to its [potential risk to a nearby soccer stadium](http://english.seoul.go.kr/wp-content/uploads/2015/10/White-Paper-on-Conflict-Management-of-Seoul.pdfhttp://www.koreaherald.com/view.php?ud=20171130000686).
+Visit the Mapo Culture Depot in Seoul, South Korea, and you will find a spacious park filled with a multipurpose pavilion, an outdoor amphitheatre, exhibition spaces and a cafeteria for visitors. Just a few years ago, however, it was a disused oil storage facility that had been shut down since 2000 due to its potential risk to a nearby soccer stadium.
 
 Since the 1990s, Seoul has embarked on a series of projects to rejuvenate its deteriorating neighbourhoods, reclaim its abandoned spaces, restore its natural greenery and streams and change its car-oriented transportation system to one that prioritises walking, cycling and public transport services.
 
@@ -72,7 +72,7 @@ He added that Seoul has prioritised urban regeneration over urban development si
 
 One of Seoul’s most lauded projects was the transformation of the Seoul Station Overpass into a sky garden. The overpass was built in 1970 as a major driveway to connect western and central Seoul. After more than 40 years of heavy use, it was closed in 2015 due to safety concerns.
 
-While some had called for the overpass to be demolished, then-Mayor Park, inspired by New York’s High Line, decided to convert it into a park instead. “Instead of tearing it down, we decided to transform it into a pedestrian road, aiming to not only revive the elevated road but also turn it into a place where people can come together,” [he said](https://www.straitstimes.com/asia/east-asia/say-hello-to-new-sky-park-seoullo).
+While some had called for the overpass to be demolished, then-Mayor Park, inspired by New York’s High Line, decided to convert it into a park instead. “Instead of tearing it down, we decided to transform it into a pedestrian road, aiming to not only revive the elevated road but also turn it into a place where people can come together,” he said.
 
 Seoullo 7017 – the park was named after the overpass’s construction in 1970 and the completion of its transformation in 2017 – opened in May 2017. It features more than 24,000 plants and trees that grow in giant pots that also double as benches, as well as event spaces, shops and five eateries. It has 17 entry points now and more links will be built to adjacent neighbourhoods.
 
