@@ -67,7 +67,7 @@ Officers are trained to teleoperate the drones from the department’s command c
 
 #### **07: An eye for inspections**
 
-With more households in **Sacramento** in the United States putting up solar panels on their homes’ rooftops, the city has [invested in a drone to help check the installations](https://www.cityofsacramento.org/Community-Development/Building/Building-Programs/Drone-Inspection-Program). The government said that the drone could also be used for other inspections in the future, adding that several measures will be taken to protect residents’ privacy. These include disabling the drone’s recording function when it is examining a building. 
+With more households in **Sacramento** in the United States putting up solar panels on their homes’ rooftops, the city has invested in a drone to help check the installations. The government said that the drone could also be used for other inspections in the future, adding that several measures will be taken to protect residents’ privacy. These include disabling the drone’s recording function when it is examining a building. 
 
 Other cities in the United States have also proposed using drones for inspections. In **New York City**, officials have tabled a bill to [legalise the use of drones to follow up on complaints about unsafe building façades or construction work](https://www.dezeen.com/2020/01/06/drone-building-inspection-new-york-city-bill/). 
 

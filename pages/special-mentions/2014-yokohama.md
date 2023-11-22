@@ -37,7 +37,6 @@ The city is also a leader in partnering the industry to develop smart technologi
 
 ##### **Features**
 
-| [Creating liveable and sustainable cities](/resources/features/creating-liveable-sustainable-cities/) |
 | [Selling cities — the Yokohama story](/resources/features/selling-cities-yokohama-story/) |
 
 ---

@@ -22,7 +22,7 @@ Medellín’s plight arose partly from economic isolation following the destruct
 
 Today, however, Medellín has much to celebrate. The city of 3.7 million inhabitants has reduced its homicide rates by 92.1 percent since 1991 and cut unemployment rates from 23 percent in 1990 to 10.2 percent in 2014. Extreme poverty, which plagued 19.4 percent of the population in 1991, fell to 2.8 percent in 2015, and Gaviria expressed his hope that the city will see “zero extreme poverty within the next four years.”
 
-Medellín’s efforts to renew itself were recognised two years ago when the city was awarded a [Special Mention](/medellin-special-mention/) in the 2014 Prize. Since then, Medellín has continued to make progress in urban and social innovation and has emerged as a model city for South America; this sustained transformation, which spans two decades and several changes in governments, has now earned Medellín what Gaviria regards as “the most important prize for cities in the world”: the [2016 Prize Laureate](/medellin/).
+Medellín’s efforts to renew itself were recognised two years ago when the city was awarded a [Special Mention](/medellin-sm/) in the 2014 Prize. Since then, Medellín has continued to make progress in urban and social innovation and has emerged as a model city for South America; this sustained transformation, which spans two decades and several changes in governments, has now earned Medellín what Gaviria regards as “the most important prize for cities in the world”: the [2016 Prize Laureate](/medellin/).
 
 #### **Connecting communities through public transportation**
 

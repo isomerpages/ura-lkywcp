@@ -43,7 +43,7 @@ In addition to Vienna, three cities were also recognised as Special Mentions for
 
 #### **Prize Lecture and Award Ceremony at World Cities Summit 2022**
 
-The Lee Kuan Yew Prize Award Ceremony will be held during the upcoming [World Cities Summit](https://www.worldcitiessummit.com.sg), which will take place from 31 July to 3 August 2022. In addition to an award certificate, Vienna will receive a cash prize of S$300,000 and a gold medallion worth S$50,000. This Prize is sponsored by [Keppel Corporation](/prize-sponsor/).
+The Lee Kuan Yew Prize Award Ceremony will be held during the upcoming [World Cities Summit](https://www.worldcitiessummit.com.sg), which will take place from 31 July to 3 August 2022. In addition to an award certificate, Vienna will receive a cash prize of S$300,000 and a gold medallion worth S$50,000. This Prize is sponsored by [Keppel Corporation](https://www.kepcorp.com/).
 
 <br>
 > ##### "Congratulations to Vienna for winning the Lee Kuan Yew World City Prize. Apart from its rich culture and history, Vienna is a leader in addressing the challenges of climate change. As a provider of solutions for sustainable urbanisation, Keppel is committed to sustainability. We look forward to working with cities around the world to build a sustainable future together."

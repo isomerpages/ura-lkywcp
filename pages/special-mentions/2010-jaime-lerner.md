@@ -21,7 +21,7 @@ Most importantly, these strategies deliver tangible benefits to a wide spectrum 
 
 ##### **Biography**
 
-| The late Dr Jaime Lerner was an architect and urban planner, founder of the Jaime Lerner Institute and chairman of Jaime Lerner Arquitetos Associados (JLAA). Former president of the UIA – International Union of Architects in the 2002/2005 term, three-time mayor of Curitiba, Brazil, he led the urban revolution that made the city renowned for urban planning, public transportation, environmental social programmes and urban projects. He served as governor of Parana State twice and conducted an economic and social transformation both in the urban and rural areas. [More](https://www.jaimelerner.com/team/jaime-lerner?lang=en) |
+| The late Dr Jaime Lerner was an architect and urban planner, founder of the Jaime Lerner Institute and chairman of Jaime Lerner Arquitetos Associados (JLAA). Former president of the UIA – International Union of Architects in the 2002/2005 term, three-time mayor of Curitiba, Brazil, he led the urban revolution that made the city renowned for urban planning, public transportation, environmental social programmes and urban projects. He served as governor of Parana State twice and conducted an economic and social transformation both in the urban and rural areas. |
 
 ---
 

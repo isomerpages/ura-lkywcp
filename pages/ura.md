@@ -17,4 +17,4 @@ Visit [www.ura.gov.sg](https://www.ura.gov.sg) for more information.
 
 #### **More**
 
-- [Prize Secretary](/about/prize-secretary/)
+- [Prize Secretariat](/prize-secretariat/)

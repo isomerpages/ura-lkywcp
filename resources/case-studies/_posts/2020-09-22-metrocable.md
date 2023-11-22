@@ -21,7 +21,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 ###### ![Children playing while the MetroCable soars overhead](/images/features/2020/metrocable-medellin.jpg/)**Children playing while the MetroCable soars overhead** © ACI Medellín
 
-- In 2004, Medellín introduced the MetroCable at Santo Domingo Savio – the world’s first cable car system for daily commuting, [at a cost of USD $24 million](https://www.centreforpublicimpact.org/case-study/urban-cable-car-medillincolombia/). 
+- In 2004, Medellín introduced the MetroCable at Santo Domingo Savio – the world’s first cable car system for daily commuting, at a cost of USD $24 million. 
 - For the first time, the previously inaccessible and marginalised communities in this neighbourhood were given a direct access to the rest of the city, hence opening up a world of opportunities for them. 
 - The MetroCable is an example of a strategic urban intervention that simultaneously solved many issues at once and became a catalyst for further transformation in other parts of the city when people saw the benefits it brought to the communities. 
 
@@ -35,7 +35,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 - Located in the Aburrá Valley in the central Andes, Medellín saw a significant industrial boom in the mid-20th century, and an increase of its population by almost ten times, comprising mostly rural-urban migration at its peripherals. 
 - The city centre and the city’s richest population are located in the valley, well served by amenities. On the other hand, illegal settlements are located on inaccessible mountainous areas, lacking public spaces, transport options, and opportunities for education and employment. 
-- This created a socioeconomic stratification along the cross-section of the valley. [77 percent of its 600,000 dwelling units are occupied by the lowest socioeconomic levels, 19 percent by middle and upper-middle levels, and only 4 percent by the high economic levels](https://urbandesignprize.gsd.harvard.edu/porto-medellin/medellin/). 
+- This created a socioeconomic stratification along the cross-section of the valley. 77 percent of its 600,000 dwelling units are occupied by the lowest socioeconomic levels, 19 percent by middle and upper-middle levels, and only 4 percent by the high economic levels. 
 - By the 80s, an increasingly segregated society exacerbated by drug-related violence in the poorest neighbourhoods drove the city into a state of crisis that would continue to plague itself into the 90s. 
 - Long-term plans and dialogues in the 80s and 90s, and iterations of its master strategy over various leaderships emphasising a fair and equal society and developing its human capital finally came to fruition over a two-decade period. 
 - Among these are a series of innovative and strategic urban interventions and social innovation projects that brought about the biggest impacts. 
@@ -76,7 +76,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 ###### ![Impacts](/images/features/2020/impacts-medellin3.png/)
 
 - The Medellín Metro has mobilised over two billion passengers since the start of its operations to the mid-2010s. 
-The integrated transport system covers the Metro (34 kilometres), the MetroCable (9.3 kilometres), the Metroplús bus system (18 kilometres), the Tranvia tram system (4.3 kilometres), and a cycling network of 11.2 kilometres. The Metro is [considered one of the most efficient in Latin America](https://urbandesignprize.gsd.harvard.edu/porto-medellin/medellin/), with a speed of 37 kilometres per hour. 
+The integrated transport system covers the Metro (34 kilometres), the MetroCable (9.3 kilometres), the Metroplús bus system (18 kilometres), the Tranvia tram system (4.3 kilometres), and a cycling network of 11.2 kilometres. The Metro is considered one of the most efficient in Latin America, with a speed of 37 kilometres per hour. 
 - The MetroCable has reduced travel times from Santo Domingo to the city centre from over an hour to under ten minutes, benefiting some 230,000 residents. 
 - Under the integrated mass transport system, citizens get to enjoy new and wide sidewalks, modern stations, and dedicated bus lanes. 
 190,000 square kilometres of new public spaces were generated and more than 5,400 new trees were planted along various corridors of the transport system.  

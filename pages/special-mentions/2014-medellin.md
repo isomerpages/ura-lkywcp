@@ -21,7 +21,7 @@ Medellín prides itself on **<mark>social innovation</mark>**; sociologists work
 
 #### **Strong public-private alliances**
 
-To ensure a sustainable economy, efforts can be seen from both the government and the private sector in their strong alliances. An example is the [**<mark>Medellínovation district</mark>**](http://www.distritomedellin.org), a new technological district spearheaded by [**<mark>RutaN</mark>**](https://www.rutanmedellin.org/images/rutan/brochure_ingles.pdf), a corporation set up by the city to foster economic development in key areas by providing funding to companies with the know-how. Although Medellín today is doing many things right, the city can benefit more with an overall strategy, especially in the area of housing, to guide the city into the future and ensure a lasting transformation. Nonetheless, Medellín’s achievements today would provide a great inspiration to other cities facing similar issues. **<font color="#967942">O</font>**
+To ensure a sustainable economy, efforts can be seen from both the government and the private sector in their strong alliances. An example is the **<mark>Medellínovation district</mark>**, a new technological district spearheaded by **<mark>RutaN</mark>**, a corporation set up by the city to foster economic development in key areas by providing funding to companies with the know-how. Although Medellín today is doing many things right, the city can benefit more with an overall strategy, especially in the area of housing, to guide the city into the future and ensure a lasting transformation. Nonetheless, Medellín’s achievements today would provide a great inspiration to other cities facing similar issues. **<font color="#967942">O</font>**
 
 ---
 
