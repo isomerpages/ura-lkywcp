@@ -24,7 +24,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 - HafenCity is a 157ha inner-city brownfield development project located beside the Elbe River and south of Hamburg’s historic city centre – a ‘city within a city’, featuring a fine-grain mix of offices, residences, education, culture, leisure, tourism and retail.
 - When completed, HafenCity will house more than 2.4 million square metres of gross floor area, more than 7,000 residential units, accommodate 5,000 university students and 70,000 visitors a day, and open up some 45,000 job opportunities. 
-- HafenCity is anchored by the iconic cultural project – [Elbphilharmonie Concert Hall](https://www.elbphilharmonie.de/en/), an adaptive reuse of an old warehouse and designed by renowned architects Herzog & de Meuron.
+- HafenCity is anchored by the iconic cultural project – Elbphilharmonie Concert Hall, an adaptive reuse of an old warehouse and designed by renowned architects Herzog & de Meuron.
 
 [Back to top](#case-study-14)
 
@@ -34,7 +34,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 ###### ![The extent of HafenCity next to the inner-city](/images/features/2021/hafencity-area.jpg/)**The extent of HafenCity next to the inner-city** © City of Hamburg/HafenCity
 
-- The area was previously part of Hamburg’s industrial port and a customs-free zone, bordering the historic [Speicherstadt](https://www.hamburg.com/architecture/11748606/speicherstadt/) – a UNESCO World Heritage Site since 2015 – to the north.
+- The area was previously part of Hamburg’s industrial port and a customs-free zone, bordering the historic Speicherstadt – a UNESCO World Heritage Site since 2015 – to the north.
 - Being an industrial area, it was poorly integrated with Hamburg’s inner city and blocked the latter’s access to the Elbe River waterfront. 
 - Increasing container logistics in the 1990s drove much of Hamburg’s industrial activities away towards the south of the Elbe River, where the port could expand to cater to large container ships. 
 - Faced with an increasing demand for housing and offices as well as flood risks, the city decided to redevelop the former port area to create a new urban district.
@@ -45,8 +45,8 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Leadership and governance**
 
-- A [master plan](https://www.hafencity.com/en/concepts/the-foundation-of-hafencity-the-masterplan.html) was created for HafenCity first in 2000, and subsequently amended in 2010, to guide the development of the district. 
-- The land is owned by the master planner – [HafenCity Hamburg GmbH](https://www.hafencity.com/en/home.html), a 100 percent subsidiary of the City of Hamburg but autonomous in operations from the city government. 
+- A master plan was created for HafenCity first in 2000, and subsequently amended in 2010, to guide the development of the district. 
+- The land is owned by the master planner – HafenCity Hamburg GmbH, a 100 percent subsidiary of the City of Hamburg but autonomous in operations from the city government. 
 - By setting up tendering processes that favour quality over price criteria, HafenCity Hamburg GmbH drives development concepts that support a socially balanced mix of apartments – one-third of which are reserved for low and medium-income households, good architecture and urban design, and energy-efficiency. 
 - Contracts are awarded in a pre-sale process, which allows the successful bidder sufficient time to obtain finances, plan the architecture (also through a tender process), and obtain the building permit. 
 - The city on the other hand, intervenes during the development process to ensure diversity and quality of uses before a building permit can be obtained.
@@ -78,7 +78,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 - The iconic Elbphilharmonie Concert Hall was opened in 2017 and has already established itself as a major attraction and a world-renowned cultural space. 
 - Several schools and kindergartens and HafenCity University as well as two other universities have opened. 
-- The [U4 subway](https://www.hafencity.com/en/concepts/new-subway-line-u4.html) started regular services in 2012.
+- The U4 subway started regular services in 2012.
 - Hamburg’s inner city now extends to the waterfront, creating a new modern identity for the city, and increasing the quality of the built environment. 
 
 [Back to top](#case-study-14)
