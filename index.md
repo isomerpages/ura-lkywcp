@@ -25,7 +25,7 @@ sections:
     - infopic:    
         title: The Prize for cities
         subtitle: 
-        description: The distinguished award stands as the only global recognition of cities, meticulously assessing holistic transformation over a 10-20 year span. It signifies sustained urban evolution, acknowledging profound and enduring positive change.
+        description: A prestigious award that recognises cities and their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
