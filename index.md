@@ -33,7 +33,7 @@ sections:
     - infopic:    
         title: A global community of excellence 
         subtitle: 
-        description: Over the past 14 years and six cycles, the World City Prize has recognised 
+        description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages. The six Laureates and 18 Special Mentions showcase transformative stories. These six Laureate cities highlight reinvention, progress-preservation balance, violence-to-innovation transformation, improved governance, and environmental stewardship for the highest quality of life. 
         button: Read the case study
         url: /resources/case-studies/antwerp-scheldt-quays/
         image: /images/features/2023/droogdokkenpark.jpg/
