@@ -32,8 +32,8 @@ sections:
         alt: Antwerp Droogdokkenpark
     - infobar:    
         title: 
-        subtitle: 
-        description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> <br>– Dr Cheong Koon Hean
+        subtitle: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> 
+        description: – Dr Cheong Koon Hean
         button: 
         url: 
     - infopic:    
