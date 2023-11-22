@@ -1,5 +1,5 @@
 title: Lee Kuan Yew World City Prize
-url: "https://www.leekuanyewworldcityprize.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leekuanyewworldcityprize.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon.png
 shareicon: /images/shareicon.png
 
@@ -29,7 +29,7 @@ collections:
   chinese:
     output: true
 google_analytics: UA-48396056-10
-resources_name: cities_database
+resources_name: resources
 is_government: false
 
 ##################################################################################################################
