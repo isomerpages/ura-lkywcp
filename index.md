@@ -23,9 +23,9 @@ sections:
         button: About the Prize
         url: /about-the-prize/
     - infopic:    
-        title: The Prize will play an important role in focusing global attention on mounting issues and drawing out the innovative and effective solutions to address them
+        title: The Prize that Inspires
         subtitle: 
-        description: 
+        description: A successful city requires a forward-looking, comprehensive, and sustainable approach to urban challenges. Strong leadership, governance, and effective structures are crucial. The Prize has evolved to recognise cities as a whole, considering the complexity of development, stakeholder engagement, and measurable improvements in citizens' lives. The Prize provides a holistic assessment of a city, and one that inspires cities of distinction. 
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
