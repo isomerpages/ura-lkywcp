@@ -52,4 +52,8 @@ sections:
         description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
         button: 
         url: 
+    - resources:
+        title: 
+        subtitle: Knowledge database
+        button: More useful resources
 ---
