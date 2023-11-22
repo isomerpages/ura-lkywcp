@@ -51,7 +51,7 @@ sections:
         button: 
         url: 
     - resources:
-        title: Learn more
-        subtitle: Knowledge database
+        title: Cities database
+        subtitle: Learn more
         button: More useful resources
 ---
