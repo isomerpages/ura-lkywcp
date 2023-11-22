@@ -25,7 +25,7 @@ sections:
     - infopic:    
         title: The Prize for cities
         subtitle: 
-        description: Established in 2009, the Lee Kuan Yew World City Prize is the only award that looks at the holistic transformation of cities over a period of 10 - 20 years, recognising cities and their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
+        description: Established in 2009, the Lee Kuan Yew World City Prize is the only award in the world that looks at the holistic transformation of cities over a period of 10 - 20 years, recognising cities and their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
