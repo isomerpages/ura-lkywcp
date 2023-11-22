@@ -19,9 +19,15 @@ sections:
     - infobar:    
         title: 
         subtitle: The World City Prize
-        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. <br><br> <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> <br><br> Dr Cheong Koon Hean
-        button: About the Prize
-        url: /about-the-prize/
+        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
+        button:
+        url:
+    - infobar:    
+        title: 
+        subtitle: The World City Prize
+        description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> <br><br> Dr Cheong Koon Hean
+        button: 
+        url: 
     - infopic:    
         title: The Prize that Inspires
         subtitle: 
