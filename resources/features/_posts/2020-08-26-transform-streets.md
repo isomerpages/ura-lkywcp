@@ -25,7 +25,7 @@ To solve this problem, the city launched a [GBP 450,000 (approximately USD $580,
 
 #### **02: Public spaces to the rescue**
 
-In the Lithuanian capital of **Vilnius**, on the other hand, the narrow streets in the city’s old town has made it almost impossible for restaurants, bars and cafes there to expand outdoors. To give these businesses more space to meet safe distancing requirements, the city has [offered them its public spaces free-of-charge to establish outdoor seating](https://vilnius.lt/en/2020/05/06/giving-away-public-spaces-of-the-city-to-outdoor-cafes/). As of June 2020, about [400 eateries have taken up the invitation](https://www.thejakartapost.com/news/2020/06/15/public-space-a-lifeline-for-post-lockdown-cities.html).
+In the Lithuanian capital of **Vilnius**, on the other hand, the narrow streets in the city’s old town has made it almost impossible for restaurants, bars and cafes there to expand outdoors. To give these businesses more space to meet safe distancing requirements, the city has offered them its public spaces free-of-charge to establish outdoor seating. As of June 2020, about [400 eateries have taken up the invitation](https://www.thejakartapost.com/news/2020/06/15/public-space-a-lifeline-for-post-lockdown-cities.html).
 
 ---
 
@@ -55,7 +55,7 @@ Taking another approach to improve access to bicycles, **Chicago** in the United
 
 To motivate people to consider cycling for everyday journeys, the cities of **Glasgow and Edinburgh** in Scotland [made the shared bicycles in their cities temporarily free to rent for the first 30 minutes](https://www.polisnetwork.eu/article/glasgow-and-edinburgh-launch-temporary-free-bike-share/?id=122791). Edinburgh also [launched a discounted pass to its bicycle sharing programme](https://www.edinburghlive.co.uk/news/edinburgh-news/just-eat-bike-month-pass-18580042) that cost just GBP 10 (approximately USD $12) for four months’ access.
 
-Mr Michael Matheson, Scotland’s Cabinet Secretary for Transport, Infrastructure and Connectivity, [said at the launch of the free bicycle hire offer](https://www.glasgowchamberofcommerce.com/covid-19-hub/helping-your-city/2020/july/28/glasgow-saddles-up-for-free-cycle-hire-offer/): “We have seen increased rates of cycling and use of our public hire bicycle schemes across the lockdown period, and this offer will help maintain this shift in travel behaviour at a critical time in our COVID-19 response.” 
+Mr Michael Matheson, Scotland’s Cabinet Secretary for Transport, Infrastructure and Connectivity, said at the launch of the free bicycle hire offer: “We have seen increased rates of cycling and use of our public hire bicycle schemes across the lockdown period, and this offer will help maintain this shift in travel behaviour at a critical time in our COVID-19 response.” 
 
 ---
 
