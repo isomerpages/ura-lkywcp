@@ -19,7 +19,7 @@ description: More secondary cities are taking the initiative to attract new resi
 
 Small cities in New Zealand such as **Whakatāne and Dunedin** are tapping into the national government’s NZD $3 billion (approximately USD $1.96 billion) [Provincial Growth Fund](https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12000424) to develop their local assets and strengthen their economies. The fund, launched in 2018, aims to boost growth and create jobs in regions outside of the country’s metropolises. 
 
-Whakatāne, a port city, is [building a new commercial boat harbour and a visitor hub as well revitalising its riverfront and town centre](https://www.growregions.govt.nz/about-us/news-and-announcements/whakatane-set-for-economic-growth/) to improve its tourism business. Dunedin, which has emerging gaming and digital services sectors, will [invest in a Centre of Digital Excellence](https://www.growregions.govt.nz/about-us/news-and-announcements/pgf-makes-dunedin-ites-happy/) that is slated to create as many as 50 small videogame studios and five large studios.   
+Whakatāne, a port city, is building a new commercial boat harbour and a visitor hub as well revitalising its riverfront and town centre to improve its tourism business. Dunedin, which has emerging gaming and digital services sectors, will invest in a Centre of Digital Excellence that is slated to create as many as 50 small videogame studios and five large studios.   
 
 ---
 
@@ -33,7 +33,7 @@ Secondary cities in Vietnam have improved their urban infrastructure and acceler
 
 Other secondary cities are dipping into their budgets to attract new residents. In the United States, the city of **North Platte** in Nebraska [pays local employers up to USD $5,000 for each job vacancy](http://www.nparea.com/worknp), with the money to be used for incentive packages for new employees. These incentives can include reimbursements for relocation expenses, help with student loan repayments, and the payment of course fees for specialised training certificates. 
 
-Cities in Grant County, Washington, such as Quincy, Ephrata, and Warden, for their part, have a [‘Grant for Grads’ initiative](https://givetogrant.org/grant-for-grads/) that awards graduates from colleges, universities and technical schools up to USD $5,000 to buy a home in them. Those who want to rent a flat or home are given monthly payments equivalent to 20 percent of their rents, up to a total of USD $2,500. 
+Cities in Grant County, Washington, such as Quincy, Ephrata, and Warden, for their part, have a ‘Grant for Grads’ initiative that awards graduates from colleges, universities and technical schools up to USD $5,000 to buy a home in them. Those who want to rent a flat or home are given monthly payments equivalent to 20 percent of their rents, up to a total of USD $2,500. 
 
 ---
 
@@ -73,15 +73,15 @@ Hoima is on track to begin construction on its [first crude oil refinery](https:
 
 #### **08: Forging partnerships**
 
-**Nottingham** in Britain has nurtured alliances with similarly-sized cities in other countries, including **Karlsruhe** in Germany. The two cities have hosted each other’s researchers and musicians, and organised cultural exchanges for students in their schools, [among other collaborations](http://www.nottinghamkarlsruhe50.com/about/). In 2015, Nottingham also [completed an integrated tram network](http://www.mynottinghamnews.co.uk/nottinghams-extended-tram-network-will-boost-citys-economy-4/) that was modelled after a similar system in Karlsruhe2.  
+**Nottingham** in Britain has nurtured alliances with similarly-sized cities in other countries, including **Karlsruhe** in Germany. The two cities have hosted each other’s researchers and musicians, and organised cultural exchanges for students in their schools, among other collaborations. In 2015, Nottingham also [completed an integrated tram network](http://www.mynottinghamnews.co.uk/nottinghams-extended-tram-network-will-boost-citys-economy-4/) that was modelled after a similar system in Karlsruhe2.  
 
 ---
 
 #### **09: Supporting domestic travel**
 
-While many secondary cities are focused on increasing their population, some are positioning themselves as premiere locations for holidays, business meetings, conferences and seminars. In May 2020, the Tourism Authority of Thailand and other organisations announced that they would work with the country’s secondary cities on a [domestic tourism marketing campaign](https://www.travelweekly-asia.com/Destination-Travel/Support-local-Thailand-to-promote-domestic-tourism-in-second-tier-cities) to help them recover from the impact of Covid-19 crisis. 
+While many secondary cities are focused on increasing their population, some are positioning themselves as premiere locations for holidays, business meetings, conferences and seminars. In May 2020, the Tourism Authority of Thailand and other organisations announced that they would work with the country’s secondary cities on a domestic tourism marketing campaign to help them recover from the impact of Covid-19 crisis. 
 
-In 2018 and 2019, residents who travelled to cities in 55 second-tier provinces, such as **Chiang Rai and Ranong**, could also [claim income tax deductions of up to THB $15,000 (approximately USD $479)](https://www.bangkokpost.com/business/1663680/tax-break-for-second-tier-provinces-stays) based on their accommodation, food, tour guide and other expenses. Companies could also [apply for corporate tax deductions](https://www.nationthailand.com/Travel_log/30335871) if they spent money on organising staff training seminars in the 55 provinces. 
+In 2018 and 2019, residents who travelled to cities in 55 second-tier provinces, such as **Chiang Rai and Ranong**, could also [claim income tax deductions of up to THB $15,000 (approximately USD $479)](https://www.bangkokpost.com/business/1663680/tax-break-for-second-tier-provinces-stays) based on their accommodation, food, tour guide and other expenses. Companies could also apply for corporate tax deductions if they spent money on organising staff training seminars in the 55 provinces. 
 
 ---
 
