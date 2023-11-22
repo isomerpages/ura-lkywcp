@@ -25,7 +25,7 @@ sections:
     - infobar:    
         title: "The Prize will play an important role in focusing global attention on mounting issues and drawing out the innovative and effective solutions to address them" 
         subtitle: 
-        description: - Dr Cheong Koon Hean
+        description: Dr Cheong Koon Hean
         button: 
         url: 
     - infopic:    
