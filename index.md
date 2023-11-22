@@ -17,8 +17,8 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: 
-        subtitle: The Prize for cities
+        title: The Prize for cities
+        subtitle: 
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. The Prize is the only award in the world that looks at the holistic and sustained urban transformation of cities over a period of 10 to 20 years. 
         button: About the Prize
         url: /about-the-prize/ 
