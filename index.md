@@ -24,7 +24,7 @@ sections:
         url:
     - infobar:    
         title: 
-        subtitle: The World City Prize
+        subtitle: 
         description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> <br><br> Dr Cheong Koon Hean
         button: 
         url: 
