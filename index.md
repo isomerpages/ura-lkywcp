@@ -29,19 +29,19 @@ sections:
         button: 
         url: 
     - infopic:    
-        title: A global community of excellence 
+        title: A global community of urban excellence 
         subtitle: 
-        description: Over a decade and six cycles, the Prize has seen participation from diverse cities at various developmental stages. The Prize's six Laureates and 18 Special Mentions form a unique gathering of cities that showcase transformative stories.
+        description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 Prize cities that showcase transformative and inspiring stories.
         button: Find out more
         url: /laureate/laureates
         image: /images/features/2023/droogdokkenpark.jpg/
         alt: Antwerp Droogdokkenpark
     - infopic:    
-        title: Updates from our Prize cities
-        subtitle: News
-        description: From Seoul's tech ambition to Antwerp's housing priorities, discover the insights that are driving changes in our Prize cities. 
-        button: Find out more
-        url: /resources/news/alumni-breakfast-2023/
+        title: A document of our journey  
+        subtitle: 
+        description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to write deeply personal and reflective essays on the Prize Laureates and a broad range of topics.
+        button: Download the eBook
+        url: /documents/Celebrating-Ten-Years-of-the-Prize.pdf/
         image: /images/features/2023/alumni-breakfast-2023.jpg/
         alt: Alumni Breakfast
     - infobar:
