@@ -18,18 +18,10 @@ sections:
               url: 
     - infobar:    
         title: 
-        subtitle: About the Prize
-        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
-        button:
-        url:
-    - infopic:    
-        title: The Prize for cities
-        subtitle: 
-        description: The Prize is the only award in the world that looks at the holistic and sustained urban transformation of cities over a period of 10 to 20 years. 
-        button: 
-        url: 
-        image: /images/features/2023/shenzhen-air.jpg
-        alt: Clean air
+        subtitle: The Prize for cities
+        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. The Prize is the only award in the world that looks at the holistic and sustained urban transformation of cities over a period of 10 to 20 years. 
+        button: About the Prize
+        url: /about-the-prize/ 
     - infobar:    
         title: 
         subtitle: 
