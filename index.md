@@ -18,16 +18,10 @@ sections:
               url: 
     - infobar:    
         title: 
-        subtitle: 
+        subtitle: About the Prize
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button:
         url:
-    - infobar:    
-        title: 
-        subtitle: 
-        description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> – Dr Cheong Koon Hean
-        button: 
-        url: 
     - infopic:    
         title: The Prize that Inspires
         subtitle: 
@@ -36,6 +30,12 @@ sections:
         url: 
         image: /images/features/2023/shenzhen-air.jpg
         alt: Clean air
+    - infobar:    
+        title: 
+        subtitle: 
+        description: <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> – Dr Cheong Koon Hean
+        button: 
+        url: 
     - infopic:    
         title: A global community of excellence 
         subtitle: 
