@@ -8,7 +8,7 @@ notification:
 sections:
     - hero:
         title: 
-        subtitle: 
+        subtitle: 2024 Prize
         background: /images/herobanner.gif
         button: Nominations closed
         url: /prize-cycle/
@@ -39,7 +39,7 @@ sections:
     - infopic:    
         title: A document of our journey  
         subtitle: 
-        description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to write deeply personal and reflective essays on the Prize Laureates and a broad range of topics.
+        description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
         button: Download the eBook
         url: /documents/Celebrating-Ten-Years-of-the-Prize.pdf/
         image: /images/features/2023/ebook.png/
