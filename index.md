@@ -22,16 +22,10 @@ sections:
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities.
         button: About the Prize
         url: /about-the-prize/
-    - infobar:    
-        title: "The Prize will play an important role in focusing global attention on mounting issues and drawing out the innovative and effective solutions to address them" 
-        subtitle: 
-        description: Dr Cheong Koon Hean
-        button: 
-        url: 
     - infopic:    
-        title: The Prize for cities
+        title: The Prize will play an important role in focusing global attention on mounting issues and drawing out the innovative and effective solutions to address them
         subtitle: 
-        description: Established in 2009, the World City Prize is the only award in the world that looks at the holistic transformation of cities over a period of 10 - 20 years, recognising cities and their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
+        description: 
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
