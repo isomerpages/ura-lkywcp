@@ -25,7 +25,7 @@ sections:
     - infopic:    
         title: The Prize for cities
         subtitle: 
-        description: The only Prize in the world that looks at the holistic transformation of cities over a period of 10-20 years. 
+        description: The distinguished award stands as the only global recognition of cities, meticulously assessing holistic transformation over a 10-20 year span. It signifies sustained urban evolution, acknowledging profound and enduring positive change.
         button: 
         url: 
         image: /images/features/2023/shenzhen-air.jpg
