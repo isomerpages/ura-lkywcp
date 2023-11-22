@@ -27,7 +27,7 @@ sections:
         subtitle: 
         description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
         button: Find out more
-        url: /laureate/laureates
+        url: /laureates/
         image: /images/worldmapdots.png/
         alt: World map
     - infobar:    
