@@ -29,7 +29,7 @@ collections:
   chinese:
     output: true
 google_analytics: UA-48396056-10
-resources_name: Cities database
+resources_name: cities_database
 is_government: false
 
 ##################################################################################################################
