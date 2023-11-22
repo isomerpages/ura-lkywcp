@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Lee Kuan Yew World City Prize
-description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation
+description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation <br> <i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i> <br> Dr Cheong Koon Hean
 image: /images/shareicon.png/
 permalink: /
 notification: 
