@@ -28,8 +28,8 @@ sections:
         description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
         button: Find out more
         url: /laureate/laureates
-        image: /images/features/2023/droogdokkenpark.jpg/
-        alt: Antwerp Droogdokkenpark
+        image: /images/worldmapdots.png/
+        alt: World map
     - infobar:    
         title: 
         subtitle: Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.
