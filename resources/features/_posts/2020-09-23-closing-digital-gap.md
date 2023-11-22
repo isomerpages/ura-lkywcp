@@ -46,7 +46,7 @@ The hubs will observe safe distancing while providing free full-day learning pro
 
 **Kansas City** in the United States is calling on businesses to aid in bridging the digital divide. In a permanent programme called the [‘Employer Laptop Challenge’](https://www.kansascityfed.org/community/employer-laptop-challenge) launched in April 2020, it is asking companies and other organisations to donate used laptops, tablets or computers to designated non-profit refurbishers who will repair, reset and clean them before giving them to schools, non-profit groups and lower-income families. 
 
-As of early September 2020, the programme has [redirected more than 1,800 of the electronic devices to those who need them](https://www.kansascityfed.org/publications/community/connections/articles/2020/elc%20-%20donor%20interviews%20sept%202020). 
+As of early September 2020, the programme has redirected more than 1,800 of the electronic devices to those who need them. 
 
 ---
 
@@ -68,7 +68,7 @@ Ms Charity Dean, Director of the city’s Civil Rights, Inclusion and Opportunit
 
 The city-state of **Singapore** is betting that a personal approach and financial incentives will persuade all 18,000 stallholders in its hawker food centres and markets to adopt a national electronic payment solution called the [‘Singapore Quick Response Code’](https://www.channelnewsasia.com/news/singapore/1000-digital-ambassadors-recruit-help-stallholders-seniors-12789146) by June 2021. This system reduces the handling of cash, minimising the risk of Covid-19 infections, and leads to more seamless transactions.
 
-In June 2020, the city tasked 1,000 full-time staff and part-time volunteers with encouraging the stallholders to install the system. Until May 2021, the stallholders will also receive SGD $300 (approximately USD $219) for each month where they complete at least 20 transactions worth at least SGD $1 (approximately USD $0.70) each on the system, up to a maximum of five pay-outs. As of mid-August 2020, [nearly a third of them have signed up to use the system](https://www.straitstimes.com/tech/nearly-a-third-of-18000-stalls-in-hawker-centres-and-markets-now-offer-e-payments). 
+In June 2020, the city tasked 1,000 full-time staff and part-time volunteers with encouraging the stallholders to install the system. Until May 2021, the stallholders will also receive SGD $300 (approximately USD $219) for each month where they complete at least 20 transactions worth at least SGD $1 (approximately USD $0.70) each on the system, up to a maximum of five pay-outs. As of mid-August 2020, nearly a third of them have signed up to use the system. 
 
 ---
 
@@ -84,7 +84,7 @@ Staff from the city’s Department for the Aging and Older Adults Technology Ser
 
 #### **09: All in on inclusivity**
 
-In August 2020, the Spanish city of **Barcelona** announced that it would spend EUR 700,000 (approximately USD $828,000) by the end of the year on [a range of digital inclusivity measures](https://www.barcelona.cat/en/noticia/more-resources-to-combat-the-digital-divide_979064) to tackle inequalities underlined by the COVID-19 pandemic1. 
+In August 2020, the Spanish city of **Barcelona** announced that it would spend EUR 700,000 (approximately USD $828,000) by the end of the year on a range of digital inclusivity measures to tackle inequalities underlined by the COVID-19 pandemic1. 
 
 Among the upcoming projects are a survey to map neighbourhoods’ and households’ access to the Internet and identify people’s digital needs, the improvement of Wi-Fi networks at public facilities, and the deployment of staff to help more residents learn how to access digital government services and use basic apps for videoconferencing and other business purposes.
 
