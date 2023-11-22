@@ -56,7 +56,7 @@ In keeping with the government’s social goals, the eventual 3,500 residential 
 
 “We are also looking at ways to reduce traffic in the new district by keeping car-based traffic out and making it more efficient for people to walk. This will increase the residents’ general well-being. The Altona project is an important example of how we can reuse former railroad areas within Hamburg,” said Prof Bruns-Berentelg.
 
-The HafenCity project, on the other hand, capitalises on areas on the Elbe’s north bank that have been underused or unused because they were not suitable for container operations. These spaces are being redeveloped into a new city centre district that will provide homes for more than 13,000 people and create up to 45,000 jobs [when it is completed by 2025](https://www.hafencity.com/upload/files/listitems/Fact_Sheet.pdf).
+The HafenCity project, on the other hand, capitalises on areas on the Elbe’s north bank that have been underused or unused because they were not suitable for container operations. These spaces are being redeveloped into a new city centre district that will provide homes for more than 13,000 people and create up to 45,000 jobs when it is completed by 2025.
 
 While the Hamburg government is building HafenCity from scratch, it has taken measures to ensure that the new district has a high degree of visual and spatial connectivity with the rest of the city, Prof Bruns-Berentelg said. “Where the new developments connect to the existing city, we use the same materials and even colours to bring the two together,” he said.
 
@@ -71,7 +71,7 @@ New mid-rise and high-rise buildings intended to increase Hamburg’s housing an
 
 #### **Rethinking transport**
 
-For decades, the major A7 highway connecting Germany to Scandinavia has cut through Hamburg, dividing some of the city’s neighbourhoods and polluting them with noise and dirty air from the heavy trucks that use [the motorway](https://www.fastcompany.com/3040310/theyre-going-to-bury-a-stretch-of-german-autobahn-and-cover-it-in-parks). By 2022, the Hamburg government will complete an ambitious ongoing project to cover three sections of the highway in the city totalling 3.5 kilometres, turning them into tunnels and [creating 25 hectares of usable space on the roofs](https://www.hamburg.de%2Fcontentblob%2F4018374%2Fdata%2F12-08-broschuere-gesamtprojekt-freiraum-und-ruhe-english.pdf).
+For decades, the major A7 highway connecting Germany to Scandinavia has cut through Hamburg, dividing some of the city’s neighbourhoods and polluting them with noise and dirty air from the heavy trucks that use the motorway. By 2022, the Hamburg government will complete an ambitious ongoing project to cover three sections of the highway in the city totalling 3.5 kilometres, turning them into tunnels and [creating 25 hectares of usable space on the roofs](https://www.hamburg.de%2Fcontentblob%2F4018374%2Fdata%2F12-08-broschuere-gesamtprojekt-freiraum-und-ruhe-english.pdf).
 
 The covers will not only reconnect Hamburg’s Schnelsen, Stellingen and Altona districts on either side of the highway, but also reduce the noise and pollution from it. “In a few years, there will also be little to remind residents of the motorway traffic queues that occur where the A7 cuts through Hamburg’s western districts. Instead, the new areas on top of the covers will serve Hamburg’s population with space for recreation and leisure,” the government said.
 
