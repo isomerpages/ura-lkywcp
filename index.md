@@ -32,7 +32,7 @@ sections:
         alt: World map
     - infobar:    
         title: 
-        subtitle: Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.
+        subtitle: <i>"</i>Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.<i>"</i>
         description: – Dr Cheong Koon Hean<br>Chair, Nominating Committee
         button: 
         url: 
@@ -52,6 +52,6 @@ sections:
         url: 
     - resources:
         title: Cities database
-        subtitle: Learn more
-        button: More useful resources
+        subtitle: Deep delve
+        button: More from the Prize cities
 ---
