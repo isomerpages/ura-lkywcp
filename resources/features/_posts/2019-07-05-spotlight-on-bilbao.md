@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Bilbao — how the winning city is reinventing itself yet again
+title: Bilbao — How the winning city is reinventing itself yet again
 permalink: /resources/features/spotlight-bilbao/
 image: /images/features/2019/peunte-de-la-merced.jpg
 description: The inaugural Prize Laureate Bilbao is continuing to set a example through a comprehensive flood protection plan, a 'green ring' project to increase access to nature, a high-speed rail network, and the conversion of a derelict peninsula into a showcase for smart, sustainable and socially-equitable living.
