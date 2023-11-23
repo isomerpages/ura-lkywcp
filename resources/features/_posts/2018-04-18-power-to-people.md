@@ -1,5 +1,5 @@
 ---
-title: Power to the people — citizen engagement in Seoul
+title: Seoul — Power to the people
 permalink: /resources/features/power-to-people/
 image: /images/features/2018/seoul-citizen-engagement.jpg
 description: Seoul, the 2018 Prize Laureate, is today a vibrant and inclusive city through greater citizen engagement. We take a closer look at its innovative citizen engagement initiatives, such as supporting citizen-proposed projects and implementing proven conflict resolution strategies. 
