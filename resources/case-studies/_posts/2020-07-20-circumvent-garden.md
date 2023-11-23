@@ -1,5 +1,5 @@
 ---
-title: From illegal settlers to city gardeners
+title: Medellín – Circumvent Garden
 permalink: /resources/case-studies/circumvent-garden/
 image: /images/features/2020/circumvent-garden-urban-farm.jpg
 description: Pedagogical urbanism refers to how transformed public spaces can teach residents on how to connect with one another and become more engaged citizens. The Circumvent Garden in Medellín demonstrates how illegal settlers were converted into active players in the city's transformation. 
