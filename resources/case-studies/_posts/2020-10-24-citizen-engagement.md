@@ -1,5 +1,5 @@
 ---
-title: Negotiating for a better future
+title: Seoul – Citizen engagement strategies
 permalink: /resources/case-studies/citizen-engagement/
 image: /images/features/2020/seoul-happy-citizens.jpg
 description: Faced with increasing public opposition to urban development, Seoul could have taken the easy way out. Fortunately, the city chose to face its challenges and developed its most extensive public engagement processes yet, culminating in the remarkable Seoul Plan 2030.
