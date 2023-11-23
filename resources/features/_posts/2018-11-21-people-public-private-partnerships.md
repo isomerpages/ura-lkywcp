@@ -1,5 +1,5 @@
 ---
-title: Tokyo — the power of people-public-private partnerships
+title: Tokyo — The power of people-public-private partnerships
 permalink: /resources/features/people-public-private-partnerships/
 image: /images/features/2018/tokyo-mt-fuji.jpg
 description: For over a century, collaborations between Tokyo’s government, private sector and citizens helped the city expand quickly and efficiently. Now, as the megacity looks ahead to the future, it is relying more than ever on such partnerships to implement redevelopment, fortification and infrastructural projects.

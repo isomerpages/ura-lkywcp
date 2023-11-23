@@ -32,12 +32,12 @@ sections:
         alt: World map
     - infobar:    
         title: 
-        subtitle: Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.
-        description: – Dr Cheong Koon Hean
+        subtitle: <i>"</i>Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.<i>"</i>
+        description: – Dr Cheong Koon Hean<br>Chair, Nominating Committee
         button: 
         url: 
     - infopic:    
-        title: A document of our journey  
+        title: A documentation of our journey  
         subtitle: 
         description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
         button: Download the eBook
@@ -52,6 +52,6 @@ sections:
         url: 
     - resources:
         title: Cities database
-        subtitle: Learn more
-        button: More useful resources
+        subtitle: Deep delve
+        button: More from the Prize cities
 ---

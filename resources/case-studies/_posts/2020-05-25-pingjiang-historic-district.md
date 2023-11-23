@@ -1,5 +1,5 @@
 ---
-title: Balancing the old and new
+title: Suzhou – Pingjiang Historic District
 permalink: /resources/case-studies/pingjiang-historic-district/
 image: /images/features/2020/pingjiang-historic-district.jpg
 description: At risk of losing its heritage and character in its rapid modernisation, the 2014 Prize Laureate Suzhou embarked on a comprehensive approach to heritage perservation that also emphasised intangible qualities. The Pingjiang Historic District is an exemplar of the city's efforts.

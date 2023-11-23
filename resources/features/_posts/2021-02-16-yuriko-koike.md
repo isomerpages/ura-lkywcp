@@ -1,5 +1,5 @@
 ---
-title: Yuriko Koike on the new normal in Tokyo
+title: Tokyo – Yuriko Koike on the new normal
 permalink: /resources/features/yuriko-koike/
 image: /images/features/2021/yuriko-koike.jpg
 description: Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a new normal for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.

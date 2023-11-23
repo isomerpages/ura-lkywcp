@@ -1,5 +1,5 @@
 ---
-title: 4 different cities, 3 common themes
+title: Auckland, Sydney, Toronto & Vienna – 4 different cities, 3 common themes
 permalink: /resources/features/four-different-cities/
 image: /images/features/2016/2016-special-mentions.jpg
 description: Scattered across the globe, the four 2016 Special Mention cities may appear to have little in common. But details of their transformations reveal how common themes and priorities, translated into long-term plans that reflect local needs, have guided them to become more liveable and sustainable cities.

@@ -1,5 +1,5 @@
 ---
-title: Surabaya — preserving the past, conserving the future
+title: Surabaya — Preserving the past, conserving the future
 permalink: /resources/features/preserving-past-conserving-future/
 image: /images/features/2018/kampung-dukuh-setro.jpg
 description: Surabaya has put its heritage and culture at the centre of its urban development plans over the past decade. Ubiquitous informal settlements were turned into vibrant homes and economic engines, villages into tourist attractions, and neighbourhoods into artistic estates. Surabaya shows how it can preserve its past while improving liveability and sustainability.
@@ -46,7 +46,7 @@ By tapping on the kampungs’ potential, the government achieved several complem
 
 #### **Harnessing heritage**
 
-The canny use of the city’s traditional activities extends beyond the kampungs. The government transformed the north-eastern Kenjeran coastal area, which used to be home to slum fishing villages. It repainted the fishermen’s homes in bright colours, cleaned the coastline, carried out drainage projects, built two major roads and constructed a bridge to turn it into a [picturesque and easily accessible tourist destination](https://legacy-etd.library.emory.edu/file/view/pid/emory:s3pbf/etd/emory:s3p85/tans_dissertation.pdf) with fishing opportunities as a highlight. 
+The canny use of the city’s traditional activities extends beyond the kampungs. The government transformed the north-eastern Kenjeran coastal area, which used to be home to slum fishing villages. It repainted the fishermen’s homes in bright colours, cleaned the coastline, carried out drainage projects, built two major roads and constructed a bridge to turn it into a picturesque and easily accessible tourist destination with fishing opportunities as a highlight. 
 
 Dolly, an infamous red-light district in the city that was one of the largest in Southeast Asia, was shut down and transformed into a creative village with a batik centre and a space for artists and teenagers to draw murals. The government bought the buildings that used to be brothels, turned them into shops, organised skilled-based training courses for the sex workers and encouraged them to [find new jobs in the district or other neighbourhoods](https://www.channelnewsasia.com/news/video-on-demand/maverick-politicians/tri-rismaharini-9866696). 
 

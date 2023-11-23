@@ -1,5 +1,5 @@
 ---
-title: Inclusive social policies in Suzhou
+title: Suzhou – Inclusive social policies
 permalink: /resources/case-studies/inclusive-social-policies-suzhou/
 image: /images/features/2020/suzhou-children.jpg
 description: Besides economic development and environmental protection, the 2014 Prize Laureate Suzhou introduced innovative social policies to ensure fair and equal treatment for all for a sustained future. 

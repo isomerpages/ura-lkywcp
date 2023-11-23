@@ -1,5 +1,5 @@
 ---
-title: Selling cities — the Yokohama story
+title: Yokohama – Selling cities
 permalink: /resources/features/selling-cities-yokohama-story/
 image: /images/features/2014/yokohama.jpg
 description: For cities to attract international trade and investment, talent and tourism, they must develop highly liveable and sustainable urban environments, which are in turn sold to prospective businesses and visitors. Yokohama exemplifies this process.

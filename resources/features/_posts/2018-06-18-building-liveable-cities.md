@@ -1,5 +1,5 @@
 ---
-title: Building liveable cities, creating conducive living environments
+title: Hamburg, Surabaya, Kazan & Tokyo – Liveable cities, conducive living environments
 permalink: /resources/features/building-liveable-cities/
 image: /images/features/2018/hamburg-neighbourhood.jpg
 description: With increasing urban population, more cities will be challenged to provide good and affordable homes, and vibrant neighbourhoods for their residents. We look at how the four 2018 Special Mentions – Hamburg, Surabaya, Kazan and Tokyo – developed brownfields, improved informal settlements, updated estates, and invested in infrastructure to stay ahead of their residents’ needs.

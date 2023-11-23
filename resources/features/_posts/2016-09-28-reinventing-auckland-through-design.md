@@ -1,5 +1,5 @@
 ---
-title: Reinventing Auckland through design
+title: Auckland — Reinventing through design
 permalink: /resources/features/reinventing-auckland-through-design/
 image: /images/features/2016/khartoum-place.jpg
 description: From the 'city of cars' to its transformation into a far more human-centric metropolis, the story of Auckland’s urban reinvention illustrates how a city defined by decades of poor urban design and infrastructural deficit is able to turn around to become one of the world’s most liveable cities, through a design-led vision and strong leadership.

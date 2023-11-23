@@ -1,5 +1,5 @@
 ---
-title: Creating a city-within-a-city
+title: Hamburg – HafenCity development
 permalink: /resources/case-studies/hafencity/
 image: /images/features/2021/hafencity.jpg
 description: A former industrial brownfield site, HafenCity is Hamburg’s new city within a city and a role model of inclusive inner-city densification realised through an innovative governance structure and a unique land sales programme.

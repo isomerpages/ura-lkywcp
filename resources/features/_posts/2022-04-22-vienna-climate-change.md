@@ -1,5 +1,5 @@
 ---
-title: Vienna — channelling efforts against climate change
+title: Vienna — Channelling efforts against climate change
 permalink: /resources/features/vienna-climate-change/
 image: /images/features/2022/vienna-climate-change.jpg
 description: Vienna, the 2020 Prize Laureate, has been at the forefront of efforts to limit the adverse effects of and adapt to climate change. We look at the ground-breaking initiatives which have slashed its carbon emissions per person and raised the quality of life for residents. 
