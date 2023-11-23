@@ -1,5 +1,5 @@
 ---
-title: Prize Alumni Breakfast 2023
+title: Latest urban developments from our Prize cities
 permalink: /resources/news/alumni-breakfast-2023/
 image: /images/features/2023/alumni-breakfast-2023.jpg/
 description: City leaders from the Prize cities met in Seoul to share about their cities' progress and goals. From Seoul's tech ambition to Antwerp's housing priorities, these insights will help shape the future of liveable cities.
