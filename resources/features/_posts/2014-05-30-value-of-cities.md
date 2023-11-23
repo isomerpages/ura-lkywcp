@@ -1,5 +1,5 @@
 ---
-title: The value of cities
+title: Suzhou – The value of cities
 permalink: /resources/features/value-of-cities/
 image: /images/features/2014/stone-lake.jpg
 description: As developing cities move up the economic value chain, they generally see improvements across the board. However, significant challenges remain, while economic success does not necessarily mean liveability. Balancing economy with social and environmental demands is a delicate task. Suzhou exemplifies the journey developing cities must make.
