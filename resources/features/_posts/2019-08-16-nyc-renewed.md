@@ -1,5 +1,5 @@
 ---
-title: New York City renewed — how a world icon is looking ahead to 2050
+title: New York City — How a world icon is looking ahead to 2050
 permalink: /resources/features/nyc-renewed/
 image: /images/features/2019/nyc-high-line.jpg
 description: In New York City - the 2012 Prize Laureate, emerging technologies and trends such as digitalisation is helping the city execute an ambitious vision to adapt and grow sustainably to the year 2050 and beyond. 
