@@ -1,5 +1,5 @@
 ---
-title: A marriage of culture and commerce — the Suzhou success story
+title: Suzhou – A marriage of culture and commerce
 permalink: /resources/features/marriage-culture-commerce/
 image: /images/features/2019/suzhou-gate-orient.jpg
 description: Suzhou mastered the art of building a future out of traditions. Since winning the 2014 Prize, it harnessed its historical and cultural assets in urban development to boost its tourism and economy, and plans to revitalise its traditional industries while investing in emerging ones.
