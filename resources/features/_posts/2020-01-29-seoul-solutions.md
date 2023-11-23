@@ -1,5 +1,5 @@
 ---
-title: Seoul solutions — tackling rising urban challenges
+title: Seoul — Tackling rising urban challenges
 permalink: /resources/features/seoul-solutions/
 image: /images/features/2020/seoul-solutions.jpg
 description: After winning the 2018 Prize, Seoul is going full speed ahead with new and ongoing urban regeneration initiatives to tackle emerging challenges. From innovative interventions to dampen rising housing prices, to a grand plan for greenery, Seoul is on a path to a safe and sustainable future.
