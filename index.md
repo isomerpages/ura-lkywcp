@@ -37,7 +37,7 @@ sections:
         button: 
         url: 
     - infopic:    
-        title: A document of our journey  
+        title: A documentation of our journey  
         subtitle: 
         description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
         button: Download the eBook
