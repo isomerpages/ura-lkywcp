@@ -41,7 +41,7 @@ Cities in Grant County, Washington, such as Quincy, Ephrata, and Warden, for the
 
 With housing at a premium in many major cities in the United States, **Plainville** in Kansas and **Curtis** in Nebraska are betting that the availability of free land will help them to increase their population. People who move to Plainville can get free land to build new homes, and those who do so will receive tax rebates on the properties for 10 years on a declining scale, with the [total savings equivalent to half of the amount that they would have paid](http://rookscounty.net/free_homesites).
 
-Newcomers to Curtis, on the other hand, can [apply for free commercial and industrial sites and government grants to set up their businesses](https://www.curtisnebraska.com/copy-of-medicine-valley-economic-de). Families are also eligible for free residential lots, grants of up to USD $4,000 to help them pay for the construction of their homes, and up to USD $1,000 in cash if they have at least one child. 
+Newcomers to Curtis, on the other hand, can apply for free commercial and industrial sites and government grants to set up their businesses. Families are also eligible for free residential lots, grants of up to USD $4,000 to help them pay for the construction of their homes, and up to USD $1,000 in cash if they have at least one child. 
 
 ---
 
