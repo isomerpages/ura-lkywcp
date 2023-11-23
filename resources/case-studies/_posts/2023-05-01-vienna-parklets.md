@@ -1,5 +1,5 @@
 ---
-title: Turning parking lanes into parklets
+title: Vienna – Grätzloase temporary public space activation programme
 permalink: /resources/case-studies/vienna-parklets/
 image: /images/features/2023/parklets1.jpg
 description:  In Vienna, ‘Grätzloase’ is an initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. 
