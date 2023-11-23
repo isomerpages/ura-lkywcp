@@ -33,7 +33,7 @@ sections:
     - infobar:    
         title: 
         subtitle: Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.
-        description: – Dr Cheong Koon Hean
+        description: – Dr Cheong Koon Hean<br>Chair, Nominating Committee
         button: 
         url: 
     - infopic:    
