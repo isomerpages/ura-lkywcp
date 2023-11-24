@@ -1,5 +1,5 @@
 ---
-title: Medellín — Transforming barrios, transforming Medellín
+title: Medellín – Transforming barrios, transforming Medellín
 permalink: /resources/features/transforming-barrios-transforming-medellin/
 image: /images/features/2016/comuna13.jpg
 description: Like many developing cities, Medellín experienced a rapid surge in population from the 1950s. The proliferation of informal settlements brought along a host of issues from violence and inaccessibility to housing safety and lack of public infrastructure. What made Medellín stand out, however, was its bold, grounds-up approach to tackling informal settlements and their associated issues. Following two decades of sustained effort, Medellín today demonstrates the remarkable urban transformation that can be brought about with determination, vision and creativity, even in the face of limited resources.
