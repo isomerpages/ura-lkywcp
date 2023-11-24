@@ -17,13 +17,13 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: <h2><font color=#967942><b>The Prize for cities</b></font></h2>
+        title: <h3><font color=#967942><b>The Prize for cities</b></font></h3>
         subtitle: 
-        description: <h5>A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic and sustained urban transformation of cities over 10 to 20 years.</h5>
+        description: <h6>A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic and sustained urban transformation of cities over 10 to 20 years.</h6>
         button: About the Prize
         url: /about-the-prize/ 
     - infopic:    
-        title: <h2><font color=#967942><b>A global community of urban excellence</b></font></h2>
+        title: <h3><font color=#967942><b>A global community of urban excellence</b></font></h3>
         subtitle: 
         description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
         button: Find out more
