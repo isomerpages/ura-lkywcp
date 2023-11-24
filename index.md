@@ -19,11 +19,11 @@ sections:
     - infobar:    
         title: <h3><font color=#967942><b>The Prize for cities</b></font></h3>
         subtitle: 
-        description: <h6>A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic and sustained urban transformation of cities over 10 to 20 years.</h6>
+        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic and sustained urban transformation of cities over 10 to 20 years.
         button: About the Prize
         url: /about-the-prize/ 
     - infopic:    
-        title: <h3><font color=#967942><b>A global community of urban excellence</b></font></h3>
+        title: A global community of urban excellence
         subtitle: 
         description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
         button: Find out more
@@ -33,11 +33,11 @@ sections:
     - infobar:    
         title: 
         subtitle: Dr Cheong Koon Hean<br>Chair, Nominating Committee
-        description: <h4><font color=#967942>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</font></h4>
+        description: <h5><font color=#967942><i>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</i></font></h5>
         button: 
         url: 
     - infopic:    
-        title: <h2><font color=#967942><b>A chronicle of our journey</b></font></h2>
+        title: A chronicle of our journey
         subtitle: 
         description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
         button: Download the eBook
