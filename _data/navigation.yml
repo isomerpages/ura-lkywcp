@@ -11,9 +11,9 @@ links:
     collection: about
   - title: Apply
     collection: apply
-  - title: World cities
+  - title: Prize cities
     collection: laureates
-  - title: Cities database
+  - title: Resources
     resource_room: true
   - title: 中文版
     collection: chinese

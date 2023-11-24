@@ -1,5 +1,5 @@
 ---
-title: Medellín — Safe, smart and connected
+title: Medellín – Safe, smart and connected
 permalink: /resources/features/safe-smart-connected/
 image: /images/features/2017/medellin-children.jpg
 description: Medellín – the 2016 Laureate of the Lee Kuan Yew World City Prize – has transformed itself through innovative urban solutions that are now reaping a welcome harvest of economic growth, investments and innovation. Federico Gutiérrez, Mayor of Medellín, and Sergio Escobar, Executive Director of Medellín-ACI, share their views on the challenges and path ahead for a city that is aiming to become Latin America’s capital of innovation.  

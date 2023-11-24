@@ -19,11 +19,11 @@ sections:
     - infobar:    
         title: The Prize for cities
         subtitle: 
-        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic and sustained urban transformation of cities over 10 to 20 years. 
+        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
         button: About the Prize
         url: /about-the-prize/ 
     - infopic:    
-        title: A global community of urban excellence 
+        title: A global community of urban excellence
         subtitle: 
         description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
         button: Find out more
@@ -32,12 +32,12 @@ sections:
         alt: World map
     - infobar:    
         title: 
-        subtitle: <i>"</i>Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.<i>"</i>
-        description: – Dr Cheong Koon Hean<br>Chair, Nominating Committee
+        subtitle: Dr Cheong Koon Hean<br>Chair, Nominating Committee<br>———
+        description: <h5><font color=#967942>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</font></h5>
         button: 
         url: 
     - infopic:    
-        title: A documentation of our journey  
+        title: A chronicle of our journey
         subtitle: 
         description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
         button: Download the eBook
@@ -47,11 +47,11 @@ sections:
     - infobar:
         title: 💬
         subtitle: 
-        description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
+        description: <h5><b>Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a></b></h5>
         button: 
         url: 
     - resources:
         title: Cities database
         subtitle: Deep delve
-        button: More from the Prize cities
+        button: Learn more from the Prize cities
 ---

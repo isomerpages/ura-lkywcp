@@ -1,5 +1,5 @@
 ---
-title: Medellín — A model city aims for greater heights
+title: Medellín – A model city aims for greater heights
 permalink: /resources/features/medellin-model-city-greater-heights/
 image: /images/features/2019/medellin-today.jpg
 description: Over the past 20 years, Medellín has shed its violent reputation and emerged as a model of social innovation and inclusive growth, leading to multiple awards including the 2016 Prize. Not resting on its laurels, it has launched more recent initiatives to tackle new challenges and further improve its citizens’ lives.

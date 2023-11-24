@@ -1,5 +1,5 @@
 ---
-title: Auckland — Transforming governance, placing people first
+title: Auckland – Transforming governance, placing people first
 permalink: /resources/features/transforming-governance-placing-people-first/
 image: /images/features/2016/auckland-diversity.jpg
 description: With a 30-year master plan, Auckland set its sights on becoming the world’s most liveable city by 2040. At the heart of its transformation lie a highly integrated and innovative governance model, and the resolve to put its people first. Auckland's story is about how a city’s cultural ethos and shared vision generate a remarkable synergy to inspire and propel change.
