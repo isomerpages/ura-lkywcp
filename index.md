@@ -17,7 +17,7 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: <font color=#000000>The Prize for cities</font>
+        title: <font color=#323232>The Prize for cities</font>
         subtitle: 
         description: <font color=#967942>A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.</font>
         button: About the Prize
