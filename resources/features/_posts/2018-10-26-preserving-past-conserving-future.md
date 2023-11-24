@@ -1,5 +1,5 @@
 ---
-title: Surabaya — Preserving the past, conserving the future
+title: Surabaya – Preserving the past, conserving the future
 permalink: /resources/features/preserving-past-conserving-future/
 image: /images/features/2018/kampung-dukuh-setro.jpg
 description: Surabaya has put its heritage and culture at the centre of its urban development plans over the past decade. Ubiquitous informal settlements were turned into vibrant homes and economic engines, villages into tourist attractions, and neighbourhoods into artistic estates. Surabaya shows how it can preserve its past while improving liveability and sustainability.
