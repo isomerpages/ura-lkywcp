@@ -47,7 +47,7 @@ sections:
     - infobar:
         title: 💬
         subtitle: 
-        description: Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a>
+        description: <h4><b>Connect with us on <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a></b></h4>
         button: 
         url: 
     - resources:
