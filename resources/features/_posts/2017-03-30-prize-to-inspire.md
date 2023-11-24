@@ -1,5 +1,5 @@
 ---
-title: A Prize to inspire — celebrating cities that achieved lasting change
+title: A Prize to inspire – Celebrating cities that achieved lasting change
 permalink: /resources/features/prize-to-inspire/
 image: /images/features/2017/medellin-transformed.jpg
 description: What are the qualities that define liveable, vibrant and sustainable urban communities? Why should cities embrace participatory planning and include their wider regions in their long-term vision? We speak to Flemming Borreskov and Prof Wulf Daseking on the trends and thinking shaping the Prize and cities worldwide.  
