@@ -31,7 +31,7 @@ sections:
         image: /images/worldmapdots.png/
         alt: World map
     - infobar:    
-        title: 
+        title: ❝
         subtitle: <i>"</i>Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations.<i>"</i>
         description: – Dr Cheong Koon Hean<br>Chair, Nominating Committee
         button: 
