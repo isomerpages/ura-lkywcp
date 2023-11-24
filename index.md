@@ -17,7 +17,7 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: <h3>The Prize for cities</h3>
+        title: <b><h2 color=#967942>The Prize for cities</h2></b>
         subtitle: 
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic and sustained urban transformation of cities over 10 to 20 years. 
         button: About the Prize
@@ -33,7 +33,7 @@ sections:
     - infobar:    
         title: 
         subtitle: Dr Cheong Koon Hean<br>Chair, Nominating Committee
-        description: <h4>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</h4>
+        description: <h4 color=#967942>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</h4>
         button: 
         url: 
     - infopic:    
