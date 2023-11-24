@@ -1,5 +1,5 @@
 ---
-title: Hamburg — Leading urban regeneration
+title: Hamburg – Leading urban regeneration
 permalink: /resources/features/hamburg-transformed/
 image: /images/features/2018/autobahndeckel.jpg
 description: Hamburg's creative use of brownfields and urban renewal has revitalised underutilised spaces to create more homes, offices, shops and public amenities. A once stigmatised area is transformed into a model of sustainable living, while a major highway is being covered with landscape decks to curb pollution and create more parks and greenery.
