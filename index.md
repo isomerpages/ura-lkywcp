@@ -32,7 +32,7 @@ sections:
         alt: World map
     - infobar:    
         title: ❝
-        subtitle: – Dr Cheong Koon Hean<br>Chair, Nominating Committee
+        subtitle: Dr Cheong Koon Hean<br>Chair, Nominating Committee
         description: <i><p style="font-family: Georgia, serif">"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</p></i>
         button: 
         url: 
