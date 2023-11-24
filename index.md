@@ -53,5 +53,5 @@ sections:
     - resources:
         title: Cities database
         subtitle: Deep delve
-        button: More from the Prize cities
+        button: Learn more from the Prize cities
 ---
