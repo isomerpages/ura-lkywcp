@@ -7,7 +7,7 @@ description: The results will be announced in March/April 2024. The Prize Laurea
 
 #### **Announcement**
 
-The results of the Lee Kuan Yew World City Prize 2024 will be announced at a media conference to be held in Singapore in March/April 2024. Watch this space!
+The results of the Lee Kuan Yew World City Prize 2024 will be announced at a media conference in Singapore in March/April 2024. Watch this space!
 
 #### **Prize Lecture**
 
