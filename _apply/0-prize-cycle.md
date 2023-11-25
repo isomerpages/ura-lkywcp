@@ -5,6 +5,10 @@ image: /images/2024-prize-cycle-extended.jpg
 description: Final extension of nominations to 14 July 2023!
 ---
 
+| Updated |
+|---:|
+| 25 November 2023 |
+
 ##### The nominations for the 2024 Prize are closed. The results will be announced in March/April 2024. Nominations for the 2026 Prize will open in June 2024 at the World Cities Summit. Watch this space! 
 
 ###### ![2024 Prize cycle](/images/2024-prize-cycle-extended.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile-extended.jpg/)**
