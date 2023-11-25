@@ -9,7 +9,7 @@ description: The results will be announced in March/April 2024. The Prize Laurea
 
 The results of the Lee Kuan Yew World City Prize 2024 will be announced at a media conference held in Singapore in March/April 2024. Watch this space!
 
-#### **Award**
+#### **Lecture & award**
 
 ###### ![Award presentation to Vienna the 2020 Prize Laureate by President Halimah Yacob](/images/features/2022/award-ceremony-8.jpg/)**Award presentation to Vienna – the 2020 Prize Laureate by President Halimah Yacob** © Urban Redevelopment Authority Singapore
 
