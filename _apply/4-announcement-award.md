@@ -17,7 +17,7 @@ The 2024 Prize Laureate and Special Mention(s) will be invited to share their ac
 
 Both events are key highlights of [World Cities Summit (WCS) 2024](https://www.worldcitiessummit.com.sg) - an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions and forge new partnerships. The next edition of WCS will be held from 2 - 5 June 2024 in Singapore.
 
-| Click [here](/resources/in-pictures/wcs2022/) to see the Prize events at WCS 2022. |
+Click [here](/resources/in-pictures/wcs2022/) to see the Prize events at WCS 2022.
 
 #### **Questions?**
 
