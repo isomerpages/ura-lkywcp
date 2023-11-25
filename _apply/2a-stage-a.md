@@ -3,8 +3,8 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/nominations/2024-stage-a.png
-description: Nominations closed
-
+description: Nominations for the Lee Kuan Yew World City Prize 2024 are closed
+published: false
 ---
 
 #### **Instructions** 
