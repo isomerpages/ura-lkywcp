@@ -9,7 +9,7 @@ description: All submissions are evaluated through a rigorous two-tier process c
 
 All submissions are evaluated through a rigorous two-tier process comprising the [Nominating Committee](/nominating-committee/) and [Prize Council](/prize-council/). Both panels consist of prominent practitioners, policy makers, academics and experts from a wide range of disciplines in the public and private sectors.
 
-#### **Judging criteria**
+#### **Evaluation criteria**
 
 The Prize looks at the holistic transformation of the city over a period of **<mark>at least 10 years</mark>**, and emphasises on the creation of liveable, vibrant and sustainable urban communities within a quality built environment that incorporates the principles of sustainable development.
 
@@ -24,7 +24,7 @@ All submissions are evaluated based on the following criteria:
 
 #### **Announcement & award**
 
-The results will be announced via a dedicated media conference held in Singapore. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture and Prize Forum respectively, key highlights of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
+The results will be announced via a dedicated media conference held in Singapore. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture, a key highlight of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
 
 #### **Questions?**
 
