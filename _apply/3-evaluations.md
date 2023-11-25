@@ -24,7 +24,7 @@ All submissions are evaluated based on the following criteria:
 
 #### **Announcement & award**
 
-The results will be announced via a dedicated media conference held in Singapore. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture, a key highlight of [World Cities Summit](https://www.worldcitiessummit.com.sg) in Singapore.
+The results will be announced at a media conference held in Singapore in March/April 2024. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the <mark>**Lee Kuan Yew World City Prize Lecture**</mark> on 3 June 2024, and receive their awards at the <mark>**Lee Kuan Yew World City Prize Award Ceremony & Banquet**</mark> on 3 June 2024 evening. Both events are key highlights of [World Cities Summit 2024](https://www.worldcitiessummit.com.sg) in Singapore.
 
 #### **Questions?**
 
