@@ -127,7 +127,7 @@ Please refer to the [glossary of terms](/glossary/) for a list of definitions.
 
 #### **When will the results be announced?**
 
-The results of the 2024 Prize will be announced in March 2024.
+The results of the 2024 Prize will be announced in March/April 2024.
 
 #### **Who will be invited to receive the award?**
 
