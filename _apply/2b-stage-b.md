@@ -3,7 +3,8 @@ title: Stage B
 permalink: /stage-b/
 third_nav_title: Nominations
 image: /images/nominations/2024-stage-b.png
-description: Please complete Stage A before proceeding. The Prize Secretariat will verify the Stage A nominations before informing the nominated cities via email to prepare for Stage B submission.
+description: Submissions for the Lee Kuan Yew World City Prize 2024 are closed. 
+published: false
 ---
 
 #### **Instructions**

@@ -34,7 +34,7 @@ Self-nominations (i.e. nominations made by the city administration for their own
 
 #### **How many nominations can a nominator make?**
 
-There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an [official nomination form](https://form.gov.sg/#!/62e4f365140cd3001168b367) and recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
+There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form[^1] and a recommendation letter signed by the nominator. The city must agree to be nominated and follow through the Stage B submissions.
 
 #### **Who can be nominated for the Prize?**
 
@@ -127,7 +127,7 @@ Please refer to the [glossary of terms](/glossary/) for a list of definitions.
 
 #### **When will the results be announced?**
 
-The results of the 2024 Prize will be announced in March 2024.
+The results of the 2024 Prize will be announced in March/April 2024.
 
 #### **Who will be invited to receive the award?**
 

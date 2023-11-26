@@ -26,7 +26,7 @@ sections:
         title: A global community of urban excellence
         subtitle: 
         description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
-        button: Find out more
+        button: Discover these cities
         url: /laureates/
         image: /images/worldmapdots.png/
         alt: World map
