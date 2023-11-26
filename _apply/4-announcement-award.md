@@ -1,15 +1,15 @@
 ---
-title: Announcement & award
+title: Award
 permalink: /award/
 image: /images/features/2022/award-ceremony-8.jpg
 description: The results will be announced in March/April 2024. The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture, a key highlights of World Cities Summit in Singapore.
 ---
 
-#### **Announcement**
+#### **Results of 2024 Prize**
 
 The results of the Lee Kuan Yew World City Prize 2024 will be announced at a media conference in Singapore in March/April 2024. Watch this space!
 
-#### **Prize Lecture**
+#### **Public forum – Prize Lecture**
 
 ###### ![Lee Kuan Yew World City Prize Lecture at World Cities Summit 2022](/images/features/2022/prize-lecture-4.jpg/)**Lee Kuan Yew World City Prize Lecture at World Cities Summit 2022** © World Cities Summit
 
