@@ -40,7 +40,7 @@ Unlike liveability rankings, the Prize looks at the holistic transformation of a
 
 Yes. As cities are continually growing and evolving, there is always opportunity for Special Mentions to be eligible for the Prize Laureate in future editions. In fact, Medellín and Vienna were recognised as Special Mentions in 2014 and 2016 and went on to become the 2016 and 2020 Prize Laureates respectively. 
 
-#### **What is the eligibility to apply for the Prize?**
+#### **Who is eligible to apply for the Prize?**
 
 From 2014 onwards, we have refined the guidelines to accept nominations for cities only, unlike the first two editions, where individuals and organisations were also eligible. Key leaders, organisations and partners in the development team will still be recognised in the nomination.
 
