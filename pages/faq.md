@@ -30,9 +30,7 @@ The evaluation is carried out through a rigorous two-tier process made up of bot
 
 The Nominating Committee thoroughly reviews all submitted nominations before making a shortlist of potential Laureates. These possibilities are examined further with the individual merits of each carefully considered. The Prize Council is presented with a final shortlist and selects the Laureate based on the recommendations.
 
-#### **What was the biggest challenge in the entire evaluation process?**
-
-With the many high-quality nominations from cities worldwide, the greatest challenge was how to evaluate them across the board. For that, we have distilled a set of fundamental principles, including the impact of the urban initiatives implemented, the sustainability of the achieved outcomes, the practical purpose and levels of innovation that were demonstrated.  
+With the many high-quality nominations from cities worldwide, the greatest challenge is how to evaluate them across the board. For that, we have distilled a set of fundamental principles, including the impact of the urban initiatives implemented, the sustainability of the achieved outcomes, the practical purpose and levels of innovation that were demonstrated.  
 
 #### **How does the Prize differ from the quality of life rankings?**
 
