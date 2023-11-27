@@ -22,7 +22,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 #### **Who is Lee Kuan Yew?**
 
-Lee Kuan Yew (1923–2015) was the first Prime Minister of Singapore, serving from 1959 to 1990. He played a crucial role in transforming Singapore from a developing nation into a prosperous and modern city-state. He has implemented pragmatic economic policies, emphasising education and meritocracy. His leadership fostered political stability, economic growth, and social cohesion. He is widely credited for Singapore's remarkable development and is recognised as a visionary leader.
+Lee Kuan Yew (1923–2015) was the first Prime Minister of Singapore, serving from 1959 to 1990. He played a crucial role in transforming Singapore from a developing nation into a prosperous and modern city-state. He has implemented pragmatic economic policies, emphasising education and meritocracy. His leadership fostered political stability, economic growth, and social cohesion. He is widely credited for Singapore's remarkable development and is recognised as a visionary leader. 
 
 #### **How is the process of evaluation carried out?**
 
