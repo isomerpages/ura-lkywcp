@@ -80,17 +80,7 @@ The nominated city (i.e. city government and/or key partner organisation appoint
 
 #### **What do I need to submit for Stage B?**
 
-The nominated city will be informed via email to prepare and submit a detailed report using the [official report template](/stage-b/#stage-b-templates). This report comprises the following:
-
-- Key statistics comparing the city today and 10-20 years ago
-- Background of the city
-- Explanation of the city’s overall master plan or strategy
-- A selection of three (3) key projects covering different aspects to demonstrate the success in implementing the master plan or strategy
-- Key visuals (photos, diagrams, charts, etc.)
-- 2-5 reference letters written and signed by independent third parties 
-- Optional supporting documents such as city reports, media reports, accolades, etc.
-
-Cities should note that this report may require some time and resources to complete. An incomplete report may render the submission invalid. For more information, please click [here](/stage-b).
+The nominated city will be informed via email to prepare and submit a detailed report using the official report template[^2]. 
 
 #### **Can the city submit additional non-English materials?**
 
@@ -150,3 +140,4 @@ For other enquiries, please [contact us](/feedback/).
 ---
 
 [^1]: The link will be live during the Call for Nominations period.
+[^2]: The templates will be published during the Call for Nominations period.
