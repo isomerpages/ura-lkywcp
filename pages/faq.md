@@ -34,7 +34,9 @@ With the many high-quality nominations from cities worldwide, the greatest chall
 
 #### **How does the Prize differ from the quality of life rankings?**
 
-Unlike liveability rankings, the Prize looks at the holistic transformation of a city over at least a decade, and is currently the only international award for cities that does so. There are four key aspects that the Prize looks into when assessing the nominations, namely: liveability, vibrancy, sustainability and a high quality of life. Beyond just liveability, nominations are rigorously evaluated based on demonstration of strong leadership and governance, creativity and innovation in the overall master plan or master strategy, good and replicable urban practices, as well as the long-term sustainability and impact of implementation. These are the elements that are missing from liveability surveys and rankings.
+Unlike liveability rankings, the Prize looks at the holistic transformation of a city over at least a decade, and is currently the only international award for cities that does so. There are four key aspects that the Prize looks into when assessing the nominations, namely: liveability, vibrancy, sustainability and a high quality of life. 
+
+Beyond just liveability, nominations are rigorously evaluated based on demonstration of strong leadership and governance, creativity and innovation in the overall master plan or master strategy, good and replicable urban practices, as well as the long-term sustainability and impact of implementation. These are the elements that are missing from liveability surveys and rankings.
 
 #### **Could Special Mentions be eligible to be a future Prize Laureate?**
 
