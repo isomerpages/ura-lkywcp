@@ -11,12 +11,46 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 #### **Sections**
 
+- [About the Prize](#about-the-prize)
 - [Stage A nominations](#stage-a-nominations)
 - [Stage B submissions](#stage-b-submissions)
 - [Announcement and award](#announcement-and-award)
 
 ---
 
+# **About the Prize**
+
+#### **Who is Lee Kuan Yew?**
+
+Lee Kuan Yew (1923–2015) was the first Prime Minister of Singapore, serving from 1959 to 1990. He played a crucial role in transforming Singapore from a developing nation into a prosperous and modern city-state. He implemented pragmatic economic policies, emphasising education and meritocracy. His leadership fostered political stability, economic growth, and social cohesion. He is widely credited for Singapore's remarkable development and is recognised as a visionary leader.
+
+#### **How is the process of evaluation carried out?**
+
+The evaluation is carried out through a rigorous two-tier process made up of both the Prize Council and Nominating Committee. The jury panels are composed of renowned professionals and experts in the fields of urban governance and planning, architecture, etc.
+
+The Nominating Committee thoroughly reviews all submitted nominations before making a shortlist of potential Laureates. These possibilities are examined further with the individual merits of each carefully considered. The Prize Council is presented with a final shortlist and selects the Laureate based on the recommendations.
+
+#### **What was the biggest challenge in the entire evaluation process?**
+
+With the many high-quality nominations from cities worldwide, the greatest challenge was how to evaluate them across the board. For that, we have distilled a set of fundamental principles, including the impact of the urban initiatives implemented, the sustainability of the achieved outcomes, the practical purpose and levels of innovation that were demonstrated.  
+
+#### **How does the Prize differ from the quality of life rankings?**
+
+Unlike liveability rankings, the Prize looks at the holistic transformation of a city over at least a decade, and is currently the only international award for cities that does so. There are four key aspects that the Prize looks into when assessing the nominations, namely: liveability, vibrancy, sustainability and a high quality of life. Beyond just liveability, nominations are rigorously evaluated based on demonstration of strong leadership and governance, creativity and innovation in the overall master plan or master strategy, good and replicable urban practices, as well as the long-term sustainability and impact of implementation. These are the elements that are missing from liveability surveys and rankings.
+
+#### **Could Special Mentions be eligible to be a future Prize Laureate?**
+
+Yes. As cities are continually growing and evolving, there is always opportunity for Special Mentions to be eligible for the Prize Laureate in future editions. In fact, Medellín and Vienna were recognised as Special Mentions in 2014 and 2016 and went on to become the 2016 and 2020 Prize Laureates respectively. 
+
+#### **What is the eligibility to apply for the Prize?**
+
+From 2014 onwards, we have refined the guidelines to accept nominations for cities only, unlike the first two editions, where individuals and organisations were also eligible. Key leaders, organisations and partners in the development team will still be recognised in the nomination.
+
+This approach seeks to highlight how successful cities require strong cooperation and collaboration across various sectors and levels to achieve positive outcomes.
+
+[Back to top](#sections)
+
+---
 # **Stage A nominations**
 
 #### **Who is eligible to nominate?**
