@@ -51,6 +51,7 @@ This approach seeks to highlight how successful cities require strong cooperatio
 [Back to top](#sections)
 
 ---
+
 # **Stage A nominations**
 
 #### **Who is eligible to nominate?**
