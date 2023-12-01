@@ -27,5 +27,5 @@ contacts:
     content:
     - phone: 
     - email: 
-    - other: <a href="https://www.linkedin.com/in/leekuanyewworldcityprize/"><u>LinkedIn</u></a>
+    - other: <a href="https://www.linkedin.com/in/worldcityprize/"><u>LinkedIn</u></a>
 ---
