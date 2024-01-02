@@ -29,7 +29,7 @@ Suzhou’s city planners consciously decided to steer the city towards sectors a
 
 “Not only has this made the city cleaner, it has also elevated the value of Suzhou’s economy. The city’s planners were very aware of the interconnectivity between enterprise, the economy and the environment,” Xu adds.
 
-Indeed, the city’s focus on innovative, high-value and service-oriented businesses has attracted much foreign investment. Many of the latter are housed in Suzhou’s four economic development zones, which offer [incentives for domestic and foreign companies](http://www.suzhou.gov.cn/zgszeng/investmentguide/investment8environment/economic8data/201111/t20111103). In addition, a new central business district was built in order to preserve historical buildings and other points of interest.
+Indeed, the city’s focus on innovative, high-value and service-oriented businesses has attracted much foreign investment. Many of the latter are housed in Suzhou’s four economic development zones, which offer incentives for domestic and foreign companies. In addition, a new central business district was built in order to preserve historical buildings and other points of interest.
 
 <br>
 > ##### “Suzhou’s leaders took a holistic approach and sought to achieve the triple goals of economic and social progress, as well as the preservation of its significant historical heritage.”
