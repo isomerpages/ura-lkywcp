@@ -59,7 +59,7 @@ More importantly, the district’s business owners and other users also formed a
 
 #### **Collaborating with citizens** 
 
-Beyond its partnerships with the private sector, the government has also reached out to residents and worked with them to boost the city’s liveability, sustainability, infrastructure and services. One of these collaborative initiatives is the Umi-no-Mori, or Sea Forest, a project to turn a garbage dump in Tokyo Bay into a beautiful area of [seaside groves and forests](http://www.kouwan.metro.tokyo.jp/kanko/uminomorileaflet2016en.pdf). It is slated to be opened to the public sometime after 2020. 
+Beyond its partnerships with the private sector, the government has also reached out to residents and worked with them to boost the city’s liveability, sustainability, infrastructure and services. One of these collaborative initiatives is the Umi-no-Mori, or Sea Forest, a project to turn a garbage dump in Tokyo Bay into a beautiful area of seaside groves and forests. It is slated to be opened to the public sometime after 2020. 
 
 Between 2007 and 2011, the government helmed a fund-raising campaign to offset the project’s cost, achieving its target of crowdsourcing $500 million yen (approximately US$4.4 million) from the public. Since 2008, it has also organised opportunities for residents to donate tree seedlings, plant them in the site and care for them as they grow. Through such participation, the citizens have learned how to better care for the environment and nature, not just in the area but throughout Tokyo. 
 
