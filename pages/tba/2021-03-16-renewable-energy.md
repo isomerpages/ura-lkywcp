@@ -3,6 +3,7 @@ title: Renewables on the rise
 permalink: /resources/features/renewable-energy/
 image: /images/features/2021/renewable-energy.png
 description: More cities are embracing renewable energy to reduce their greenhouse gas emissions, and some are even reaching for a loftier goal — operating entirely, or almost entirely, on clean electricity. We look at how some progressive cities are leaving fossil fuels behind to become sustainable cities.
+published: false
 ---
 
 | Writer |
