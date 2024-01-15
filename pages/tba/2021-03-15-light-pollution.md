@@ -3,6 +3,7 @@ title: Going dark for a brighter future
 permalink: /resources/features/light-pollution/
 image: /images/features/2021/bright-lights.jpg
 description: Light pollution from excessive lighting has become so pervasive that it is disrupting the natural world, and may have long-term consequences for human well-being, including food security. To curb its impact and reap energy savings to limit climate change, more cities are acting against wasteful lighting.
+published: false
 ---
 
 | Writer |
