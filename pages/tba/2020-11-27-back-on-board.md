@@ -3,6 +3,7 @@ title: Back on board — reviving public transit
 permalink: /resources/features/back-on-board/
 image: /images/features/2020/covid-transport.jpg
 description: Cities are experiencing steep declines in public transport ridership due to COVID-19 lockdowns and social distancing measures. In this fourth and final article in a series examining cities’ responses to the pandemic, we look at ways they are transforming public transit for the crisis and beyond.
+published: false
 ---
 
 | Author |
