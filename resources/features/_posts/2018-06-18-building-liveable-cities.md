@@ -15,7 +15,7 @@ description: With increasing urban population, more cities will be challenged to
 
 ###### ![Hamburg’s inner city densification](/images/features/2018/hamburg-neighbourhood.jpg/)**Hamburg’s inner city densification strategy led to a more diversified neighbourhood** © Thomas Hampel/ EBBE&FLUT
 
-By 2050, about 6.7 billion people will live in cities, up from 4.2 billion people now, according to the latest world urbanisation report by the United Nations (UN). In fact, [one in eight people already lives in a megacity with more than 10 million inhabitants](https://esa.un.org/unpd/wup/).
+By 2050, about 6.7 billion people will live in cities, up from 4.2 billion people now, according to the latest world urbanisation report by the United Nations (UN). In fact, one in eight people already lives in a megacity with more than 10 million inhabitants.
 
 “Many countries will face challenges in meeting the needs of their growing urban populations, including for housing, transportation, energy systems and other infrastructure […] To ensure that the benefits of urbanisation are fully shared and inclusive, policies to manage urban growth need to ensure access to infrastructure and social services for all,” said the UN.
 
@@ -36,7 +36,7 @@ In 1997, the government presented a plan to build a new city centre district on 
 
 Beyond the scope of the project, the planners of HafenCity have been lauded for their policies to ensure that the district is sustainable, vibrant and socially equitable. For example, its buildings are being constructed at 7.5 metres to 8 metres above the mean sea level to prepare for climate change and higher flooding risks.
 
-The buildings’ ground floors are also mandated to be five metre-high to accommodate not only retailers but also exhibition areas, museums, theatres, cinemas, schools and universities. “Building plots are not sold to the highest bidder. Prices are fixed… and the most convincing concept wins,” Ms Susanne Bühler, the project’s communications director, [told The Financial Times](https://www.ft.com/content/5dc98988-bb35-11e3-948c-00144feabdc0).
+The buildings’ ground floors are also mandated to be five metre-high to accommodate not only retailers but also exhibition areas, museums, theatres, cinemas, schools and universities. “Building plots are not sold to the highest bidder. Prices are fixed… and the most convincing concept wins,” Ms Susanne Bühler, the project’s communications director, told The Financial Times.
 
 Furthermore, [one-third of HafenCity’s homes will be subsidised housing](https://www.nytimes.com/2011/11/18/business/global/a-bold-plan-long-thought-out-to-remake-hamburg.html). This is in keeping with the [government’s policy](https://www.clc.gov.sg/docs/default-source/urban-solutions/urb-sol-iss-9-pdfs/viewpoint-olaf-scholz.pdf?sfvrsn=fad88b6f_2) that housing on state-owned land consists of one-third social housing, one-third rental apartments and one-third privately-funded housing.
 
