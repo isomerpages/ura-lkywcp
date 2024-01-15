@@ -3,6 +3,7 @@ title: 10 ways cities can cut their emissions
 permalink: /resources/features/curbing-carbon/
 image: /images/features/2020/curbing-carbon.jpg
 description: With the United Nations warning that the world has just one decade left to avert catastrophic climate change, more cities are taking aim at their greenhouse gas emissions. From energy efficiency grades and limits for buildings to cooling systems that harness seawater and innovative loans for sustainability projects, these are 10 ways that cities have curtailed their emissions.
+published: false
 ---
 
 | Writer |
