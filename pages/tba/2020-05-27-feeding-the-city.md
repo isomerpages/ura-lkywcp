@@ -3,6 +3,7 @@ title: Feeding the city – the growth of urban agriculture
 permalink: /resources/features/feeding-the-city/
 image: /images/features/2020/feeding-the-city.jpg
 description: Cities can provide significant amounts of vegetables and other crops to help feed the world as its population grows, according to a recent study. Many cities are already building rooftop farms, converting greenery into vegetable plots and encouraging residents to become part-time farmers through a variety of means.
+published: false
 ---
 
 | Writer |
