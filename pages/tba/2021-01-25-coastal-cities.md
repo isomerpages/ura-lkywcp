@@ -3,6 +3,7 @@ title: Turning the tide for coastal cities
 permalink: /resources/features/coastal-cities/
 image: /images/features/2021/turning-the-tide.jpg
 description: With sea levels rising across the world, coastal cities at risk of going under are fighting back with adaptive measures to protect lives, land and infrastructure. We take a look at how some forward-looking cities are holding the water at bay and making plans for safe relocations when necessary.
+published: false
 ---
 
 | Writer |
