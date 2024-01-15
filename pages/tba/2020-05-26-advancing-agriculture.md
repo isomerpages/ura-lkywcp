@@ -3,6 +3,7 @@ title: 10 cities that promote urban farming
 permalink: /resources/features/advancing-agriculture/
 image: /images/features/2020/advancing-agriculture.jpg
 description: By setting up urban farms, cities can reduce the emissions involved in transporting food, increase their greenery, slow stormwater runoff to avert floods and become more resilient. From subsidising rooftop farms to creating one-stop centres for free supplies, these are 10 ways that cities are supporting urban agriculture.
+published: false
 ---
 
 | Writer |
