@@ -3,6 +3,7 @@ title: 10 ways drones are reshaping cities
 permalink: /resources/features/making-most-out-of-airspace/
 image: /images/features/2020/making-most-out-of-airspace.jpg
 description: More cities are taking to drones and other unmanned aircraft to boost their emergency services, fight crime and achieve other goals. These are 10 examples of how cities are tapping the aerial technologies and ensuring their proper use.
+published: false
 ---
 
 | Author |
