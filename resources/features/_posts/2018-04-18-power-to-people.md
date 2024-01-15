@@ -15,7 +15,7 @@ description: Seoul, the 2018 Prize Laureate, is today a vibrant and inclusive ci
 
 ###### ![A citizen engagement session in Seoul](/images/features/2018/seoul-citizen-engagement.jpg/)**A citizen engagement session in Seoul** © Seoul Metropolitan Government
 
-By 2050, about two in three people will live in cities across the world, making citizen engagement in the urban planning process [more important than ever](http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html). Without citizens’ support and help, city development projects could be stymied, run into difficulties, or fail to meet their needs.
+By 2050, about two in three people will live in cities across the world, making citizen engagement in the urban planning process more important than ever. Without citizens’ support and help, city development projects could be stymied, run into difficulties, or fail to meet their needs.
 
 “Furthermore, when residents are involved in proposing and developing ideas for their cities, they tend to come up with good ideas because they are the ones witnessing the problems and solutions in their daily lives,” said the late Park Won-Soon, the former Mayor of Seoul in South Korea, in an interview with Singapore’s Urban Redevelopment Authority in March 2018.
 
@@ -32,13 +32,13 @@ Seoul’s commitment to and success in citizen engagement is one of the reasons 
 
 The drafting of the Seoul Plan 2030, which sets the Seoul Metropolitan Government’s direction and priorities for the next 15 years, was an exemplar of how governments and citizens can work together to improve urban planning.
 
-In the past, the city’s master plans had been developed by experts and bureaucrats, with little input from the citizens themselves. This led to several problems, including the plans’ inadequacy in dealing with social issues such as the rise of single-person households, social polarisation and worsening gender inequality, said researchers at the Seoul Institute, which is the Seoul Metropolitan Government’s official think-tank, in a [2017 report on the role of governance in Seoul’s urban transformation](http://global.si.re.kr/content/role-governance-urban-transformation-seoul).
+In the past, the city’s master plans had been developed by experts and bureaucrats, with little input from the citizens themselves. This led to several problems, including the plans’ inadequacy in dealing with social issues such as the rise of single-person households, social polarisation and worsening gender inequality, said researchers at the Seoul Institute, which is the Seoul Metropolitan Government’s official think-tank, in a 2017 report on the role of governance in Seoul’s urban transformation.
 
 “I wanted our citizens to be more involved, to be at the heart of the planning process, because I believe in collective wisdom and intelligence. I think citizens know what works for them in their daily lives, whether it is in the design of streets or composition of retail outlets,” said Mr Park.
 
 Under his direction, the Seoul Metropolitan Government convened a 100-member Citizen Participatory Group, comprising people of all ages and from all walks of life, to help draft the 2030 master plan. This group, together with city officials, planning experts and local politicians, conducted numerous roundtable discussions to chart the future of Seoul, identify challenges on the horizon and propose solutions.
 
-The previous, 2020 Seoul Master Plan spanned 687 pages and included 12 subsidiary plans with 52 objectives in total. “Its scope was so broad and the content so technical that it was difficult for citizens to read and understand,” the Seoul Metropolitan Government noted on its website in [a post-mortem of the plan](https://www.seoulsolution.kr/en/content/2030-seoul-plan).
+The previous, 2020 Seoul Master Plan spanned 687 pages and included 12 subsidiary plans with 52 objectives in total. “Its scope was so broad and the content so technical that it was difficult for citizens to read and understand,” the Seoul Metropolitan Government noted on its website in a post-mortem of the plan.
 
 In contrast, the 2030 plan is much more concise and readable: in about 200 pages, the document lays out five key issues in Seoul’s future, 17 goals and 58 strategies to achieve them. It also gives voice to issues concerning welfare, education, culture, the environment and other non-physical aspects of the city, which had been neglected in the previous master plans.
 
@@ -70,7 +70,7 @@ In the neighbourhood of Seokgwan-dong, the residents of the Seokgwan Doosan Apar
 
 #### **Creating a harmonious society**
 
-As cities grow and more people move into them, land use decisions and development projects can become more fraught and prone to conflict. Here, too, the Seoul Metropolitan Government under then-Mayor Park has pioneered innovative processes and solutions to prevent and resolve disagreements. In 2012, the government established a Conflict Mediation Division with the goal of averting and managing public conflicts. It has also published a [White Paper on Conflict Management](http://english.seoul.go.kr/wp-content/uploads/2015/10/White-Paper-on-Conflict-Management-of-Seoul.pdf) on its website.
+As cities grow and more people move into them, land use decisions and development projects can become more fraught and prone to conflict. Here, too, the Seoul Metropolitan Government under then-Mayor Park has pioneered innovative processes and solutions to prevent and resolve disagreements. In 2012, the government established a Conflict Mediation Division with the goal of averting and managing public conflicts. It has also published a White Paper on Conflict Management on its website.
 
 Then-Mayor Park, who worked as a human rights lawyer and founded a non-profit organisation aimed at promoting participatory democracy and securing human rights in South Korea before being elected mayor, explained: “In a democratic society, the freedom of expression is very important. If there are complaints, we should be brave and embrace them, and have deep discussions so that we can come to harmonious conclusions with residents.”
 

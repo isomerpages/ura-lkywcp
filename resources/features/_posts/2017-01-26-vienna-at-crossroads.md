@@ -38,7 +38,7 @@ Kling also observed that “nature is coming back” at more remote sections of 
 
 #### **Vienna’s environmental journey**
 
-Vienna has long been known as a city of culture that cherishes its heritage; recognising this, [UNESCO inscribed its historic centre as a World Heritage Site in 2001](https://whc.unesco.org/en/list/1033/) for its 'urban and architectural qualities' that illustrate key periods of European cultural development and for being 'the musical capital of Europe'.
+Vienna has long been known as a city of culture that cherishes its heritage; recognising this, UNESCO inscribed its historic centre as a World Heritage Site in 2001 for its 'urban and architectural qualities' that illustrate key periods of European cultural development and for being 'the musical capital of Europe'.
 
 At the same time, the city has also set its sights on environmental leadership and has made considerable progress in this goal. Vienna has set aside 50 percent of municipal land as green spaces, 35 percent as protection zones and 15 percent for species protection. The city has also reduced annual CO2 emissions by as much as 130,000 tonnes through an integrated waste management system that promotes recycling, waste separation and the generation of district heat from waste incineration.
 

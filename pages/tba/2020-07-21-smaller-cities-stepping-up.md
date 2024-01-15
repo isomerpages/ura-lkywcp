@@ -3,6 +3,7 @@ title: 10 ways smaller cities are stepping up
 permalink: /resources/features/smaller-cities-stepping-up/
 image: /images/features/2020/smaller-cities.jpg
 description: More secondary cities are taking the initiative to attract new residents and businesses, either by themselves or with the help of their national governments. From free land for newcomers to support in finding jobs, housing and schools, these are 10 ways that the cities are stepping up to the plate.
+published: false
 ---
 
 | Author |

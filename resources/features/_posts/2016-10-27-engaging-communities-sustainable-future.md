@@ -15,7 +15,7 @@ description: When Sydney began crafting its master plan for a sustainable future
 
 ###### ![Sydney Harbour](/images/features/2016/sydney-harbour.jpg/)**Sydney Harbour**
 
-In 2007, the city of Sydney launched its blueprint, [Sustainable Sydney 2030](https://www.cityofsydney.nsw.gov.au/sustainable-sydney-2030), to guide its development over the next two decades. Like other urban development blueprints, it maps out a clear vision of where the city wants to be by 2030, with measurable, aspirational goals in areas from environmental management to cultural capital and social equity. What makes Sydney’s blueprint remarkable, however, is how the plan was produced.
+In 2007, the city of Sydney launched its blueprint, Sustainable Sydney 2030, to guide its development over the next two decades. Like other urban development blueprints, it maps out a clear vision of where the city wants to be by 2030, with measurable, aspirational goals in areas from environmental management to cultural capital and social equity. What makes Sydney’s blueprint remarkable, however, is how the plan was produced.
 
 Louise Kerr, Executive Manager Development for the city of Sydney, is one of the key persons driving the formulation of the blueprint then. “Back then, when we embarked on the consultation in the lay-up to Sustainable Sydney 2030, housing affordability was a big issue. There were other concerns too – traffic congestion, remaining competitive as a global city, ageing infrastructure, a growing underclass whose voices were not being heard in the city, and people being displaced because of gentrification,” she recalls.
 

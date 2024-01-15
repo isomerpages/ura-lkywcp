@@ -3,6 +3,7 @@ title: Planting the seeds for inclusive parks
 permalink: /resources/features/inclusive-parks/
 image: /images/features/2020/covid-parks.jpg
 description: COVID-19 has exposed inequalities in cities' provision of parks, even as green spaces become more important to provide cooling and other benefits in an era of climate change. To promote fairer access to parks, some cities have revamped park funding and introduced other innovations.
+published: false
 ---
 
 | Author |

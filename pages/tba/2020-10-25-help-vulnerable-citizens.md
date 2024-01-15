@@ -3,7 +3,7 @@ title: 10 ways cities can help vulnerable citizens
 permalink: /resources/features/help-vulnerable-citizens-covid19/
 image: /images/features/2020/help-vulnerable-citizens.jpg
 description: While the COVID-19 pandemic has disrupted cities worldwide, its impact has not been uniform. These are some ways that cities are helping their more vulnerable citizens, including seniors who live alone, people with disabilities, homeless residents and lower-income families.
-
+published: false
 ---
 
 | Author |

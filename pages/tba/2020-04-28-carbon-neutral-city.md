@@ -3,6 +3,7 @@ title: Crafting a carbon-neutral city
 permalink: /resources/features/carbon-neutral-city/
 image: /images/features/2020/carbon-neutral.jpg
 description: To curtail climate change and its negative impact, more than 100 cities have pledged to achieve net zero greenhouse gas emissions by 2050 or earlier. The targets emissions from buildings, transport systems and energy sources. Here’s a look at how cities are shrinking their environmental footprint through tried-and-tested and novel initiatives.
+published: false
 ---
 
 | Writer |

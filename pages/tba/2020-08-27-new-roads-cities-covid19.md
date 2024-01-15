@@ -3,6 +3,7 @@ title: New roads for cities post-COVID-19
 permalink: /resources/features/new-roads-cities-covid19/
 image: /images/features/2020/milan-cycling.jpg
 description: As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this first in a series of articles, we look at how cities are repurposing streets to make room for businesses, cyclists and pedestrians, transform travel and reinvent neighbourhoods.
+published: false
 ---
 
 | Author |

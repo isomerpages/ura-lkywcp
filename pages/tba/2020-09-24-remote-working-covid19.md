@@ -3,6 +3,7 @@ title: Renewing cities with remote working
 permalink: /resources/features/remote-working-covid19/
 image: /images/features/2020/remote-working.jpg
 description: As cities adapt to life in the COVID-19 era, many are seizing the moment to implement consequential changes for a more resilient, sustainable and healthier future. In this second in a series of articles, we look at how city centres and suburbs could evolve as more companies embrace digitalisation and remote working.
+published: false
 ---
 
 | Author |

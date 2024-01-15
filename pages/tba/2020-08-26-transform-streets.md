@@ -3,6 +3,7 @@ title: 10 cities that are transforming their streets
 permalink: /resources/features/transform-streets-covid19/
 image: /images/features/2020/transform-streets.jpg
 description: As cities repurpose streets to meet COVID-19 demands and beyond, several of them have introduced additional initiatives to support the shift in road use, such as subsidies for bicycles and bike repairs, dramatic reductions in speed limits to protect pedestrians, and more.
+published: false
 ---
 
 | Author |

@@ -3,6 +3,7 @@ title: Breaking new ground — reinventing underground spaces
 permalink: /resources/features/breaking-new-ground/
 image: /images/features/2020/underground.jpg
 description: From Singapore to Bangkok to Paris, cities are making more and better use of their subterranean spaces beyond the conventional laying of utility pipes and railway lines. By excavating caverns for public facilities, and reinventing existing underground spaces, cities can create new room for growth and improve residents’ quality of life.
+published: false
 ---
 
 | Writer |

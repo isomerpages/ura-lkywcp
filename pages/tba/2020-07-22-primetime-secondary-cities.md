@@ -3,6 +3,7 @@ title: Primetime for secondary cities
 permalink: /resources/features/primetime-secondary-cities/
 image: /images/features/2020/secondary-cities.jpg
 description: Smaller cities known as secondary cities are increasingly stepping into the limelight and partnering with one another and larger cities to boost their development, as nations seek to reduce the population pressure on their major cities and add new economic growth engines.
+published: false
 ---
 
 | Author |

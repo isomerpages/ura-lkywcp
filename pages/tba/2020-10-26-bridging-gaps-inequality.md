@@ -3,6 +3,7 @@ title: Bridging the gaps of inequality
 permalink: /resources/features/bridging-gaps-inequality-covid19/
 image: /images/features/2020/covid-homeless.jpg
 description: More cities are taking steps to address inequalities exposed and deepened by the COVID-19 crisis. In this third in a series of articles examining how cities are planning for a more sustainable and equitable recovery, we look at initiatives to boost affordable housing, help low-wage workers and improve poorer neighbourhoods.
+published: false
 ---
 
 | Author |

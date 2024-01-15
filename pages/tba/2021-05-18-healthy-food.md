@@ -3,6 +3,7 @@ title: Nurturing nutrition in the city
 permalink: /resources/features/nurturing-nutrition/
 image: /images/features/2021/infographic-fresh-food.png
 description: Cities are facing slowing progress on food security and nutrition, with the COVID-19 pandemic putting a balanced diet out of reach for many. To put healthy meals on people’s plates and build a stronger future, cities are expanding accessibility to fresh foods and their affordability.
+published: false
 ---
 
 | Writer |
