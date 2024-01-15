@@ -21,7 +21,7 @@ China’s economic success, which sprung from its vast industrial base and high 
 
 “Suzhou has always been one of China’s most beautiful cities. It could have been destroyed by modernisation and industrialisation,” says Professor Kishore Mahbubani, then-Chairman of the Prize Nominating Committee. “Instead, Suzhou’s leaders took a holistic approach and sought to achieve the triple goals of economic and social progress, as well as the preservation of its significant historical heritage.”
 
-Balancing the needs of a growing city with cultural and environmental considerations was an integral part of Suzhou’s 1996–2010 master plan, which was [outlined in the early 1990s](http://www.jchs.harvard.edu/sites/jchs.harvard.edu/files/di_w00-4.pdf). During the development stage of the plan, the city’s leaders were keenly aware of the social and environmental pressures caused by rapid economic growth. At that time, China’s GDP was growing at a rate of around 10 percent annually, fuelled by heavy industry and a throng of low value-chain businesses.
+Balancing the needs of a growing city with cultural and environmental considerations was an integral part of Suzhou’s 1996–2010 master plan, which was outlined in the early 1990s. During the development stage of the plan, the city’s leaders were keenly aware of the social and environmental pressures caused by rapid economic growth. At that time, China’s GDP was growing at a rate of around 10 percent annually, fuelled by heavy industry and a throng of low value-chain businesses.
 
 Suzhou’s city planners consciously decided to steer the city towards sectors and industries that were less damaging to the environment and that were higher in the value chain.
 
