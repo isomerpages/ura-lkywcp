@@ -3,6 +3,7 @@ title: Child in the city
 permalink: /resources/features/child-in-the-city/
 image: /images/features/2020/child-city.jpg
 description: Nearly one in three people living in cities and towns today is a child. To create more child-friendly cities and encourage civic participation from a young age, governments are experimenting ways to engage them, while making their cities more inclusive which will also benefit other vulnerable groups.
+published: false
 ---
 
 | Writer |
