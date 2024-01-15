@@ -3,6 +3,7 @@ title: From trash to table
 permalink: /resources/features/food-waste/
 image: /images/features/2021/infographic-food-waste.png
 description: Nearly one billion tonnes of food go to waste each year, even as one in ten people suffer from hunger. More cities are taking a stand by banning supermarkets from throwing away food, incentivising donations, building infrastructure to help strangers share food and implementing other actions to prevent wastage.
+published: false
 ---
 
 | Writer |
