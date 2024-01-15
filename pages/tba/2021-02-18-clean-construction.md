@@ -3,6 +3,7 @@ title: Cleaning up construction
 permalink: /resources/features/clean-construction/
 image: /images/features/2021/clean-construction.jpg
 description: By targeting pollutive construction, cities can eliminate a significant portion of their greenhouse gas emissions and clear their path to a more sustainable future. These are some of the cities leading the way through measures such as mandating zero-emissions construction sites, developing low-carbon materials and 3D-printing buildings.
+published: false
 ---
 
 | Writer |
