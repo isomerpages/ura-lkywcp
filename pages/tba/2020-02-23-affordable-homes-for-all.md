@@ -3,6 +3,7 @@ title: Affordable homes for all
 permalink: /resources/features/affordable-homes-for-all/
 image: /images/features/2020/housing-green.jpg
 description: Cities from Sydney to Los Angeles are grappling with soaring home prices and a growing lack of affordable accommodation for residents. From novel ways to adapt residential estates to self-sustaining financing models, these are some examples of new infrastructural and legislative ideas.
+published: false
 ---
 
 | Writer |
