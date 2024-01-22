@@ -78,4 +78,3 @@ It is noted that key challenges remain, particularly the shortage of social hous
 | [Medellín — reaching high and moving up](/resources/features/reaching-high-moving-up/) |
 | [Medellín — safe, smart and connected](/resources/features/safe-smart-connected/) |
 | [Medellín — a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) |
-| [Post-pandemic cities — how will they shape up?](/resources/features/post-pandemic-cities/) |
