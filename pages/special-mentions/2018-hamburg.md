@@ -13,7 +13,7 @@ description: Hamburg is recognised as an extraordinary port city that overcame p
 
 #### **HafenCity**
 
-The new [**<mark>HafenCity</mark>**](https://www.hafencity.com/en) is an excellent demonstration of this strategy. The former underused harbour and industrial space located next to the historical Speicherstadt warehouse district has been transformed from a dilapidated area into a dynamic mix-use district of urban housing, workplaces and recreation areas. Recognising that built heritage is an important aspect that adds to the quality of life in an ever-changing environment, the city placed great emphasis on the urban design of the new district to relate to the old city, and to align vistas with the spires of the old churches while also sensitively providing protection against flooding and rising waters. 
+The new **<mark>HafenCity</mark>** is an excellent demonstration of this strategy. The former underused harbour and industrial space located next to the historical Speicherstadt warehouse district has been transformed from a dilapidated area into a dynamic mix-use district of urban housing, workplaces and recreation areas. Recognising that built heritage is an important aspect that adds to the quality of life in an ever-changing environment, the city placed great emphasis on the urban design of the new district to relate to the old city, and to align vistas with the spires of the old churches while also sensitively providing protection against flooding and rising waters. 
 
 #### **Providing affordable housing**
 

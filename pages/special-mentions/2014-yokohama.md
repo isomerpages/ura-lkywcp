@@ -21,7 +21,7 @@ Yokohama is also an inspiring model for **<mark>waste reduction</mark>**. A rema
 
 #### **Smart technologies for future challenges**
 
-The city is also a leader in partnering the industry to develop smart technologies to address its future challenges. Smart energy management systems are experimented in existing houses, buildings and factories and new mobility systems such as compact electric vehicles are piloted in Minato Mirai 21. Through [**<mark>Y-PORT</mark>**](https://yport.city.yokohama.lg.jp/en), the city’s international technical cooperation programme, Yokohama cleverly marries economic growth and international contribution by tying up with local businesses to export urban solutions to emerging cities. Yokohama’s outstanding collaboration with its citizens and stakeholders is an exemplary model for cities around the world. **<font color="#967942">O</font>**
+The city is also a leader in partnering the industry to develop smart technologies to address its future challenges. Smart energy management systems are experimented in existing houses, buildings and factories and new mobility systems such as compact electric vehicles are piloted in Minato Mirai 21. Through **<mark>Y-PORT</mark>**, the city’s international technical cooperation programme, Yokohama cleverly marries economic growth and international contribution by tying up with local businesses to export urban solutions to emerging cities. Yokohama’s outstanding collaboration with its citizens and stakeholders is an exemplary model for cities around the world. **<font color="#967942">O</font>**
 
 ---
 
