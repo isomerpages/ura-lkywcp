@@ -21,8 +21,8 @@ description: Under its overall strategy to encourage active living, reduce carbo
 ###### ![Times Square before and after](/images/features/2020/times-square-before-after.jpg/)**Times Square before and after** © NYC Department of Transportation
 
 - A plan to repurpose and redistribute New York City (NYC)’s road spaces to walking, biking and new public spaces, while calming traffic and improving safety. 
-- Part of [PlaNYC](http://www.nyc.gov/html/planyc/downloads/pdf/140422_PlaNYCP-Report_FINAL_Web.pdf)’s vision to encourage active living, reduce carbon emissions and create more walkable communities. 
-- The [NYC Plaza programme](https://www1.nyc.gov/html/dot/html/pedestrians/nyc-plaza-program.shtml) led by [NYC Department of Transportation (DOT)](https://www.dot.ny.gov/index) converts underutilised road spaces into vibrant neighbourhood amenities/plazas by partnering local non-profit organisations and communities.
+- Part of PlaNYC’s vision to encourage active living, reduce carbon emissions and create more walkable communities. 
+- The NYC Plaza programme led by NYC Department of Transportation (DOT) converts underutilised road spaces into vibrant neighbourhood amenities/plazas by partnering local non-profit organisations and communities.
 - Times Square is most visible example, transformed almost overnight and with little expense from a place dominated by cars to one visited by hundreds of thousands of people daily. 
 
 [Back to top](#case-study-5)
@@ -46,7 +46,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - New plaza sites are nominated through a community-based process and selected by the city. 
 - The sites are then planned and designed by the city in consultation with the community. 
 - The city funds the construction and partners not-for-profit organisations to maintain the spaces.
-- The city further supports plaza partners through supplementary activities such as ['Weekend Walks'](https://www1.nyc.gov/html/dot/weekendwalks/html/home/home.shtml) and public art installation.
+- The city further supports plaza partners through supplementary activities such as 'Weekend Walks' and public art installation.
 
 [Back to top](#case-study-5)
 
