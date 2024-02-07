@@ -23,7 +23,7 @@ description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East Riv
 - Brooklyn Bridge Park is a 34-hectare sustainable waterfront park on Brooklyn’s East River shoreline. The park revitalises 2.1 kilometres of Brooklyn’s post-industrial waterfront from Atlantic Avenue, under the Brooklyn Bridge, to Jay Street north of the Manhattan Bridge. 
 - The site includes Brooklyn Piers 1 through 6, Fulton Ferry Landing, and two existing redesigned parks – Empire Fulton Ferry Park and Main Street Park. It also includes two Civil War-era structures, Empire Stores and the Tobacco Warehouse. 
 - The park is a flagship project to reclaim derelict industrial areas, create new parkland and reconnect New York residents to the waterfront area in an environmentally sustainable manner. 
-- The park is one of the 127 initiatives under [PlaNYC](http://www.nyc.gov/html/planyc/downloads/pdf/140422_PlaNYCP-Report_FINAL_Web.pdf), which addresses the city’s challenges of a growing population (one million increase by 2030): need for new capacity, competition for space, deteriorating infrastructure and climate change.
+- The park is one of the 127 initiatives under PlaNYC, which addresses the city’s challenges of a growing population (one million increase by 2030): need for new capacity, competition for space, deteriorating infrastructure and climate change.
 - The park features rolling hills, riverfront promenades, innovative play areas, and diverse planting typologies. 
 
 [Back to top](#case-study-4)
@@ -48,7 +48,7 @@ description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East Riv
 ###### ![Pier 1 during the construction](/images/features/2020/bbp-construction.jpg/)**Pier 1 during the construction** © Julienne Schaer
 
 - Brooklyn Bridge Park was created through a partnership between the city and the state. 
-The park is governed by a [17-member board of directors](https://www.brooklynbridgepark.org/pages/aboutbbp) appointed by the then-Mayor of New York City, the then-Governor of New York State and local elected officials.
+The park is governed by a 17-member board of directors appointed by the then-Mayor of New York City, the then-Governor of New York State and local elected officials.
 - The Brooklyn Bridge Park Corporation – a public non-profit entity – is responsible for the planning, construction, maintenance and operation of Brooklyn Bridge Park. 
 - The Corporation operates under a mandate, embodied by its General Project Plan to be financially self-sustaining, which includes the activation of certain development sites within the project’s footprint.
 - The planning of the park was advocated by the local communities and neighbourhood leaders looking for less intensive use of the property. Together, elected officials joined with members of the communities to produce a practical plan, skilfully won the commitment of government funds during the time of economic uncertainty.

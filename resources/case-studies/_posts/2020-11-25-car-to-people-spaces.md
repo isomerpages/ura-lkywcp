@@ -23,9 +23,9 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 - An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
 - This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
-  - The **[Cheonggyecheon](http://www.sisul.or.kr/grobal/cheonggye/eng/WebContent/index.html)** project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
-  - The **Yonsei-ro Transit Mall** (completed in 2015) - [the first of its kind in Seoul](http://english.seoul.go.kr/opening-of-sinchon-yonsei-ro-seouls-first-transit-mall/) - is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
-  - **[Seoullo 7017](http://seoullo7017.co.kr/SSF/GLO/ENG/M000.do)** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
+  - The **Cheonggyecheon** project (completed in 2005) saw the demolition of an elevated highway to restore the stream underneath and create a recreational haven. 
+  - The **Yonsei-ro Transit Mall** (completed in 2015) - the first of its kind in Seoul - is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
+  - **Seoullo 7017** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
 
 [Back to top](#case-study-13)
 
@@ -59,7 +59,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 
 <b><u>Seoullo7017</u></b>
 - The Seoul Station Overpass was originally slated to be demolished in favour of a new traverse bridge, but the plan was replaced by converting the overpass into a pedestrian walkway instead, partly inspired by the success of New York City’s High Line. 
-- The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice [MVRDV](https://www.mvrdv.nl/projects/seoul-skygarden) – as the master planner. 
+- The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice MVRDV – as the master planner. 
 - The city also established an Urban Regeneration Support Centre headed by a community planning expert to promote the project to residents. 
 
 [Back to top](#case-study-13)
@@ -74,7 +74,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
   - By demolishing the ageing highway and restoring the **Cheonggyecheon** stream, Seoul not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and helped catalyse the revitalisation of the city's north. 
   - **Yonsei-ro Transit Mall** helped to enhance public transit experience and improve pedestrian areas, enabling a successful shift from private to public transit and benefiting a largely student population.
   - **Seoullo7017** is not only an imageable representation of Seoul’s transformation into a pedestrian-friendly city, it also preserved the former overpass as heritage while creating connections to key areas around the city centre and giving a boost to the local economy. 
-- Seoul also harnessed big data through [TOPIS](http://topis.seoul.go.kr/eng/english.jsp) – its transport control centre, to provide 24/7 traffic monitoring and feed useful transport information to its citizens. 
+- Seoul also harnessed big data through TOPIS – its transport control centre, to provide 24/7 traffic monitoring and feed useful transport information to its citizens. 
 
 [Back to top](#case-study-13)
 
@@ -87,7 +87,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 <b><u>Cheonggyecheon</u></b>
 - Cheonggyecheon attracts around 60,000 people every day, and a total of 180 million visitors in the nine years after its restoration, seven million of whom are foreigners. 
 - The restoration of Cheonggyecheon served as a momentum for the city to take bold initiatives in reorganising its transport system, moving towards pedestrian-oriented transport. The subway use in central Seoul increased by about five percent. 
-- The land price within 100-metre radius has also increased by 30 percent after the restoration of Cheonggyecheon, with office rents increasing by 20 percent, according to a [World Bank Group report](https://urban-regeneration.worldbank.org/Seoul). 
+- The land price within 100-metre radius has also increased by 30 percent after the restoration of Cheonggyecheon, with office rents increasing by 20 percent, according to a World Bank Group report. 
 
 <b><u>Yonsei-ro Transit Mall</u></b>
 - Traffic accidents at Yonsei-ro decreased by 35 percent in a six-month period in 2014, compared to the same period the previous year.

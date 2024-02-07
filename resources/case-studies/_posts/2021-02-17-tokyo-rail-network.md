@@ -75,7 +75,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 ###### ![Impacts](/images/features/2021/impacts-tokyo.png/)
 
 - The total rail length in Tokyo metropolitan area increased from 1,566 kilometres in 1956 to 2,705 kilometres in 2015, while the number of stations increased from 807 in 1956 to 1,510 in 2015. 
-- Several mega stations (such as Shinjuku, Shibuya and Ikebukuro) have [daily passengers exceeding 2 million](https://pdf.savills.asia/asia-pacific-research/japan-research/japan-investment/jp-train-analysis-05-2020.pdf). 
+- Several mega stations (such as Shinjuku, Shibuya and Ikebukuro) have daily passengers exceeding 2 million. 
 - The train modal share in Tokyo’s 23 Special Wards is 48 percent, higher than many major cities in the world. 
 - Approximately 80 percent of commuters in Tokyo use public transportation such as trains and buses. 
 - The centre of Tokyo within the JR Yamanote loop line is well covered by rail networks, with 64% of the area less than 5 minutes from the nearest station on foot, and almost 100 percent within 10 minutes from the nearest station on foot.
