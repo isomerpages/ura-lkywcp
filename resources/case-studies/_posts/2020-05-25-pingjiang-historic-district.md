@@ -22,7 +22,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 - Suzhou emphasises the preservation of its ancient city while modernising through new townships in its urban development.
 - The 116.5-hectare Pingjiang Historic District is one of the city’s preserved areas, and features a chessboard pattern formed by intertwined water and road networks, including 13 ancient bridges over a 3.5-kilometre river. 
-- The ‘Couple’s Retreat Garden’ is [listed by UNESCO as a World Heritage Site in 2000](https://whc.unesco.org/en/list/813) along with 4 other classical gardens also located within the district.
+- The ‘Couple’s Retreat Garden’ is listed by UNESCO as a World Heritage Site in 2000 along with 4 other classical gardens also located within the district.
 - Initiated in 2002, the ‘Feature Protection and Environment Restoration Project’ aims to protect the city’s historical relics and improve the quality of life for its residents, including improving infrastructure and walkability, and limiting new industrial and commercial zones to outside of the historic core.  
 - The district exemplifies preserved traditional Chinese architecture and living customs in Suzhou. It is also one of the most representative historic and cultural cities in China.
 
