@@ -21,7 +21,7 @@ contacts:
   - title: General enquiries & feedback
     content:
     - phone:  
-    - email: leekuanyew_worldcityprize@ura.gov.sg
+    - email: ura_worldcityprize@ura.gov.sg
     - other: 
   - title: Connect with us on LinkedIn!
     content:
