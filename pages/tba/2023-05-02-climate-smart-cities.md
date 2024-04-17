@@ -3,7 +3,7 @@ title: Climate-smart cities for the future
 permalink: /resources/features/climate-smart-cities/
 image: /images/features/2023/lisbon-plaza.jpg
 description: Smart technologies are being used by cities to combat the effects of climate change, such as flooding and extreme heat waves. They enable cities to be more responsive and efficient in mitigating climate change and its consequences. 
-
+published: false
 ---
 
 | Writer | 
