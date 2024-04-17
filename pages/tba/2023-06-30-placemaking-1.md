@@ -3,7 +3,7 @@ title: Going local and ground-up in making places (Part 1)
 permalink: /resources/features/placemaking-1/
 image: /images/features/2023/street-furniture.jpg
 description: Post-pandemic cities are increasingly turning to localised initiatives to strengthen place identities and community engagement. This two-part feature explores key strategies employed by cities to implement sustainable, community-driven placemaking and highlights creative projects around the world. 
-
+published: false
 ---
 
 | Writer | 
