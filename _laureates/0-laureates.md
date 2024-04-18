@@ -1,16 +1,20 @@
 ---
 title: Prize Laureates
 permalink: /laureates/
-image: /images/laureates/worldmap-laureates.jpg
-description: The Prize is awarded to Bilbao (2010), New York City (2012), Suzhou (2014), Medellín (2016), Seoul (2018), and Vienna (2020).
+image: /images/laureates/worldmap-laureates.png
+description: The Prize is awarded to Bilbao (2010), New York City (2012), Suzhou (2014), Medellín (2016), Seoul (2018), Vienna (2020), and Mexico City (2024).
 ---
 
-![Prize Laureates](/images/laureates/worldmap-laureates.jpg/)
+![Prize Laureates](/images/laureates/worldmap-laureates.png/)
 
 #### **Prize Laureates**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
+<tr>
+<td style="width: 150px;"><br><img src="/images/laureates/mexico-city-medal.png" alt="Mexico City" /><br></td>
+<td><br><strong>2024 Prize Laureate — Mexico City</strong><br />Mexico City committed to uplifting the lives of its citizens through innovative urban initiatives, especially for the less privileged.<br><a href="/mexico-city/">Full citation</a></td>
+</tr>
 <tr>
 <td style="width: 150px;"><br><img src="/images/laureates/vienna-medal.png" alt="Vienna" /><br></td>
 <td><br><strong>2020 Prize Laureate — Vienna</strong><br />Vienna reinvented itself for success in the 21st century without losing its distinctive city identity.<br><a href="/vienna/">Full citation</a></td>
