@@ -7,9 +7,9 @@ description: Cape Town is recognised for adeptly managing climate change repercu
 
 ##### Cape Town is recognised for adeptly managing climate change repercussions and other disasters, addressing their implications for daily life and future sustainability.[^1]
 
-###### ![The City of Cape Town](/images/special-mentions/cape-town.jpg)**The City of Cape Town showing its waterfront context and the Table Mountain in the background** © africa4life/123RF
+###### ![The City of Cape Town](/images/special-mentions/cape-town.jpg)**The City of Cape Town with its waterfront context and the Table Mountain in the background** © africa4life/123RF
 
-<b><font color="#967942">LISBON</font></b> Cape Town is recognised for adeptly managing climate change repercussions and other disasters, addressing their implications for daily life and future sustainability. Overcoming the challenges of a severe water crisis from 2017 to 2018, and the COVID-19 pandemic, Cape Town successfully adopted an agile governance approach to swiftly build and deliver rapid, effective systemic responses to extreme events.  
+<b><font color="#967942">CAPE TOWN</font></b> is recognised for adeptly managing climate change repercussions and other disasters, addressing their implications for daily life and future sustainability. Overcoming the challenges of a severe water crisis from 2017 to 2018, and the COVID-19 pandemic, Cape Town successfully adopted an agile governance approach to swiftly build and deliver rapid, effective systemic responses to extreme events.  
 
 #### **Agile governance** 
 
