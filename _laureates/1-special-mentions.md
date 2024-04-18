@@ -1,13 +1,20 @@
 ---
 title: Special Mentions
 permalink: /special-mentions/
-image: /images/laureates/worldmap-special-mentions.jpg
+image: /images/laureates/worldmap-special-mentions.jpeg
 description: Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
 ---
 
-![Special Mentions](/images/laureates/worldmap-special-mentions.jpg/)
+![Special Mentions](/images/laureates/worldmap-special-mentions.jpeg/)
 
 Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
+
+#### **2024 Special Mentions**
+
+| **25** | [Cape Town](/cape-town/) shows that its strategic urban interventions can help to rejuvenate the city. |
+| **24** | [Melbourne](/melbourne2/) shows that its strategic urban interventions can help to rejuvenate the city. |
+| **23**| [Rio de Janeiro](/rio-de-janeiro/) exemplifies a whole-of-society effort to transform the city. | 
+| **22** | [Wellington](/wellington/) demonstrates a dramatic resurgence over the past decade despite limited resources. |
 
 #### **2020 Special Mentions**
 
