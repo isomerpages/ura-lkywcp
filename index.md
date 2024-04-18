@@ -25,7 +25,7 @@ sections:
     - infopic:    
         title: A global community of urban excellence
         subtitle: 
-        description: Over a decade and six cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 23 cities that showcase transformative and inspiring stories.
+        description: Over seven cycles, the Prize has seen enthusiastic participation from diverse cities at various developmental stages, and recognised 27 cities that showcase transformative and inspiring stories.
         button: Discover these cities
         url: /laureates/
         image: /images/worldmapdots.png/
@@ -39,7 +39,7 @@ sections:
     - infopic:    
         title: A chronicle of our journey
         subtitle: 
-        description: Our eBook chronicles the ten years of the Prize since its inauguration, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
+        description: Our eBook chronicles the first ten years of the Prize, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
         button: Download the eBook
         url: /documents/Celebrating-Ten-Years-of-the-Prize.pdf/
         image: /images/features/2023/ebook.png/
