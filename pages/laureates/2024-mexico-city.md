@@ -17,7 +17,7 @@ Mexico City's success is rooted in its commitment to addressing the needs of all
 
 **<mark>ADIP (Agencia Digital de Innovación Pública)</mark>** is a new department that leverages digital technology to drive innovation to improve public service and reach, public participation, and productivity. The results have been extraordinary. From 2019 to 2023, the agency simplified 2,100 government transactions to 500, halved the response time, and moved 70 per cent of transactions online. This is supplemented by the provision of free Wi-Fi infrastructure and coding schools to help low-income families and at-risk youths acquire useful skills.
 
-#### **Improving Accessibility and Public Safety**
+#### **Improving accessibility and public safety**
 
 Mexico City's willingness to experiment in the face of complex challenges has yielded innovative solutions. For example, **<mark>Biblioteca Vasconcelos</mark>** is a public library that democratises access to culture, complemented with high-quality materials and spaces in the marginalised Buena Vista neighbourhood. **<mark>Parque Lineal Gran Canal</mark>** is a linear park that showcases the city's commitment to transforming degraded areas into safe and vibrant public spaces. Moreover, Mexico City's proactive stance towards learning from international communities and making difficult policy change – a key shift being the delegation of enforcement power in addition to mere investigation to local police which resulted in a successful public security strategy that halved the homicide rate from its 2019 peak of 16 per 100,000 inhabitants. 
 
