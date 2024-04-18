@@ -11,10 +11,10 @@ Every cycle, cities with outstanding urban initiatives are selected as Special M
 
 #### **2024 Special Mentions**
 
-| **25** | [Cape Town](/cape-town/) shows that its strategic urban interventions can help to rejuvenate the city. |
-| **24** | [Melbourne](/melbourne2/) shows that its strategic urban interventions can help to rejuvenate the city. |
-| **23**| [Rio de Janeiro](/rio-de-janeiro/) exemplifies a whole-of-society effort to transform the city. | 
-| **22** | [Wellington](/wellington/) demonstrates a dramatic resurgence over the past decade despite limited resources. |
+| **25** | [Cape Town](/cape-town/) exemplifies resilience through agile governance, navigating crises for a sustainable future. |
+| **24** | [Melbourne](/melbourne2/) epitomises resilience, innovation and liveability, even amidst pandemic challenges. |
+| **23**| [Rio de Janeiro](/rio-de-janeiro/) revitalises its downtown and waterfront with innovative policies. | 
+| **22** | [Wellington](/wellington/) champions urban-nature harmony with citizen-led conservation. |
 
 #### **2020 Special Mentions**
 
