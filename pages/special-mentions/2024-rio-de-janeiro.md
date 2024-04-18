@@ -9,7 +9,7 @@ description: Rio de Janeiro is recognised for taking bold moves to redefine its 
 
 ###### ![The rejuvenated waterfront of Rio de Janeiro with the Museum of Tomorrow in the foreground](/images/special-mentions/rio-de-janeiro.jpg)**The rejuvenated waterfront of Rio de Janeiro with the Museum of Tomorrow in the foreground** © City of Rio de Janeiro
 
-<b><font color="#967942">MELBOURNE</font></b> Rio de Janeiro is recognised for taking bold moves to redefine its central area and waterfront, moving away from decades of a mono-functional downtown and suburban sprawl – a legacy from its historical development since the 1980s. Through strategic implementation of innovative land transfer policies, financing mechanisms and an evidence-based programming approach, the city is poised to shift public mindsets and set in a motion a transformation towards a more attractive, liveable, and vibrant downtown.  
+<b><font color="#967942">RIO DE JANEIRO</font></b> is recognised for taking bold moves to redefine its central area and waterfront, moving away from decades of a mono-functional downtown and suburban sprawl – a legacy from its historical development since the 1980s. Through strategic implementation of innovative land transfer policies, financing mechanisms and an evidence-based programming approach, the city is poised to shift public mindsets and set in a motion a transformation towards a more attractive, liveable, and vibrant downtown.  
 
 #### **Redefining urban development paradigms** 
 
