@@ -10,8 +10,8 @@ sections:
         title: 
         subtitle: 
         background: /images/herobanner.gif
-        button: Nominations closed
-        url: /prize-cycle/
+        button: 2024 Prize Laureate
+        url: /mexico-city/
         key_highlights:
             - title: 
               description: 
