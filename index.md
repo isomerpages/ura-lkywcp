@@ -17,6 +17,12 @@ sections:
               description: 
               url: 
     - infobar:    
+        title: 2024 Prize Laureate
+        subtitle: 
+        description: <a href="/images/laureates/mexico-city-medal.png"></a><br>A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
+        button: About the Prize
+        url: /about-the-prize/ 
+    - infobar:    
         title: The Prize for cities
         subtitle: 
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
