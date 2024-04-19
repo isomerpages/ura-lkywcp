@@ -3,6 +3,7 @@ title: Mexico City, Mexico conferred Lee Kuan Yew World City Prize 2024
 permalink: /resources/news/2022-press-release/
 image: 
 description: Mexico City, Mexico conferred Lee Kuan Yew World City Prize 2024
+published: false
 ---
 
 #### **Press release**
