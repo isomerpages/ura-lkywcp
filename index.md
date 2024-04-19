@@ -23,7 +23,7 @@ sections:
         button: Full citation
         url: /mexico-city/ 
     - infobar:    
-        title: <h4>2024 Special Mentions</h4><br>┉
+        title: <h4><b>2024 Special Mentions</b><br>┉</h4>
         subtitle: 
         description: <a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a>
         button: 
