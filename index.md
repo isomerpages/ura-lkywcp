@@ -23,8 +23,8 @@ sections:
         button: Full citation
         url: /mexico-city/ 
     - infobar:    
-        title: The Prize for cities
-        subtitle: 
+        title: 
+        subtitle: The Prize for cities
         description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
         button: About the Prize
         url: /about-the-prize/ 
