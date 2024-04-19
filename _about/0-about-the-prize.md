@@ -25,10 +25,6 @@ The Prize is named after [Singapore’s first Prime Minister](https://www.pmo.go
 
 The Prize is co-organised by the [Urban Redevelopment Authority Singapore](https://www.ura.gov.sg/) (URA) and the [Centre for Liveable Cities](https://www.clc.gov.sg/) (CLC). The Prize Secretariat sits within URA. 
 
-#### **Visual identity**
-
-The Prize's logo and visual identity is based on the 'ring' symbol commonly used to represent cities on world maps and in atlases. It is designed by [H55 Studio](https://www.h55studio.com/portfolio/lee-kuan-yew-world-city-prize/), an award-winning design and communication consultancy based in Singapore. 
-
 #### **Prize partners**
 
 The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
