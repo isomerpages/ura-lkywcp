@@ -24,8 +24,8 @@ sections:
         url: /mexico-city/ 
     - infobar:    
         title: 
-        subtitle: 2024 Special Mentions<br>———
-        description: <a href="/cape-town">Cape Town</a> | <a href="/melbourne2">Mmelbourne</a> | <a href="/rio-de-janeiro">Rio de Janeiro</a> | <a href="/wellington">Wellington</a>
+        subtitle: <font size="12">2024 Special Mentions<br>———</font>
+        description: <a href="/cape-town">Cape Town</a> | <a href="/melbourne2">Melbourne</a> | <a href="/rio-de-janeiro">Rio de Janeiro</a> | <a href="/wellington">Wellington</a>
         button: 
         url: 
     - infopic:    
