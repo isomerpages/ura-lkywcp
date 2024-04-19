@@ -2,14 +2,14 @@
 title: 2024 Prize Cycle
 permalink: /prize-cycle/
 image: /images/2024-prize-cycle-extended.jpg
-description: The results for the 2024 Prize have been announced on 25 April 2024 
+description: The 2024 Prize Laureate and special mentions  will share their achievements at the Prize Lecture during World Cities Summit 2024 on 3 June 2024.
 ---
 
 | Updated |
 |---:|
-| 25 November 2023 |
+| 25 April 2024 |
 
-##### The results for the 2024 Prize have been announced on 25 April 2024.
+##### The 2024 Prize Laureate and special mentions  will share their achievements at the Prize Lecture during World Cities Summit 2024 on 3 June 2024.
 
 ###### ![2024 Prize cycle](/images/2024-prize-cycle-extended.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile-extended.jpg/)**
 
