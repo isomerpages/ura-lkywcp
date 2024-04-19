@@ -3,6 +3,7 @@ title: Prize Laureates
 permalink: /laureates/
 image: /images/laureates/worldmap-laureates.png
 description: The Prize is awarded to Bilbao (2010), New York City (2012), Suzhou (2014), Medellín (2016), Seoul (2018), Vienna (2020), and Mexico City (2024).
+published: false
 ---
 
 ![Prize Laureates](/images/laureates/worldmap-laureates.png/)
