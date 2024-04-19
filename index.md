@@ -17,7 +17,7 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: <h2>2024 Prize Laureate</h2>
+        title: <h3><font color=#967942><b>2024 Prize Laureate</b></font></h3><br>
         subtitle: 
         description: <img src="/images/laureates/mexico-city-medal.png" width="150" height="150"><br>Mexico City is awarded the 2024 Prize for its outstanding commitment in uplifting the lives of citizens through innovative and sustainable urban initiatives, especially for the less privileged.
         button: Full citation
