@@ -22,6 +22,12 @@ sections:
         description: <img src="/images/laureates/mexico-city-medal.png" width="150" height="150"><br>Mexico City is awarded the 2024 Prize for its outstanding commitment in uplifting the lives of citizens through innovative and sustainable urban initiatives, especially for the less privileged.
         button: Full citation
         url: /mexico-city/ 
+    - infobar:    
+        title: 
+        subtitle: 2024 Special Mentions<br>———
+        description: <a href="/cape-town">Cape Town</a> | <a href="/melbourne2">Mmelbourne</a> | <a href="/rio-de-janeiro">Rio de Janeiro</a> | <a href="/wellington">Wellington</a>
+        button: 
+        url: 
     - infopic:    
         title: The Prize for cities
         subtitle: 
