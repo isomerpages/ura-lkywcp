@@ -19,9 +19,9 @@ sections:
     - infobar:    
         title: 2024 Prize Laureate
         subtitle: 
-        description: <img src="/images/laureates/mexico-city-medal.png"><br>A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
-        button: About the Prize
-        url: /about-the-prize/ 
+        description: <img src="/images/laureates/mexico-city-medal.png" width="150" height="150"><br>Mexico City is awarded the 2024 Prize for its outstanding commitment in uplifting the lives of citizens through innovative and sustainable urban initiatives, especially for the less privileged.
+        button: Full citation
+        url: /mexico-city/ 
     - infobar:    
         title: The Prize for cities
         subtitle: 
