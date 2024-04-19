@@ -23,9 +23,9 @@ sections:
         button: Full citation
         url: /mexico-city/ 
     - infobar:    
-        title: 
-        subtitle: <font size="12">2024 Special Mentions<br>———</font>
-        description: <a href="/cape-town">Cape Town</a> | <a href="/melbourne2">Melbourne</a> | <a href="/rio-de-janeiro">Rio de Janeiro</a> | <a href="/wellington">Wellington</a>
+        title: <h4><font color=#967942>2024 Special Mentions<br>———</h4)</h4>
+        subtitle: 
+        description: <a href="/cape-town" color=#967942>Cape Town</a> | <a href="/melbourne2" color=#967942>Melbourne</a> | <a href="/rio-de-janeiro" color=#967942>Rio de Janeiro</a> | <a href="/wellington" color=#967942>Wellington</a>
         button: 
         url: 
     - infopic:    
