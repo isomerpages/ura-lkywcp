@@ -4,6 +4,7 @@ title: Lee Kuan Yew World City Prize
 description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation 
 image: /images/shareicon.png/
 permalink: /
+published: false
 notification: 
 sections:
     - hero:
