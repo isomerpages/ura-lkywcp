@@ -17,7 +17,7 @@ description: A biennial international award that honours outstanding achievement
 
 To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. Through this Prize, Singapore hopes to promote exemplary thought-leadership and exchange of ideas among cities, so as to spur further innovation in the area of sustainable urban development.
 
-The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Corporation](https://www.kepcorp.com/).
+The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Ltd](https://www.keppel.com/).
 
 #### **A fitting tribute**
 
