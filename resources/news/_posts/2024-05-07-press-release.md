@@ -21,6 +21,8 @@ This year’s Prize Laureate, Mexico City stands out for its ability to address 
 - **Leveraging technology to improve lives.** Digital transformation efforts were introduced to promote digital inclusion and improve the provision of public service. Initiatives include the development of the centralised a secure digital identity system, the “Llave” platform which enables residents to access the majority of the city’s services, from registering vehicles to retrieving birth certificates. In addition, the deployment of an extensive network of 31,000 free Wi-Fi hotspots has further ensured equal opportunities to access the Internet. 
 - **Driving community-centric environmental efforts.** Re-vegetation efforts have been carried out to transform desolate land into parks and urban forests. Additionally,  through community-based sustainable agricultural programmes, and upskilling programmes, residents are also trained in using the city’s rain harvesting system as an alternative water source installed for free in water-scarce areas. Such systems can support the majority of a household’s water needs for eight months in a year.
 
+➜ [More details on these strategies](/mexico-city/)
+
 <br>
 > ##### “Despite advancements in human science and technology, many basic human needs remain unmet in cities and social inequities continue to exist. Mexico City has demonstrated how its citizen-centric city programmes, supported by strong leadership and new digital initiatives to simplify and improve access to public services, can benefit its residents, regardless of their socio-economic status. Despite on-going challenges as a mega city, Mexico City provides an inspiring story, giving hope that it is possible to make impactful change if we are focused on a longer-term vision and boldly embrace urban innovation and inclusivity.”
 
@@ -40,10 +42,10 @@ This year’s Prize Laureate, Mexico City stands out for its ability to address 
 
 Apart from Mexico City, four cities were also recognised as Special Mentions for their best practices in city management:
 
-- **Cape Town, South Africa** – A story of emerging stronger from tackling its severe water crisis and the COVID-19 pandemic through agile governance as well as more resilient communities. 
-- **Melbourne, Australia** – A highly liveable city, enhancing its quality living environment further and bouncing back from COVID-19 through the activation of its popular laneways, investing in transport and strengthening design excellence in its built environment.
-- **Rio de Janeiro, Brazil** – A bold revitalisation of its city centre with creative strategies to enhance pedestrian accessibility and emphasise low-carbon solutions, transforming and enriching its urban fabric, bringing residents and visitors back together post-pandemic.
-- **Wellington, New Zealand** – A leader in its extensive community-based ecological restoration efforts that ensures natural environments and their rich biodiversity continue to thrive alongside urban areas.
+- **[Cape Town](/cape-town/), South Africa** – A story of emerging stronger from tackling its severe water crisis and the COVID-19 pandemic through agile governance as well as more resilient communities. 
+- **[Melbourne](/melbourne2/), Australia** – A highly liveable city, enhancing its quality living environment further and bouncing back from COVID-19 through the activation of its popular laneways, investing in transport and strengthening design excellence in its built environment.
+- **[Rio de Janeiro](/rio-de-janeiro/), Brazil** – A bold revitalisation of its city centre with creative strategies to enhance pedestrian accessibility and emphasise low-carbon solutions, transforming and enriching its urban fabric, bringing residents and visitors back together post-pandemic.
+- **[Wellington](/wellington/), New Zealand** – A leader in its extensive community-based ecological restoration efforts that ensures natural environments and their rich biodiversity continue to thrive alongside urban areas.
 
 #### **Prize Award Ceremony and Banquet at World Cities Summit 2024**
 
