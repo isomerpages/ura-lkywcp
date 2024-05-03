@@ -47,7 +47,7 @@ Every cycle, cities with outstanding urban initiatives are selected as Special M
 | **08** | [Ahmedabad](/ahmedabad/) enjoys early successes in implementing a comprehensive city plan. | 
 | **07** | [Brisbane](/brisbane/) transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | 
 | **06** | [Copenhagen & Malmö](/copenhagen-malmo/) demonstrate close collaboration and a shared vision across borders. | 
-| **05** | [Khayelitsha](/khayelitsha/) prevents violence through its comprehensive Urban Upgrading Programme. | 
+| **05** | [AHT Group AG & Sun Development](/khayelitsha/) prevents violence in Khayelitsha, Cape Town through its comprehensive Urban Upgrading Programme. | 
 | **04** | [Vancouver](/vancouver/) demonstrates strong visioning, community values and long-term planning. | 
 
 #### **2010 Special Mentions**
