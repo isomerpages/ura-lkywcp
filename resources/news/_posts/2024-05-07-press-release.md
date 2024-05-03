@@ -36,6 +36,8 @@ This year’s Prize Laureate, Mexico City stands out for its ability to address 
 
 <div align="right"><b>— Dr. Claudia Sheinbaum Pardo</b> <br> Former Mayor, Mexico City</div>
 
+#### **2024 Special Mentions**
+
 Apart from Mexico City, four cities were also recognised as Special Mentions for their best practices in city management:
 
 - **Cape Town, South Africa** – A story of emerging stronger from tackling its severe water crisis and the COVID-19 pandemic through agile governance as well as more resilient communities. 
