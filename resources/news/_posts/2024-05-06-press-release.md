@@ -58,7 +58,7 @@ The Lee Kuan Yew World City Prize Award Ceremony and Banquet will be held at the
 
 Representatives from Mexico City and the four Special Mention cities will also be invited to celebrate their achievements and share about their initiatives and experiences at the Lee Kuan Yew World City Prize Lecture, which will be held in conjunction with the Summit.
 
-For the World Cities Summit’s full programme, please visit [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg).
+For the World Cities Summit’s full programme, please visit [www.worldcitiessummit.com.sg](https://www.worldcitiessummit.com.sg)
 
 To download high resolution images, please go to: 
 [www.ura.gov.sg/Corporate/Visual-Links/2024/LKYWCP](https://www.ura.gov.sg/Corporate/Visual-Links/2024/LKYWCP)
