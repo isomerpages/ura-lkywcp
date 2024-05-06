@@ -3,7 +3,7 @@ title: Mexico City conferred Lee Kuan Yew World City Prize 2024
 permalink: /resources/news/2024-press-release/
 image: 
 description: Mexico City conferred Lee Kuan Yew World City Prize 2024
-published: false
+published: true
 ---
 
 ##### Along with Mexico City, four other cities’ transformative efforts offer inspiration in galvanising communities to build stronger neighbourhoods, more restorative environments and enhance quality of lives 
