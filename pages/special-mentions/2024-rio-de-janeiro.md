@@ -13,7 +13,7 @@ description: Rio de Janeiro is recognised for taking bold moves to redefine its 
 
 #### **Redefining urban development paradigms** 
 
-Rio demonstrated political will in **<mark>shifting its urban development paradigm</mark>**, as exemplified by the 2013 removal of the coastal Perimetral Elevated Highway – a pivotal moment in its urban evolution, leading to a 3.4-kilometre pedestrianised boulevard along the waterfront. Lined with cultural institutions and event venues, this new urban corridor continues to draw visitors back to the city centre. At the same time, eight kilometres of surface roads rerouted into a tunnel 46 metres below sea level increased traffic capacity by 50 per cent. Today, the waterfront area thrives as a lively district, featuring urban plazas, pedestrian zones, sustainable transportation, and cultural landmarks like the MAR Museum of Art and Museum of Tomorrow.  
+Rio demonstrated political will in **<mark>shifting its urban development paradigm</mark>**, as exemplified by the 2013 removal of the coastal Perimetral Elevated Highway – a pivotal moment in its urban evolution, leading to a 3.4-kilometre pedestrianised boulevard along the waterfront. Lined with cultural institutions and event venues, this new urban corridor continues to draw visitors back to the city centre. At the same time, eight kilometres of surface roads rerouted into a tunnel 46 metres below sea level increased traffic capacity by 50 percent. Today, the waterfront area thrives as a lively district, featuring urban plazas, pedestrian zones, sustainable transportation, and cultural landmarks like the MAR Museum of Art and Museum of Tomorrow.  
 
 #### **Adopting a multi-prong approach to revitalise the centre** 
 
