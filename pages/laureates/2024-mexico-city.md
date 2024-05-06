@@ -7,7 +7,7 @@ description: Mexico City is awarded the 2024 Prize for its outstanding commitmen
 
 ##### Mexico City is awarded the 2024 Prize for its outstanding commitment in uplifting the lives of citizens through innovative and sustainable urban initiatives, especially for the less privileged.[^1]
 
-###### ![An aerial view showing Parque Lineal Gran Canal and a metro station in Mexico City](/images/laureates/mexico-city.jpg)**An aerial view showing Parque Lineal Gran Canal (on the left) and a metro station (on the right) in Mexico City**  © Ciudad de México
+###### ![An aerial view showing Parque Lineal Gran Canal and a metro station in Mexico City](/images/laureates/mexico-city.jpg)**An aerial view showing Parque Lineal Gran Canal (on the left) and a metro station (on the right) in Mexico City**  © Mexico City government 
 
 <b><font color="#967942">MEXICO CITY</font></b> is recognised for its outstanding commitment in uplifting the lives of citizens through innovative and sustainable urban initiatives, especially for the less privileged. In navigating the challenges of a metropolis of nine million residents and a transient population of six million traveling from outside the city for work and other purposes, Mexico City’s successive leadership stands out for its visionary approach, effectively tackling pressing issues on the ground with passion and dedication. The successful implementation of transformative initiatives within a short period of time reflects not only the city’s capability to kickstart new initiatives, but also the commitment to see through their completion quickly. This showcases the city’s remarkable ability to convert challenges into an exemplary model for urban development. 
 
