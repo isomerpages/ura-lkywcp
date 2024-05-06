@@ -23,11 +23,9 @@ Meanwhile, the city gains momentum in converting disused sites into cultural use
 
 #### **Financing and sustaining urban development innovatively**
 
-Rio's innovation in financing and sustaining urban development is exemplified by the establishment of **<mark>CCPAR</mark>**, a public company that introduced certificates for air rights in Porto Maravilha. This initiative introduced a novel financing mechanism for air rights negotiations. A new law in 2009 enabled the expansion of floor area within Porto Maravilha and allowed developers and landowners to purchase titles for increased floor space. 
+Rio’s innovation in financing and sustaining urban development is manifested in the sustained development of Porto Maravilha, overseen by public company **<mark>CCPAR</mark>**. Leveraging a new law that enables developers and landowners to acquire bonus floor area in the district, the city sold these development rights to a federal bank. which take on the role to negotiate and assign the bonus floor areas to the appropriate sites. This initiative helped the city raise funding for critical infrastructure and other public investment for the district, and also channel physical development to realise the planned transformation of Porto Maravilha.   
 
-Strategically, the city sold all these rights to a federal bank, ensuring a capital infusion for other critical development areas. Subsequently, the bank undertook the negotiation of these rights with developers and landowners, providing flexibility in setting preferred rates. This innovative approach fostered a mutually-beneficial scenario, aligning the interests of all parties involved in a win-win arrangement.
-
-While Rio’s current plans show promise in addressing urban flight in its downtown area, many of its initiatives are at the initial phase of implementation. Continued efforts and leadership support can help to ensure that the city's urban transformation is enduring and sustainable. **<font color="#967942">O</font>** 
+While Rio’s current plans show promise in bringing more people back to its downtown area, many of its initiatives are at the initial phase of implementation. Continued efforts and leadership support can help to ensure that the city's urban transformation is enduring and sustainable. **<font color="#967942">O</font>** 
 
 ---
 
