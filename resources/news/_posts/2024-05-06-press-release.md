@@ -66,9 +66,9 @@ To download high resolution images, please go to:
 <p align="center">– END –</p>
 ---
 
-For media queries, please contact:
-Ms Tiffany Chan
-Executive Manager, Media Relations
-Urban Redevelopment Authority
-DID: (65) 6329 3276 
-Email: tiffany_chan@ura.gov.sg 
+For media queries, please contact:<br>
+Ms Tiffany Chan<br>
+Executive Manager, Media Relations<br>
+Urban Redevelopment Authority<br>
+DID: (65) 6329 3276<br>
+Email: [tiffany_chan@ura.gov.sg](mailto:tiffany_chan@ura.gov.sg)
