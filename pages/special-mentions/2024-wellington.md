@@ -15,7 +15,7 @@ description: Wellington is recognised for its exemplary commitment towards livin
 
 As a founding member of the Biophilic Cities Network, Wellington exemplified the vision of people living in harmony with nature through initiatives like **<mark>Zealandia Ecosanctuary</mark>**. Just two kilometres from the Central Business District, it features the world’s first predator exclusion fence, contributing to the increase in bird numbers over the past decade. This increase includes a remarkable 41 per cent year-on-year increase in native bird species per bird count, alongside the resurgence of the Takahē, once presumed extinct. 
 
-Beyond nature areas, the **<mark>Predator Free Wellington project</mark>** aims to be the world's first predator-free capital, achieving notable success in urban areas like Miramar, a suburb in Wellington, with the eradication of Norway rats and weasels and a 550 per cent increase in fantail birds. These initiatives demonstrate the success of Wellington’s long-term strategy ‘Wellington Towards 2040: Smart Capital’ incepted in 2011. 
+Beyond nature areas, the **<mark>Predator Free Wellington project</mark>** aims to make Wellington the world's first predator-free capital, achieving notable success in urban areas like Miramar, a suburb in Wellington, with the eradication of Norway rats and weasels and a 550 per cent increase in fantail birds. These initiatives demonstrate the success of Wellington’s long-term strategy ‘Wellington Towards 2040: Smart Capital’ incepted in 2011. 
 
 #### **Integral community partnership**
 
@@ -25,11 +25,9 @@ Similarly, the **<mark>Makara Peak Bike Park</mark>**, a blend of recreation and
 
 #### **Novel approaches designed to fulfil strategic aims**
 
-Wellington's ecological projects, notably Zealandia, have produced substantial research and knowledge, prompting the city to share this expertise globally as the patent on its fence design expires. Predator Free Wellington prioritises public education, disseminating information through instructional guidebooks to enhance community involvement. 
+Wellington's ecological projects, notably Zealandia, have produced a wealth of research and knowledge, prompting the city to share its expertise globally as the patent on its fence design expires. Meanwhile, Predator Free Wellington prioritises public education, disseminating information through instructional guidebooks to enhance awareness within the community. This concerted effort not only empowers residents with the tools to participate actively in predator control but also strengthen community bonds, enhancing the effectiveness and sustainability of conservation efforts.
 
-In addressing housing and transport challenges, Wellington established the independent housing trust **<mark>Te Toi Mahana</mark>**, reducing rents for social housing residents through government subsidies. The city's car-lite vision, part of **<mark>Let's Get Wellington Moving initiative</mark>**, aims to combat climate change and population growth at various levels – local, regional, and national.
-
-Wellington’s success story in ecological restoration should serve as an inspiration for communities and cities worldwide, demonstrating that urban development and nature conservation can co-exist, is enriching, and is sustainable. Due to its rich natural assets and mountainous terrain, the city must overcome the challenge of competing land uses to ensure adequate and affordable housing for its people. Together with its other ongoing and upcoming projects, such as waterfront rejuvenation and street enhancement work, the city is seeking to further enhance its liveability and vibrancy. **<font color="#967942">O</font>** 
+Wellington’s success story in ecological restoration will serve as an inspiration for communities and cities worldwide, demonstrating that urban development and nature conservation can co-exist, is enriching and sustainable. Its other ongoing and upcoming projects, such as waterfront rejuvenation and street enhancement work, will help the city further enhance its liveability and vibrancy. **<font color="#967942">O</font>** 
 
 ---
 
