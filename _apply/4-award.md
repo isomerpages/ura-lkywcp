@@ -7,7 +7,7 @@ description: The Prize Laureate and Special Mentions will share their outstandin
 
 #### **Results of the 2024 Prize**
 
-The results of the Lee Kuan Yew World City Prize 2024 were announced on 25 April 2024. Read the press release.
+The results of the Lee Kuan Yew World City Prize 2024 were announced on 7 May 2024. Read the [press release](/resources/news/2024-press-release/).
 
 #### **Public forum – Prize Lecture**
 
