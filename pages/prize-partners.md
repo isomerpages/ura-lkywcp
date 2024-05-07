@@ -3,6 +3,7 @@ title: Prize Partners
 permalink: /prize-partners/
 image: /images/prize-partners.jpg
 description: The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations.
+published: false
 ---
 
 ##### The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations. 

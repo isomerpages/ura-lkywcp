@@ -1,13 +1,21 @@
 ---
 title: Special Mentions
 permalink: /special-mentions/
-image: /images/laureates/worldmap-special-mentions.jpg
+image: /images/laureates/worldmap-special-mentions.jpeg
 description: Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
+published: true
 ---
 
-![Special Mentions](/images/laureates/worldmap-special-mentions.jpg/)
+![Special Mentions](/images/laureates/worldmap-special-mentions.jpeg/)
 
 Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
+
+#### **2024 Special Mentions**
+
+| **25** | [Cape Town](/cape-town/) exemplifies resilience through agile governance, navigating crises for a sustainable future. |
+| **24** | [Melbourne](/melbourne2/) epitomises resilience, innovation and liveability, even amidst pandemic challenges. |
+| **23**| [Rio de Janeiro](/rio-de-janeiro/) revitalises its downtown and waterfront with innovative policies. | 
+| **22** | [Wellington](/wellington/) champions urban-nature harmony with citizen-led conservation. |
 
 #### **2020 Special Mentions**
 
@@ -39,7 +47,7 @@ Every cycle, cities with outstanding urban initiatives are selected as Special M
 | **08** | [Ahmedabad](/ahmedabad/) enjoys early successes in implementing a comprehensive city plan. | 
 | **07** | [Brisbane](/brisbane/) transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | 
 | **06** | [Copenhagen & Malmö](/copenhagen-malmo/) demonstrate close collaboration and a shared vision across borders. | 
-| **05** | [Khayelitsha](/khayelitsha/) prevents violence through its comprehensive Urban Upgrading Programme. | 
+| **05** | [AHT Group AG & Sun Development](/khayelitsha/) prevents violence in Khayelitsha, Cape Town through its comprehensive Urban Upgrading Programme. | 
 | **04** | [Vancouver](/vancouver/) demonstrates strong visioning, community values and long-term planning. | 
 
 #### **2010 Special Mentions**
