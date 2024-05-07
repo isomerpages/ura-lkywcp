@@ -13,7 +13,7 @@ The results of the Lee Kuan Yew World City Prize 2024 were announced on 7 May 20
 
 ###### ![Lee Kuan Yew World City Prize Lecture at World Cities Summit 2022](/images/features/2022/prize-lecture-4.jpg/)**Lee Kuan Yew World City Prize Lecture at World Cities Summit 2022** © World Cities Summit
 
-The 2024 Prize Laureate and Special Mention(s) will be invited to share their achievements and outstanding urban initiatives at the <mark><b>Lee Kuan Yew World City Prize Lecture</b></mark> on 3 June 2024. 
+The 2024 Prize Laureate and Special Mention(s) will share their achievements and outstanding urban initiatives at the <mark><b>Lee Kuan Yew World City Prize Lecture</b></mark> on 3 June 2024. 
 
 #### **Award Ceremony & Banquet**
 
