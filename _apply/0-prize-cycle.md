@@ -7,7 +7,7 @@ description: The 2024 Prize Laureate and special mentions  will share their achi
 
 | Updated |
 |---:|
-| 25 April 2024 |
+| 7 May 2024 |
 
 ##### The 2024 Prize Laureate and special mentions  will share their achievements at the Prize Lecture during World Cities Summit 2024 on 3 June 2024.
 
