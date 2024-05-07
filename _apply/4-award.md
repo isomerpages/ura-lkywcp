@@ -21,7 +21,7 @@ The 2024 Prize Laureate and Special Mention(s) will share their achievements and
 
 The 2024 Prize Laureate will receive the award at the <mark><b>Lee Kuan Yew World City Prize Award Ceremony & Banquet</b></mark>, a celebration of urban innovation, offering elite networking opportunities with  global mayors and city leaders. The 2024 Special Mention(s) will also be celebrated at the same event. 
 
-Both the Prize Lecture and Award Ceremony & Banquet are key highlights of [World Cities Summit (WCS) 2024](https://www.worldcitiessummit.com.sg) – an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions and forge new partnerships. The next edition of WCS will be held from 2 - 5 June 2024 in Singapore.
+Both the Prize Lecture and Award Ceremony & Banquet are key highlights of [World Cities Summit (WCS) 2024](https://www.worldcitiessummit.com.sg) – an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions and forge new partnerships. WCS will be held from 2 - 4 June 2024 in Singapore.
 
 Click [here](/resources/in-pictures/wcs2022/) to see the Prize events at WCS 2022.
 
