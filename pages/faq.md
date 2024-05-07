@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 21 November 2023 |
+| 7 May 2024 |
 
 #### **Sections**
 
@@ -146,7 +146,7 @@ Please refer to the [glossary of terms](/glossary/) for a list of definitions.
 
 #### **When will the results be announced?**
 
-The results of the 2024 Prize will be announced in March/April 2024.
+The results of the 2024 Prize were announced on 7 May 2024. Click [here](/resources/news/2024-press-release/) to read the press release.
 
 #### **Who will be invited to receive the award?**
 
@@ -158,7 +158,7 @@ The Prize Laureate and Special Mentions(s) will be invited to share their achiev
 
 #### **How can I attend the Prize events at World Cities Summit?**
 
-The next edition of World Cities Summit (WCS) will be held from 2 - 5 June 2024 in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
+The next edition of World Cities Summit (WCS) will be held from 2 - 4 June 2024 in Singapore. The Prize events will be held in conjunction with WCS 2024. Please check the [WCS website](https://www.worldcitiessummit.com.sg/) for the latest updates. 
 
 [Back to top](#sections)
 
