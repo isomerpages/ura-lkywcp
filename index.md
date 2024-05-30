@@ -44,13 +44,13 @@ sections:
         button: 
         url: 
     - infopic:    
-        title: A chronicle of our journey
+        title: Download our new eBook!
         subtitle: 
-        description: Our eBook chronicles the first ten years of the Prize, celebrates the outstanding cities and individuals that the Prize has recognised, and brings together the passionate jury members to reflect on the Prize Laureates and city issues.
+        description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2024, with exclusive interviews from the Mayors of the 2024 cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
         button: Download the eBook
-        url: /documents/Celebrating-Ten-Years-of-the-Prize.pdf/
-        image: /images/features/2023/ebook.png/
-        alt: Alumni Breakfast
+        url: /documents/worldcityprize-2024.pdf/
+        image: /images/features/2024/ebook.png/
+        alt: eBook
     - infobar:
         title: 💬
         subtitle: 
