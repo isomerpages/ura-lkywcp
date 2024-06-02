@@ -11,7 +11,7 @@ sections:
         title: 
         subtitle: 
         background: /images/herobanner.gif
-        button: Register interest for 2026 Prize
+        button: Register interest<br>for 2026 Prize
         url: https://form.gov.sg/665c80f59ed8705777bc3828
         key_highlights:
             - title: 
