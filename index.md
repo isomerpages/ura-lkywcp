@@ -11,8 +11,8 @@ sections:
         title: 
         subtitle: 
         background: /images/herobanner.gif
-        button: 2024 Prize Laureate
-        url: /mexico-city/
+        button: Register interest for 2026 Prize
+        url: https://form.gov.sg/665c80f59ed8705777bc3828
         key_highlights:
             - title: 
               description: 
