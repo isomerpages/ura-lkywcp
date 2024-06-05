@@ -49,7 +49,7 @@ sections:
         description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2024, with exclusive interviews from the Mayors of the 2024 cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
         button: Download the eBook
         url: /documents/worldcityprize-2024.pdf/
-        image: /images/features/2024/ebook.png/
+        image: /images/features/2024/new-ebook.jpg/
         alt: eBook
     - infobar:
         title: 💬
