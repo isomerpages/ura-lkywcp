@@ -7,7 +7,7 @@ description: Nominations for the Lee Kuan Yew World City Prize 2026 will open so
 published: true
 ---
 
-##### Nominations for the LKY World City Prize 2026 will open soon! The Prize is awarded to cities only. 
+##### Nominations for the 2026 Prize will open soon. The Prize is awarded to cities only. 
 
 #### **Stage B submission**
 
