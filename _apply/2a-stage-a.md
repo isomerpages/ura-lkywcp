@@ -25,6 +25,8 @@ Self-nominations[^1] are strictly not accepted, and nominators who fall outside 
 
 Nominations for the 2026 Prize will open soon. 
 
+---
+
 #### **Next step**
 
 - [Stage B](/stage-b/)
