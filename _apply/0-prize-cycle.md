@@ -17,7 +17,7 @@ description: Register your interest for the LKY World City Prize 2026!
 
 | | Phase | Details |
 |:---|---:|:---|
-| **➜** | **[Register Interest](https://form.gov.sg/665c80f59ed8705777bc3828)** | Interested parties are invited to register their interest for the 2026 Prize, thereby ensuring receipt of timely updates and pertinent information regarding the application process, critical deadlines, and additional relevant details. |
+| **➜** | **[Register Interest](https://form.gov.sg/665c80f59ed8705777bc3828)** | Interested parties are invited to register your interest to receive updates, application details, and deadline reminders for the 2026 Prize. |
 | | **Stage A Nominations** | Cities interested in applying for the Prize must secure a nomination from an independent third-party expert in urban planning and cities, such as a professor of urban planning or a related field. Self-nominations will not be accepted, and nominators without relevant expertise in urban fields will be disqualified. <br> |
 | | **Stage B Submissions** | Following a valid nomination, nominated cities will be notified to prepare and submit a comprehensive written report for the jury's evaluation. Returning applicants have the option to provide an update on specific areas, rather than a full report. |
 | | **[Evaluations](/evaluations/)** | The evaluation process for all submissions will follow a rigorous two-tier selection process. The Nominating Committee will deliberate and shortlist top contenders, while the Prize Council will make the final decision on the winner. If necessary, the Prize Secretariat may contact nominated cities for additional information or organise a site visit, bearing all related costs. |
