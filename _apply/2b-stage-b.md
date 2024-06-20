@@ -9,9 +9,9 @@ published: true
 
 ##### Nominations for the 2026 Prize will open soon. The Prize is awarded to cities only. 
 
-#### **Stage B submission**
+#### **Submit detailed written report**
 
-The Stage B submission report comprises the following parts: 
+Nominated cities will be notified to prepare and submit a comprehensive written report containing the following parts. Cities that have applied previously may opt to update their previous submissions with the latest information.
 
 | Part | Details |
 | :--- | :--- |
