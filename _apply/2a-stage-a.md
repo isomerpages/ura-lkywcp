@@ -21,6 +21,10 @@ Cities interested to apply for the Prize must engage an independent third-party 
 
 Self-nominations[^1] are strictly not accepted, and nominators who fall outside of the above categories may be disqualified. There is no entry fee required.
 
+#### **Nomination form**
+
+Nominations for the 2026 Prize will open soon. 
+
 #### **Next step**
 
 - [Stage B](/stage-b/)
