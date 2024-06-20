@@ -18,10 +18,10 @@ description: Register your interest for the LKY World City Prize 2026!
 | Phase |
 | :--- |
 | ➜ | **[Register Interest](https://form.gov.sg/665c80f59ed8705777bc3828)** | Register your interest for the 2026 Prize |
-| | **Stage A Nominations** | Nominations of cities by independent third parties <br> |
-| | **Stage B Submissions** | Submissions of a written report by nominated cities |
-| | **[Evaluations](/evaluations/)** | Evaluations of submissions through a rigourous two-tier selection process |
-| | **[Announcement & Award](/award/)** | Announcement of the results <br> --- <br> Sharing by the Prize Laureate and Special Mentions at World Cities Summit <br> --- <br> Presentation of the award to the Prize Laureate and Special Mentions |
+| | **Stage A Nominations** | Cities interested to apply for the Prize should approach an independent third party, such as a professor in urban planning and relevant fields, or an leading city/urban expert, to nominate them. Self-nominations will be disqualified. <br> |
+| | **Stage B Submissions** | After a valid nomination, the nominated cities will be notified to prepare and submit a detailed written report for the jury's assessment. Repeat applicants may only need to provide an update to selected fields. |
+| | **[Evaluations](/evaluations/)** | The evaluations of all submissions will be carried out through a rigorous two-tier selection process comprising the Nominating Committee and Prize Council. The former deliberates and shortlists worthy contenders, while the latter makes the final decision on the winner. |
+| | **[Announcement & Award](/award/)** | The results will be announced via a press release. The winners will get to showcase their achievements and success stories and receive their awards via high-profile events. Furthermore, their stories will be shared on the Prize online platforms and collaterals. |
 
 #### **Questions?**
 
