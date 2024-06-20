@@ -16,7 +16,7 @@ Nominated cities will be notified to prepare and submit a comprehensive written 
 | | Part | Details |
 |:---:|---:|:---|
 | **1** | **Key statistics** | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
-| **2** | **Medium/long-term plan or strategy** | Information on the city's medium to long-term master plan or development strategy, including details on its vision, goals, objectives, and proposed initiatives and projects to achieve sustainable development and urban growth. | 
+| **2** | **Medium/ long-term plan or strategy** | Information on the city's medium to long-term master plan or development strategy, including details on its vision, goals, objectives, and proposed initiatives and projects to achieve sustainable development and urban growth. | 
 | **3** | **Demonstration projects** | Three demonstration projects that showcase the successful implementation of the master plan or strategy in different areas, such as sustainable transportation, climate change adaptation, urban regeneration, and smart city initiatives. These projects should be either fully completed or partially completed with tangible early results that demonstrate impact and progress. |
 | **4** | **Photo report** | A visual report featuring photos that showcase the city and demonstration projects from various aspects. |
 
