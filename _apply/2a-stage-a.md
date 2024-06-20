@@ -11,7 +11,7 @@ published: true
 
 #### **Apply for the Prize**
 
-Cities interested to apply for the Pirze must engage an independent third party (nominator) in any of the following categories to nominate them:
+Cities interested to apply for the Prize must engage an independent third party (nominator) in any of the following categories to nominate them:
 
 | **1** |  Leading academics (e.g. professors in universities) or academic institutions |
 | **2** |  Government officials (outside of the city administration) |
