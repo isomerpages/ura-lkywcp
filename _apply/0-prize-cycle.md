@@ -23,6 +23,8 @@ description: Register your interest for the LKY World City Prize 2026!
 | | **[Evaluations](/evaluations/)** | The evaluation process for all submissions will follow a rigorous two-tier selection process. The Nominating Committee will deliberate and shortlist top contenders, while the Prize Council will make the final decision on the winner. If necessary, the Prize Secretariat may contact nominated cities for additional information or organise a site visit, bearing all related costs. |
 | | **[Results & Award](/award/)** | The winners will be announced in an official press release, showcasing their achievements and success stories. They will receive their awards and share their experiences at high-profile events, and have their stories featured on the Prize's online platforms and marketing materials, providing opportunities for recognition and sharing their accomplishments with a wider audience. |
 
+---
+
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
