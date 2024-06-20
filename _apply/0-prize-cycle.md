@@ -17,11 +17,11 @@ description: Register your interest for the LKY World City Prize 2026!
 
 | Phase |
 | :--- |
-| **Register Interest** | [Register your interest for the 2026 Prize](https://form.gov.sg/665c80f59ed8705777bc3828) |
-| **Stage A Nominations** | Nominations of cities by independent third parties <br> |
-| **Stage B Submissions** | Submissions of a written report by nominated cities |
-| **[Evaluations](/evaluations/)** | Evaluations of submissions through a rigourous two-tier selection process |
-| **[Announcement & Award(/award/)** | Announcement of the results <br> --- <br> Sharing by the Prize Laureate and Special Mentionss at World Cities Summit] <br> --- <br> Presentation of the award to the Prize Laureate and Special Mentions |
+| 👉 | **Register Interest** <br> [Register your interest for the 2026 Prize](https://form.gov.sg/665c80f59ed8705777bc3828) |
+| | **Stage A Nominations** <br> Nominations of cities by independent third parties <br> |
+| | **Stage B Submissions** <br> Submissions of a written report by nominated cities |
+| | **[Evaluations](/evaluations/)** <br> Evaluations of submissions through a rigourous two-tier selection process |
+| | **[Announcement & Award](/award/)** <br> Announcement of the results <br> --- <br> Sharing by the Prize Laureate and Special Mentions at World Cities Summit <br> --- <br> Presentation of the award to the Prize Laureate and Special Mentions |
 
 #### **Questions?**
 
