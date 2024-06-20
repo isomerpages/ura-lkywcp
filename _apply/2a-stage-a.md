@@ -11,16 +11,13 @@ published: true
 
 #### **Apply for the Prize**
 
-Cities interested to apply for the Prize must engage an independent third party (nominator) in any of the following categories to nominate them:
+Cities interested to apply for the Prize must engage an independent third-party expert in urban planning and cities to nominate them. The following is a suggested list of possible nominators:
 
-| **1** |  Leading academics (e.g. professors in universities) or academic institutions |
-| **2** |  Government officials (outside of the city administration) |
-| **3** |  International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on |
-| **4** |  Organisations in the public or private sectors |
-| **5** |  Non-government organisations (NGOs) |
-| **6** |  Leading industry experts in related fields |
+| **1** | Professors of architecture, urban planning, urban design, urban development, or related fields from accredited universities.  |
+| **2** | International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and related fields. Examples include ISOCARP, Fundación Metropoli, United Nations Environment Programme, and Urban Land Institute, among others. |
+| **3** | Leading industry experts in related fields, including principal architects, directors of urban planning firms, renewable energy engineers, sustainability consultants, CEOs of development companies, and other specialists in related disciplines. |
 
-**<mark>Self-nominations are strictly not accepted.</mark>**[^1]
+**Self-nominations are strictly not accepted, and nominators who fall outside of the above categories may be disqualified.**[^1]
 
 #### **Nominators – please read the following**
 
