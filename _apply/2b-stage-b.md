@@ -21,7 +21,13 @@ Nominated cities will be notified to prepare and submit a comprehensive written 
 | **4** | **Photo report** | A visual report featuring photos that showcase the city and demonstration projects from various aspects. |
 
 **Note**: The Prize Secretariat may arrange and pay for on-site evaluations to selected cities, if required, and may also request additional information. All submitted materials will be retained by the Prize Secretariat. Nominated cities must obtain prior clearance from copyright owners for any photos submitted, and grant the Prize Secretariat permission to use them for evaluation and publicity purposes, crediting the copyright owners or the city if owners are not specified.
-  
+
+#### **Submission template and form**
+
+Nominations for the 2026 Prize will open soon.
+
+---
+
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 
