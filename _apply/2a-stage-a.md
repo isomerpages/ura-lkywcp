@@ -2,7 +2,7 @@
 title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
-image: /images/nominations/2024-stage-a.png
+image: /images/features/2024/stage-a.png
 description: Nominations for the LKY World City Prize 2026 will open soon!
 published: true
 ---
