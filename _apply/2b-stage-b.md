@@ -3,13 +3,11 @@ title: Stage B
 permalink: /stage-b/
 third_nav_title: Nominations
 image: /images/nominations/2024-stage-b.png
-description: Submissions for the Lee Kuan Yew World City Prize 2024 are closed. 
-published: false
+description: Nominations for the Lee Kuan Yew World City Prize 2026 will open soon! 
+published: true
 ---
 
-#### **Instructions**
-
-Submissions closed.
+##### Nominations for the LKY World City Prize 2026 will open soon! The Prize is awarded to cities only. 
 
 #### **Stage B submission**
 
