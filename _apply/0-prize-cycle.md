@@ -15,7 +15,6 @@ description: Register your interest for the LKY World City Prize 2026!
 
 #### **Prize Cycle**
 
-| Phase |
 | :--- |
 | ➜ | **[Register Interest](https://form.gov.sg/665c80f59ed8705777bc3828)** | Register your interest for the 2026 Prize |
 | | **Stage A Nominations** | Cities interested to apply for the Prize should approach an independent third party, such as a professor in urban planning and relevant fields, or an leading city/urban expert, to nominate them. Self-nominations will be disqualified. <br> |
