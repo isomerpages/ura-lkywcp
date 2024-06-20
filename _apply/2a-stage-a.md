@@ -19,7 +19,7 @@ Cities interested to apply for the Prize must engage an independent third-party 
 | **2** | **International Organisations** | International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and related fields. Examples include ISOCARP, Fundación Metropoli, United Nations Environment Programme, and Urban Land Institute, among others. |
 | **3** | **Urban Experts** | Leading industry experts in related fields, including principal architects, directors of urban planning firms, renewable energy engineers, sustainability consultants, CEOs of development companies, and other specialists in related disciplines. |
 
-**Self-nominations are strictly not accepted, and nominators who fall outside of the above categories may be disqualified.**[^1]
+Self-nominations[^1] are strictly not accepted, and nominators who fall outside of the above categories may be disqualified.
 
 #### **Nominators – please read the following**
 
