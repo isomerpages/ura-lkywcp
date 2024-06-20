@@ -11,7 +11,7 @@ All submissions are evaluated through a rigorous two-tier process comprising the
 
 #### **Evaluation criteria**
 
-The Prize looks at the holistic transformation of the city over a period of **<mark>at least 10 years</mark>**, and emphasises on the creation of liveable, vibrant and sustainable urban communities within a quality built environment that incorporates the principles of sustainable development.
+The Prize looks at the holistic transformation of the city over a period of <u>at least 10 years</u>, and emphasises on the creation of liveable, vibrant and sustainable urban communities within a quality built environment that incorporates the principles of sustainable development.
 
 All submissions are evaluated based on the following criteria:
 
