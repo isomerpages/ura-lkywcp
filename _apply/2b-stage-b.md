@@ -13,23 +13,14 @@ published: true
 
 Nominated cities will be notified to prepare and submit a comprehensive written report containing the following parts. Cities that have applied previously may opt to update their previous submissions with the latest information.
 
-| Part | Details |
-| :--- | :--- |
-| I <br> **Submission report** | A written report in 3 sections: <br><br> **A. City portfolio** <br> Brief information on the city. <br><br> **B. Master plan or strategy** <br> Brief information on the overall master plan or strategy for the city. <br><br> **C. Demonstration projects** <br> A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. |
+| | Part | Details |
+|:---:|---:|:---|
+| **1** | **Key statistics** | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| **2** | **Master plan or strategy** | Information on the medium to long-term master plan or development strategy for the city. | 
+| **3** | **Demonstration projects** | Three demonstration projects that showcase the successful implementation of the master plan or strategy in different areas, such as sustainable transportation, climate change adaptation, urban regeneration, and smart city initiatives. These projects should be either fully completed or partially completed with tangible early results that demonstrate impact and progress. |
+| **4** | **Photo report** | A visual report featuring photos that showcase the city and demonstration projects from various aspects. |
 
-The following items are **<mark>optional</mark>**. Nominated cities may choose to submit the following as additional information: 
-
-| Part | Details |
-| :--- | :--- |
-| II <br> **Key statistics** <br> | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
-| III <br> **Supporting documents** | Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
-
-#### **The fine print**
-
-| **1** | The Prize Secretariat may arrange and pay for in-person travels to the nominated city for further on-site evaluations if required. | 
-| **2** | The Prize Secretariat may also request for additional information if required. | 
-| **3** | The Prize Secretariat shall retain all submitted materials. | 
-| **4** | Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. In cases where copyright owners were not indicated, the Prize Secretariat shall credit the city. |
+**Note**: The Prize Secretariat may arrange and pay for on-site evaluations to selected cities, if required, and may also request additional information. All submitted materials will be retained by the Prize Secretariat. Nominated cities must obtain prior clearance from copyright owners for any photos submitted, and grant the Prize Secretariat permission to use them for evaluation and publicity purposes, crediting the copyright owners or the city if owners are not specified.
   
 #### **Questions?**
 
