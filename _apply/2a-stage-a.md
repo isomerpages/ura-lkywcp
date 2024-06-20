@@ -17,7 +17,7 @@ Cities interested to apply for the Prize must engage an independent third-party 
 |:---:|---:|:---|
 | **1** | **Academia** | Professors of architecture, urban planning, urban design, urban development, or related fields from accredited universities.  |
 | **2** | **International Organisations** | International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and related fields. Examples include ISOCARP, Fundación Metropoli, United Nations Environment Programme, and Urban Land Institute, among others. |
-| **3** | **Urban Experts** | Leading industry experts in related fields, including principal architects in firms with regional/international presence, directors of urban planning firms, sustainability consultants, and other specialists in related disciplines. |
+| **3** | **Urban Experts** | Leading industry experts in related fields, including principal architects, chief city architects, chief urban planners, chief urban designers, principal sustainability consultants, and other related specialists, preferably holding key appointments at the city level or in firms with regional or international presence. |
 
 Self-nominations[^1] are strictly not accepted, and nominators who fall outside of the above categories may be disqualified.
 
