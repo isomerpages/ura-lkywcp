@@ -9,7 +9,7 @@ description: Register your interest for the LKY World City Prize 2026!
 |---:|
 | 20 June 2024 |
 
-##### Register your interest for the LKY World City Prize 2026!
+##### Interested to apply for the LKY World City Prize 2026? [Register your interest](https://form.gov.sg/665c80f59ed8705777bc3828) today!
 
 ###### ![Prize cycle](/images/prize-cycle.png)
 
