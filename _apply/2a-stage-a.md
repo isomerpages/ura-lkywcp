@@ -3,13 +3,13 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/nominations/2024-stage-a.png
-description: Nominations for the Lee Kuan Yew World City Prize 2024 are closed
-published: false
+description: Nominations for the LKY World City Prize 2026 will open soon!
+published: true
 ---
 
 #### **Instructions** 
 
-Nominations closed. The Prize is **<mark>awarded to cities only</mark>**.
+Nominations for the 2026 Prize will open soon. The Prize is **<mark>awarded to cities only</mark>**.
 
 #### **Interested cities – please read the following**
 
