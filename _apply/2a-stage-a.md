@@ -9,9 +9,9 @@ published: true
 
 ##### Nominations for the 2026 Prize will open soon. The Prize is awarded to cities only.
 
-#### **Interested cities – please read the following**
+#### **Apply for the Prize**
 
-Cities interested to participate shall approach an independent third party (nominator) in any of the following categories to nominate them:
+Cities interested to apply for the Pirze must engage an independent third party (nominator) in any of the following categories to nominate them:
 
 | **1** |  Leading academics (e.g. professors in universities) or academic institutions |
 | **2** |  Government officials (outside of the city administration) |
