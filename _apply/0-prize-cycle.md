@@ -1,19 +1,19 @@
 ---
-title: 2024 Prize Cycle
+title: Prize Cycle
 permalink: /prize-cycle/
-image: /images/2024-prize-cycle-extended.jpg
-description: The 2024 Prize Laureate and special mentions  will share their achievements at the Prize Lecture during World Cities Summit 2024 on 3 June 2024.
+image: /images/prize-cycle.png
+description: Register your interest for the LKY World City Prize 2026!
 ---
 
 | Updated |
 |---:|
 | 7 May 2024 |
 
-##### The 2024 Prize Laureate and special mentions  will share their achievements at the Prize Lecture during World Cities Summit 2024 on 3 June 2024.
+##### Register your interest for the LKY World City Prize 2026!
 
-###### ![2024 Prize cycle](/images/2024-prize-cycle-extended.jpg)**[View the mobile version](/images/2024-prize-cycle-mobile-extended.jpg/)**
+###### ![Prize cycle](/images/prize-cycle.png)
 
-#### **2024 Prize Cycle**
+#### **Prize Cycle**
 
 | Date | Phase |
 | :--- | :--- |
