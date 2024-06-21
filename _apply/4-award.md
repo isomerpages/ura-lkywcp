@@ -3,6 +3,7 @@ title: Results & Award
 permalink: /award/
 image: /images/features/2024/award-ceremony-2024.jpg
 description: The Prize Laureate and Special Mentions will share their outstanding urban initiatives at the Prize Lecture, a key highlight of World Cities Summit in Singapore.
+published: false
 ---
 
 #### **Announcement of results**
