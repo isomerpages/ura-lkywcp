@@ -1,7 +1,7 @@
 ---
 title: Why Apply?
 permalink: /why-apply/
-image: /images/medallion-1280.jpg/
+image: /images/why-apply.jpg/
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 
@@ -26,4 +26,6 @@ Winners of the Prize get exclusive opportunities to:
 
 ---
 
-###### [^1]: Envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues, the Network aims to bring cities together to collectively address urban challenges through partnerships between government officials, planning departments and knowledge organisations.
+###### 
+
+[^1]: Envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues, the Network aims to bring cities together to collectively address urban challenges through partnerships between government officials, planning departments and knowledge organisations.
