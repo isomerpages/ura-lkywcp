@@ -15,8 +15,6 @@ The results will be announced via an official press release and on our online ch
 
 The Lee Kuan Yew World City Prize Laureate and Special Mentions will be honoured at the prestigious Lee Kuan Yew World City Prize Award Ceremony & Banquet, a distinguished event celebrating urban innovation and excellence. This occasion provides a unique platform for networking with esteemed global mayors and city leaders, fostering meaningful connections and collaborations.
 
-Click [here](/resources/in-pictures/wcs2022/) to see the Prize events at WCS 2022.
-
 #### **Prize Lecture**
 
 ###### ![Lee Kuan Yew World City Prize Lecture at World Cities Summit 2024](/images/features/2024/prize-lecture-2024.jpg/)**Lee Kuan Yew World City Prize Lecture at World Cities Summit 2024** © World Cities Summit
