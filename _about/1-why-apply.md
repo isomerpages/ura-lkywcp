@@ -13,7 +13,7 @@ Winners of the Prize get exclusive opportunities to:
 
 1. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. This includes: 
    - Public sharing at the Lee Kuan Yew World City Prize Lecture
-   - Regular features on the Prize website and LinkedIn channel
+   - Regular features on the Prize website and [LinkedIn channel](https://www.linkedin.com/company/worldcityprize/)
    - Published case studies and stories in publications
    - International media coverage
 3. **Learn from Global Best Practices**: Learn from the experiences of other cities, including successful projects and initiatives from our current cohort of 27 Prize cities, and identify new solutions and strategies to address urban challenges and improve quality of life for citizens.
