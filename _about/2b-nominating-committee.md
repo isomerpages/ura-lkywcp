@@ -26,7 +26,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 <tbody>
 <tr>
 <td style="width: 150px;"><br><img src="/images/jury/ricky-burdett.png" alt="Ricky Burdett" /><br></td>
-<td><br><strong>Prof Ricky <u>Burdett</u></strong><br />Professor of Urban Studies, Director of LSE Cities and Urban age<br />London School of Economics and Political Science<br />United Kingdom<br><a href="/ricky-burdett/">Biography</a></td>
+<td><br><strong>Prof Ricky <u>Burdett</u></strong><br />Professor of Urban Studies, Director of LSE Cities and Urban age<br />London School of Economics and Political Science<br />United Kingdom<br><a href="/ricky-burdett/">Biography</a> | <a href="https://www.linkedin.com/in/ricky-burdett-23981b56/">LinkedIn</a></td>
 </tr>
 <tr>
 <td style="width: 150px;"><br><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /><br></td>
@@ -34,7 +34,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 </tr>
 <tr>
 <td><br><img src="/images/jury/chris-luebkeman.png" alt="Chris Luebkeman" /><br></td>
-<td><br><strong>Dr Chris <u>Luebkeman</u></strong><br />Leader, Strategic Foresight Hub <br> Office of the President, ETH Zurich<br />Switzerland<br><a href="/chris-luebkeman/">Biography</a></td>
+<td><br><strong>Dr Chris <u>Luebkeman</u></strong><br />Leader, Strategic Foresight Hub <br> Office of the President, ETH Zurich<br />Switzerland<br><a href="/chris-luebkeman/">Biography</a> | <a href="https://www.linkedin.com/in/chrisluebkeman/">LinkedIn</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /><br></td>
@@ -42,7 +42,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 </tr>
 <tr>
 <td><br><img src="/images/jury/weiping-wu.png" alt="Weiping Wu" /><br></td>
-<td><br><strong>Prof Weiping <u>Wu</u> </strong><br /> Professor, Director of Urban Planning programme<br />Columbia GSAPP<br />USA<br><a href="/weiping-wu/">Biography</a></td>
+<td><br><strong>Prof Weiping <u>Wu</u> </strong><br /> Professor, Director of Urban Planning programme<br />Columbia GSAPP<br />USA<br><a href="/weiping-wu/">Biography</a> | <a href="https://www.linkedin.com/in/weiping-wu-25825295/">LinkedIn</a></td>
   </tr>
 </tbody>
 </table>
