@@ -21,7 +21,6 @@ Winners of the Prize get exclusive opportunities to:
 5. **Join a Network of Innovative Cities**: Become part of a global network of cities driving urban innovation and sustainable development, and potentially collaborate with other Prize cities to share knowledge, expertise, and best practices. This includes:
    - Invitation to join the City Network for Lee Kuan Yew World City Prize[^1]
    - Participate in knowledge-sharing and capacity-building programmes
-   - Exchange insights with Singapore's public agencies 
 
 ➜ [Find out more!](/prize-cycle/)
 
