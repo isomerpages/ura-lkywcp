@@ -5,6 +5,8 @@ image: /images/medallion-1280.jpg/
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 
+![Why oh why](/image/why-apply.jpg)
+
 #### **Why apply for the Prize?**
 
 By applying for the Prize, you get an opportunity to:
