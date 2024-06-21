@@ -11,7 +11,7 @@ description: A biennial international award that honours outstanding achievement
 
 Winners of the Prize get exclusive opportunities to:
 
-1. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, and gain recognition as a leader in urban innovation and sustainable development. This includes: 
+1. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. This includes: 
    - Public sharing at the Lee Kuan Yew World City Prize Lecture
    - Regular features on the Prize website and LinkedIn channel
    - Published case studies and stories in publications
