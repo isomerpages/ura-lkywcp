@@ -37,12 +37,6 @@ sections:
         url: /about-the-prize/
         image: /images/worldmapdots.png/
         alt: World map
-    - infobar:    
-        title: 
-        subtitle: Prof Cheong Koon Hean<br>Chair, Nominating Committee<br>———
-        description: <h5><font color=#967942>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</font></h5>
-        button: 
-        url: 
     - infopic:    
         title: Download our new eBook!
         subtitle: 
@@ -51,14 +45,12 @@ sections:
         url: /documents/worldcityprize-2024.pdf/
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
-    - infopic:
+    - infobar:
         title: 
         subtitle: Commemorative video on Mexico City
-        description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2024, with exclusive interviews from the Mayors of the 2024 cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
-        button: Download the eBook
-        url: /documents/worldcityprize-2024.pdf/
-        image: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        alt: eBook
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        button: More videos
+        url: https://www.youtube.com/@worldcityprize/
     - infobar:
         title: 💬
         subtitle: 
