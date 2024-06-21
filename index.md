@@ -37,6 +37,12 @@ sections:
         url: /about-the-prize/
         image: /images/worldmapdots.png/
         alt: World map
+    - infobar:
+        title: 
+        subtitle: Commemorative video on Mexico City
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        button: More videos
+        url: https://www.youtube.com/@worldcityprize/
     - infopic:    
         title: Download our new eBook!
         subtitle: 
@@ -45,12 +51,6 @@ sections:
         url: /documents/worldcityprize-2024.pdf/
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
-    - infobar:
-        title: 
-        subtitle: Commemorative video on Mexico City
-        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        button: More videos
-        url: https://www.youtube.com/@worldcityprize/
     - infobar:
         title: 💬
         subtitle: 
