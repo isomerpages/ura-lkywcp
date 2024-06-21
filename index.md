@@ -52,6 +52,12 @@ sections:
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
     - infobar:
+        title: Mexico City
+        subtitle: 
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        button: More Videos
+        url: https://www.youtube.com/@worldcityprize
+    - infobar:
         title: 💬
         subtitle: 
         description: <h5><b>Connect with us on <a href="https://www.linkedin.com/company/worldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a><br><font color="#967942">#worldcityprize</font></b></h5>
