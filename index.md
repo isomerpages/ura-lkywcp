@@ -58,7 +58,7 @@ sections:
         button: 
         url: 
     - resources:
-        title: Cities database
+        title: Cities resources
         subtitle: Deep delve
         button: Learn more from the Prize cities
 ---
