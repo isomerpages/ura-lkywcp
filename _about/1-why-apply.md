@@ -26,6 +26,4 @@ Winners of the Prize get exclusive opportunities to:
 
 ---
 
-###### 
-
 [^1]: Envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues, the Network aims to bring cities together to collectively address urban challenges through partnerships between government officials, planning departments and knowledge organisations.
