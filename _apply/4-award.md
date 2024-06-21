@@ -19,7 +19,7 @@ The Lee Kuan Yew World City Prize Laureate and Special Mentions will be honoured
 
 ###### ![Lee Kuan Yew World City Prize Lecture at World Cities Summit 2024](/images/features/2024/prize-lecture-2024.jpg/)**Lee Kuan Yew World City Prize Lecture at World Cities Summit 2024** © Damien Woon
 
-The Lee Kuan Yew World City Prize Laureate and Special Mentions will share their achievements and outstanding urban initiatives at the Lee Kuan Yew World City Prize Lecture. Both the Prize Lecture and Award Ceremony & Banquet are key highlights of [World Cities Summit (WCS)](https://www.worldcitiessummit.com.sg) – an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions and forge new partnerships.
+The Lee Kuan Yew World City Prize Laureate and Special Mentions will share their achievements and outstanding urban initiatives at the Lee Kuan Yew World City Prize Lecture. Both the Award Ceremony & Banquet and Prize Lecture are key highlights of [World Cities Summit (WCS)](https://www.worldcitiessummit.com.sg) – an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions and forge new partnerships.
 
 ---
 
