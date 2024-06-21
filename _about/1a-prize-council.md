@@ -53,8 +53,8 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 
 | **1** | **Mr S. <u>Dhanabalan</u>** <br> Former Chair, Temasek Holdings | 
 | **2** | **Dr Pierre <u>Laconte</u>** <br> Former President, ISOCARP | 
-| **3** | **Mr Fumihiko <u>Maki</u>** <br> Principal, Maki & Associates | 
-| **4** | **Late <u>Park</u> Won-soon** <br> Former Mayor, Seoul |
+| **3** | **Late Mr Fumihiko <u>Maki</u>** <br> Principal, Maki & Associates | 
+| **4** | **Late Mr <u>Park</u> Won-soon** <br> Former Mayor, Seoul |
 | **5** | **Mr J Y <u>Pillay</u>** <br> Former Chair, Council of Presidential Advisers Singapore | 
 | **6** | **Mr John <u>So</u>** <br> Former Lord Mayor, Melbourne | 
 | **7** | **Mr Achim <u>Steiner</u>** <br> Administrator, United Nations Development Programme |
