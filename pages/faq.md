@@ -136,7 +136,7 @@ The results of the Prize will be announced via an offical press release. The nom
 
 #### **Who will be invited to receive the award?**
 
-The Mayor (or highest level representative) of the Prize Laureate and Special Mentions will be invited to the <u>Lee Kuan Yew Prize Award Ceremony & Banquet</u>** (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
+The Mayor (or highest level representative) of the Prize Laureate and Special Mentions will be invited to the <u>Lee Kuan Yew Prize Award Ceremony & Banquet</u> (a highlight event of the [World Cities Summit](https://www.worldcitiessummit.com.sg/), a biennial international Summit held in Singapore) to receive the award. The key city officials and partner organisations are also welcomed to participate in the event. 
 
 #### **Will the Prize Laureate and Special Mentions be invited to speak?**
 
