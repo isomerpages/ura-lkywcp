@@ -14,7 +14,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 - [About the Prize](#about-the-prize)
 - [Stage A nominations](#stage-a-nominations)
 - [Stage B submissions](#stage-b-submissions)
-- [Announcement and award](#announcement-and-award)
+- [Results and award](#results-and-award)
 
 ---
 
@@ -131,7 +131,7 @@ Please refer to the [glossary of terms](/glossary/) for a list of definitions.
 
 ---
 
-# **Announcement and award** 
+# **Results and award** 
 
 #### **How will the results be announced?**
 
