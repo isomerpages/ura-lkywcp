@@ -85,7 +85,7 @@ The nominated city will be informed via email to prepare and submit a detailed r
 
 #### **Can the city submit additional non-English materials?**
 
-The Stage B report must be completed in English.
+The main submission report must be completed in English. You may submit additional materials in English or other languages for reference. 
 
 #### **What type of demonstration projects are eligible?**
 
