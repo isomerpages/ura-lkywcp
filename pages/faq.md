@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 7 May 2024 |
+| 22 June 2024 |
 
 #### **Sections**
 
