@@ -23,7 +23,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 #### **Who is eligible to nominate?**
 
-Cities interested to participate must engage an independent third party (nominator) in any of the following categories to nominate them:
+Cities interested to apply for the Prize must engage an independent third party (nominator) in any of the following categories to nominate them:
 
 - Professors of architecture, urban planning, urban design, urban development, or related fields from accredited universities.
 - International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and related fields. Examples include ISOCARP, Fundación Metropoli, United Nations Environment Programme, and Urban Land Institute, among others.
