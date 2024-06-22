@@ -32,7 +32,7 @@ sections:
     - infopic:    
         title: The Prize for cities
         subtitle: 
-        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
+        description: The Prize is a prestigious international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
         button: About the Prize
         url: /about-the-prize/
         image: /images/worldmapdots.png/
