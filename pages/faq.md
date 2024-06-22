@@ -91,10 +91,10 @@ The Stage B report must be completed in English.
 
 A broad range of projects is accepted, such as: 
 
-| Governance | Urban planning | Urban regeneration |
-| Urban resilience | Disaster risk management | Environmental projects |
-| Economic development | Transport & mobility | Social programmes |
-| Smart city initiatives | Activities & programming |
+| Governance | Public services | Urban regeneration |
+| Resilience | Climate change adaptation | Environmental projects |
+| Economic development | Sustainable transport | Social programmes |
+| Smart city initiatives | Digital initiatives | Public spaces activation |
 
 The demonstration projects should illustrate the success of the city's overall master plan/strategy, and relate to the creation of liveable, vibrant, and sustainable urban communities, and improve the quality of life for the residents.
 
