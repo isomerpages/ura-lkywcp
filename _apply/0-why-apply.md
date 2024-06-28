@@ -12,7 +12,7 @@ description: A biennial international award that honours outstanding achievement
 Winners of the Prize get exclusive opportunities to:
 
 1. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. 
-   - Have your travel expenses covered (up to USD $15,000) to attend the [World Cities Summit (WCS)](https://www.worldcitiessummit.com.sg/) in Singapore
+   - Have your travel expenses covered (up to USD $15,000) to attend [World Cities Summit (WCS)](https://www.worldcitiessummit.com.sg/) in Singapore
    - Share your city's achivements at the Lee Kuan Yew World City Prize Lecture, a key highlight of WCS
    - Get featured on the Prize website, [LinkedIn page](https://www.linkedin.com/company/worldcityprize/) and [publications](documents/worldcityprize-2024.pdf/)
    - Gain international media coverage
