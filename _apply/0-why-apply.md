@@ -9,7 +9,7 @@ description: A biennial international award that honours outstanding achievement
 
 #### **Why apply for the Prize?**
 
-Winners of the Prize get exclusive opportunities to:
+The 2026 Prize Laureate and Special Mentions will get exclusive opportunities to:
 
 1. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. 
    - Share your city's achivements at the Lee Kuan Yew World City Prize Lecture, a key highlight of [World Cities Summit](https://www.worldcitiessummit.com.sg/)
