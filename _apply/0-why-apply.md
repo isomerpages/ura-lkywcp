@@ -22,9 +22,16 @@ By applying for the Prize, you will get to:
 
 The 2026 Prize Laureate and Special Mentions will get to:
 
-1. **Receive Esteemed Honors**: Be celebrated at the prestigious Lee Kuan Yew World City Prize Award Ceremony & Banquet:
-   - 2026 Prize Laureate: Award Certificate, Gold Medallion valued at SGD 50,000, Cash Prize of SGD 300,000, and travel expenses covered to attend the World Cities Summit in Singapore
-   - 2026 Special Mentions: Award Certificate, Crystal Trophy, and travel expenses covered to attend the World Cities Summit in Singapore
+1. **Receive Esteemed Honours**: Take centre stage at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, a prestigious event that acknowledges and celebrates outstanding achievements in urban innovation and sustainable development. Receive:
+   - 2026 Prize Laureate:
+      - Award Certificate
+      - Gold Medallion (valued at SGD 50,000)
+      - Cash Prize (SGD 300,000)
+      - Travel expenses covered to attend World Cities Summit in Singapore
+   - 2026 Special Mentions:
+      - Award Certificate
+      - Crystal Trophy
+      - Travel expenses covered to attend World Cities Summit in Singapore
 
 2. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. 
    - Share your city's achivements at the Lee Kuan Yew World City Prize Lecture, a key highlight of [World Cities Summit](https://www.worldcitiessummit.com.sg/)
