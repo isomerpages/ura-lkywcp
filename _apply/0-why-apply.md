@@ -33,11 +33,11 @@ The 2026 Prize Laureate and Special Mentions will get to:
 
 #### **Full list of benefits**
 
-<table border="1">
+<table border="0">
 <tbody>
 <tr>
-<td><strong>2026 Prize Laureate</strong></td>
-<td>
+<td style="text-align: right;"><strong>2026 Prize Laureate</strong></td>
+<td style="font-size: 8;">
 <ul>
 <li>Award Certificate</li>
 <li>Gold Medallion (valued at Singapore Dollars $50,000)</li>
@@ -51,8 +51,8 @@ The 2026 Prize Laureate and Special Mentions will get to:
 </td>
 </tr>
 <tr>
-<td><strong>2026 Special Mentions</strong></td>
-<td>
+<td style="text-align: right;"><strong>2026 Special Mentions</strong></td>
+<td style="font-size: 8;">
 <ul>
 <li>Award Certificate</li>
 <li>Crystal Trophy</li>
