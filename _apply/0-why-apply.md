@@ -23,25 +23,18 @@ By applying for the Prize, you will get to:
 The 2026 Prize Laureate and Special Mentions will get to:
 
 1. **Receive Esteemed Honours**: Take centre stage at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, a prestigious event that celebrates outstanding achievements in urban innovation and sustainable development.
-   - The 2026 Prize Laureate will receive:
-      - Award Certificate
-      - Gold Medallion (valued at SGD 50,000)
-      - Cash Prize (SGD 300,000)
-      - Travel expenses covered to attend World Cities Summit in Singapore
-   - The 2026 Special Mentions will receive:
-      - Award Certificate
-      - Crystal Trophy
-      - Travel expenses covered to attend World Cities Summit in Singapore
-
 2. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. 
    - Share your city's achivements at the Lee Kuan Yew World City Prize Lecture, a key highlight of [World Cities Summit](https://www.worldcitiessummit.com.sg/)
    - Get featured on the Prize website, [LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](documents/worldcityprize-2024.pdf/)
    - Gain international media coverage
-
 3. **Join a Network of Innovative Cities**: Become part of a global network of cities driving urban innovation and sustainable development, and potentially collaborate with other Prize cities to share knowledge, expertise, and best practices.
    - Receive invitation to join the City Network for Lee Kuan Yew World City Prize[^1]
    - Participate in knowledge-sharing and capacity-building programmes
 
+#### **Full list of benefits**
+
+| **2026 Prize Laureate** | - Award Certificate <br> - Gold Medallion (valued at SGD 50,000) <br> - Cash Prize of Singapore Dollars $300,000 <br> - Travel expenses covered to attend World Cities Summit in Singapore <br> - Sharing at Lee Kuan Yew World City Prize Lecture <br> - Features on the Prize website, [LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](documents/worldcityprize-2024.pdf/) <br> Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet <br> - International media coverage |
+| **2026 Special Mentions** | - Award Certificate <br> - Crystal Trophy <br> - Travel expenses covered to attend World Cities Summit in Singapore <br> - Sharing at Lee Kuan Yew World City Prize Lecture <br> Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet <br> - Features on the Prize website, [LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](documents/worldcityprize-2024.pdf/) <br> - International media coverage |
 
 ➜ [Find out more!](/prize-cycle/)
 
