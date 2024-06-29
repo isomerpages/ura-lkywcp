@@ -33,39 +33,23 @@ The 2026 Prize Laureate and Special Mentions will get to:
 
 #### **Full list of benefits**
 
-<table border="0">
-<tbody>
-<tr>
-<td style="text-align: right;"><strong>2026 Prize Laureate</strong></td>
-<td style="font-size: 8;">
-<ul>
-<li>Award Certificate</li>
-<li>Gold Medallion (valued at Singapore Dollars $50,000)</li>
-<li>Cash Prize of Singapore Dollars $300,000</li>
-<li>Travel expenses covered to attend World Cities Summit in Singapore</li>
-<li>Sharing at Lee Kuan Yew World City Prize Lecture</li>
-<li>Features on the Prize website, <a href="https://www.linkedin.com/company/worldcityprize/" rel="nofollow">LinkedIn page</a>,&nbsp;<a href="https://www.youtube.com/@worldcityprize" rel="nofollow">YouTube channel</a>&nbsp;and&nbsp;<a href="https://github.com/isomerpages/ura-lkywcp/blob/staging/_apply/documents/worldcityprize-2024.pdf">publications</a></li>
-<li>Receive award at the Lee Kuan Yew World City Prize Award Ceremony &amp; Banquet</li>
-<li>International media coverage</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="text-align: right;"><strong>2026 Special Mentions</strong></td>
-<td style="font-size: 8;">
-<ul>
-<li>Award Certificate</li>
-<li>Crystal Trophy</li>
-<li>Travel expenses covered to attend World Cities Summit in Singapore</li>
-<li>Sharing at Lee Kuan Yew World City Prize Lecture</li>
-<li>Receive award at the Lee Kuan Yew World City Prize Award Ceremony &amp; Banquet</li>
-<li>Features on the Prize website, <a href="https://www.linkedin.com/company/worldcityprize/" rel="nofollow">LinkedIn page</a>,&nbsp;<a href="https://www.youtube.com/@worldcityprize" rel="nofollow">YouTube channel</a>&nbsp;and&nbsp;<a href="https://github.com/isomerpages/ura-lkywcp/blob/staging/_apply/documents/worldcityprize-2024.pdf">publications</a></li>
-<li>International media coverage</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+| | |
+|---:|:---|
+| **2026 Prize Laureate** | Award Certificate |
+| | Gold Medallion (valued at Singapore Dollars $50,000) |
+| | Cash Prize of Singapore Dollars $300,000 |
+| | Travel expenses covered to attend World Cities Summit in Singapore |
+| | Sharing at Lee Kuan Yew World City Prize Lecture |
+| | Features on the Prize website, LinkedIn page, YouTube channel and publications |
+| | Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet |
+| | International media coverage |
+| **2026 Special Mentions** | Award Certificate |
+| | Crystal Trophy |
+| | Travel expenses covered to attend World Cities Summit in Singapore |
+| | Sharing at Lee Kuan Yew World City Prize Lecture |
+| | Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet |
+| | Features on the Prize website, LinkedIn page, YouTube channel and publications |
+| | International media coverage |
 
 ➜ [Find out more!](/prize-cycle/)
 
