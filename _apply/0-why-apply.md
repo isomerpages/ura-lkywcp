@@ -26,9 +26,7 @@ The 2026 Prize Laureate and Special Mentions will get to:
 2. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. 
 3. **Join a Network of Innovative Cities**: Become part of a global network of cities driving urban innovation and sustainable development, and potentially collaborate with other Prize cities to share knowledge, expertise, and best practices.
 
-#### **Full list of benefits**
-
-| | 2026 Prize Laureate | 2026 Special Mentions |
+| Full list of benefits | 2026 Prize Laureate | 2026 Special Mentions |
 |:---|:---:|:---:|
 | Award Certificate | ✓ | ✓ |
 | Gold Medallion (valued at Singapore Dollars $50,000) | ✓ |  |
