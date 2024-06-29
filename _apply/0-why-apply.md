@@ -34,16 +34,17 @@ The 2026 Prize Laureate and Special Mentions will get to:
 | Gold Medallion (valued at Singapore Dollars $50,000) | ✓ |  |
 | Crystal Trophy |  | ✓ |
 | Cash Prize of Singapore Dollars $300,000 | ✓ |  |
-| Travel expenses covered to attend World Cities Summit in Singapore | ✓ | ✓ |
+| Travel expenses covered to attend World Cities Summit in Singapore[^1] | ✓ | ✓ |
 | Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet | ✓ | ✓ |
 | Sharing at Lee Kuan Yew World City Prize Lecture | ✓ | ✓ |
 | Features on the Prize website, LinkedIn page, YouTube channel and publications[LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](documents/worldcityprize-2024.pdf/) | ✓ | ✓ |
 | International media coverage | ✓ | ✓ |
-| Receive invitation to join the City Network for Lee Kuan Yew World City Prize[^1] | ✓ | ✓ |
+| Receive invitation to join the City Network for Lee Kuan Yew World City Prize[^2] | ✓ | ✓ |
 | Participate in knowledge-sharing and capacity-building programmes | ✓ | ✓ |
 
 ➜ [Find out more!](/prize-cycle/)
 
 ---
 
-[^1]: Envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues, the Network aims to bring cities together to collectively address urban challenges through partnerships between government officials, planning departments and knowledge organisations.
+[^1]: One-time offer only for the next edition of World Cities Summit. 
+[^2]: Envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues, the Network aims to bring cities together to collectively address urban challenges through partnerships between government officials, planning departments and knowledge organisations.
