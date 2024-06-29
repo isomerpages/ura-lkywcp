@@ -46,5 +46,5 @@ The 2026 Prize Laureate and Special Mentions will get to:
 
 ---
 
-[^1]: One-time offer only for the next edition of World Cities Summit. 
+[^1]: One-time offer only for the next edition of World Cities Summit, non-perpetual.
 [^2]: Envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues, the Network aims to bring cities together to collectively address urban challenges through partnerships between government officials, planning departments and knowledge organisations.
