@@ -28,10 +28,10 @@ The 2026 Prize Laureate and Special Mentions will get to:
 
 | Full list of benefits | 2026 Prize Laureate | 2026 Special Mentions |
 |:---|:---:|:---:|
-| Award Certificate | ✓ | ✓ |
+| Cash Prize of Singapore Dollars $300,000 | ✓ |  |
 | Gold Medallion (valued at Singapore Dollars $50,000) | ✓ |  |
 | Crystal Trophy |  | ✓ |
-| Cash Prize of Singapore Dollars $300,000 | ✓ |  |
+| Award Certificate | ✓ | ✓ |
 | Travel expenses covered to attend World Cities Summit in Singapore[^1] | ✓ | ✓ |
 | Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet | ✓ | ✓ |
 | Sharing at Lee Kuan Yew World City Prize Lecture | ✓ | ✓ |
