@@ -37,7 +37,7 @@ The 2026 Prize Laureate and Special Mentions will get to:
 | Travel expenses covered to attend World Cities Summit in Singapore[^1] | ✓ | ✓ |
 | Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet | ✓ | ✓ |
 | Sharing at Lee Kuan Yew World City Prize Lecture | ✓ | ✓ |
-| Features on the Prize website, LinkedIn page, YouTube channel and publications[LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](documents/worldcityprize-2024.pdf/) | ✓ | ✓ |
+| Features on the Prize website, [LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](documents/worldcityprize-2024.pdf/) | ✓ | ✓ |
 | International media coverage | ✓ | ✓ |
 | Receive invitation to join the City Network for Lee Kuan Yew World City Prize[^2] | ✓ | ✓ |
 | Participate in knowledge-sharing and capacity-building programmes | ✓ | ✓ |
