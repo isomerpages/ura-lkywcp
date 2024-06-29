@@ -22,7 +22,7 @@ By applying for the Prize, you will get to:
 
 The 2026 Prize Laureate and Special Mentions will get to:
 
-1. **Receive Esteemed Honours**: Take centre stage at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, a prestigious event that celebrates outstanding achievements in urban innovation and sustainable development.
+1. **Take Centre Stage**: Receive awards at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, a prestigious event that celebrates outstanding achievements in urban innovation and sustainable development.
 2. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. 
 3. **Join a Network of Innovative Cities**: Become part of a global network of cities driving urban innovation and sustainable development, and potentially collaborate with other Prize cities to share knowledge, expertise, and best practices.
 
