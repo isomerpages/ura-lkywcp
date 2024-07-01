@@ -23,7 +23,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 #### **How do you define a city?**
 
-We define cities as urban entities with a population exceeding 100,000, governed by a single mayor or governor, and possessing autonomous jurisdiction, independent of any larger municipal or metropolitan structure. These cities have full administrative control over typical urban infrastructure and services, such as transportation, energy, water, waste management, and housing, as well as other critical systems and facilities essential for a city's functioning and residents' well-being. 
+We define cities as urban entities with a population typically exceeding 100,000, governed by a single mayor or governor, and possessing autonomous jurisdiction, independent of any larger municipal or metropolitan structure. These cities have full administrative control over typical urban infrastructure and services, such as transportation, energy, water, waste management, and housing, as well as other critical systems and facilities essential for a city's functioning and residents' well-being. 
 
 **Important**: If your city is part of a larger municipal or metropolitan entity, please apply under that entity. This will allow jurors to fully understand your city's role, resources, and achievements within the larger context, making it easier for them to accurately assess your application and potential impact.
 
