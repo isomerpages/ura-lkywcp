@@ -2,37 +2,31 @@
 title: Stage B
 permalink: /stage-b/
 third_nav_title: Nominations
-image: /images/nominations/2024-stage-b.png
-description: Submissions for the Lee Kuan Yew World City Prize 2024 are closed. 
-published: false
+image: /images/features/2024/stage-b.png
+description: Nominations for the Lee Kuan Yew World City Prize 2026 will open soon! 
+published: true
 ---
 
-#### **Instructions**
+##### Nominations for the 2026 Prize will open soon. The Prize is awarded to cities only. 
 
-Submissions closed.
+#### **Submit detailed written report**
 
-#### **Stage B submission**
-
-The Stage B submission report comprises the following parts: 
+Nominated cities will be notified to prepare and submit a comprehensive written report containing the following parts. Cities that have applied previously may opt to update their previous submissions with the latest information.
 
 | Part | Details |
-| :--- | :--- |
-| I <br> **Submission report** | A written report in 3 sections: <br><br> **A. City portfolio** <br> Brief information on the city. <br><br> **B. Master plan or strategy** <br> Brief information on the overall master plan or strategy for the city. <br><br> **C. Demonstration projects** <br> A selection of 3 demonstration projects to illustrate the success of the master plan or strategy. Projects can be fully completed or completed in phases. |
+|---:|:---|
+| **Key statistics** | Key statistics comparing the city's progress over the past 10-20 years in 5 key areas:: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
+| **Medium/long-term plan or strategy** | Information on the city's medium to long-term master plan or development strategy, including details on its vision, goals, objectives, and proposed initiatives and projects to achieve sustainable development and urban growth. | 
+| **Demonstration projects** | 3 - 5 key projects that showcase the successful phased implementation of the medium to long-term plan in different areas, such as sustainable transportation, climate change adaptation, urban regeneration, and smart city initiatives. These projects should be either fully completed or partially completed with tangible early results that demonstrate impact and progress. |
 
-The following items are **<mark>optional</mark>**. Nominated cities may choose to submit the following as additional information: 
+###### **Note**: The Prize Secretariat may arrange and pay for on-site evaluations to selected cities, if required, and may also request additional information. All submitted materials will be retained by the Prize Secretariat. Nominated cities must obtain prior clearance from copyright owners for any photos submitted, and grant the Prize Secretariat permission to use them for evaluation and publicity purposes, crediting the copyright owners or the city if owners are not specified.
 
-| Part | Details |
-| :--- | :--- |
-| II <br> **Key statistics** <br> | Key statistics comparing your city today and 10-20 years in 5 areas: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
-| III <br> **Supporting documents** | Documents to support or enrich the city's submission, such as city reports, media reports, videos, accolades, etc. |
+#### **Submission template and form**
 
-#### **The fine print**
+Nominations for the 2026 Prize will open soon.
 
-| **1** | The Prize Secretariat may arrange and pay for in-person travels to the nominated city for further on-site evaluations if required. | 
-| **2** | The Prize Secretariat may also request for additional information if required. | 
-| **3** | The Prize Secretariat shall retain all submitted materials. | 
-| **4** | Nominated cities shall seek prior clearance from the respective copyright owners of the photos, and allow the Prize Secretariat to use them in an appropriate manner related to the Prize's evaluation and/or publicity purposes. The Prize Secretariat shall credit the respective copyright owners if the photos were used publicly. In cases where copyright owners were not indicated, the Prize Secretariat shall credit the city. |
-  
+---
+
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/) 

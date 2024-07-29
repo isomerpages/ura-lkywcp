@@ -6,7 +6,7 @@ agency_name: the Prize Secretariat
 locations:
   - title: Mailing Address
     address:
-        - Lee Kuan Yew World City Prize Secretariat
+        - LKY World City Prize Secretariat
         - c/o Urban Redevelopment Authority
         - 45 Maxwell Road
         - The URA Centre, Tower
@@ -23,7 +23,7 @@ contacts:
     - phone:  
     - email: ura_worldcityprize@ura.gov.sg
     - other: 
-  - title: Connect with us on LinkedIn!
+  - title: Follow us on LinkedIn!
     content:
     - phone: 
     - email: 

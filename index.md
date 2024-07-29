@@ -32,17 +32,17 @@ sections:
     - infopic:    
         title: The Prize for cities
         subtitle: 
-        description: A biennial international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
+        description: The Prize is a prestigious international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
         button: About the Prize
         url: /about-the-prize/
         image: /images/worldmapdots.png/
         alt: World map
-    - infobar:    
+    - infobar:
         title: 
-        subtitle: Dr Cheong Koon Hean<br>Chair, Nominating Committee<br>———
-        description: <h5><font color=#967942>"Through the collective efforts of all cities around the world, we can aspire to learn from one another and truly make an impact in creating a better place for ourselves, and our future generations."</font></h5>
-        button: 
-        url: 
+        subtitle: Commemorative video on Mexico City
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        button: More videos
+        url: https://www.youtube.com/@worldcityprize/
     - infopic:    
         title: Download our new eBook!
         subtitle: 
@@ -58,7 +58,7 @@ sections:
         button: 
         url: 
     - resources:
-        title: Cities database
+        title: Cities resources
         subtitle: Deep delve
         button: Learn more from the Prize cities
 ---

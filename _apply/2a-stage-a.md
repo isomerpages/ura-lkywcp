@@ -2,38 +2,30 @@
 title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
-image: /images/nominations/2024-stage-a.png
-description: Nominations for the Lee Kuan Yew World City Prize 2024 are closed
-published: false
+image: /images/features/2024/stage-a.png
+description: Nominations for the LKY World City Prize 2026 will open soon!
+published: true
 ---
 
-#### **Instructions** 
+##### Nominations for the 2026 Prize will open soon. The Prize is awarded to cities only.
 
-Nominations closed. The Prize is **<mark>awarded to cities only</mark>**.
+#### **Apply for the Prize**
 
-#### **Interested cities – please read the following**
+Cities interested to apply for the Prize must engage an independent third-party expert in urban planning and cities to nominate them. The following is a suggested list of possible nominators:
 
-Cities interested to participate shall approach an independent third party (nominator) in any of the following categories to nominate them:
+| Category | Details |
+|---:|:---|
+| **Leading Academia** | Professors of architecture, urban planning, urban design, urban development, or related fields from accredited universities.  |
+| **International Organisations** | International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and related fields. Examples include ISOCARP, Fundación Metropoli, United Nations Environment Programme, and Urban Land Institute, among others. |
+| **Urban Experts** | Leading industry experts and practitioners in urban planning, urban design, and architecture-related fields, including principal architects, principal sustainability consultants, and other related specialists, preferably holding key appointments in firms with regional or international presence. |
 
-| **1** |  Leading academics (e.g. professors in universities) or academic institutions |
-| **2** |  Government officials (outside of the city administration) |
-| **3** |  International organisations in the fields of urban planning, housing, transport management, urban design and architecture, energy conservation, urban policy and management, and so on |
-| **4** |  Organisations in the public or private sectors |
-| **5** |  Non-government organisations (NGOs) |
-| **6** |  Leading industry experts in related fields |
+###### **Note**: Self-nominations[^1] are not accepted, and nominators who do not meet the specified criteria may be disqualified. There is no registration or entry fee required to submit a nomination.
 
-**<mark>Self-nominations are strictly not accepted.</mark>**[^1]
+#### **Nomination form**
 
-#### **Nominators – please read the following**
+Nominations for the 2026 Prize will open soon. 
 
-Please ensure that the city or cities that you are intending to nominate agree(s) to participate in the Prize. Please write and attach a short recommendation letter (*around 600 words*) together with the Nomination Form to support why the city that you are nominating should win the Prize, covering aspects such as: 
-
-- Outstanding leadership and governance
-- Successful urban transformation
-- Innovative urban solutions
-- Lessons for other cities
-
-**<mark>There is no entry fee required.</mark>**
+---
 
 #### **Next step**
 

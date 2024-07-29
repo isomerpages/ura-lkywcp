@@ -15,7 +15,7 @@ The Prize Secretariat manages the entire Prize cycle, including budgeting and re
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/secretariat/yap-lay-bee.png" alt="Yap Lay Bee" /><br></td>
-<td><strong>Ms <u>Yap</u> Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a></td>
+<td><strong>Ms <u>Yap</u> Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a> | <a href="https://sg.linkedin.com/in/lay-bee-yap-17288527">LinkedIn</a></td>
 </tr>
 </tbody>
 </table>
@@ -26,14 +26,14 @@ The Prize Secretariat manages the entire Prize cycle, including budgeting and re
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/secretariat/eugene-lau.png" alt="Eugene Lau" /><br></td>
-<td><strong>Mr Eugene <u>Lau</u></strong><br />Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a></td>
+<td><strong>Mr Eugene <u>Lau</u></strong><br />Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a> | <a href="https://www.linkedin.com/in/eugene-lau-wk/">LinkedIn</a></td>
 </tr>
 </tbody>
 </table>
 
 #### **Directory**
 
-| **Mailing address** | **Lee Kuan Yew World City Prize Secretariat** <br> c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower, #13-01 <br> Singapore 069118 <br> [Google Maps](https://goo.gl/maps/TC1db96iYdThEo8r8) |
+| **Mailing address** | **LKY World City Prize Secretariat** <br> c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower, #13-01 <br> Singapore 069118 <br> [Google Maps](https://goo.gl/maps/TC1db96iYdThEo8r8) |
 | **Email address** | [ura_worldcityprize@ura.gov.sg](mailto://ura_worldcityprize@ura.gov.sg) |
-| **LinkedIn** | [Connect with us!](https://www.linkedin.com/company/worldcityprize/) |
+| **LinkedIn** | [Follow our page!](https://www.linkedin.com/company/worldcityprize/) |
 | **YouTube** | [@worldcityprize](https://www.youtube.com/@worldcityprize/) |

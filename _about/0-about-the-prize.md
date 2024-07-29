@@ -9,7 +9,7 @@ description: A biennial international award that honours outstanding achievement
 
 > ##### "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
 
-<div align="right"><b>— Dr Cheong Koon Hean</b> <br> Chair, Nominating Committee</div>
+<div align="right"><b>— Prof Cheong Koon Hean</b> <br> Chair, Nominating Committee</div>
 
 **The Lee Kuan Yew World City Prize** is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
 
@@ -23,7 +23,7 @@ The Prize Laureate will be presented with an award certificate, a gold medallion
 
 The Prize is named after [Singapore’s first Prime Minister](https://www.pmo.gov.sg/Past-Prime-Ministers/Mr-LEE-Kuan-Yew). Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
 
-The Prize is co-organised by the [Urban Redevelopment Authority Singapore](https://www.ura.gov.sg/) (URA) and the [Centre for Liveable Cities](https://www.clc.gov.sg/) (CLC). The Prize Secretariat sits within URA. 
+The Prize is co-organised by the [Urban Redevelopment Authority Singapore](https://www.ura.gov.sg/) (URA) and the Centre for Liveable Cities. The Prize Secretariat sits within URA. 
 
 #### **Prize partners**
 
