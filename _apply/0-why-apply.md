@@ -14,7 +14,8 @@ By applying for the Prize, you will get to:
 1. **Assess your city’s potential**: Undertake a rigorous self-evaluation process through the submission report to delve deep into your city’s data to identify strengths, weaknesses, and areas for improvement. 
 2. **Showcase your city’s brilliance**: Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead.
 3. **Be among a global community of innovators**: Learn from and collaborate with leaders from other Prize cities to address shared challenges
-   - View [case studies](/resources/case-studies/) from the Prize cities
+
+➜ View [case studies](/resources/case-studies/) from the Prize cities
 
 #### **Winner benefits**
 
