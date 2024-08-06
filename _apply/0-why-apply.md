@@ -11,20 +11,18 @@ description: A biennial international award that honours outstanding achievement
 
 By applying for the Prize, you will get to: 
 
-1. **Assess Your City's Progress**: Undertake a rigorous self-evaluation process through the submission report to assess your city's current progress towards its goals and vision.
-   - Analyse your city's progress through key statistics over 10 - 20 years
-   - Outline your city's comprehensive medium to long-term urban development plan
-   - Showcase 3-5 flagship projects that exemplify your city's urban initiatives 
-2. **Learn from Global Best Practices**: Learn from the experiences of the other Prize cities, including their successful projects and initiatives, and identify new solutions and strategies to address urban challenges and improve quality of life for citizens.
+1. **Assess your city’s potential**: Undertake a rigorous self-evaluation process through the submission report to delve deep into your city’s data to identify strengths, weaknesses, and areas for improvement. 
+2. **Showcase your city’s brilliance**: Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead.
+3. **Be among a global community of innovators**: Learn from and collaborate with leaders from other Prize cities to address shared challenges
    - View [case studies](/resources/case-studies/) from the Prize cities
 
 #### **Winner benefits**
 
 The 2026 Prize Laureate and Special Mentions will get to:
 
-1. **Take Centre Stage**: Receive awards at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, a prestigious event that celebrates outstanding achievements in urban innovation and sustainable development.
-2. **Gain International Recognition**: Showcase your city's innovative urban initiatives and achievements on a global stage, inspiring other cities and communities to adopt innovative urban solutions, and gain recognition as a leader in urban innovation and sustainable development. 
-3. **Join a Network of Innovative Cities**: Become part of a global network of cities driving urban innovation and sustainable development, and potentially collaborate with other Prize cities to share knowledge, expertise, and best practices.
+1. **Gain international recognition**: Receive prestigious awards at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, gaining worldwide recognition as a leader in urban innovation and sustainable development.
+2. **Unlock new opportunities through our network of innovative cities**: Access exclusive networking events, exchange ideas and best practices to accelerate your city’s progress. 
+3. **Drive positive change**: Influence and inspire cities through a dedicated platform for knowledge sharing and collaboration.
 
 | Full list of benefits | 2026 Prize Laureate | 2026 Special Mentions |
 |:---|:---:|:---:|
