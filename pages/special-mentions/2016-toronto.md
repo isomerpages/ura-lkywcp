@@ -23,7 +23,7 @@ Today, the city is enjoying the fruits of its labour: the population of the cent
 
 #### **Overcoming obstacles**
 
-Despite limited support from the Federal and Provincial governments and a ‘weak mayor system’[^2], the city has, despite all odds, overcome the obstacles along the way and achieves its successes, a result of a long-term visioning backed by a committed civil service, private and non-profit organisations and a people that embrace its diversity. However, despite its achievements, Toronto needs to focus its energy on its current severe shortage in affordable housing and far-from-ideal transit, and devise creative solutions amidst limited funding to tackle these pressing issues. **<font color="#967942">O</font>**
+Despite limited support from the Federal and Provincial governments and a ‘weak mayor system’[^2], the city has, despite all odds, overcome the obstacles along the way and achieves its successes, a result of a long-term visioning backed by a committed civil service, private and non-profit organisations and a people that embrace its diversity. **<font color="#967942">O</font>**
 
 ---
 
