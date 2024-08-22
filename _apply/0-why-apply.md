@@ -39,7 +39,7 @@ The 2026 Prize Laureate and Special Mentions will get to:
 | Receive invitation to join the City Network for Lee Kuan Yew World City Prize[^3] | ✓ | ✓ |
 | Participate in knowledge-sharing and capacity-building programmes | ✓ | ✓ |
 
-➜ [Find out more about the 2026 Prize](/prize-cycle/)
+➜ [Find out more about the 2026 Prize](/prize-cycle/) <br>
 ➜ [Apply now!](https://go.gov.sg/nominations)
 
 ---
