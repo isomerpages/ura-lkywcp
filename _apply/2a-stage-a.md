@@ -23,7 +23,7 @@ Cities interested to apply for the Prize must engage an independent third-party 
 
 #### **Nomination form**
 
-- [Nomination form](https://go.gov.sg/nominations)
+➜ [Nomination form](https://go.gov.sg/nominations)
 
 ---
 
