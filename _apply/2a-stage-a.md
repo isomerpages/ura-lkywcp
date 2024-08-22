@@ -7,7 +7,7 @@ description: Nominations for the LKY World City Prize 2026 will open soon!
 published: true
 ---
 
-##### Nominations for the 2026 Prize will open soon. The Prize is awarded to cities only.
+##### Nominations for the 2026 Prize now open! [Nominate now](https://go.gov.sg/nominations)!
 
 #### **Apply for the Prize**
 
