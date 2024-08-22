@@ -7,7 +7,7 @@ description: Nominations for the Lee Kuan Yew World City Prize 2026 will open so
 published: true
 ---
 
-##### Nominations for the 2026 Prize will open soon. The Prize is awarded to cities only. 
+##### Nominations for the 2026 Prize now open! [Apply now!](https://go.gov.sg/nominations)
 
 #### **Submit detailed written report**
 
@@ -23,7 +23,9 @@ Nominated cities will be notified to prepare and submit a comprehensive written 
 
 #### **Submission template and form**
 
-Nominations for the 2026 Prize will open soon.
+➜ [Submit Part 1 - Key statistics](https://go.gov.sg/part-1) <br>
+➜ [Submit Part 2 - Medium/long-term plan](https://go.gov.sg/part-2) <br>
+➜ [Submit Part 3 - Key projects](https://go.gov.sg/part-3)
 
 ---
 
