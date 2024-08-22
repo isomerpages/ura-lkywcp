@@ -23,7 +23,7 @@ Cities interested to apply for the Prize must engage an independent third-party 
 
 #### **Nomination form**
 
-Nominations for the 2026 Prize will open soon. 
+- [Nomination form](https://go.gov.sg/nominations)
 
 ---
 
