@@ -17,11 +17,13 @@ Nominated cities will be notified to prepare and submit a comprehensive written 
 |---:|:---|
 | **Key statistics** | Key statistics comparing the city's progress over the past 10-20 years in 5 key areas:: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
 | **Medium/long-term plan or strategy** | Information on the city's medium to long-term master plan or development strategy, including details on its vision, goals, objectives, and proposed initiatives and projects to achieve sustainable development and urban growth. | 
-| **Demonstration projects** | 3 - 5 key projects that showcase the successful phased implementation of the medium to long-term plan in different areas, such as sustainable transportation, climate change adaptation, urban regeneration, and smart city initiatives. These projects should be either fully completed or partially completed with tangible early results that demonstrate impact and progress. |
+| **Key projects** | 3 - 5 key projects that showcase the successful phased implementation of the medium to long-term plan in different areas, such as sustainable transportation, climate change adaptation, urban regeneration, and smart city initiatives. These projects should be either fully completed or partially completed with tangible early results that demonstrate impact and progress. |
 
 ###### **Note**: The Prize Secretariat may arrange and pay for on-site evaluations to selected cities, if required, and may also request additional information. All submitted materials will be retained by the Prize Secretariat. Nominated cities must obtain prior clearance from copyright owners for any photos submitted, and grant the Prize Secretariat permission to use them for evaluation and publicity purposes, crediting the copyright owners or the city if owners are not specified.
 
-#### **Submission template and form**
+#### **Submission forms**
+
+Nominated cities must submit all 3 parts for the submission to be complete. You may wish to submit them together or separately as long as they are completed before the closing date.
 
 ➜ [Submit Part 1 - Key statistics](https://go.gov.sg/part-1) <br>
 ➜ [Submit Part 2 - Medium/long-term plan](https://go.gov.sg/part-2) <br>
