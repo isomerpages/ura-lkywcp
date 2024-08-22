@@ -40,6 +40,7 @@ The 2026 Prize Laureate and Special Mentions will get to:
 | Participate in knowledge-sharing and capacity-building programmes | ✓ | ✓ |
 
 ➜ [Find out more about the 2026 Prize](/prize-cycle/)
+➜ [Apply now!](https://go.gov.sg/nominations)
 
 ---
 
