@@ -11,8 +11,8 @@ sections:
         title: 
         subtitle: 
         background: /images/herobanner.gif
-        button: Register interest<br>for 2026 Prize
-        url: https://form.gov.sg/665c80f59ed8705777bc3828
+        button: Nominations now open!
+        url: https://go.gov.sg/nominations
         key_highlights:
             - title: 
               description: 
