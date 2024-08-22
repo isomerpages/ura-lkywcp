@@ -23,7 +23,7 @@ Nominated cities will be notified to prepare and submit a comprehensive written 
 
 #### **Submission forms**
 
-Nominated cities must submit all 3 parts for the submission to be complete. You may wish to submit them together or separately as long as they are completed before the closing date.
+Nominated cities are required to submit all three components - Part 1, Part 2, and Part 3. These can be sent together or separately, but must be received by the specified deadline to be considered complete.
 
 ➜ [Submit Part 1 - Key statistics](https://go.gov.sg/part-1) <br>
 ➜ [Submit Part 2 - Medium/long-term plan](https://go.gov.sg/part-2) <br>
