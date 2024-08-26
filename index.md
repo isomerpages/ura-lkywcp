@@ -23,7 +23,7 @@ sections:
         description: Apply for the 2026 Prize to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
         button: Apply now!
         url: https://go.gov.sg/nominations
-        image: /images/features/2024/CFN2026-2.gif/
+        image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infobar:    
         title: 
