@@ -24,6 +24,7 @@ sections:
         button: Apply now!
         url: https://go.gov.sg/nominations
         image: /images/features/2024/CFN2026-2.gif/
+        alt: Call for nominations for 2026 Prize
     - infobar:    
         title: 
         subtitle: <h5><b>2024 WINNERS</b></h5> 
