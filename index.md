@@ -18,15 +18,15 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: <h3><font color=#967942><b>Nominations now open!</b></font></h3><br>
+        title: <h3><font color=#967942><b>Nominations for the 2026 Prize now open!</b></font></h3><br>
         subtitle: 
-        description: Nominations for the 2026 Prize now open! Apply now to assess your city’s potential, showcase your city’s brilliance, and be among a global community of innovators.
+        description: Apply now to assess your city’s potential, showcase your city’s brilliance, and be among a global community of innovators.
         button: Apply now!
         url: https://go.gov.sg/nominations 
     - infobar:    
         title: <h5><b>2024 PRIZE LAUREATE</b></h5>
         subtitle: 
-        description: <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a> <br><br> <h5><b>2024 SPECIAL MENTIONS</b></h5><br><a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a>
+        description: <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a> <br><br> <b>2024 SPECIAL MENTIONS</b><br><a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a>
         button: 
         url: 
     - infopic:    
