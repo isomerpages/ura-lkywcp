@@ -13,6 +13,8 @@ links:
     collection: apply
   - title: Prize cities
     collection: laureates
+  - title: Network
+    collection: network
   - title: Resources
     resource_room: true
   - title: 中文版
