@@ -24,9 +24,9 @@ sections:
         button: Apply now!
         url: https://go.gov.sg/nominations 
     - infobar:    
-        title: <h5><b>2024 PRIZE LAUREATE</b></h5>
+        title: <h5><b>2024 WINNERS</b></h5>
         subtitle: 
-        description: <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a> <br><br> <b>2024 SPECIAL MENTIONS</b><br><a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a>
+        description: <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a><br><a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a>
         button: 
         url: 
     - infopic:    
