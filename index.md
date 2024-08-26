@@ -18,7 +18,7 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: <h3><font color=#967942><b>Nominations for the 2026 Prize now open!</b></font></h3><br>
+        title: <h3><font color=#967942><b>Call for nominations for the 2026 Prize</b></font></h3><br>
         subtitle: 
         description: Apply now to assess your city’s potential, showcase your city’s brilliance, and be among a global community of innovators.
         button: Apply now!
