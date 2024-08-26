@@ -17,12 +17,13 @@ sections:
             - title: 
               description: 
               url: 
-    - infobar:    
-        title: <h3><font color=#967942><b>Call for nominations</b></font></h3><br>
-        subtitle: 
+    - infopic:    
+        title: Call for nominations
+        subtitle: 2026 Prize
         description: Apply for the 2026 Prize to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
         button: Apply now!
-        url: https://go.gov.sg/nominations 
+        url: https://go.gov.sg/nominations
+        image: /images/features/2024/CFN2026-2.gif/
     - infobar:    
         title: 
         subtitle: <h5><b>2024 WINNERS</b></h5> 
