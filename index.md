@@ -28,7 +28,7 @@ sections:
     - infobar:    
         title: 
         subtitle: <h5><b>2024 WINNERS</b></h5> 
-        description: <img src="/images/laureates/mx-medal.png" width="150" height="150"><br><b>Laureate</b>: <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a><br><b>Special Mentions</b><br><a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a><br><br>
+        description: <img src="/images/laureates/mx-medal.png" width="150" height="150"><br><b>Laureate</b>\: <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a><br><b>Special Mentions</b><br><a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a><br><br>
         button: 
         url: 
     - infopic:    
