@@ -18,14 +18,14 @@ sections:
               description: 
               url: 
     - infobar:    
-        title: <h3><font color=#967942><b>Call for nominations for the 2026 Prize</b></font></h3><br>
+        title: <h3><font color=#967942><b>Call for nominations</b></font></h3><br>
         subtitle: 
-        description: Apply now to assess your city’s potential, showcase your city’s brilliance, and be among a global community of innovators.
+        description: Apply for the 2026 Prize to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
         button: Apply now!
         url: https://go.gov.sg/nominations 
     - infobar:    
-        title: <h5><b>2024 WINNERS</b></h5>
-        subtitle: 
+        title: 
+        subtitle: <h5><b>2024 WINNERS</b></h5> 
         description: <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a><br><a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a>
         button: 
         url: 
