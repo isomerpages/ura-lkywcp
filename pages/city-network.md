@@ -2,10 +2,10 @@
 title: Lee Kuan Yew World City Prize Network
 permalink: /citynetwork/
 image: /images/features/2024/city-network.jpg/
-description: The City Network for LKY World City Prize is envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues.
+description: The City Network for Lee Kuan Yew World City Prize is envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues.
 ---
 
-###### ![City Network](/images/features/2024/city-network.jpg/)**City Network for LKY World City Prize**
+###### ![City Network](/images/features/2024/city-network.jpg/)**City Network for Lee Kuan Yew World City Prize**
 
 The **City Network for the Lee Kuan Yew World City Prize (LKYWCP Network)** was launched on 3 June 2024 at the World Cities Summit 2024, with the [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg) and [Centre for Liveable Cities (CLC)](https://www.clc.gov.sg) serving as co-Secretariats.
 
