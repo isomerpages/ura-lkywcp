@@ -1,5 +1,5 @@
 ---
-title: About the Prize
+title: About the City Network
 permalink: /citynetwork/
 image: /images/features/2024/city-network.jpg/
 description: The City Network for LKY World City Prize is envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues.
