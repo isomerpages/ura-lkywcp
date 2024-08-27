@@ -15,9 +15,8 @@ Founding Members of the Network comprise representatives from the seven Laureate
 
 #### **Founding members**
 
-Founding Members of the Network are:
+Founding Members of the Network are Lee Kuan Yew World City Prize Laureates:
 
-- Lee Kuan Yew World City Prize Laureates
 - Bilbao (2010) and Bilbao Metropoli 30 (BM30)
 - New York City (2012) and Regional Planning Association (RPA)
 - Suzhou (2014) and Suzhou Spatial Planning Think Tank Platform
