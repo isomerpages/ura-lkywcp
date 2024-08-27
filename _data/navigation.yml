@@ -15,8 +15,8 @@ links:
     collection: laureates
   - title: Resources
     resource_room: true
-  - title: Network
-    collection: network
+  - title: City network
+    url: /citynetwork/
   - title: 中文版
     collection: chinese
   - title: LinkedIn
