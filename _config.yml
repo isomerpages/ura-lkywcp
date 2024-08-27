@@ -27,7 +27,7 @@ collections:
   laureates:
     output: true
   network:
-    output: true
+    output: false
   chinese:
     output: true
 google_analytics: UA-48396056-10
