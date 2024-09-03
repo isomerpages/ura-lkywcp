@@ -17,5 +17,7 @@ links:
     resource_room: true
   - title: 中文版
     collection: chinese
+  - title: City network
+    url: /citynetwork/
   - title: LinkedIn
     url: https://www.linkedin.com/company/worldcityprize/

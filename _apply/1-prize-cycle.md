@@ -2,10 +2,10 @@
 title: Prize Cycle
 permalink: /prize-cycle/
 image: /images/prize-cycle.png
-description: Register your interest for the LKY World City Prize 2026!
+description: Nominations for the LKY World City Prize 2026 are now open! Apply now!
 ---
 
-##### Interested to apply for the LKY World City Prize 2026? [Register your interest](https://form.gov.sg/665c80f59ed8705777bc3828) today!
+##### Nominations for the 2026 Prize now open! [Apply now!](https://go.gov.sg/nominations)
 
 ###### ![Prize cycle](/images/prize-cycle.png)
 
@@ -13,7 +13,6 @@ description: Register your interest for the LKY World City Prize 2026!
 
 | Phase | Details |
 |---:|:---|
-| **Register Interest** | Interested parties are invited to register your interest to receive updates, application details, and deadline reminders for the 2026 Prize. <br> ➜ [Register interest](https://form.gov.sg/665c80f59ed8705777bc3828) |
 | **Stage A Nominations** | Cities interested in applying for the Prize must secure a nomination from an independent third-party expert in urban planning and cities, such as a professor of urban planning or a related field. Self-nominations will not be accepted, and nominators without relevant expertise in urban fields may be disqualified. <br> ➜ [Stage A Nominations](/stage-a/) |
 | **Stage B Submissions** | Following a valid nomination, nominated cities will be notified to prepare and submit a comprehensive written report for the jury's evaluation. Returning applicants have the option to provide an update on specific areas, rather than a full report. <br> ➜ [Stage B Submissions](/stage-b) |
 | **Evaluations** | A two-tier evaluation process is used to select the winner. The Nominating Committee reviews all submissions and shortlists the top contenders, which are then reviewed by the Prize Council to select the winner. If needed, additional information may be requested or site visits conducted to support the evaluation, with the Prize Secretariat covering all related costs. <br> ➜ [Evaluation Process and Criteria](/evaluations/) |

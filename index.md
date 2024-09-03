@@ -11,22 +11,24 @@ sections:
         title: 
         subtitle: 
         background: /images/herobanner.gif
-        button: Register interest<br>for 2026 Prize
-        url: https://form.gov.sg/665c80f59ed8705777bc3828
+        button: Nominations now open!
+        url: https://go.gov.sg/nominations
         key_highlights:
             - title: 
               description: 
               url: 
+    - infopic:    
+        title: Call for nominations
+        subtitle: 2026 Prize
+        description: Nominations for the 2026 Prize now open! Apply for the 2026 Prize to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
+        button: Apply now!
+        url: https://go.gov.sg/nominations
+        image: /images/features/2024/banner2026.gif/
+        alt: Call for nominations for 2026 Prize
     - infobar:    
-        title: <h3><font color=#967942><b>2024 Prize Laureate</b></font></h3><br>
-        subtitle: 
-        description: <img src="/images/laureates/mx-medal.png" width="150" height="150"><br>Mexico City is awarded the 2024 Prize for its outstanding commitment in uplifting the lives of citizens through innovative and sustainable urban initiatives, especially for the less privileged.
-        button: Full citation
-        url: /mexico-city/ 
-    - infobar:    
-        title: <h5><b>2024 SPECIAL MENTIONS</b></h5>
-        subtitle: 
-        description: <a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a>
+        title: 
+        subtitle:  
+        description: <h5><b>2024 WINNERS</b></h5><br><img src="/images/laureates/mx-medal.png" width="150" height="150"><br><b>Laureate</b> – <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a><br><b>Special Mentions</b> – <a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne2" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a><br><br>
         button: 
         url: 
     - infopic:    
@@ -39,7 +41,7 @@ sections:
         alt: World map
     - infobar:
         title: 
-        subtitle: Commemorative video on Mexico City
+        subtitle: Spotlight on Mexico City
         description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/@worldcityprize/
