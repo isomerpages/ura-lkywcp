@@ -171,8 +171,3 @@ Yes. As cities are continually growing and evolving, there is always opportunity
 ---
 
 For other enquiries, please [contact us](/feedback/). 
-
----
-
-[^1]: The link will be live during the Call for Nominations period.
-[^2]: The templates will be published during the Call for Nominations period.
