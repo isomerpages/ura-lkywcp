@@ -12,7 +12,7 @@ sections:
         subtitle: 
         background: /images/herobanner.gif
         button: Nominations now open!
-        url: https://go.gov.sg/nominate
+        url: /stage-a/
         key_highlights:
             - title: 
               description: 
