@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 22 June 2024 |
+| 4 September 2024 |
 
 #### **Sections**
 
@@ -39,7 +39,7 @@ Self-nominations from employees of the city hall and/or public organisations wit
 
 #### **How many nominations can a nominator make?**
 
-There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an official nomination form[^1]. The city must agree to be nominated and follow through the Stage B submissions.
+There is no limit to the number of nominations a nominator can make. Each nomination must be accompanied by an [official nomination form](https://go.gov.sg/nominations). The city must agree to be nominated and follow through the [Stage B submissions](/stage-b).
 
 #### **Who can be nominated for the Prize?**
 
@@ -47,7 +47,7 @@ The Prize is <u>awarded to cities only</u>. As such, a city may be nominated wit
 
 #### **How do I make the nomination?**
 
-The nominator shall make the nominations using the official nomination form[^1], accompanied by a recommendation letter to support why the city should win the Prize. The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
+The nominator shall make the nominations using the [official nomination form](https://go.gov.sg/nominations). The nominator shall ensure that the city agrees to be nominated and follows through the Stage B submission process. 
 
 #### **How will I know if my nomination is received?**
 
@@ -81,7 +81,7 @@ The nominated city (i.e. city government and/or key partner organisation appoint
 
 #### **What do I need to submit for Stage B?**
 
-The nominated city will be informed via email to prepare and submit a detailed report using the official report template[^2]. 
+The nominated city will be informed via email to prepare and submit a detailed report using the [official report forms](/stage-b). 
 
 #### **Can the city submit additional non-English materials?**
 
@@ -166,19 +166,8 @@ Beyond just liveability, nominations are rigorously evaluated based on demonstra
 
 Yes. As cities are continually growing and evolving, there is always opportunity for Special Mentions to be eligible for the Prize Laureate in future editions. In fact, Medellín and Vienna were recognised as Special Mentions in 2014 and 2016 and went on to become the 2016 and 2020 Prize Laureates respectively. 
 
-#### **What is the City Network?**
-
-The City Network for Lee Kuan Yew World City Prize is envisioned as a community of practice for urban leaders and practitioners to collaborate on projects and provide a platform for global dialogue on urban issues, and aims to bring cities together to collectively address urban challenges through partnerships between government officials, planning departments and knowledge organisations.
-
-Members will participate in various forms of knowledge sharing on best practices and capability building initiatives to identify solutions for urban challenges. Collaboration efforts may take the form of multilateral projects such as joint research and pilots on sustainable urban rejuvenation as well as joint publications featuring case studies on models and approaches to quality affordable housing. The outcomes of such projects will be shared at future editions of [World Cities Summit](https://www.worldcitiessummit.com.sg/) for global benefit.
-
 [Back to top](#sections)
 
 ---
 
 For other enquiries, please [contact us](/feedback/). 
-
----
-
-[^1]: The link will be live during the Call for Nominations period.
-[^2]: The templates will be published during the Call for Nominations period.
