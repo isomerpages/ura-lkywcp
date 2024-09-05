@@ -1,8 +1,6 @@
 ---
 layout: homepage
 title: Lee Kuan Yew World City Prize
-redirect_from:
-  - /citynetwork/
 description: A biennial international award that recognises outstanding cities in tackling urban challenges to bring about a holistic & sustained urban transformation 
 image: /images/shareicon.png/
 permalink: /
