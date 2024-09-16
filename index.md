@@ -56,7 +56,7 @@ sections:
     - infopic:
         title: We are now on LinkedIn!
         subtitle: 
-        description: For the latest updates, features, and stories on the LKY World City Prize, connect with us on LinkedIn! Simply search for '<b>LKY World City Prize</b>' or click the link below to join our community and stay informed about the Prize. <b>#worldcityprize</b>
+        description: Connect with us on LinkedIn for more features, stories and latest updates on the Prize! Search '<b>LKY World City Prize</b>' or click the link below. <b>#worldcityprize</b>
         button: Follow us on LinkedIn
         url: https://www.linkedin.com/company/worldcityprize/
         image: /images/features/2024/connect.png/
