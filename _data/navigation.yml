@@ -11,10 +11,14 @@ links:
     collection: about
   - title: Apply
     collection: apply
-  - title: Prize cities
-    collection: laureates
+  - title: Laureates
+    url: /laureates/
+  - title: Special Mentions
+    url: /special-mentions/
+  - title: Network
+    collection: Network
   - title: Resources
-    resource_room: true
+    resource_room: false
   - title: 中文版
     collection: chinese
   - title: LinkedIn
