@@ -11,7 +11,7 @@ links:
     collection: about
   - title: Apply
     collection: apply
-  - title: Laureates & Special Mentions
+  - title: Winners
     collection: Laureates
   - title: Network
     collection: Network
@@ -19,8 +19,3 @@ links:
     collection: chinese
   - title: LinkedIn
     url: https://www.linkedin.com/company/worldcityprize/
-
-##################################
-  - title: Resources
-    resource_room: false
-################################
