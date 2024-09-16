@@ -11,10 +11,10 @@ links:
     collection: about
   - title: Apply
     collection: apply
-  - title: Winners
-    collection: Laureates
+  - title: Winning cities
+    collection: laureates
   - title: Network
-    collection: Network
+    collection: network
   - title: 中文版
     collection: chinese
   - title: LinkedIn
