@@ -53,10 +53,12 @@ sections:
         url: https://go.gov.sg/worldcityprize/
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
-    - infobar:
-        title: 💬
+    - infopic:
+        title: Follow us on LinkedIn!
         subtitle: 
-        description: <h5><b>Connect with us on <a href="https://www.linkedin.com/company/worldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a><br><font color="#967942">#worldcityprize</font></b></h5>
+        description: Connect with us on LinkedIn for more stories and features on the Prize!
         button: 
-        url: 
+        url: https://www.linkedin.com/company/worldcityprize/
+        image: /images/features/2024/connect.png/
+        alt: LinkedIn
 ---
