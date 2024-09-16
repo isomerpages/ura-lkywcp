@@ -59,8 +59,4 @@ sections:
         description: <h5><b>Connect with us on <a href="https://www.linkedin.com/company/worldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a><br><font color="#967942">#worldcityprize</font></b></h5>
         button: 
         url: 
-    - resources:
-        title: Cities resources
-        subtitle: Deep delve
-        button: Learn more from the Prize cities
 ---
