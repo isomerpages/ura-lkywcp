@@ -54,10 +54,10 @@ sections:
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
     - infopic:
-        title: Follow us on LinkedIn!
+        title: We are now on LinkedIn!
         subtitle: 
-        description: Connect with us on LinkedIn for more stories and features on the Prize!
-        button: 
+        description: Connect with us on LinkedIn for more features, stories and latest updates on the Prize!
+        button: Follow us on LinkedIn
         url: https://www.linkedin.com/company/worldcityprize/
         image: /images/features/2024/connect.png/
         alt: LinkedIn
