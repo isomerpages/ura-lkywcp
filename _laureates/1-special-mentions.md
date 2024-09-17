@@ -12,14 +12,14 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 
 #### **Africa**
 
-| [Cape Town](/cape-town/) | exemplifies resilience through agile governance, navigating crises for a sustainable future. | 
+| **2024** | [Cape Town](/cape-town/) exemplifies resilience through agile governance, navigating crises for a sustainable future. | 
 
 #### **Americas**
 
-| [Boston](/boston/) | exemplifies a whole-of-society effort to transform the city. |
-| [Rio de Janeiro](/rio-de-janeiro/) | revitalises its downtown and waterfront with innovative policies. |
-| [Toronto](/toronto/) | is exemplary in integrating its diverse population, and rejuvenating its city core. |
-| [Vancouver](/vancouver/) | demonstrates strong visioning, community values and long-term planning. |
+| **2020** | [Boston](/boston/) exemplifies a whole-of-society effort to transform the city. |
+| **2024** | [Rio de Janeiro](/rio-de-janeiro/) revitalises its downtown and waterfront with innovative policies. |
+| **2016** | [Toronto](/toronto/) is exemplary in integrating its diverse population, and rejuvenating its city core. |
+| **2012** |  [Vancouver](/vancouver/) demonstrates strong visioning, community values and long-term planning. |
 
 #### **Asia Pacific**
 
