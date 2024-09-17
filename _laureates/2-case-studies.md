@@ -12,6 +12,6 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 
 #### **Case Studies**
 
-| | City | Description |
-|:---:|:---|:---|
-| **20** | Antwerp | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) is a project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
+| City | Project | Description |
+|:---|:---|:---|
+| **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) | A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
