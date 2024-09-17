@@ -10,9 +10,15 @@ published: true
 
 Discover how cities recognised by the Lee Kuan Yew World City Prize have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
 
-#### **Case Studies**
+#### **Climate Change**
 
 | City | Project | Description |
 |:---|:---|:---|
 | **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) | A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
 | **Vienna** | [New Danube](/resources/case-studies/vienna-danube/) | A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
+
+#### **Public Spaces**
+
+| City | Project | Description |
+|:---|:---|:---|
+| **Vienna** | [Grätzloase](/resources/case-studies/vienna-parklets/) | An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
