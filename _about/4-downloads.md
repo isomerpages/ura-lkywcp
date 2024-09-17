@@ -6,7 +6,7 @@ description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Red
 published: true
 ---
 
-
+![Downloads](/images/features/2024/downloads.png)
 
 #### **Role of the Prize Secretariat**
 
