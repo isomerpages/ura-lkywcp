@@ -10,6 +10,8 @@ published: true
 
 Discover how cities recognised by the Lee Kuan Yew World City Prize have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
 
-#### **2024 Special Mentions**
+#### **Case Studies**
 
+| | City | Description |
+|:---:|:---|:---|
 | **20** | Antwerp | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) is a project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
