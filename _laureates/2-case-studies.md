@@ -23,15 +23,20 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 | **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
 | **Surabaya** | [Kampung Unggulan](/resources/case-studies/creating-self-driven-local-economy/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
 | **Seoul** | [Citizen Engagement Strategies](/resources/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
-| **Suzhou** | [Inclusive Social Policies](/case-studies/inclusive-social-policies-suzhou/) <br> Innovative social policies introduced alongside economic development and environmental protection ensure fair and equal treatment for all, paving the way for a sustained future. |
+| **Suzhou** | [Inclusive Social Policies](/resources/case-studies/inclusive-social-policies-suzhou/) <br> Innovative social policies introduced alongside economic development and environmental protection ensure fair and equal treatment for all, paving the way for a sustained future. |
+| **Suzhou** | [1-for-3 housing policy at Stone Lake District](/resources/case-studies/1-for-3-housing/) <br> An innovative relocation housing policy restored the Stone Lake’s ecology and improved the environment, while meeting the housing and income needs of displaced rural farmers. |
 
-#### **Infrastructure/Urban Regeneration**
+
+#### **Infrastructure**
 
 |---:|:---|
 | **Tokyo** | [Rail Development](/resources/case-studies/tokyo-rail-network/) <br> A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
+
+#### **Urban Regeneration**
+
 | **Hamburg** | [HafenCity](/resources/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
 | **Seoul** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/resources/case-studies/car-to-people-spaces/) <br> Three projects that transformed Seoul by prioritising people over cars are explored in this case study, highlighting the motivations, processes, and outcomes of these urban innovations. |
 | **Medellín** | [MetroCable](/resources/case-studies/metrocable/) <br> The world’s first mass transit cable car system connects marginalised mountain communities to the city centre, enhancing access to employment and education while reducing socioeconomic stratification. |
 | **Medellín** | [Unidades de Vida Articulada](/resources/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
 | **Medellín** | [Circumvent Garden](/resources/case-studies/circumvent-garden/) <br> Converting illegal settlements into active participants in the city’s transformation through pedagogical urbanism connects residents more deeply with their community. |
-| **Suzhou** | [Pingjiang Historic District](/case-studies/pingjiang-historic-district/) <br> A comprehensive approach to heritage preservation, emphasising intangible qualities, characterises the city’s efforts amidst rapid modernisation. |
+| **Suzhou** | [Pingjiang Historic District](/resources/case-studies/pingjiang-historic-district/) <br> A comprehensive approach to heritage preservation, emphasising intangible qualities, characterises the city’s efforts amidst rapid modernisation. |
