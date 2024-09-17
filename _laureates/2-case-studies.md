@@ -23,6 +23,7 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 | **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
 | **Surabaya** | [Kampung Unggulan](/resources/case-studies/creating-self-driven-local-economy/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
 | **Seoul** | [Citizen Engagement Strategies](/resources/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
+| **Suzhou** | [Inclusive Social Policies](/case-studies/inclusive-social-policies-suzhou/) <br> Innovative social policies introduced alongside economic development and environmental protection ensure fair and equal treatment for all, paving the way for a sustained future. |
 
 #### **Infrastructure/Urban Regeneration**
 
