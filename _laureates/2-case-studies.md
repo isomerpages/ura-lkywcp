@@ -2,13 +2,13 @@
 title: Case Studies
 permalink: /case-studies/
 image: /images/features/2024/case-studies2.png
-description: Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
+description: Discover how cities recognised by the Lee Kuan Yew World City Prize have addressed common urban challenges through innovative solutions. 
 published: true
 ---
 
 ![Special Mentions](/images/features/2024/case-studies2.png)
 
-Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
+Discover how cities recognised by the Lee Kuan Yew World City Prize have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
 
 #### **2024 Special Mentions**
 
