@@ -1,5 +1,5 @@
 ---
-title: Special Mentions
+title: Case Studies
 permalink: /case-studies/
 image: /images/laureates/worldmap-special-mentions.jpeg
 description: Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
