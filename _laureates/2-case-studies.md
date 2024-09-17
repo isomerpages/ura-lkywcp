@@ -15,12 +15,8 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 | **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) | A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
 | **Vienna** | [New Danube](/resources/case-studies/vienna-danube/) | A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
 
-#### **Programming**
+#### **Social Initiatives**
 
 | **Vienna** | [Grätzloase](/resources/case-studies/vienna-parklets/) | An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
 | **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) | Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
-
-
-#### **Social Initiatives**
-
 | **Surabaya** | [Kampung Unggulan and Pahlawan Ekonomi](/resources/case-studies/creating-self-driven-local-economy/) | A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
