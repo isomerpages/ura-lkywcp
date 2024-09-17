@@ -22,10 +22,11 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 | **Vienna** | [Grätzloase](/resources/case-studies/vienna-parklets/) <br> An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
 | **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
 | **Surabaya** | [Kampung Unggulan](/resources/case-studies/creating-self-driven-local-economy/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
+| **Seoul** | [Citizen Engagement Strategies](/resources/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
 
 #### **Infrastructure/Urban Regeneration**
 
 |---:|:---|
 | **Tokyo** | [Rail Development](/resources/case-studies/tokyo-rail-network/) <br> A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
 | **Hamburg** | [HafenCity](/resources/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
-| **Seoul** | [Cheonggyecheon & Seoullo 7017](/resources/case-studies/car-to-people-spaces/) <br> Three projects that transformed Seoul by prioritising people over cars are explored in this case study, highlighting the motivations, processes, and outcomes of these urban innovations. |
+| **Seoul** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/resources/case-studies/car-to-people-spaces/) <br> Three projects that transformed Seoul by prioritising people over cars are explored in this case study, highlighting the motivations, processes, and outcomes of these urban innovations. |
