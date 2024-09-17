@@ -21,6 +21,7 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 | **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) | Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
 | **Surabaya** | [Kampung Unggulan](/resources/case-studies/creating-self-driven-local-economy/) | A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
 
-#### **Infrastructure**
+#### **Infrastructure/Urban Regeneration**
 
 | **Tokyo** | [Rail Development](/resources/case-studies/tokyo-rail-network/) | A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
+| **Hamburg** | [HafenCity](/resources/case-studies/hafencity/) | A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
