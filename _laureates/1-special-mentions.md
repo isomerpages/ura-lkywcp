@@ -49,4 +49,4 @@ The first two editions of the Prize accepted nominations from individuals and or
 
 - [AHT Group AG & Sun Development](/khayelitsha/)  prevents violence in Khayelitsha, Cape Town through its comprehensive Urban Upgrading Programme.   
 - [Dr Jaime Lerner](/jaime-lerner/) implemented impactful urban solutions during his term as mayor of Curitiba and governor of Paraná.  
- [Sheila Dikshit](/sheila-dikshit/) has helped to improve the living environment of Delhi through various implementations.  
+- [Sheila Dikshit](/sheila-dikshit/) has helped to improve the living environment of Delhi through various implementations.  
