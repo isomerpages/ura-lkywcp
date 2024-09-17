@@ -14,7 +14,7 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 
 |---:|:---|
 | **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) <br> A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
-| **Vienna** | [New Danube](/resources/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
+| **Vienna** | [New Danube & Danube Island](/resources/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
 
 #### **Social Initiatives**
 
