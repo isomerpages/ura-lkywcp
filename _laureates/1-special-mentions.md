@@ -12,7 +12,7 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 
 #### **Africa**
 
-- [Cape Town](/cape-town/) exemplifies resilience through agile governance, navigating crises for a sustainable future.  
+###### - [Cape Town](/cape-town/) exemplifies resilience through agile governance, navigating crises for a sustainable future.  
 
 #### **Americas**
 
