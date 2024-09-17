@@ -21,6 +21,6 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 | **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) | Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
 
 
-#### **Public Spaces**
+#### **Social Initiatives**
 
-| **Vienna** | [Grätzloase](/resources/case-studies/vienna-parklets/) | An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
+| **Surabaya** | [Kampung Unggulan and Pahlawan Ekonomi](/resources/case-studies/creating-self-driven-local-economy/) | A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
