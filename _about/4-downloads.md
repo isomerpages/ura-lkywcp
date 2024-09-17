@@ -1,9 +1,12 @@
 ---
 title: Downloads
 permalink: /downloads/
+image: /images/features/2024/downloads.png
 description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Redevelopment Authority Singapore.
 published: true
 ---
+
+
 
 #### **Role of the Prize Secretariat**
 
