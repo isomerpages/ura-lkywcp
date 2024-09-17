@@ -45,7 +45,7 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 
 #### **Individuals & organisations**
 
-The first two editions of the Prize accepted nominations from individuals and organisations. |  Since 2014, the Prize accepted nominations from cities only.
+The first two editions of the Prize accepted nominations from individuals and organisations. Since 2014, the Prize accepted nominations from cities only.
 
 | [AHT Group AG & Sun Development](/khayelitsha/) | prevents violence in Khayelitsha, Cape Town through its comprehensive Urban Upgrading Programme. |  
 | [Dr Jaime Lerner](/jaime-lerner/) | implemented impactful urban solutions during his term as mayor of Curitiba and governor of Paraná. | 
