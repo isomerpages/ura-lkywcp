@@ -1,12 +1,12 @@
 ---
 title: Case Studies
 permalink: /case-studies/
-image: /images/features/2024/case-studies.png
+image: /images/features/2024/case-studies2.png
 description: Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
 published: true
 ---
 
-![Special Mentions](/images/features/2024/case-studies.png)
+![Special Mentions](/images/features/2024/case-studies2.png)
 
 Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
 
