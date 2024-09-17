@@ -10,11 +10,11 @@ published: true
 
 Discover how cities recognised by the Lee Kuan Yew World City Prize have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
 
-#### **Climate Change**
+#### **Sustainability & Mobility**
 
 |---:|:---|
-| **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) <br> A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
 | **Vienna** | [New Danube & Danube Island](/resources/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
+| **New York City** | [NYC Plaza Programme](/resources/case-studies/repurposing-public-right-of-way/) <br> Redistributing road spaces to promote walking, biking, and recreation, reduce carbon emissions, and improve traffic safety. |
 
 #### **Social Initiatives**
 
@@ -35,6 +35,7 @@ Discover how cities recognised by the Lee Kuan Yew World City Prize have address
 
 #### **Urban Regeneration**
 
+| **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) <br> A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
 | **Hamburg** | [HafenCity](/resources/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
 | **Seoul** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/resources/case-studies/car-to-people-spaces/) <br> Three projects that transformed Seoul by prioritising people over cars are explored in this case study, highlighting the motivations, processes, and outcomes of these urban innovations. |
 | **Medellín** | [Unidades de Vida Articulada](/resources/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
