@@ -17,7 +17,7 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 #### **Americas**
 
 | **Boston** exemplifies a whole-of-society effort to transform the city. | [Citation](/boston/) |
-| **Rio de Janeiro** rejuvenated its central area and waterfront via innovative policies, moving beyond decades of mono-functional sprawl. | [Citation](/rio-de-janeiro/) |
+| **Rio de Janeiro** injected new life into its central area and waterfront via innovative policies. | [Citation](/rio-de-janeiro/) |
 | **Toronto** is exemplary in integrating its diverse population, and rejuvenating its city core. | [Citation](/toronto/) |
 | **Vancouver** demonstrates strong visioning, community values and long-term planning. | [Citation](/vancouver/) |
 
