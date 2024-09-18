@@ -12,7 +12,7 @@ Click to download our resources on the Prize cities and more, including collater
 
 #### **Brochures**
 
-| **2026 Prize Nomination brochure** <br> The brochure outlines criteria, benefits, and submission details for nominating cities that exemplify urban excellence and innovation. | [Download](/documents/2026-prize.pdf) |
+| **2026 Prize nomination brochure** <br> The brochure outlines criteria, benefits, and submission details for nominating cities that exemplify urban excellence and innovation. | [Download](/documents/2026-prize.pdf) |
 
 #### **E-books**
 
