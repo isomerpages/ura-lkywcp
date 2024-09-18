@@ -2,41 +2,14 @@
 title: Downloads
 permalink: /downloads/
 image: /images/features/2024/downloads.png
-description: The Lee Kuan Yew World City Prize Secretariat is based in Urban Redevelopment Authority Singapore.
+description: Click to download our resources on the Prize cities and more, including collaterals, publications, and e-books. Explore in-depth insights and detailed information on effective urban initiatives and best practices.
 published: true
 ---
 
 ![Downloads](/images/features/2024/downloads.png)
 
-#### **Role of the Prize Secretariat**
+Click to download our resources on the Prize cities and more, including collaterals, publications, and e-books. Explore in-depth insights and detailed information on effective urban initiatives and best practices. 
 
-The Prize Secretariat manages the entire Prize cycle, including budgeting and resourcing, call for nominations, international relations and events management, and resides within [Urban Redevelopment Authority Singapore](/ura/). For requests and enquiries, please [contact us](/feedback/).
+#### **Brochures**
 
-#### **Prize Secretary**
-
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/secretariat/yap-lay-bee.png" alt="Yap Lay Bee" /><br></td>
-<td><strong>Ms <u>Yap</u> Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a> | <a href="https://sg.linkedin.com/in/lay-bee-yap-17288527">LinkedIn</a></td>
-</tr>
-</tbody>
-</table>
-
-#### **Project Director** 
-
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 150px;"><img src="/images/secretariat/eugene-lau.png" alt="Eugene Lau" /><br></td>
-<td><strong>Mr Eugene <u>Lau</u></strong><br />Director <br> Architecture & Urban Design, Industry & Innovation<br />Urban Redevelopment Authority Singapore<br><a href="/eugene-lau/">Biography</a> | <a href="https://www.linkedin.com/in/eugene-lau-wk/">LinkedIn</a></td>
-</tr>
-</tbody>
-</table>
-
-#### **Directory**
-
-| **Mailing address** | **LKY World City Prize Secretariat** <br> c/o Urban Redevelopment Authority <br> 45 Maxwell Road <br> The URA Centre, Tower, #13-01 <br> Singapore 069118 <br> [Google Maps](https://goo.gl/maps/TC1db96iYdThEo8r8) |
-| **Email address** | [ura_worldcityprize@ura.gov.sg](mailto://ura_worldcityprize@ura.gov.sg) |
-| **LinkedIn** | [Follow our page!](https://www.linkedin.com/company/worldcityprize/) |
-| **YouTube** | [@worldcityprize](https://www.youtube.com/@worldcityprize/) |
+| **Lee Kuan Yew World City Prize 2026 Nomination brochure** | [Click to download](/documents/2026-prize.pdf) |
