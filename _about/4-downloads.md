@@ -12,7 +12,7 @@ Click to download our resources on the Prize cities and more, including collater
 
 #### **Brochures**
 
-| **Lee Kuan Yew World City Prize 2026 Nomination brochure** | [Click to download](/documents/2026-prize.pdf) |
+| **Lee Kuan Yew World City Prize 2026 Nomination brochure** <br> The brochure outlines criteria, benefits, and submission details for nominating cities that exemplify urban excellence and innovation. | [Click to download](/documents/2026-prize.pdf) |
 
 #### **E-books**
 
