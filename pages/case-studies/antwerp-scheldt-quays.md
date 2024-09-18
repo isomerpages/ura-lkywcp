@@ -8,7 +8,7 @@ description:  Antwerp's Scheldt Quays is a project to reconnect the city and its
 
 ##### Antwerp's Scheldt Quays is a project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation.[^1] 
 
-#### **Case study 20**
+#### **Case study**
 
 | **City** | [Antwerp](/antwerp/) |
 | **Type** | Urban regeneration, climate change adaptation |
