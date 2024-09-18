@@ -8,7 +8,7 @@ published: true
 
 ![Special Mentions](/images/features/2024/case-studies2.png)
 
-Discover how cities recognised by the Lee Kuan Yew World City Prize have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
+Discover how the Prize cities have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
 
 #### **Governance and institutional frameworks**
 
