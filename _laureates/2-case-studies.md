@@ -12,14 +12,14 @@ Discover how the Prize cities have addressed common urban challenges through inn
 
 #### **Governance and institutional frameworks**
 
-_**Focus**: Enhancing urban management and planning through improved governance and institutional processes._
+**Focus**: Enhancing urban management and planning through improved governance and institutional processes.
 
 | **Bilbao** | [Bilbao Ria 2000](/resources/case-studies/bilbao-ria-2000/) <br> An institutionalised process through a private non-profit entity that guided Bilbao’s transformation and urban governance despite changes in leadership. |
 | **Seoul** | [Citizen Engagement Strategies](/resources/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
 
 #### **Urban regeneration**
 
-_**Focus**: Revitalising and transforming existing urban areas to enhance their functionality and appeal._
+**Focus**: Revitalising and transforming existing urban areas to enhance their functionality and appeal.
 
 | **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) <br> A project that revitalised historic spaces and reconnected the city with the River Scheldt, focusing on community engagement and sustainability. |
 | **Bilbao** | [Abandoibarra Waterfront Redevelopment](/resources/case-studies/abandoibarra-waterfront/) <br> An urban regeneration project transforming a dilapidated industrial area in Bilbao into a vibrant mixed-use district, anchored by the Guggenheim Museum. |
@@ -31,14 +31,14 @@ _**Focus**: Revitalising and transforming existing urban areas to enhance their 
 
 #### **Transportation and mobility**
 
-_**Focus**: Upgrading and expanding transportation networks for better connectivity and efficiency._
+**Focus**: Upgrading and expanding transportation networks for better connectivity and efficiency.
 
 | **Medellín** | [MetroCable](/resources/case-studies/metrocable/) <br> The world’s first mass transit cable car system connects marginalised mountain communities to the city centre, enhancing access to employment and education while reducing socioeconomic stratification. |
 | **Tokyo** | [Rail Development](/resources/case-studies/tokyo-rail-network/) <br> A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
 
 #### **Public space activation and enhancement**
 
-_**Focus**: Improving and creating public spaces to boost community engagement and recreation._
+**Focus**: Improving and creating public spaces to boost community engagement and recreation.
 
 | **Medellín** | [Circumvent Garden](/resources/case-studies/circumvent-garden/) <br> Converting illegal settlements into active participants in the city’s transformation through pedagogical urbanism connects residents more deeply with their community. |
 | **Medellín** | [Unidades de Vida Articulada](/resources/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
@@ -48,7 +48,7 @@ _**Focus**: Improving and creating public spaces to boost community engagement a
 
 #### **Social inclusion and community development**
 
-_**Focus**: Promoting equity and improving quality of life through social and economic development initiatives._
+**Focus**: Promoting equity and improving quality of life through social and economic development initiatives.
 
 | **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
 | **Surabaya** | [Kampung Unggulan](/resources/case-studies/creating-self-driven-local-economy/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
