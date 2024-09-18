@@ -12,14 +12,14 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 
 #### **Africa**
 
-| **Cape Town** <br> exemplifies resilience through agile governance, navigating crises for a sustainable future. | [Full citation](/cape-town/) |
+| **Cape Town** exemplifies resilience through agile governance, navigating crises for a sustainable future. | [Full citation](/cape-town/) |
 
 #### **Americas**
 
-| **Boston** <br> exemplifies a whole-of-society effort to transform the city. | [Full citation](/boston/) |
-| **Rio de Janeiro** <br> revitalises its downtown and waterfront with innovative policies. | [Full citation](/rio-de-janeiro/) |
-| **Toronto** <br> is exemplary in integrating its diverse population, and rejuvenating its city core. | [Full citation](/toronto/) |
-| **Vancouver** <br> demonstrates strong visioning, community values and long-term planning. | [Full citation](/vancouver/) |
+| **Boston** exemplifies a whole-of-society effort to transform the city. | [Full citation](/boston/) |
+| **Rio de Janeiro** revitalises its downtown and waterfront with innovative policies. | [Full citation](/rio-de-janeiro/) |
+| **Toronto** is exemplary in integrating its diverse population, and rejuvenating its city core. | [Full citation](/toronto/) |
+| **Vancouver** demonstrates strong visioning, community values and long-term planning. | [Full citation](/vancouver/) |
 
 #### **Asia Pacific**
 
