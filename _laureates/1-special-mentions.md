@@ -32,8 +32,8 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 
 | **Antwerp** shows that its strategic urban interventions can help to rejuvenate the city. | [Citation](/antwerp/) |
 | **Copenhagen & Malmö** demonstrate close collaboration and a shared vision across borders. | [Citation](/copenhagen-malmo/) |
-| **Hamburg** is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. | [Citation](/hamburg/) |
-| **Kazan** is a former drab city with youth crimes and health issues transformed into a healthy and harmonious city. | [Citation](/kazan/) |
+| **Hamburg** is a port city that overcame planning challenges to become a welcoming city of opportunities. | [Citation](/hamburg/) |
+| **Kazan** overcame youth crimes and health issues to transform into a healthy and harmonious city. | [Citation](/kazan/) |
 | **Lisbon** demonstrates a dramatic resurgence over the past decade despite limited resources. | [Citation](/lisbon/) |
 
 #### **Oceania**
