@@ -24,22 +24,25 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 #### **Asia Pacific**
 
 | **Ahmedabad** enjoys early successes in implementing a comprehensive city plan. | [Citation](/ahmedabad/) |
-| **Antwerp** shows that its strategic urban interventions can help to rejuvenate the city. | [Citation](/antwerp/) |
-| **Auckland** overcame planning challenges through a highly integrated and innovative governance model. | [Citation](/auckland/) |
-| **Brisbane** transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | [Citation](/brisbane/) |
-| **Melbourne** epitomises resilience, innovation and liveability, even amidst pandemic challenges. | [Citation](/melbourne2/) |
 | **Surabaya** is an emerging city that appreciates its culture and preserves its kampung neighbourhoods. | [Citation](/surabaya/) |
-| **Sydney** demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. | [Citation](/sydney/) |
 | **Tokyo** is a well-managed megacity despite its large and seemingly ungovernable size. | [Citation](/tokyo/) |
-| **Wellington** champions urban-nature harmony with citizen-led conservation. | [Citation](/wellington/) |
 | **Yokohama** overcame urban challenges through excellent partnership with its citizens and stakeholders. | [Citation](/yokohama/) |
 
 #### **Europe**
 
+| **Antwerp** shows that its strategic urban interventions can help to rejuvenate the city. | [Citation](/antwerp/) |
 | **Copenhagen & Malmö** demonstrate close collaboration and a shared vision across borders. | [Citation](/copenhagen-malmo/) |
 | **Hamburg** is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. | [Citation](/hamburg/) |
 | **Kazan** is a former drab city with youth crimes and health issues transformed into a healthy and harmonious city. | [Citation](/kazan/) |
 | **Lisbon** demonstrates a dramatic resurgence over the past decade despite limited resources. | [Citation](/lisbon/) |
+
+#### **Oceania**
+
+| **Auckland** overcame planning challenges through a highly integrated and innovative governance model. | [Citation](/auckland/) |
+| **Brisbane** transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | [Citation](/brisbane/) |
+| **Melbourne** epitomises resilience, innovation and liveability, even amidst pandemic challenges. | [Citation](/melbourne2/) |
+| **Sydney** demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. | [Citation](/sydney/) |
+| **Wellington** champions urban-nature harmony with citizen-led conservation. | [Citation](/wellington/) |
 
 ---
 
