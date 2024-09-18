@@ -10,38 +10,47 @@ published: true
 
 Discover how cities recognised by the Lee Kuan Yew World City Prize have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
 
-#### **Sustainability & Mobility**
+#### **Governance and institutional frameworks**
 
-|---:|:---|
-| **Vienna** | [New Danube & Danube Island](/resources/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
-| **New York City** | [NYC Plaza Programme](/resources/case-studies/repurposing-public-right-of-way/) <br> Redistributing road spaces to promote walking, biking, and recreation, reduce carbon emissions, and improve traffic safety. |
+**Focus**: Enhancing urban management and planning through improved governance and institutional processes.
 
-#### **Social Initiatives**
-
-|---:|:---|
-| **Vienna** | [Grätzloase](/resources/case-studies/vienna-parklets/) <br> An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
-| **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
-| **Surabaya** | [Kampung Unggulan](/resources/case-studies/creating-self-driven-local-economy/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
+| **Bilbao** | [Bilbao Ria 2000](/resources/case-studies/bilbao-ria-2000/) <br> An institutionalised process through a private non-profit entity that guided Bilbao’s transformation and urban governance despite changes in leadership. |
 | **Seoul** | [Citizen Engagement Strategies](/resources/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
-| **Suzhou** | [Inclusive Social Policies](/resources/case-studies/inclusive-social-policies-suzhou/) <br> Innovative social policies introduced alongside economic development and environmental protection ensure fair and equal treatment for all, paving the way for a sustained future. |
-| **Suzhou** | [1-for-3 housing policy at Stone Lake District](/resources/case-studies/1-for-3-housing/) <br> An innovative relocation housing policy restored the Stone Lake’s ecology and improved the environment, while meeting the housing and income needs of displaced rural farmers. |
 
+#### **Urban regeneration**
 
-#### **Infrastructure**
+**Focus**: Revitalising and transforming existing urban areas to enhance their functionality and appeal.
 
-|---:|:---|
+| **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) <br> A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
+| **Bilbao** | [Abandoibarra Waterfront Redevelopment](/resources/case-studies/abandoibarra-waterfront/) <br> An urban regeneration project transforming a dilapidated industrial area in Bilbao into a vibrant mixed-use district, anchored by the Guggenheim Museum. |
+| **Hamburg** | [HafenCity](/resources/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
+| **New York City** | [Brooklyn Bridge Park](/resources/case-studies/brooklyn-bridge-park/) <br> A waterfront revitalisation project transforming former industrial land into sustainable parkland, reconnecting New York residents with the shoreline. |
+| **New York City** | [West Chelsea and High Line](/resources/case-studies/west-chelsea-high-line-plan/) <br> An urban rejuvenation project transforming a former rail line into a unique public park, inspiring similar projects globally. |
+| **Suzhou** | [Pingjiang Historic District](/resources/case-studies/pingjiang-historic-district/) <br> A comprehensive approach to heritage preservation, emphasising intangible qualities, characterises the city’s efforts amidst rapid modernisation. |
+| **Vienna** | [New Danube & Danube Island](/resources/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
+
+#### **Transportation and mobility**
+
+**Focus**: Upgrading and expanding transportation networks for better connectivity and efficiency.
+
 | **Medellín** | [MetroCable](/resources/case-studies/metrocable/) <br> The world’s first mass transit cable car system connects marginalised mountain communities to the city centre, enhancing access to employment and education while reducing socioeconomic stratification. |
 | **Tokyo** | [Rail Development](/resources/case-studies/tokyo-rail-network/) <br> A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
 
-#### **Urban Regeneration**
+#### **Public space activation and enhancement**
 
-| **Antwerp** | [Scheldt Quays](/resources/case-studies/antwerp-scheldt-quays/) <br> A project to reconnect the city and its River Scheldt and breathe new life into historic spaces. From community engagement to sustainability, it is a transformative journey of urban rejuvenation. |
-| **Hamburg** | [HafenCity](/resources/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
-| **Seoul** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/resources/case-studies/car-to-people-spaces/) <br> Three projects that transformed Seoul by prioritising people over cars are explored in this case study, highlighting the motivations, processes, and outcomes of these urban innovations. |
-| **Medellín** | [Unidades de Vida Articulada](/resources/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
+**Focus**: Improving and creating public spaces to boost community engagement and recreation.
+
 | **Medellín** | [Circumvent Garden](/resources/case-studies/circumvent-garden/) <br> Converting illegal settlements into active participants in the city’s transformation through pedagogical urbanism connects residents more deeply with their community. |
-| **Suzhou** | [Pingjiang Historic District](/resources/case-studies/pingjiang-historic-district/) <br> A comprehensive approach to heritage preservation, emphasising intangible qualities, characterises the city’s efforts amidst rapid modernisation. |
-| **New York City** | [Brooklyn Bridge Park](/resources/case-studies/brooklyn-bridge-park/) <br> A waterfront revitalisation project transforming former industrial land into sustainable parkland, reconnecting New York residents with the shoreline. |
-| **New York City** | [West Chelsea and High Line](/resources/case-studies/west-chelsea-high-line-plan/) <br> An urban rejuvenation project transforming a former rail line into a unique public park, inspiring similar projects globally. |
-| **Bilbao** | [Bilbao Ria 2000](/resources/case-studies/bilbao-ria-2000/) <br> An institutionalised process through a private non-profit entity that guided Bilbao’s transformation and urban governance despite changes in leadership. |
-| **Bilbao** | [Abandoibarra Waterfront Redevelopment](/resources/case-studies/abandoibarra-waterfront/) <br> An urban regeneration project transforming a dilapidated industrial area in Bilbao into a vibrant mixed-use district, anchored by the Guggenheim Museum. |
+| **Medellín** | [Unidades de Vida Articulada](/resources/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
+| **New York City** | [NYC Plaza Programme](/resources/case-studies/repurposing-public-right-of-way/) <br> Redistributing road spaces to promote walking, biking, and recreation, reduce carbon emissions, and improve traffic safety. |
+| **Seoul** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/resources/case-studies/car-to-people-spaces/) <br> Three projects that transformed Seoul by prioritising people over cars are explored in this case study, highlighting the motivations, processes, and outcomes of these urban innovations. |
+| **Vienna** | [Grätzloase](/resources/case-studies/vienna-parklets/) <br> An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
+
+#### **Social inclusion and community development**
+
+**Focus**: Promoting equity and improving quality of life through social and economic development initiatives.
+
+| **Kazan** | [Sports Strategy](/resources/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
+| **Surabaya** | [Kampung Unggulan](/resources/case-studies/creating-self-driven-local-economy/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
+| **Suzhou** | [Inclusive Social Policies](/resources/case-studies/inclusive-social-policies-suzhou/) <br> Innovative social policies introduced alongside economic development and environmental protection ensure fair and equal treatment for all, paving the way for a sustained future. |
+| **Suzhou** | [1-for-3 housing policy at Stone Lake District](/resources/case-studies/1-for-3-housing/) <br> An innovative relocation housing policy restored the Stone Lake’s ecology and improved the environment, while meeting the housing and income needs of displaced rural farmers. |
