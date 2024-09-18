@@ -22,7 +22,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 **Focus**: Revitalising and transforming existing urban areas to enhance their functionality and appeal.
 
 | **Antwerp** | [Scheldt Quays](/case-studies/antwerp-scheldt-quays/) <br> A project that revitalised historic spaces and reconnected the city with the River Scheldt, focusing on community engagement and sustainability. |
-| **Bilbao** | [Abandoibarra Waterfront Rejuvenation](case-studies/abandoibarra-waterfront/) <br> An urban regeneration project transforming a dilapidated industrial area in Bilbao into a vibrant mixed-use district, anchored by the Guggenheim Museum. |
+| **Bilbao** | [Abandoibarra Waterfront Rejuvenation](/case-studies/abandoibarra-waterfront/) <br> An urban regeneration project transforming a dilapidated industrial area in Bilbao into a vibrant mixed-use district, anchored by the Guggenheim Museum. |
 | **Hamburg** | [HafenCity](/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
 | **New York City** | [Brooklyn Bridge Park](/case-studies/brooklyn-bridge-park/) <br> A waterfront revitalisation project transforming former industrial land into sustainable parkland, reconnecting New York residents with the shoreline. |
 | **New York City** | [West Chelsea and High Line](/case-studies/west-chelsea-high-line-plan/) <br> An urban rejuvenation project transforming a former rail line into a unique public park, inspiring similar projects globally. |
