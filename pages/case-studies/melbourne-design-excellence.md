@@ -17,7 +17,7 @@ description: The Design Excellence Programme is a comprehensive initiative that 
 
 #### **Key issues**
 
-Melbourne’s urban design and architecture significantly impact the city’s appeal. Over the years, Melbourne has established a strong identity and reputation for innovative design, enhancing the city’s function, amenity, and attractiveness. As the city evolves, maintaining high design standards is crucial. However, challenges like a performancebased planning scheme, fragmented decision-making, and unclear planning schemes hinder private development. A lack of statewide urban design policy and inadequate resources for design excellence processes also pose obstacles. Addressing these challenges can improve processes and elevate design excellence as a key policy expectation in Victoria.
+Melbourne’s urban design and architecture significantly impact the city’s appeal. Over the years, Melbourne has established a strong identity and reputation for innovative design, enhancing the city’s function, amenity, and attractiveness. As the city evolves, maintaining high design standards is crucial. However, challenges like a performance based planning scheme, fragmented decision-making, and unclear planning schemes hinder private development. A lack of statewide urban design policy and inadequate resources for design excellence processes also pose obstacles. Addressing these challenges can improve processes and elevate design excellence as a key policy expectation in Victoria.
 
 #### **Objectives**
 
