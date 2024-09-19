@@ -21,7 +21,7 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 | **Toronto** excels in social integration and its ambitious Waterfront Toronto initiative, revitalising its core. | [Citation](/toronto/) |
 | **Vancouver** demonstrates strong visioning, community values and long-term planning. | [Citation](/vancouver/) |
 
-#### **Asia Pacific**
+#### **Asia**
 
 | **Ahmedabad** enjoys early successes in implementing a comprehensive city plan. | [Citation](/ahmedabad/) |
 | **Surabaya** is an emerging city that appreciates its culture and preserves its kampung neighbourhoods. | [Citation](/surabaya/) |
