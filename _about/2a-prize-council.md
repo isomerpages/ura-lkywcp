@@ -42,7 +42,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 </tr>
 <tr>
 <td><br><img src="/images/jury/maimunah-mohd-sharif.png" alt="Maimunah Mohd Sharif" /><br></td>
-<td><br><strong>Ms Maimunah Mohd <u>Sharif</u></strong><br />Executive Director<br />United Nations Human Settlements Programme (UN-Habitat)<br />Malaysia/Kenya<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
+<td><br><strong>Ms Maimunah Mohd <u>Sharif</u></strong><br />Mayor<br />City of Kuala Lumpur<br />Malaysia<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
 </tr>
 </tbody>
 </table>
