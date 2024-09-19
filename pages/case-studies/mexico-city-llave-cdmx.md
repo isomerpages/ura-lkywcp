@@ -17,13 +17,11 @@ description: Mexico City’s digital transformation initiative prioritises vulne
 
 #### **Key issues**
 
-Mexico City faced challenges in providing connectivity and access to information and communication technologies, particularly in underserved areas. This led to a digital divide, with many residents, especially in low-income neighbourhoods, lacking access to the internet and digital
-services. Additionally, government services were often inefficient, relying on physical paperwork, and lacked transparency.
+Mexico City faced challenges in providing connectivity and access to information and communication technologies, particularly in underserved areas. This led to a digital divide, with many residents, especially in low-income neighbourhoods, lacking access to the internet and digital services. Additionally, government services were often inefficient, relying on physical paperwork, and lacked transparency.
 
 #### **Objectives**
 
-The objectives of the project are to provide free Wi-Fi to bridge the digital divide and empower citizens with access to information and communication technologies, establish a digital authentication system (Llave CDMX) to enable government validation of digital identity and simplify access to public services, implement a Digital Record to provide a centralised platform for citizens to access and view shared
-documents, reducing the need for physical paperwork, and automate administrative process management through the Procedures Digitiser tool, streamlining procedure handling and making government services more efficient and transparent.
+The objectives of the project are to provide free Wi-Fi to bridge the digital divide and empower citizens with access to information and communication technologies, establish a digital authentication system (Llave CDMX) to enable government validation of digital identity and simplify access to public services, implement a Digital Record to provide a centralised platform for citizens to access and view shared documents, reducing the need for physical paperwork, and automate administrative process management through the Procedures Digitiser tool, streamlining procedure handling and making government services more efficient and transparent.
 
 #### **Key strategies**
 
