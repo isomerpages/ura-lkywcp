@@ -37,7 +37,7 @@ Green Point Park has had a significant positive impact on the urban environment 
 
 The park has also become an educational hub, with resources built around the water bodies to teach young city residents about nature and water dynamics. The biodiversity show garden and experiential educational garden provide interactive learning experiences. The park has also hosted various events, including the Formula-E Racing World Championship, which generated significant economic spinoffs and promoted sustainability.
 
-The park’s impacts extend beyond the environment, with property values in the surrounding area increasing dramatically since its development. The park is wellserviced by public transport and has become a hub for social cohesion, attracting over one million visitors annually from diverse backgrounds. The city’s continued investment in the park has contributed to economic growth and job creation, demonstrating that sustainability and economic activity can coexist and even thrive together **<font color="#967942">O</font>**
+The park’s impacts extend beyond the environment, with property values in the surrounding area increasing dramatically since its development. The park is wellserviced by public transport and has become a hub for social cohesion, attracting over one million visitors annually from diverse backgrounds. The city’s continued investment in the park has contributed to economic growth and job creation, demonstrating that sustainability and economic activity can coexist and even thrive together. **<font color="#967942">O</font>**
 
 ---
 
