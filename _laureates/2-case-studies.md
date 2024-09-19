@@ -47,6 +47,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 | **Hamburg** | [HafenCity](/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
 | **New York City** | [Brooklyn Bridge Park](/case-studies/brooklyn-bridge-park/) <br> A waterfront revitalisation project transforming former industrial land into sustainable parkland, reconnecting New York residents with the shoreline. |
 | **New York City** | [West Chelsea and High Line](/case-studies/west-chelsea-high-line-plan/) <br> An urban rejuvenation project transforming a former rail line into a unique public park, inspiring similar projects globally. |
+| **Rio de Janeiro** | [Reviver Centro](/case-studies/reviver-centro/) <br> Revitalising Rio's central district by converting underused commercial buildings into residential use, to bring people back. |
 | **Suzhou** | [Pingjiang Historic District](/case-studies/pingjiang-historic-district/) <br> A comprehensive approach to heritage preservation, emphasising intangible qualities, characterises the city’s efforts amidst rapid modernisation. |
 | **Vienna** | [New Danube & Danube Island](/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
 
