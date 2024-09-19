@@ -10,6 +10,10 @@ published: true
 
 Discover how the Prize cities have addressed common urban challenges through innovative solutions. These real-world examples offer valuable insights into how they have transformed their urban environments and improved the quality of life for their citizens.
 
+#### **Urban resilience and disaster risk management**
+
+| **Cape Town** | [Water Augmentation Plan](/case-studies/water-augmentation-plan/) <br> A disaster plan for Cape Town's 2018 water crisis exemplifies urban resilience through data-driven strategies for effective resource management and targeted response. |
+
 #### **Governance and institutional frameworks**
 
 | **Bilbao** | [Bilbao Ria 2000](/case-studies/bilbao-ria-2000/) <br> An institutionalised process through a private non-profit entity that guided Bilbao’s transformation and urban governance despite changes in leadership. |
