@@ -55,4 +55,5 @@ Discover how the Prize cities have addressed common urban challenges through inn
 
 | **Cape Town** | [Water Augmentation Plan](/case-studies/water-augmentation-plan/) <br> A disaster plan for Cape Town's 2018 water crisis exemplifies urban resilience through data-driven strategies for effective resource management and targeted response. |
 | **Rio de Janeiro** | [Low Emissions District](/case-studies/rio-low-emissions-district/) <br> A pilot project that aims to reduce greenhouse gas emissions and promote sustainable urban spaces through clean transport, active mobility, and green infrastructure. |
+| **Wellington** | [Predator Free Wellington](/case-studies/predator-free-wellington/) <br> A project that aims to eradicate predators from Wellington to restore native biodiversity and create a predator-free urban environment. |
 | **Wellington** | [Zealandia](/case-studies/zealandia/) <br> A 500-year restoration project to restore biodiversity, ecosystem health, and urban conservation through a predator-free sanctuary and community engagement. |
