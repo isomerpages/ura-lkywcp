@@ -34,7 +34,7 @@ The Low Emissions District prioritises sustainability by promoting green infrast
 - Waste management practices are implemented through recycling and waste reduction initiatives.
 - Buildings are made energy efficient through green construction materials, efficient insulation, and smart energy management systems.
 - Communication and Participation involve educating the public on sustainable practices and encouraging community involvement in decision-making processes.
-- A comprehensive monitoring system tracks air quality, emissions, and pedestrian and vehicle flow
+- A comprehensive monitoring system tracks air quality, emissions, and pedestrian and vehicle flow.
 
 #### **Impacts**
 
