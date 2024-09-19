@@ -13,6 +13,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 #### **Governance and institutional frameworks**
 
 | **Bilbao** | [Bilbao Ria 2000](/case-studies/bilbao-ria-2000/) <br> An institutionalised process through a private non-profit entity that guided Bilbao’s transformation and urban governance despite changes in leadership. |
+| **Melbourne** | [Design Excellence Programme](/case-studies/design-excellence-programme/) <br> A programme to enhance Melbourne's built environment through innovative, inclusive, and sustainable design for a liveable city. |
 | **Seoul** | [Citizen Engagement Strategies](/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
 
 #### **Public space activation and enhancement**
