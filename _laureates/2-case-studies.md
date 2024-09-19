@@ -28,6 +28,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 #### **Transportation and mobility**
 
 | **Medellín** | [MetroCable](/case-studies/metrocable/) <br> The world’s first mass transit cable car system connects marginalised mountain communities to the city centre, enhancing access to employment and education while reducing socioeconomic stratification. |
+| **Mexico City** | [Integrated Transport Solutions](/case-studies/mexico-city-transport/) <br> A mobility transformation that integrates cable cars, metro upgrades, and bike-shares, enhancing accessibility and sustainability. |
 | **Tokyo** | [Rail Development](/case-studies/tokyo-rail-network/) <br> A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
 
 #### **Public space activation and enhancement**
