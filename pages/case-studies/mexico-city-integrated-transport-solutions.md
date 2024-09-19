@@ -25,19 +25,15 @@ Through its mobility transformation, the city aims to improve the quality of lif
 
 #### **Key strategies**
 
-Firstly, the city has launched the Integrated Mobility Card, an access pass that seamlessly connects various transportation modes. This card, 
-designed with international security standards, ensures transparency and prevents fraudulent activities, promoting trust and peace of mind among users. Additionally, the city has implemented the Cablebús system, specifically targeting densely populated areas to reduce travel times and provide secure transportation.
+Firstly, the city has launched the Integrated Mobility Card, an access pass that seamlessly connects various transportation modes. This card, designed with international security standards, ensures transparency and prevents fraudulent activities, promoting trust and peace of mind among users. Additionally, the city has implemented the Cablebús system, specifically targeting densely populated areas to reduce travel times and provide secure transportation.
 
-Secondly, the city has introduced an elevated trolleybus system in the eastern zone to alleviate congestion and enhance transportation. This innovative solution serves a daily ridership of 76,000 users, significantly improving mobility for those living in densely populated areas. Furthermore, the city has initiated a comprehensive modernisation plan for the metro system, aiming to reduce waiting times and increase
-transportation capacity. This plan, started in 2021, minimises breakdowns and generates cost savings in train maintenance, ultimately enhancing the overall efficiency and quality of the metro system.
+Secondly, the city has introduced an elevated trolleybus system in the eastern zone to alleviate congestion and enhance transportation. This innovative solution serves a daily ridership of 76,000 users, significantly improving mobility for those living in densely populated areas. Furthermore, the city has initiated a comprehensive modernisation plan for the metro system, aiming to reduce waiting times and increase transportation capacity. This plan, started in 2021, minimises breakdowns and generates cost savings in train maintenance, ultimately enhancing the overall efficiency and quality of the metro system.
 
-Lastly, the city has promoted eco-friendly transportation options through bike-sharing programmes like Ecobici and the Muevete en Bici open streets programme. Ecobici, the largest bike-sharing system in Latin America, offers residents and visitors an environmentally friendly mode
-of transportation, complemented by an extensive network of dedicated bike lanes. The Muevete en Bici programme temporarily closes streets to cars, allowing citizens to walk, cycle, and skate, fostering a sense of community and promoting sustainable transportation.
+Lastly, the city has promoted eco-friendly transportation options through bike-sharing programmes like Ecobici and the Muevete en Bici open streets programme. Ecobici, the largest bike-sharing system in Latin America, offers residents and visitors an environmentally friendly mode of transportation, complemented by an extensive network of dedicated bike lanes. The Muevete en Bici programme temporarily closes streets to cars, allowing citizens to walk, cycle, and skate, fostering a sense of community and promoting sustainable transportation.
 
 #### **Impacts**
 
-The impacts of Mexico City’s transportation initiatives have been profound, with significant improvements in cycling infrastructure and public transportation accessibility. The Muevete en Bici programme has attracted thousands of participants, promoting a culture of sustainability and
-community engagement, while the expansion of bike lanes has made multi-modal commuting more accessible, reducing reliance on private vehicles and decreasing environmental pollution.
+The impacts of Mexico City’s transportation initiatives have been profound, with significant improvements in cycling infrastructure and public transportation accessibility. The Muevete en Bici programme has attracted thousands of participants, promoting a culture of sustainability and community engagement, while the expansion of bike lanes has made multi-modal commuting more accessible, reducing reliance on private vehicles and decreasing environmental pollution.
 
 The integration of bike-share into the transit card has also made affordable transportation options available to residents, with 6,000 bicycles available for use throughout the city, complemented by an extensive network of dedicated bike lanes totalling approximately 250 kilometres in length. This has further enhanced the city’s commitment to providing sustainable and equitable transportation solutions for all residents.
 
