@@ -19,6 +19,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 
 | **Medellín** | [Circumvent Garden](/case-studies/circumvent-garden/) <br> Converting illegal settlements into active participants in the city’s transformation through pedagogical urbanism connects residents more deeply with their community. |
 | **Medellín** | [Unidades de Vida Articulada](/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
+| **Melbourne** | [Flash Forward Creative Laneways](/case-studies/flash-forward-creative-laneways/) <br> A programme that transformed Melbourne's laneways into vibrant public spaces, supporting local artists and community recovery post-COVID-19. |
 | **New York City** | [NYC Plaza Programme](/case-studies/nyc-plaza-programme/) <br> Redistributing road spaces to promote walking, biking, and recreation, reduce carbon emissions, and improve traffic safety. |
 | **Seoul** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/case-studies/cheonggyecheon/) <br> Three projects that transformed Seoul by prioritising people over cars, highlighting the motivations, processes, and outcomes of these urban innovations. |
 | **Vienna** | [Grätzloase](/case-studies/gratzloase/) <br> An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
