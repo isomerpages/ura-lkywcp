@@ -1,6 +1,6 @@
 ---
 title: 2024 Special Mention — Melbourne
-permalink: /melbourne2/
+permalink: /melbourne/
 image: /images/special-mentions/melbourne2.jpg
 description: Melbourne is recognised for being a city emblematic of resilience and innovation and redefining the urban landscape through a series of transformative initiatives over many decades, reaffirming its status as one of the most liveable cities in the world. 
 ---
