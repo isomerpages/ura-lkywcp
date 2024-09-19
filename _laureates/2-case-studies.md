@@ -54,3 +54,4 @@ Discover how the Prize cities have addressed common urban challenges through inn
 #### **Urban resilience and disaster risk management**
 
 | **Cape Town** | [Water Augmentation Plan](/case-studies/water-augmentation-plan/) <br> A disaster plan for Cape Town's 2018 water crisis exemplifies urban resilience through data-driven strategies for effective resource management and targeted response. |
+| **Rio de Janeiro** | [Low Emissions District](/case-studies/rio-low-emissions-district/) <br> A pilot project that aims to reduce greenhouse gas emissions and promote sustainable urban spaces through clean transport, active mobility, and green infrastructure. |
