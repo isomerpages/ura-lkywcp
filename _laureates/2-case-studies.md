@@ -16,7 +16,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 | **Melbourne** | [Design Excellence Programme](/case-studies/design-excellence-programme/) <br> A programme to enhance Melbourne's built environment through innovative, inclusive, and sustainable design for a liveable city. |
 | **Seoul** | [Citizen Engagement Strategies](/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
 
-#### **Public space activation and enhancement**
+#### **Public space activation and programming**
 
 | **Medellín** | [Circumvent Garden](/case-studies/circumvent-garden/) <br> Converting illegal settlements into active participants in the city’s transformation through pedagogical urbanism connects residents more deeply with their community. |
 | **Medellín** | [Unidades de Vida Articulada](/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
@@ -51,7 +51,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 | **Suzhou** | [Pingjiang Historic District](/case-studies/pingjiang-historic-district/) <br> A comprehensive approach to heritage preservation, emphasising intangible qualities, characterises the city’s efforts amidst rapid modernisation. |
 | **Vienna** | [New Danube & Danube Island](/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
 
-#### **Urban resilience and disaster risk management**
+#### **Urban resilience and adaptation**
 
 | **Cape Town** | [Water Augmentation Plan](/case-studies/water-augmentation-plan/) <br> A disaster plan for Cape Town's 2018 water crisis exemplifies urban resilience through data-driven strategies for effective resource management and targeted response. |
 | **Rio de Janeiro** | [Low Emissions District](/case-studies/rio-low-emissions-district/) <br> A pilot project that aims to reduce greenhouse gas emissions and promote sustainable urban spaces through clean transport, active mobility, and green infrastructure. |
