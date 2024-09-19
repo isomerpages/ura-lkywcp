@@ -17,8 +17,7 @@ description: The Flash Forward Creative Laneways Programme was a creative respon
 
 #### **Key issues**
 
-Consistently recognised as one of the world’s most liveable cities, Melbourne’s greatest strength comes from its diversity. However, the city faced significant challenges when the COVID-19 pandemic hit in 2020. The creative sector, a vital contributor to the city’s economy and identity, was severely impacted. Lockdowns resulted in the cancellation of over 32,000 gigs and events, leading to a staggering AUD $94 million (approximately USD $66 million) in lost income. With 99 percent of creative professionals lacking income protection or event cancellation insurance, the need for support was urgent. Melbourne recognised the importance of revitalising the creative sector to restore the city’s vibrancy
-and provide opportunities for people to reconnect with each other and their city.
+Consistently recognised as one of the world’s most liveable cities, Melbourne’s greatest strength comes from its diversity. However, the city faced significant challenges when the COVID-19 pandemic hit in 2020. The creative sector, a vital contributor to the city’s economy and identity, was severely impacted. Lockdowns resulted in the cancellation of over 32,000 gigs and events, leading to a staggering AUD $94 million (approximately USD $66 million) in lost income. With 99 percent of creative professionals lacking income protection or event cancellation insurance, the need for support was urgent. Melbourne recognised the importance of revitalising the creative sector to restore the city’s vibrancy and provide opportunities for people to reconnect with each other and their city.
 
 #### **Objectives**
 
@@ -28,13 +27,11 @@ Additionally, the programme prioritised inclusivity, engaging 14 Aboriginal Vict
 
 #### **Key strategies**
 
-The programme was a key part of Melbourne’s response to COVID-19, aiming to revive the city’s vibrancy and welcome people back through reactivation and recovery initiatives. Conceived in April 2020, the programme focused on enhancing and stimulating Melbourne’s renowned laneways
-through a responsive arts programme. It targeted street artists, musicians, and creative producers, many of whom may have been overlooked or underserved by current funding arrangements.
+The programme was a key part of Melbourne’s response to COVID-19, aiming to revive the city’s vibrancy and welcome people back through reactivation and recovery initiatives. Conceived in April 2020, the programme focused on enhancing and stimulating Melbourne’s renowned laneways through a responsive arts programme. It targeted street artists, musicians, and creative producers, many of whom may have been overlooked or underserved by current funding arrangements.
 
 The programme highlighted a diversity of creative methods and approaches, featuring artists from a broad range of ethnic, cultural, and gender backgrounds. It also prioritised representation of Aboriginal creatives, supported by Aboriginal delivery staff, in line with the Public Art Framework. As a COVID-19 jobs-creation scheme, the programme employed over 80 creatives.
 
-The programme delivered over 80 new creative offerings; a significant achievement given the constrained timeframe of 6-12 months. All work was undertaken on private property, relying on property owners’ goodwill and investment. Managing the independence of creative visions with property
-owner desires was a complexity, but the diverse and skilled delivery staff ensured that culturally complex artists’ work was well-explained and obtained property owners’ buy-in.
+The programme delivered over 80 new creative offerings; a significant achievement given the constrained timeframe of 6-12 months. All work was undertaken on private property, relying on property owners’ goodwill and investment. Managing the independence of creative visions with property owner desires was a complexity, but the diverse and skilled delivery staff ensured that culturally complex artists’ work was well-explained and obtained property owners’ buy-in.
 
 #### **Impacts**
 
