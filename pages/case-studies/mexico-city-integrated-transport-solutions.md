@@ -1,7 +1,7 @@
 ---
 title: Mexico City – Integrated Transport Solutions
 permalink: /case-studies/mexico-city-transport/
-image: /images/features/2023/droogdokkenpark.jpg
+image: /images/case-studies/mx-transport.jpg
 description: Mexico City’s mobility transformation integrates transportation systems, introducing innovative solutions like the world’s longest cable car line, modernised metro, and bike-share programmes, enhancing efficiency, accessibility, and sustainability for citizens and visitors.
 ---
 
@@ -13,7 +13,7 @@ description: Mexico City’s mobility transformation integrates transportation s
 | **Type** | Transportation |
 | **Location** | Citywide |
 
-###### ![Droogdokkenpark at the north side of the Scheldt Quays](/images/features/2023/droogdokkenpark.jpg/)**Droogdokkenpark at the north side of the Scheldt Quays** © City of Antwerp
+###### ![The integrated transport card](/images/case-studies/mx-transport.jpg)**The integrated transport card** © Mexico City government
 
 #### **Key issues**
 
