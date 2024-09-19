@@ -20,7 +20,7 @@ sections:
     - infopic:    
         title: Call for nominations
         subtitle: 2026 Prize
-        description: Nominations for the 2026 Prize now open! Apply for the 2026 Prize to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
+        description: Nominations for the 2026 Prize now open! Apply now to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
         button: Apply now!
         url: https://go.gov.sg/nominations
         image: /images/features/2024/banner2026.gif/
