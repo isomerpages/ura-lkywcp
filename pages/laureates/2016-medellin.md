@@ -53,28 +53,8 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 </div>
 
-##### **YouTube videos** 
-
-| ▶️ [2016 Special Lecture: Medellín's remarkable transformation](https://youtu.be/dcjTT8TAgTU) |
-| ▶️ [Interview: Aníbal Gaviria on Medellín's winning strategies](https://youtu.be/UtIrcsydT14) |
-| ▶️ [Medellín's Commune 13](https://youtu.be/LBFrfy7aQFs) |
-| ▶️ [Medellín's Commune 10](https://youtu.be/7eeiOgC8FKg) |
-| ▶️ [Interview: Federico Gutiérrez on Citizen Participation](https://youtu.be/BdZR6HdtcSI) |
-
-##### **In pictures** 
-
-| [Medellín in pictures — model for urban innovations](/resources/in-pictures/medellin/) |
-
 ##### **Case studies** 
 
-| [From illegal settlers to city gardeners](/resources/case-studies/circumvent-garden/) |
-| [Participatory design from concept to operations](/resources/case-studies/uva/) |
-| [Connecting people to opportunities](/resources/case-studies/metrocable/) |
-
-##### **Features** 
-
-| [Medellín transformed — from murder capital to model city](/resources/features/medellin-transformed/) |
-| [Transforming barrios, transforming Medellín](/resources/features/transforming-barrios-transforming-medellin/) |
-| [Medellín — reaching high and moving up](/resources/features/reaching-high-moving-up/) |
-| [Medellín — safe, smart and connected](/resources/features/safe-smart-connected/) |
-| [Medellín — a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) |
+| [Circumvent Garden](/case-studies/circumvent-garden/) |
+| [Unidades de Vida Articulada](/case-studies/uva/) |
+| [MetroCable](/case-studies/metrocable/) |
