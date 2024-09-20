@@ -49,5 +49,5 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 ##### **Case studies** 
 
-| [Citizen Engagement Strategies](/case-studies/citizen-engagement/) |
-| [Cheonggyecheon, Yonsei-ro & Seoullo 7017](/case-studies/cheonggyecheon/) |
+| **01** | [Citizen Engagement Strategies](/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
+| **02** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/case-studies/cheonggyecheon/) <br> Three projects that transformed Seoul by prioritising people over cars, highlighting the motivations, processes, and outcomes of these urban innovations. |
