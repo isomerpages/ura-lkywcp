@@ -29,4 +29,11 @@ While Rio’s current plans show promise in bringing more people back to its dow
 
 ---
 
+##### **Case studies** 
+
+| [Reviver Centro](/case-studies/reviver-centro/) |
+| [Low Emissions District](/case-studies/rio-low-emissions-district/) |
+
+---
+
 [^1]: All information correct as of 2023.
