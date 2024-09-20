@@ -33,4 +33,4 @@ The involvement and commitment of both the people and then-Mayor Rismaharini wor
 
 ##### **Case studies** 
 
-| [Kampung Unggulan]([/case-studies/kampung-unggulan/) |
+| **01** | [Kampung Unggulan](/case-studies/kampung-unggulan/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
