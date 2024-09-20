@@ -29,4 +29,4 @@ Kazan is highly remarkable as a city of diverse cultures, comprising 115 differe
 
 ##### **Case studies** 
 
-| [Integrated Sports Strategy](/case-studies/kazan-sports/) |
+| **01** | [Integrated Sports Strategy](/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
