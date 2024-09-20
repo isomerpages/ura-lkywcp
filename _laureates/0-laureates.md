@@ -13,7 +13,7 @@ published: true
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><br><img src="/images/laureates/mexico-city-medal.png" alt="Mexico City" /><br></td>
+<td style="width: 150px;"><br><img src="/images/laureates/mx-medal.png" alt="Mexico City" /><br></td>
 <td><br><strong>2024 Prize Laureate — Mexico City</strong><br />Mexico City committed to uplifting the lives of its citizens through innovative urban initiatives, especially for the less privileged.<br> ➜ <a href="/mexico-city/">Full citation</a></td>
 </tr>
 <tr>
