@@ -31,26 +31,6 @@ The involvement and commitment of both the people and then-Mayor Rismaharini wor
 
 ---
 
-##### **City profile** 
+##### **Case studies** 
 
-| **Area** | 326.8 km<sup>2</sup> |
-| **Population** | 2,972,091 people (2021) | 
-| **Density** | 5,762 per km<sup>2</sup> |
-
-##### **YouTube videos** 
-
-| ▶️ [Interview: Tri Rismaharini at WCS 2018](https://youtu.be/PeJOmIZsSY4) |
-
-##### **In pictures** 
-
-| [Surabaya in pictures — a modern kampung city](/resources/in-pictures/surabaya/) |
-
-##### **Case study** 
-
-| [Creating a self-driven local economy](/resources/case-studies/creating-self-driven-local-economy/) |
-
-##### **Features** 
-
-| [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Surabaya — preserving the past, conserving the future](/resources/features/preserving-past-conserving-future/) |
-| [Tri Rismaharini on developing a ground-up Surabaya](/resources/features/developing-groundup-surabaya/) |
+| [Kampung Unggulan]([/case-studies/kampung-unggulan/) |
