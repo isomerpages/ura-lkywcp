@@ -33,8 +33,8 @@ While Cape Town’s efforts to become more resilient to climate change are comme
 
 ##### **Case studies** 
 
-| [Green Point Park](/case-studies/green-point-park/) |
-| [Water Augmentation Plan](/case-studies/water-augmentation-plan/) |
+| **01** | [Green Point Park](/case-studies/green-point-park/) <br> Revitalisation of a neglected space into a vibrant urban oasis, showcasing biodiversity, sustainable water management, and fostering community growth. |
+| **02** | [Water Augmentation Plan](/case-studies/water-augmentation-plan/) <br> A disaster plan for Cape Town's 2018 water crisis exemplifies urban resilience through data-driven strategies for effective resource management and targeted response. |
 
 ---
 
