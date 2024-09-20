@@ -24,21 +24,3 @@ Sydney’s high level of collaboration with its stakeholders and citizens is an 
 Sydney is also widely noted for guiding its urban development projects with good design. An example is the **<mark>Green Square</mark>** project where the industrial edge of Sydney's inner south is transformed into a vibrant global village through quality architecture. In addition, more than 250 public intervention projects, completed under the strong leadership of the Lord Mayor, now display keen urban design excellence. This includes parks, playgrounds, childcare centres, pools, libraries, theatres, community and cultural spaces. An exceptional example is observed in the district of Redfern, a previously crime-infested neighbourhood, where the rejuvenation of public parks and playgrounds effectively helped to increase community trust among residents.
 
 Sydney’s transformation is a testament to the dynamic leadership of Lord Mayor Clover Moore and the City Council. It serves as an admirable leadership model for other cities, especially in the area of addressing political limitations. By developing better partnerships and fostering greater collaborations amongst government, private sector, civic groups and the community, the city proves that remarkable and successful urban transformation is still possible. Sydney’s achievements today provide great inspiration to other cities facing similar constraints. **<font color="#967942">O</font>**
-
----
-
-##### **City profile** 
-
-| **Area** | 25 km<sup>2</sup> |
-| **Population** | 246,343 people (2019) | 
-| **Density** | 9,854 per km<sup>2</sup> |
-
-##### **YouTube videos** 
-
-| ▶️ [Prize Forum 2016: Louise Kerr on Sydney's plans and engagements](https://youtu.be/ZIp9r_VRTO8) |
-| ▶️ [Interview: Louise Kerr on Sydney's engagement process](https://youtu.be/jhOuge9eupQ) |
-
-##### **Features** 
-
-| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
-| [Engaging communities for a sustainable future](/resources/features/engaging-communities-sustainable-future/) |
