@@ -1,11 +1,11 @@
 ---
 title: Why Apply?
 permalink: /why-apply/
-image: /images/why-apply.jpg/
+image: /images/features/2024/why-apply2.png/
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 
-![Why why tell me why](/images/why-apply.jpg/)
+![Why why tell me why](/images/features/2024/why-apply2.png/)
 
 #### **Why apply for the Prize?**
 
