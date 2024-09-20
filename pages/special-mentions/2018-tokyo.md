@@ -27,7 +27,7 @@ Tokyo is working towards a planned vision for its future. Under the **<mark>Acti
 
 ##### **Case studies** 
 
-| [Rail Development](/case-studies/tokyo-rail-network/) |
+| **01** | [Rail Development](/case-studies/tokyo-rail-network/) <br> A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
 
 ---
 
