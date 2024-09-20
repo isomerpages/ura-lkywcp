@@ -39,9 +39,10 @@ Mexico City's commitment to inclusivity and sustainable transformation is a deep
 
 </div>
 
-##### **Commemorative video**
+##### **Case studies**
 
-
+| [Free Wi-Fi, Llave CDMX & Procedures Digitiser](/case-studies/mexico-city-digital/) |
+| [Integrated Transport Solutions](/case-studies/mexico-city-transport/) |
 
 ---
 
