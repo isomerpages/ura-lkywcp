@@ -55,6 +55,7 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 ##### **Case studies** 
 
-| [Circumvent Garden](/case-studies/circumvent-garden/) |
-| [Unidades de Vida Articulada](/case-studies/uva/) |
-| [MetroCable](/case-studies/metrocable/) |
+| **01** | [Circumvent Garden](/case-studies/circumvent-garden/) <br> Converting illegal settlements into active participants in the city’s transformation through pedagogical urbanism connects residents more deeply with their community. |
+| **02** | [Unidades de Vida Articulada](/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
+| **03** | [MetroCable](/case-studies/metrocable/) <br> The world’s first mass transit cable car system connects marginalised mountain communities to the city centre, enhancing access to employment and education while reducing socioeconomic stratification. |
+
