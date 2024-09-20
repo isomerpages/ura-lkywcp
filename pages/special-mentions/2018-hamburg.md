@@ -33,4 +33,4 @@ Hamburg is also commendable for its push towards sustainable urban development t
 
 ##### **Case studies** 
 
-| [HafenCity](/case-studies/hafencity/) |
+| **01** | [HafenCity](/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |
