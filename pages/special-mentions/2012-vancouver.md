@@ -25,17 +25,4 @@ Benefitting from an active citizenry bonded by a strong set of 'Vancouver Values
 
 ---
 
-##### **City profile**
-
-| **Area** | 115 km<sup>2</sup> |
-| **Population** | 675,218 people (2017) | 
-| **Density** | 5,871 per km<sup>2</sup> |
-
-##### **YouTube videos**
-
-| ▶️ [Prize Forum 2012: Compact Living in Vancouver](https://youtu.be/mVczsRmHSmM) |
-| ▶️ [Vancouver: The evolving Vancouver model of city-building](https://youtu.be/CodFHJDo0R8) |
-
----
-
 [^1]: Up to 2012. 
