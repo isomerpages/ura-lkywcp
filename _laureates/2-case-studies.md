@@ -27,7 +27,7 @@ Discover how the Prize cities have addressed common urban challenges through inn
 
 #### **Social inclusion and community development**
 
-| **Kazan** | [Sports Strategy](/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
+| **Kazan** | [Integrated Sports Strategy](/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
 | **Mexico City** | [Free Wi-Fi, Llave CDMX & Procedures Digitiser](/case-studies/mexico-city-digital/) <br> A digital transformation that focuses on vulnerable communities, leveraging technology to promote inclusion, improve services, and enhance efficiency. |
 | **Surabaya** | [Kampung Unggulan](/case-studies/kampung-unggulan/) <br> A programme to train home-based entrepreneurs and create platforms for showcasing their products to build a self-sustaining local economy and improve household incomes. |
 | **Suzhou** | [Inclusive Social Policies](/case-studies/inclusive-social-policies/) <br> Innovative social policies introduced alongside economic development and environmental protection ensure fair and equal treatment for all, paving the way for a sustained future. |
