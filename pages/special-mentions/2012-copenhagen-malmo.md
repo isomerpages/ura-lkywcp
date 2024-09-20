@@ -21,27 +21,7 @@ Copenhagen and Malmö are widely recognised as two of the most sustainable citie
 
 Malmö, which has established itself as Sweden’s best city for cycling, aims to be the world’s most sustainable city in 2020[^1]. Test-bedding pilot projects, such as the development of sustainable districts, has already begun. In both cities systematic implementation and rigorous monitoring support the planning for low-carbon development, urban intensification and the continued push for cycling as a model of green mobility.
 
-The remarkable level of collaboration to achieve successful outcomes demonstrates the need for creative re-thinking of the structure of government and cities beyond municipal and national boundaries. The cities of Copenhagen and Malmö are exemplary for their forward-thinking vision and strategies. **<font color="#967942">O</font>**
-
----
-
-##### **City profile (Copenhagen)**
-
-| **Area** | 88.25 km<sup>2</sup> |
-| **Population** | 602,481 people (2017) | 
-| **Density** | 6,827 per km<sup>2</sup> |
-
-##### **City profile (Malmö)**
-
-| **Area** | 158.4 km<sup>2</sup> |
-| **Population** | 344,166 people (2019) | 
-| **Density** | 2,173 per km<sup>2</sup> |
-
-##### **YouTube videos**
-
-| ▶️ [Prize Forum 2012: Copenhagen — solutions for green growth](https://youtu.be/rK0ZBFpX9KE) |
-| ▶️ [Prize Forum 2012: Planning for sustainability — the Malmö way](https://youtu.be/8PjV07nCpkk) |
-| ▶️ [IImar Reepalu on Malmö's move from shipyard to ecosphere](https://youtu.be/bBayr6mwDFI) |
+The remarkable level of collaboration to achieve successful outcomes demonstrates the need for creative re-thinking of the structure of government and cities beyond municipal and national boundaries. The cities of Copenhagen and Malmö are exemplary for their forward-thinking vision and strategies. **<font color="#967942">O</font>*
 
 ---
 
