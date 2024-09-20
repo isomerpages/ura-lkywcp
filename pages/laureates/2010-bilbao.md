@@ -49,5 +49,5 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ##### **Case studies** 
 
-| [Rejuvenation of Abandoibarra Waterfront](/case-studies/abandoibarra-waterfront/) | 
-| [Bilbao Ria 2000 as innovative governance](/case-studies/bilbao-ria-2000/) | 
+| **01** | [Bilbao Ria 2000](/case-studies/bilbao-ria-2000/) <br> An institutionalised process through a private non-profit entity that guided Bilbao’s transformation and urban governance despite changes in leadership. |
+| **02** | [Abandoibarra Waterfront Rejuvenation](/case-studies/abandoibarra-waterfront/) <br> An urban regeneration project transforming a dilapidated industrial area in Bilbao into a vibrant mixed-use district, anchored by the Guggenheim Museum. |
