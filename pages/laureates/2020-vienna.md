@@ -49,8 +49,8 @@ Despite its many successes in the past, Vienna continues to build on the strong 
 
 ##### **Case studies** 
 
-| [Grätzloase](/case-studies/gratzloase/) |
-| [New Danube and Danube Island](/case-studies/vienna-danube/) |
+| **01** | [Grätzloase](/case-studies/gratzloase/) <br> An initiative that provides support for temporary public space activation programmes, transforming parking lanes into parklets and creating local havens. |
+| **02** | [New Danube & Danube Island](/case-studies/vienna-danube/) <br> A 21.1km-long flood relief channel running parallel to the Danube, with a recreational island in between, activated during floods for water management. |
 
 ---
 
