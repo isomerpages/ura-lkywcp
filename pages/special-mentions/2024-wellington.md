@@ -31,4 +31,11 @@ Wellington’s success story in ecological restoration will serve as an inspirat
 
 ---
 
+##### **Case studies** 
+
+| [Predator Free Wellington](/case-studies/predator-free-wellington/) |
+| [Zealandia](/case-studies/zealandia/) |
+
+---
+
 [^1]: All information correct as of 2023.
