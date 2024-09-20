@@ -33,4 +33,11 @@ Melbourne's appeal attracts many to relocate for residential, professional, and 
 
 ---
 
+##### **Case studies** 
+
+| [Design Excellence Programme](/case-studies/design-excellence-programme/) |
+| [Flash Forward Creative Laneways](/case-studies/flash-forward-creative-laneways/) |
+
+---
+
 [^1]: All information correct as of 2023.
