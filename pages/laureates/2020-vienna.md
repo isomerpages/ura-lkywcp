@@ -47,27 +47,10 @@ Despite its many successes in the past, Vienna continues to build on the strong 
 
 </div>
 
-##### **YouTube videos** 
-
-| ▶️ [Prize Forum 2016: Walter Kling on Vienna's ambitious pursuits](https://youtu.be/CAyC_oThxNA) |
-| ▶️ [Interview: Walter Kling on Vienna's environmental stewardship](https://youtu.be/mldnlrUZunE) |
-
-##### **In pictures** 
-
-| [Raising the bar of liveability](/resources/in-pictures/vienna/) |
-| [Small initiatives, big impacts](/resources/in-pictures/vienna2/) |
-
-##### **Features** 
-
-| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
-| [Looking east and west — Vienna at the crossroads](/resources/features/vienna-at-crossroads/) |
-| [Vienna — channelling efforts against climate change](/resources/features/vienna-climate-change/) |
-| [Shaping Vienna from the ground up](/resources/features/shaping-vienna-ground-up/) |
-
 ##### **Case studies** 
 
-| [Turning parking lanes into parklets](/resources/case-studies/vienna-parklets/) |
-| [Safeguarding Vienna against future floods](/resources/case-studies/vienna-danube/) |
+| [Grätzloase](/case-studies/gratzloase/) |
+| [New Danube and Danube Island](/case-studies/vienna-danube/) |
 
 ---
 
