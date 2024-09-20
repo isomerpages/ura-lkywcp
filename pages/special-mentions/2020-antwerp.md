@@ -35,7 +35,7 @@ The sense of cooperation that transcends all levels from citizens to city admini
 
 ##### **Case studies** 
 
-| [Scheldt Quays](/case-studies/antwerp-scheldt-quays/) |
+| **01** | [Scheldt Quays](/case-studies/antwerp-scheldt-quays/) <br> A project that revitalised historic spaces and reconnected the city with the River Scheldt, focusing on community engagement and sustainability. |
 
 ---
 
