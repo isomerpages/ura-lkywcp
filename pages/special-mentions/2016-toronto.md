@@ -27,27 +27,5 @@ Despite limited support from the Federal and Provincial governments and a ‘wea
 
 ---
 
-##### **City profile** 
-
-| **Area** | 630.2 km<sup>2</sup> |
-| **Population** | 2,930,000 people (2017) | 
-| **Density** | 4,649 per km<sup>2</sup> |
-
-##### **YouTube videos** 
-
-| ▶️ [Prize Forum 2016: Christopher Glaisek on Toronto's waterfront rejuvenation](https://youtu.be/yAqzKa_81ao) |
-| ▶️ [Interview: Christopher Glaisek on transforming Toronto's waterfront](https://youtu.be/XjGd4i9jIo0) |
-
-##### **In pictures** 
-
-| [Toronto in pictures — Toronto revitalised](/resources/in-pictures/toronto/) |
-
-##### **Features** 
-
-| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
-| [Toronto — from industrial portlands to vibrant waterfront](/resources/features/torontos-transformation/) |
-
----
-
 [^1]: Information correct as of 2016. 
 [^2]: In a weak mayor-council government, the executive authority of the mayor is less expansive and more power is shared with the council. [More](https://ballotpedia.org/Mayor-council_government)
