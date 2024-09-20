@@ -33,8 +33,8 @@ Wellington’s success story in ecological restoration will serve as an inspirat
 
 ##### **Case studies** 
 
-| [Predator Free Wellington](/case-studies/predator-free-wellington/) | A project that aims to eradicate predators from Wellington to restore native biodiversity and create a predator-free urban environment. |
-| [Zealandia](/case-studies/zealandia/) | A 500-year restoration project to restore biodiversity, ecosystem health, and urban conservation through a predator-free sanctuary and community engagement. |
+| **01** | [Predator Free Wellington](/case-studies/predator-free-wellington/) <br> A project that aims to eradicate predators from Wellington to restore native biodiversity and create a predator-free urban environment. |
+| **02** | [Zealandia](/case-studies/zealandia/) <br> A 500-year restoration project to restore biodiversity, ecosystem health, and urban conservation through a predator-free sanctuary and community engagement. |
 
 ---
 
