@@ -31,4 +31,11 @@ While Cape Town’s efforts to become more resilient to climate change are comme
 
 ---
 
+##### **Case studies** 
+
+| [Green Point Park](/case-studies/green-point-park/) |
+| [Water Augmentation Plan](/case-studies/water-augmentation-plan/) |
+
+---
+
 [^1]: All information correct as of 2023.
