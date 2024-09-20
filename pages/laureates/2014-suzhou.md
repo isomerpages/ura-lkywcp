@@ -43,6 +43,7 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 ##### **Case studies** 
 
-| [1-for-3 Housing Policy at Stone Lake District](/case-studies/1-for-3-housing/) |
-| [Pingjiang Historic District](/case-studies/pingjiang-historic-district/) |
-| [Inclusive Social Policies](/case-studies/inclusive-social-policies/) |
+| **01** | [Inclusive Social Policies](/case-studies/inclusive-social-policies/) <br> Innovative social policies introduced alongside economic development and environmental protection ensure fair and equal treatment for all, paving the way for a sustained future. |
+| **02** | [1-for-3 Housing Policy at Stone Lake District](/case-studies/1-for-3-housing/) <br> An innovative relocation housing policy restored Suzhou's Stone Lake’s ecology and improved the environment, while meeting the housing and income needs of displaced rural farmers. |
+| **03** | [Pingjiang Historic District](/case-studies/pingjiang-historic-district/) <br> A comprehensive approach to heritage preservation, emphasising intangible qualities, characterises the city’s efforts amidst rapid modernisation. |
+
