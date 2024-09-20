@@ -40,7 +40,7 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 
 | **Auckland** overcame planning challenges through a highly integrated and innovative governance model. | [Citation](/auckland/) |
 | **Brisbane** transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | [Citation](/brisbane/) |
-| **Melbourne** epitomises resilience, innovation and liveability, even amidst pandemic challenges. | [Citation](/melbourne2/) |
+| **Melbourne** epitomises resilience, innovation and liveability, even amidst pandemic challenges. | [Citation](/melbourne/) |
 | **Sydney** demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. | [Citation](/sydney/) |
 | **Wellington** champions urban-nature harmony with citizen-led conservation. | [Citation](/wellington/) |
 

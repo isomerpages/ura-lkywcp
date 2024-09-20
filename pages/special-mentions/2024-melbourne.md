@@ -33,4 +33,11 @@ Melbourne's appeal attracts many to relocate for residential, professional, and 
 
 ---
 
+##### **Case studies** 
+
+| **01** | [Design Excellence Programme](/case-studies/design-excellence-programme/) <br> A programme to enhance Melbourne's built environment through innovative, inclusive, and sustainable design for a liveable city. |
+| **02** | [Flash Forward Creative Laneways](/case-studies/flash-forward-creative-laneways/) <br> A programme that transformed Melbourne's laneways into vibrant public spaces, supporting local artists and community recovery post-COVID-19. |
+
+---
+
 [^1]: All information correct as of 2023.

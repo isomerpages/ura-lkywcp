@@ -39,12 +39,6 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 ---
 
-##### **City profile**
-
-| **Area** | 41.6 km<sup>2</sup> |
-| **Population** | 346,332 people | 
-| **Density** | 8,446 per km<sup>2</sup> |
-
 ##### **Commemorative video** 
 
 <div class="bp-youtube">
@@ -53,16 +47,7 @@ Bilbao has been instrumental in regenerating and transforming the city. Bilbao h
 
 </div>
 
-##### **YouTube videos**
-
-| ▶️ [How culture transformed the reality of Bilbao](https://youtu.be/MF2GgaM5PD4) |
-
 ##### **Case studies** 
 
-| [Rejuvenation of Abandoibarra Waterfront](/resources/case-studies/abandoibarra-waterfront/) | 
-| [Bilbao Ria 2000 as innovative governance](/resources/case-studies/bilbao-ria-2000/) | 
-
-##### **Features** 
-
-| [Spotlight on Bilbao — how the winning city is reinventing itself yet again](/resources/features/spotlight-bilbao/) |
-| [Juan María Aburto on investing in culture and people](/resources/features/investing-culture-people/) |
+| **01** | [Bilbao Ria 2000](/case-studies/bilbao-ria-2000/) <br> An institutionalised process through a private non-profit entity that guided Bilbao’s transformation and urban governance despite changes in leadership. |
+| **02** | [Abandoibarra Waterfront Rejuvenation](/case-studies/abandoibarra-waterfront/) <br> An urban regeneration project transforming a dilapidated industrial area in Bilbao into a vibrant mixed-use district, anchored by the Guggenheim Museum. |

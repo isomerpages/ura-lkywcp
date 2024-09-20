@@ -53,28 +53,9 @@ It is noted that key challenges remain, particularly the shortage of social hous
 
 </div>
 
-##### **YouTube videos** 
-
-| ▶️ [2016 Special Lecture: Medellín's remarkable transformation](https://youtu.be/dcjTT8TAgTU) |
-| ▶️ [Interview: Aníbal Gaviria on Medellín's winning strategies](https://youtu.be/UtIrcsydT14) |
-| ▶️ [Medellín's Commune 13](https://youtu.be/LBFrfy7aQFs) |
-| ▶️ [Medellín's Commune 10](https://youtu.be/7eeiOgC8FKg) |
-| ▶️ [Interview: Federico Gutiérrez on Citizen Participation](https://youtu.be/BdZR6HdtcSI) |
-
-##### **In pictures** 
-
-| [Medellín in pictures — model for urban innovations](/resources/in-pictures/medellin/) |
-
 ##### **Case studies** 
 
-| [From illegal settlers to city gardeners](/resources/case-studies/circumvent-garden/) |
-| [Participatory design from concept to operations](/resources/case-studies/uva/) |
-| [Connecting people to opportunities](/resources/case-studies/metrocable/) |
+| **01** | [Circumvent Garden](/case-studies/circumvent-garden/) <br> Converting illegal settlements into active participants in the city’s transformation through pedagogical urbanism connects residents more deeply with their community. |
+| **02** | [Unidades de Vida Articulada](/case-studies/uva/) <br> A conversion of over 20 inaccessible water tank compounds into vibrant community spaces through a participatory design process that transformed former crime hotspots. |
+| **03** | [MetroCable](/case-studies/metrocable/) <br> The world’s first mass transit cable car system connects marginalised mountain communities to the city centre, enhancing access to employment and education while reducing socioeconomic stratification. |
 
-##### **Features** 
-
-| [Medellín transformed — from murder capital to model city](/resources/features/medellin-transformed/) |
-| [Transforming barrios, transforming Medellín](/resources/features/transforming-barrios-transforming-medellin/) |
-| [Medellín — reaching high and moving up](/resources/features/reaching-high-moving-up/) |
-| [Medellín — safe, smart and connected](/resources/features/safe-smart-connected/) |
-| [Medellín — a model city aims for greater heights](/resources/features/medellin-model-city-greater-heights/) |

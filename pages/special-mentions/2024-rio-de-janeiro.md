@@ -29,4 +29,11 @@ While Rio’s current plans show promise in bringing more people back to its dow
 
 ---
 
+##### **Case studies** 
+
+| **01** | [Reviver Centro](/case-studies/reviver-centro/) <br> Revitalising Rio's central district by converting underused commercial buildings into residential use, to bring people back. |
+| **02** | [Low Emissions District](/case-studies/rio-low-emissions-district/) <br> A pilot project that aims to reduce greenhouse gas emissions and promote sustainable urban spaces through clean transport, active mobility, and green infrastructure. |
+
+---
+
 [^1]: All information correct as of 2023.

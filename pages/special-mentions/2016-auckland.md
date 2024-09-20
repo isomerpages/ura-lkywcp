@@ -31,28 +31,4 @@ Auckland sends a message of exemplary significance to other cities that are seek
 
 ---
 
-##### **City profile** 
-
-| **Area** | 1,086 km<sup>2</sup> |
-| **Population** | 1,657,000 people (2017) | 
-| **Density** | 1,526 per km<sup>2</sup> |
-
-##### **YouTube videos** 
-
-| ▶️ [Prize Forum 2016: Len Brown on Auckland's transformation](https://youtu.be/hip3JkAR0-k) |
-| ▶️ [Interview: Ludo Campbell-Reid on Auckland's small projects to transform the city](https://youtu.be/37H5yfZjvWw) |
-| ▶️ [Interview: Len Brown on sustainable Auckland](https://youtu.be/_rwWe8iXwrQ) |
-
-##### **In pictures** 
-
-| [Auckland in pictures — designing spaces, integrating people](/resources/in-pictures/auckland/) |
-
-#####  **Features** 
-
-| [4 different cities, 3 common themes](/resources/features/four-different-cities/) |
-| [Transforming governance, placing people first](/resources/features/transforming-governance-placing-people-first/) |
-| [Reinventing Auckland through design](/resources/features/reinventing-auckland-through-design/) |
-
----
-
 [^1]: Up to 2016.

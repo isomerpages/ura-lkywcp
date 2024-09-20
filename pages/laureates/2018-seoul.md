@@ -39,12 +39,6 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 ---
 
-##### **City profile**
-
-| **Area** | 605.2 km<sup>2</sup> |
-| **Population** | 10,041,574 people | 
-| **Density** | 16,591 per km<sup>2</sup> |
-
 ##### **Commemorative video**
 
 <div class="bp-youtube">
@@ -53,20 +47,7 @@ As cities become larger and more difficult to manage, achieving social sustainab
 
 </div>
 
-##### **In pictures** 
-
-| [Seoul in pictures — catalysing change, improving quality of life](/resources/in-pictures/seoul/) |
-| [Seoul in pictures II — development without demolition](/resources/in-pictures/seoul2/) |
-
 ##### **Case studies** 
 
-| [Negotiating for a better future](/resources/case-studies/citizen-engagement/) |
-| [Car to people spaces](/resources/case-studies/car-to-people-spaces/) |
-
-##### **Features** 
-
-| [Power to the people — citizen engagement in Seoul](/resources/features/power-to-people/) |
-| [Seoul rejuvenated — a people-first city](/resources/features/seoul-rejuvenated/) |
-| [Seoul solutions — tackling rising urban challenges](/resources/features/seoul-solutions/) |
-| [Winy Maas on designing Seoullo 7017](/resources/features/designing-seoullo-7017/) |
-| [Hee Seon Jin on Seoulistic urban regeneration](/resources/features/seoulistic-urban-regeneration/) |
+| **01** | [Citizen Engagement Strategies](/case-studies/citizen-engagement/) <br> A series of strategies to engage the public helped Seoul address growing opposition to urban development, resulting in the extensive public participation process that shaped Seoul Plan 2030. |
+| **02** | [Cheonggyecheon, Yonsei-Ro & Seoullo 7017](/case-studies/cheonggyecheon/) <br> Three projects that transformed Seoul by prioritising people over cars, highlighting the motivations, processes, and outcomes of these urban innovations. |

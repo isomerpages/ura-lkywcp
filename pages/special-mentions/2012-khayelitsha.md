@@ -23,10 +23,4 @@ The scheme is already accepted by Cape Town for emulation in comparable areas an
 
 ---
 
-##### **YouTube videos**
-
-| ▶️ [Prize Forum 2012: Cape Town — violence prevention through urban upgrading](https://youtu.be/39r96ZESjvU) |
-
----
-
 [^1]: The first two editions of the Prize (2010 and 2012) accepted nominations from both individuals and organisations. Since 2014, the Prize accepted nominations from cities only. AHT Group AG & Sun Development were recognised under the 'organisations' category for the 2012 Prize.

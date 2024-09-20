@@ -3,6 +3,7 @@ title: 2016 Special Mention — Vienna
 permalink: /vienna-sm/
 image: /images/special-mentions/vienna.jpg
 description: Vienna is recognised for taking the lead in protecting the environment and its rich cultural heritage while elevating the quality of life.
+published: false
 ---
 
 ##### Vienna is recognised for taking the lead in protecting the environment and its rich cultural heritage while elevating the quality of life.[^1]

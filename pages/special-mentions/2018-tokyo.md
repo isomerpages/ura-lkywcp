@@ -25,30 +25,9 @@ Tokyo is working towards a planned vision for its future. Under the **<mark>Acti
 
 ---
 
-##### **City profile** 
-
-| **Area** | 2,194 km<sup>2</sup> |
-| **Population** | 13,960,000 people (2021) | 
-| **Density** | 6,363 per km<sup>2</sup> |
-
-##### **YouTube videos** 
-
-| ▶️ [Interview: Junko Inokuma on Tokyo’s urban challenges](https://youtu.be/diI14SnXujM) |
-
-##### **In pictures** 
-
-| [Tokyo in pictures — a megacity that works](/resources/in-pictures/tokyo/) |
-
 ##### **Case studies** 
 
-| [Keeping the megacity on the move](/resources/case-studies/tokyo-rail-network/) |
-
-##### **Features** 
-
-| [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Tokyo — the power of people-public-private partnerships](/resources/features/people-public-private-partnerships/) |
-| [Tokyo's CBD — from business district to vibrant hub](/resources/features/business-district-vibrant-hub/) |
-| [Yuriko Koike on the new normal in Tokyo](/resources/features/yuriko-koike/) |
+| **01** | [Rail Development](/case-studies/tokyo-rail-network/) <br> A long-term development of Tokyo’s highly extensive train network over 60 years to ensure its reliability and efficiency, evolving in tandem with its urban development. |
 
 ---
 

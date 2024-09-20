@@ -25,20 +25,4 @@ The city is also a leader in partnering the industry to develop smart technologi
 
 ---
 
-##### **City profile**
-
-| **Area** | 437.4 km<sup>2</sup> |
-| **Population** | 3,725,000 people (2015) | 
-| **Density** | 8,516 per km<sup>2</sup> |
-
-##### **YouTube videos**
-
-| ▶️ [Nobuya Suzuki on driving change in Yokohama](https://youtu.be/Wqz9FdIgeIE) |
-
-##### **Features**
-
-| [Selling cities — the Yokohama story](/resources/features/selling-cities-yokohama-story/) |
-
----
-
 [^1]: Up to 2014.

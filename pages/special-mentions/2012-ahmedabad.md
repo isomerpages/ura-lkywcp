@@ -22,15 +22,3 @@ One early success is the **<mark>Bus Rapid Transit System</mark>** (BRTS), which
 Equally visible is the **<mark>2008 Kankaria Lake redevelopment</mark>**. This former dilapidated and polluted royal bathing ground is now a vibrant cultural and recreation centre after implementation of practical solutions to improve the environment, organise traffic movement and rehabilitate the food vendors. The Sabarmati Riverfront project, now in development, will have an even greater impact on the city as it addresses flood, sewage and water pollution issues, relocation and rehabilitation of slums, and the provision of new public and open spaces.
 
 AMC has distinguished itself as a forward-looking organisation and an inspiring model for sustainable development. Its early achievements reaffirm the importance of a clearly articulated and holistic vision combined with strong political will in tackling urban problems. **<font color="#967942">O</font>**
-
----
-
-##### **City profile**
-
-| **Area** | 464 km<sup>2</sup> |
-| **Population** | 5,571,000 people (2011) | 
-| **Density** | 12,006 per km<sup>2</sup> |
-
-##### **YouTube videos**
-
-| ▶️ [Prize Forum 2012: Practical solutions for Ahmedabad](https://youtu.be/AE4GNk6Ja-s) |

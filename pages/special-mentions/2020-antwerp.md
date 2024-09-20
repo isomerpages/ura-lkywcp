@@ -31,22 +31,11 @@ Antwerp has demonstrated that there are merits to a ‘Slow Urbanism’ developm
 
 The sense of cooperation that transcends all levels from citizens to city administration sends a strong signal that solutions can gain widespread acceptance if governments are willing to work with citizens to co-create solutions. Antwerp’s achievements thus far carry significant lessons for many cities tackling the complex challenge of integrating historical infrastructure with modern city planning. **<font color="#967942">O</font>** 
 
----
+--
 
-##### **City profile** 
+##### **Case studies** 
 
-| **Area** | 204.3 km<sup>2</sup> |
-| **Population** | 524,501 people | 
-| **Density** | 2,567 per km<sup>2</sup> |
-
-##### **Features** 
-
-| [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
-| [A strategy of slow urbanism](/resources/features/antwerp-slow-urbanism/)|
-
-##### **In pictures** 
-
-| [A city taking things slow](/resources/in-pictures/antwerp/) |
+| **01** | [Scheldt Quays](/case-studies/antwerp-scheldt-quays/) <br> A project that revitalised historic spaces and reconnected the city with the River Scheldt, focusing on community engagement and sustainability. |
 
 ---
 

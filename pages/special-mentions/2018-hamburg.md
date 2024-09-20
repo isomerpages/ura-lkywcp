@@ -31,21 +31,6 @@ Hamburg is also commendable for its push towards sustainable urban development t
 
 ---
 
-##### **City profile** 
-
-| **Area** | 755.2 km<sup>2</sup> |
-| **Population** | 1,841,000 people (2019) | 
-| **Density** | 2,438 per km<sup>2</sup> |
-
-##### **In pictures** 
-
-| [Hamburg in pictures — a welcoming city of opportunities](/resources/in-pictures/hamburg/) |
-
 ##### **Case studies** 
 
-| [Creating a city-within-a-city](/resources/case-studies/hafencity/) |
-
-##### **Features** 
-
-| [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Hamburg transformed — leading urban regeneration](/resources/features/hamburg-transformed/) |
+| **01** | [HafenCity](/case-studies/hafencity/) <br> A redevelopment of a former industrial brownfield site into a new ‘city-within-a-city’ serves as a role model for inclusive inner-city densification, through innovative governance and land sales programme. |

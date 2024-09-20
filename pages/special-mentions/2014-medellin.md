@@ -3,6 +3,7 @@ title: 2014 Special Mention — Medellín
 permalink: /medellin-sm/
 image: /images/special-mentions/medellin.jpg
 description: Medellín is recognised for the significant reduction of its homicide rates over the past few decades, leading to a safer, fairer and more equitable city.
+published: false
 ---
 
 ##### Medellín is recognised for the significant reduction of its homicide rates over the past few decades, leading to a safer, fairer and more equitable city.

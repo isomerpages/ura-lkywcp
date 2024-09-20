@@ -39,6 +39,11 @@ Mexico City's commitment to inclusivity and sustainable transformation is a deep
 
 </div>
 
+##### **Case studies**
+
+| **01** | [Free Wi-Fi, Llave CDMX & Procedures Digitiser](/case-studies/mexico-city-digital/) <br> A digital transformation that focuses on vulnerable communities, leveraging technology to promote inclusion, improve services, and enhance efficiency. |
+| **02** | [Integrated Transport Solutions](/case-studies/mexico-city-transport/) <br> A mobility transformation integrating cable cars, metro enhancements, and bike-sharing, along with a unified transport card for seamless access. |
+
 ---
 
 [^1]: All information correct as of 2023.

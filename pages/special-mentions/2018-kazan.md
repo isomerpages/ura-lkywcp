@@ -27,26 +27,6 @@ Kazan is highly remarkable as a city of diverse cultures, comprising 115 differe
 
 ---
 
-##### **City profile** 
+##### **Case studies** 
 
-| **Area** | 515.8 km<sup>2</sup> |
-| **Population** | 1,279,794 people (2021) | 
-| **Density** | 2,481 per km<sup>2</sup> |
-
-##### **YouTube videos** 
-
-| ▶️ [Interview: Daria Sannikova on sports, health and diversity in Kazan](https://youtu.be/YFreQgCcH0Y) |
-| ▶️ [Interview: Taliya Minullina on balancing the old and new needs of Kazan](https://youtu.be/Oof5H0VZcKU) |
-
-##### **In pictures** 
-
-| [Kazan in pictures — healthy city, positive lives](/resources/in-pictures/kazan/) |
-
-##### **Case study** 
-
-| [Elevating quality of life through sports](/resources/case-studies/kazan-sports/) |
-
-##### **Features** 
-
-| [Building liveable cities, creating conducive living environments](/resources/features/building-liveable-cities/) |
-| [Kazan’s second life — finding new purpose in sports](/resources/features/kazan-second-life/) |
+| **01** | [Integrated Sports Strategy](/case-studies/kazan-sports/) <br> Leveraging international sporting events and broad-based infrastructural upgrades with a focus on health, nutrition, and greenery to improve public health and quality of life. |
