@@ -29,10 +29,9 @@ The Prize is co-organised by the [Urban Redevelopment Authority Singapore](https
 
 The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
 
-| ---: | :--- | ---: |
-| [American Planning Association](http://www.planning.org/) | [The City Planning Institute of Japan](http://www.cpij.or.jp/eng/) |
-| [European Urban Knowledge Network](http://www.eukn.eu/) | [Fundación Metrópoli](http://www.fundacion-metropoli.org/) |
-| [International Federation for Housing and Planning](https://www.ifhp.org/) | [INTA - International Urban Development Association](https://inta-aivn.org/en/) |
-| [ISOCARP](https://isocarp.org/) | [Urban Land Institute](https://uli.org/) |
-| [United Nations Environment Programme](https://www.unenvironment.org/) | [Urban Planning Society of China](http://en.planning.org.cn/) |
-| [World Green Building Council](https://www.worldgbc.org/) |
+| American Planning Association | The City Planning Institute of Japan |
+| European Urban Knowledge Network | Fundación Metrópoli |
+| International Federation for Housing and Planning | INTA - International Urban Development Association |
+| ISOCARP | Urban Land Institute |
+| United Nations Environment Programme | Urban Planning Society of China |
+| World Green Building Council |

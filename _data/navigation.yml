@@ -11,10 +11,8 @@ links:
     collection: about
   - title: Apply
     collection: apply
-  - title: Prize cities
+  - title: Winning cities
     collection: laureates
-  - title: Resources
-    resource_room: true
   - title: 中文版
     collection: chinese
   - title: LinkedIn

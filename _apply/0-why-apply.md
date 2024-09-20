@@ -1,11 +1,11 @@
 ---
 title: Why Apply?
 permalink: /why-apply/
-image: /images/why-apply.jpg/
+image: /images/features/2024/why-apply2.png/
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 
-![Why oh why](/images/why-apply.jpg)
+![Why why tell me why](/images/features/2024/why-apply2.png/)
 
 #### **Why apply for the Prize?**
 
@@ -15,7 +15,7 @@ By applying for the Prize, you will get to:
 2. **Showcase your city’s brilliance**: Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead.
 3. **Be among a global community of innovators**: Learn from and collaborate with leaders from other Prize cities to address shared challenges
 
-➜ [View case studies from the Prize cities](/resources/case-studies/)
+➜ [View case studies from the Prize cities](/case-studies/)
 
 #### **Winner benefits**
 

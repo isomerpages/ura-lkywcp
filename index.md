@@ -20,7 +20,7 @@ sections:
     - infopic:    
         title: Call for nominations
         subtitle: 2026 Prize
-        description: Nominations for the 2026 Prize now open! Apply for the 2026 Prize to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
+        description: Nominations for the 2026 Prize now open! Apply now to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
         button: Apply now!
         url: https://go.gov.sg/nominations
         image: /images/features/2024/banner2026.gif/
@@ -53,14 +53,12 @@ sections:
         url: https://go.gov.sg/worldcityprize/
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
-    - infobar:
-        title: 💬
+    - infopic:
+        title: We are now on LinkedIn!
         subtitle: 
-        description: <h5><b>Connect with us on <a href="https://www.linkedin.com/company/worldcityprize/" style="color:#967942; text-decoration:underline;" target="_blank">LinkedIn</a><br><font color="#967942">#worldcityprize</font></b></h5>
-        button: 
-        url: 
-    - resources:
-        title: Cities resources
-        subtitle: Deep delve
-        button: Learn more from the Prize cities
+        description: Connect with us on LinkedIn for more features, stories and latest updates on the Prize! Search '<b>LKY World City Prize</b>' or click the link below. <b>#worldcityprize</b>
+        button: Follow us on LinkedIn
+        url: https://www.linkedin.com/company/worldcityprize/
+        image: /images/features/2024/connect.png/
+        alt: LinkedIn
 ---

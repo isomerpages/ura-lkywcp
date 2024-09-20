@@ -1,57 +1,55 @@
 ---
 title: Special Mentions
 permalink: /special-mentions/
-image: /images/laureates/worldmap-special-mentions.jpeg
-description: Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
+image: /images/laureates/worldmap-special-mentions.jpg
+description: In each cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
 published: true
 ---
 
-![Special Mentions](/images/laureates/worldmap-special-mentions.jpeg/)
+![Special Mentions](/images/laureates/worldmap-special-mentions.jpg/)
 
-Every cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons.
+In each cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons. 
 
-#### **2024 Special Mentions**
+#### **Africa**
 
-| **25** | [Cape Town](/cape-town/) exemplifies resilience through agile governance, navigating crises for a sustainable future. |
-| **24** | [Melbourne](/melbourne2/) epitomises resilience, innovation and liveability, even amidst pandemic challenges. |
-| **23**| [Rio de Janeiro](/rio-de-janeiro/) revitalises its downtown and waterfront with innovative policies. | 
-| **22** | [Wellington](/wellington/) champions urban-nature harmony with citizen-led conservation. |
+| **Cape Town** exemplifies resilience through agile governance, navigating crises for a sustainable future. | [Citation](/cape-town/) |
 
-#### **2020 Special Mentions**
+#### **Americas**
 
-| **21** | [Antwerp](/antwerp/) shows that its strategic urban interventions can help to rejuvenate the city. |
-| **20**| [Boston](/boston/) exemplifies a whole-of-society effort to transform the city. | 
-| **19** | [Lisbon](/lisbon/) demonstrates a dramatic resurgence over the past decade despite limited resources. |
+| **Boston** exemplifies a whole-of-society effort to transform the city. | [Citation](/boston/) |
+| **Rio de Janeiro** injected new life into its central area and waterfront via innovative policies. | [Citation](/rio-de-janeiro/) |
+| **Toronto** excels in social integration and its ambitious Waterfront Toronto initiative, revitalising its core. | [Citation](/toronto/) |
+| **Vancouver** demonstrates strong visioning, community values and long-term planning. | [Citation](/vancouver/) |
 
-#### **2018 Special Mentions**
+#### **Asia**
 
-| **18** | [Hamburg](/hamburg/) is an extraordinary port city that overcame planning challenges to become a welcoming city of opportunities. | 
-| **17** | [Kazan](/kazan/) is a former drab city with youth crimes and health issues transformed into a healthy and harmonious city. |
-| **16**| [Surabaya](/surabaya/) is an emerging city that appreciates its culture and preserves its kampung neighbourhoods. | 
-| **15** | [Tokyo](/tokyo/) is a well-managed megacity despite its large and seemingly ungovernable size. |
+| **Ahmedabad** enjoys early successes in implementing a comprehensive city plan. | [Citation](/ahmedabad/) |
+| **Surabaya** is an emerging city that appreciates its culture and preserves its kampung neighbourhoods. | [Citation](/surabaya/) |
+| **Tokyo** is a well-managed megacity despite its large and seemingly ungovernable size. | [Citation](/tokyo/) |
+| **Yokohama** overcame urban challenges through excellent partnership with its citizens and stakeholders. | [Citation](/yokohama/) |
 
-#### **2016 Special Mentions**
+#### **Europe**
 
-| **14** | [Auckland](/auckland/) overcame planning challenges through a highly integrated and innovative governance model. |
-| **13** | [Sydney](/sydney/) demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. |
-| **12** | [Toronto](/toronto/) is exemplary in integrating its diverse population, and rejuvenating its city core. | 
-| **11** | [Vienna](/vienna-sm/) takes the lead in protecting the environment and its rich cultural heritage while elevating quality of life. | 
+| **Antwerp** shows that its strategic urban interventions can help to rejuvenate the city. | [Citation](/antwerp/) |
+| **Copenhagen & Malmö** demonstrate close collaboration and a shared vision across borders. | [Citation](/copenhagen-malmo/) |
+| **Hamburg** is a port city that overcame planning challenges to become a welcoming city of opportunities. | [Citation](/hamburg/) |
+| **Kazan** overcame youth crimes and health issues to transform into a healthy and harmonious city. | [Citation](/kazan/) |
+| **Lisbon** demonstrates a dramatic resurgence over the past decade despite limited resources. | [Citation](/lisbon/) |
 
-#### **2014 Special Mentions**
+#### **Oceania**
 
-| **10** | [Medellín](/medellin-sm/) significantly reduced its homicide rates over the past few decades. | 
-| **09** | [Yokohama](/yokohama/) overcame urban challenges through excellent partnership with its citizens and stakeholders. | 
+| **Auckland** overcame planning challenges through a highly integrated and innovative governance model. | [Citation](/auckland/) |
+| **Brisbane** transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | [Citation](/brisbane/) |
+| **Melbourne** epitomises resilience, innovation and liveability, even amidst pandemic challenges. | [Citation](/melbourne2/) |
+| **Sydney** demonstrates strong leadership, commitment, and partnership with its citizens and stakeholders. | [Citation](/sydney/) |
+| **Wellington** champions urban-nature harmony with citizen-led conservation. | [Citation](/wellington/) |
 
-#### **2012 Special Mentions**
+---
 
-| **08** | [Ahmedabad](/ahmedabad/) enjoys early successes in implementing a comprehensive city plan. | 
-| **07** | [Brisbane](/brisbane/) transformed itself from a ‘country town’ blighted by urban decay into a vibrant metropolis. | 
-| **06** | [Copenhagen & Malmö](/copenhagen-malmo/) demonstrate close collaboration and a shared vision across borders. | 
-| **05** | [AHT Group AG & Sun Development](/khayelitsha/) prevents violence in Khayelitsha, Cape Town through its comprehensive Urban Upgrading Programme. | 
-| **04** | [Vancouver](/vancouver/) demonstrates strong visioning, community values and long-term planning. | 
+#### **Individuals & organisations**
 
-#### **2010 Special Mentions**
+The first two editions of the Prize accepted nominations from individuals and organisations. Since 2014, the Prize accepted nominations from cities only.
 
-| **03** | [Sheila Dikshit](/sheila-dikshit/) has helped to improve the living environment of Delhi through various implementations. |  
-| **02** | [Dr Jaime Lerner](/jaime-lerner/) implemented impactful urban solutions during his term as mayor of Curitiba and governor of Paraná. | 
-| **01** | [Melbourne](/melbourne/) adopted an integrated approach and commitment to strategic planning. | 
+| **AHT Group AG & Sun Development** prevents violence in Khayelitsha, Cape Town through its comprehensive Urban Upgrading Programme. | [Citation](/khayelitsha/) |
+| **Dr Jaime Lerner** implemented impactful urban solutions during his term as mayor of Curitiba and governor of Paraná. | [Citation](/jaime-lerner/) |
+| **Sheila Dikshit** has helped to improve the living environment of Delhi through various implementations. | [Citation](/sheila-dikshit/) |
