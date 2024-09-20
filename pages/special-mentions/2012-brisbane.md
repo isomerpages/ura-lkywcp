@@ -23,16 +23,4 @@ URB continues to play a key role in implementing Brisbane’s strategic vision o
 
 ---
 
-##### **City profile**
-
-| **Area** | 1,343 km<sup>2</sup> |
-| **Population** | 1,253,982 people (2019) | 
-| **Density** | 934 per km<sup>2</sup> |
-
-##### **YouTube videos**
-
-| ▶️ [Prize Forum 2012: Brisbane — a new world city](https://youtu.be/t5DTqiI0FgM) |
-
----
-
 [^1]: Up to 2012.
