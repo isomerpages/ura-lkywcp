@@ -33,12 +33,6 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 ---
 
-##### **City profile**
-
-| **Area** | 8,657.3 km<sup>2</sup> |
-| **Population** | 10,700,000 people | 
-| **Density** | 1,238 per km<sup>2</sup> |
-
 ##### **Commemorative video** 
 
 <div class="bp-youtube">
@@ -47,18 +41,8 @@ On the whole, the city leaders of Suzhou have demonstrated strong leadership and
 
 </div>
 
-##### **YouTube videos**
-
-| ▶️ [Interview: Mr Xu Ming on Suzhou's success](https://youtu.be/BfundZYEuns) |
-| ▶️ [2014 Prize Laureate: Suzhou, Jiangsu Province](https://youtu.be/euhujVJ3L0k) |
-
 ##### **Case studies** 
 
-| [1-for-3 housing policy at Stone Lake District](/resources/case-studies/1-for-3-housing/) |
-| [Balancing the old and new](/resources/case-studies/pingjiang-historic-district/) |
-| [Inclusive social policies in Suzhou](/resources/case-studies/inclusive-social-policies-suzhou/) |
-
-##### **Features** 
-
-| [Suzhou — epitomising liveable and sustainable cities](/resources/features/epitomising-liveable-sustainable-cities/) |
-| [A marriage of culture and commerce — the Suzhou success story](/resources/features/marriage-culture-commerce/) |
+| [1-for-3 Housing Policy at Stone Lake District](/case-studies/1-for-3-housing/) |
+| [Pingjiang Historic District](/case-studies/pingjiang-historic-district/) |
+| [Inclusive Social Policies](/case-studies/inclusive-social-policies/) |
