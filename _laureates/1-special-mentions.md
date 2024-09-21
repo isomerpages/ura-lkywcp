@@ -46,7 +46,7 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 
 ---
 
-#### **Individuals & organisations**
+#### **Individuals & organisations** (defunct)
 
 The first two editions of the Prize accepted nominations from individuals and organisations. Since 2014, the Prize accepted nominations from cities only.
 
