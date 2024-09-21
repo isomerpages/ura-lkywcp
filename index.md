@@ -9,7 +9,7 @@ notification:
 sections:
     - hero:
         title: 
-        subtitle: 
+        subtitle: Nominations now open!
         background: /images/herobanner.gif
         button: 
         url: 
