@@ -46,14 +46,6 @@ sections:
         button: More videos
         url: https://www.youtube.com/@worldcityprize/
     - infopic:    
-        title: Eduardo Clark on citizen-centric innovation
-        subtitle: 
-        description: Mexico City's journey as a 2024 Prize Laureate highlights creating safe community spaces, digitalizing services, and a citizens-first approach, demonstrating the true beauty of progress over time.
-        button: 
-        url: 
-        image:  <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        alt: eBook
-    - infopic:    
         title: Download our new eBook!
         subtitle: 
         description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2024, with exclusive interviews from the Mayors of the 2024 cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
