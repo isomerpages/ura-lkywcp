@@ -8,8 +8,8 @@ published: true
 notification: 
 sections:
     - hero:
-        title: 
-        subtitle: Call for Nominations
+        title: Nominate your city today!
+        subtitle: 
         background: /images/herobanner.gif
         button: 
         url: 
