@@ -31,6 +31,14 @@ While Cape Town’s efforts to become more resilient to climate change are comme
 
 ---
 
+##### **Commemorative video**
+
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r9vtagJxb6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 ##### **Case studies** 
 
 | **01** | [Green Point Park](/case-studies/green-point-park/) <br> Revitalisation of a neglected space into a vibrant urban oasis, showcasing biodiversity, sustainable water management, and fostering community growth. |
