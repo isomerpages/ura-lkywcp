@@ -16,7 +16,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: 
+        description: Closed on weekends and Singapore public holidays 
 contacts:
   - title: General enquiries & feedback
     content:
