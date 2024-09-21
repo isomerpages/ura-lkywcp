@@ -29,6 +29,14 @@ While Rio’s current plans show promise in bringing more people back to its dow
 
 ---
 
+##### **Commemorative video**
+
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Taixh6HkDTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 ##### **Case studies** 
 
 | **01** | [Reviver Centro](/case-studies/reviver-centro/) <br> Revitalising Rio's central district by converting underused commercial buildings into residential use, to bring people back. |
