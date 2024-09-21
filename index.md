@@ -8,21 +8,21 @@ published: true
 notification: 
 sections:
     - hero:
-        title: Nominations now open!
-        subtitle: N O M I N A T I O N S   N O W   O P E N !
+        title: Call for Nominations
+        subtitle: 
         background: /images/herobanner.gif
         button: 
         url: 
         key_highlights:
-            - title: Nominations now open!
+            - title: Apply now!
               description: 
               url: /stage-a/
     - infopic:    
         title: Call for nominations
         subtitle: 2026 Prize
         description: Nominations for the 2026 Prize now open! Apply now to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
-        button: Apply now!
-        url: https://go.gov.sg/nominations
+        button: More info
+        url: /stage-a/
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infobar:    
