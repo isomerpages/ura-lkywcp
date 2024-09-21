@@ -8,13 +8,13 @@ published: true
 notification: 
 sections:
     - hero:
-        title: Nominate your city today!
+        title: Nominate your city
         subtitle: 
         background: /images/herobanner.gif
         button: 
         url: 
         key_highlights:
-            - title: Apply now!
+            - title: Apply for the 2026 Prize
               description: 
               url: /stage-a/
     - infopic:    
