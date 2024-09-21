@@ -29,6 +29,8 @@ Nominated cities are required to submit all three components - Part 1, Part 2, a
 ➜ [Submit Part 2 - Medium/long-term plan](https://go.gov.sg/part-2) <br>
 ➜ [Submit Part 3 - Key projects](https://go.gov.sg/part-3)
 
+**Closing date**: 31 May 2025
+
 ---
 
 #### **Questions?**
