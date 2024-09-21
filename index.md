@@ -8,8 +8,8 @@ published: true
 notification: 
 sections:
     - hero:
-        title: Call for Nominations
-        subtitle: 
+        title: 
+        subtitle: Call for Nominations
         background: /images/herobanner.gif
         button: 
         url: 
