@@ -5,7 +5,7 @@ description: A biennial international award that recognises outstanding cities i
 image: /images/shareicon.png/
 permalink: /
 published: true
-notification: 
+notification: Nominations for 2026 Prize now open!
 sections:
     - hero:
         title: 
@@ -14,9 +14,9 @@ sections:
         button: Nominations now open!
         url: /stage-a/
         key_highlights:
-            - title: 
-              description: 
-              url: 
+            - title: Case studies
+              description: From the Prize cities
+              url: /case-studies/ 
     - infopic:    
         title: Call for nominations
         subtitle: 2026 Prize
