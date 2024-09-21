@@ -22,7 +22,7 @@ contacts:
     content:
     - phone:  
     - email: ura_worldcityprize@ura.gov.sg
-    - other: 
+    - other: <a href="https://form.gov.sg/#!/5dca55f048e82f0012b1a3f8"><u>Submit online form</u></a>
   - title: Follow us on LinkedIn!
     content:
     - phone: 
