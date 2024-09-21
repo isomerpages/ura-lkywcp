@@ -8,7 +8,7 @@ published: true
 notification: 
 sections:
     - hero:
-        title: Nominate your city
+        title:  <img src="/images/laureates/mx-medal.png">
         subtitle: 
         background: /images/herobanner.gif
         button: 
