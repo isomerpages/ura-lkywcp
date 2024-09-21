@@ -8,8 +8,8 @@ published: true
 notification: 
 sections:
     - hero:
-        title: 
-        subtitle: Nominations now open!
+        title: Nominations now open!
+        subtitle: N O M I N A T I O N S   N O W   O P E N !
         background: /images/herobanner.gif
         button: 
         url: 
