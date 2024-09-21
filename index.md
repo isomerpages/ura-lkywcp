@@ -8,7 +8,7 @@ published: true
 notification: 
 sections:
     - hero:
-        title:  <img src="/images/laureates/mx-medal.png">
+        title:  <img src="/images/features/2024/apply-now.png">
         subtitle: 
         background: /images/herobanner.gif
         button: 
