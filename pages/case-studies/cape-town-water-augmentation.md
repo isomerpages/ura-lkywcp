@@ -9,7 +9,7 @@ description: Cape Town’s disaster plan for the 2018 water crisis included data
 
 #### **Case study**
 
-| **City** | [Cape Town](/cape-town/) |
+| **City** | [Cape Town](/cape-town/) – 2024 Special Mention |
 | **Type** | Disaster risk management |
 | **Location** | Citywide |
 

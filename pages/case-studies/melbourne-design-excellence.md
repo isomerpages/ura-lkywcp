@@ -9,7 +9,7 @@ description: The Design Excellence Programme is a comprehensive initiative that 
 
 #### **Case study**
 
-| **City** | [Melbourne](/melbourne2/) |
+| **City** | [Melbourne](/melbourne/) – 2024 Special Mention |
 | **Type** | Governance and institutional frameworks  |
 | **Location** | Citywide |
 

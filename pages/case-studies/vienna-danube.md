@@ -10,7 +10,7 @@ description:  Vienna's foresight and long-term planning into the future helps th
 
 #### **Case study**
 
-| **City** | [Vienna](/vienna/) |
+| **City** | [Vienna](/vienna/) – 2020 Laureate |
 | **Type** | Climate change adaptation |
 | **Location** | Danube river, city centre |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |

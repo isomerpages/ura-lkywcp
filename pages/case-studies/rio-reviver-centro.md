@@ -9,7 +9,7 @@ description: The Reviver Centro project aims to revitalise the central district 
 
 #### **Case study**
 
-| **City** | [Rio de Janeiro](/rio-de-janeiro/) |
+| **City** | [Rio de Janeiro](/rio-de-janeiro/) – 2024 Special Mention |
 | **Type** | Urban regeneration  |
 | **Location** | Central district |
 

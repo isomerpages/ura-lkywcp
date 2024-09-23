@@ -9,7 +9,7 @@ description: The Predator Free Wellington project aims to eradicate predators fr
 
 #### **Case study**
 
-| **City** | [Wellington](/wellington/) |
+| **City** | [Wellington](/wellington/) – 2024 Special Mention |
 | **Type** | Environmental project  |
 | **Location** | Citywide |
 

@@ -9,7 +9,7 @@ description: The Green Point Park project transformed a neglected public space i
 
 #### **Case study**
 
-| **City** | [Cape Town](/cape-town/) |
+| **City** | [Cape Town](/cape-town/) – 2024 Special Mention |
 | **Type** | Urban regeneration |
 | **Location** | Green Point |
 

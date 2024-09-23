@@ -10,7 +10,7 @@ description: Kazan leveraged on international sporting events and broad-based in
 
 #### **Case study**
 
-| **City** | [Kazan](/kazan/) |
+| **City** | [Kazan](/kazan/) – 2018 Special Mention |
 | **Type** | Sports and health infrastructure |
 | **Location** | City-wide |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |

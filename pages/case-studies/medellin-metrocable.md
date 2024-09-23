@@ -9,7 +9,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 
 #### **Case study**
 
-| **City** | [Medellín](/medellin/) |
+| **City** | [Medellín](/medellin/) – 2016 Laureate |
 | **Type** | Transportation/ urban regeneration |
 | **Location** | City-wide |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |

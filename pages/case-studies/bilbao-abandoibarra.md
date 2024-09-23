@@ -9,7 +9,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 
 #### **Case study**
 
-| **City** | [Bilbao](/bilbao/) |
+| **City** | [Bilbao](/bilbao/) – 2010 Laureate |
 | **Type** | Urban Regeneration |
 | **Size** | 34.85 ha |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |

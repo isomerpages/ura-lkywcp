@@ -9,7 +9,7 @@ description: Through training programmes and creating platforms for existing hom
 
 #### **Case study**
 
-| **City** | [Surabaya](/surabaya/) |
+| **City** | [Surabaya](/surabaya/) – 2018 Special Mention |
 | **Type** | Economic development |
 | **Period** | 2010-2015 |
 | **Location** | In many parts of the city, mostly in densely populated neighbourhoods  |

@@ -9,7 +9,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 
 #### **Case study**
 
-| **City** | [Suzhou](/suzhou/) |
+| **City** | [Suzhou](/suzhou/) – 2014 Laureate |
 | **Type** | Urban regeneration |
 | **Size** | 25km<sup>2</sup> |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
