@@ -9,7 +9,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 
 #### **Case study**
 
-| **City** | [Hamburg](/hamburg/) |
+| **City** | [Hamburg](/hamburg/) – 2018 Special Mention |
 | **Type** | Urban regeneration |
 | **Location** | Elbe River waterfront  |
 | **Size** | 157 ha |
