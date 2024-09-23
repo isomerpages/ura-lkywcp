@@ -9,7 +9,7 @@ description: Mexico City’s mobility transformation integrates transportation s
 
 #### **Case study**
 
-| **City** | [Mexico City](/mexico-city/) |
+| **City** | [Mexico City](/mexico-city/) – 2024 Laureate |
 | **Type** | Transportation |
 | **Location** | Citywide |
 
