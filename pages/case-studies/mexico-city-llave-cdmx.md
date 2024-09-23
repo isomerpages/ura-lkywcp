@@ -9,7 +9,7 @@ description: Mexico City’s digital transformation initiative prioritises vulne
 
 #### **Case study**
 
-| **City** | [Mexico City](/mexico-city/) |
+| **City** | [Mexico City](/mexico-city/) – 2024 Laureate |
 | **Type** | Smart city initiative, social inclusion |
 | **Location** | Citywide |
 
