@@ -9,7 +9,7 @@ description: Zealandia Te Mãra a Tãne Ecosanctuary is a 500-year restoration p
 
 #### **Case study**
 
-| **City** | [Wellington](/wellington/) |
+| **City** | [Wellington](/wellington/) – 2024 Special Mention |
 | **Type** | Environmental project  |
 | **Location** | Adjacent to the Wellington suburb of Karori |
 
