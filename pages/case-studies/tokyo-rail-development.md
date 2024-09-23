@@ -9,7 +9,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Case study**
 
-| **City** | [Tokyo](/tokyo/) |
+| **City** | [Tokyo](/tokyo/) – 2018 Special Mention |
 | **Type** | Urban planning/ transport & mobility |
 | **Period** | Approximately 60 years  |
 | **Scope** | 63 km<sup>2</sup> (area within JR Yamanote line in central Tokyo)  |
