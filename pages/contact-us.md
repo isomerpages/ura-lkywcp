@@ -16,13 +16,13 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: 
+        description: Closed on weekends and Singapore public holidays 
 contacts:
   - title: General enquiries & feedback
     content:
     - phone:  
     - email: ura_worldcityprize@ura.gov.sg
-    - other: 
+    - other: <a href="https://form.gov.sg/#!/5dca55f048e82f0012b1a3f8"><u>Submit online form</u></a>
   - title: Follow us on LinkedIn!
     content:
     - phone: 

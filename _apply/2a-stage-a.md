@@ -25,6 +25,8 @@ Cities interested to apply for the Prize must engage an independent third-party 
 
 ➜ [Nomination form](https://go.gov.sg/nominations)
 
+**Closing date**: 31 March 2025
+
 ---
 
 #### **Next step**
