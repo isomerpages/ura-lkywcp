@@ -9,7 +9,7 @@ description: How did Bilbao continue to transform itself over the years despite 
 
 #### **Case study**
 
-| **City** | [Bilbao](/bilbao) |
+| **City** | [Bilbao](/bilbao) – 2010 Laureate |
 | **Type** | Governance |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
 
