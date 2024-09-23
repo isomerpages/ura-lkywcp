@@ -9,7 +9,7 @@ description: The Low Emissions District is a pilot project aiming to reduce gree
 
 #### **Case study**
 
-| **City** | [Rio de Janeiro](/rio-de-janeiro/) |
+| **City** | [Rio de Janeiro](/rio-de-janeiro/) – 2024 Special Mention |
 | **Type** | Environmental project  |
 | **Location** | Central district |
 
