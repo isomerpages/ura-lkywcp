@@ -9,7 +9,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Case study**
 
-| **City** | [Medellín](/medellin/) |
+| **City** | [Medellín](/medellin/) – 2016 Laureate |
 | **Type** | Urban regeneration/ social programmes |
 | **Size** | 11,110 ha |
 | **Sections**| **1** &nbsp; [In brief](#in-brief) <br> **2** &nbsp; [Key issues before project](#key-issues-before-the-project) <br> **3** &nbsp; [Leadership/governance](#leadership-and-governance) <br> **4** &nbsp; [Creativity/innovation](#creativity-and-innovation) <br> **5** &nbsp; [Impacts](#impacts) <br> **6** &nbsp; [Replicable ideas](#replicable-ideas) |
