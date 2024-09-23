@@ -9,7 +9,7 @@ description: The Flash Forward Creative Laneways Programme was a creative respon
 
 #### **Case study**
 
-| **City** | [Melbourne](/melbourne2/) |
+| **City** | [Melbourne](/melbourne/) – 2024 Special Mention |
 | **Type** | Public space activation and enhancement  |
 | **Location** | Central Business District |
 
