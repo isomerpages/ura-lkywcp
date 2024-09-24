@@ -31,20 +31,10 @@ Lisbon demonstrates resilience in the face of adversity to overcome limitations 
 
 ---
 
-##### **City profile** 
+##### **Case studies** 
 
-| **Area** | 100.1 km<sup>2</sup> |
-| **Population** | 547,733 people | 
-| **Density** | 5,4725,623 per km<sup>2</sup> |
+| **01** | [Scheldt Quays](/case-studies/antwerp-scheldt-quays/) <br> A project that revitalised historic spaces and reconnected the city with the River Scheldt, focusing on community engagement and sustainability. |
 
-##### **Features** 
-
-| [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
-| [From slump to success – Lisbon’s resurgence](/resources/features/lisbon-resurgence/) |
-
-##### **In pictures** 
-
-| [Lisbon in pictures – creative urban projects](/resources/in-pictures/lisbon/) |
 
 ---
 
