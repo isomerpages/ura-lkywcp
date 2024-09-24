@@ -1,7 +1,7 @@
 ---
 title: Lisbon – A Square in Each Neighbourhood
 permalink: /case-studies/lisbon-square/
-image: /images/case-studies/lisbon-square.jpg
+image: /images/case-studies/lisbon-square-after.jpg
 description: The "A Square in Each Neighbourhood" initiative rejuvenated Lisbon's degraded public spaces, enhancing accessibility, fostering community interaction, promoting sustainable mobility, reducing traffic, and encouraging public participation, transforming urban life and local economies.
 ---
 
@@ -13,7 +13,8 @@ description: The "A Square in Each Neighbourhood" initiative rejuvenated Lisbon'
 | **Type** | Urban regeneration  |
 | **Location** | Citywide |
 
-###### ![Zealandia Ecosanctuary](/images/case-studies/lisbon-square.jpg)**Zealandia Ecosanctuary** © Wellington City Council 
+###### ![Largo de Santos before and after](/images/case-studies/lisbon-square-before.jpg) 
+![Zealandia Ecosanctuary](/images/case-studies/lisbon-square-after.jpg)**Largo de Santos before and after** © Lisboa City Council/FG + SG fotografia de arquitectura
 
 #### **Key issues**
 
