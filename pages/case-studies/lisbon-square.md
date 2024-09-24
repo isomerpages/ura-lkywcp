@@ -2,7 +2,7 @@
 title: Lisbon – A Square in Each Neighbourhood
 permalink: /case-studies/lisbon-square/
 image: /images/case-studies/lisbon-square.jpg
-description :The "A Square in Each Neighbourhood" initiative rejuvenated Lisbon's degraded public spaces, enhancing accessibility, fostering community interaction, promoting sustainable mobility, reducing traffic, and encouraging public participation, transforming urban life and local economies.
+description: The "A Square in Each Neighbourhood" initiative rejuvenated Lisbon's degraded public spaces, enhancing accessibility, fostering community interaction, promoting sustainable mobility, reducing traffic, and encouraging public participation, transforming urban life and local economies.
 ---
 
 ##### The "A Square in Each Neighbourhood" initiative rejuvenated Lisbon's degraded public spaces, enhancing accessibility, fostering community interaction, promoting sustainable mobility, reducing traffic, and encouraging public participation, transforming urban life and local economies.[^1]
