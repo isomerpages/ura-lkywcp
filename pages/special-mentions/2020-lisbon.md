@@ -33,7 +33,7 @@ Lisbon demonstrates resilience in the face of adversity to overcome limitations 
 
 ##### **Case studies** 
 
-| **01** | [A square in Each Neighbourhood](/case-studies/lisbon-square/) <br> Revitalising degraded public spaces in Lisbon to enhance accessibility, foster community interaction, promote sustainable mobility, reduce traffic, and stimulate local economies. |
+| **01** | [A Square in Each Neighbourhood](/case-studies/lisbon-square/) <br> Revitalising degraded public spaces in Lisbon to enhance accessibility, foster community interaction, promote sustainable mobility, reduce traffic, and stimulate local economies. |
 
 ---
 
