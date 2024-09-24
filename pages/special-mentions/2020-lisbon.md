@@ -33,8 +33,7 @@ Lisbon demonstrates resilience in the face of adversity to overcome limitations 
 
 ##### **Case studies** 
 
-| **01** | [Scheldt Quays](/case-studies/antwerp-scheldt-quays/) <br> A project that revitalised historic spaces and reconnected the city with the River Scheldt, focusing on community engagement and sustainability. |
-
+| **01** | [A square in Each Neighbourhood](/case-studies/lisbon-square/) <br> Revitalising degraded public spaces in Lisbon to enhance accessibility, foster community interaction, promote sustainable mobility, reduce traffic, and stimulate local economies. |
 
 ---
 
