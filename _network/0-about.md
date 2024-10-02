@@ -34,8 +34,8 @@ Members (as at 3 June 2024):
 | [Suzhou](/suzhou/) (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
 | [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellin |
 | [Seoul](/seoul/) (Laureate, 2018) | Seoul Institute (SI), Seoul | 
-| Vienna (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna |
-| Mexico City (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City |
+| [Vienna](/vienna/) (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna |
+| [Mexico City](/mexico-city/) (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City |
 
 
 #### **Network Secretariats**
