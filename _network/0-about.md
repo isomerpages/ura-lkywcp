@@ -7,11 +7,17 @@ description: A biennial international award that honours outstanding achievement
 
 ![medallion](/images/medallion-1280.jpg)
 
-> ##### "Through the Prize, we hope to draw inspiration, share experiences, and progress together as a global community."
+**The City Network for the Lee Kuan Yew World City Prize** (LKYWCP Network) is a platform for urban leaders and practitioners to connect and engage in creating and exchanging knowledge on building liveable and sustainable cities.
 
-<div align="right"><b>— Prof Cheong Koon Hean</b> <br> Chair, Nominating Committee</div>
+Through various initiatives, member cities can explore topics of mutual interest with the intention of:
+- sharing best-in-class practices
+- collaborating to find solutions for common urban challenges of the future
+- supporting each other’s knowledge efforts
+- leveraging each other’s knowledge networks
 
-**The Lee Kuan Yew World City Prize** is a biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world. The Prize is awarded to cities and recognises their key leaders and organisations for displaying foresight, good governance and innovation in tackling the many urban challenges faced, to bring about social, economic and environmental benefits in a holistic way to their communities.
+This may take the form of joint projects, engaging in dialogue as a community of practice, and various capability development opportunities.
+
+The LKYWCP Network was launched at World Cities Summit 2024 with an announcement by Mr Desmond Lee, Minister for National Development at the Opening Plenary on 3 June 2024. Read more about the launch [here](https://www.clc.gov.sg/research-publications/publications/digital-library/view/launch-of-the-city-network-for-the-lee-kuan-yew-world-city-prize).
 
 #### **Practical solutions**
 
