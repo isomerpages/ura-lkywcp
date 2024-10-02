@@ -29,18 +29,18 @@ To date, representatives from all 7 of the Lee Kuan Yew World City Prize Laureat
 
 | Member City |	Nominated Knowledge Organisation |
 | :--- | :--- |
-| Bilbao (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao |
-| New York City (Laureate, 2012) | Regional Planning Association (RPA), New York City |
-| Suzhou (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
-| Medellin (Laureate, 2016) |	Ruta N, Medellin |
-| Seoul (Laureate, 2018) |	Seoul Institute (SI), Seoul | 
+| [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao |
+| [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City |
+| [Suzhou](/suzhou/) (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
+| [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellin |
+| [Seoul](/seoul/) (Laureate, 2018) | Seoul Institute (SI), Seoul | 
 | Vienna (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna |
 | Mexico City (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City |
 
 
 #### **Network Secretariats**
 
-Centre for Liveable Cities, Singapore
-Urban Redevelopment Authority, Singapore
+- Centre for Liveable Cities, Singapore
+- Urban Redevelopment Authority, Singapore
 
 Should you have any queries, please contact us at [ura_worldcityprize@ura.gov.sg](mailto:ura_worldcityprize@ura.gov.sg)
