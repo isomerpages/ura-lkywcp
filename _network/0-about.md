@@ -25,7 +25,7 @@ The Network is open to all Prize Laureates and Special Mentions. To enrich the e
 
 To date, representatives from all 7 of the Lee Kuan Yew World City Prize Laureates have signed onto the joint Declaration as Founding Members. 
 
-<u>Members (as at 3 June 2024)</u>
+Members (as at 3 June 2024):
 
 | Member City |	Nominated Knowledge Organisation |
 | :--- | :--- |
