@@ -7,7 +7,7 @@ description: The City Network for the Lee Kuan Yew World City Prize (LKYWCP Netw
 
 To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat organises events such as panels and lectures featuring its members. The LKYWCP Network also supports member-led events to engender a spirit of collaboration and partnerships amongst cities.
 
-To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page](https://www.linkedin.com/company/worldcityprize/)
+To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page](https://www.linkedin.com/company/worldcityprize/).
 
 ---
 
