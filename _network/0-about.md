@@ -19,11 +19,24 @@ This may take the form of joint projects, engaging in dialogue as a community of
 
 The LKYWCP Network was launched at World Cities Summit 2024 with an announcement by Mr Desmond Lee, Minister for National Development at the Opening Plenary on 3 June 2024. Read more about the launch [here](https://www.clc.gov.sg/research-publications/publications/digital-library/view/launch-of-the-city-network-for-the-lee-kuan-yew-world-city-prize).
 
-#### **Practical solutions**
+#### **Membership**
 
-To facilitate the sharing of best practices in urban solutions that are easily replicable across cities, the Prize will place an emphasis on practical and cost effective solutions and ideas, for the benefit of cities around the world. Through this Prize, Singapore hopes to promote exemplary thought-leadership and exchange of ideas among cities, so as to spur further innovation in the area of sustainable urban development.
+The Network is open to all Prize Laureates and Special Mentions. To enrich the engagements, each member city is represented at various levels: mayors, city hall, planning departments, and knowledge organisations. 
 
-The Prize Laureate will be presented with an award certificate, a gold medallion and a cash prize of Singapore Dollars $300,000, sponsored by [Keppel Ltd](https://www.keppel.com/).
+To date, representatives from all 7 of the Lee Kuan Yew World City Prize Laureates have signed onto the joint Declaration as Founding Members. 
+
+Members (as at 3 June 2024)
+
+| Member City |	Nominated Knowledge Organisation |
+| :--- | :--- |
+| Bilbao (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao |
+| New York City (Laureate, 2012) | Regional Planning Association (RPA), New York City |
+| Suzhou (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
+| Medellin (Laureate, 2016) |	Ruta N, Medellin |
+| Seoul (Laureate, 2018) |	Seoul Institute (SI), Seoul | 
+| Vienna (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna |
+| Mexico City (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City |
+
 
 #### **A fitting tribute**
 
