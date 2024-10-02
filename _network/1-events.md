@@ -1,8 +1,8 @@
 ---
 title: Upcoming Events
 permalink: /network/events/
-image: /images/medallion-1280.jpg/
-description: The City Network for the Lee Kuan Yew World City Prize (LKYWCP Network) is a platform for urban leaders and practitioners to connect and engage in creating and exchanging knowledge on building liveable and sustainable cities.
+image: /images/features/2024/knowledge-forum.jpg/
+description: To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat organises events such as panels and lectures featuring its members. The LKYWCP Network also supports member-led events to engender a spirit of collaboration and partnerships amongst cities.
 ---
 
 To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat organises events such as panels and lectures featuring its members. The LKYWCP Network also supports member-led events to engender a spirit of collaboration and partnerships amongst cities.
@@ -25,7 +25,7 @@ Panelists include representatives from LKYWCP Network founding member cities of 
 
 #### **LKYWCP Network Knowledge Forum – 3 Jun 2024**
 
-![medallion](/images/medallion-1280.jpg)
+###### ![Knowledge Forum](/images/features/2024/knowledge-forum.jpg)**LKYWCP Network Knowledge Forum** © Centre for Liveable Cities
 
 This session kickstarts the formalisation of the Lee Kuan Yew World City Prize Network – an initiative to foster deeper city-to-city partnerships to create and exchange knowledge on sustainable and liveable cities. The Knowledge Forum will convene representative knowledge organisations from the Lee Kuan Yew World City Prize Laureate cities, founding members of the Network, to reflect on the urban challenges that their respective cities have tackled over the last decade and the ones that will impact their future. The presentations and ensuing panel discussion will highlight best practices to address these challenges, and explore how cities can collaborate to find solutions for their urban future.
 
