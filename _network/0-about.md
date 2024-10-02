@@ -25,7 +25,7 @@ The Network is open to all Prize Laureates and Special Mentions. To enrich the e
 
 To date, representatives from all 7 of the Lee Kuan Yew World City Prize Laureates have signed onto the joint Declaration as Founding Members. 
 
-Members (as at 3 June 2024)
+<u>Members (as at 3 June 2024)</u>
 
 | Member City |	Nominated Knowledge Organisation |
 | :--- | :--- |
@@ -38,19 +38,9 @@ Members (as at 3 June 2024)
 | Mexico City (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City |
 
 
-#### **A fitting tribute**
+#### **Network Secretariats**
 
-The Prize is named after [Singapore’s first Prime Minister](https://www.pmo.gov.sg/Past-Prime-Ministers/Mr-LEE-Kuan-Yew). Mr Lee was instrumental in developing Singapore into a distinctive, clean and green garden city in a short span of a few decades. Under his leadership, the adoption of strategic land use, transport and environmental policies and programmes have helped Singapore to develop into a liveable city with a high quality living environment, in tandem with rapid economic growth.
+Centre for Liveable Cities, Singapore
+Urban Redevelopment Authority, Singapore
 
-The Prize is co-organised by the [Urban Redevelopment Authority Singapore](https://www.ura.gov.sg/) (URA) and the Centre for Liveable Cities. The Prize Secretariat sits within URA. 
-
-#### **Prize partners**
-
-The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations: 
-
-| American Planning Association | The City Planning Institute of Japan |
-| European Urban Knowledge Network | Fundación Metrópoli |
-| International Federation for Housing and Planning | INTA - International Urban Development Association |
-| ISOCARP | Urban Land Institute |
-| United Nations Environment Programme | Urban Planning Society of China |
-| World Green Building Council |
+Should you have any queries, please contact us at [ura_worldcityprize@ura.gov.sg](mailto:ura_worldcityprize@ura.gov.sg)
