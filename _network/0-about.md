@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the Network
 permalink: /network/about/
 image: /images/features/2024/lkywcp-network.png/
 description: The City Network for the Lee Kuan Yew World City Prize (LKYWCP Network) is a platform for urban leaders and practitioners to connect and engage in creating and exchanging knowledge on building liveable and sustainable cities.
@@ -21,13 +21,13 @@ The LKYWCP Network was launched at World Cities Summit 2024 with an announcement
 
 #### **Membership**
 
-The Network is open to all Prize Laureates and Special Mentions. To enrich the engagements, each member city is represented at various levels: mayors, city hall, planning departments, and knowledge organisations. 
+The Network was jointly found by the first 7 LKYWCP Laureates and is also open to the Prize's Special Mentions and future awardees. To enrich the engagements, the Network also brings together various stakeholders from each city: mayors, city hall, planning departments, and knowledge organisations.
 
 To date, representatives from all 7 of the Lee Kuan Yew World City Prize Laureates have signed onto the joint Declaration as Founding Members. 
 
-Members (as at 3 June 2024):
+Founding Members:
 
-| Member City |	Nominated Knowledge Organisation |
+| Member City | Knowledge Partners |
 | :--- | :--- |
 | [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao |
 | [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City |
@@ -40,7 +40,7 @@ Members (as at 3 June 2024):
 
 #### **Network Secretariats**
 
-- Centre for Liveable Cities, Singapore
+- Centre for Liveable Cities, Singapore <br> _The Centre for Liveable Cities is a division of the Ministry of National Development_
 - Urban Redevelopment Authority, Singapore
 
-Should you have any queries, please contact us at [ura_worldcityprize@ura.gov.sg](mailto:ura_worldcityprize@ura.gov.sg)
+For queries on the Network, please contact: [LKYWCPNetworke@mnd.gov.sg](mailto:LKYWCPNetworke@mnd.gov.sg)
