@@ -33,22 +33,5 @@ Overall, Boston’s foresight in resilience leads the way, and urges other water
 
 ---
 
-##### **City profile** 
-
-| **Area** | 119 km<sup>2</sup> |
-| **Population** | 669,158 people | 
-| **Density** | 5,623 per km<sup>2</sup> |
-
-##### **Features** 
-
-| [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
-| [Reimagining Boston – a collective effort](/resources/features/reimagining-boston/) |
-
-##### **In pictures** 
-
-| [Stimulating changes big and small](/resources/in-pictures/boston/) |
-
----
-
 [^1]: All information correct as of 2019.
 [^2]: Non-governmental organisations.

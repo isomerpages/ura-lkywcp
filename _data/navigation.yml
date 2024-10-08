@@ -15,5 +15,7 @@ links:
     collection: laureates
   - title: 中文版
     collection: chinese
+  - title: Network
+    collection: network
   - title: LinkedIn
     url: https://www.linkedin.com/company/worldcityprize/

@@ -28,6 +28,8 @@ collections:
     output: true
   chinese:
     output: true
+  network:
+    output: true
 google_analytics: UA-48396056-10
 resources_name: resources
 is_government: false

@@ -31,20 +31,9 @@ Lisbon demonstrates resilience in the face of adversity to overcome limitations 
 
 ---
 
-##### **City profile** 
+##### **Case studies** 
 
-| **Area** | 100.1 km<sup>2</sup> |
-| **Population** | 547,733 people | 
-| **Density** | 5,4725,623 per km<sup>2</sup> |
-
-##### **Features** 
-
-| [Cities on the rebound](/resources/features/cities-on-the-rebound/) |
-| [From slump to success – Lisbon’s resurgence](/resources/features/lisbon-resurgence/) |
-
-##### **In pictures** 
-
-| [Lisbon in pictures – creative urban projects](/resources/in-pictures/lisbon/) |
+| **01** | [A Square in Each Neighbourhood](/case-studies/lisbon-square/) <br> Revitalising degraded public spaces in Lisbon to enhance accessibility, foster community interaction, promote sustainable mobility, reduce traffic, and stimulate local economies. |
 
 ---
 
