@@ -30,7 +30,7 @@ Founding Members:
 | [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao |
 | [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City |
 | [Suzhou](/suzhou/) (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
-| [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellin |
+| [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellín |
 | [Seoul](/seoul/) (Laureate, 2018) | Seoul Institute (SI), Seoul | 
 | [Vienna](/vienna/) (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna |
 | [Mexico City](/mexico-city/) (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City |
@@ -41,4 +41,4 @@ Founding Members:
 - Centre for Liveable Cities, Singapore <br> _The Centre for Liveable Cities is a division of the Ministry of National Development_
 - Urban Redevelopment Authority, Singapore
 
-For queries on the Network, please contact: [LKYWCPNetworke@mnd.gov.sg](mailto:LKYWCPNetworke@mnd.gov.sg)
+For queries on the Network, please contact: [LKYWCPNetwork@mnd.gov.sg](mailto:LKYWCPNetwork@mnd.gov.sg)
