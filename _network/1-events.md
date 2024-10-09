@@ -32,5 +32,5 @@ This session kickstarts the formalisation of the Lee Kuan Yew World City Prize N
 Panelists include representatives from LKYWCP Network founding member cities of Bilbao, Medellín, Mexico City, New York City, Seoul, Suzhou, and Vienna. The panel featured an opening address by Prof. Cheong Koon Hean, Chair, LKYWCP Nominating Committee and Chair, Advisory Panel for the Centre for Liveable Cities; and was moderated by Dr Lam Khee Poh, Provost’s Chair Professor of Architecture and the Built Environment, National University of Singapore.
 
 ||
-| An event at [World Cities Summit 2024, Singapore](https://www.worldcitiessummit.com/) <br> More info about the event [here](https://www.clc.gov.sg/research-publications/publications/digital-library/view/launch-of-the-city-network-for-the-lee-kuan-yew-world-city-prize) | 
+| An event at [World Cities Summit 2024, Singapore](https://www.worldcitiessummit.com.sg/) <br> More info about the event [here](https://www.clc.gov.sg/research-publications/publications/digital-library/view/launch-of-the-city-network-for-the-lee-kuan-yew-world-city-prize) | 
 ||
