@@ -25,24 +25,18 @@ sections:
         url: /stage-a/
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
-    - infobar:    
-        title: 
-        subtitle:  
-        description: <h5><b>2024 WINNERS</b></h5><br><img src="/images/laureates/mx-medal.png" width="150" height="150"><br><b>Laureate</b> – <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a><br><b>Special Mentions</b> – <a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a><br><br>
-        button: 
-        url: 
     - infopic:    
-        title: The Prize for cities
-        subtitle: 
-        description: The Prize is a prestigious international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
-        button: About the Prize
-        url: /about-the-prize/
-        image: /images/worldmapdots.png/
-        alt: World map
+        title: Behind New York City’s POPS stars
+        subtitle: Interview with Edith Hsu-Chen
+        description: How did New York City create nearly 600 privately owned public spaces (POPS)? Edith Hsu-Chen, Executive Director of NYC's Department of Planning, credits strong public-private partnerships and innovative, evolving regulations tailored to foster unique and vibrant spaces.
+        button: Read the interview
+        url: /edith-hsu/
+        image: /images/features/2024/interview-edith.jpg
+        alt: Edith Hsu
     - infobar:
-        title: 
-        subtitle: Spotlight on Mexico City
-        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        title: 6 lessons from Mexico City
+        subtitle: Interview with Eduardo Clark
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/If7e8Z5iUug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/@worldcityprize/
     - infopic:    
@@ -53,6 +47,14 @@ sections:
         url: /case-studies/
         image: /images/features/2024/case-studies2.png
         alt: Case studies
+    - infopic:    
+        title: Download our new eBook!
+        subtitle: 
+        description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2024, with exclusive interviews from the Mayors of the 2024 cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
+        button: Download the eBook
+        url: https://go.gov.sg/worldcityprize/
+        image: /images/features/2024/new-ebook-2024.jpg/
+        alt: eBook
     - infopic:
         title: We are now on LinkedIn!
         subtitle: 
@@ -62,11 +64,11 @@ sections:
         image: /images/features/2024/connect.png/
         alt: LinkedIn
     - infopic:    
-        title: Download our new eBook!
+        title: The Prize for cities
         subtitle: 
-        description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2024, with exclusive interviews from the Mayors of the 2024 cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
-        button: Download the eBook
-        url: https://go.gov.sg/worldcityprize/
-        image: /images/features/2024/new-ebook-2024.jpg/
-        alt: eBook
+        description: The Prize is a prestigious international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
+        button: About the Prize
+        url: /about-the-prize/
+        image: /images/worldmapdots.png/
+        alt: World map
 ---
