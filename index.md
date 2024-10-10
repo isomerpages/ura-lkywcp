@@ -26,14 +26,6 @@ sections:
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infopic:    
-        title: The Prize for cities
-        subtitle: 
-        description: The Prize is a prestigious international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
-        button: About the Prize
-        url: /about-the-prize/
-        image: /images/worldmapdots.png/
-        alt: World map
-    - infopic:    
         title: Behind New York City’s POPS stars
         subtitle: Interview with Edith Hsu-Chen
         description: How did New York City create nearly 600 privately owned public spaces (POPS)? Edith Hsu-Chen, Executive Director of NYC's Department of Planning, credits strong public-private partnerships and innovative, evolving regulations tailored to foster unique and vibrant spaces.
@@ -71,4 +63,12 @@ sections:
         url: https://go.gov.sg/worldcityprize/
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
+    - infopic:    
+        title: The Prize for cities
+        subtitle: 
+        description: The Prize is a prestigious international award honouring outstanding cities in creating liveable, vibrant & sustainable urban communities. Established in 2009, the Prize looks at the holistic transformation of cities over 10 to 20 years.
+        button: About the Prize
+        url: /about-the-prize/
+        image: /images/worldmapdots.png/
+        alt: World map
 ---
