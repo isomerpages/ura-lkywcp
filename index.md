@@ -47,14 +47,6 @@ sections:
         url: /case-studies/
         image: /images/features/2024/case-studies2.png
         alt: Case studies
-    - infopic:
-        title: We are now on LinkedIn!
-        subtitle: 
-        description: Connect with us on LinkedIn for more features, stories and latest updates on the Prize! Search '<b>LKY World City Prize</b>' or click the link below. <b>#worldcityprize</b>
-        button: Follow us on LinkedIn
-        url: https://www.linkedin.com/company/worldcityprize/
-        image: /images/features/2024/connect.png/
-        alt: LinkedIn
     - infopic:    
         title: Download our new eBook!
         subtitle: 
@@ -63,6 +55,14 @@ sections:
         url: https://go.gov.sg/worldcityprize/
         image: /images/features/2024/new-ebook-2024.jpg/
         alt: eBook
+    - infopic:
+        title: We are now on LinkedIn!
+        subtitle: 
+        description: Connect with us on LinkedIn for more features, stories and latest updates on the Prize! Search '<b>LKY World City Prize</b>' or click the link below. <b>#worldcityprize</b>
+        button: Follow us on LinkedIn
+        url: https://www.linkedin.com/company/worldcityprize/
+        image: /images/features/2024/connect.png/
+        alt: LinkedIn
     - infopic:    
         title: The Prize for cities
         subtitle: 
