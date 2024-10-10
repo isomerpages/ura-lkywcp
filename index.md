@@ -25,12 +25,6 @@ sections:
         url: /stage-a/
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
-    - infobar:    
-        title: 
-        subtitle:  
-        description: <h5><b>2024 WINNERS</b></h5><br><img src="/images/laureates/mx-medal.png" width="150" height="150"><br><b>Laureate</b> – <a href="/mexico-city" style="color:#967942; text-decoration:underline">Mexico City</a><br><b>Special Mentions</b> – <a href="/cape-town" style="color:#967942; text-decoration:underline">Cape Town</a> | <a href="/melbourne" style="color:#967942; text-decoration:underline">Melbourne</a> | <a href="/rio-de-janeiro" style="color:#967942; text-decoration:underline">Rio de Janeiro</a> | <a href="/wellington" style="color:#967942; text-decoration:underline">Wellington</a><br><br>
-        button: 
-        url: 
     - infopic:    
         title: The Prize for cities
         subtitle: 
@@ -39,6 +33,14 @@ sections:
         url: /about-the-prize/
         image: /images/worldmapdots.png/
         alt: World map
+    - infopic:    
+        title: Behind New York City’s POPS stars
+        subtitle: Interview with Edith Hsu-Chen
+        description: How did New York City create nearly 600 privately owned public spaces (POPS)? Edith Hsu-Chen, Executive Director of NYC's Department of Planning, credits strong public-private partnerships and innovative, evolving regulations tailored to foster unique and vibrant spaces.
+        button: Read the interview
+        url: /edith-hsu/
+        image: /images/features/2024/interview-edith.jpg
+        alt: Edith Hsu
     - infobar:
         title: 
         subtitle: Spotlight on Mexico City
