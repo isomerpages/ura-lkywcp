@@ -43,7 +43,7 @@ This year’s Prize Laureate, Mexico City stands out for its ability to address 
 Apart from Mexico City, four cities were also recognised as Special Mentions for their best practices in city management:
 
 - **[Cape Town](/cape-town/), South Africa** – A story of emerging stronger from tackling its severe water crisis and the COVID-19 pandemic through agile governance as well as more resilient communities. 
-- **[Melbourne](/melbourne2/), Australia** – A highly liveable city, enhancing its quality living environment further and bouncing back from COVID-19 through the activation of its popular laneways, investing in transport and strengthening design excellence in its built environment.
+- **[Melbourne](/melbourne/), Australia** – A highly liveable city, enhancing its quality living environment further and bouncing back from COVID-19 through the activation of its popular laneways, investing in transport and strengthening design excellence in its built environment.
 - **[Rio de Janeiro](/rio-de-janeiro/), Brazil** – A bold revitalisation of its city centre with creative strategies to enhance pedestrian accessibility and emphasise low-carbon solutions, transforming and enriching its urban fabric, bringing residents and visitors back together post-pandemic.
 - **[Wellington](/wellington/), New Zealand** – A leader in its extensive community-based ecological restoration efforts that ensures natural environments and their rich biodiversity continue to thrive alongside urban areas.
 
