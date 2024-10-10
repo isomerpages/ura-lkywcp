@@ -34,9 +34,9 @@ sections:
         image: /images/features/2024/interview-edith.jpg
         alt: Edith Hsu
     - infobar:
-        title: 
-        subtitle: Spotlight on Mexico City
-        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NH5a8MGmjCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        title: Eduardo Clark shares six lessons from Mexico City
+        subtitle: Interview with Eduardo Clark
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/If7e8Z5iUug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/@worldcityprize/
     - infopic:    
