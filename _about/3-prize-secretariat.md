@@ -7,7 +7,7 @@ published: true
 
 #### **Role of the Prize Secretariat**
 
-The Prize Secretariat manages the entire Prize cycle, including budgeting and resourcing, call for nominations, international relations and events management, and resides within [Urban Redevelopment Authority Singapore](/ura/). For requests and enquiries, please [contact us](/feedback/).
+The Prize Secretariat manages the entire Prize cycle, including budgeting and resourcing, call for nominations, international relations and events management, and resides within [Urban Redevelopment Authority Singapore](/ura/). For requests and enquiries, please [contact us](/contact-us/).
 
 #### **Prize Secretary**
 
