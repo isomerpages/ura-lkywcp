@@ -3,6 +3,7 @@ title: Seoul – A people-first city
 permalink: /resources/features/seoul-rejuvenated/
 image: /images/features/2018/seoullo-7017.jpg
 description: From converting a vehicle overpass into a sky garden to reviving a waterway that was covered by a highway, Seoul has been reclaiming public spaces for a better and more sustainable city. These efforts, as well as its innovation in rejuvenating deteriorating neighbourhoods, helped the city win the 2018 Prize.  
+published: false
 ---
 
 | Writer |
