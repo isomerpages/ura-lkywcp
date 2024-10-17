@@ -3,7 +3,7 @@ title: Tokyo – Extensive rail network
 permalink: /resources/case-studies/tokyo-rail-network/
 image: /images/features/2021/shinjuku-station.jpg
 description: Well known and often envied for its reliability and efficiency, Tokyo’s highly extensive train network is developed over some 60 years, anticipating and growing in tandem with Japan’s capital and most important city.
-
+published: false
 ---
 
 ##### Well known and often envied for its reliability and efficiency, Tokyo’s highly extensive train network is developed over some 60 years, anticipating and growing in tandem with Japan’s capital and most important city.
