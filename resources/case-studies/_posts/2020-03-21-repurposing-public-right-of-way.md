@@ -3,6 +3,7 @@ title: New York City – NYC Plaza programme
 permalink: /resources/case-studies/repurposing-public-right-of-way/
 image: /images/features/2020/times-square-yoga.jpg
 description: Under its overall strategy to encourage active living, reduce carbon emissions and create more walkable communities, New York City is redistributing its road spaces in this ongoing initiative to create more sustainable modes of walking and biking, and new spaces for recreation and rest, while simultaneously calming traffic and improving safety.
+published: false
 ---
 
 ##### Under its overall strategy to encourage active living, reduce carbon emissions and create more walkable communities, New York City is redistributing its road spaces in this ongoing initiative to create more sustainable modes of walking and biking, and new spaces for recreation and rest, while simultaneously calming traffic and improving safety. 
