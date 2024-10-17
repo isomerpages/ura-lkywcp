@@ -3,6 +3,7 @@ title: Kazan – Finding new purpose in sports
 permalink: /resources/features/kazan-second-life/
 image: /images/features/2018/mass-sports-kazan.jpg
 description: By branding itself as a world-class sports capital, Kazan has improved its liveability and life expectancy significantly, and persuaded its youth and families to stay and invest in its future. Here’s a look at how Kazan combined comprehensive infrastructural and social programmes to achieve its impressive turnaround.
+published: false
 ---
 
 | Writer |
