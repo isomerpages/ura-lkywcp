@@ -3,6 +3,7 @@ title: Vienna, Austria conferred Lee Kuan Yew World City Prize 2020
 permalink: /resources/news/2022-press-release/
 image: 
 description: Vienna, Austria conferred Lee Kuan Yew World City Prize 2020
+published: false
 ---
 
 #### **Press release**
