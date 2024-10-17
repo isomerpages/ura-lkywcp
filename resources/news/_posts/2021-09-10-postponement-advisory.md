@@ -3,6 +3,7 @@ title: World Cities Summit moves to 31 Jul-3 Aug 2022
 permalink: /resources/news/covid19-advisory/
 image: 
 description: World Cities Summit moves to 31 Jul-3 Aug 2022
+published: false
 ---
 
 | Updated |
