@@ -3,6 +3,7 @@ title: Seoul – Hee Seon Jin on Seoulistic urban regeneration
 permalink: /resources/features/seoulistic-urban-regeneration/
 image: /images/features/2019/sewoon-makercity.jpg
 description: How did Seoul transit from fast-paced urban development into a city co-created by the citizens? Seoul’s Deputy Mayor of Urban Regeneration Hee Seon Jin explains this remarkable shift – coined as 'Seoulistic urban regeneration', and the processes behind-the-scenes. 
+published: false
 ---
 
 ##### How did Seoul transit from fast-paced urban development into a city co-created by the citizens? Seoul’s Deputy Mayor of Urban Regeneration Hee Seon Jin explains this remarkable shift – coined as 'Seoulistic urban regeneration', and the processes behind-the-scenes.

@@ -3,7 +3,7 @@ title: Vienna – Flood prevention via New Danube and Danube Island
 permalink: /resources/case-studies/vienna-danube/
 image: /images/features/2023/parklets1.jpg
 description:  Vienna's foresight and long-term planning into the future helps the city avoid devastating floods and safeguards its safe growth. 
-
+published: false
 ---
 
 ##### Vienna's foresight and long-term planning into the future helps the city avoid devastating floods and safeguards its safe growth.[^1] 

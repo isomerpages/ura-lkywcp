@@ -3,7 +3,7 @@ title: Vienna – Shaping from the ground up
 permalink: /resources/features/shaping-vienna-ground-up/
 image: /images/features/2022/shaping-vienna-together.jpg
 description: How can cities build a stronger and more sustainable society for the future? Vienna shows us how by enlisting its citizens early and often in its urban development process, and empowering them to work with one another to lead projects to improve their neighbourhoods.  
-
+published: false
 ---
 
 | Writer | 

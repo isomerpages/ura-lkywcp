@@ -3,6 +3,7 @@ title: Sydney – Engaging communities for a sustainable future
 permalink: /resources/features/engaging-communities-sustainable-future/
 image: /images/features/2016/sydney-harbour.jpg
 description: When Sydney began crafting its master plan for a sustainable future, it embarked on a remarkable 18-month process to engage all sectors of its population. Generating trust with its people, Sydney’s journey illustrates how inclusivity and community involvement bring a city together to work towards a shared vision. 
+published: false
 ---
 
 | Writer |

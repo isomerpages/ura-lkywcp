@@ -3,6 +3,7 @@ title: New York City – Brooklyn Bridge Park
 permalink: /resources/case-studies/brooklyn-bridge-park/
 image: /images/features/2020/brooklyn-bridge-park.jpg
 description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East River shoreline, is a revitalisation of the area’s post-industrial waterfront. In this case study, we learn about how this project helps to reclaim derelict industrial areas, create new parkland and reconnect New York residents to the waterfront in an environmentally sustainable manner.
+published: false
 ---
 
 ##### Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East River shoreline, is a revitalisation of the area’s post-industrial waterfront. In this case study, we learn about how this project helps to reclaim derelict industrial areas, create new parkland and reconnect New York residents to the waterfront in an environmentally sustainable manner. 

@@ -3,6 +3,7 @@ title: Toronto – From industrial portlands to vibrant waterfront
 permalink: /resources/features/torontos-transformation/
 image: /images/features/2016/toronto-skyline.jpg
 description: Many large cities face the challenge of attracting workers and residents to their core. But for Toronto, the revitalisation of an industrial port land into a vibrant waterfront has turned its downtown into a dynamic and fast-growing area for homes and businesses. Christopher Glaisek of Waterfront Toronto shares the story of one of North America’s fastest growing cities.  
+published: false
 ---
 
 | Writer |

@@ -3,7 +3,7 @@ title: Seoul – Car to people spaces in Cheonggyecheon, Yonsei-ro & Seoullo 701
 permalink: /resources/case-studies/car-to-people-spaces/
 image: /images/features/2020/seoullo7017-logo.jpg
 description: Three ground-breaking projects in Seoul helped to reshape the city's identity as one that places its people over cars. This case study looks at the motivations and processes behind these urban innovations, and the desired outcomes that the city has achieved.
-
+published: false
 ---
 
 ##### Three ground-breaking projects in Seoul helped to reshape the city's identity as one that places its people over cars. This case study looks at the motivations and processes behind these urban innovations, and the desired outcomes that the city has achieved. 

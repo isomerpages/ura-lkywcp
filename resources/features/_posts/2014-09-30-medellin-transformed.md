@@ -3,6 +3,7 @@ title: Medellín – From murder capital to model city
 permalink: /resources/features/medellin-transformed/
 image: /images/features/2014/urban-escalators.jpg
 description: For Medellín, co-operation between civic society, private enterprise, policymakers and academics laid the foundations for small, high-impact urban developments that targeted its social inequity and economic inequality. This 'urban acupuncture' transformed what was once the homicide capital of the world into a model of sustainable urban liveability.
+published: false
 ---
 
 | Writer |

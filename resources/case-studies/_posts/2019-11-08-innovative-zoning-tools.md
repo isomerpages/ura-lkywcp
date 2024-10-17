@@ -3,6 +3,7 @@ title: New York City – Innovative zoning tools in West Chelsea & High Line Pla
 permalink: /resources/case-studies/west-chelsea-high-line-plan/
 image: /images/features/2019/nyc-highline-case-study.jpg
 description: The High Line in New York City needs no introduction. Its huge success has already inspired and spurred many other similar urban rejuvenation projects around the world. In this case study, we revisit the origins of this ground-breaking project and the remarkable story of how the 2012 Prize Laureate city fought to create a truly original landmark.
+published: false
 ---
 
 ##### The High Line in New York City needs no introduction. Its huge success has already inspired and spurred many other similar urban rejuvenation projects around the world. In this case study, we revisit the origins of this ground-breaking project and the remarkable story of how the 2012 Prize Laureate city fought to create a truly original landmark. 
