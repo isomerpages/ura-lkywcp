@@ -3,7 +3,7 @@ title: Antwerp, Boston & Lisbon – Cities on the rebound
 permalink: /resources/features/cities-on-the-rebound/
 image: /images/features/2022/antwerp-mas.jpg
 description: Antwerp, Boston and Lisbon, the 2020 Lee Kuan Yew World City Prize Special Mentions, created innovative strategies to overcome difficult pasts and become successful, forward-looking cities. We look at how their ideas help improve housing, citizen participation and climate change mitigation and adaptation efforts. 
-
+published: false
 ---
 
 | Writer | 
