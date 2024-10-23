@@ -17,7 +17,7 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 
 The City Network for the Lee Kuan Yew World City Prize (LKYWCP Network) convened in Bilbao for the Bay Awards Summit on 9 and 10 October 2024.
 
-Representatives from the Network's founding member cities - Eider Inunciaga (Bilbao), Simon Arango (Medellín), Zoe Baldwin (New York City), Kim In-Hee (Seoul), and Johannes Lutter (Vienna) - presented an expert panel for a session titled "Resilience & Regeneration Strategies for Urban Innovation". The session was moderated by Michael Koh, Executive Fellow, Centre for Liveable Cities.
+Representatives from the Network's founding member cities - Eider Inunciaga (Bilbao), Simón Arango (Medellín), Zoe Baldwin (New York City), Kim In-Hee (Seoul), and Johannes Lutter (Vienna) - presented an expert panel for a session titled "Resilience & Regeneration Strategies for Urban Innovation". The session was moderated by Michael Koh, Executive Fellow, Centre for Liveable Cities.
 
 The panel examined impactful initiatives from each city aimed at revitalisation and resilience - addressing climate adaptation, enhancing public spaces, tackling demographic challenges, and managing waterfronts. It emphasised that urban resilience and rejuvenation extend beyond infrastructure; active engagement with local communities is crucial for developing sustainable and effective resilience strategies.
 
