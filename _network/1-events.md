@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: Events
 permalink: /network/events/
 image: /images/features/2024/knowledge-forum.jpg/
 description: To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat organises events such as panels and lectures featuring its members. The LKYWCP Network also supports member-led events to engender a spirit of collaboration and partnerships amongst cities.
@@ -13,9 +13,9 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 
 #### **Resilience & Regeneration Strategies for Urban Innovation - 9 Oct 2024**
 
-This panel discussion focuses on urban revitalisation and addresses various aspects of resilience such as climate change adaptation, risks from extreme weather events, demographic shifts, economic rejuvenation, and citizen participation. It will provide a comprehensive view of the challenges and opportunities cities are facing today.
+The City Network for the Lee Kuan Yew World City Prize (LKYWCP Network) convened in Bilbao for the Bay Awards Summit on 9 and 10 October 2024.
 
-Panelists include representatives from LKYWCP Network founding member cities of Bilbao, Medellín, New York City, Seoul, and Vienna. The panel is moderated by CLC’s Executive Fellow, Mr Michael Koh.
+Representatives from the Network's founding member cities - Eider Inunciaga (Bilbao), Simon Arnago (Medellín), Zoe Baldwin (New York City), Kim In-Hee (Seoul), and Johannes Lutter (Vienna) - presented an expert panel for a session titled "Resilience & Regeneration Strategies for Urban Innovation". The session was moderated by Michael Koh, Executive Fellow, Centre for Liveable Cities.
 
 ||
 | An event at The Bay Awards, Bilbao, 2024, supported by LKYWCP Network. <br> More info about the event [here](https://thebayawards.com/wrldcty-summit-gala-2024#agenda). |
