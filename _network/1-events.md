@@ -13,7 +13,7 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 
 #### **Resilience & Regeneration Strategies for Urban Innovation - 9 Oct 2024**
 
-###### ![Knowledge Forum](/images/features/2024/knowledge-forum.jpg)© Bilbao Metropoli 30
+###### ![Knowledge Forum](/images/features/2024/bilbao-expert-panel.jpg)© Bilbao Metropoli 30
 
 The City Network for the Lee Kuan Yew World City Prize (LKYWCP Network) convened in Bilbao for the Bay Awards Summit on 9 and 10 October 2024.
 
