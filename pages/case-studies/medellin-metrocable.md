@@ -24,7 +24,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 - For the first time, the previously inaccessible and marginalised communities in this neighbourhood were given a direct access to the rest of the city, hence opening up a world of opportunities for them. 
 - The MetroCable is an example of a strategic urban intervention that simultaneously solved many issues at once and became a catalyst for further transformation in other parts of the city when people saw the benefits it brought to the communities. 
 
-[Back to top](#case-study-11)
+[Back to top](#case-study)
 
 ---
 
@@ -39,7 +39,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 - Long-term plans and dialogues in the 80s and 90s, and iterations of its master strategy over various leaderships emphasising a fair and equal society and developing its human capital finally came to fruition over a two-decade period. 
 - Among these are a series of innovative and strategic urban interventions and social innovation projects that brought about the biggest impacts. 
 
-[Back to top](#case-study-11)
+[Back to top](#case-study)
 
 ---
 
@@ -54,7 +54,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 - PUIs are part of the city’s strategic urban projects funded by ‘Empresa de Desarrollo Urbano’ (EDU) – an autonomous public company. 
 - Together with the city authorities, the Metro company and local community, participants of the PUI helped to identify the locations of MetroCable stations to bring about the biggest impacts to the neighbourhoods.
 
-[Back to top](#case-study-11)
+[Back to top](#case-study)
 
 ---
 
@@ -66,7 +66,7 @@ description: Medellín’s MetroCable is the first of its kind in the world – 
 - Metro stations also double up as a node for quick access to information, with the integration of computer rooms, artworks celebrating local historic figures, small libraries, and open bookshelves where commuters can borrow books to read on the go and return later. 
 - Under the aforementioned PUI, public spaces are developed around the bases of MetroCable pylons, creating communal nodes for play and rest within the communities. 
 
-[Back to top](#case-study-11)
+[Back to top](#case-study)
 
 ---
 
@@ -81,7 +81,7 @@ The integrated transport system covers the Metro (34 kilometres), the MetroCable
 190,000 square kilometres of new public spaces were generated and more than 5,400 new trees were planted along various corridors of the transport system.  
 The new Tranvia tram system connects some 60,000 people on a daily basis, along a 4.3-kilometre route and under 11 minutes. 
 
-[Back to top](#case-study-11)
+[Back to top](#case-study)
 
 ---
 
@@ -92,4 +92,4 @@ The new Tranvia tram system connects some 60,000 people on a daily basis, along 
 - The MetroCable was perceived as a success when it first opened in 2004. It has since inspired many other Latin American cities with similar topographies, such as Rio de Janeiro and La Paz, to adopt cable cars as a form of daily commuting public transport tool.  
 - Cities facing similar challenges could learn from Medellín’s approach of an integrated stakeholder engagement process, where all parties are involved in the planning of the MetroCable system to ensure its success and local buy-in. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-11)
+[Back to top](#case-study)
