@@ -26,7 +26,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
   - The **Yonsei-ro Transit Mall** (completed in 2015) - the first of its kind in Seoul - is a pedestrianisation of a formerly congested area in Sinchondong with the vision to create a ‘walk-friendly Seoul’. 
   - **Seoullo 7017** (completed in 2017) is a lushly planted one-kilometre elevated walkway transformed from the former Seoul Station Overpass built in the 1970s to connect major areas around the main train station.
 
-[Back to top](#case-study-13)
+[Back to top](#case-study)
 
 ---
 
@@ -40,7 +40,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 - The Seoul Station Overpass and other overpasses in the city created an unpleasant urban landscape.
 - To better manage transportation demand in congested areas of the city, South Korea's Ministry of Land and Transport initiated discussions as early as 2006 on developing ‘transit malls’. 
 
-[Back to top](#case-study-13)
+[Back to top](#case-study)
 
 ---
 
@@ -61,7 +61,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 - The city set up a planning group to oversee the redevelopment of the overpass, and appointed an external expert – Dutch architectural practice MVRDV – as the master planner. 
 - The city also established an Urban Regeneration Support Centre headed by a community planning expert to promote the project to residents. 
 
-[Back to top](#case-study-13)
+[Back to top](#case-study)
 
 ---
 
@@ -75,7 +75,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
   - **Seoullo7017** is not only an imageable representation of Seoul’s transformation into a pedestrian-friendly city, it also preserved the former overpass as heritage while creating connections to key areas around the city centre and giving a boost to the local economy. 
 - Seoul also harnessed big data through TOPIS – its transport control centre, to provide 24/7 traffic monitoring and feed useful transport information to its citizens. 
 
-[Back to top](#case-study-13)
+[Back to top](#case-study)
 
 ---
 
@@ -99,7 +99,7 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 - The project helped to increase urban biodiversity with approximately 24,000 trees comprising 220 plant species planted along the walkway. 
 - Seoullo7017 improved connectivity around the Seoul Station with 17 entry/exit points, and more links will be built in the future. 
 
-[Back to top](#case-study-13)
+[Back to top](#case-study)
 
 ---
 
@@ -111,4 +111,4 @@ description: Three ground-breaking projects in Seoul helped to reshape the city'
 - By placing the needs of people first, the city can help to reshape itself towards a more inclusive urban environment. These projects demonstrate Seoul’s determination to place people over cars. 
 - A strong political will to devise unique solutions to tackle its urban challenges helped to shape Seoul’s identity as an innovative city. Cheonggyecheon, for example, is not only a new tourist attraction, but also a model example of stream restoration for cities around the world. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-13)
+[Back to top](#case-study)
