@@ -23,7 +23,7 @@ description: Besides economic development and environmental protection, the 2014
 - Suzhou’s economic growth is complemented by innovative social policies that facilitated the integration of migrant workers, where they are given equal access to health and educational benefits as local residents, and contributed to social stability. 
 - These inclusionary policies are regarded as one of the significant achievements of Suzhou.
 
-[Back to top](#case-study-8)
+[Back to top](#case-study)
 
 ---
 
@@ -33,7 +33,7 @@ description: Besides economic development and environmental protection, the 2014
 - Disparity in quality of life between rural and urban areas in terms of housing, education and employment opportunities.
 - Inadequate public services and social security for migrant workers.
 
-[Back to top](#case-study-8)
+[Back to top](#case-study)
 
 ---
 
@@ -43,7 +43,7 @@ description: Besides economic development and environmental protection, the 2014
 - Community residents and relevant enterprises provide feedback for specific urban transformation plans to align results with their requirements. 
 - Suzhou Municipal People’s Congress examines and approves these transformation plans, and formalises them as laws and regulations after their approval, to ensure the sustainability of the transformation.
 
-[Back to top](#case-study-8)
+[Back to top](#case-study)
 
 ---
 
@@ -56,7 +56,7 @@ description: Besides economic development and environmental protection, the 2014
 - Equal and efficient public services enable all employees to enjoy all kinds of employment services within the community, with 99 new ‘Citizens Comprehensive Service Centres’ established for non-native residents’ exclusive use.
 - Local regulations and working guidelines ensure the fair and equal treatment of the children of migrant workers in the city, allowing them to receive compulsory education. 
 
-[Back to top](#case-study-8)
+[Back to top](#case-study)
 
 ---
 
@@ -73,7 +73,7 @@ description: Besides economic development and environmental protection, the 2014
 - The number of non-native students in public schools reached 227,900 in 2012.
 - As a result of its social policies, Suzhou has been awarded as the most popular city for migrant workers nationwide. 
 
-[Back to top](#case-study-8)
+[Back to top](#case-study)
 
 ---
 
@@ -83,5 +83,5 @@ description: Besides economic development and environmental protection, the 2014
 
 - It is important for a city to have inclusionary policies in the treatment of migrant workers, in order to bring about greater community integration and social stability. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-8)
+[Back to top](#case-study)
 
