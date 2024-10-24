@@ -26,7 +26,7 @@ description: Kazan leveraged on international sporting events and broad-based in
 - Since 2006, the new leadership team under Mayor Ilsur Metshin turned this around by strategically developing urban infrastructure with a focus on sports and health. 
 - Since then, Kazan has been named the country's ‘Sports Capital’ and hosted several key sporting events, such as the 2013 Summer Universiade, 2014 World Fencing Championships, the 2015 World Aquatics Championships, and is one of the host cities for the 2017 FIFA Confederations Cup and the 2018 FIFA World Cup.  
 
-[Back to top](#case-study-17)
+[Back to top](#case-study)
  
 ---
 
@@ -39,7 +39,7 @@ description: Kazan leveraged on international sporting events and broad-based in
 - In that same year, the city’s mortality rate exceeded the birth rate for the first time.
 - Kazan was a city that was known for its youth crimes and unhealthy populace, an undesirable image that the city wanted to shed. At the same time, the low quality of life resulted in an exodus of local talents to other cities or abroad.
 
-[Back to top](#case-study-17)
+[Back to top](#case-study)
 
 ---
 
@@ -53,7 +53,7 @@ description: Kazan leveraged on international sporting events and broad-based in
 - The city also established boards of trustees for 25 parks and public gardens from enterprises and organisations that took patronage. 
 - In 2016, Kazan adopted the ‘Kazan 2030 Strategy’ for social and economic development. The Strategy emphasises on healthy lifestyles, while increasing the share of population engaged in physical activities and sports up to 50 percent and life expectancy to 76 years by 2030. 
 
-[Back to top](#case-study-17)
+[Back to top](#case-study)
 
 ---
 
@@ -67,7 +67,7 @@ description: Kazan leveraged on international sporting events and broad-based in
 - The Interregional Clinical Diagnostic Centre is a 100 percent publicly owned entity that offers surgical procedures, in- and out-patient care, and conducts research to improve the health of citizens.
 - The city carried out several landscaping projects to improve its environmental quality, and involved residents, large enterprises, environmentalists, specialists, and community-based organisations. 
 
-[Back to top](#case-study-17)
+[Back to top](#case-study)
 
 ---
 
@@ -83,7 +83,7 @@ description: Kazan leveraged on international sporting events and broad-based in
 - Kazan now has its own bicycle ring which is a part of the ‘Amazing Kazan’ route, which passes through the central historical part of the city. 
 - In the area of landscaping, the ‘Green Record’ project planted 151,400 trees, 66,400 shrubs and over 500,000m<sup>2</sup> of new lawns; the ‘Blossoming Kazan’ project involved the local community to grow some 22 million flowers over three years, and held a floral festival for 500,000 spectators; and the ‘100 Public Gardens’ project improved old public gardens, while integrating the new ones.
 
-[Back to top](#case-study-17)
+[Back to top](#case-study)
 
 ---
 
@@ -94,7 +94,7 @@ description: Kazan leveraged on international sporting events and broad-based in
 - Kazan demonstrates how cities can improve their quality of life with a focus on a healthy population. The emphasis on sports, medicine, and nutrition to improve people’s lives has paid off, with positive indicators such as increased life expectancy and rising birth rates. 
 - The branding as a sports city and hosting of international events help Kazan improve its city image on the global front. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-17)
+[Back to top](#case-study)
 
 ---
 
