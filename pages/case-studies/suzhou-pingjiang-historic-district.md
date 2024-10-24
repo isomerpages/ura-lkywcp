@@ -26,7 +26,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 - Initiated in 2002, the ‘Feature Protection and Environment Restoration Project’ aims to protect the city’s historical relics and improve the quality of life for its residents, including improving infrastructure and walkability, and limiting new industrial and commercial zones to outside of the historic core.  
 - The district exemplifies preserved traditional Chinese architecture and living customs in Suzhou. It is also one of the most representative historic and cultural cities in China.
 
-[Back to top](#case-study-7)
+[Back to top](#case-study)
 
 ---
 
@@ -37,7 +37,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 - Urgent need for urban (re)development due to rapid economic and demographic growth, which in turn resulted in demolition or irreparable damage to historic streets. 
 - The city was at risk of losing its character, architectural heritage and environment due to its rapid expansion. 
 
-[Back to top](#case-study-7)
+[Back to top](#case-study)
 
 ---
 
@@ -49,7 +49,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 - The project is implemented on a government-led, market-operated approach: funded through bank loan and initiation capital from the government, a company ‘Pingjiang Historic District Company’ was established in 2002 as the main body overseeing the project. 
 - The company focuses on repair and operation of historic houses, construction of key projects, management of roads and environment, development of tourism projects, publicity and branding, and hospitality. 
 
-[Back to top](#case-study-7)
+[Back to top](#case-study)
 
 ---
 
@@ -65,7 +65,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 - Existing social networks are maintained during the project, and residents continue to live and work within the district, preserving the traditional culture and customs. 
 - The district is transformed into a platform that celebrates Suzhou’s traditions, such as Pingjiang Sun-dry Book Festival and Lantern Festival, allows future growth and promotes tourism, which in turn creates jobs and income for the residents. 
 
-[Back to top](#case-study-7)
+[Back to top](#case-study)
 
 ---
 
@@ -79,7 +79,7 @@ description: At risk of losing its heritage and character in its rapid modernisa
 - Living conditions and water quality within the district improved, with more than 1ha of Pingjiang River and waterways cleaned up and trees and green spaces added along riverbanks to provide more public spaces. 
 - Cultural tourism increased with more than 2 million tourists visited the district each year, leading to increase in local employment and income levels. 
 
-[Back to top](#case-study-7)
+[Back to top](#case-study)
 
 ---
 
@@ -91,4 +91,4 @@ description: At risk of losing its heritage and character in its rapid modernisa
 - It is important for cities to plan for and invest in their future. By committing to infrastructure investment, cities can achieve the twin goals of facilitating economic growth and improving quality of life. 
 - Heritage preservation is not just about physical restoration but also intangible aspects, such as festivals, living conditions for existing residents, and local businesses. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-7)
+[Back to top](#case-study)
