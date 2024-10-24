@@ -25,7 +25,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 - Repurposing of the High Line into an urban park began in 2007, with the first phase opened in 2009, and the second phase in 2011. The third and final phase opened to the public in September 2014.
 - The High Line features a mixture of landscaping elements, including plantings, innovative 'peel-up' benches, water fountains, public gathering areas, children’s exploration areas, recreational pathways, and unique viewing decks. The project uses inventive design to encourage stair climbing, walking and relaxation. 
 
-[Back to top](#case-study-3)
+[Back to top](#case-study)
 
 ---
 
@@ -38,7 +38,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 - The need to protect and encourage continued growth of the area’s dynamic art gallery district.  
 - Pressure from private property owners under the structure to demolish the abandoned rail line to allow for new development, despite it being considered a landmark in the neighbourhood.
 
-[Back to top](#case-study-3)
+[Back to top](#case-study)
 
 ---
 
@@ -48,7 +48,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 - The Department of City Planning played a central role in the development of the High Line, and in leveraging the park by creating special development corridor with innovative land use and design rules that resulted in a surrounding envelop of architecturally celebrated buildings and a veritable beehive of mixed uses.
 - The Department of City Planning worked together with the community to create a new special zoning district and an innovative floor-area transfer mechanism, to balance the multiple goals of preserving the neighbourhood identity, unlocking development potential and preserving light, air and views around the open space.
 
-[Back to top](#case-study-3)
+[Back to top](#case-study)
 
 ---
 
@@ -62,7 +62,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 - At prominent locations, the zoning allows floor area bonuses in exchange for restoration of the structure, development of new open space and provision of stair and elevator access.
 - The High Line is framed as an economic revitalisation project rather than a conservation one, with the derelict elevated rail-line as the heart for new residential and commercial developments influencing the success of its implementation.
 
-[Back to top](#case-study-3)
+[Back to top](#case-study)
 
 ---
 
@@ -77,7 +77,7 @@ Quality of life of residents and business owners improved.
 - The High Line project has inspired cities throughout the United States to redevelop obsolete infrastructure as public space.
 - The High Line now hosts over 450 programmes and activities and attracted more than 20 million visitors since its opening in 2009. According to a survey, nearly 50 percent of the visitors are New York City residents. 
 
-[Back to top](#case-study-3)
+[Back to top](#case-study)
 
 ---
 
@@ -86,4 +86,4 @@ Quality of life of residents and business owners improved.
 - The transfer corridor concept can serve as an important tool for elevated rails-to-trails conversions in urban settings throughout the world. 
 - The High Line demonstrates that using innovative policies to repurpose derelict infrastructure can transform cities around the world. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-3)
+[Back to top](#case-study)
