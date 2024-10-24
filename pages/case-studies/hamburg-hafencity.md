@@ -25,7 +25,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - When completed, HafenCity will house more than 2.4 million square metres of gross floor area, more than 7,000 residential units, accommodate 5,000 university students and 70,000 visitors a day, and open up some 45,000 job opportunities. 
 - HafenCity is anchored by the iconic cultural project – Elbphilharmonie Concert Hall, an adaptive reuse of an old warehouse and designed by renowned architects Herzog & de Meuron.
 
-[Back to top](#case-study-14)
+[Back to top](#case-study)
 
 ---
 
@@ -38,7 +38,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - Increasing container logistics in the 1990s drove much of Hamburg’s industrial activities away towards the south of the Elbe River, where the port could expand to cater to large container ships. 
 - Faced with an increasing demand for housing and offices as well as flood risks, the city decided to redevelop the former port area to create a new urban district.
 
-[Back to top](#case-study-14)
+[Back to top](#case-study)
 
 ---
 
@@ -51,7 +51,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - The city on the other hand, intervenes during the development process to ensure diversity and quality of uses before a building permit can be obtained.
 - This process ensures a high degree of compliance with the overall vision of the district. 
 
-[Back to top](#case-study-14)
+[Back to top](#case-study)
 
 ---
 
@@ -67,7 +67,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - HafenCity is elevated to 8 metres above sea level, with sufficient flood basins to address risks of flooding caused by tidal surges. 
 - The district’s urban design reflects the traditional architecture of the neighbouring Speicherstadt, with vistas carefully aligned to ensure the historic spires of churches are not obscured. 
 
-[Back to top](#case-study-14)
+[Back to top](#case-study)
 
 ---
 
@@ -80,7 +80,7 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - The U4 subway started regular services in 2012.
 - Hamburg’s inner city now extends to the waterfront, creating a new modern identity for the city, and increasing the quality of the built environment. 
 
-[Back to top](#case-study-14)
+[Back to top](#case-study)
 
 ---
 
@@ -93,4 +93,4 @@ description: A former industrial brownfield site, HafenCity is Hamburg’s new c
 - The process of land ownership and tendering process allow both the city and the stakeholders to achieve their objectives while jointly create a diversified urban and social fabric. 
 - The setting up of HafenCity Hamburg GmbH as an autonomous subsidiary helps to avoid cumbersome and lengthy planning processes and red tape. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-14)
+[Back to top](#case-study)
