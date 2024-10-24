@@ -24,7 +24,7 @@ description: Once the city's dark spots that draw violence and crimes, some 20 i
 - Many of these venues are adapted from existing utility water tanks that occupied large plots of previously inaccessible land and located near to existing communities. 
 - Under the programme, these spaces are converted into communal uses that host a variety of activities that are decided and managed by the communities themselves, giving them a sense of ownership
 
-[Back to top](#case-study-10)
+[Back to top](#case-study)
 
 ---
 
@@ -36,7 +36,7 @@ description: Once the city's dark spots that draw violence and crimes, some 20 i
 - The shortage of public spaces in the comunas compounded by violence and insecurity provided the impetus for EPM to analyse the potential of converting some of these compounds into community venues. 
 - 12 such compounds were identified, where the function of the water tanks will be retained, while the surrounding walls will be removed, and new buildings and spaces added. A further eight sites will be built from scratch.
 
-[Back to top](#case-study-10)
+[Back to top](#case-study)
 
 ---
 
@@ -48,7 +48,7 @@ description: Once the city's dark spots that draw violence and crimes, some 20 i
 - Each UVA is managed by a team working closely with community leaders. Up to 25 community members, including children, are appointed as the ‘Guardians of UVA’ – ambassadors who suggest and promote activities unique to the specific interests of each community, such as knitting and IT classes.
 - The community is therefore empowered through a series of participatory processes from conception to completion and running of the UVAs, resulting in a sustainable community that takes care of itself, with room for their creative expressions.
 
-[Back to top](#case-study-10)
+[Back to top](#case-study)
 
 ---
 
@@ -60,7 +60,7 @@ description: Once the city's dark spots that draw violence and crimes, some 20 i
 - By opening up previously enclosed infrastructural spaces into reimagined new public spaces, the city transformed these undesirable and utilitarian ‘dark spots’ of the neighbourhoods into new attractive community nodes, while still keeping the original function of the water tanks.
 - The project is also able to create many new public spaces quickly in these already built-up neighbourhoods without the need to find additional/new land or displacing existing communities.
 
-[Back to top](#case-study-10)
+[Back to top](#case-study)
 
 ---
 
@@ -75,7 +75,7 @@ description: Once the city's dark spots that draw violence and crimes, some 20 i
 - There is now a place for the local communities to express their ideas, carry out community work, and participate in cultural, artistic and educational activities within the UVAs. 
 - The UVA Orfelinato (Orphanage) project won the city the Holcim Award in the gold category in 2015.
 
-[Back to top](#case-study-10)
+[Back to top](#case-study)
 
 ---
 
@@ -85,4 +85,4 @@ description: Once the city's dark spots that draw violence and crimes, some 20 i
 
 - The participatory design model of the UVA project with the local communities from its design stage to operations of these spaces is a concept replicable to other projects and cities. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-10)
+[Back to top](#case-study)
