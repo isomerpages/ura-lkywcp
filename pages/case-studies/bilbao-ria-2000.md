@@ -23,7 +23,7 @@ description: How did Bilbao continue to transform itself over the years despite 
 - It coordinates and executes projects related to town planning, transportation and the environment, focusing on the urban directives drawn up by the planning authorities.
 - The non-profit entity has, since 1992, taken a lead role in the redevelopment of the metropolitan region and continues to support current and proposed initiatives for the city’s future.
 
-[Back to top](#case-study-2)
+[Back to top](#case-study)
 
 ---
 
@@ -35,7 +35,7 @@ description: How did Bilbao continue to transform itself over the years despite 
 - Rising unemployment of about 22.5 percent in the 1970s and 80s, due to deindustrialisation and disinvestment both from abroad and other parts of Spain.
 - Negative environmental impact on the river from industries and port activities.
 
-[Back to top](#case-study-2)
+[Back to top](#case-study)
 
 ---
 
@@ -48,7 +48,7 @@ description: How did Bilbao continue to transform itself over the years despite 
 - As stakeholders, they are represented by high-level board members. The agreement by consensus is institutionalised as a process to mandate land development, which will be affected less by political inclinations, and thus ensure long-term plans.
 - For development process, Bilbao Ria 200 consolidates land, transfers the stakeholders’ developmental rights, prepares the land, lays out the infrastructure, and sells the land for development.
 
-[Back to top](#case-study-2)
+[Back to top](#case-study)
 
 ---
 
@@ -66,7 +66,7 @@ description: How did Bilbao continue to transform itself over the years despite 
 historic district, Abandoibarra (waterfront promenade) and new urban parks.
 - The railway tracks were re-routed around the city to allow development of the waterfront. Major arterial roads were downgraded and buried underground to create a more pedestrian-friendly urban environment.
 
-[Back to top](#case-study-2)
+[Back to top](#case-study)
 
 ---
 
@@ -85,7 +85,7 @@ historic district, Abandoibarra (waterfront promenade) and new urban parks.
 - No longer a physical and social barrier, the river is now bridged across both sides with different income level, political orientation, cultural background and diverse geographical origins. The infrastructure investments such as the distribution of city services and underground subway system have contributed to the city’s social integration.
 - High standards of design in the architectural and infrastructure works has greatly improved the quality of life and self-esteem of the people.
 
-[Back to top](#case-study-2)
+[Back to top](#case-study)
 
 ---
 
@@ -94,4 +94,4 @@ historic district, Abandoibarra (waterfront promenade) and new urban parks.
 - Successful urban development and regeneration require integration of strategic visioning with systematic implementation of key infrastructure projects at various levels.
 - There is a need for effective institutions and processes that bring on board the right stakeholders to ensure alignment with sustainable funding mechanisms, so that the long-term vision can be sustained and implemented. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-2)
+[Back to top](#case-study)
