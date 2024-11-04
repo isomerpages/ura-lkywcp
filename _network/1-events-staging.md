@@ -3,6 +3,7 @@ title: Events
 permalink: /network/events/
 image: /images/features/2024/knowledge-forum.jpg/
 description: To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat organises events such as panels and lectures featuring its members. The LKYWCP Network also supports member-led events to engender a spirit of collaboration and partnerships amongst cities.
+published: false
 ---
 
 To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat facilitates knowledge creation and sharing through research collaborations, international panel of experts, and lectures with its members. The LKYWCP Network also supports member-led initiatives to engender a spirit of collaboration and partnership amongst cities.
