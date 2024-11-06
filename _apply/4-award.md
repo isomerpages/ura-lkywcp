@@ -24,9 +24,9 @@ The Lee Kuan Yew World City Prize Laureate and Special Mentions will share their
 
 The Lee Kuan Yew World City Prize Network Convening Session brings together the Prize cities, providing a new platform to share and exchange insights on their continued progress and recent urban initiatives. This session fosters knowledge-sharing and innovation among cities, with the aim of amplifying the impact of their efforts across the world. Attendees get to learn directly from these cities and gain valuable insights into how their initiatives can be adapted and applied within their own context. 
 
----
-
-The above events are key highlights of the [World Cities Summit](https://www.worldcitiessummit.com.sg) – an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions, and forge new partnerships.
+||
+| The above events are key highlights of the [World Cities Summit](https://www.worldcitiessummit.com.sg) – an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions, and forge new partnerships. |
+||
 
 ---
 
