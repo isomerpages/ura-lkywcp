@@ -11,9 +11,7 @@ By applying for the Prize, you will get to:
 
 | **01** | **Assess your city’s potential**: <br> Undertake a rigorous self-evaluation process through the submission report to delve deep into your city’s data to identify strengths, weaknesses, and areas for improvement. | 
 | **02** | **Showcase your city’s brilliance**:  <br> Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead. | 
-| **03** | **Be among a global community of innovators**:  <br> Learn from and collaborate with leaders from other Prize cities to address shared challenges. |
-
-➜ [View case studies from the Prize cities](/case-studies/)
+| **03** | **Be among a global community of innovators**:  <br> [Learn from other Prize cities](/case-studies) and collaborate with these leaders to address shared challenges. |
 
 #### **Winner benefits**
 
@@ -23,7 +21,7 @@ The 2026 Prize Laureate and Special Mentions will get to:
 | **02** | **Unlock new opportunities through our network of innovative cities**:  <br> Access exclusive networking events, exchange ideas and best practices to accelerate your city’s progress. |
 | **03** | **Drive positive change**:  <br> Influence and inspire cities through a dedicated platform for knowledge sharing and collaboration. |
 
-<br>
+The full list of winner benefits are as follows:
 
 | | 2026 Prize Laureate | 2026 Special Mentions |
 |:---|:---:|:---:|
@@ -37,9 +35,6 @@ The 2026 Prize Laureate and Special Mentions will get to:
 | Features on the Prize website, [LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](/documents/worldcityprize-2024.pdf/) | ✓ | ✓ |
 | International media coverage[^2] | ✓ | ✓ |
 | Participate in knowledge-sharing and capacity-building programmes | ✓ | ✓ |
-
-➜ [Find out more about the 2026 Prize](/prize-cycle/) <br>
-➜ [Apply now!](https://go.gov.sg/nominations)
 
 #### **Prize Cycle**
 
