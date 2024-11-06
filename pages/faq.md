@@ -7,7 +7,7 @@ description: Frequently asked questions about the Lee Kuan Yew World City Prize.
 
 | Updated |
 |---:|
-| 4 September 2024 |
+| 6 November 2024 |
 
 #### **Sections**
 
@@ -115,8 +115,6 @@ Please refer to the [glossary of terms](/glossary/) for a list of definitions.
 #### **How is the process of evaluation carried out?**
 
 The evaluation is carried out through a rigorous two-tier process made up of both the Prize Council and Nominating Committee. The jury panels are composed of renowned professionals and experts in the fields of urban governance and planning, architecture, etc.
-
-The Nominating Committee thoroughly reviews all submitted nominations before making a shortlist of potential Laureates. These possibilities are examined further with the individual merits of each carefully considered. The Prize Council is presented with a final shortlist and selects the Laureate based on the recommendations.
 
 With the many high-quality nominations from cities worldwide, the greatest challenge is how to evaluate them across the board. For that, we have distilled a set of fundamental principles, including the impact of the urban initiatives implemented, the sustainability of the achieved outcomes, the practical purpose and levels of innovation that were demonstrated. 
 
