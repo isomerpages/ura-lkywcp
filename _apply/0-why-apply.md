@@ -22,8 +22,8 @@ By applying for the Prize, you will get to:
 | Crystal Trophy |  | ✓ |
 | Award Certificate | ✓ | ✓ |
 | Travel expenses covered to attend World Cities Summit in Singapore[^1] | ✓ | ✓ |
-| Receive award at the Lee Kuan Yew World City Prize Award Ceremony & Banquet | ✓ | ✓ |
-| Sharing at Lee Kuan Yew World City Prize Lecture | ✓ | ✓ |
+| Receive award at the [Lee Kuan Yew World City Prize Award Ceremony & Banquet](/award/) | ✓ | ✓ |
+| Sharing at [Lee Kuan Yew World City Prize Lecture](/award/#prize-lecture/) | ✓ | ✓ |
 | Features on the Prize website, [LinkedIn page](https://www.linkedin.com/company/worldcityprize/), [YouTube channel](https://www.youtube.com/@worldcityprize) and [publications](/documents/worldcityprize-2024.pdf/) | ✓ | ✓ |
 | International media coverage[^2] | ✓ | ✓ |
 | Participate in knowledge-sharing and capacity-building programmes | ✓ | ✓ |
