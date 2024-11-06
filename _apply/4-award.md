@@ -20,7 +20,7 @@ The Lee Kuan Yew World City Prize Laureate and Special Mentions will share their
 
 #### **Convening Session**
 
-###### ![Lee Kuan Yew World City Prize Network Convening Session 2024](/images/features/2024/convening-session.jpg/)**Lee Kuan Yew World City Prize Network Convening Session 2024** © Damien Woon
+###### ![Lee Kuan Yew World City Prize Network Convening Session 2024](/images/features/2024/convening-session.jpg/)**Lee Kuan Yew World City Prize Network Convening Session 2024** © Centre for Liveable Cities
 
 The Lee Kuan Yew World City Prize Network Convening Session brings together the Prize cities, providing a new platform to share and exchange insights on their continued progress and recent urban initiatives. This session fosters knowledge-sharing and innovation among cities, with the aim of amplifying the impact of their efforts across the world. Attendees get to learn directly from these cities and gain valuable insights into how their initiatives can be adapted and applied within their own context. 
 
