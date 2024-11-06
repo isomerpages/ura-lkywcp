@@ -9,9 +9,9 @@ description: A biennial international award that honours outstanding achievement
 
 By applying for the Prize, you will get to: 
 
-| **Assess your city’s potential**: <br> Undertake a rigorous self-evaluation process through the submission report to delve deep into your city’s data to identify strengths, weaknesses, and areas for improvement. | 
-| **Showcase your city’s brilliance**:  <br> Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead. | 
-| **Be among a global community of innovators**:  <br> Learn from and collaborate with leaders from other Prize cities to address shared challenges. |
+| **01** | **Assess your city’s potential**: <br> Undertake a rigorous self-evaluation process through the submission report to delve deep into your city’s data to identify strengths, weaknesses, and areas for improvement. | 
+| **02** | **Showcase your city’s brilliance**:  <br> Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead. | 
+| **03** | **Be among a global community of innovators**:  <br> Learn from and collaborate with leaders from other Prize cities to address shared challenges. |
 
 ➜ [View case studies from the Prize cities](/case-studies/)
 
@@ -19,11 +19,13 @@ By applying for the Prize, you will get to:
 
 The 2026 Prize Laureate and Special Mentions will get to:
 
-| **Gain international recognition**:  <br> Receive prestigious awards at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, gaining worldwide recognition as a leader in urban innovation and sustainable development. |
-| **Unlock new opportunities through our network of innovative cities**:  <br> Access exclusive networking events, exchange ideas and best practices to accelerate your city’s progress. |
-| **Drive positive change**:  <br> Influence and inspire cities through a dedicated platform for knowledge sharing and collaboration. |
+| **01** | **Gain international recognition**:  <br> Receive prestigious awards at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, gaining worldwide recognition as a leader in urban innovation and sustainable development. |
+| **02** | **Unlock new opportunities through our network of innovative cities**:  <br> Access exclusive networking events, exchange ideas and best practices to accelerate your city’s progress. |
+| **03** | **Drive positive change**:  <br> Influence and inspire cities through a dedicated platform for knowledge sharing and collaboration. |
 
-| Full list of benefits | 2026 Prize Laureate | 2026 Special Mentions |
+<br>
+
+| | 2026 Prize Laureate | 2026 Special Mentions |
 |:---|:---:|:---:|
 | Cash Prize of Singapore Dollars $300,000 | ✓ |  |
 | Gold Medallion (valued at Singapore Dollars $50,000) | ✓ |  |
