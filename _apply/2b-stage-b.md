@@ -13,8 +13,6 @@ published: true
 
 Nominated cities will be notified to prepare and submit a comprehensive written report containing the following parts. Cities that have applied previously may opt to update their previous submissions with the latest information.
 
-| Part | Details |
-|---:|:---|
 | **Key statistics** | Key statistics comparing the city's progress over the past 10-20 years in 5 key areas:: <br><br> - Land area & population <br> - Economy <br> - Quality of life <br> - Modal split for daily commute <br> - Sustainability |
 | **Medium/long-term plan or strategy** | Information on the city's medium to long-term master plan or development strategy, including details on its vision, goals, objectives, and proposed initiatives and projects to achieve sustainable development and urban growth. | 
 | **Key projects** | 3 - 5 key projects that showcase the successful phased implementation of the medium to long-term plan in different areas, such as sustainable transportation, climate change adaptation, urban regeneration, and smart city initiatives. These projects should be either fully completed or partially completed with tangible early results that demonstrate impact and progress. |

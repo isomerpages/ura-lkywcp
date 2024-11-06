@@ -25,7 +25,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 - The recuperation of the river is accompanied by a series of landmark infrastructures, such as the Guggenheim Museum, Euskalduna Conference and Concert Hall, a maritime museum, 600 luxury housing units, offices, shopping and leisure centre, shops, university facilities, hotels and green areas including a three-kilometre pedestrian promenade.
 - The project brought about the transition of Bilbao from an industrial city to a city of services and culture.
 
-[Back to top](#case-study-1)
+[Back to top](#case-study)
 
 ---
 
@@ -37,7 +37,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 - Rising unemployment of about 22.5 percent in the 1970s and 1980s, due to deindustrialisation and disinvestment both from abroad and other parts of Spain.
 - Negative environmental impact on the river from industries and port activities.
 
-[Back to top](#case-study-1)
+[Back to top](#case-study)
 
 ---
 
@@ -51,7 +51,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 - Bilbao Ria 2000’s shareholders, which are all public companies or institutions, transfer land belonging to them in central areas of Bilbao and Barakaldo, and the Town Halls upgrade the land. Bilbao Ria 2000 invests in building works on the land and sells off the resultant plots to finance its activities.
 - A multi-package approach was adopted in the delivery of the project. Instead of leasing the land to one private developer for integrated development, it has been divided into smaller land parcels for leasing in phases to different developers for developments.
 
-[Back to top](#case-study-1)
+[Back to top](#case-study)
 
 ---
 
@@ -66,7 +66,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 - Bank Park – a facility to connect existing promenades along 800 metres of the waterfront. The city reclaimed almost 6 kilometres of leisure space on both sides of the river. The park features the collection of sculptures, a kind of ‘Memory Lane’ to commemorate the intense industrial activity which used to be the main feature on site.
 - Auskalduna Bridge, Zubizuri Footbridge and Pedro Arrupe Walkway – bridges and walkway that foster communications between both sides of the river. They are physical infrastructures for social interaction, as well as sculptures that strengthen the image of innovation and modernity.
 
-[Back to top](#case-study-1)
+[Back to top](#case-study)
 
 ---
 
@@ -81,7 +81,7 @@ Guggenheim Museum has maintained 3,816 jobs during the first year, and increased
 - The urban regeneration attracts private sector investment. The large energy company Iberdrola has decided to build its new headquarter on the site. The Iberdrola Tower has become the new financial and business icon of Bilbao.
 - The number of conference delegates arriving in the city increased tenfold to 178,000 per year. 
 
-[Back to top](#case-study-1)
+[Back to top](#case-study)
 
 ---
 
@@ -93,4 +93,4 @@ Guggenheim Museum has maintained 3,816 jobs during the first year, and increased
 - The vision should not only focus on economic growth, but also look at the social and quality of life considerations.
 - Abandoibarra serves as a reference in terms of strategic vision and good governance. It constitutes an inspirational source for other cities with underprivileged areas of great potential. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-1)
+[Back to top](#case-study)

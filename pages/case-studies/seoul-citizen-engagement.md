@@ -24,7 +24,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 - Extensive participatory planning efforts culminated in the Seoul Plan 2030, with a vision – “Happy City of Citizens with Communication & Consideration” decided by citizens.
 - On top of that, the government launched the ‘Participatory Budget System’ and ‘Community Building Project’ to give citizens a bigger say in local matters. 
 
-[Back to top](#case-study-12)
+[Back to top](#case-study)
 
 ---
 
@@ -38,7 +38,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 - Past master plans were ineffective in coping with the rapid changes in social conditions, such as the rise of single-person households, social polarisation and worsening gender inequality. Citizens were also largely left out of their formulation. 
 - The lack of an effective master plan translates to an inconsistent urban development, risking a disorderly development pattern across the city. 
 
-[Back to top](#case-study-12)
+[Back to top](#case-study)
 
 ---
 
@@ -52,7 +52,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 - Citizen participatory groups are also formed at various levels as small as neighbourhoods. 
 - The regional planning process is designed as a bottom-up process where citizens’ inputs are fully accounted for. The city organises educational programmes to cultivate citizens, while ensuring full transparency of the planning processes.
 
-[Back to top](#case-study-12)
+[Back to top](#case-study)
 
 ---
 
@@ -68,7 +68,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 - After Seoul Metropolitan Council confirms each year’s budget, the Conflict Mediation Division analyses all slated projects and identifies those that could cause public unhappiness. With the help of professional mediators, the city then formulates resolution strategies to tackle them in a sensitive manner. 
 - If disagreements do occur, a conflict mediation agency conducts in-depth interviews with the parties and designs a settlement process, together with third-party professional mediators if necessary.  
 
-[Back to top](#case-study-12)
+[Back to top](#case-study)
 
 ---
 
@@ -82,7 +82,7 @@ description: Faced with increasing public opposition to urban development, Seoul
 - Under the Participatory Budget System, nearly 117,000 people voted for projects in 2017. Before that, the vote was limited to a committee of 250 people selected through a random electronic draw. 
 - Between 2012 – 2018, many community projects have received funding through the Participatory Budget System. These include gas safety valves installation in the homes of low-income elderly, setting up community restaurant that makes bean sprout dishes with bean sprout grown in senior citizen centres, initiatives to stop bullying and school violence, and improvement of facilities for people with disabilities.
 
-[Back to top](#case-study-12)
+[Back to top](#case-study)
 
 ---
 
@@ -93,4 +93,4 @@ description: Faced with increasing public opposition to urban development, Seoul
 - The governance structure created for Seoul Plan 2030 can serve as a platform to reach social consensus on follow-up plans, with citizens at the centre of processes. 
 - A city’s master plan can contain strategies for the better future ‘of the citizen’, ‘by the citizens’ and ‘for the citizens’. It is an important step for a city to progress not just in material prosperity but also in a way that the citizens desired. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-12)
+[Back to top](#case-study)

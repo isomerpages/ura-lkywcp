@@ -26,7 +26,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 - National railways first made large-scale investments in metropolitan Tokyo, while subways formed a mesh underground network in central Tokyo. Subsequent private railway lines connect suburbs with the city centre, together with housing developments along the lines. 
 - Tokyo aims to become a clean, safe and inclusive city based on transit-oriented development, where people can move freely and efficiently regardless of economic class. 
 
-[Back to top](#case-study-15)
+[Back to top](#case-study)
 
 ---
 
@@ -39,7 +39,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 - Insufficient housing in the city centre meant that housing needed to be expanded in suburban areas in order to cater to the increasing population. 
 - Tokyo needed to find a sustainable model to operate its railway business, as well as allowing anyone to move freely in the megacity regardless of income level and without private car ownership.
 
-[Back to top](#case-study-15)
+[Back to top](#case-study)
 
 ---
 
@@ -49,7 +49,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 - The former delivers profitable projects by combining real estate with railway construction, while the latter develop policies to support the rail network in the metropolitan region. 
 - The Tokyo Metropolitan Government itself operates the Toei subway and buses, among others, while the national railway company was privatised into JR Group 1987. 
 
-[Back to top](#case-study-15)
+[Back to top](#case-study)
 
 ---
 
@@ -65,7 +65,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 - Mutual operation with various railway companies has been promoted in recent years, allowing for travels to final destinations without the need to change trains. 
 - The Tokyo Metropolitan Government has formulated a standard set of information signs among various railway companies, benefiting both the locals and foreigners alike.   
 
-[Back to top](#case-study-15)
+[Back to top](#case-study)
 
 ---
 
@@ -82,7 +82,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 - Railway stations are equipped with barrier-free features, with 90 percent equipped with elevators, 100 percent with guiding blocks for visually handicapped, and 95 percent with wheelchair-accessible washrooms. 
 - Underground shopping streets around stations have been developed since the 1950s, providing a comfortable shopping experience for passengers and contributing revenue for railway companies. 
 
-[Back to top](#case-study-15)
+[Back to top](#case-study)
 
 ---
 
@@ -93,5 +93,5 @@ description: Well known and often envied for its reliability and efficiency, Tok
 - The development of an extensive public transport network such as railway can benefit an aging society such as Tokyo. The elderly can still move around freely despite being unable to drive cars on their own. 
 - By planning and developing barrier-free transport infrastructure ahead, cities can also help to pre-empt the renovation costs in later stages to add these features as the population ages. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-15)
+[Back to top](#case-study)
 

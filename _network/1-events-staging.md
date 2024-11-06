@@ -1,8 +1,9 @@
 ---
-title: Upcoming Events
+title: Events
 permalink: /network/events/
 image: /images/features/2024/knowledge-forum.jpg/
 description: To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat organises events such as panels and lectures featuring its members. The LKYWCP Network also supports member-led events to engender a spirit of collaboration and partnerships amongst cities.
+published: false
 ---
 
 To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat facilitates knowledge creation and sharing through research collaborations, international panel of experts, and lectures with its members. The LKYWCP Network also supports member-led initiatives to engender a spirit of collaboration and partnership amongst cities.
@@ -13,9 +14,13 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 
 #### **Resilience & Regeneration Strategies for Urban Innovation - 9 Oct 2024**
 
-This panel discussion focuses on urban revitalisation and addresses various aspects of resilience such as climate change adaptation, risks from extreme weather events, demographic shifts, economic rejuvenation, and citizen participation. It will provide a comprehensive view of the challenges and opportunities cities are facing today.
+###### ![Knowledge Forum](/images/features/2024/bilbao-expert-panel.jpg)© Bilbao Metropoli 30
 
-Panelists include representatives from LKYWCP Network founding member cities of Bilbao, Medellín, New York City, Seoul, and Vienna. The panel is moderated by CLC’s Executive Fellow, Mr Michael Koh.
+The City Network for the Lee Kuan Yew World City Prize (LKYWCP Network) convened in Bilbao for the Bay Awards Summit on 9 and 10 October 2024.
+
+Representatives from the Network's founding member cities - Eider Inunciaga (Bilbao), Simón Arango (Medellín), Zoe Baldwin (New York City), Kim In-Hee (Seoul), and Johannes Lutter (Vienna) - presented an expert panel for a session titled "Resilience & Regeneration Strategies for Urban Innovation". The session was moderated by Michael Koh, Executive Fellow, Centre for Liveable Cities.
+
+The panel examined impactful initiatives from each city aimed at revitalisation and resilience - addressing climate adaptation, enhancing public spaces, tackling demographic challenges, and managing waterfronts. It emphasised that urban resilience and rejuvenation extend beyond infrastructure; active engagement with local communities is crucial for developing sustainable and effective resilience strategies.
 
 ||
 | An event at The Bay Awards, Bilbao, 2024. Supported by LKYWCP Network. |

@@ -23,7 +23,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 - Medellín’s Metropolitan Green Belt, also known as the Circumvent Garden (Jardín Circunvalar de Medellín), is a green belt introduced along the urban-rural edge of the eastern and western mountain ridges of the city to control urban expansion in the hillside communities and create communal spaces.  
 - The project also aims to improve the quality of life of the inhabitants, protect the fragile ecosystem, and allow the local community to participate in its construction through pedagogical urbanism.
 
-[Back to top](#case-study-9)
+[Back to top](#case-study)
 
 ---
 
@@ -36,7 +36,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 - Inaccessibility of these informal settlements leading to their disconnection from the rest of the city.
 - Isolated hillside settlements were excluded and gang-controlled, leading to rampant violence. 
 
-[Back to top](#case-study-9)
+[Back to top](#case-study)
 
 ---
 
@@ -49,7 +49,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 - Adopting creative and non-conventional approaches allow the city leaders to advance social innovation and innovative public transport initiatives to pursue social equity and improve quality of life.  
 - Medellín believes that strengthening citizen participation through participatory budgeting and pedagogical urbanism can help to restore the confidence of the people in the state by implementing a model that seeks to create an inclusive and sustainable city with opportunities for all. 
 
-[Back to top](#case-study-9)
+[Back to top](#case-study)
 
 ---
 
@@ -63,7 +63,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 - The project also aims to increase the city’s public spaces (such as sports facilities and community farms) from 3.8 square metres to 15 square metres per inhabitant under the city masterplan. 
 - Multi-modal routes connect the once-isolated areas to the rest of city, hence opening up to jobs and opportunities, and act as a social equaliser that helps to break down boundaries and reduce crime.
 
-[Back to top](#case-study-9)
+[Back to top](#case-study)
 
 ---
 
@@ -79,7 +79,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 - More than 49,000 people are mobilised in the processes of socialisation, participation, workshops, tours and events.
 - Around 2,500 people are trained in agro-ecology, partnerships, construction, and landscape work, with 95 percent of the workers being local residents, of which 30 percent are women.
 
-[Back to top](#case-study-9)
+[Back to top](#case-study)
 
 ---
 
@@ -89,4 +89,4 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 - The non-conventional approach of how the city approached the issue of illegal settlers on the state-owned land along the urban-rural fringe could inspire other cities in similar situations to achieve a win-win scenario for all. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-9)
+[Back to top](#case-study)

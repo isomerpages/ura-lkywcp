@@ -21,7 +21,7 @@ Copenhagen and Malmö are widely recognised as two of the most sustainable citie
 
 Malmö, which has established itself as Sweden’s best city for cycling, aims to be the world’s most sustainable city in 2020[^1]. Test-bedding pilot projects, such as the development of sustainable districts, has already begun. In both cities systematic implementation and rigorous monitoring support the planning for low-carbon development, urban intensification and the continued push for cycling as a model of green mobility.
 
-The remarkable level of collaboration to achieve successful outcomes demonstrates the need for creative re-thinking of the structure of government and cities beyond municipal and national boundaries. The cities of Copenhagen and Malmö are exemplary for their forward-thinking vision and strategies. **<font color="#967942">O</font>*
+The remarkable level of collaboration to achieve successful outcomes demonstrates the need for creative re-thinking of the structure of government and cities beyond municipal and national boundaries. The cities of Copenhagen and Malmö are exemplary for their forward-thinking vision and strategies. **<font color="#967942">O</font>**
 
 ---
 

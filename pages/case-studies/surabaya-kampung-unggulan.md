@@ -27,7 +27,7 @@ description: Through training programmes and creating platforms for existing hom
 - The **Pahlawan Ekonomi** (Economic Heroes) programme seeks to empower women and housewives to become entrepreneurs and set up their own small and medium-sized businesses (SMB), with a target of 5,400 SMBs.
 - The city encouraged the use of empty lands for urban farming for both self-consumption and sales of surpluses to complement home-based economic activities. 
 
-[Back to top](#case-study-16)
+[Back to top](#case-study)
 
 ---
 
@@ -39,7 +39,7 @@ description: Through training programmes and creating platforms for existing hom
 - Traditional methods of intervention, such as training for increased productivity, are conducted by bureaucrats and historically achieved little impacts. 
 - Limited public funds and resources in the city.
 
-[Back to top](#case-study-16)
+[Back to top](#case-study)
 
 ---
 
@@ -52,7 +52,7 @@ description: Through training programmes and creating platforms for existing hom
 - Despite limited public funds and a per capita development budget of USD $191.70, the city achieved much success and buy-in from the people by working closely with the community, and giving them platforms where they could display their ingenuity and hard work. 
 - The city recognised the hurdles to personal development and took the first step of providing for the basic necessities of the people, such as free education through secondary level, free healthcare for all, and maternal care for the mother and child up to the age of six months. 
 
-[Back to top](#case-study-16)
+[Back to top](#case-study)
 
 ---
 
@@ -65,7 +65,7 @@ description: Through training programmes and creating platforms for existing hom
 - With many of the lower-income population already involved in agricultural activities, the city rolled out the urban farming programme to not only support local economy, but also form a key component of greening the city. 
 - Vacant public lands, especially those at the fringes of kampungs are used for vegetable and fish farming, and are managed by the community. Private landowners who turn their lands for urban farming receive up to one-third of the harvest, with the rest sold for profits. 
 
-[Back to top](#case-study-16)
+[Back to top](#case-study)
 
 ---
 
@@ -80,7 +80,7 @@ description: Through training programmes and creating platforms for existing hom
 - The success of the **Kampung Unggulan** project has inspired many other Indonesian cities and towns to emulate it in their own areas. 
 - The **Pahlawan Ekonomi** programme has successfully empowered some 5,000 housewives to build their own enterprises ranging from fashion to food and handicraft. 
 
-[Back to top](#case-study-16)
+[Back to top](#case-study)
 
 ---
 
@@ -91,7 +91,7 @@ description: Through training programmes and creating platforms for existing hom
 - Rather than reinventing the wheel, cities could tap onto the existing capabilities of the people by giving them platforms to showcase their skills and products, thus creating a self-reliant and sustainable local economy. 
 - Strategic interventions, such as the push for urban farming as part of the city greening programme, can help to achieve multiple effects of improving local economy as well as improve the urban environment. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-16)
+[Back to top](#case-study)
 
 ---
 

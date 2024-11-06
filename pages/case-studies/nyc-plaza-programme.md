@@ -25,7 +25,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - The NYC Plaza programme led by NYC Department of Transportation (DOT) converts underutilised road spaces into vibrant neighbourhood amenities/plazas by partnering local non-profit organisations and communities.
 - Times Square is most visible example, transformed almost overnight and with little expense from a place dominated by cars to one visited by hundreds of thousands of people daily. 
 
-[Back to top](#case-study-5)
+[Back to top](#case-study)
 
 ---
 
@@ -37,7 +37,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - Congested, poorly designed, and visually unappealing streets and sidewalks in Times Square.
 - The need to improve cyclists’ and pedestrians’ safety.
 
-[Back to top](#case-study-5)
+[Back to top](#case-study)
 
 ---
 
@@ -48,7 +48,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - The city funds the construction and partners not-for-profit organisations to maintain the spaces.
 - The city further supports plaza partners through supplementary activities such as 'Weekend Walks' and public art installation.
 
-[Back to top](#case-study-5)
+[Back to top](#case-study)
 
 ---
 
@@ -64,7 +64,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - Innovative treatments used such as protected bicycle paths between curbs and parking lanes, high-visibility green bicycle lanes, bike boxes and intersection markings, and redesigned bicycle racks. 
 - Partnering non-profit groups is a hallmark of the programme and redirects plaza resources to areas with strong local support. 
 
-[Back to top](#case-study-5)
+[Back to top](#case-study)
 
 ---
 
@@ -78,7 +78,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - 70% of theatre-goers at Times Square found the plazas having a positive impact on their experience; 74 percent of New Yorkers agreed that Times Square has improved dramatically since the plaza was redesigned; and 42 percent of New Yorkers in Times Square have shopped in the neighbourhood more often since the changes.
 - In line with NYC’s Bike Master Plan, 50 bicycle lane miles will be installed each year until the citywide 1,800 bicycle-lane mile network is complete in 2030.
 
-[Back to top](#case-study-5)
+[Back to top](#case-study)
 
 ---
 
@@ -90,4 +90,4 @@ description: Under its overall strategy to encourage active living, reduce carbo
 - NYC’s experiences offer replicable ideas, for example, audits of current conditions, community outreach, and using temporary and inexpensive pilots to test new ideas. 
 - Implementation of public plazas and a comprehensive bicycle network influenced cities from Baltimore to Berlin, São Paulo and Sydney. **<font color="#967942">O</font>**
 
-[Back to top](#case-study-5)
+[Back to top](#case-study)

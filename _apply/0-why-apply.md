@@ -5,27 +5,17 @@ image: /images/features/2024/why-apply2.png/
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 
-![Why why tell me why](/images/features/2024/why-apply2.png/)
-
 #### **Why apply for the Prize?**
 
 By applying for the Prize, you will get to: 
 
-1. **Assess your city’s potential**: Undertake a rigorous self-evaluation process through the submission report to delve deep into your city’s data to identify strengths, weaknesses, and areas for improvement. 
-2. **Showcase your city’s brilliance**: Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead.
-3. **Be among a global community of innovators**: Learn from and collaborate with leaders from other Prize cities to address shared challenges
-
-➜ [View case studies from the Prize cities](/case-studies/)
+| **01** | **Assess your city’s potential** <br> Undertake a rigorous self-evaluation process through the submission report to delve deep into your city’s data to identify strengths, weaknesses, and areas for improvement. | 
+| **02** | **Showcase your city’s brilliance**  <br> Highlight up to 5 impactful projects that exemplify your city’s urban initiatives and inspire other cities to follow your lead. | 
+| **03** | **Be among a global community of innovators**  <br> [Learn from other Prize cities](/case-studies) and collaborate with these leaders to address shared challenges. |
 
 #### **Winner benefits**
 
-The 2026 Prize Laureate and Special Mentions will get to:
-
-1. **Gain international recognition**: Receive prestigious awards at the Lee Kuan Yew World City Prize Award Ceremony & Banquet, gaining worldwide recognition as a leader in urban innovation and sustainable development.
-2. **Unlock new opportunities through our network of innovative cities**: Access exclusive networking events, exchange ideas and best practices to accelerate your city’s progress. 
-3. **Drive positive change**: Influence and inspire cities through a dedicated platform for knowledge sharing and collaboration.
-
-| Full list of benefits | 2026 Prize Laureate | 2026 Special Mentions |
+| | 2026 Prize Laureate | 2026 Special Mentions |
 |:---|:---:|:---:|
 | Cash Prize of Singapore Dollars $300,000 | ✓ |  |
 | Gold Medallion (valued at Singapore Dollars $50,000) | ✓ |  |
@@ -38,8 +28,17 @@ The 2026 Prize Laureate and Special Mentions will get to:
 | International media coverage[^2] | ✓ | ✓ |
 | Participate in knowledge-sharing and capacity-building programmes | ✓ | ✓ |
 
-➜ [Find out more about the 2026 Prize](/prize-cycle/) <br>
-➜ [Apply now!](https://go.gov.sg/nominations)
+#### **Prize Cycle**
+
+###### ![Prize cycle](/images/prize-cycle.png)
+
+<br>
+
+|---:|:---|
+| **Stage A Nominations** | Cities interested in applying for the Prize must secure a nomination from an independent third-party expert in urban planning and cities, such as a professor of urban planning or a related field. Self-nominations will not be accepted, and nominators without relevant expertise in urban fields may be disqualified. <br> ➜ [Stage A Nominations](/stage-a/) |
+| **Stage B Submissions** | Following a valid nomination, nominated cities will be notified to prepare and submit a comprehensive written report for the jury's evaluation. Returning applicants have the option to provide an update on specific areas, rather than a full report. <br> ➜ [Stage B Submissions](/stage-b) |
+| **Evaluations** | A two-tier evaluation process is used to select the winner. The Nominating Committee reviews all submissions and shortlists the top contenders, which are then reviewed by the Prize Council to select the winner. If needed, additional information may be requested or site visits conducted to support the evaluation, with the Prize Secretariat covering all related costs. <br> ➜ [Evaluation Process and Criteria](/evaluations/) |
+| **Results & Award** | The winners will be announced in an official press release, showcasing their achievements and success stories. They will receive their awards and share their experiences at high-profile events, and have their stories featured on the Prize's online platforms and marketing materials, providing opportunities for recognition and sharing their accomplishments with a wider audience. |
 
 ---
 

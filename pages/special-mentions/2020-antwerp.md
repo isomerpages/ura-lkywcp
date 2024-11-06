@@ -31,7 +31,7 @@ Antwerp has demonstrated that there are merits to a ‘Slow Urbanism’ developm
 
 The sense of cooperation that transcends all levels from citizens to city administration sends a strong signal that solutions can gain widespread acceptance if governments are willing to work with citizens to co-create solutions. Antwerp’s achievements thus far carry significant lessons for many cities tackling the complex challenge of integrating historical infrastructure with modern city planning. **<font color="#967942">O</font>** 
 
---
+---
 
 ##### **Case studies** 
 
