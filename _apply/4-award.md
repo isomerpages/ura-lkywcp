@@ -28,8 +28,6 @@ The Lee Kuan Yew World City Prize Network Convening Session brings together the 
 | The above events are key highlights of the [World Cities Summit](https://www.worldcitiessummit.com.sg) – an exclusive platform for government leaders and industry experts to address liveable and sustainable city challenges, share integrated urban solutions, and forge new partnerships. |
 ||
 
----
-
 #### **Questions?**
 
 - [Frequently Asked Questions](/faq/)
