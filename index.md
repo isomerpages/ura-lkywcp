@@ -26,13 +26,13 @@ sections:
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infopic:    
-        title: Behind New York City’s POPS stars
-        subtitle: Interview with Edith Hsu-Chen
-        description: How did New York City create nearly 600 privately owned public spaces (POPS)? Edith Hsu-Chen, Executive Director of NYC's Department of Planning, credits strong public-private partnerships and innovative, evolving regulations tailored to foster unique and vibrant spaces.
+        title: Power of placemaking lies in local communities
+        subtitle: Interview with Christopher Law
+        description: Explore how Chengdu’s Taikoo district blends sacred temples with buzzing commercial spaces to create unforgettable places and vibrant communities with insights from placemaking expert Christopher Law of The Oval Partnership.
         button: Read the interview
-        url: /edith-hsu/
-        image: /images/features/2024/interview-edith.jpg
-        alt: Edith Hsu
+        url: /christopher-law/
+        image: /images/features/2024/taikoo1.jpg
+        alt: Christopher Law
     - infobar:
         title: 6 lessons from Mexico City
         subtitle: Interview with Eduardo Clark
