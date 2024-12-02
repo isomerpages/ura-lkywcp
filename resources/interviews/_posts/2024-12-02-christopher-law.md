@@ -33,56 +33,38 @@ But some public spaces can be impactful and profound without much embellishment 
 
 Such an empty space can also create a strong sense of place. We can tell great stories about the meaning and spirit of places even through emptiness.
 
-#### **New York City has almost 600 privately owned public spaces. How does the city government work with the private sector to create such an impressive number of public spaces?**
+#### **You led the rejuvenation of Chengdu’s Taikoo Li district in developing its 2014 master plan, effectively blending its six historic buildings with more modern amenities in shopping, dining and entertainment. What can we learn from this in ensuring the viability of such historic destinations?**
 
-**Edith:**  We have been prioritising the creation of public spaces in private properties since the 1960s. Our initial focus was for public spaces to provide relief especially in denser areas. But over time, we saw that public spaces were important not just for mitigating density but can also help to make the city more welcoming, inviting and inclusive.   
+**Christopher:**  The district is anchored by its 1,300-year-old Buddhist Daci Temple. This meant that all the revitalisation efforts should be centred on how we can respect and honour the spiritual nature of the temple. We spent time understanding the temple and neighbourhood’s history and the stories and meaning behind the place as the basis on how we can interpret and add on the modern layers. One thing we noticed about such ancient places of worship, whether it is historic temples in China and Japan or medieval churches in Europe, there are usually vibrant markets located outside of them.  
 
-In the beginning, the focus was just to provide a simple public space on the ground floor of the building so that people can walk through it. Over time, we refined our regulations to include finer elements such as indoor covered pedestrian spaces, seating and landscaping etc. We have also expanded our public space programme to ensure that provision of such spaces is not just in high-density areas.
+###### ![The charm of Chengdu’s Taikoo district lies in its careful juxtaposition of ancient temples and modern buildings, blending old and new elements beautifully](/images/features/2024/taikoo3.jpg/)**The charm of Chengdu’s Taikoo district lies in its careful juxtaposition of ancient temples and modern buildings, blending old and new elements beautifully** © Oval Partnership
 
-###### ![Broadway at West 26th Street, made pedestrian-friendly through “Broadway Vision” redesign project](/images/features/2024/broadway.jpg/)**Broadway at West 26th Street, made pedestrian-friendly through “Broadway Vision” redesign project** © NYC Department of Transportation
+Thus, in our master plan for the area, we wanted to continue with this thousand-year-old tradition of mixing the holy with commercial spaces. Just like in a good story, we all want to be provoked and surprised. It is the contrast of locating the spiritual temples alongside the commercial spaces that are more profane and secular in contrast, that makes this place more interesting and viable.
 
-We see the provision of public spaces in private properties as the ultimate public-private partnership. The government cannot pay for everything. So, what we did was we pioneered and wrote our regulations to mandate and encourage the private sector to deliver public amenities with the right incentives. For example, if developers provide a plaza or an open space in their properties’ ground floor, they will get six or 10 square feet (0.56 or 0.93 square metres) of extra floor area per one square foot of public space. For different kinds of public spaces provided like an arcade or a covered pedestrian space, the extra floor area will differ.  
+###### ![The commercial spaces alongside the historic temples in Chengdu’s Taikoo district continues the thousand-year tradition of mixing sacred elements with commercial spaces](/images/features/2024/taikoo4.jpg/)**The commercial spaces alongside the historic temples in Chengdu’s Taikoo district continues the thousand-year tradition of mixing sacred elements with commercial spaces** © Oval Partnership
 
-In coming up with the right incentives for the private sector, we must find the right balance of incentives that are necessary and sufficient and are not just a giveaway to the private sector. The incentives have to be generous enough for the private sector to find it viable to provide public spaces in their properties and they too have to do their own analysis to assess if this can work for them.
+#### **For historic districts to continue to stay relevant, what should stakeholders focus on? Can we still retain our traditional businesses, while keeping up with the times?**
 
-#### **After so many years, how is the private sector embracing the provision of public spaces in private properties?**
+**Christopher:** I believe the communities and stakeholders within historic districts have the wisdom to adapt their traditional businesses to keep up with the times while retaining the area’s rich heritage. One of the assets of such districts is its intangible heritage, which can be leveraged on to explore new business opportunities.  
 
-**Edith:** When I started working in the city planning sector 25 years ago, there was more resistance from private property owners to provide public spaces even if they could get additional bonus floor area as they will still need to maintain the public space over time.  
+###### ![The Blue House in Hong Kong](/images/features/2024/blue-house.jpg/)**The Blue House in Hong Kong** © Oval Partnership
 
-It has taken decades to create an expansive array of public spaces throughout the city. Given the momentum that we have built over the years, there is now a strong desire in the private sector for their developments to be an integral part of the cityscape and public realm.  
+For example, as the Chairman of the Blue House Steering Committee in Hong Kong for over 20 years, I’ve observed how communities have turned their intangible heritage into a viable business opportunity. The housewives in the Blue House area came together to bake special mooncakes which is an intangible heritage for the area. They used traditional recipes and ingredients to make the mooncakes, which make them unique to the area. They have become very popular and sell out quickly every year.
 
-It is exciting to now see developers wanting to deliver the next coolest and best public space. We also have private property owners come to us wanting to explore new public space ideas. People are realising that designing a building to be a part of the public realm will not only enhance the prestige of the building and the company, but it is also good for the city and people too. 
+#### **You have shared that placemaking goes beyond making a street vibrant or having higher retail returns. What does placemaking mean to you?**
 
-#### **As a planner, what have you learnt in encouraging and shaping public space provisions?**
+**Christopher:** Placemaking is a powerful way to build a strong sense of place, identity and belonging. Beyond just creating more vibrant streets and places, it is about communities coming together to develop solutions that address real social issues and challenges. This can build stronger economic and social capital, enhancing people’s quality of life.   
 
-**Edith:** What is most critical is that we need to continuously keep learning, calibrating and adjusting our regulations and amenities’ needs as we go along to ensure that we are delivering what people need today and in the future.  
-
-It is also important to bear in mind that all public spaces are different. While there are similar traits in many of our public spaces, there are no two identical spaces. Every property is different. Every location is different. One space may need more circulation while another space may need more seating.  
-
-As planners, when drafting the regulations and guidelines, we should not just cater for the lowest common denominator. We need to cater for and allow for outliers, for each public space to be unique and interesting. 
+An example of a placemaking effort that has helped to build a stronger social capital is a project we were involved in, in the eastern part of Hong Kong. In key neighbourhoods where there were a higher proportion of seniors, we were exploring how the seniors could play more active roles. The residents came up with the idea of pairing 70-year-old seniors with 25-year-olds to share with one another places where they date. This made the seniors feel a greater sense of pride in being able to share their stories. It also made the young view their seniors and the neighbourhoods in a new light. The idea resulted in creating unique walking tours for the public on the history of key neighbourhoods and interesting places for dating.  
 
 <br>
-> ##### "As planners, when drafting the regulations and guidelines, we should not just cater for the lowest common denominator. We need to cater for and allow for outliers, for each public space to be unique and interesting."
-<div align="right"><b>— Edith Hsu</b></div>
+> ##### "Placemaking is a powerful way to build a strong sense of place, identity and belonging. Beyond just creating more vibrant streets and places, it is about communities coming together to develop solutions that address real social issues and challenges. This can build stronger economic and social capital, enhancing people’s quality of life."
+<div align="right"><b>— Christopher Law</b></div>
 
-#### **What is one public space in New York City that you find most memorable?**
+#### **For effective placemaking, what are key skills we need to develop for practitioners and in communities?**
 
-**Edith:**  I continue to find the High Line very memorable. It is a great example of successful public-private partnership which remains today even in its maintenance and programming.
-
-###### ![The Highline, New York, NY](/images/features/2024/highline9.jpg/)**The Highline, New York, NY** © Brittany Petronella for NYC Tourism
-
-What many may not know is for the preservation of the High Line as a public amenity to be viable, we had to create a new transfer district spanning the entire length of the High Line. If your property is right next to the High Line, you can enjoy the transfer of development rights from the High Line. Property owners benefit from this in supporting their new construction projects. They get to build taller buildings along it. This ensures that there is lesser loss of development potential for their properties.  
-
-As a result of investing in such a public amenity, within a few years of the High Line opening, billions of dollars were invested in real estate and the West Chelsea corridor, enhancing the entire neighbourhood. The High Line was a wonderful experiment and project for the city because it defied a lot of rules. A lot of people said an elevated public space won't work. Many said no one wants to be 30 feet above the ground and walking so close to apartments. You can look inside someone's apartment. It’s a bit strange, but it's quite wonderful. 
-
-#### **Since New York City was awarded the Lee Kuan Yew World City Prize Laureate in 2012, what has been one major shift you have observed?**
-
-**Edith:** One of the biggest shifts has been a stronger and deeper focus on enhancing our public realm. People are expecting more from the public realm and enhancements are also being delivered. Our public realm has improved significantly in the past decade.
-
-###### ![Fresh Kills Park](/images/features/2024/fresh-kills-park.jpg/)**Illustrative site plan of Fresh Kills Park, Staten Island, NY.  The largest park developed in New York City in over a century, Fresh Kills is transforming of what was once the world’s largest landfill into a sustainable, publicly-accessible park.** © Fresh Kills Park Alliance
-
-The 9/11 event was also a pivotal moment where many felt that the city was taken away from them and destroyed in a way. It created enduring values and a fighting spirit where it motivates us to want to be part of rebuilding the city in coming out even stronger, making sure that we show that New York City is for everyone. This means investing heavily in our public realm. **<font color="#967942">O</font>** 
+**Christopher:** Listening is an important communication skill in placemaking. As part of the listening process, placemakers need to first learn to be aware of their own personal prejudices and agendas. This will help them become more objective when listening to others in trying to understand and empathise with their stories, challenges and needs. Beyond listening, placemakers also need to be able to manage disagreements and diverse views to build consensus amongst stakeholders. **<font color="#967942">O</font>** 
 
 ---
 
-| **Edith Hsu-Chen** is the Executive Director of the New York City Department of City Planning. In partnership with the Chair of the City Planning Commission, Executive Director Hsu-Chen is responsible for setting and implementing the City’s planning and development agenda, promoting inclusive and equitable growth throughout the five boroughs. One of her current priorities is to deliver on the administration’s “City of Yes” planning initiative. This three-part modernisation of the zoning code will help New York City achieve carbon neutrality, expand economic opportunities, and provide housing for all. Between 2008 and 2022, she served as the planning director for the borough of Manhattan. Throughout her career, she has implemented a multitude of plans focused on improving neighborhoods as great places to live, work and play, and modernising New York’s business districts to enhance their competitive edge. |
+| **Christopher Law** is a leading practitioner on sustainable urbanism and neighbourhood development. He founded Oval Partnership in 1992 with Patrick Bruce. Under his leadership in the Oval Partnership, he developed the Open City design principle, manifested in the award-winning Sanlitun Taikoo Li Beijing and Taikoo Chengdu projects. He is a member of a number of public sector and third sector committees in Hong Kong including the Urban Design Advisory Group of the Development Bureau and the Public Private partnership Committee of the West Kowloon Cultural District. He is also the Chairman of the Blue House development in Hong Kong. |
