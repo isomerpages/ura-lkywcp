@@ -23,13 +23,15 @@ Through stories about places, people can find their own resonance in relating pl
 
 While the book examines the basis of storytelling in literature and film, it reminds us on the real purpose of storytelling that connects to our inner most psyche. In telling stories about places, we should think about building the plot and creating protagonists. We have to remember that the key focus of places is not just about the buildings, it is always about people.   
 
-#### **What does a good public space look like to you?**
+#### **A key aspect of placemaking is in activating and curating great public spaces. What are some public space qualities we should pay closer attention to?**
 
-**Edith:** A good public space is one that's inviting and cater for a diversity of people, not just for one generation or one gender. Whether you are using public spaces to rest, eat, read, or meet with friends and family, you should feel safe. The space should also be highly visible and accessible. 
+**Christopher:** Every public space in our cities is different and they all play different roles. We need to plan and cater for a diverse range. A good public space should have essential qualities such as having good edges and a sense of enclosure. Many of the public spaces that we love tend to be engaging and vibrant.
 
-###### ![1095 Sixth Avenue, New York, NY](/images/features/2024/sixth-avenue.jpg/)**1095 Sixth Avenue, New York, NY** ©  NYC Department of City Planning
+###### ![An example of the many diverse public spaces designed in Chengdu’s Taikoo district from vibrant ones to quieter spaces for people to relax in](/images/features/2024/taikoo2.jpg/)**An example of the many diverse public spaces designed in Chengdu’s Taikoo district from vibrant ones to quieter spaces for people to relax in** ©  Oval Partnership
 
-Over the years, we've been refining our regulations to enhance the design of public spaces, for them to have more porous openings and better sight lines and visibility, removing blocked areas so that you can see and enjoy the entire public space thoroughly.
+But some public spaces can be impactful and profound without much embellishment or having a large crowd. You will notice that there are spaces in medieval monasteries or universities where they may have a lawn, courtyard or a quiet space in its central area.
+
+Such an empty space can also create a strong sense of place. We can tell great stories about the meaning and spirit of places even through emptiness.
 
 #### **New York City has almost 600 privately owned public spaces. How does the city government work with the private sector to create such an impressive number of public spaces?**
 
