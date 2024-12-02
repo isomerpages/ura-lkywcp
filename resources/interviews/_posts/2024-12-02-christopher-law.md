@@ -1,25 +1,27 @@
 ---
-title: Behind New York City’s POPS stars
+title: Power of placemaking lies in local communities
 permalink: /christopher-law/
 image: /images/features/2024/chris-law.jpg
-description: How did New York City create its almost 600 privately owned public spaces (POPS)? Edith Hsu-Chen, Executive Director, New York City Department of Planning says it is about close public-private partnerships and constantly fine tuning regulations or even pioneering new ones to cater for unique and interesting public spaces. 
+description: Part of the success of Chengdu’s Taikoo district in China lies in the juxtaposition of its sacred temples and commercial spaces which are more quotidian in contrast, says Christopher Law, Founder of architectural and placemaking firm, the Oval Partnership. He takes us through ancient temples and historic neighbourhoods to understand the power of placemaking in creating more memorable places and stronger communities. 
 ---
 
-##### How did New York City create its almost 600 privately owned public spaces (POPS)? Edith Hsu-Chen, Executive Director, New York City Department of Planning says it is about close public-private partnerships and constantly fine tuning regulations or even pioneering new ones to cater for unique and interesting public spaces.
+##### Part of the success of Chengdu’s Taikoo district in China lies in the juxtaposition of its sacred temples and commercial spaces which are more quotidian in contrast, says Christopher Law, Founder of architectural and placemaking firm, the Oval Partnership. He takes us through ancient temples and historic neighbourhoods to understand the power of placemaking in creating more memorable places and stronger communities.
 
 | Writer |
 | ---: |
 | Serene Tng |
 
-###### ![Edith Hsu](/images/features/2024/interview-edith.jpg/)**Interview with Edith Hsu-Chen when she was in Singapore** © Urban Redevelopment Authority Singapore
+###### ![Christopher Law](/images/features/2024/chris-law.jpg/)**Christopher Law (first from right) at the 2024 Place Management Seminar in Singapore** © Urban Redevelopment Authority Singapore
 
-#### **You have shared that “every world class Central Business District (CBD) needs a world class public realm”. Why is it so important to invest heavily in enhancing our public realm?**
+#### **You have shared that building a compelling narrative and telling great stories are critical for placemaking. Why is this important?**
 
-**Edith:**  The Central Business District in East Midtown has an incredible history with many banking, law, finance and real estate companies located here, including Fortune 500 companies. But over time, it started to lose its appeal not just to people coming to work here or are passing through but to corporations as well because it was too focused on offices. Beyond just coming to the offices to work, outside of these, it felt dead and quiet. There was not enough engaging street life and public spaces. It did not appeal to a wider diversity of the larger population beyond the CBD workers. 
+**Christopher:** Storytelling is often underestimated as a vehicle for placemaking efforts. It is a simple yet powerful way of communicating with and engaging people from different walks of life about a place. From the hawker, to the cleaner and even children, it is a universal medium that can make a place feel more relatable, endearing and come alive. 
 
-###### ![Times Square, New York City](/images/features/2024/times-square-nyc.jpg/)**Times Square, New York City** © NYC Department of Transportation
+###### ![Storytelling was used strategically to engage and get stakeholders’ support for the revitalisation efforts of Chengdu’s Taikoo district](/images/features/2024/taikoo1.jpg/)**Storytelling was used strategically to engage and get stakeholders’ support for the revitalisation efforts of Chengdu’s Taikoo district.** © Oval Partnership
 
-For world-class CBDs to function well, it is no longer enough to just cater for quality office buildings, investing heavily in the public realm has become critical. A city is ultimately for everyone. For New York City, where there is so much diversity and dynamism, the real action is on our sidewalks, our streets, our public spaces, parks and school playgrounds and even in public spaces within private properties. It is where we are meeting and interacting with people. 
+Through stories about places, people can find their own resonance in relating places to their personal experiences, stories and interests. A book that may be of interest to placemakers is “The Seven Basic Plots: Why We Tell Stories (2004)” by the British journalist and author, Christopher Booker.  
+
+While the book examines the basis of storytelling in literature and film, it reminds us on the real purpose of storytelling that connects to our inner most psyche. In telling stories about places, we should think about building the plot and creating protagonists. We have to remember that the key focus of places is not just about the buildings, it is always about people.   
 
 #### **What does a good public space look like to you?**
 
