@@ -34,9 +34,9 @@ sections:
         image: /images/features/2024/taikoo1.jpg
         alt: Christopher Law
     - infobar:
-        title: 6 lessons from Mexico City
-        subtitle: Interview with Eduardo Clark
-        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/If7e8Z5iUug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        title: 4 lessons from Wellington
+        subtitle: Interview with Deputy Mayor Laurie Foon
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vF-SNUxO2cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/@worldcityprize/
     - infopic:    
