@@ -12,11 +12,15 @@ published: true
 
 The Lee Kuan Yew World City Prize Laureate and Special Mentions are honoured at the prestigious Lee Kuan Yew World City Prize Award Ceremony & Banquet, a distinguished event celebrating urban innovation and excellence. This occasion provides a unique platform for networking with esteemed global mayors and city leaders, fostering meaningful connections and collaborations.
 
+---
+
 #### **Prize Lecture**
 
 ###### ![Lee Kuan Yew World City Prize Lecture at World Cities Summit 2024](/images/features/2024/prize-lecture-2024.jpg/)**Lee Kuan Yew World City Prize Lecture at World Cities Summit 2024** © Damien Woon
 
 The Lee Kuan Yew World City Prize Laureate and Special Mentions will share their achievements and outstanding urban initiatives at the Lee Kuan Yew World City Prize Lecture, where they present their innovative urban initiatives and discuss the challenges and solutions they have encountered along the way. This lecture provides attendees with valuable insights into best practices for creating liveable and resilient cities, sparking discussions on practical approaches to urban sustainability.
+
+---
 
 #### **Convening Session**
 
