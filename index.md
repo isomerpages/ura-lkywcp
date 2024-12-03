@@ -8,7 +8,7 @@ published: true
 notification: 
 sections:
     - hero:
-        title:  <img src="/images/features/2024/apply-now.png">
+        title:  <img src="/images/features/2024/apply-now.png" alt="apply now image">
         subtitle: 
         background: /images/herobanner.gif
         button: 
@@ -21,7 +21,7 @@ sections:
         title: Call for nominations
         subtitle: 2026 Prize
         description: Nominations for the 2026 Prize now open! Apply now to assess your city’s potential, showcase its brilliance, and be among a global community of innovators.
-        button: More info
+        button: Apply now!
         url: /stage-a/
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
