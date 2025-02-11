@@ -64,8 +64,8 @@ With the media turning to us to understand what was happening in the downtown ar
 From a public perception perspective, we created Sundays on State, an event series that closes State Street to vehicular traffic for select Sundays, filling the street with active recreation, arts and culture, food and drink and retail. The interactive block party attracts hundreds of thousands of Chicagoans and visitors, uniting the community, stimulating the economy and reinforcing that the Loop is safe, inclusive and enjoyable. 
 
 <br>
-> ##### "Placemaking is a powerful way to build a strong sense of place, identity and belonging. Beyond just creating more vibrant streets and places, it is about communities coming together to develop solutions that address real social issues and challenges. This can build stronger economic and social capital, enhancing people’s quality of life."
-<div align="right"><b>— Christopher Law</b></div>
+> ##### "This is what placemaking is all about. Beyond having more engaging streets and spaces, you are also creating unforgettable experiences for people."
+<div align="right"><b>— Michael Edwards</b></div>
 
 #### **Post-pandemic, how do you see downtowns evolving and changing?**
 
