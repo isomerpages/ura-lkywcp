@@ -28,7 +28,7 @@ sections:
     - infopic:    
         title: How can we create more memorable downtowns?
         subtitle: Interview with Michael Edwards
-        description: Michael Edwards, Chicago Loop Alliance CEO, shares strategies for vibrant downtowns: curating experiences, using data, and showcasing successes to maintain city centre appeal.
+        description: Michael Edwards, Chicago Loop Alliance CEO, shares strategies for vibrant downtowns - curating experiences, using data, and showcasing successes to maintain city centre appeal.
         button: Read the interview
         url: /michael-edwards/
         image: /images/features/2024/activate.jpg
