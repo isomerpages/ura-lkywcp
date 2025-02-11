@@ -26,17 +26,17 @@ sections:
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infopic:    
-        title: Power of placemaking lies in local communities
-        subtitle: Interview with Christopher Law
-        description: Explore how Chengdu’s Taikoo district blends sacred temples with buzzing commercial spaces to create unforgettable places and vibrant communities with insights from placemaking expert Christopher Law of The Oval Partnership.
+        title: How can we create more memorable downtowns?
+        subtitle: Interview with Michael Edwards
+        description: Michael Edwards, Chicago Loop Alliance CEO, shares strategies for vibrant downtowns: curating experiences, using data, and showcasing successes to maintain city centre appeal.
         button: Read the interview
-        url: /christopher-law/
-        image: /images/features/2024/taikoo1.jpg
-        alt: Christopher Law
+        url: /michael-edwards/
+        image: /images/features/2024/activate.jpg
+        alt: Michael Edwards
     - infobar:
-        title: 4 lessons from Wellington
-        subtitle: Interview with Deputy Mayor Laurie Foon
-        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vF-SNUxO2cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        title: Cape Town's V&A Waterfront success
+        subtitle: Interview with CEO David Green
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/RCgkf1TtTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More videos
         url: https://www.youtube.com/@worldcityprize/
     - infopic:    
