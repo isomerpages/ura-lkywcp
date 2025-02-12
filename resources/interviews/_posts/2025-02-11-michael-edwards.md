@@ -57,7 +57,7 @@ With the media turning to us to understand what was happening in the downtown ar
 
 From a public perception perspective, we created Sundays on State, an event series that closes State Street to vehicular traffic for select Sundays, filling the street with active recreation, arts and culture, food and drink and retail. The interactive block party attracts hundreds of thousands of Chicagoans and visitors, uniting the community, stimulating the economy and reinforcing that the Loop is safe, inclusive and enjoyable. 
 
-###### ![Sundays on State by Chicago Loop Alliance](/images/features/2024/restore.jpg/)**Sundays on State by Chicago Loop Alliance** © Chicago Loop Alliance
+###### ![Sundays on State by Chicago Loop Alliance](/images/features/2024/sundays.jpg/)**Sundays on State by Chicago Loop Alliance** © Chicago Loop Alliance
 
 #### **Post-pandemic, how do you see downtowns evolving and changing?**
 
