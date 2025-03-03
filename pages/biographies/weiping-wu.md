@@ -6,11 +6,11 @@ permalink: /weiping-wu/
 
 <div style="width:150px"><img src="/images/jury/weiping-wu.png" alt="Weiping Wu" /></div>
 
-##### **Prof Weiping <u>Wu</u>** <br> Member, Lee Kuan Yew World City Prize Nominating Committee <br> Professor, Director of Urban Planning Programme, Columbia GSAPP <br> USA
+##### **Prof Weiping <u>Wu</u>** <br> Member, Lee Kuan Yew World City Prize Nominating Committee <br> Vice Provost for Academic Programs, Professor and Director of Urban Planning Programme, Columbia GSAPP <br> USA
 
 ---
 
-**Weiping <u>Wu</u>** is Professor of Urban Planning, and Director of the Urban Planning programs at Columbia University Graduate School of Architecture, Planning and Preservation. She served as Interim Dean of the School during spring and summer 2022. At Columbia, she also is on the faculty of the Weatherhead East Asian Institute and Columbia Population Research Center. Before joining Columbia in 2016, she was Professor and Chair in the Department of Urban and Environmental Policy and Planning at Tufts University.
+**Weiping <u>Wu</u>** is Vice Provost for Academic Programs, Professor and Director of the Urban Planning programs at Columbia University Graduate School of Architecture, Planning and Preservation. She served as Interim Dean of the School during spring and summer 2022. At Columbia, she also is on the faculty of the Weatherhead East Asian Institute and Columbia Population Research Center. Before joining Columbia in 2016, she was Professor and Chair in the Department of Urban and Environmental Policy and Planning at Tufts University.
 
 Trained in architecture and urban planning, Professor Wu has focused her research and teaching on understanding urban dynamics in developing countries in general and China in particular. She is an internationally acclaimed urban and planning scholar working on global urbanisation with a specific expertise in issues of migration, housing, and infrastructure of Chinese cities. Her publications include nine books, as well as many articles in top international journals. Her published work has gained an increasing public presence, particularly her book The Chinese City (now in second edition). It offers a critical understanding of China’s urbanisation, exploring how the complexity of Chinese cities both conforms to and defies conventional urban theories and experience of cities elsewhere around the world. 
 
