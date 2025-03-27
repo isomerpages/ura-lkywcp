@@ -83,10 +83,4 @@ In addition, we have an active Board with approximately 45 members who come from
 
 Ultimately, you must learn to promote and sell your own efforts. People want to be part of our group because they know about our successes and stories. This is an important aspect to focus on in attracting and increasing the membership for BIDs. **<font color="#967942">O</font>** 
 
----
-
-| **Michael M. Edwards** is the President and CEO of Chicago Loop Alliance. Since joining Chicago Loop Alliance in 2012, Edwards – an economic development expert – has been guiding efforts in promoting a high-performing urban experience that attracts people and investment to the Loop. Edwards is a founding member (2018) of the Global Business District Innovation Club in Paris; a Senior Fellow of the Institute of Place Management in Manchester, UK; as well as a member of the International Downtown Association Board of Directors. Edwards is an expert in downtown management and frequently speaks internationally on key downtown opportunities and challenges. |
-
----
-
-[^1]: A BID is a business-led and -funded body formed to improve a defined area. It is a formal place management model commonly adopted in cities in America, Europe and others. Times Square Alliance in the United States and New West End Company in the United Kingdom are examples of established BIDs. 
+ 
