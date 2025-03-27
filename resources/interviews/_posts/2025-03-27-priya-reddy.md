@@ -11,76 +11,67 @@ description: Behind Cape Town’s most severe water shortage in 2017 and 2018 li
 | ---: |
 | Serene Tng | 
 
-#### **You have been leading Chicago Loop Alliance since 2012. Tell us about this nonprofit placemaking group**
+#### **Share with us the circumstances leading to the need to launch the “Day Zero” campaign.**
 
-**Michael:** Chicago Loop Alliance (CLA), a Business Improvement District (BID)[^1], was formed in 2005, overseeing the Chicago Loop, the largest central business district in the U.S. outside of Midtown Manhattan in New York. 
+**Priya:** Even before this water shortage crisis, we already had some water use restriction for some years. Towards the end of 2016, we were told that things weren’t looking good in terms of the city’s water supply. We have not experienced rain for some time. In the background, our engineers and those from our water department were working hard to ensure that we had contingency plans to manage our water supply. By June 2017, we had already started asking people to reduce their water consumption to about 100 litres of water per person per day. 
 
-###### ![State Street, managed by the Chicago Loop Alliance](/images/features/2024/state-street.jpg/)**State Street, managed by the Chicago Loop Alliance.** © Adam Alexander
+The turning point came when we realised that if we did not drastically reduce our water consumption, water will literally stop coming out from our taps. 
 
-There are 55 Special Service Areas (SSAs) established since 1977, and the legislation of BIDs introduces a replacement option to SSAs. These are local districts that support enhanced maintenance and marketing efforts of key areas, tapping on additional localised property tax levies that building owners pay. CLA helps to maintain State Street, the oldest and largest Special Service Area in Chicago.
+Very often, communications staff like me are usually the last to know when a challenge like this unfolds. But as part of addressing the issue had to do with persuading people to reduce their water consumption, we became the first to know. We were able to develop a communications strategy and campaign right from the start with the budget and resource we needed. 
 
-Supported by 300 businesses, organisations, and individuals throughout Chicago, we contribute actively to making the downtown a more vibrant place for business and an attractive lifestyle destination for residents, workers and tourists.
+Beyond the water saving measures we put in place, from repairing water leaks to placing water management devices in homes, communications played a vital role in encouraging individuals and businesses to significantly reduce their water consumption. 
 
-#### **One of the key things that the Alliance has focused on is in creating positive experiences through initiatives like ACTIVATE. Introduced in 2014, it has brought life to unexpected spaces in the downtown. Tell us more.**
+We implemented the “Day Zero” water campaign from January to December 2018 to rally people to significantly reduce their water consumption. By the time we launched the campaign, water consumption was restricted to 50 litres per person per day. 
 
-**Michael:**  The idea behind ACTIVATE is to activate forgotten and underutilised spaces in the downtown area. These can be streets, back alleys or spaces that people may walk past every day but hardly notice them. 
+#### **How did the term “Day Zero” as the campaign title came about? **
 
-###### ![ACTIVATE events often include artists, musicians and others in creating a vibrant atmosphere for people](/images/features/2024/activate.jpg/)**ACTIVATE events often include artists, musicians and others in creating a vibrant atmosphere for people** ©  Torque
+**Priya:** The words, “Day Zero” was used by our water department colleagues in describing the situation. We had consulted with economists, academics and communications consultants on how best to communicate the situation effectively to people. We were advised that using “Day Zero” would be an effective communication term to use to make people realise how dire the water shortage was. 
 
-We try to activate different streets or spaces a few times each year. With each activation, the location always remains a mystery, creating an element of surprise. People will get invited a week before the event to a different place each time. Such events typically attract a lot of people. The street or space is transformed into a lively street festival. Each activation has different programming. There could be music performances. There could be marching bands and unique art installations. Or the street could be turned into a fashion runway. 
+I was initially not comfortable with the use of the words. It implies that that would be a day that we would have no water at all. It wasn't the case. We were not going to have no water at all. It was more that water may not come out of our individual taps, but you could still go to communal areas to get water. This scenario was already a very stark one for people to experience. 
 
-###### ![An example of an ACTIVATE event](/images/features/2024/activate2.jpg/)**An example of an ACTIVATE event** © Chicago Loop Alliance
+When we eventually launched the “Day Zero” campaign, it was meant to reflect the day that water stopped coming out of individual taps, not the day that you would have no water at all. 
 
-As a result of ACTIVATE over the years, we have created over 30 permanent murals in various streets and back alleys, engaging over 700 artists to activate alleys in a special way. Businesses in the area also benefit from the crowds spilling over to nearby cafes and shops. 
+#### **How did you use “Day Zero” in the campaign itself?**
 
-This is what placemaking is all about. Beyond having more engaging streets and spaces, you are also creating unforgettable experiences for people. 
+**Priya:** “Day Zero” was the worst-case scenario that we were all trying to avoid. It was a moving target in a way. In communications, we usually try to avoid painting the worst-case scenario that water may not come out of individual taps. However, we had to bring this across to show how serious the water shortage was. When bringing this across, we always included a caveat by explaining that it will happen if people did not significantly reduce their water consumption. 
 
-#### **How else can we connect communities more to the downtown?**
+The power was in their hands to save water. This worst-case scenario we used in the campaign worked very well. It captured people’s imagination and galvanised everyone into action to do their part to save water. 
 
-**Michael:** State Street, the iconic street that Chicago Loop Alliance manages, is an important corridor that has been a key part for people’s lives. It is a place for celebrations. People often come here to do their Christmas shopping and make memories that last a lifetime. 
+#### **What were some important lessons you learnt from implementing the “Day Zero” campaign?**
 
-In the future, we are exploring how this street can be further activated to embrace and reflect people’s different interests and passions. For example, if you have a Taylor Swift concert at Soldier Field nearby in the evening, we could close the street in the afternoon and throw a Swiftie party prior to the concert.  
+**Priya:** One of the most important aspects of the campaign was to establish and build our credibility as a key source of information. When there is so much disinformation, fake news and with so many different players in the room, we worked hard to become the authoritative voice and source that people could trust and rely on for key information. During a crisis, we also learnt to find the right balance in sharing critical information quickly while ensuring that the information shared is robust and accurate.
 
-###### ![There is always something for everyone in State Street](/images/features/2024/state-street2.jpg/)**There is always something for everyone in State Street** © Chicago Loop Alliance
+Another thing that we learnt is you need to develop differentiated strategies and messaging to resonate with different groups of people. We have very diverse groups of people with different experiences with water. If you live in an informal settlement, you may get your water from communal water standpipes. On the other side of the city, some may have massive swimming pools and big gardens that need to be watered. 
 
-Or if you have the soccer player Lionel Messi coming to play at the stadium, we could invite children soccer teams to play along State Street. In this way, the street becomes even more connected and tied to people’s lives and memories in vivid and exciting ways.  
+Initially, this stark differences in people’s access to water was a source of contention. But fortunately, everyone realised that this was a crisis that was going to hit all of us equally no matter who we were or where we lived. People eventually came together quite quickly to help one another. 
 
-#### **While we can continue to enjoy activated streets today, our downtowns were significantly affected by the COVID-19 pandemic. How did the group navigate that difficult period?**
+#### **A big part of the campaign was using local community influencers. Tell us more about this.**
 
-**Michael:** During the pandemic when many had to work from home, nobody was going to the restaurants, cafes and shops. The theatres were also closed. During this period, there was a lack of information for people to make sense of what was going on. 
+**Priya:** When you think about influencers, you usually think about those who have a huge following on social media. But for this campaign, we were more interested in working with local leaders and individuals who had a strong influence in local communities. 
+This could be a person who was the key source of the neighbourhood gossip. It could be a school principal or the pastor of a church. The government is not always the best voice to influence and change people’s behaviour. We worked with such influencers to help us spread our water messages directly and this made an impact. 
 
-###### ![Chicago Loop Alliance proactively works to restore confidence in the downtown during the pandemic and after it](/images/features/2024/restore.jpg/)**Chicago Loop Alliance proactively works to restore confidence in the downtown during the pandemic and after it** © Chicago Loop Alliance
+For example, religious leaders spoke about saving water in their sermons and even led the congregation to pray for the rain to come. We also worked with local provision ships to put up water-related posters.
 
-Chicago Loop Alliance became the authoritative source of information. We tapped our close partnerships with businesses and stakeholders to compile and share a range of useful and reliable data, from pedestrian traffic to transit ridership, hotel and office occupancy. This was helpful for businesses to make more informed decisions. For example, they used the data to decide when to open their shops and restaurants to capitalise on periods when there were more people in the downtown area. 
+#### **You also explored some creative ways of communication.**
 
-With the media turning to us to understand what was happening in the downtown area, we used the opportunity to further strengthen the overall narrative on the downtown. We worked to deepen our relationship with stakeholders and partners in navigating the crisis together and to restore people’s confidence in the area. 
+**Priya:** We used drones to make water announcements to people. We also used sky banners, with banners coming out of planes to share water messages. In addition, we made water announcements at major sports games. We would go into shopping malls and teach people good water habits that would help reduce water consumption. 
 
-From a public perception perspective, we created Sundays on State, an event series that closes State Street to vehicular traffic for select Sundays, filling the street with active recreation, arts and culture, food and drink and retail. The interactive block party attracts hundreds of thousands of Chicagoans and visitors, uniting the community, stimulating the economy and reinforcing that the Loop is safe, inclusive and enjoyable. 
+More than just asking people to save water, we actively showed people how to do so. For example, they could use a shower head that had a slower water flow. We advised people on how much water they should use for their daily essentials, from cooking, to washing dishes etc. 
 
-###### ![Sundays on State by Chicago Loop Alliance](/images/features/2024/sundays.jpg/)**Sundays on State by Chicago Loop Alliance** © Chicago Loop Alliance
+#### **As part of the campaign, you published water consumption levels of key areas online. Why was this done?**
 
-#### **Post-pandemic, how do you see downtowns evolving and changing?**
+**Priya:** Throughout the campaign, there were many occasions where we had to make tough decisions on whether we should do something more drastic or not. It was a dire situation that we had never experienced before. This was one of those difficult decisions. Given the serious situation, we felt we needed to do it. 
 
-**Michael:** Downtowns are evolving to become more mixed-use, catering for live, work and play options. In the U.S., we are already seeing them become more social districts than just business districts. 
+We published the water consumption levels of key areas on a green dot map. Names and addresses were not published. Individual houses were not identified but people could tell broadly which streets were using too much water. It became a friendly competition between the streets that encouraged people to save water. We took it a step further and created a competition between neighbourhoods. If one neighbourhood was doing well, we would put up street posters and banners to celebrate this.  
 
-There will be greater demand for more recreational activities and attractions. This is especially important for younger employees who may prefer more unique and interesting experiences. 
+#### **What are some enduring changes about people’s attitudes towards water from the water shortage crisis?**
 
-<br>
-> ##### "This is what placemaking is all about. Beyond having more engaging streets and spaces, you are also creating unforgettable experiences for people."
-<div align="right"><b>— Michael Edwards</b></div>
+**Priya:** People have learnt that having sufficient water supply is never guaranteed. Thus, we need to always be more responsible in how we use water every day. In fact, our current water consumption levels have continued to be lower than prior to the 2017 and 2018 water drought period. During the drought period, we had advised for people to shower with a bucket to save water. This habit has continued even after the water shortage crisis is over. 
 
-#### **For BIDs like the Chicago Loop Alliance to be effective, what are some important factors that have contributed to its success over the years?**
+People are also more receptive to exploring more options to increase our water supply, for example, desalination. There is a greater acceptance of having to install water management devices in people’s homes. People are also checking on their water leaks more regularly.  
 
-**Michael:** It is important to have the right mix of people with the necessary experience and expertise in the core management team to manage BIDs well. This can range from placemaking, to marketing and economics. The core team also needs to have people who are fully dedicated and committed, with a long-term vision for the area. 
+In continuing to emphasis the value of water, we have deepened and differentiated our messaging and focus to educate people about what it takes to get water to come out of our taps. We share more about our water supply chain and the processes behind the scenes.
 
-Chicago Loop Alliance is managed like a business where there are clear key performance indicators. We share extensive data and research regularly with our stakeholders and partners to help them understand the value and impact of their investments in the BID. 
-
-We have been sharing quarterly reports with our stakeholders and the public since 2020. These reports include helpful data and insights on State Street’s pedestrian activity, hotel occupancy, office workers on-site, arts and cultural institutions attendance figures, retail vacancy rates and even investments in building redevelopments with enhancements to the public realm.
-
-###### ![Chicago Loop Alliance’s ambassadors help to keep State Street safe and clean](/images/features/2024/clean.jpg/)**Chicago Loop Alliance’s ambassadors help to keep State Street safe and clean** © Chicago Loop Alliance
-
-In addition, we have an active Board with approximately 45 members who come from diverse backgrounds and professions, from architects, to developers, retailers, property owners, bankers and theatre owners. Each of them brings great perspectives and ideas in making the BID better.  
-
-Ultimately, you must learn to promote and sell your own efforts. People want to be part of our group because they know about our successes and stories. This is an important aspect to focus on in attracting and increasing the membership for BIDs. **<font color="#967942">O</font>** 
-
+The crisis made us realise that we have the power to change things collectively and individually for the better. We can change our mindsets and narratives. It built a stronger spirit of resilience amongst our communities. It also prepared us for being able to better navigate and manage the COVID-19 pandemic. **<font color="#967942">O</font>** 
  
+###### ![State Street, managed by the Chicago Loop Alliance](/images/features/2024/state-street.jpg/)**State Street, managed by the Chicago Loop Alliance.** © Adam Alexander 
