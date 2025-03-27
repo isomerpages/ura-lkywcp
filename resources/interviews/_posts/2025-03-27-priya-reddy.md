@@ -1,11 +1,11 @@
 ---
-title: How can we create more memorable downtowns?
-permalink: /michael-edwards/
-image: /images/features/2024/activate.jpg
-description: From curating more unforgettable experiences, to providing more useful data and promoting success stories, Michael Edwards, the President and CEO of placemaking group, Chicago Loop Alliance, shares how to manage and sustain the appeal of downtowns as vibrant and engaging destinations. 
+title: How Cape Town avoided “Day Zero” 
+permalink: /priya-reddy/
+image: /images/features/2024/cape-town-image.jpg
+description: Behind Cape Town’s most severe water shortage in 2017 and 2018 lies an inspiring story of how a compelling “Day Zero” campaign rallied people together to save water. Priya Reddy, Director of Communications, City of Cape Town, who led the campaign, shares lessons and enduring changes from the crisis. 
 ---
 
-##### From curating more unforgettable experiences, to providing more useful data and promoting success stories, Michael Edwards, the President and CEO of placemaking group, Chicago Loop Alliance, shares how to manage and sustain the appeal of downtowns as vibrant and engaging destinations.
+##### Behind Cape Town’s most severe water shortage in 2017 and 2018 lies an inspiring story of how a compelling “Day Zero” campaign rallied people together to save water. Priya Reddy, Director of Communications, City of Cape Town, who led the campaign, shares lessons and enduring changes from the crisis.  
 
 | Writer |
 | ---: |
