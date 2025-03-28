@@ -14,7 +14,7 @@ The Prize Secretariat manages the entire Prize cycle, including budgeting and re
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/secretariat/yap-lay-bee.png" alt="Yap Lay Bee" /><br></td>
+<td style="width: 150px;"><img src="/images/secretariat/new-yap-lay-bee.png" alt="Yap Lay Bee" /><br></td>
 <td><strong>Ms <u>Yap</u> Lay Bee</strong><br />Prize Secretary<br />Group Director (Architecture & Urban Design)<br />Urban Redevelopment Authority Singapore<br><a href="/yap-lay-bee/">Biography</a> | <a href="https://sg.linkedin.com/in/lay-bee-yap-17288527">LinkedIn</a></td>
 </tr>
 </tbody>
