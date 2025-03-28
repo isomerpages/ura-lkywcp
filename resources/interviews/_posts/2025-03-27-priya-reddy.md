@@ -15,6 +15,8 @@ description: Behind Cape Town’s most severe water shortage in 2017 and 2018 li
 
 **Priya:** Even before this water shortage crisis, we already had some water use restriction for some years. Towards the end of 2016, we were told that things weren’t looking good in terms of the city’s water supply. We have not experienced rain for some time. In the background, our engineers and those from our water department were working hard to ensure that we had contingency plans to manage our water supply. By June 2017, we had already started asking people to reduce their water consumption to about 100 litres of water per person per day. 
 
+###### ![At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity](/images/features/2024/cape-town-dams.jpg/)**At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity.** © City of Cape Town 
+
 The turning point came when we realised that if we did not drastically reduce our water consumption, water will literally stop coming out from our taps. 
 
 Very often, communications staff like me are usually the last to know when a challenge like this unfolds. But as part of addressing the issue had to do with persuading people to reduce their water consumption, we became the first to know. We were able to develop a communications strategy and campaign right from the start with the budget and resource we needed. 
