@@ -26,13 +26,13 @@ sections:
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infopic:    
-        title: How can we create more memorable downtowns?
-        subtitle: Interview with Michael Edwards
-        description: Michael Edwards, Chicago Loop Alliance CEO, shares strategies for vibrant downtowns - curating experiences, using data, and showcasing successes to maintain city centre appeal.
+        title: How Cape Town avoided “Day Zero”
+        subtitle: Interview with Priya Reddy
+        description: Behind Cape Town’s most severe water shortage in 2017 and 2018 lies an inspiring story of how a compelling “Day Zero” campaign rallied people together to save water. Priya Reddy, Director of Communications, City of Cape Town, who led the campaign, shares lessons and enduring changes from the crisis.
         button: Read the interview
-        url: /michael-edwards/
-        image: /images/features/2024/activate.jpg
-        alt: Michael Edwards
+        url: /priya-reddy/
+        image: /images/features/2024/cape-town-image.jpg
+        alt: Priya Reddy
     - infobar:
         title: Cape Town's V&A Waterfront success
         subtitle: Interview with CEO David Green
