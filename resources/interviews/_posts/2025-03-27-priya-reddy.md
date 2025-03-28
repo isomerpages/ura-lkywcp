@@ -15,7 +15,7 @@ description: Behind Cape Town’s most severe water shortage in 2017 and 2018 li
 
 **Priya:** Even before this water shortage crisis, we already had some water use restriction for some years. Towards the end of 2016, we were told that things weren’t looking good in terms of the city’s water supply. We have not experienced rain for some time. In the background, our engineers and those from our water department were working hard to ensure that we had contingency plans to manage our water supply. By June 2017, we had already started asking people to reduce their water consumption to about 100 litres of water per person per day. 
 
-###### ![At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity](/images/features/2024/cape-town-dams.jpg/)**At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity.** © City of Cape Town 
+###### ![At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity.](/images/features/2024/cape-town-dams.jpg/)**At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity.** © City of Cape Town 
 
 The turning point came when we realised that if we did not drastically reduce our water consumption, water will literally stop coming out from our taps. 
 
@@ -25,7 +25,9 @@ Beyond the water saving measures we put in place, from repairing water leaks to 
 
 We implemented the “Day Zero” water campaign from January to December 2018 to rally people to significantly reduce their water consumption. By the time we launched the campaign, water consumption was restricted to 50 litres per person per day. 
 
-#### **How did the term “Day Zero” as the campaign title came about? **
+###### ![The Day Zero campaign used a variety of communication channels including Public Service Announcements, print and digital advertising, social media and community outreach.](/images/features/2024/day-zero.jpg/)**The Day Zero campaign used a variety of communication channels including Public Service Announcements, print and digital advertising, social media and community outreach.** © City of Cape Town
+
+#### **How did the term “Day Zero” as the campaign title came about?**
 
 **Priya:** The words, “Day Zero” was used by our water department colleagues in describing the situation. We had consulted with economists, academics and communications consultants on how best to communicate the situation effectively to people. We were advised that using “Day Zero” would be an effective communication term to use to make people realise how dire the water shortage was. 
 
@@ -44,6 +46,8 @@ The power was in their hands to save water. This worst-case scenario we used in 
 **Priya:** One of the most important aspects of the campaign was to establish and build our credibility as a key source of information. When there is so much disinformation, fake news and with so many different players in the room, we worked hard to become the authoritative voice and source that people could trust and rely on for key information. During a crisis, we also learnt to find the right balance in sharing critical information quickly while ensuring that the information shared is robust and accurate.
 
 Another thing that we learnt is you need to develop differentiated strategies and messaging to resonate with different groups of people. We have very diverse groups of people with different experiences with water. If you live in an informal settlement, you may get your water from communal water standpipes. On the other side of the city, some may have massive swimming pools and big gardens that need to be watered. 
+
+###### ![To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).](/images/features/2024/cape-town-image.jpg/)**To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).** 
 
 Initially, this stark differences in people’s access to water was a source of contention. But fortunately, everyone realised that this was a crisis that was going to hit all of us equally no matter who we were or where we lived. People eventually came together quite quickly to help one another. 
 
@@ -64,13 +68,17 @@ More than just asking people to save water, we actively showed people how to do 
 
 **Priya:** Throughout the campaign, there were many occasions where we had to make tough decisions on whether we should do something more drastic or not. It was a dire situation that we had never experienced before. This was one of those difficult decisions. Given the serious situation, we felt we needed to do it. 
 
+###### ![The Water Map allowed residents to see their water usage of their key neighbourhoods and areas. The map was colour coded, with green areas indicating households that were within the water restrictions and red areas indicating households that were exceeding the restrictions.](/images/features/2024/green-dot-map.jpg/)**The Water Map allowed residents to see their water usage of their key neighbourhoods and areas. The map was colour coded, with green areas indicating households that were within the water restrictions and red areas indicating households that were exceeding the restrictions.** © City of Cape Town
+
 We published the water consumption levels of key areas on a green dot map. Names and addresses were not published. Individual houses were not identified but people could tell broadly which streets were using too much water. It became a friendly competition between the streets that encouraged people to save water. We took it a step further and created a competition between neighbourhoods. If one neighbourhood was doing well, we would put up street posters and banners to celebrate this.  
 
 #### **What are some enduring changes about people’s attitudes towards water from the water shortage crisis?**
 
 **Priya:** People have learnt that having sufficient water supply is never guaranteed. Thus, we need to always be more responsible in how we use water every day. In fact, our current water consumption levels have continued to be lower than prior to the 2017 and 2018 water drought period. During the drought period, we had advised for people to shower with a bucket to save water. This habit has continued even after the water shortage crisis is over. 
 
-People are also more receptive to exploring more options to increase our water supply, for example, desalination. There is a greater acceptance of having to install water management devices in people’s homes. People are also checking on their water leaks more regularly.  
+###### ![Cape Town is exploring to develop a permanent desalination plant in future to diversify its water supply strategy.](/images/features/2024/desalination-plant.jpg/)**Cape Town is exploring to develop a permanent desalination plant in future to diversify its water supply strategy.** © City of Cape Town
+
+People are also more receptive to exploring more options to increase our water supply, for example, desalination. There is a greater acceptance of having to install water management devices in people’s homes. People are also checking on their water leaks more regularly. 
 
 In continuing to emphasis the value of water, we have deepened and differentiated our messaging and focus to educate people about what it takes to get water to come out of our taps. We share more about our water supply chain and the processes behind the scenes.
 
