@@ -83,5 +83,3 @@ People are also more receptive to exploring more options to increase our water s
 In continuing to emphasis the value of water, we have deepened and differentiated our messaging and focus to educate people about what it takes to get water to come out of our taps. We share more about our water supply chain and the processes behind the scenes.
 
 The crisis made us realise that we have the power to change things collectively and individually for the better. We can change our mindsets and narratives. It built a stronger spirit of resilience amongst our communities. It also prepared us for being able to better navigate and manage the COVID-19 pandemic. **<font color="#967942">O</font>** 
- 
-###### ![State Street, managed by the Chicago Loop Alliance](/images/features/2024/state-street.jpg/)**State Street, managed by the Chicago Loop Alliance.** © Adam Alexander 
