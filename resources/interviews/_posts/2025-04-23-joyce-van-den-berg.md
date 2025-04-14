@@ -1,6 +1,6 @@
 ---
-title: How Cape Town avoided “Day Zero” 
-permalink: /priya-reddy/
+title: How is your city’s soil life doing? 
+permalink: /joyce-van-den-berg/
 image: /images/features/2024/cape-town-image.jpg
 description: Behind Cape Town’s most severe water shortage in 2017 and 2018 lies an inspiring story of how a compelling “Day Zero” campaign rallied people together to save water. Priya Reddy, Director of Communications, City of Cape Town, who led the campaign, shares lessons and enduring changes from the crisis. 
 ---
