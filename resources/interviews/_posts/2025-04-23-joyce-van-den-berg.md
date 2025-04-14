@@ -71,6 +71,6 @@ A soil with rich biodiversity is also essential for helping to transport suffici
 
 There must be strong leadership and vision to lead and drive the larger systemic strategies and combine this with more technical expertise, bringing in the financial perspective as well. **<font color="#967942">O</font>** 
 
-###### ![Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.](/images/features/2024/life-in-soil.jpg/)**Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.** © City of Amsterdam
+###### ![Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.](/images/features/2024/biodiversity-book.jpg/)**Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.** © City of Amsterdam
 
 | **Joyce can den Berg** is an experienced landscape architect and passionate systems innovator. With the development and publication of the Integral Design Method Public Space (2020) and the follow-up research, BiodiverCITY_A Matter of Vital Soil! (2021), Joyce has introduced a new methodology for public space design on the national and international map. She has worked on many comprehensive and complex sustainable projects before joining the City of Amsterdam as the Chief Landscape Architect. |
