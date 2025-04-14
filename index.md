@@ -26,13 +26,13 @@ sections:
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infopic:    
-        title: How Cape Town avoided “Day Zero”
-        subtitle: Interview with Priya Reddy
-        description: Behind Cape Town’s most severe water shortage in 2017 and 2018 lies an inspiring story of how a compelling “Day Zero” campaign rallied people together to save water. Priya Reddy, Director of Communications, City of Cape Town, who led the campaign, shares lessons and enduring changes from the crisis.
+        title: How is your city’s soil life doing?
+        subtitle: Interview with Joyce van den Berg
+        description: Joyce van den Berg, the Chief Landscape Architect of the City of Amsterdam believes soil life is a prerequisite for urban life. She wants you to look closer at the health of our soil beneath and how we coordinate our underground spaces for a more systemic approach to orchestrating change in cities.
         button: Read the interview
-        url: /priya-reddy/
-        image: /images/features/2024/cape-town-image.jpg
-        alt: Priya Reddy
+        url: /joyce-van-den-berg/
+        image: /images/features/2024/aerial-view-amstelstad.jpg
+        alt: Joyce van den Berg
     - infobar:
         title: Cape Town's V&A Waterfront success
         subtitle: Interview with CEO David Green
