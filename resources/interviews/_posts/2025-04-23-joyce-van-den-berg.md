@@ -29,6 +29,8 @@ We piloted this new integrated approach for Amstel-Stad, a large redevelopment a
 
 **Joyce:** The Integral Design Method Public Space is a new way of programming, designing and detailing public spaces, focused on early interdisciplinary collaboration, science-based design analysis, and facilitating decision-making with thematically arranged performance goals and a library of parametrically optimised measures, which considers underground spaces. It proposes a shift in public space planning in looking at our physical spaces more holistically, from below to above and from above to below. 
 
+###### ![The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.](/images/features/2024/loor-visual.jpg/)**The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.** © City of Amsterdam 
+
 The new design method prioritises integrating below-ground infrastructure and public space design for a more sustainable and liveable environment. It involves public-private partnerships from an early stage to address issues like heat, precipitation, energy systems, circularity, and nature-inclusive design.
 
 It is about tackling multiple, interconnected challenges with a more systemic way of working. We applied this approach to the Amstel-Stad area. 
