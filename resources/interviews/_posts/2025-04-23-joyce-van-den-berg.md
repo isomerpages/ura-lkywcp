@@ -17,7 +17,7 @@ description: Joyce van den Berg, the Chief Landscape Architect of the City of Am
 
 Amsterdam is faced with the intersecting challenges of climate adaptation, sustainable energy, heating, circular economy and changing mobility. Our sewage systems require maintenance which is overdue. There is pressure on our underground space with more cables and pipes, while green spaces and trees – requiring root space and healthy soil – take on new urgency with climate change to reduce heat island effect, absorb rainwater, and boost biodiversity. 
 
-###### ![The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.](/images/features/2024/loor-book.jpg/)**The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.** © City of Amsterdam  
+###### ![The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.](/images/features/2024/Ioor-book.jpg/)**The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.** © City of Amsterdam  
 
 The common denominator for all these challenges is the management of our physical spaces, which includes both above ground and below ground. Because of these larger questions, I worked with two other colleagues to explore a more systematic approach to see how we can better plan and coordinate our physical spaces above and below ground. 
 
@@ -29,7 +29,7 @@ We piloted this new integrated approach for Amstel-Stad, a large redevelopment a
 
 **Joyce:** The Integral Design Method Public Space is a new way of programming, designing and detailing public spaces, focused on early interdisciplinary collaboration, science-based design analysis, and facilitating decision-making with thematically arranged performance goals and a library of parametrically optimised measures, which considers underground spaces. It proposes a shift in public space planning in looking at our physical spaces more holistically, from below to above and from above to below. 
 
-###### ![The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.](/images/features/2024/loor-visual.jpg/)**The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.** © City of Amsterdam 
+###### ![The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.](/images/features/2024/Ioor-visual.jpg/)**The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.** © City of Amsterdam 
 
 The new design method prioritises integrating below-ground infrastructure and public space design for a more sustainable and liveable environment. It involves public-private partnerships from an early stage to address issues like heat, precipitation, energy systems, circularity, and nature-inclusive design.
 
