@@ -21,6 +21,8 @@ Amsterdam is faced with the intersecting challenges of climate adaptation, susta
 
 The common denominator for all these challenges is the management of our physical spaces, which includes both above ground and below ground. Because of these larger questions, I worked with two other colleagues to explore a more systematic approach to see how we can better plan and coordinate our physical spaces above and below ground. 
 
+###### ![An aerial view of Amstel-Stad in Amsterdam.](/images/features/2024/aerial-view-amstelstad.jpg/)**An aerial view of Amstel-Stad in Amsterdam.** © City of Amsterdam
+
 We piloted this new integrated approach for Amstel-Stad, a large redevelopment area in Amsterdam, building 30,000 new homes and the necessary infrastructure. The area was chosen as it had many different urban challenges to address and was in critical need of redevelopment. The multidisciplinary and collaborative approach helped us to detect potential conflicts early, be more effective and productive in the use of our resources and prevent major disruptions downstream. It was this pilot effort that led me to my current role. 
  
 #### **You developed the Integral Design Method Public Space (Dutch abbreviation: IOOR). Tell us more about this.**
