@@ -1,85 +1,66 @@
 ---
 title: How is your city’s soil life doing? 
 permalink: /joyce-van-den-berg/
-image: /images/features/2024/cape-town-image.jpg
-description: Behind Cape Town’s most severe water shortage in 2017 and 2018 lies an inspiring story of how a compelling “Day Zero” campaign rallied people together to save water. Priya Reddy, Director of Communications, City of Cape Town, who led the campaign, shares lessons and enduring changes from the crisis. 
+image: /images/features/2024/aerial-view-amstelstad.jpg
+description: Joyce van den Berg, the Chief Landscape Architect of the City of Amsterdam believes soil life is a prerequisite for urban life. She wants you to look closer at the health of our soil beneath and how we coordinate our underground spaces for a more systemic approach to orchestrating change in cities.  
 ---
 
-##### Behind Cape Town’s most severe water shortage in 2017 and 2018 lies an inspiring story of how a compelling “Day Zero” campaign rallied people together to save water. Priya Reddy, Director of Communications, City of Cape Town, who led the campaign, shares lessons and enduring changes from the crisis.  
+##### Joyce van den Berg, the Chief Landscape Architect of the City of Amsterdam believes soil life is a prerequisite for urban life. She wants you to look closer at the health of our soil beneath and how we coordinate our underground spaces for a more systemic approach to orchestrating change in cities.   
 
 | Writer |
 | ---: |
 | Serene Tng | 
 
-#### **Share with us the circumstances leading to the need to launch the “Day Zero” campaign.**
+#### **Tell us more about your experience and journey in becoming a Chief Landscape Architect.**
 
-**Priya:** Even before this water shortage crisis, we already had some water use restriction for some years. Towards the end of 2016, we were told that things weren’t looking good in terms of the city’s water supply. We have not experienced rain for some time. In the background, our engineers and those from our water department were working hard to ensure that we had contingency plans to manage our water supply. By June 2017, we had already started asking people to reduce their water consumption to about 100 litres of water per person per day. 
+**Joyce:** It was sometime in 2017 when I started thinking about how we can better address our larger urban challenges more systematically. As designers, how can we tackle our often-interconnected challenges to build a more sustainable future?
 
-###### ![At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity.](/images/features/2024/cape-town-dams.jpg/)**At the height of the water shortage crisis, the dams were down to just 9.8 per cent of their usable storage capacity.** © City of Cape Town 
+Amsterdam is faced with the intersecting challenges of climate adaptation, sustainable energy, heating, circular economy and changing mobility. Our sewage systems require maintenance which is overdue. There is pressure on our underground space with more cables and pipes, while green spaces and trees – requiring root space and healthy soil – take on new urgency with climate change to reduce heat island effect, absorb rainwater, and boost biodiversity. 
 
-The turning point came when we realised that if we did not drastically reduce our water consumption, water will literally stop coming out from our taps. 
+The common denominator for all these challenges is the management of our physical spaces, which includes both above ground and below ground. Because of these larger questions, I worked with two other colleagues to explore a more systematic approach to see how we can better plan and coordinate our physical spaces above and below ground. 
 
-Very often, communications staff like me are usually the last to know when a challenge like this unfolds. But as part of addressing the issue had to do with persuading people to reduce their water consumption, we became the first to know. We were able to develop a communications strategy and campaign right from the start with the budget and resource we needed. 
+We piloted this new integrated approach for Amstel-Stad, a large redevelopment area in Amsterdam, building 30,000 new homes and the necessary infrastructure. The area was chosen as it had many different urban challenges to address and was in critical need of redevelopment. The multidisciplinary and collaborative approach helped us to detect potential conflicts early, be more effective and productive in the use of our resources and prevent major disruptions downstream. It was this pilot effort that led me to my current role. 
+ 
+#### **You developed the Integral Design Method Public Space (Dutch abbreviation: IOOR). Tell us more about this.**
 
-Beyond the water saving measures we put in place, from repairing water leaks to placing water management devices in homes, communications played a vital role in encouraging individuals and businesses to significantly reduce their water consumption. 
+**Joyce:** The Integral Design Method Public Space is a new way of programming, designing and detailing public spaces, focused on early interdisciplinary collaboration, science-based design analysis, and facilitating decision-making with thematically arranged performance goals and a library of parametrically optimised measures, which considers underground spaces. It proposes a shift in public space planning in looking at our physical spaces more holistically, from below to above and from above to below. 
 
-We implemented the “Day Zero” water campaign from January to December 2018 to rally people to significantly reduce their water consumption. By the time we launched the campaign, water consumption was restricted to 50 litres per person per day. 
+The new design method prioritises integrating below-ground infrastructure and public space design for a more sustainable and liveable environment. It involves public-private partnerships from an early stage to address issues like heat, precipitation, energy systems, circularity, and nature-inclusive design.
 
-###### ![The Day Zero campaign used a variety of communication channels including Public Service Announcements, print and digital advertising, social media and community outreach.](/images/features/2024/day-zero.jpg/)**The Day Zero campaign used a variety of communication channels including Public Service Announcements, print and digital advertising, social media and community outreach.** © City of Cape Town
+It is about tackling multiple, interconnected challenges with a more systemic way of working. We applied this approach to the Amstel-Stad area. 
 
-#### **How did the term “Day Zero” as the campaign title came about?**
+#### **What has been the interest in this new methodology?**
 
-**Priya:** The words, “Day Zero” was used by our water department colleagues in describing the situation. We had consulted with economists, academics and communications consultants on how best to communicate the situation effectively to people. We were advised that using “Day Zero” would be an effective communication term to use to make people realise how dire the water shortage was. 
+**Joyce:** We are happy to see that this methodology has been scaled up and adapted in other municipalities in Netherlands. We have published the case study on Amstel-Stad and shared this globally. There is also a workbook published where designers can use this resource to adapt the methodology for different contexts.  
 
-I was initially not comfortable with the use of the words. It implies that that would be a day that we would have no water at all. It wasn't the case. We were not going to have no water at all. It was more that water may not come out of our individual taps, but you could still go to communal areas to get water. This scenario was already a very stark one for people to experience. 
+We have received a lot of interest from many cities on this approach. The Integral Design Method Public Space publication is even translated to Bahasa Indonesian as the Indonesians were interested to learn from this in using the material in many of their local universities and educational programmes.
 
-When we eventually launched the “Day Zero” campaign, it was meant to reflect the day that water stopped coming out of individual taps, not the day that you would have no water at all. 
+#### **What is one fundamental aspect about the integrated approach that cities should take notice?**
 
-#### **How did you use “Day Zero” in the campaign itself?**
+**Joyce:** The essence of the integrated design methodology is being able to look at all your key infrastructural assets and make strategic moves at the right time. When you need to maintain or upgrade your cables and pipes, you may be changing the streets while doing so and this may destroy the trees in the process. 
 
-**Priya:** “Day Zero” was the worst-case scenario that we were all trying to avoid. It was a moving target in a way. In communications, we usually try to avoid painting the worst-case scenario that water may not come out of individual taps. However, we had to bring this across to show how serious the water shortage was. When bringing this across, we always included a caveat by explaining that it will happen if people did not significantly reduce their water consumption. 
+We need to look at all our infrastructural assets and their life cycle in a more systemic way and be able to coordinate and orchestrate the maintenance, upgrading and building of key infrastructures considering their impact and relationship with other aspects of the city, including how these affect the growth of our trees.  
 
-The power was in their hands to save water. This worst-case scenario we used in the campaign worked very well. It captured people’s imagination and galvanised everyone into action to do their part to save water. 
+###### ![To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).](/images/features/2024/cape-town-image.jpg/)**To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).**  
 
-#### **What were some important lessons you learnt from implementing the “Day Zero” campaign?**
+#### **You have advocated that we need to pay closer attention to the soil in our urban areas. Why do we need to do so?**
 
-**Priya:** One of the most important aspects of the campaign was to establish and build our credibility as a key source of information. When there is so much disinformation, fake news and with so many different players in the room, we worked hard to become the authoritative voice and source that people could trust and rely on for key information. During a crisis, we also learnt to find the right balance in sharing critical information quickly while ensuring that the information shared is robust and accurate.
+**Joyce:** Did you know that one teaspoon of soil has more life in it than people on earth? Our soil is the source of life for our cities, not just in ensuring our trees and plants grow well to provide shade and comfort for us, but it directly contributes to our cities’ liveability.
 
-Another thing that we learnt is you need to develop differentiated strategies and messaging to resonate with different groups of people. We have very diverse groups of people with different experiences with water. If you live in an informal settlement, you may get your water from communal water standpipes. On the other side of the city, some may have massive swimming pools and big gardens that need to be watered. 
+Our scientists in collaboration with researchers did DNA research to understand why the trees in Amstel-Stad were not growing well and found that it had to do with the poor soil condition. We learnt that the soil is like the “black box” in urban planning. We need to pay closer attention to how we treat our soil. Our underground space is quickly getting filled up with cables and pipes and there may not be enough space for trees to grow well. We need to find new solutions and ways in how we can organise and coordinate our underground spaces to ensure we have sufficient open spaces for trees to grow.
 
-###### ![To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).](/images/features/2024/cape-town-image.jpg/)**To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).** 
+#### **Beyond just caring for our soil under our ground, we also need to ensure our soils’ rich biodiversity. Why is this important?**
 
-Initially, this stark differences in people’s access to water was a source of contention. But fortunately, everyone realised that this was a crisis that was going to hit all of us equally no matter who we were or where we lived. People eventually came together quite quickly to help one another. 
+**Joyce:** Without life in our soil, we lose the natural engineers—worms, fungi, roots—that create tiny channels and structures that help water infiltrate, be retained, and move gradually through the ground. These living systems are essential for preventing surface flooding, enhancing water resilience, and keeping our cities liveable. Healthy, biodiverse soils act like a sponge and a filter at the same time—they slow down water, purify it, and store it. Without them, we face more extreme droughts and floods. Biodiversity below ground is just as crucial as above.
 
-#### **A big part of the campaign was using local community influencers. Tell us more about this.**
+A soil with rich biodiversity is also essential for helping to transport sufficient nutrients to plants and trees on our roads and streets for them to flourish, to give us shade, comfort and contribute to our wellbeing. When we think about infrastructure, we also must think about infra-nature in soil. Trees also need connection to one another to exchange nutrients and this is the same with soil. 
 
-**Priya:** When you think about influencers, you usually think about those who have a huge following on social media. But for this campaign, we were more interested in working with local leaders and individuals who had a strong influence in local communities. 
-This could be a person who was the key source of the neighbourhood gossip. It could be a school principal or the pastor of a church. The government is not always the best voice to influence and change people’s behaviour. We worked with such influencers to help us spread our water messages directly and this made an impact. 
+#### **What are some important priorities landscape architects should focus on?**
 
-For example, religious leaders spoke about saving water in their sermons and even led the congregation to pray for the rain to come. We also worked with local provision ships to put up water-related posters.
+**Joyce:** There is an increasing need for landscape architects to work on the larger strategy and systemic levels in shaping our physical environments. I believe the landscape architect has the potential and ability to look at sustainability in more holistic ways and can help to bring together all the key elements. 
 
-#### **You also explored some creative ways of communication.**
-
-**Priya:** We used drones to make water announcements to people. We also used sky banners, with banners coming out of planes to share water messages. In addition, we made water announcements at major sports games. We would go into shopping malls and teach people good water habits that would help reduce water consumption. 
-
-More than just asking people to save water, we actively showed people how to do so. For example, they could use a shower head that had a slower water flow. We advised people on how much water they should use for their daily essentials, from cooking, to washing dishes etc. 
-
-#### **As part of the campaign, you published water consumption levels of key areas online. Why was this done?**
-
-**Priya:** Throughout the campaign, there were many occasions where we had to make tough decisions on whether we should do something more drastic or not. It was a dire situation that we had never experienced before. This was one of those difficult decisions. Given the serious situation, we felt we needed to do it. 
+There must be strong leadership and vision to lead and drive the larger systemic strategies and combine this with more technical expertise, bringing in the financial perspective as well. 
 
 ###### ![The Water Map allowed residents to see their water usage of their key neighbourhoods and areas. The map was colour coded, with green areas indicating households that were within the water restrictions and red areas indicating households that were exceeding the restrictions.](/images/features/2024/green-dot-map.jpg/)**The Water Map allowed residents to see their water usage of their key neighbourhoods and areas. The map was colour coded, with green areas indicating households that were within the water restrictions and red areas indicating households that were exceeding the restrictions.** © City of Cape Town
-
-We published the water consumption levels of key areas on a green dot map. Names and addresses were not published. Individual houses were not identified but people could tell broadly which streets were using too much water. It became a friendly competition between the streets that encouraged people to save water. We took it a step further and created a competition between neighbourhoods. If one neighbourhood was doing well, we would put up street posters and banners to celebrate this.  
-
-#### **What are some enduring changes about people’s attitudes towards water from the water shortage crisis?**
-
-**Priya:** People have learnt that having sufficient water supply is never guaranteed. Thus, we need to always be more responsible in how we use water every day. In fact, our current water consumption levels have continued to be lower than prior to the 2017 and 2018 water drought period. During the drought period, we had advised for people to shower with a bucket to save water. This habit has continued even after the water shortage crisis is over. 
-
-###### ![Cape Town is exploring to develop a permanent desalination plant in future to diversify its water supply strategy.](/images/features/2024/desalination-plant.jpg/)**Cape Town is exploring to develop a permanent desalination plant in future to diversify its water supply strategy.** © City of Cape Town
-
-People are also more receptive to exploring more options to increase our water supply, for example, desalination. There is a greater acceptance of having to install water management devices in people’s homes. People are also checking on their water leaks more regularly. 
-
-In continuing to emphasis the value of water, we have deepened and differentiated our messaging and focus to educate people about what it takes to get water to come out of our taps. We share more about our water supply chain and the processes behind the scenes.
 
 The crisis made us realise that we have the power to change things collectively and individually for the better. We can change our mindsets and narratives. It built a stronger spirit of resilience amongst our communities. It also prepared us for being able to better navigate and manage the COVID-19 pandemic. **<font color="#967942">O</font>** 
