@@ -39,21 +39,25 @@ It is about tackling multiple, interconnected challenges with a more systemic wa
 
 **Joyce:** We are happy to see that this methodology has been scaled up and adapted in other municipalities in Netherlands. We have published the case study on Amstel-Stad and shared this globally. There is also a workbook published where designers can use this resource to adapt the methodology for different contexts.  
 
+###### ![A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.](/images/features/2024/simulation.jpg/)**A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.** © City of Amsterdam
+
 We have received a lot of interest from many cities on this approach. The Integral Design Method Public Space publication is even translated to Bahasa Indonesian as the Indonesians were interested to learn from this in using the material in many of their local universities and educational programmes.
 
 #### **What is one fundamental aspect about the integrated approach that cities should take notice?**
 
 **Joyce:** The essence of the integrated design methodology is being able to look at all your key infrastructural assets and make strategic moves at the right time. When you need to maintain or upgrade your cables and pipes, you may be changing the streets while doing so and this may destroy the trees in the process. 
 
-We need to look at all our infrastructural assets and their life cycle in a more systemic way and be able to coordinate and orchestrate the maintenance, upgrading and building of key infrastructures considering their impact and relationship with other aspects of the city, including how these affect the growth of our trees.  
-
-###### ![To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).](/images/features/2024/cape-town-image.jpg/)**To determine the level of vulnerability across Cape Town, the city adopted a data-driven approach and developed its own Social Vulnerability Index (SVI) and Economic Nodes Index (ENI).**  
+We need to look at all our infrastructural assets and their life cycle in a more systemic way and be able to coordinate and orchestrate the maintenance, upgrading and building of key infrastructures considering their impact and relationship with other aspects of the city, including how these affect the growth of our trees.    
 
 #### **You have advocated that we need to pay closer attention to the soil in our urban areas. Why do we need to do so?**
 
 **Joyce:** Did you know that one teaspoon of soil has more life in it than people on earth? Our soil is the source of life for our cities, not just in ensuring our trees and plants grow well to provide shade and comfort for us, but it directly contributes to our cities’ liveability.
 
+###### ![Mapping out the detailed soil conditions in Amsterdam.](/images/features/2024/mapping-biodiversity.jpg/)**Mapping out the detailed soil conditions in Amsterdam.** © City of Amsterdam
+
 Our scientists in collaboration with researchers did DNA research to understand why the trees in Amstel-Stad were not growing well and found that it had to do with the poor soil condition. We learnt that the soil is like the “black box” in urban planning. We need to pay closer attention to how we treat our soil. Our underground space is quickly getting filled up with cables and pipes and there may not be enough space for trees to grow well. We need to find new solutions and ways in how we can organise and coordinate our underground spaces to ensure we have sufficient open spaces for trees to grow.
+
+###### ![Understanding the many living organisms in the soil underneath the city.](/images/features/2024/life-in-soil.jpg/)**Understanding the many living organisms in the soil underneath the city.** © City of Amsterdam
 
 #### **Beyond just caring for our soil under our ground, we also need to ensure our soils’ rich biodiversity. Why is this important?**
 
@@ -66,5 +70,7 @@ A soil with rich biodiversity is also essential for helping to transport suffici
 **Joyce:** There is an increasing need for landscape architects to work on the larger strategy and systemic levels in shaping our physical environments. I believe the landscape architect has the potential and ability to look at sustainability in more holistic ways and can help to bring together all the key elements. 
 
 There must be strong leadership and vision to lead and drive the larger systemic strategies and combine this with more technical expertise, bringing in the financial perspective as well. **<font color="#967942">O</font>** 
+
+###### ![Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.](/images/features/2024/life-in-soil.jpg/)**Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.** © City of Amsterdam
 
 | **Joyce can den Berg** is an experienced landscape architect and passionate systems innovator. With the development and publication of the Integral Design Method Public Space (2020) and the follow-up research, BiodiverCITY_A Matter of Vital Soil! (2021), Joyce has introduced a new methodology for public space design on the national and international map. She has worked on many comprehensive and complex sustainable projects before joining the City of Amsterdam as the Chief Landscape Architect. |
