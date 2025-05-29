@@ -63,6 +63,6 @@ This helps people to rediscover and reconnect with places that are well loved, e
 
 The 2023 MPavilion 10 (extended in 2025) designed by Japanese architect and Pritzker Prize Laureate, Tadao Ando, has inspired many interesting programming. This ranges from interactive design workshops for kids, to performances and even a greyscale gelato ice cream flavour created to reflect the pavilion’s concrete structure design.
 
-When each season draws to a close, each MPavilion is relocated to a local area where further programming is organised as catalysts for more design-related conversations.
+When each season draws to a close, each MPavilion is relocated to a local area where further programming is organised as catalysts for more design-related conversations. **<font color="#967942">O</font>** 
 
 | **Bronwen Hamilton** is the Design Manager and Principal Urban Designer of the City of Melbourne. As an urban designer and a landscape architect, she has over 20 years’ experience working in all levels of government, providing urban design advice on projects shaping the city. She leads the Melbourne Design Review Panel and is an expert adviser on the Victorian Design Review Panels. |
