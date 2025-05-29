@@ -26,13 +26,13 @@ sections:
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infopic:    
-        title: How is your city’s soil life doing?
-        subtitle: Interview with Joyce van den Berg
-        description: Joyce van den Berg, the Chief Landscape Architect of the City of Amsterdam believes soil life is a prerequisite for urban life. She wants you to look closer at the health of our soil beneath and how we coordinate our underground spaces for a more systemic approach to orchestrating change in cities.
+        title: How Melbourne is upping its design game
+        subtitle: Interview with Bronwen Hamilton
+        description: You can get free design advice in Melbourne – this is one of the many initiatives introduced as part of the city’s Design Excellence Programme. One of the champions of the programme, Bronwen Hamilton, Design Manager and Principal Urban Designer of the City of Melbourne, tell us how the programme is helping to elevate better design outcomes for the city.
         button: Read the interview
-        url: /joyce-van-den-berg/
-        image: /images/features/2024/aerial-view-amstelstad.jpg
-        alt: Joyce van den Berg
+        url: /bronwen-hamilton/
+        image: /images/features/2024/melbourne-southbank.jpg
+        alt: Bronwen Hamilton
     - infobar:
         title: Cape Town's V&A Waterfront success
         subtitle: Interview with CEO David Green
