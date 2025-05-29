@@ -26,7 +26,7 @@ sections:
         image: /images/features/2024/banner2026.gif/
         alt: Call for nominations for 2026 Prize
     - infopic:    
-        title: HoW Melbourne is upping its design game
+        title: How Melbourne is upping its design game
         subtitle: Interview with Bronwen Hamilton
         description: You can get free design advice in Melbourne – this is one of the many initiatives introduced as part of the city’s Design Excellence Programme. One of the champions of the programme, Bronwen Hamilton, Design Manager and Principal Urban Designer of the City of Melbourne, tell us how the programme is helping to elevate better design outcomes for the city.
         button: Read the interview
