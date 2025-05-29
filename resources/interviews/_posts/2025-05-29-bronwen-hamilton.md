@@ -15,7 +15,7 @@ description: You can get free design advice in Melbourne – this is one of the 
 
 **Bronwen:** The programme is a continuation and extension of our focus on Melbourne as a capital city of design, with well-designed streets, beautiful parks and interesting contemporary buildings. Good design is one of the reasons that attracts people to the Melbourne.
 
-###### ![The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.](/images/features/2024/Ioor-book.jpg/)**The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.** © City of Amsterdam  
+###### ![Melbourne has been ranked consistently as one of the most liveable cities in the world by the Economist Intelligence Unit’s Global Liveability Index.](/images/features/2024/melbourne-aerial.jpg/)**Melbourne has been ranked consistently as one of the most liveable cities in the world by the Economist Intelligence Unit’s Global Liveability Index.** © David Hannah  
 
 The programme is multi-faceted in seeking to build up more design leaders and champions, recognise good designs and put in place multidisciplinary and collaborative platforms and processes that can influence good design outcomes. It is a long-term commitment where initiatives will be implemented incrementally over time.
 
@@ -25,7 +25,7 @@ Investing in good design is crucial for us in enhancing our liveability, attract
 
 **Bronwen:** The Design Excellence Advisory Committee provides a platform for industry, academia, and community members to engage with a range of design challenges and opportunities in Melbourne. The committee also advises the city council on the development and implementation of the Design Excellence Programme and explores opportunities to strengthen collaboration across award programmes and design events. 
 
-###### ![The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.](/images/features/2024/Ioor-visual.jpg/)**The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.** © City of Amsterdam 
+###### ![The Yarra River, one of Melbourne’s iconic waterways that has contributed to Melbourne as a design city.](/images/features/2024/melbourne-yarra.jpg/)**The Yarra River, one of Melbourne’s iconic waterways that has contributed to Melbourne as a design city.** © City of Melbourne 
 
 Some of the issues and topics discussed by the committee are on emerging design issues and precinct opportunities for Melbourne’s tunnel projects, the future of housing, sustainable building designs and design competition guidelines.
 
@@ -35,13 +35,13 @@ An example of a project that the committee shared feedback on was how we could t
 
 **Bronwen:** The setup of the Melbourne Design Review Panel is a major milestone. It is made up of 16 experienced architects, landscape architects and urban designers. They have provided independent design inputs and market advice on significant development proposals before and during the planning approval process and other city-shaping projects. 
 
-###### ![A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.](/images/features/2024/simulation.jpg/)**A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.** © City of Amsterdam
+###### ![An example of how good design can transform an area – an arterial road was converted into five new civic spaces in one of Melbourne’s densely populated suburbs, the Southbank Boulevard. 22,000 square metres of public spaces have been created for all to enjoy.](/images/features/2024/melbourne-southbank.jpg/)**An example of how good design can transform an area – an arterial road was converted into five new civic spaces in one of Melbourne’s densely populated suburbs, the Southbank Boulevard. 22,000 square metres of public spaces have been created for all to enjoy.** © City of Melbourne
 
 A further nine members can be called on to provide technical expertise on topics such as heritage, sustainability and environmental design, development feasibility and Aboriginal cultural heritage.
 
 We are seeing a significant improvement in building designs because of the panel’s contributions. This new process also helps to build industry capabilities and a stronger culture amongst designers and building owners that emphasises design excellence.
 
-###### ![A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.](/images/features/2024/simulation.jpg/)**A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.** © City of Amsterdam
+###### ![Wesley Place is an example of a well-designed project. It is one of the largest urban renewal projects in Melbourne, creating a new active urban precinct to connect the rich history of the Wesley Church with the next-generation workplace with curated retail and other lifestyle offerings.](/images/features/2024/melbourne-wesley.jpg/)**Wesley Place is an example of a well-designed project. It is one of the largest urban renewal projects in Melbourne, creating a new active urban precinct to connect the rich history of the Wesley Church with the next-generation workplace with curated retail and other lifestyle offerings.** © URA
 
 For projects that are reviewed by the panel, it is not about knocking down project designs but is about getting a wider, more collaborative and suitable advice that is tailored to the different stages of the design process from the early to the more detailed phases.
 
@@ -55,7 +55,7 @@ One of the extensions of the programme is the _Open House Melbourne_ which is or
 
 This helps people to rediscover and reconnect with places that are well loved, explore new offerings and gain a richer understanding of the city from different perspectives. It helps to build up a stronger awareness and appreciation on how good design can make our city and lives better. For the 2024 run, over 63,000 people participated in about 170 events and 870 tours, talks, workshops and exhibitions.  
 
-###### ![A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.](/images/features/2024/simulation.jpg/)**A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.** © Cit
+###### ![The 2023 MPavilion by Tadao Ando.](/images/features/2024/mpavilion.jpg/)**The 2023 MPavilion by Tadao Ando.** © URA
 
 #### **Another project that has inspired and excited many beyond Melbourne is the MPavilion since 2014. What has been its value and impact on championing good design?**
 
