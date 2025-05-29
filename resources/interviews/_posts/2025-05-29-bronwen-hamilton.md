@@ -51,7 +51,7 @@ What is unique about this panel is the design advice is provided free of charge 
 
 **Bronwen:** We curate and organise many events and activities to cover a diverse range of urban and design-related topics shaping Melbourne for people to be engaged and inspired. We try to introduce fresh voices, perspectives and new ideas each time. Many of these activities are done in collaboration with different organisations.
 
-One of the extensions of the programme is the Open House Melbourne which is organised every year over several weekends. Walking tours and visits are organised to different buildings from private homes to infrastructure such as the Melbourne Arts precinct transformation.
+One of the extensions of the programme is the _Open House Melbourne_ which is organised every year over several weekends. Walking tours and visits are organised to different buildings from private homes to infrastructure such as the Melbourne Arts precinct transformation.
 
 This helps people to rediscover and reconnect with places that are well loved, explore new offerings and gain a richer understanding of the city from different perspectives. It helps to build up a stronger awareness and appreciation on how good design can make our city and lives better. For the 2024 run, over 63,000 people participated in about 170 events and 870 tours, talks, workshops and exhibitions.  
 
