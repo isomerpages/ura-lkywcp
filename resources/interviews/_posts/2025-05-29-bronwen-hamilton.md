@@ -11,66 +11,58 @@ description: You can get free design advice in Melbourne – this is one of the 
 | ---: |
 | Serene Tng | 
 
-#### **Tell us more about your experience and journey in becoming a Chief Landscape Architect.**
+#### **Why was the Design Excellence Programme (2019-2030) introduced?**
 
-**Joyce:** It was sometime in 2017 when I started thinking about how we can better address our larger urban challenges more systematically. As designers, how can we tackle our often-interconnected challenges to build a more sustainable future?
-
-Amsterdam is faced with the intersecting challenges of climate adaptation, sustainable energy, heating, circular economy and changing mobility. Our sewage systems require maintenance which is overdue. There is pressure on our underground space with more cables and pipes, while green spaces and trees – requiring root space and healthy soil – take on new urgency with climate change to reduce heat island effect, absorb rainwater, and boost biodiversity. 
+**Bronwen:** The programme is a continuation and extension of our focus on Melbourne as a capital city of design, with well-designed streets, beautiful parks and interesting contemporary buildings. Good design is one of the reasons that attracts people to the Melbourne.
 
 ###### ![The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.](/images/features/2024/Ioor-book.jpg/)**The Integral Design Method Public Space has been published and well received internationally, advocating for a more systemic approach to planning for physical spaces above and below ground.** © City of Amsterdam  
 
-The common denominator for all these challenges is the management of our physical spaces, which includes both above ground and below ground. Because of these larger questions, I worked with two other colleagues to explore a more systematic approach to see how we can better plan and coordinate our physical spaces above and below ground. 
+The programme is multi-faceted in seeking to build up more design leaders and champions, recognise good designs and put in place multidisciplinary and collaborative platforms and processes that can influence good design outcomes. It is a long-term commitment where initiatives will be implemented incrementally over time.
 
-###### ![An aerial view of Amstel-Stad in Amsterdam.](/images/features/2024/aerial-view-amstelstad.jpg/)**An aerial view of Amstel-Stad in Amsterdam.** © City of Amsterdam
-
-We piloted this new integrated approach for Amstel-Stad, a large redevelopment area in Amsterdam, building 30,000 new homes and the necessary infrastructure. The area was chosen as it had many different urban challenges to address and was in critical need of redevelopment. The multidisciplinary and collaborative approach helped us to detect potential conflicts early, be more effective and productive in the use of our resources and prevent major disruptions downstream. It was this pilot effort that led me to my current role. 
+Investing in good design is crucial for us in enhancing our liveability, attracting and retaining talents and building up a strong design culture. 
  
-#### **You developed the Integral Design Method Public Space (Dutch abbreviation: IOOR). Tell us more about this.**
+#### **As part of the programme, there is now a dedicated platform for the industry and community to actively contribute to policies and efforts shaping Melbourne. Tell us more.**
 
-**Joyce:** The Integral Design Method Public Space is a new way of programming, designing and detailing public spaces, focused on early interdisciplinary collaboration, science-based design analysis, and facilitating decision-making with thematically arranged performance goals and a library of parametrically optimised measures, which considers underground spaces. It proposes a shift in public space planning in looking at our physical spaces more holistically, from below to above and from above to below. 
+**Bronwen:** The Design Excellence Advisory Committee provides a platform for industry, academia, and community members to engage with a range of design challenges and opportunities in Melbourne. The committee also advises the city council on the development and implementation of the Design Excellence Programme and explores opportunities to strengthen collaboration across award programmes and design events. 
 
 ###### ![The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.](/images/features/2024/Ioor-visual.jpg/)**The Integral Design Method Public Space suggests a more integrated approach in addressing multiple issues and city layers strategically in managing the city’s spaces.** © City of Amsterdam 
 
-The new design method prioritises integrating below-ground infrastructure and public space design for a more sustainable and liveable environment. It involves public-private partnerships from an early stage to address issues like heat, precipitation, energy systems, circularity, and nature-inclusive design.
+Some of the issues and topics discussed by the committee are on emerging design issues and precinct opportunities for Melbourne’s tunnel projects, the future of housing, sustainable building designs and design competition guidelines.
 
-It is about tackling multiple, interconnected challenges with a more systemic way of working. We applied this approach to the Amstel-Stad area. 
+An example of a project that the committee shared feedback on was how we could transform the underused space under the Kings Way overpass. Located in one of our most densely populated suburbs, this could be turned into 5,000 square metres of usable public space for recreation and art.
 
-#### **What has been the interest in this new methodology?**
+#### **Apart from the design committee, you also have a separate design panel that provides free design advice for the industry.**
 
-**Joyce:** We are happy to see that this methodology has been scaled up and adapted in other municipalities in Netherlands. We have published the case study on Amstel-Stad and shared this globally. There is also a workbook published where designers can use this resource to adapt the methodology for different contexts.  
+**Bronwen:** The setup of the Melbourne Design Review Panel is a major milestone. It is made up of 16 experienced architects, landscape architects and urban designers. They have provided independent design inputs and market advice on significant development proposals before and during the planning approval process and other city-shaping projects. 
 
 ###### ![A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.](/images/features/2024/simulation.jpg/)**A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.** © City of Amsterdam
 
-We have received a lot of interest from many cities on this approach. The Integral Design Method Public Space publication is even translated to Bahasa Indonesian as the Indonesians were interested to learn from this in using the material in many of their local universities and educational programmes.
+A further nine members can be called on to provide technical expertise on topics such as heritage, sustainability and environmental design, development feasibility and Aboriginal cultural heritage.
 
-#### **What is one fundamental aspect about the integrated approach that cities should take notice?**
+We are seeing a significant improvement in building designs because of the panel’s contributions. This new process also helps to build industry capabilities and a stronger culture amongst designers and building owners that emphasises design excellence.
 
-**Joyce:** The essence of the integrated design methodology is being able to look at all your key infrastructural assets and make strategic moves at the right time. When you need to maintain or upgrade your cables and pipes, you may be changing the streets while doing so and this may destroy the trees in the process. 
+###### ![A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.](/images/features/2024/simulation.jpg/)**A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.** © City of Amsterdam
 
-We need to look at all our infrastructural assets and their life cycle in a more systemic way and be able to coordinate and orchestrate the maintenance, upgrading and building of key infrastructures considering their impact and relationship with other aspects of the city, including how these affect the growth of our trees.    
+For projects that are reviewed by the panel, it is not about knocking down project designs but is about getting a wider, more collaborative and suitable advice that is tailored to the different stages of the design process from the early to the more detailed phases.
 
-#### **You have advocated that we need to pay closer attention to the soil in our urban areas. Why do we need to do so?**
+What is unique about this panel is the design advice is provided free of charge and is open and available to the industry and public. Beyond the more strategic and significant projects that the panel provides inputs on, building owners and architects can voluntarily submit their projects for design input too.
 
-**Joyce:** Did you know that one teaspoon of soil has more life in it than people on earth? Our soil is the source of life for our cities, not just in ensuring our trees and plants grow well to provide shade and comfort for us, but it directly contributes to our cities’ liveability.
+#### **Under the programme, how do you engage and inspire communities in building a stronger design-conscious culture?**
 
-###### ![Mapping out the detailed soil conditions in Amsterdam.](/images/features/2024/mapping-biodiversity.jpg/)**Mapping out the detailed soil conditions in Amsterdam.** © City of Amsterdam
+**Bronwen:** We curate and organise many events and activities to cover a diverse range of urban and design-related topics shaping Melbourne for people to be engaged and inspired. We try to introduce fresh voices, perspectives and new ideas each time. Many of these activities are done in collaboration with different organisations.
 
-Our scientists in collaboration with researchers did DNA research to understand why the trees in Amstel-Stad were not growing well and found that it had to do with the poor soil condition. We learnt that the soil is like the “black box” in urban planning. We need to pay closer attention to how we treat our soil. Our underground space is quickly getting filled up with cables and pipes and there may not be enough space for trees to grow well. We need to find new solutions and ways in how we can organise and coordinate our underground spaces to ensure we have sufficient open spaces for trees to grow.
+One of the extensions of the programme is the Open House Melbourne which is organised every year over several weekends. Walking tours and visits are organised to different buildings from private homes to infrastructure such as the Melbourne Arts precinct transformation.
 
-###### ![Understanding the many living organisms in the soil underneath the city.](/images/features/2024/life-in-soil.jpg/)**Understanding the many living organisms in the soil underneath the city.** © City of Amsterdam
+This helps people to rediscover and reconnect with places that are well loved, explore new offerings and gain a richer understanding of the city from different perspectives. It helps to build up a stronger awareness and appreciation on how good design can make our city and lives better. For the 2024 run, over 63,000 people participated in about 170 events and 870 tours, talks, workshops and exhibitions.  
 
-#### **Beyond just caring for our soil under our ground, we also need to ensure our soils’ rich biodiversity. Why is this important?**
+###### ![A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.](/images/features/2024/simulation.jpg/)**A simulation of the various uses and layers above and below ground in Amstel-Stad in Amsterdam.** © Cit
 
-**Joyce:** Without life in our soil, we lose the natural engineers—worms, fungi, roots—that create tiny channels and structures that help water infiltrate, be retained, and move gradually through the ground. These living systems are essential for preventing surface flooding, enhancing water resilience, and keeping our cities liveable. Healthy, biodiverse soils act like a sponge and a filter at the same time—they slow down water, purify it, and store it. Without them, we face more extreme droughts and floods. Biodiversity below ground is just as crucial as above.
+#### **Another project that has inspired and excited many beyond Melbourne is the MPavilion since 2014. What has been its value and impact on championing good design?**
 
-A soil with rich biodiversity is also essential for helping to transport sufficient nutrients to plants and trees on our roads and streets for them to flourish, to give us shade, comfort and contribute to our wellbeing. When we think about infrastructure, we also must think about infra-nature in soil. Trees also need connection to one another to exchange nutrients and this is the same with soil. 
+**Bronwen:** The MPavilion seeks to celebrate design in many ways. The Naomi Milgrom Foundation commissions architects from Australia and around the world every year to design a temporary pavilion, an informal community meeting place for the Queen Victoria Gardens in the heart of Melbourne. Beyond the beautiful pavilion designs created for each edition, the five-month design festival of free events organised within and around these pavilions inspire locals and visitors to reflect on how architecture, art and design has shaped the city.
 
-#### **What are some important priorities landscape architects should focus on?**
+The 2023 MPavilion 10 (extended in 2025) designed by Japanese architect and Pritzker Prize Laureate, Tadao Ando, has inspired many interesting programming. This ranges from interactive design workshops for kids, to performances and even a greyscale gelato ice cream flavour created to reflect the pavilion’s concrete structure design.
 
-**Joyce:** There is an increasing need for landscape architects to work on the larger strategy and systemic levels in shaping our physical environments. I believe the landscape architect has the potential and ability to look at sustainability in more holistic ways and can help to bring together all the key elements. 
+When each season draws to a close, each MPavilion is relocated to a local area where further programming is organised as catalysts for more design-related conversations.
 
-There must be strong leadership and vision to lead and drive the larger systemic strategies and combine this with more technical expertise, bringing in the financial perspective as well. **<font color="#967942">O</font>** 
-
-###### ![Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.](/images/features/2024/biodiversity-book.jpg/)**Joyce’s book, BiodiverCITY, presents strategies and initiatives on how cities can maintain healthy soil as the key to urban life.** © City of Amsterdam
-
-| **Joyce can den Berg** is an experienced landscape architect and passionate systems innovator. With the development and publication of the Integral Design Method Public Space (2020) and the follow-up research, BiodiverCITY_A Matter of Vital Soil! (2021), Joyce has introduced a new methodology for public space design on the national and international map. She has worked on many comprehensive and complex sustainable projects before joining the City of Amsterdam as the Chief Landscape Architect. |
+| **Bronwen Hamilton** is the Design Manager and Principal Urban Designer of the City of Melbourne. As an urban designer and a landscape architect, she has over 20 years’ experience working in all levels of government, providing urban design advice on projects shaping the city. She leads the Melbourne Design Review Panel and is an expert adviser on the Victorian Design Review Panels. |
