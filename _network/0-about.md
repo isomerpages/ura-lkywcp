@@ -23,17 +23,17 @@ The LKYWCP Network was launched at World Cities Summit 2024 with an announcement
 
 The Network was jointly found by the first 7 LKYWCP Laureates and is also open to the Prize's Special Mentions and future awardees. To enrich the engagements, the Network also brings together various stakeholders from each city: mayors, city hall, planning departments, and knowledge organisations.
 
-Founding Members:
+Founding Members of the City Network for the Lee Kuan Yew World City Prize:
 
-| Member City | Knowledge Partners |
-| :--- | :--- |
-| [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao |
-| [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City |
+| Member City | Knowledge Partners | Link |  
+| :--- | :--- | :--- |
+| [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao | https://www.bm30.eus/en/ |
+| [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City | https://rpa.org |
 | [Suzhou](/suzhou/) (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
-| [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellín |
-| [Seoul](/seoul/) (Laureate, 2018) | Seoul Institute (SI), Seoul | 
-| [Vienna](/vienna/) (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna |
-| [Mexico City](/mexico-city/) (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City |
+| [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellín | https://rutanmedellin.org |
+| [Seoul](/seoul/) (Laureate, 2018) | Seoul Institute (SI), Seoul | https://global.si.re.kr |
+| [Vienna](/vienna/) (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna | https://urbaninnovation.at/en/ |
+| [Mexico City](/mexico-city/) (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City | https://mexicocomovamos.mx |
 
 
 #### **Network Secretariats**
