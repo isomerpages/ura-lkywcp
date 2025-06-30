@@ -23,7 +23,7 @@ The LKYWCP Network was launched at World Cities Summit 2024 with an announcement
 
 The Network was jointly found by the first 7 LKYWCP Laureates and is also open to the Prize's Special Mentions and future awardees. To enrich the engagements, the Network also brings together various stakeholders from each city: mayors, city hall, planning departments, and knowledge organisations.
 
-Founding Members of the City Network for the Lee Kuan Yew World City Prize:
+**Founding Members of the City Network for the Lee Kuan Yew World City Prize**
 
 | Member City | Knowledge Partners | Link |  
 | :--- | :--- | :--- |
