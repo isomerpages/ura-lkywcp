@@ -59,7 +59,7 @@ I find this type of innovation very good, and I always say, "Don't do too many p
 
 #### **What is the significance of the Lee Kuan Yew World City Prize for cities like Antwerp?**
 
-###### ![The nine-hectare Park Dok Zuid in Antwerp, transformed from a car park into a key public space for residents and visitors.](/images/features/2024/mpavilion.jpg/)**The nine-hectare Park Dok Zuid in Antwerp, transformed from a car park into a key public space for residents and visitors.** © Sigrid Spinnox 
+###### ![The nine-hectare Park Dok Zuid in Antwerp, transformed from a car park into a key public space for residents and visitors.](/images/features/2024/antwerp-park-dok-zuid.jpg/)**The nine-hectare Park Dok Zuid in Antwerp, transformed from a car park into a key public space for residents and visitors.** © Sigrid Spinnox 
 
 **Koen:** The significance of the Prize is that it shows you are actively engaged in these types of initiatives, that you are undertaking projects worthwhile for the rest of the world to observe. It also clearly encourages the city to continue working on such projects and to remain innovative, constantly doing new things. On the other hand, perhaps the most important aspect is what we're doing here – exchanging ideas, learning from each other, seeing what's happening in different cities and how varied it is everywhere. You can't say that every city has the same issues or the same solutions. But you can always pick out some interesting things and appreciate the differences between cities. 
 
