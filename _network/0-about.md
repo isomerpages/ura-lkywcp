@@ -41,7 +41,7 @@ Since the LKYWCP Network's inception, we have welcomed the five Special Mention 
 
 | Member City | Knowledge Partners | Link |  
 | :--- | :--- | :--- |
-| [Brisbane]Special Mention, 2012) | Committee for Brisbane, Brisbane | https://committeeforbrisbane.org.au/ |
+| [Brisbane] (Special Mention, 2012) | Committee for Brisbane, Brisbane | https://committeeforbrisbane.org.au/ |
 | [Yokohama] (Special Mention, 2014) | | |
 | [Antwerp] (Special Mention, 2020) |	Design Sciences Hub, University of Antwerp (DSH), Antwerp | https://designscienceshub.com/ |
 | [Cape Town] (Special Mention, 2024) |	International Growth Centre (IGC), Cape Town | https://www.theigc.org/ | |
