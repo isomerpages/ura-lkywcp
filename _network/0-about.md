@@ -35,6 +35,18 @@ Founding Members of the City Network for the Lee Kuan Yew World City Prize:
 | [Vienna](/vienna/) (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna | https://urbaninnovation.at/en/ |
 | [Mexico City](/mexico-city/) (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City | https://mexicocomovamos.mx |
 
+Since the LKYWCP Network's inception, we have welcomed the five Special Mention cities, with more currently being onboarded.
+
+**Special Mention Cities** 
+
+| Member City | Knowledge Partners | Link |  
+| :--- | :--- | :--- |
+| [Brisbane]Special Mention, 2012) | Committee for Brisbane, Brisbane | https://committeeforbrisbane.org.au/ |
+| [Yokohama] (Special Mention, 2014) | | |
+| [Antwerp] (Special Mention, 2020) |	Design Sciences Hub, University of Antwerp (DSH), Antwerp | https://designscienceshub.com/ |
+| [Cape Town] (Special Mention, 2024) |	International Growth Centre (IGC), Cape Town | https://www.theigc.org/ | |
+| [Rio de Janeiro] (Special Mention, 2024) | Institutos Passos Pereira (IPP), Rio de Janeiro | https://ipp.prefeitura.rio/  |
+
 
 #### **Network Secretariats**
 
