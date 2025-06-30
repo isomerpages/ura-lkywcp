@@ -17,8 +17,7 @@ description: From seducing citizens with convenient mobility options to creating
 
 Additionally, we are ensuring there's a good offer of attractive alternatives. In English, there's a very nice term for it: it has to be 'convenient.' If it's convenient, people will use it. So, we have a lot of shared mobility options. If you have good, accessible shared mobility, a modal shift will occur in cities. Therefore, shared mobility is very important. 
 
-###### ![Antwerp has been accelerating its construction of bike priority streets including at the Troonplaats area as shown above.](/images/features/2024/antwerp-troonplaats.jpg/)**Antwerp has been accelerating its construction of bike priority streets including at the Troonplaats area as
-shown above.** © Frederick Beyens 
+###### ![Antwerp has been accelerating its construction of bike priority streets including at the Troonplaats area as shown above.](/images/features/2024/antwerp-troonplaats.jpg/)**Antwerp has been accelerating its construction of bike priority streets including at the Troonplaats area as shown above.** © Frederick Beyens 
 
 A significant area we still need to improve, in collaboration with the regional government, is our public transport system. This is crucial as it forms the backbone of good mobility alternatives. At both the regional and federal levels, train services need improvement so that more people from the wider region will use public transport in the future and change their commute to the city. Instead of coming by car, they can drive to the station, take the train, or drive to a park-and-ride and take a tram, for instance, to the city. We have built very large, recognisable, safe, spacious, and well-lit park-and-ride facilities so that people feel secure and comfortable using them.
 
