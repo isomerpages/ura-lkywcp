@@ -42,8 +42,8 @@ Panelists included representatives from LKYWCP Network founding member cities of
 
 The LKYWCP Network held a closed-door Convening Session, where members engaged in a focused discussion on policy and planning strategies for urban rejuvenation, exchanging insights on approaches to guide the sustainable and people-centred revitalisation of urban areas.
 
-###### ![Knowledge Forum](/images/features/2024/knowledge-forum.jpg)**The Panel on Resilience & Regeneration Strategies for Urban Innovation examined impactful initiatives aimed at revitalisation and resilience.** © Centre for Liveable Cities
+###### ![Knowledge Forum](/images/features/2024/bilbao-1.jpg)**The Panel on Resilience & Regeneration Strategies for Urban Innovation examined impactful initiatives aimed at revitalisation and resilience.** © Centre for Liveable Cities
 
-###### ![Knowledge Forum](/images/features/2024/knowledge-forum.jpg)**LKYWCP Network Members at the WRLDCTY & The Bay Awards Summit in Bilbao Spain, the first LKYWCP Network convening outside of Singapore.** © Centre for Liveable Cities
+###### ![Knowledge Forum](/images/features/2024/bilbao-2.jpg)**LKYWCP Network Members at the WRLDCTY & The Bay Awards Summit in Bilbao Spain, the first LKYWCP Network convening outside of Singapore.** © Centre for Liveable Cities
 
-###### ![Knowledge Forum](/images/features/2024/knowledge-forum.jpg)**LKYWCP Network Members, together with colleagues from the Urban Planning Department of the Bilbao City Council.** © Centre for Liveable Cities
+###### ![Knowledge Forum](/images/features/2024/bilbao-3.jpg)**LKYWCP Network Members, together with colleagues from the Urban Planning Department of the Bilbao City Council.** © Centre for Liveable Cities
