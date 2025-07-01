@@ -1,8 +1,8 @@
 ---
 title: City Network for the Lee Kuan Yew World City Prize Fellowships
 permalink: /network/fellowships/
-image: /images/features/2024/knowledge-forum.jpg/
-description: City Network for the Lee Kuan Yew World City Prize Fellowships To cultivate knowledge sharing and dialogue, the LKYWCP Network secretariat organises events such as panels and lectures featuring its members. The LKYWCP Network also supports member-led events to engender a spirit of collaboration and partnerships amongst cities.
+image: /images/features/2024/lkywcp-network.png/
+description: City Network for the Lee Kuan Yew World City Prize Fellowships
 ---
 
 #### **City Network for the Lee Kuan Yew World City Prize Fellowships**
