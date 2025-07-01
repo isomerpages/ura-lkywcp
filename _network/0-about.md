@@ -27,7 +27,7 @@ Founding Members of the City Network for the Lee Kuan Yew World City Prize:
 
 | Member City | Knowledge Partners | Link |  
 | :--- | :--- | :--- |
-| [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao | [https://www.bm30.eus/en/] (https://www.bm30.eus/en/) |
+| [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao | https://www.bm30.eus/en/ |
 | [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City | https://rpa.org |
 | [Suzhou](/suzhou/) (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
 | [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellín | https://rutanmedellin.org |
