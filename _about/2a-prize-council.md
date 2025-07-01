@@ -15,7 +15,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-<td><strong>Mr Peter <u>Ho</u></strong><br />Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
+<td><strong>Mr Peter <u>Ho</u></strong><br />Chairman<br />Lee Kuan Yew World City Prize Council<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
 </tr>
 </tbody>
 </table>
