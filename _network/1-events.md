@@ -11,26 +11,39 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 
 ---
 
-#### **Resilience & Regeneration Strategies for Urban Innovation - 9 Oct 2024**
+#### **Mayors Forum 2025 (Vienna, Austria)**
 
-This panel discussion focuses on urban revitalisation and addresses various aspects of resilience such as climate change adaptation, risks from extreme weather events, demographic shifts, economic rejuvenation, and citizen participation. It will provide a comprehensive view of the challenges and opportunities cities are facing today.
+**WCS Responsive Cities Session - 3 July 2025**
 
-Panelists include representatives from LKYWCP Network founding member cities of Bilbao, Medellín, New York City, Seoul, and Vienna. The panel is moderated by CLC’s Executive Fellow, Mr Michael Koh.
+The WCS Responsive Cities Session is a two-part programme which explores the increasingly complex challenges of rapid urbanisation including climate change and evolving societies. Responsive cities leverage on a science of cities approach to urban governance, encompassing data-smart governance and use of technology in citizen engagement. These help cities to deliver evidence-based solutions to create urban environments that are more liveable, resilient, and attuned to the dynamic needs of the citizens.
 
-||
-| An event at The Bay Awards, Bilbao, 2024. Supported by LKYWCP Network. |
-||
+The session will begin with the **Lee Kuan Yew World City Prize Network (LKYWCP Network) Knowledge Forum**. The Knowledge Forum will feature a panel of representatives from the LKYWCP Network member cities.
+
+The LKYWCP Network Knowledge Forum will explore how cities can build trust with citizens through inclusive and collaborative governance. At the heart of this approach is the recognition that urban governance must be both strategic and adaptable—able to respond effectively to complex challenges while remaining grounded in the lived experiences of its residents.
+
+Panelists will share their experiences and insights from the field, with deep dives into:
+•	Policies that have enabled cities to respond effectively to emerging citizen needs or crises
+•	Institutional and governance shifts that have supported more agile, iterative planning
+•	Strategies to balance long-term strategic planning with short-term responsiveness in city governance
+
+Through open discussion, the LKYWCP Network Forum brings together policy practitioners, researchers, and urban experts to reflect on how cities can deepen responsiveness while strengthening public trust.
 
 ---
 
-#### **LKYWCP Network Knowledge Forum – 3 Jun 2024**
+#### **WRLDCITY & The Bay Awards Summit (Bilbao, Spain)**
 
-###### ![Knowledge Forum](/images/features/2024/knowledge-forum.jpg)**LKYWCP Network Knowledge Forum** © Centre for Liveable Cities
+**Resilience & Regeneration Strategies for Urban Innovation - 9 Oct 2024**
 
-This session kickstarts the formalisation of the Lee Kuan Yew World City Prize Network – an initiative to foster deeper city-to-city partnerships to create and exchange knowledge on sustainable and liveable cities. The Knowledge Forum will convene representative knowledge organisations from the Lee Kuan Yew World City Prize Laureate cities, founding members of the Network, to reflect on the urban challenges that their respective cities have tackled over the last decade and the ones that will impact their future. The presentations and ensuing panel discussion will highlight best practices to address these challenges, and explore how cities can collaborate to find solutions for their urban future.
+This panel discussion focused on urban revitalisation and addresses various aspects of resilience such as climate change adaptation, risks from extreme weather events, demographic shifts, economic rejuvenation, and citizen participation. It provided a comprehensive view of the challenges and opportunities cities are facing today.
 
-Panelists include representatives from LKYWCP Network founding member cities of Bilbao, Medellín, Mexico City, New York City, Seoul, Suzhou, and Vienna. The panel featured an opening address by Prof. Cheong Koon Hean, Chair, LKYWCP Nominating Committee and Chair, Advisory Panel for the Centre for Liveable Cities; and was moderated by Dr Lam Khee Poh, Provost’s Chair Professor of Architecture and the Built Environment, National University of Singapore.
+Panelists included representatives from LKYWCP Network founding member cities of Bilbao, Medellín, New York City, Seoul, and Vienna. The panel was moderated by CLC’s Executive Fellow, Mr Michael Koh.
 
-||
-| An event at [World Cities Summit 2024, Singapore](https://www.worldcitiessummit.com.sg/) <br> More info about the event [here](https://www.clc.gov.sg/research-publications/publications/digital-library/view/launch-of-the-city-network-for-the-lee-kuan-yew-world-city-prize) | 
-||
+**LKYWCP Network Convening Session – 8 Oct 2024**
+
+The LKYWCP Network held a closed-door Convening Session, where members engaged in a focused discussion on policy and planning strategies for urban rejuvenation, exchanging insights on approaches to guide the sustainable and people-centred revitalisation of urban areas.
+
+###### ![Knowledge Forum](/images/features/2024/bilbao-1.jpg)**The Panel on Resilience & Regeneration Strategies for Urban Innovation examined impactful initiatives aimed at revitalisation and resilience.** © Centre for Liveable Cities
+
+###### ![Knowledge Forum](/images/features/2024/bilbao-2.jpg)**LKYWCP Network Members at the WRLDCTY & The Bay Awards Summit in Bilbao Spain, the first LKYWCP Network convening outside of Singapore.** © Centre for Liveable Cities
+
+###### ![Knowledge Forum](/images/features/2024/bilbao-3.jpg)**LKYWCP Network Members, together with colleagues from the Urban Planning Department of the Bilbao City Council.** © Centre for Liveable Cities
