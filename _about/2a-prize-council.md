@@ -59,4 +59,4 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 | **6** | **Mr John <u>So</u>** <br> Former Lord Mayor, Melbourne | 
 | **7** | **Mr Achim <u>Steiner</u>** <br> Administrator, United Nations Development Programme |
 | **8** | **Dr <u>Qiu</u> Baoxing** <br> Counsellor, State Council, China |
-| **9** | **Ms <u>Helen</u> Clark** <br> Former Administrator, United Nations Development Programme, New Zealand |   
+| **9** | **Ms Helen <u>Clark</u>** <br> Former Administrator, United Nations Development Programme, New Zealand |   
