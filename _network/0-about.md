@@ -27,13 +27,13 @@ Founding Members of the City Network for the Lee Kuan Yew World City Prize:
 
 | Member City | Knowledge Partners | Link |  
 | :--- | :--- | :--- |
-| [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao | https://www.bm30.eus/en/ |
-| [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City | https://rpa.org |
+| [Bilbao](/bilbao/) (Laureate, 2010) | Bilbao Metropoli 30 (BM30), Bilbao | [https://www.bm30.eus/en/](https://www.bm30.eus/en/) |
+| [New York City](/nyc/) (Laureate, 2012) | Regional Planning Association (RPA), New York City | [https://rpa.org](https://rpa.org) |
 | [Suzhou](/suzhou/) (Laureate, 2014) |	Suzhou Spatial Planning Think Tank Platform, Suzhou |
-| [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellín | https://rutanmedellin.org |
-| [Seoul](/seoul/) (Laureate, 2018) | Seoul Institute (SI), Seoul | https://global.si.re.kr |
-| [Vienna](/vienna/) (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna | https://urbaninnovation.at/en/ |
-| [Mexico City](/mexico-city/) (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City | https://mexicocomovamos.mx |
+| [Medellín](/medellin/) (Laureate, 2016) |	Ruta N, Medellín | [https://rutanmedellin.org](https://rutanmedellin.org) |
+| [Seoul](/seoul/) (Laureate, 2018) | Seoul Institute (SI), Seoul | [https://global.si.re.kr](https://global.si.re.kr) |
+| [Vienna](/vienna/) (Laureate, 2020)	| Urban Innovation Vienna (UIV), Vienna | [https://urbaninnovation.at/en/](https://urbaninnovation.at/en/) |
+| [Mexico City](/mexico-city/) (Laureate, 2024) |	México, ¿cómo vamos?, Mexico City | [https://mexicocomovamos.mx](https://mexicocomovamos.mx) |
 
 Since the LKYWCP Network's inception, we have welcomed the five Special Mention cities, with more currently being onboarded.
 
@@ -42,10 +42,10 @@ Special Mention Cities:
 | Member City | Knowledge Partners | Link |  
 | :--- | :--- | :--- |
 | [Brisbane](/brisbane/) (Special Mention, 2012) | Committee for Brisbane, Brisbane | [https://committeeforbrisbane.org.au/](https://committeeforbrisbane.org.au) |
-| [Yokohama] (Special Mention, 2014) | | |
-| [Antwerp] (Special Mention, 2020) |	Design Sciences Hub, University of Antwerp (DSH), Antwerp | https://designscienceshub.com/ |
-| [Cape Town] (Special Mention, 2024) |	International Growth Centre (IGC), Cape Town | https://www.theigc.org/ | |
-| [Rio de Janeiro] (Special Mention, 2024) | Institutos Passos Pereira (IPP), Rio de Janeiro | https://ipp.prefeitura.rio/  |
+| [Yokohama](/yokohama/) (Special Mention, 2014) | | |
+| [Antwerp](/antwerp/) (Special Mention, 2020) |	Design Sciences Hub, University of Antwerp (DSH), Antwerp | [https://designscienceshub.com/](https://designscienceshub.com/) |
+| [Cape Town](/cape-town/) (Special Mention, 2024) |	International Growth Centre (IGC), Cape Town | [https://www.theigc.org/](https://www.theigc.org/) | 
+| [Rio de Janeiro](/rio-de-janeiro/) (Special Mention, 2024) | Institutos Passos Pereira (IPP), Rio de Janeiro | [https://ipp.prefeitura.rio/](https://ipp.prefeitura.rio/) |
 
 
 #### **Network Secretariats**
