@@ -6,7 +6,7 @@ permalink: /maimunah-mohd-sharif/
 
 <div style="width:150px"><img src="/images/jury/maimunah-mohd-sharif.png" alt="Maimunah Mohd Sharif" /></div>
 
-##### **Maimunah Mohd <u>Sharif</u>** <br> Member, Lee Kuan Yew World City Prize Council <br> Mayor, Kuala Lumpur <br> Malaysia
+##### **Maimunah Mohd <u>Sharif</u>** <br> Member, Lee Kuan Yew World City Prize Council <br> Mayor, Kuala Lumpur, Malaysia <br> Former Executive Director, UN-Habitat 
 
 ---
 
