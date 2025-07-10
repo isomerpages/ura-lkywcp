@@ -33,7 +33,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <td><br><strong>Ambassador <u>Chan</u> Heng Chee</strong><br />Professor (Former Chair)<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/chan-heng-chee/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
+<td><br><img src="/images/jury/glaeser.png" alt="Helen Clark" /><br></td>
 <td><br><strong>Prof Edward <u>Glaeser</u> </strong><br />Fred and Eleanor Gimp Professor of Economics<br />Harvard University<br />USA<br><a href="/helen-clark/">Biography</a></td>
 </tr>
 <tr>
