@@ -15,7 +15,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-<td><strong>Mr Peter <u>Ho</u></strong><br />Chairman<br />Lee Kuan Yew World City Prize Council<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
+<td><strong>Mr Peter <u>Ho</u></strong><br />Former Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
 </tr>
 </tbody>
 </table>
@@ -34,7 +34,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 </tr>
 <tr>
 <td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
-<td><br><strong>Ms Helen <u>Clark</u> </strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/helen-clark/">Biography</a></td>
+<td><br><strong>Prof Edward <u>Glaeser</u> </strong><br />Fred and Eleanor Gimp Professor of Economics<br />Harvard University<br />USA<br><a href="/helen-clark/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
@@ -42,7 +42,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 </tr>
 <tr>
 <td><br><img src="/images/jury/maimunah-mohd-sharif.png" alt="Maimunah Mohd Sharif" /><br></td>
-<td><br><strong>Ms Maimunah Mohd <u>Sharif</u></strong><br />Mayor<br />City of Kuala Lumpur<br />Malaysia<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
+<td><br><strong>Dr Maimunah Mohd <u>Sharif</u></strong><br />Mayor<br />City of Kuala Lumpur<br />Malaysia<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
 </tr>
 </tbody>
 </table>
@@ -59,3 +59,4 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 | **6** | **Mr John <u>So</u>** <br> Former Lord Mayor, Melbourne | 
 | **7** | **Mr Achim <u>Steiner</u>** <br> Administrator, United Nations Development Programme |
 | **8** | **Dr <u>Qiu</u> Baoxing** <br> Counsellor, State Council, China |
+| **9** | **Ms <u>Helen</u> Clark** <br> Former Administrator, United Nations Development Programme, New Zealand |   
