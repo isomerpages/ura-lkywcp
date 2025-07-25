@@ -28,9 +28,9 @@ Panelists shared their experiences and insights from the field, deep diving into
 
 Through open discussion, the LKYWCP Network Forum brought together policy practitioners, researchers, and urban experts to reflect on how cities can deepen responsiveness while strengthening public trust.
 
-###### ![Knowledge Forum](/images/features/2024/bilbao-1.jpg)**The LKYWCP Network Knowledge Forum at the World Cities Summit Mayors Forum 2025 Responsive Cities Session featured rich representation from across the Network, with panelists from Bilbao, Brisbane, Medellín, New York City, Seoul, Singapore, Vienna, and Yokohama.** © Centre for Liveable Cities 
+###### ![Knowledge Forum](/images/features/2024/responsive-cities-1.png)**The LKYWCP Network Knowledge Forum at the World Cities Summit Mayors Forum 2025 Responsive Cities Session featured rich representation from across the Network, with panelists from Bilbao, Brisbane, Medellín, New York City, Seoul, Singapore, Vienna, and Yokohama.** © Centre for Liveable Cities 
 
-###### ![Knowledge Forum](/images/features/2024/bilbao-1.jpg)**The LKYWCP Network Knowledge Forum discussed how cities can build trust through inclusive governance and balance long-term strategies with agile and effective responses.** © Centre for Liveable Cities
+###### ![Knowledge Forum](/images/features/2024/responsive-cities-2.png)**The LKYWCP Network Knowledge Forum discussed how cities can build trust through inclusive governance and balance long-term strategies with agile and effective responses.** © Centre for Liveable Cities
 ---
 
 #### **WRLDCITY & The Bay Awards Summit (Bilbao, Spain)**
