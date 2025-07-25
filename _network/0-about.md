@@ -5,7 +5,7 @@ image: /images/features/2024/lkywcp-network.png/
 description: The City Network for the Lee Kuan Yew World City Prize (LKYWCP Network) is a platform for urban leaders and practitioners to connect and engage in creating and exchanging knowledge on building liveable and sustainable cities.
 ---
 
-![medallion](/images/features/2024/lkywcp-network.png)
+![medallion](/images/features/2024/new-network-logo.png)
 
 **The City Network for the Lee Kuan Yew World City Prize** (LKYWCP Network) is a platform for urban leaders and practitioners to connect and engage in creating and exchanging knowledge on building liveable and sustainable cities.
 
