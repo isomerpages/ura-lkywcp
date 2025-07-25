@@ -15,19 +15,22 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 
 **WCS Responsive Cities Session - 3 July 2025**
 
-The WCS Responsive Cities Session is a two-part programme which explores the increasingly complex challenges of rapid urbanisation including climate change and evolving societies. Responsive cities leverage on a science of cities approach to urban governance, encompassing data-smart governance and use of technology in citizen engagement. These help cities to deliver evidence-based solutions to create urban environments that are more liveable, resilient, and attuned to the dynamic needs of the citizens.
+The WCS Responsive Cities Session was a two-part programme which explored the increasingly complex challenges of rapid urbanisation including climate change and evolving societies. Responsive cities leverage on a science of cities approach to urban governance, encompassing data-smart governance and use of technology in citizen engagement. These help cities to deliver evidence-based solutions to create urban environments that are more liveable, resilient, and attuned to the dynamic needs of the citizens.
 
-The session will begin with the **Lee Kuan Yew World City Prize Network (LKYWCP Network) Knowledge Forum**. The Knowledge Forum will feature a panel of representatives from the LKYWCP Network member cities.
+The session began with the **Lee Kuan Yew World City Prize Network (LKYWCP Network) Knowledge Forum.** The Knowledge Forum featured a panel of representatives from the LKYWCP Network member cities.
 
-The LKYWCP Network Knowledge Forum will explore how cities can build trust with citizens through inclusive and collaborative governance. At the heart of this approach is the recognition that urban governance must be both strategic and adaptable—able to respond effectively to complex challenges while remaining grounded in the lived experiences of its residents.
+The LKYWCP Network Knowledge Forum explored how cities can build trust with citizens through inclusive and collaborative governance. At the heart of this approach was the recognition that urban governance must be both strategic and adaptable — able to respond effectively to complex challenges while remaining grounded in the lived experiences of its residents.
 
-Panelists will share their experiences and insights from the field, with deep dives into:
-•	Policies that have enabled cities to respond effectively to emerging citizen needs or crises
-•	Institutional and governance shifts that have supported more agile, iterative planning
-•	Strategies to balance long-term strategic planning with short-term responsiveness in city governance
+Panelists shared their experiences and insights from the field, deep diving into: 
+<br/>• Policies that have enabled cities to respond effectively to emerging citizen needs or crises 
+<br/>• Institutional and governance shifts that have supported more agile, iterative planning 
+<br/>• Strategies to balance long-term strategic planning with short-term responsiveness in city governance
 
-Through open discussion, the LKYWCP Network Forum brings together policy practitioners, researchers, and urban experts to reflect on how cities can deepen responsiveness while strengthening public trust.
+Through open discussion, the LKYWCP Network Forum brought together policy practitioners, researchers, and urban experts to reflect on how cities can deepen responsiveness while strengthening public trust.
 
+###### ![Knowledge Forum](/images/features/2024/responsive-cities-1.png)**The LKYWCP Network Knowledge Forum at the World Cities Summit Mayors Forum 2025 Responsive Cities Session featured rich representation from across the Network, with panelists from Bilbao, Brisbane, Medellín, New York City, Seoul, Singapore, Vienna, and Yokohama.** © Centre for Liveable Cities 
+
+###### ![Knowledge Forum](/images/features/2024/responsive-cities-2.png)**The LKYWCP Network Knowledge Forum discussed how cities can build trust through inclusive governance and balance long-term strategies with agile and effective responses.** © Centre for Liveable Cities
 ---
 
 #### **WRLDCITY & The Bay Awards Summit (Bilbao, Spain)**
