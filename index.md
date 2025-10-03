@@ -8,7 +8,7 @@ published: true
 notification: 
 sections:
     - hero:
-        title: 
+        title: Thank you for your applications
         subtitle: 
         background: /images/herobanner.gif
         button: 
