@@ -8,7 +8,7 @@ published: true
 notification: 
 sections:
     - hero:
-        title:  <img src="/images/features/2024/apply-now.png" alt="apply now image">
+        title:  Thank you for your application. Nominations for 2026 Prize is now closed.
         subtitle: 
         background: /images/herobanner.gif
         button: 
@@ -23,7 +23,7 @@ sections:
         description: Nominations for the 2026 Prize now closed. Look out for the next cycle application window in 2027. 
         button: Nominations for 2026 Prize is now closed
         url: /stage-a/
-        image: /images/features/2024/banner2026.gif/
+        image: /images/features/2024/banner2026.gif
         alt: Call for nominations for 2026 Prize is now closed
     - infopic:    
         title: Pedestrians are always first in Antwerp
