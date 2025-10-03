@@ -3,11 +3,11 @@ title: Stage B
 permalink: /stage-b/
 third_nav_title: Nominations
 image: /images/features/2024/stage-b.png
-description: Nominations for the Lee Kuan Yew World City Prize 2026 will open soon! 
+description: Nominations for the Lee Kuan Yew World City Prize 2026 is now closed 
 published: true
 ---
 
-##### Nominations for the 2026 Prize now open! [Apply now!](https://go.gov.sg/nominations)
+##### Nominations for the 2026 Prize is now closed
 
 #### **Submit detailed written report**
 
@@ -21,13 +21,13 @@ Nominated cities will be notified to prepare and submit a comprehensive written 
 
 #### **Submission forms**
 
-Nominated cities are required to submit all three components - Part 1, Part 2, and Part 3. These can be sent together or separately, but must be received by the specified deadline to be considered complete.
+Nominated cities are required to submit all three components - Part 1, Part 2, and Part 3. These can be sent together or separately, but must be received by the specified deadline to be considered complete. Below is the template from the past cycle. Please note nominations for the Prize 2026 cycle is now closed.
 
 ➜ [Submit Part 1 - Key statistics](https://go.gov.sg/part-1) <br>
 ➜ [Submit Part 2 - Medium/long-term plan](https://go.gov.sg/part-2) <br>
 ➜ [Submit Part 3 - Key projects](https://go.gov.sg/part-3)
 
-**Closing date**: 31 May 2025
+**Closing date**: Nominations for the Prize 2026 cycle is now closed.
 
 ---
 
