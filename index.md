@@ -8,7 +8,7 @@ published: true
 notification: 
 sections:
     - hero:
-        title:  Thank you for your application. Nominations for 2026 Prize is now closed.
+        title: 
         subtitle: 
         background: /images/herobanner.gif
         button: 
