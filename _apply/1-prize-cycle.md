@@ -2,11 +2,11 @@
 title: Prize Cycle
 permalink: /prize-cycle/
 image: /images/prize-cycle.png
-description: Nominations for the LKY World City Prize 2026 are now open! Apply now!
+description: Nominations for the LKY World City Prize 2026 are now closed
 published: false
 ---
 
-##### Nominations for the 2026 Prize now open! [Apply now!](https://go.gov.sg/nominations)
+##### Nominations for the 2026 Prize now closed
 
 ###### ![Prize cycle](/images/prize-cycle.png)
 
