@@ -3,13 +3,13 @@ title: Stage A
 permalink: /stage-a/
 third_nav_title: Nominations
 image: /images/features/2024/stage-a.png
-description: Nominations for the LKY World City Prize 2026 will open soon!
+description: Thank you for your applications! Nominations for the LKY World City Prize 2026 cycle is now closed!
 published: true
 ---
 
-##### Nominations for the 2026 Prize now open! [Apply now!](https://go.gov.sg/nominations)
+##### Thank you for your applications! Nominations for the LKY World City Prize 2026 cycle is now closed!
 
-#### **Apply for the Prize**
+#### **Look out for the next the Prize cycle nomination period in 2027**
 
 Cities interested to apply for the Prize must engage an independent third-party expert in urban planning and cities to nominate them. The following is a suggested list of possible nominators:
 
@@ -18,18 +18,6 @@ Cities interested to apply for the Prize must engage an independent third-party 
 | **Urban Experts** | Leading industry experts and practitioners in urban planning, urban design, and architecture-related fields, including principal architects, principal sustainability consultants, and other related specialists, preferably holding key appointments in firms with regional or international presence. |
 
 ###### **Note**: Self-nominations[^1] are not accepted, and nominators who do not meet the specified criteria may be disqualified. There is no registration or entry fee required to submit a nomination.
-
-#### **Nomination form**
-
-➜ [Nomination form](https://go.gov.sg/nominations)
-
-**Closing date**: <s>31 March 2025</s> 31 May 2025
-
----
-
-#### **Next step**
-
-- [Stage B](/stage-b/)
 
 #### **Questions?**
 

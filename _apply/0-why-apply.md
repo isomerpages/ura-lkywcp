@@ -15,7 +15,7 @@ By applying for the Prize, you will get to:
 
 #### **Winner benefits**
 
-| | 2026 Prize Laureate | 2026 Special Mentions |
+| | Prize Laureate | Special Mentions |
 |:---|:---:|:---:|
 | Cash Prize of Singapore Dollars $300,000 | ✓ |  |
 | Gold Medallion (valued at Singapore Dollars $50,000) | ✓ |  |
