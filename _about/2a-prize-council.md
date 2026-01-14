@@ -15,7 +15,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/peter-ho.png" alt="Peter Ho" /></td>
-<td><strong>Mr Peter <u>Ho</u></strong><br />Former Chairman<br />Urban Redevelopment Authority<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
+<td><strong>Mr Peter <u>Ho</u></strong><br />Senior Advisor<br />Centre for Strategic Futures<br />Singapore<br><a href="/peter-ho/">Biography</a></td>
 </tr>
 </tbody>
 </table>
@@ -42,7 +42,7 @@ The Prize Council reviews and selects the Prize Laureate based on the recommenda
 </tr>
 <tr>
 <td><br><img src="/images/jury/maimunah-mohd-sharif.png" alt="Maimunah Mohd Sharif" /><br></td>
-<td><br><strong>Dr Maimunah Mohd <u>Sharif</u></strong><br />Mayor<br />City of Kuala Lumpur<br />Malaysia<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
+<td><br><strong>Dr Maimunah Mohd <u>Sharif</u></strong><br />Property Advisor<br />Petronas<br />Malaysia<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
 </tr>
 </tbody>
 </table>
