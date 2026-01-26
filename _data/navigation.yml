@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/lkywcp-logo.png
+
+links:
+  - title: About
+    collection: about
+  - title: Apply
+    collection: apply
+  - title: Winning cities
+    collection: laureates
+  - title: 中文版
+    collection: chinese
+  - title: Network
+    collection: network
+  - title: LinkedIn
+    url: https://www.linkedin.com/company/worldcityprize/
