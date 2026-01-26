@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Delhi, New York City, Kuala Lumpur, Singapore
 
-###### ![Street infrastructure in New York City](/images/features/2015/nyc.jpg/)**Street infrastructure in New York City** © NYC Department of Transportation
+###### ![Street infrastructure in New York City](/images/features/2015/nyc.jpg)**Street infrastructure in New York City** © NYC Department of Transportation
 
 A person’s health is intrinsically bound to where they live. Given the United Nations Population Fund reports that majority of the global population live in cities – and this is estimated to grow to 70 percent by 2050 – the urban environment will continue to define global health and wellbeing. So far the world’s urbanisation has risen in parallel with improved health and global life expectancy, especially in Latin America and East Asia. These emerging economies have seen both rapid population growth and an average life expectancy that has almost caught up with the European and North American averages.
 

@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Vienna, Seoul, Frankfurt, Toronto, Rotterdam, Los Angeles
 
-###### ![People at a crosswalk](/images/features/2017/people-crosswalk.jpg/)**People at a crosswalk**
+###### ![People at a crosswalk](/images/features/2017/people-crosswalk.jpg)**People at a crosswalk**
 
 In 2015, the number of international migrants in the world reached 244 million[^1]. Compared to 2000, this marked a 41 percent increase. Cities, as providers of resources, services and opportunities, are natural destinations for immigrants. In the United States, 92 percent of immigrants live in urban area[^2]. Global cities, as nexuses of international economic systems, are particularly attractive. In many of them, such as Sydney, London, Singapore and New York, immigrants represent more than one-third of the population[^3].
 

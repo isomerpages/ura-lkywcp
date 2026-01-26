@@ -18,7 +18,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **In brief**
 
-###### ![Medellín’s Metropolitan Green Belt, also known as the Circumvent Garden](/images/features/2020/circumvent-garden-aerial.jpg/)**Medellín’s Metropolitan Green Belt, also known as the Circumvent Garden** © ACI Medellín
+###### ![Medellín’s Metropolitan Green Belt, also known as the Circumvent Garden](/images/features/2020/circumvent-garden-aerial.jpg)**Medellín’s Metropolitan Green Belt, also known as the Circumvent Garden** © ACI Medellín
 
 - Medellín’s Metropolitan Green Belt, also known as the Circumvent Garden (Jardín Circunvalar de Medellín), is a green belt introduced along the urban-rural edge of the eastern and western mountain ridges of the city to control urban expansion in the hillside communities and create communal spaces.  
 - The project also aims to improve the quality of life of the inhabitants, protect the fragile ecosystem, and allow the local community to participate in its construction through pedagogical urbanism.
@@ -29,7 +29,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Key issues before the project**
 
-###### ![Path of Life](/images/features/2020/circumvent-garden-path.jpg/)**Path of Life** © ACI Medellín
+###### ![Path of Life](/images/features/2020/circumvent-garden-path.jpg)**Path of Life** © ACI Medellín
 
 - Indiscriminate use of land and expansion of the urban-rural periphery have resulted in the degradation of the ecosystem and loss of natural groundcover, exposing the area to adverse weather events and increased geological risk. 
 - Serious socio-spatial segregation, with the poorest and most marginalised communities living in illegal hillside settlements. 
@@ -42,7 +42,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Leadership and governance**
 
-###### ![Inclusive workforce](/images/features/2020/inclusive-workforce.jpg/)**An inclusive workforce to transform the area** © ACI Medellín
+###### ![Inclusive workforce](/images/features/2020/inclusive-workforce.jpg)**An inclusive workforce to transform the area** © ACI Medellín
 
 - Medellín emphasises good governance, transparency, social security and a participative society, with a strong common focus on improving quality of life, especially in its poorest areas.
 - Recognising that citizen participation is important for good governance, the city leaders prioritised equal opportunities for all for a comprehensive human development. The development of the Circumvent Garden is an example of how even illegal settlers were given equal opportunities. 
@@ -55,7 +55,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Creativity and innovation**
 
-###### ![Training residents at Circumvent Garden](/images/features/2020/community-training.jpg/)**A centre to train residents at Circumvent Garden** © ACI Medellín
+###### ![Training residents at Circumvent Garden](/images/features/2020/community-training.jpg)**A centre to train residents at Circumvent Garden** © ACI Medellín
 
 - The Circumvent Garden controls further urban expansion by defining the city limits, setting a physical boundary beyond which building is not allowed. 
 - The city took the unusual step of legalising existing informal settlements that were structurally sound and improving them, rather than evicting them. Those at risk of landslides are relocated within the same neighbourhood under a ‘sustainable neighbourhood’ programme. 
@@ -69,7 +69,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2020/impacts-medellin1.png/)
+###### ![Impacts](/images/features/2020/impacts-medellin1.png)
 
 - 41 hectares of ecological restoration were completed to protect the Pan de Azúcar hill and the distances from creeks. 
 - 120,000 new trees are planted, of which 50,000 are crop trees, allowing harvest and generation of economy. 
@@ -85,7 +85,7 @@ description: Pedagogical urbanism refers to how transformed public spaces can te
 
 #### **Replicable ideas**
 
-###### ![Urban farming at the Circumvent Garden](/images/features/2020/circumvent-garden-urban-farm.jpg/)**Urban farming at the Circumvent Garden** © ACI Medellín
+###### ![Urban farming at the Circumvent Garden](/images/features/2020/circumvent-garden-urban-farm.jpg)**Urban farming at the Circumvent Garden** © ACI Medellín
 
 - The non-conventional approach of how the city approached the issue of illegal settlers on the state-owned land along the urban-rural fringe could inspire other cities in similar situations to achieve a win-win scenario for all. **<font color="#967942">O</font>**
 

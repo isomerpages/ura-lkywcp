@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Hamburg
 
-###### ![Autobahndeckel](/images/features/2018/autobahndeckel.jpg/)**The Autobahndeckel project that will cover the A7 highway with landscape decks** © DEGES/V-KON
+###### ![Autobahndeckel](/images/features/2018/autobahndeckel.jpg)**The Autobahndeckel project that will cover the A7 highway with landscape decks** © DEGES/V-KON
 
 Visit Hamburg in Germany today and you will find a city in the midst of a transformation. In the past decade, its government has started projects to rejuvenate districts, redevelop abandoned and underused areas and make better use of the spaces allocated to the city’s transport system.
 
@@ -43,7 +43,7 @@ Wilhelmsburg, which was home to factories, a rubbish dump, public housing and mo
 
 Work on Wilhelmsburg is ongoing, including projects to retrofit old buildings to reduce their energy use, and to expand the area’s production of renewable energy. Such energy is expected to meet all of the area’s electricity needs by 2025 and heating demand by 2050.
 
-###### ![Aerial view of Wilhelmsburg](/images/features/2018/wilhelmsburg-aerial.jpg/)**Aerial view of Wilhelmsburg** © IBA Hamburg GmbH/ Falcon Crest Air
+###### ![Aerial view of Wilhelmsburg](/images/features/2018/wilhelmsburg-aerial.jpg)**Aerial view of Wilhelmsburg** © IBA Hamburg GmbH/ Falcon Crest Air
 
 #### **Reviving brownfields**
 

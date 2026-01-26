@@ -19,7 +19,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **In brief**
 
-###### ![Tokyo has one of the most complex and highly integrated rail network in the world](/images/features/2021/tokyo-subway-map.jpg/)**Tokyo has one of the most complex and highly integrated rail network in the world** © Gerold Grotelueschen/ 123rf.com
+###### ![Tokyo has one of the most complex and highly integrated rail network in the world](/images/features/2021/tokyo-subway-map.jpg)**Tokyo has one of the most complex and highly integrated rail network in the world** © Gerold Grotelueschen/ 123rf.com
 
 - Tokyo’s railway network enjoys a good global reputation for being highly comprehensive and efficient. 
 - With its origins dating back to 1872, the last 60 years marked a significant period of its development, in tandem with the economic and population growth of the capital city into a megacity and Japan’s most important city.
@@ -32,7 +32,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Key issues before the project**
 
-###### ![Tokyo faced traffic congestion in its early days of rapid urbanisation](/images/features/2021/tokyo-congestion.jpg/)**Tokyo faced severe traffic congestion in its early days of rapid urbanisation** © Tokyo Metropolitan Government
+###### ![Tokyo faced traffic congestion in its early days of rapid urbanisation](/images/features/2021/tokyo-congestion.jpg)**Tokyo faced severe traffic congestion in its early days of rapid urbanisation** © Tokyo Metropolitan Government
 
 - The devastation from the second World War gave the national and city government an urgent need to rebuild Tokyo from scratch. 
 - The post-war rapid economic growth coupled with population increase saw a lack of public transport capacity in the metropolitan region. Congestion rate in trains exceeded 200 percent then. 
@@ -55,7 +55,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Creativity and innovation**
 
-###### ![Passengers waiting for the train at the Chūō Line](/images/features/2021/chuo-line.jpg/)**Passengers waiting for the train at the Chūō Line (2017 file photo)** © bennymarty/ 123rf.com
+###### ![Passengers waiting for the train at the Chūō Line](/images/features/2021/chuo-line.jpg)**Passengers waiting for the train at the Chūō Line (2017 file photo)** © bennymarty/ 123rf.com
 
 - Tokyo adopted an innovative approach of an integrated development of both railway and real estate: 
   - Model A: Development synchronised with railway infrastructure construction
@@ -71,7 +71,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2021/impacts-tokyo.png/)
+###### ![Impacts](/images/features/2021/impacts-tokyo.png)
 
 - The total rail length in Tokyo metropolitan area increased from 1,566 kilometres in 1956 to 2,705 kilometres in 2015, while the number of stations increased from 807 in 1956 to 1,510 in 2015. 
 - Several mega stations (such as Shinjuku, Shibuya and Ikebukuro) have daily passengers exceeding 2 million. 
@@ -88,7 +88,7 @@ description: Well known and often envied for its reliability and efficiency, Tok
 
 #### **Replicable ideas**
 
-###### ![Shinjuku Station is one of Tokyo's busiest stations](/images/features/2021/shinjuku-station.jpg/)**Shinjuku Station is one of Tokyo's busiest stations** © viteethumb/ 123rf.com
+###### ![Shinjuku Station is one of Tokyo's busiest stations](/images/features/2021/shinjuku-station.jpg)**Shinjuku Station is one of Tokyo's busiest stations** © viteethumb/ 123rf.com
 
 - The development of an extensive public transport network such as railway can benefit an aging society such as Tokyo. The elderly can still move around freely despite being unable to drive cars on their own. 
 - By planning and developing barrier-free transport infrastructure ahead, cities can also help to pre-empt the renovation costs in later stages to add these features as the population ages. **<font color="#967942">O</font>**

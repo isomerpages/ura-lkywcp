@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Seoul
 
-###### ![A citizen engagement session in Seoul](/images/features/2018/seoul-citizen-engagement.jpg/)**A citizen engagement session in Seoul** © Seoul Metropolitan Government
+###### ![A citizen engagement session in Seoul](/images/features/2018/seoul-citizen-engagement.jpg)**A citizen engagement session in Seoul** © Seoul Metropolitan Government
 
 By 2050, about two in three people will live in cities across the world, making citizen engagement in the urban planning process more important than ever. Without citizens’ support and help, city development projects could be stymied, run into difficulties, or fail to meet their needs.
 
@@ -47,7 +47,7 @@ The goals, for example, now include establishing a social environment where wome
 
 In their 2017 report, the Seoul Institute researchers summarised: “Before the 2030 Seoul Master Plan, citizens were involved only indirectly in urban planning, either by taking part in surveys or choosing from proposed options. The 2030 master plan contains strategies for the better future of the citizens, by the citizens and for the citizens. This is an important step for Seoul to progress, not just in material prosperity, but in a way that its citizens desire.”
 
-###### ![The Seoul Plan 2030](/images/features/2018/seoul-masterplan-2030.jpg/)**The Seoul Plan 2030** © Urban Redevelopment Authority Singapore
+###### ![The Seoul Plan 2030](/images/features/2018/seoul-masterplan-2030.jpg)**The Seoul Plan 2030** © Urban Redevelopment Authority Singapore
 
 #### **Helping people to help themselves**
 
@@ -65,7 +65,7 @@ The Community Building Project, on the other hand, provides help, such as traini
 
 In the neighbourhood of Seokgwan-dong, the residents of the Seokgwan Doosan Apartments complex, which consists of 25 buildings with 1,998 households, received assistance to carry out their energy-saving ideas. For example, the residents installed LED lights in the basement car park that reduced electricity charges by 18 million won each month. They also conduct an energy-saving class which has been attended by residents from other estates.
 
-###### ![A public engagement process in Seoul](/images/features/2018/seoul-public-engagement.jpg/)**A public engagement process in Seoul** © Seoul Metropolitan Government
+###### ![A public engagement process in Seoul](/images/features/2018/seoul-public-engagement.jpg)**A public engagement process in Seoul** © Seoul Metropolitan Government
 
 “As much as possible, we try to transfer more power to the people, because when they make suggestions, discuss among themselves, decide and even participate in the implementation process, it makes our administration more productive and efficient,” said then-Mayor Park.
 

@@ -12,7 +12,7 @@ published: false
 
 ##### Since winning the inaugural Prize, Bilbao has continued to champion the transformation of its former industrial landscape and forge partnerships both within and beyond its borders. Mayor Juan María Aburto shared his thoughts on Bilbao becoming a smart city of culture, knowledge and innovation.
 
-###### ![Mayor of Bilbao Juan María Aburto](/images/features/2017/juan-maria-aburto.jpg/)**Mayor of Bilbao Juan María Aburto** © Urban Redevelopment Authority Singapore
+###### ![Mayor of Bilbao Juan María Aburto](/images/features/2017/juan-maria-aburto.jpg)**Mayor of Bilbao Juan María Aburto** © Urban Redevelopment Authority Singapore
 
 #### **Could you share about the impact to Bilbao of being the first Laureate of the Lee Kuan Yew World City Prize?**
 
@@ -32,7 +32,7 @@ For instance, one of our most renowned features is our cuisine and gastronomy: t
 > | **Azkuna Zentroa** |
 > | Opened in 2010 as Alhóndiga Bilbao, Azkuna Zentroa serves as an integrated centre for arts, cultural, leisure and sports activities. The centre’s ultra-modern facilities are housed within a wine warehouse built in 1905, which was restored as part of Bilbao’s urban renewal efforts to transform from an industrial metropolis into a modern city of culture. It was renamed Azkuna Zentroa on 16 March 2015 to honour Iñaki Azkuna, Mayor of Bilbao from 1999-2014. |
 
-###### ![The new Azkuna Zentroa cultural centre](/images/features/2017/azkuna-zentroa.jpg/)**The new Azkuna Zentroa cultural centre** © Azkuna Zentroa, Leisure and Culture
+###### ![The new Azkuna Zentroa cultural centre](/images/features/2017/azkuna-zentroa.jpg)**The new Azkuna Zentroa cultural centre** © Azkuna Zentroa, Leisure and Culture
 
 From both the urban and economic perspectives, the most important project we have is the Zorrotzaurre – an area of 800,000 square metres that was formerly a peninsula by the Nervión River. This long peninsula is being transformed into an island on the river and will become a 'Knowledge Island' or an 'Island of Talent'.
 
@@ -55,7 +55,7 @@ Attracting people with knowledge and talent will be another key challenge. We wa
 > | **Zorrotzaurre: Industrial peninsula to Island of Talent** |
 > | Like many other parts of Bilbao, Zorrotzaurre was an industrial area in the 1960s but became derelict by the 1980s. To rejuvenate the area, Bilbao approved a master plan in 2012, led by Zaha Hadid Architects, to transform Zorrotzaure into a new urban quarter with affordable housing, environmentally friendly business zones and ample green, cultural and creative spaces for residents and visitors. |
 
-###### ![The new Zorrotzaurre district](/images/features/2017/zorrotzaurre.jpg/)**The new Zorrotzaurre district** © Zorrotzaurre Management Commission
+###### ![The new Zorrotzaurre district](/images/features/2017/zorrotzaurre.jpg)**The new Zorrotzaurre district** © Zorrotzaurre Management Commission
 
 #### **How are you investing in your people and urban communities?**
 

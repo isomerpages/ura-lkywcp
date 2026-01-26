@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Seoul, Paris, Hong Kong, Kuala Lumpur, Helsinki, Bangkok, Singapore, Xiong’an
 
-###### ![Underground spaces](/images/features/2020/underground.jpg/)**How can cities explore underground spaces?** © Nataliya Kalabina/ 123rf.com
+###### ![Underground spaces](/images/features/2020/underground.jpg)**How can cities explore underground spaces?** © Nataliya Kalabina/ 123rf.com
 
 For the past few months, commuters passing through Seoul’s Sangdo subway station may have noticed an extraordinary sight: [an automated underground farm with robots growing plants](http://english.seoul.go.kr/seoul-opens-koreas-first-smart-metro-farm-at-sangdo-station/) in a previously disused part of the station. The smart 'metro farm' opened by the city’s government in September 2019 was only the first: four others have since been established in the Dapsimni, Cheonwang, Euljiro 3-ga and Chungjeongno stations respectively. 
 
@@ -43,7 +43,7 @@ The government summarised the benefits of going underground, which apply to not 
 
 #### **One space, many uses**
 
-###### ![Chulalongkorn University Centenary Park](/images/features/2020/chulalongkorn-park.jpg/)**Chulalongkorn University Centenary Park** © landprocess
+###### ![Chulalongkorn University Centenary Park](/images/features/2020/chulalongkorn-park.jpg)**Chulalongkorn University Centenary Park** © landprocess
 
 With ingenuity, underground developments can also serve multiple purposes at the same time. In Kuala Lumpur, Malaysia, the [Stormwater Management and Road Tunnel in the city centre](https://www.thestar.com.my/metro/metro-news/2018/07/11/flood-control-the-priority-kl-motorists-need-to-realise-that-the-smart-tunnel-is-a-storm-drain-first) has reduced flood risks by 45 percent, including in previously flood-prone areas such as Masjid Jamek, Lebuh Ampang and Jalan Tun Perak, and cut motorists’ traveling times.
 

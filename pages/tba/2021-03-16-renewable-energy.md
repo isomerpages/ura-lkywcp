@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Melbourne, Amsterdam, New Delhi, San Francisco, Hamburg, Barcelona, London, Boston, Bangkok, Osaka, Ulsan
 
-###### ![How can cities tap on renewable energy?](/images/features/2021/renewable-energy.png/)**How can cities tap on renewable energy?** © vectorpouch/ freepik.com, Additional text: Editor's own
+###### ![How can cities tap on renewable energy?](/images/features/2021/renewable-energy.png)**How can cities tap on renewable energy?** © vectorpouch/ freepik.com, Additional text: Editor's own
 
 In 2020, [Europeans received more electricity from renewable sources than fossil fuels for the first time](https://edition.cnn.com/2021/01/24/business/eu-renewable-energy-fossil-fuels/index.html), continuing the region’s trend of shifting its energy mix from coal and natural gas towards wind, solar and other clean power sources. With advances in renewable energy technologies and a growing sense of urgency in the fight against climate change, more cities are tapping more of the clean power, and some are even reaching for a once-unimaginable goal: operating entirely, or almost entirely, on it to reduce their greenhouse gas emissions. 
 
@@ -34,7 +34,7 @@ In India, the government of New Delhi has forged a different kind of partnership
 
 The capital said that the area can hold enough solar panels to generate 38 megawatts of power per year, and it will issue tenders for the panels’ installation by the end of 2021. Such dual use of crop farmland, called [agricultural photovoltaics](https://medium.com/enrique-dans/how-agrivoltaic-technology-could-redesign-farming-a4af664067c6), or agrivoltaics, is also gaining popularity in Japan, the United States, and other countries. 
 
-###### ![More cities are tapping on renewables such as energy from wind turbines.](/images/features/2021/wind-turbines.jpg/)**More cities are tapping on renewables such as energy from wind turbines** © onlyyouqj/ freepik.com
+###### ![More cities are tapping on renewables such as energy from wind turbines.](/images/features/2021/wind-turbines.jpg)**More cities are tapping on renewables such as energy from wind turbines** © onlyyouqj/ freepik.com
 
 #### **Enlisting people and properties**
 

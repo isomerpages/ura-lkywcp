@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Hamburg, Masdar City, Tianjin
 
-###### ![Man cycling](/images/features/2014/cycling.jpg/)**One of the principles of eco-cities is a modal shift of private car usage to public transportation. Promoting cycling for short-distance trips can help to encourage that shift** © Dylan Passmore
+###### ![Man cycling](/images/features/2014/cycling.jpg)**One of the principles of eco-cities is a modal shift of private car usage to public transportation. Promoting cycling for short-distance trips can help to encourage that shift** © Dylan Passmore
 
 The concept of making cities environmentally sustainable is nothing new. In Europe and the United States, the Garden City movement of the 1890s and the post-World War II New Town phenomenon were based on the idea of creating urban areas that merged contemporary and spacious housing with modern infrastructure and greenery. Both were seen as attempts to reinvent the city in the post-industrial era.
 

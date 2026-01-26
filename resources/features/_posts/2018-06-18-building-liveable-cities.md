@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Hamburg, Surabaya, Kazan, Tokyo
 
-###### ![Hamburg’s inner city densification](/images/features/2018/hamburg-neighbourhood.jpg/)**Hamburg’s inner city densification strategy led to a more diversified neighbourhood** © Thomas Hampel/ EBBE&FLUT
+###### ![Hamburg’s inner city densification](/images/features/2018/hamburg-neighbourhood.jpg)**Hamburg’s inner city densification strategy led to a more diversified neighbourhood** © Thomas Hampel/ EBBE&FLUT
 
 By 2050, about 6.7 billion people will live in cities, up from 4.2 billion people now, according to the latest world urbanisation report by the United Nations (UN). In fact, one in eight people already lives in a megacity with more than 10 million inhabitants.
 
@@ -45,7 +45,7 @@ Furthermore, one-third of HafenCity’s homes will be subsidised housing. This i
 
 #### **Improving on existing homes**
 
-###### ![A clean and green kampung neighbourhood in Surabaya](/images/features/2018/surabaya-kampung.jpg/)**A clean and green kampung neighbourhood in Surabaya** © City of Surabaya
+###### ![A clean and green kampung neighbourhood in Surabaya](/images/features/2018/surabaya-kampung.jpg)**A clean and green kampung neighbourhood in Surabaya** © City of Surabaya
 
 While HafenCity is being built from scratch, the government of Surabaya in Indonesia took a different route to improve the lives of its citizens. In Surabaya, many people live in kampungs, which are informal, low-income housing areas. From the 1970s to 1990s, the government undertook an extensive Kampung Improvement Programme (KIP) to enhance the areas’ basic infrastructure.
 
@@ -57,7 +57,7 @@ To improve the quality of life in the kampungs, the Surabaya government has also
 
 #### **Encouraging housing densification**
 
-###### ![Tokyo public transport](/images/features/2018/tokyo-public-transport.jpg/)**Tokyo’s continuous investment in its public transportation system helped ensure the city’s contemporary efficiency and success** © Tokyo Metropolitan Government
+###### ![Tokyo public transport](/images/features/2018/tokyo-public-transport.jpg)**Tokyo’s continuous investment in its public transportation system helped ensure the city’s contemporary efficiency and success** © Tokyo Metropolitan Government
 
 In Tokyo, one of the keys to managing the impact of population growth has been an extensive and well-planned public transport system. In most parts of central Tokyo, it takes only five to 10 minutes on foot to reach the nearest train station, and the city’s train modal share within its 23 Special Wards is 48 percent, the highest in the world.
 
@@ -69,7 +69,7 @@ The government also pledged to make the city more accessible to the elderly and 
 
 #### **Partnering with businesses**
 
-###### ![Kazan arena](/images/features/2018/kazan-arena.jpg/)**The Kazan Arena was built for the 2013 Summer Universiade and is part of the city’s strategy to improve the quality of life through adoption of sports and a healthy lifestyle** © City of Kazan
+###### ![Kazan arena](/images/features/2018/kazan-arena.jpg)**The Kazan Arena was built for the 2013 Summer Universiade and is part of the city’s strategy to improve the quality of life through adoption of sports and a healthy lifestyle** © City of Kazan
 
 Over the past 10 years, Kazan has seen a dramatic improvement in its citizens’ quality of life: the average lifespan increased by nine years, birth rates rose by two times, abortion rates fell by 40 percent and crime rates decreased by two times.
 

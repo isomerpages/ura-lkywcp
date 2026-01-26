@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Medellín
 
-###### ![Urban Escalators, Medellín](/images/features/2014/urban-escalators.jpg/)**Urban Escalators in Comuna 13 San Javier, Medellín** © Urban Redevelopment Authority Singapore
+###### ![Urban Escalators, Medellín](/images/features/2014/urban-escalators.jpg)**Urban Escalators in Comuna 13 San Javier, Medellín** © Urban Redevelopment Authority Singapore
 
 Over two decades ago, Medellín was crippled by a cycle of drug-fuelled violence, crime and corruption. The city faced deep-rooted and widespread inequality and political corruption. Drug traffickers and sub-state militias had, in some cases, supplanted civic authority over Medellín’s poorest, most overcrowded and marginalised communities. In 1991, the Inter-American Development Bank ranked the city’s homicide rate as the world’s highest, at 380 deaths per 100,000 inhabitants annually. Medellín, Colombia’s second-largest city, once labelled by Time magazine as “the world’s most dangerous city”, faced severe challenges to deliver safety, security and opportunities for its people.
 
@@ -36,7 +36,7 @@ Medellín is located in a valley surrounded by mountains. Many of its poorest co
 
 “The greatest challenge that Medellín confronted was to generate confidence and trust,” said the city’s then-Mayor, Aníbal Gavíria Correa at the 2014 World Cities Summit in Singapore. “Trust was built when citizens saw results.” The Metrocable played an important role in encouraging social inclusion and integration, connecting poor neighbourhoods – literally and figuratively – to the lifeline of the city and all of its opportunities: economic, educational and cultural.
 
-###### ![MetroCable, Medellín](/images/features/2014/metrocable.jpg/)**MetroCable, Medellín** © Urban Redevelopment Authority Singapore
+###### ![MetroCable, Medellín](/images/features/2014/metrocable.jpg)**MetroCable, Medellín** © Urban Redevelopment Authority Singapore
 
 The implementation of new developments had many beneficial effects. In 1995, Medellín introduced a city-wide public train network called the Metro. As well as offering residents easier access to job opportunities and the city’s social life, development within communities was focussed around these Metro stations. Similarly, the construction of outdoor escalators to lessen commute times in a hilly neighbourhood had the knock-on effect of drastically reducing violent crime there. Another dual-role development was Medellín’s introduction of 'library parks'. Built in the poorest and most overcrowded slums, these plazas played the role of public library, park and community centre. Alongside their educational and recreational purposes, the 'library parks' also helped develop social cohesion in fractured communities.
 

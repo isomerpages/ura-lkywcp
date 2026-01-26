@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Gaya, Dubai, Rotterdam, Medellín, Melbourne, Seoul, San Francisco, London (Ontario), Washington DC, Shanghai
 
-###### ![Urban farming](/images/features/2020/advancing-agriculture.jpg/)**10 cities that promote urban farming** © Oxana/ 123rf.com
+###### ![Urban farming](/images/features/2020/advancing-agriculture.jpg)**10 cities that promote urban farming** © Oxana/ 123rf.com
 
 #### **01: Reaching new heights**
 
@@ -40,7 +40,7 @@ Cities with substantial water bodies could benefit from floating farms. **Rotter
 
 The cows feed on the city’s food waste and grass clippings, and their manure is used as fertiliser. Their urine is also collected and separated into salts, which are added to the fertiliser, and water, which is diverted to cool machinery. With the farm’s success, the city is considering using floating platforms to grow vegetables and rear chickens. 
 
-###### ![Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands](/images/features/2020/rotterdam-veg-garden.jpg/)**Vegetable roofgarden on top of an office building in the city centre of Rotterdam, Netherlands** © Hilda Weges/ 123rf.com
+###### ![Vegetable roofgarden on top of an office building in the citycenter of Rotterdam, Netherlands](/images/features/2020/rotterdam-veg-garden.jpg)**Vegetable roofgarden on top of an office building in the city centre of Rotterdam, Netherlands** © Hilda Weges/ 123rf.com
 
 ---
 

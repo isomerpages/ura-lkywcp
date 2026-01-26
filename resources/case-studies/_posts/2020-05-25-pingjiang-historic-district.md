@@ -19,7 +19,7 @@ published: false
 
 #### **In brief**
 
-###### ![Pingjiang Historic District](/images/features/2020/pingjiang-map.jpg/)**Map showing location of Pingjiang Historic District** © City of Suzhou
+###### ![Pingjiang Historic District](/images/features/2020/pingjiang-map.jpg)**Map showing location of Pingjiang Historic District** © City of Suzhou
 
 - Suzhou emphasises the preservation of its ancient city while modernising through new townships in its urban development.
 - The 116.5-hectare Pingjiang Historic District is one of the city’s preserved areas, and features a chessboard pattern formed by intertwined water and road networks, including 13 ancient bridges over a 3.5-kilometre river. 
@@ -33,7 +33,7 @@ published: false
 
 #### **Key issues before the project**
 
-###### ![Pingjiang Historic District before the transformation](/images/features/2020/pingjiang-before.jpg/)**Pingjiang Historic District before the transformation** © City of Suzhou
+###### ![Pingjiang Historic District before the transformation](/images/features/2020/pingjiang-before.jpg)**Pingjiang Historic District before the transformation** © City of Suzhou
 
 - Urgent need for urban (re)development due to rapid economic and demographic growth, which in turn resulted in demolition or irreparable damage to historic streets. 
 - The city was at risk of losing its character, architectural heritage and environment due to its rapid expansion. 
@@ -44,7 +44,7 @@ published: false
 
 #### **Leadership and governance**
 
-###### ![Governance structure of Pingjiang Historic District](/images/features/2020/pingjiang-chart.jpg/)**Governance structure of Pingjiang Historic District** © City of Suzhou
+###### ![Governance structure of Pingjiang Historic District](/images/features/2020/pingjiang-chart.jpg)**Governance structure of Pingjiang Historic District** © City of Suzhou
 
 - To minimise the destruction to the city’s character and heritage due to modernisation, the city adopted a comprehensive approach to preservation rather than an ad hoc manner. 
 - The project is implemented on a government-led, market-operated approach: funded through bank loan and initiation capital from the government, a company ‘Pingjiang Historic District Company’ was established in 2002 as the main body overseeing the project. 
@@ -56,7 +56,7 @@ published: false
 
 #### **Creativity and innovation**
 
-###### ![Utilities pipes installation in Pingjiang Historic District](/images/features/2020/pipe-installation.jpg/)**Utilities pipes installation in Pingjiang Historic District** © City of Suzhou
+###### ![Utilities pipes installation in Pingjiang Historic District](/images/features/2020/pipe-installation.jpg)**Utilities pipes installation in Pingjiang Historic District** © City of Suzhou
 
 - Under a guiding principle of ‘repair the old, retain the old’, traditional architecture, ancient bridges and other intangible heritage are protected and restored. 
 - The following strategies are adopted for classification of projects: 
@@ -72,7 +72,7 @@ published: false
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2020/impacts-suzhou2.png/)
+###### ![Impacts](/images/features/2020/impacts-suzhou2.png)
 
 - More than 30,000m<sup>2</sup> traditional architecture, such as Shou’an Bridge, Shengli Bridge, Tongli Bridge and more than 600m of piers and embankment restored.
 - More than 16 kilometres of roads and alleyways repaired, with underground parking spaces for schools and commercial streets constructed within the district.
@@ -86,7 +86,7 @@ published: false
 
 #### **Replicable ideas**
 
-###### ![Pingjiang Historic District today](/images/features/2020/balancing-old-new.jpg/)**Pingjiang Historic District today** © City of Suzhou
+###### ![Pingjiang Historic District today](/images/features/2020/balancing-old-new.jpg)**Pingjiang Historic District today** © City of Suzhou
 
 - Cities should recognise the importance of cultural conservation at city-wide level, even as the drive for modernisation gains momentum.
 - It is important for cities to plan for and invest in their future. By committing to infrastructure investment, cities can achieve the twin goals of facilitating economic growth and improving quality of life. 

@@ -14,9 +14,9 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Toyama, Yubari, Sheffield City, Pittsburgh, Utica, Manheim, Leipzig
 
-###### ![The city of Toyama in Japan](/images/features/2019/toyama-japan.jpg/)**The city of Toyama in Japan** © Sean Pavone/ 123rf.com
+###### ![The city of Toyama in Japan](/images/features/2019/toyama-japan.jpg)**The city of Toyama in Japan** © Sean Pavone/ 123rf.com
 
-For decades, people have moved from their countries’ rural areas to cities, boosting the proportion of the world’s urban population from 30 percent in 1950 to [55 percent today](https://population.un.org/wup/Publications/Files/WUP2018-KeyFacts.pdf). While this trend is set to continue, it masks a growing problem for many countries, including the United States, Japan, China and Germany: the depopulation of many of their cities due to falling fertility rates and migration caused by failing industries and natural resource depletion. 
+For decades, people have moved from their countries’ rural areas to cities, boosting the proportion of the world’s urban population from 30 percent in 1950 to [55 percent today](https://population.un.org/wup/Publications/files/wup2018-keyfacts.pdf). While this trend is set to continue, it masks a growing problem for many countries, including the United States, Japan, China and Germany: the depopulation of many of their cities due to falling fertility rates and migration caused by failing industries and natural resource depletion. 
 
 In Japan, nearly two-thirds of the country’s 1,727 municipalities suffered a net population loss of more than five percent between 2010 and 2015 [due to low fertility rates](https://www.metropolitiques.eu/Mitigating-urban-decline-through-the-compact-city-Reflections-on-15-years-of.html). Even as a few urban areas, such as the Tokyo metropolitan region, are expected to maintain slight growth in their population due to internal and foreign migration, about half of the municipalities [will become ghost towns by 2040](https://www.straitstimes.com/asia/east-asia/greyest-city-in-japan-fights-depopulation-bankruptcy) if the current demographic trends are not reversed. 
 
@@ -41,7 +41,7 @@ Meanwhile, the city of Yubari, which has lost more than 90 percent of its popula
 
 #### **From sunset to sunrise industries**
 
-###### ![The city of Pittsburgh](/images/features/2019/pittsburgh.jpg/)**The city of Pittsburgh** © ESB Professional/ Shutterstock.com
+###### ![The city of Pittsburgh](/images/features/2019/pittsburgh.jpg)**The city of Pittsburgh** © ESB Professional/ Shutterstock.com
 
 For cities hobbled by the shuttering of their sunset industries, on the other hand, pivoting to sunrise sectors that tap on their existing assets and expertise can be a successful strategy. Sheffield City in Britain was once a global powerhouse in coal mining and steel manufacturing, but a deep recession in the 1970s, the country’s privatisation of those industries in the 1980s and globalisation led to [factory closures and firms deserting the city](http://sticerd.lse.ac.uk/dps/case/cr/casereport103.pdf). Between 1971 and 2001, the city’s population fell by one-sixth, or nearly 100,000 people. 
 

@@ -19,7 +19,7 @@ published: false
 
 #### **In brief**
 
-###### ![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg/)**Seoullo7017** © Seoul Metropolitan Government
+###### ![Seoullo7017](/images/features/2020/seoullo7017-logo.jpg)**Seoullo7017** © Seoul Metropolitan Government
 
 - An explosion in private car ownership due to Seoul’s dramatic economic development and rapid urbanisation in the 1990s led to traffic congestions and greater demands for car infrastructure, while threatening pedestrian spaces. 
 - This case study looks at three ground-breaking projects that demonstrate Seoul’s boldness in shifting away from car-oriented transportation to people-centric spaces:
@@ -33,7 +33,7 @@ published: false
 
 #### **Key issues before the project**
 
-###### ![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg/)![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg/)**Yonsei-ro before and after conversion into a transit mall** © Seoul Metropolitan Government
+###### ![Yonsei-ro before](/images/features/2020/yonsei-ro-before.jpg)![Yonsei-ro after](/images/features/2020/yonsei-ro-after.jpg)**Yonsei-ro before and after conversion into a transit mall** © Seoul Metropolitan Government
 
 - Deteriorating structures of the former elevated highway above Cheonggyecheon stream and Seoul Station Overpass threatened public safety. 
 - The area under the elevated Cheonggye highway has turned into slums, prompting demands from citizens to restore the buried stream. 
@@ -47,7 +47,7 @@ published: false
 
 #### **Leadership and governance**
 
-###### ![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png/)**The governance model for the Cheonggyecheon restoration project** © Seoul Metropolitan Government
+###### ![The governance model for the Cheonggyecheon restoration project](/images/features/2020/cheonggyecheon-governance-model.png)**The governance model for the Cheonggyecheon restoration project** © Seoul Metropolitan Government
 
 <b><u>Cheonggyecheon</u></b>
 - Despite that the project was highly contentious during its proposal stage, the city leaders demonstrated political will to push through the project. 
@@ -68,7 +68,7 @@ published: false
 
 #### **Creativity and innovation**
 
-###### ![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg/)**Cheonggyecheon has transformed into a recreational haven today** © Seoul Metropolitan Government
+###### ![Cheonggyecheon has transformed into a recreational haven today](/images/features/2020/cheonggyecheon-today.jpg)**Cheonggyecheon has transformed into a recreational haven today** © Seoul Metropolitan Government
 
 - The three projects were able to achieve multiple results as well as catalytic effects:
   - By demolishing the ageing highway and restoring the **Cheonggyecheon** stream, Seoul not only ensured public safety, but also restored the environment, preserved cultural heritage elements, and helped catalyse the revitalisation of the city's north. 
@@ -82,7 +82,7 @@ published: false
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2020/impacts-seoul2.png/)
+###### ![Impacts](/images/features/2020/impacts-seoul2.png)
 
 <b><u>Cheonggyecheon</u></b>
 - Cheonggyecheon attracts around 60,000 people every day, and a total of 180 million visitors in the nine years after its restoration, seven million of whom are foreigners. 
@@ -106,7 +106,7 @@ published: false
 
 #### **Replicable ideas**
 
-###### ![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg/)**Seoul citizens involved in the planting works at Seoullo7017** © Seoul Metropolitan Government
+###### ![Seoul citizens planting at Seoullo7017](/images/features/2020/seoullo7017-planting.jpg)**Seoul citizens involved in the planting works at Seoullo7017** © Seoul Metropolitan Government
 
 - It is important for cities to maintain the delicate balance between strong political leadership and inclusive governance. The public sector must understand the concerns of stakeholders and take necessary actions to alleviate negative impacts. Transparency and an effective leadership can help to communicate visions, build trust and resolve conflicts. 
 - By placing the needs of people first, the city can help to reshape itself towards a more inclusive urban environment. These projects demonstrate Seoul’s determination to place people over cars. 

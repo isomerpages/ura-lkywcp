@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Whakatāne, Dunedin, Dong Dang, North Platte, Plainville, Curtis, Cottbus, Calau, Timmins, Claresholm, Vernon BC, Fort Portal, Hoima, Moroto, Nottingham, Karlsruhe, Chiang Rai, Ranong, Paris, Bordeaux
 
-###### ![How smaller cities are stepping up](/images/features/2020/smaller-cities.jpg/)**How smaller cities are stepping up** © bloomua/ 123rf.com
+###### ![How smaller cities are stepping up](/images/features/2020/smaller-cities.jpg)**How smaller cities are stepping up** © bloomua/ 123rf.com
 
 #### **01: A national effort**
 
@@ -46,7 +46,7 @@ Newcomers to Curtis, on the other hand, can apply for free commercial and indust
 
 ---
 
-###### ![The small city of Cottbus in Germany](/images/features/2020/cottbus.jpg/)**The small city of Cottbus in Germany** © Henryk Sadura/ 123rf.com
+###### ![The small city of Cottbus in Germany](/images/features/2020/cottbus.jpg)**The small city of Cottbus in Germany** © Henryk Sadura/ 123rf.com
 
 #### **05: Easing the transition**
 

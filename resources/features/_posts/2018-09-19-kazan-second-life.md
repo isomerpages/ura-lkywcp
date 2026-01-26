@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Kazan
 
-###### ![Mass sports in Kazan](/images/features/2018/mass-sports-kazan.jpg/)**Mass sports in Kazan** © City of Kazan
+###### ![Mass sports in Kazan](/images/features/2018/mass-sports-kazan.jpg)**Mass sports in Kazan** © City of Kazan
 
 What do the World Cup, World Fencing Championships, FINA World Aquatics Championship and World University Summer Games have in common? Over the past five years, the city of Kazan has hosted all of these elite international sporting events. 
 
@@ -45,7 +45,7 @@ The government has also implemented social initiatives to target two age groups:
 
 The dual focus on constructing new facilities and nudging residents to use them has paid off handsomely. Between 2006 and 2018, the proportion of citizens who are involved in sports regularly surged from less than 10 percent to 42 percent. Ms Sannikova remarked: “We are proud that Kazan is now referred to as the country's Sports Capital, but we are even prouder that a healthy lifestyle boom has emerged in the city and being healthy is fashionable.” 
 
-###### ![The Kazan Arena](/images/features/2018/kazan-arena.jpg/)**The Kazan Arena** © City of Kazan
+###### ![The Kazan Arena](/images/features/2018/kazan-arena.jpg)**The Kazan Arena** © City of Kazan
 
 #### **Giving youths a head start**
 

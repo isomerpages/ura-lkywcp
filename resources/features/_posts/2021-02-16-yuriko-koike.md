@@ -8,7 +8,7 @@ published: false
 
 ##### Governor Yuriko Koike shares how the Tokyo Metropolitan Government is working to shape a 'new normal' for the city that embraces diversity and inclusiveness and addresses the needs of the vulnerable amid the coronavirus pandemic.[^1]
 
-###### ![Yuriko Koike](/images/features/2021/yuriko-koike.jpg/)**Tokyo Governor Yuriko Koike** © Tokyo Metropolitan Government
+###### ![Yuriko Koike](/images/features/2021/yuriko-koike.jpg)**Tokyo Governor Yuriko Koike** © Tokyo Metropolitan Government
 
 #### **The COVID-19 pandemic has been an unexpected crisis for cities around the world as they try to manage the strain on public health infrastructure and maintain economic activity. How has Tokyo approached the crisis, and how has the city fared in tackling the crisis?**
 
@@ -34,7 +34,7 @@ TMG has asked a wide range of businesses including restaurants, bars, theatres, 
 
 TMG also understands the need for compassion and the diverse needs and concerns of citizens during such a difficult period. In October, we opened a newly designated facility for recovery where people who have mild or no symptoms can stay with their beloved pets such as cats, dogs, hamsters and rabbits.
 
-###### ![Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo](/images/features/2021/shinjuku.jpg/)**Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo** © wirestock/ 123rf.com
+###### ![Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo](/images/features/2021/shinjuku.jpg)**Wearing masks, safe distancing, amongst others form the 'new normal' in Tokyo** © wirestock/ 123rf.com
 
 #### **What will Tokyo’s 'new normal' look like?**
 

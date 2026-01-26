@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Yokohama
 
-###### ![Minato Mirai 21](/images/features/2014/yokohama.jpg/)**Minato Mirai 21** © City of Yokohama
+###### ![Minato Mirai 21](/images/features/2014/yokohama.jpg)**Minato Mirai 21** © City of Yokohama
 
 To compete for international trade and investment, talent and tourism, cities must first and foremost have exceptional physical environments. In particular, they need to boast quality urban design that is characterised by aesthetically pleasant surroundings, easily accessed facilities, excellent connectivity and well-maintained buildings – both old and new.
 
@@ -39,7 +39,7 @@ In a bid to overcome these challenges, the city’s leaders announced a series o
 
 #### **Minato Mirai 21**
 
-###### ![Minato Mirai 21](/images/features/2014/minato-mirai.jpg/)**Minato Mirai 21** © Yokohama Convention Bureau
+###### ![Minato Mirai 21](/images/features/2014/minato-mirai.jpg)**Minato Mirai 21** © Yokohama Convention Bureau
 
 Keen to accelerate the city’s development plans, the Minato Mirai 21 project was announced in 1981, with the aim of revitalising the city centre and neighbouring waterfront area. In English, the initiative’s name means 'future port of the 21st century'. During the project’s initial years, its objectives and urban vision were established with the approval of various stakeholder groups, including civic authorities at both the local and national level, the private sector, landowners, residents and industry groups.
 
@@ -55,7 +55,7 @@ The project’s third objective was to decentralise Japan and provide a more bal
 
 #### **Other achievements**
 
-###### ![Local Communities Sorting Waste](/images/features/2014/waste-sorting.jpg/)**Local Communities Sorting Waste** © Urban Redevelopment Authority Singapore
+###### ![Local Communities Sorting Waste](/images/features/2014/waste-sorting.jpg)**Local Communities Sorting Waste** © Urban Redevelopment Authority Singapore
 
 Yokohama’s many other successes have leveraged the innovative spirit of Minato Mirai 21. For instance, the city is an inspiring model for waste reduction, where it has seen a decrease in waste by more than 40% between 2001 and 2010. The city has also become a hub for high-value smart technologies, like energy-efficient technologies and electric vehicles. Through Y-PORT, the city’s international technical cooperation programme, Yokohama marries economic growth and international contribution by tying up local businesses with international partners from all corners of the world.
 

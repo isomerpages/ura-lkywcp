@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Barcelona, Greenwich, Pittsburgh, San Francisco, Athens, Nice, Nancy, Istanbul, Toronto, Sacramento, São Paulo
 
-###### ![10 ways cities can help vulnerable citizens](/images/features/2020/help-vulnerable-citizens.jpg/)**10 ways cities can help vulnerable citizens** © Freepik/ Freepik.com
+###### ![10 ways cities can help vulnerable citizens](/images/features/2020/help-vulnerable-citizens.jpg)**10 ways cities can help vulnerable citizens** © Freepik/ Freepik.com
 
 #### **01: Neighbourhood networks**
 
@@ -50,7 +50,7 @@ Where the lanes are next to roadside parking spaces, ample buffer space is provi
 
 #### **05: Help for the homeless**
 
-###### ![Homeless people are especially vulnerable to contracting the coronavirus and spreading it](/images/features/2020/covid-homeless2.jpg/)**Homeless people are especially vulnerable to contracting the coronavirus and spreading it** © Freepik/ Freepik.com
+###### ![Homeless people are especially vulnerable to contracting the coronavirus and spreading it](/images/features/2020/covid-homeless2.jpg)**Homeless people are especially vulnerable to contracting the coronavirus and spreading it** © Freepik/ Freepik.com
 
 [Homeless people are especially vulnerable to contracting the coronavirus and spreading it](https://www.wired.com/story/coronavirus-covid-19-homeless/) because they rely on shared spaces such as soup kitchens for food and hygiene. To protect them and help them in the longer term, **Athens** in Greece has [established a multipurpose homeless centre](https://inclusivecities4all.eu/pledges/athens/) that offers not only safe shelter but medical and psychosocial support services, as well as help in finding a job. 
 
@@ -82,7 +82,7 @@ These will connect about 13,000 citizens in 6,600 homes to the Internet for free
 
 #### **09: Closing digital gaps**
 
-###### ![Bridging digital gaps for all](/images/features/2020/mother-son-laptop.jpg/)**Bridging digital gaps for all** © Freepik/ Freepik.com
+###### ![Bridging digital gaps for all](/images/features/2020/mother-son-laptop.jpg)**Bridging digital gaps for all** © Freepik/ Freepik.com
 
 **Sacramento** in the United States, for its part, has piloted a [‘Digital Equity’ programme](https://sacramentocityexpress.com/2020/09/28/free-internet-computers-and-digital-training-available-to-sacramento-households-in-need/) to give up to 10,000 households free broadband access until December, after which they can continue to have the service at a discounted rate. It is also offering up to 1,000 households free computers and lessons on how to use them. Both streams of the programme will prioritise low-income households with children and seniors.
 

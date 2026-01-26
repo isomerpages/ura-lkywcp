@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Suzhou
 
-###### ![Stone Lake Scenic District](/images/features/2014/stone-lake3.jpg/)**Stone Lake Scenic District, Suzhou** © Suzhou Suyuan Management Co. Ltd
+###### ![Stone Lake Scenic District](/images/features/2014/stone-lake3.jpg)**Stone Lake Scenic District, Suzhou** © Suzhou Suyuan Management Co. Ltd
 
 Over the last half-decade, the efforts of Chinese cities to balance economic growth with social and environmental considerations have been admirable. Achieving this goal, however, has been highly challenging for local and national authorities.
 
@@ -51,7 +51,7 @@ Successfully implementing a relocation policy is a feat that remains greatly cha
 
 #### **Strong leadership**
 
-###### ![Stone Lake Scenic District](/images/features/2014/stone-lake4.jpg/)**Stone Lake Scenic District, Suzhou** © Suzhou Suyuan Management Co. Ltd
+###### ![Stone Lake Scenic District](/images/features/2014/stone-lake4.jpg)**Stone Lake Scenic District, Suzhou** © Suzhou Suyuan Management Co. Ltd
 
 The above achievements, irrespective of how innovative and forward-thinking they may be, would be hard to execute without sound governance. Throughout the developing world it is not uncommon for environmental and social considerations to be sacrificed for economic growth. These policies are often seen as a quick-win, yet they seldom produce the desired results. Longer term planning is also rarely addressed. Thus, the process of urbanisation becomes uncontrollable.
 

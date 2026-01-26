@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Guangzhou, Singapore, Toronto, Vancouver, Philadelphia
 
-###### ![green wall installations at Pinnacle@Duxton](/images/features/2013/vertical-greenery.jpg/)**A green wall installations in Singapore** © Urban Redevelopment Authority Singapore
+###### ![green wall installations at Pinnacle@Duxton](/images/features/2013/vertical-greenery.jpg)**A green wall installations in Singapore** © Urban Redevelopment Authority Singapore
 
 In cities with finite land and increasing populations, green space is at a premium. In developing cities, greenfield sites are often turned over to housing rural-to-urban migrants, while real estate prices in most cities rise in proximity to parks and nature. This often results in demographic shifts within urban areas as gentrification drives the poorer classes into the city’s most built-up districts. In this context, what role does vertical greenery play in a city’s approach to socio-economic sustainability?
 
@@ -24,7 +24,7 @@ The positive attributes of urban greenery are well established. But Dr Tan Puay 
 
 Non-use value includes environmental benefits, such as vertical greenery reducing a building’s surface, ambient and radiant temperatures; increasing an urban area’s bio-diversity; and improving air quality. The non-use value of vertical greenery can also have positive economic and social effects, as it can increase a building’s rental value, or a green wall or rooftop garden can be aesthetically pleasing.
 
-###### ![The Supertrees – iconic vertical garden structures – at Gardens by the Bay, Singapore](/images/features/2013/supertrees.jpg/)**The Supertrees at Gardens by the Bay, Singapore** © Urban Redevelopment Authority Singapore
+###### ![The Supertrees – iconic vertical garden structures – at Gardens by the Bay, Singapore](/images/features/2013/supertrees.jpg)**The Supertrees at Gardens by the Bay, Singapore** © Urban Redevelopment Authority Singapore
 
 Although vertical greenery has a long history in urban space, as yet there are no widely adopted metrics or frameworks in place to assess its impact. Professor Wong Nyuk Hien, Department of Building, School of Design and Environment, National University of Singapore, believes this needs to change. In the climate of Southeast Asia, developing green spaces in close proximity to residential areas needs to be closely managed, as unchecked growth of foliage might have adverse impacts, such as increasing humidity or creating breeding grounds for insects. “Vertical greenery, by virtue of it being a relatively new phenomenon, has not been subjected to much systematic process,” says Prof. Wong.
 
@@ -45,7 +45,7 @@ Canadian municipal authorities in particular have effectively implemented an app
 
 In Vancouver, this move towards active public participation saw the number of community garden plots on Vancouver’s public land more than double to over 4,000 since 2010. Education and awareness are increasingly important parts of any vertical greenery initiative. The more public buy-in and engagement the public has, the more sustainable grassroots projects are. Vancouver currently has 19 urban farms, but the early years of the city’s greening strategy were marred by intra-community conflicts over communal gardens and farms.
 
-###### ![Green wall feature at Ocean Financial Centre, Singapore](/images/features/2013/green-wall.jpg/)**Green wall feature at Ocean Financial Centre, Singapore** © Urban Redevelopment Authority Singapore
+###### ![Green wall feature at Ocean Financial Centre, Singapore](/images/features/2013/green-wall.jpg)**Green wall feature at Ocean Financial Centre, Singapore** © Urban Redevelopment Authority Singapore
 
 Placing a value on the economic benefits green space brings to a city is also problematic. However, a report commissioned by the city of Philadelphia, in the US, attempted to assess the value of the city’s green spaces. The report estimated that Philadelphian residents save USD $70 million in medical expenses by using parks, and Philadelphia’s green spaces save the city at least USD $7 million each year in storm water and air pollution control and management.
 

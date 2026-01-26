@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Antwerp, Boston, Lisbon
 
-###### ![The Museum aan de Stroom at Antwerp's River Scheldt](/images/features/2022/antwerp-mas.jpg/)**The Museum aan de Stroom (MAS) at Antwerp's River Scheldt** © siraanamwong/123RF
+###### ![The Museum aan de Stroom at Antwerp's River Scheldt](/images/features/2022/antwerp-mas.jpg)**The Museum aan de Stroom (MAS) at Antwerp's River Scheldt** © siraanamwong/123RF
 
 Over the past few decades, [Antwerp](/antwerp), [Boston](/boston) and [Lisbon](/lisbon) have engineered remarkable transformations, overcoming issues such as out-migration, poor urban planning in the past and economic crises to become thriving cities that are prepared for the future.
 
@@ -36,7 +36,7 @@ The Blue Gate zone, on the other hand, is part of the city’s investment in a g
 
 #### **Boston – Ramping up climate resilience**
 
-###### ![The North End Parks on the Rose Kennedy Greenway](/images/features/2022/boston-park.jpg/)**The North End Parks on the Rose Kennedy Greenway** © Radomir Rezny/Shutterstock
+###### ![The North End Parks on the Rose Kennedy Greenway](/images/features/2022/boston-park.jpg)**The North End Parks on the Rose Kennedy Greenway** © Radomir Rezny/Shutterstock
 
 Looking ahead, Boston has created city-wide, localised and sector-specific initiatives to curb its greenhouse gas emissions and cope with climate change’s effects. In 2017, it launched Imagine Boston 2030, its first master plan in over 50 years, which included over 15,000 residents’ input. The plan sets out strategies to address key challenges, including sustainability-related ones. These include reallocating road space to merge medians and sidewalks into wider green corridors to promote walking and cycling. 
 
@@ -52,7 +52,7 @@ Boston Mayor Michelle Wu stressed the importance of preparing for the future: �
 
 #### **Lisbon – Leveraging partnerships for success**
 
-###### ![A rejuvenated public space in Lisbon](/images/features/2022/lisbon-riverfront.jpg/)**A rejuvenated public space in Lisbon** © Lisboa City Council
+###### ![A rejuvenated public space in Lisbon](/images/features/2022/lisbon-riverfront.jpg)**A rejuvenated public space in Lisbon** © Lisboa City Council
 
 Lisbon has tapped on civic engagement and partnerships with the private sector for its resurgence in the past decade, after financial crises in the 2000s and early 2010s took its toll on the city. In 2008, it was the [first European capital to adopt participatory budgeting](https://www.centreforpublicimpact.org/case-study/green-participatory-budgeting-lisbon-portugal), allocating about five percent of its municipal budget for citizens’ proposals. 
 

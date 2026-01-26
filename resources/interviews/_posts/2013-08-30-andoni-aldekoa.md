@@ -12,7 +12,7 @@ published: false
 
 ##### In 2010, Bilbao was awarded the inaugural Prize for its transformation from being in industrial decline to a modern and vibrant city. We speak with Andoni Aldekoa, Chief Executive Officer of Bilbao City Council, about the next stage in the city’s development.
 
-###### ![Andoni Aldekoa](/images/features/2013/andoni-aldekoa.jpg/)**Andoni Aldekoa** © Centre for Liveable Cities
+###### ![Andoni Aldekoa](/images/features/2013/andoni-aldekoa.jpg)**Andoni Aldekoa** © Centre for Liveable Cities
 
 #### **In view of Bilbao’s successes in the fields of business and commerce, urban development, culture and tourism, then-Mayor Iñaki Azkuna said in 2012 that the time had come to turn the city’s attention towards knowledge and innovation. What inspired this viewpoint and what does the city still need to do in these areas at the present time?**
 

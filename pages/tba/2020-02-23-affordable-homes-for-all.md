@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Sydney, Los Angeles, Maputo, Harrow, Coventry, Norwich, Bristol, Paris, Madrid, Valencia, Barcelona, Vienna, Melbourne, Fremantle
 
-###### ![Housing for all](/images/features/2020/housing-green.jpg/)**How can cities provide affordable housing for all?** © venimo/ 123rf.com
+###### ![Housing for all](/images/features/2020/housing-green.jpg)**How can cities provide affordable housing for all?** © venimo/ 123rf.com
 
 More people are moving to cities, but homes in them are becoming increasingly unaffordable. In 2019, property consultancy Knight Frank found that [the average real house price in 32 major cities worldwide is rising much faster than their residents’ average real income](https://www.knightfrank.com/blog/2019/01/28/the-knight-frank-global-affordability-monitor-2019), signalling a growing problem in housing affordability. Between 2013 and 2018, the average real house price in the cities, which includes Sydney, Berlin, Tokyo, Amsterdam, London, Hong Kong, Vancouver and Kuala Lumpur, rose by 24 percent, compared to just 8 percent for their residents’ average real income.
 
@@ -37,7 +37,7 @@ The city offers [financing and technical advice to build the ADUs](https://adu.l
 
 In Maputo, the capital of Mozambique, on the other hand, the focus is on transforming informal settlements that have become part of the urban landscape. While their single-storey, makeshift houses serve as affordable homes for low-income residents, they are an inefficient use of land. The government has come up with an elegant and self-sustaining solution: demolish the ramshackle homes, build well-designed, two-storey, two-home properties in their place, give one to the low-income family for a nominal fee, and sell the other to finance the operation. Residents can choose whether or not to participate in the initiative. 
 
-###### ![Housing for all](/images/features/2020/affordable-housing.jpg/)**Providing affordable housing for its residents is an increasing challenge for cities as they grow** © Bakhtiar Zein/ 123rf.com
+###### ![Housing for all](/images/features/2020/affordable-housing.jpg)**Providing affordable housing for its residents is an increasing challenge for cities as they grow** © Bakhtiar Zein/ 123rf.com
 
 #### **Repurpose for results**
 

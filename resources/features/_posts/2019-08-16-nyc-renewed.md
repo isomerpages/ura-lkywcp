@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City
 
-###### ![New York City High Line](/images/features/2019/nyc-high-line.jpg/)**A greener and greater New York City — the High Line** © NYC & Company
+###### ![New York City High Line](/images/features/2019/nyc-high-line.jpg)**A greener and greater New York City — the High Line** © NYC & Company
 
 Few cities have been as consistently visionary as New York City (NYC) in the United States. In the early 1800s, the city’s urban planners designed a street grid that would accommodate homes and businesses for one million residents when its population was just 100,000 people. After the city’s devastating experience in 2001, its government responded by not only rebuilding the damaged areas but also unveiling an ambitious new plan, called PlaNYC, in 2007 to make it an even greener and greater hub of the world. 
 

@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Calgary, Lisbon, New Delhi, Oklahoma City, New York City, Liverpool, Baltimore, Los Angeles, Seattle
 
-###### ![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg/)**COVID-19 has exposed the equity gaps in cities more so than ever** ©  Korakoch Sookkerd/ 123rf.com
+###### ![COVID-19 has exposed the equity gaps in cities more so than ever](/images/features/2020/covid-homeless.jpg)**COVID-19 has exposed the equity gaps in cities more so than ever** ©  Korakoch Sookkerd/ 123rf.com
 
 From London to Paris to New York, cities worldwide are confronting a grim reality: [the COVID-19 pandemic has hit their poorer residents harder due to many reasons](https://globalnews.ca/news/6958322/coronavirus-poor-neighbourhoods/), causing higher unemployment and death rates among them. “Many people who are higher-income have the resources and ability to work from home, which enable them to create layers of protection for themselves and ensure that they don’t come into contact with the virus,” explained Dr Steven Hoffman, a professor of global health, law and political science at Canada’s York University. Many low-income people, on the other hand, have jobs, including in the food, service and retail industries, that involve contact with others and cannot be done remotely, forcing them to choose between making a living and staying safe.
 
@@ -24,7 +24,7 @@ As cities struggle to contain the pandemic and heal their economies, many are en
 
 #### **Help with housing**
 
-To provide safer and better homes for lower-income residents and lighten their rent burden, many cities are increasing their supply of affordable housing. The COVID-19 crisis has opened up new opportunities. In the Canadian city of Calgary, [the government plans to acquire hotels and other properties left vacant by depressed tourism and convert them into homes for the needy](https://www.calgary.ca/content/dam/www/cs/olsh/publishingimages/affordable-housing/COVID-19-Community-Advocacy-Plan-Overview.pdf). Along with non-profit housing construction projects, this initiative will produce 5,100 homes for nearly 12,000 homeless and lower-income citizens by 2024. 
+To provide safer and better homes for lower-income residents and lighten their rent burden, many cities are increasing their supply of affordable housing. The COVID-19 crisis has opened up new opportunities. In the Canadian city of Calgary, [the government plans to acquire hotels and other properties left vacant by depressed tourism and convert them into homes for the needy](https://www.calgary.ca/content/dam/www/cs/olsh/publishing/images/affordable-housing/covid-19-community-advocacy-plan-overview.pdf). Along with non-profit housing construction projects, this initiative will produce 5,100 homes for nearly 12,000 homeless and lower-income citizens by 2024. 
 
 Lisbon in Portugal, for its part, has turned its attention to the preponderance of short-term rental units in its housing stock. As in many other cities, the popularity of Airbnb and other home rental services before the pandemic led many landlords to rent apartments to tourists instead of locals. Currently, about 25,000 apartments in Lisbon, or eight percent of the city’s homes, are registered as short-term lets. With tourism at a standstill, the city is seeking to rent some of these apartments for at least five years and sublet them at below-market prices to local workers and students. Under this programme, called [‘Renda Segura'](https://news.trust.org/item/20200629111057-g8rmr/), or ‘secure income’, landlords will be guaranteed rental income, which they will not have to pay taxes on, while the residents will spend no more than 30 percent of their salary on rent. The city aims to secure 1,000 apartments by the end of 2020.
 
@@ -32,7 +32,7 @@ In India, New Delhi and many other cities are implementing a far-reaching [‘Af
 
 #### **An equitable economy**
 
-###### ![How can cities help small businesses stay afloat should the pandemic stretches over an extended period?](/images/features/2020/covid-small-business.jpg/)**How can cities help small businesses stay afloat should the pandemic stretches over an extended period?** © master1305/ Freepik.com
+###### ![How can cities help small businesses stay afloat should the pandemic stretches over an extended period?](/images/features/2020/covid-small-business.jpg)**How can cities help small businesses stay afloat should the pandemic stretches over an extended period?** © master1305/ Freepik.com
 
 In the fight to get their economies back on track, cities have also carved out special assistance for lower-wage employees and small local businesses in poorer neighbourhoods. The former are more likely to lose their jobs, partly due to their limited ability to telework, while keeping the latter operational is key to preventing the areas from deteriorating further. In April 2020, Oklahoma City in the United States approved a USD $400,000 plan to give grants of up to USD $10,000 each to microbusinesses that are owned by low-to-moderate-income residents, or located in districts where the majority of residents are in those income brackets. The money can be used for payroll, rent, equipment, inventory and other expenses.
 

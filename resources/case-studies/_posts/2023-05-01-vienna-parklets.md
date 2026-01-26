@@ -20,7 +20,7 @@ published: false
 
 #### **In brief**
 
-###### ![A parking lane converted into a temporal park](/images/features/2023/parklets1.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
+###### ![A parking lane converted into a temporal park](/images/features/2023/parklets1.jpg)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
 - Born from the belief that public spaces should be used in diverse ways that increase the quality of people's stay, ‘Grätzloase’[^2] (Neighbourhood Oasis) is an initiative that provides support for temporary public space activation programmes in Vienna.
 - With advice from Local Agenda 21, citizens can shape public space by transforming parking lanes into parklets that serve as meeting points.
@@ -43,7 +43,7 @@ The city also aims to support citizens to shape public space and make the city g
 
 #### **Leadership and governance**
 
-###### ![A parking lane converted into a temporal park](/images/features/2023/parklets3.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
+###### ![A parking lane converted into a temporal park](/images/features/2023/parklets3.jpg)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
 - The city created the three-year programme (2015 – 2018), which provides financial support for the projects and counselling for the citizens through the Local Agenda 21 association in Vienna. The project was then extended for another 3 years (2018 – 2020).
 - The city introduced new regulations for using parking lanes for ‘parklets’ – transforming one or more parking spots as public spaces.
@@ -56,7 +56,7 @@ An intensive social media campaign on the realised projects also helped to widen
 
 #### **Creativity and innovation**
 
-###### ![A parking lane converted into a temporal park](/images/features/2023/parklets2.jpg/)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
+###### ![A parking lane converted into a temporal park](/images/features/2023/parklets2.jpg)**A parking lane converted into a temporal park** © LA21 Wien/Tim Dornaus
 
 - The number of uniquely designed parklets in parking lanes have increased annually since the launch of the programme. The efforts of the first three years of the programme are documented in the book 'Parklets // Street Furniture Vienna'.
 - The parklets helped to create easily accessible public spaces where everyone could take part in creative and fun activities such as playing table tennis with a round table and self-made rackets and bread-making on the streets. 
@@ -68,7 +68,7 @@ Novel activities such as dining on the street were replicated in various parts t
 
 #### **Impacts**
 
-###### ![Impacts of the case study](/images/features/2023/impacts-vienna-parklets.png/)
+###### ![Impacts of the case study](/images/features/2023/impacts-vienna-parklets.png)
 
 - The enthusiasm of residents brought about a broad variety of ideas, with nearly all the selected projects realised. 
 - New neighbourly relationships were forged and strengthened as seen through the replication of ‘dining on the street’. 
@@ -82,7 +82,7 @@ Novel activities such as dining on the street were replicated in various parts t
 
 #### **Replicable ideas**
 
-###### ![Dining with neighbours in the street](/images/features/2022/gratzloase2.jpg/)**Dining with neighbours in the street** © Daniel Dutkowski
+###### ![Dining with neighbours in the street](/images/features/2022/gratzloase2.jpg)**Dining with neighbours in the street** © Daniel Dutkowski
 
 - Financial support and advice from the city are a good lever to promote citizen engagement and ground-up initiatives, creating a collaborative atmosphere between citizens and district councils. 
 - A variety of public spaces were used for the programme, including parking lanes, squares, sidewalks, traffic islands, stairs, parks, and roads. Cities can look for opportunities to turn drab utilitarian spaces into fun and vibrant shared spaces at low cost. **<font color="#967942">O</font>**

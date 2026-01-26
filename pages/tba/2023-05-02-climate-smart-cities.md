@@ -23,7 +23,7 @@ published: false
 | 5 | Singapore employs smart technologies to manage its urban forests and parks. |
 | 6 | A new smart pilot in Sydney manages parks and directs users to coolest spots. |
 
-###### ![A rooftop rainwater collection and management system in Rotterdam](/images/features/2023/rotterdam-roof.jpg/)**A rooftop rainwater collection and management system in Rotterdam** © Frans Blok/123RF
+###### ![A rooftop rainwater collection and management system in Rotterdam](/images/features/2023/rotterdam-roof.jpg)**A rooftop rainwater collection and management system in Rotterdam** © Frans Blok/123RF
 
 From more frequent and intense adverse weather events to rising sea level, the impact of climate change on cities is multi-faceted and [likely to worsen over time](https://www.livescience.com/is-the-weather-getting-worse). Increasingly, cities are adopting smart technologies as part of their strategies to mitigate such impact. 
 
@@ -60,7 +60,7 @@ New York City has developed a heat warning system to anticipate heat waves. The 
 
 #### **Managing urban greenery more efficiently**
 
-###### ![Singapore employs smart technologies to manage its urban forests and parks](/images/features/2023/singapore-trees.jpg/)**Singapore employs smart technologies to manage its urban forests and parks** © Tanya Keisha/123RF
+###### ![Singapore employs smart technologies to manage its urban forests and parks](/images/features/2023/singapore-trees.jpg)**Singapore employs smart technologies to manage its urban forests and parks** © Tanya Keisha/123RF
 
 The drive to incorporate more green spaces to help mitigate the effects of climate change has been gaining traction in cities, and smart technologies are now essential to help governments manage their urban greenery more efficiently and effectively.
 
@@ -68,7 +68,7 @@ Singapore is known for its greening efforts, with over 40 percent of its land ar
 
 The agency also uses [satellite remote sensing](https://static.straitstimes.com.sg/s3fs-public/attachments/2021/01/12/st_20210112_vnb12_6253478.pdf) to monitor the health of trees, deploys tilt sensors on mature trees to detect sudden movements, and dispatches drones equipped with digital cameras to inspect treetops. [These initiatives](https://www.tech.gov.sg/media/technews/how-tech-is-changing-the-way-singapore-manages-parks-and-gardens) allow the government to quickly identify trees that are unsafe to the public and ensure thriving, healthy green spaces.
 
-###### ![Sydney Olympic Park](/images/features/2023/sydney-olympic-park.jpg/)**Sydney Olympic Park** © Maggie Yap/unsplash
+###### ![Sydney Olympic Park](/images/features/2023/sydney-olympic-park.jpg)**Sydney Olympic Park** © Maggie Yap/unsplash
 
 In Sydney, a new pilot launched in 2022 deploys smart technology to manage parks. A partnership involving the government, several universities, and the private sector, the project at Sydney Olympic Park merges environmental monitoring and artificial intelligence to create cool microclimates in the 42-hectare parkland during summers. Weather forecasts and data from sensors installed to measure soil moisture and air temperatures jointly predict the watering needs for the different sections of the park to ensure optimal irrigation. Visitors may also use their mobile phones to check for the coolest spots in the park.
 

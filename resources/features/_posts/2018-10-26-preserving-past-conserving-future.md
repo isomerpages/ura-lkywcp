@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Surabaya 
 
-###### ![Kampung Dukuh Setro](/images/features/2018/kampung-dukuh-setro.jpg/)**Kampung Dukuh Setro, one of the preserved neighbourhoods of Surabaya** © City of Surabaya
+###### ![Kampung Dukuh Setro](/images/features/2018/kampung-dukuh-setro.jpg)**Kampung Dukuh Setro, one of the preserved neighbourhoods of Surabaya** © City of Surabaya
 
 Life in the city of Surabaya, Indonesia, has been on an upswing for many of its citizens. In 2017, the international Gallup World Poll found that the city is one of the happiest in the world, and a large majority of its residents are satisfied with the schools, healthcare, water services, public transportation and safety in their neighbourhoods. 
 
@@ -43,7 +43,7 @@ The Prominent Kampung project, on the other hand, aims to get selected kampungs 
 
 By tapping on the kampungs’ potential, the government achieved several complementary goals: improving the lives of the city’s poorest residents, adding a potent driver to the economy and highlighting the city’s cultural products. “Developing a city not only involves physical development,” then-Mayor Rismaharini said about the initiatives in 2017. “It is also about empowering people and making them feel at home.” 
 
-###### ![Pahlawan Ekonomi Economy Hero project](/images/features/2018/pahlawan-ekonomi.jpg/)**One of economic heroines under the Pahlawan Ekonomi (Economy Hero) project** © City of Surabaya
+###### ![Pahlawan Ekonomi Economy Hero project](/images/features/2018/pahlawan-ekonomi.jpg)**One of economic heroines under the Pahlawan Ekonomi (Economy Hero) project** © City of Surabaya
 
 #### **Harnessing heritage**
 

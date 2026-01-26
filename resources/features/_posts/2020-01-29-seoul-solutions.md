@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Seoul
 
-###### ![Seoul](/images/features/2020/seoul-solutions.jpg/)**Seoul's 'I•SEOUL•U' city branding at the Hangang riverfront** © Seoul Metropolitan Government
+###### ![Seoul](/images/features/2020/seoul-solutions.jpg)**Seoul's 'I•SEOUL•U' city branding at the Hangang riverfront** © Seoul Metropolitan Government
 
 Every city faces evolving challenges and needs. Since the 2000s, Seoul in South Korea has revolutionised its urban planning process to consult citizens about development projects, emphasise healthy and sustainable modes of transport, and encourage innovation in business. Its efforts, which have turned it into an inclusive, socially stable and forward-looking city, also led to the city winning the Lee Kuan Yew World City Prize in 2018.
 
@@ -43,7 +43,7 @@ Since his inauguration, the city has supplied 140,000 new public homes. “We wi
 
 #### **Giving new purpose to old places**
 
-###### ![Yongsan Y Valley](/images/features/2020/yongsan-y-valley.jpg/)**Rejuvenating the Yongsan Electronic Shopping Centre into a new Thinkers Alley** © Seoul Metropolitan Government
+###### ![Yongsan Y Valley](/images/features/2020/yongsan-y-valley.jpg)**Rejuvenating the Yongsan Electronic Shopping Centre into a new Thinkers Alley** © Seoul Metropolitan Government
 
 Other urban regeneration projects will help the city to replace sunset industries with sunrise ones, and strengthen evergreen sectors. When the Yongsan Electronics Shopping Centre opened in 1987, it was South Korea’s largest retail complex selling electronic products, with a total floor area of about two million square metres across multiple malls. After a decade as a premier shopping nexus for computers and videogames, however, the institution’s business was derailed by 1997 Asian financial crisis and the rise of the Internet and e-commerce. Over time, its vacancy rate rose to 22.7 percent. 
 
@@ -51,7 +51,7 @@ In 2017, the government announced that it would rejuvenate the complex and its s
 
 The universities will develop on-site campuses to host education and entrepreneurship programmes for students, while CJ Corporation, a South Korean conglomerate, will provide coding classes for elementary and middle school pupils in the area. LG Uplus, the cellular carrier owned by the LG Corporation, will establish a 5G cellular network technologies testbed, and the Woori Bank will offer low-interest loans to local merchants. 
 
-###### ![Nodeulseom Island](/images/features/2020/nodeulseoum-island.jpg/)**An artist's impression of the new Nodeulseom Island** © Seoul Metropolitan Government
+###### ![Nodeulseom Island](/images/features/2020/nodeulseoum-island.jpg)**An artist's impression of the new Nodeulseom Island** © Seoul Metropolitan Government
 
 Closer to the city’s Han River, the Nodeulseom Island has been upgraded into a music-centred cultural hotspot. The artificial island was originally a manmade sandy plain that extended into the river from one bank to support a bridge across the river. The plain was a popular area for leisure and recreational activities, serving as a beach in the summer and a skating rink in the winter. When further developments in the river turned it into an island, it became inaccessible and disused.
 
@@ -63,7 +63,7 @@ As Seoul continues to reinvent its urban spaces to make better use of them, it h
 
 The new Gyeongchun Line Forest Park was opened in sections from 2015 to 2017, and has gardens as well as rest areas resembling train station waiting rooms. The bicycle and foot paths also connect institutions and tourist attractions such as the Seoul National University of Science and Technology, Seoul Women’s University and Taereung Royal Tombs. “By using the original railroad tracks, Gyeongchun Line Forest Park has been reborn as a space filled with memories, encounters, sharing and community,” the government said. 
 
-###### ![The new Gyeongchun Line Forest Park](/images/features/2020/gyeongchun-forest-park.jpg/)**The new Gyeongchun Line Forest Park** © Seoul Metropolitan Government
+###### ![The new Gyeongchun Line Forest Park](/images/features/2020/gyeongchun-forest-park.jpg)**The new Gyeongchun Line Forest Park** © Seoul Metropolitan Government
 
 An ongoing project will further and dramatically increase the city’s proportion of greenery to combat air pollution and urban heat. The government has planted 15 million trees since 2014 and will add another 15 million more trees by 2022. This includes 2.1 million trees that will line car-only highways such as the Olympic Expressway and Gangbyeon Expressway. Altogether, the trees will be able to absorb particulate pollution equivalent to the amount emitted by 64,000 old diesel cars per year, and produce oxygen equivalent to the amount inhaled by 21 million adults annually. 
 

@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Prague, New York City, Sydney, Singapore, Haryana, Brighton, Hove City
 
-###### ![Maintenance of a vertical wall at 1 Bligh Street, Sydney, Australia](/images/features/2013/vertical-wall.jpg/)**Maintenance of a vertical wall at 1 Bligh Street, Sydney, Australia**
+###### ![Maintenance of a vertical wall at 1 Bligh Street, Sydney, Australia](/images/features/2013/vertical-wall.jpg)**Maintenance of a vertical wall at 1 Bligh Street, Sydney, Australia**
 
 From the Hanging Gardens of Babylon in ancient times to the integrated hydroponics which feature in today’s high-tech vertical gardens, green walls have been with us for millennia.
 
@@ -37,7 +37,7 @@ Take Green City Court in Prague, for instance, which was recently named a winner
 
 Green wall systems range from pot plants arranged on layers of custom shelving to sophisticated vertical layers of growing medium, geotextiles and specially-constructed containers. Large or small plants can be used, depending on the size of the wall, and the result can be as manicured as a privet hedge or as wild as a rainforest.
 
-###### ![Feature green wall in Applebee’s in Harlem, New York City](/images/features/2013/applebees.jpg/)**Feature green wall in Applebee’s in Harlem, New York City**
+###### ![Feature green wall in Applebee’s in Harlem, New York City](/images/features/2013/applebees.jpg)**Feature green wall in Applebee’s in Harlem, New York City**
 
 New York City’s first Leadership in Energy and Environmental Design (LEED) Gold Certified restaurant, Applebee's in Harlem, features 40 environmentally-friendly upgrades, including a greenhouse on the roof, rainwater collection systems, and countertops and chandeliers made from renewable bamboo. The centrepiece, and a symbol of the restaurant’s green ethos, is the glorious green wall, which scrubs the air of toxins, acts as a noise barrier and insulates and cools the building.
 
@@ -49,7 +49,7 @@ Perhaps the most famous architect of green walls is Malaysian Ken Yeang, pioneer
 
 Another project is the Spire Edge Tower in Haryana, India, currently under construction, and already rated LEED Platinum. The tower features green walls, green planter ramps with a pedestrian walkway, and a series of sky terraces. Yeang does more than simply place greenery in his built forms. Rather, he designs his buildings as total ‘living systems’, carefully selecting native species and establishing ‘biodiversity targets’ for these new ecosystems.
 
-###### ![Solaris](/images/features/2013/solaris.jpg/)**A linear park that spirals from the ground to the rooftop garden around Solaris, a building in Singapore designed by Ken Yeang** © Urban Redevelopment Authority Singapore
+###### ![Solaris](/images/features/2013/solaris.jpg)**A linear park that spirals from the ground to the rooftop garden around Solaris, a building in Singapore designed by Ken Yeang** © Urban Redevelopment Authority Singapore
 
 Of course, green walls are not exclusively the domain of shiny new buildings – they can be retrofitted into existing buildings to reduce the heat load on façades. The simplest kind is a trellis which creates shade and passive cooling.
 

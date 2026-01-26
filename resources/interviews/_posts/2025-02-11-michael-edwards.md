@@ -15,7 +15,7 @@ description: From curating more unforgettable experiences, to providing more use
 
 **Michael:** Chicago Loop Alliance (CLA), a Business Improvement District (BID)[^1], was formed in 2005, overseeing the Chicago Loop, the largest central business district in the U.S. outside of Midtown Manhattan in New York. 
 
-###### ![State Street, managed by the Chicago Loop Alliance](/images/features/2024/state-street.jpg/)**State Street, managed by the Chicago Loop Alliance.** © Adam Alexander
+###### ![State Street, managed by the Chicago Loop Alliance](/images/features/2024/state-street.jpg)**State Street, managed by the Chicago Loop Alliance.** © Adam Alexander
 
 There are 55 Special Service Areas (SSAs) established since 1977, and the legislation of BIDs introduces a replacement option to SSAs. These are local districts that support enhanced maintenance and marketing efforts of key areas, tapping on additional localised property tax levies that building owners pay. CLA helps to maintain State Street, the oldest and largest Special Service Area in Chicago.
 
@@ -25,11 +25,11 @@ Supported by 300 businesses, organisations, and individuals throughout Chicago, 
 
 **Michael:**  The idea behind ACTIVATE is to activate forgotten and underutilised spaces in the downtown area. These can be streets, back alleys or spaces that people may walk past every day but hardly notice them. 
 
-###### ![ACTIVATE events often include artists, musicians and others in creating a vibrant atmosphere for people](/images/features/2024/activate.jpg/)**ACTIVATE events often include artists, musicians and others in creating a vibrant atmosphere for people** ©  Torque
+###### ![ACTIVATE events often include artists, musicians and others in creating a vibrant atmosphere for people](/images/features/2024/activate.jpg)**ACTIVATE events often include artists, musicians and others in creating a vibrant atmosphere for people** ©  Torque
 
 We try to activate different streets or spaces a few times each year. With each activation, the location always remains a mystery, creating an element of surprise. People will get invited a week before the event to a different place each time. Such events typically attract a lot of people. The street or space is transformed into a lively street festival. Each activation has different programming. There could be music performances. There could be marching bands and unique art installations. Or the street could be turned into a fashion runway. 
 
-###### ![An example of an ACTIVATE event](/images/features/2024/activate2.jpg/)**An example of an ACTIVATE event** © Chicago Loop Alliance
+###### ![An example of an ACTIVATE event](/images/features/2024/activate2.jpg)**An example of an ACTIVATE event** © Chicago Loop Alliance
 
 As a result of ACTIVATE over the years, we have created over 30 permanent murals in various streets and back alleys, engaging over 700 artists to activate alleys in a special way. Businesses in the area also benefit from the crowds spilling over to nearby cafes and shops. 
 
@@ -41,7 +41,7 @@ This is what placemaking is all about. Beyond having more engaging streets and s
 
 In the future, we are exploring how this street can be further activated to embrace and reflect people’s different interests and passions. For example, if you have a Taylor Swift concert at Soldier Field nearby in the evening, we could close the street in the afternoon and throw a Swiftie party prior to the concert.  
 
-###### ![There is always something for everyone in State Street](/images/features/2024/state-street2.jpg/)**There is always something for everyone in State Street** © Chicago Loop Alliance
+###### ![There is always something for everyone in State Street](/images/features/2024/state-street2.jpg)**There is always something for everyone in State Street** © Chicago Loop Alliance
 
 Or if you have the soccer player Lionel Messi coming to play at the stadium, we could invite children soccer teams to play along State Street. In this way, the street becomes even more connected and tied to people’s lives and memories in vivid and exciting ways.  
 
@@ -49,7 +49,7 @@ Or if you have the soccer player Lionel Messi coming to play at the stadium, we 
 
 **Michael:** During the pandemic when many had to work from home, nobody was going to the restaurants, cafes and shops. The theatres were also closed. During this period, there was a lack of information for people to make sense of what was going on. 
 
-###### ![Chicago Loop Alliance proactively works to restore confidence in the downtown during the pandemic and after it](/images/features/2024/restore.jpg/)**Chicago Loop Alliance proactively works to restore confidence in the downtown during the pandemic and after it** © Chicago Loop Alliance
+###### ![Chicago Loop Alliance proactively works to restore confidence in the downtown during the pandemic and after it](/images/features/2024/restore.jpg)**Chicago Loop Alliance proactively works to restore confidence in the downtown during the pandemic and after it** © Chicago Loop Alliance
 
 Chicago Loop Alliance became the authoritative source of information. We tapped our close partnerships with businesses and stakeholders to compile and share a range of useful and reliable data, from pedestrian traffic to transit ridership, hotel and office occupancy. This was helpful for businesses to make more informed decisions. For example, they used the data to decide when to open their shops and restaurants to capitalise on periods when there were more people in the downtown area. 
 
@@ -57,7 +57,7 @@ With the media turning to us to understand what was happening in the downtown ar
 
 From a public perception perspective, we created Sundays on State, an event series that closes State Street to vehicular traffic for select Sundays, filling the street with active recreation, arts and culture, food and drink and retail. The interactive block party attracts hundreds of thousands of Chicagoans and visitors, uniting the community, stimulating the economy and reinforcing that the Loop is safe, inclusive and enjoyable. 
 
-###### ![Sundays on State by Chicago Loop Alliance](/images/features/2024/sundays.jpg/)**Sundays on State by Chicago Loop Alliance** © Chicago Loop Alliance
+###### ![Sundays on State by Chicago Loop Alliance](/images/features/2024/sundays.jpg)**Sundays on State by Chicago Loop Alliance** © Chicago Loop Alliance
 
 #### **Post-pandemic, how do you see downtowns evolving and changing?**
 
@@ -77,7 +77,7 @@ Chicago Loop Alliance is managed like a business where there are clear key perfo
 
 We have been sharing quarterly reports with our stakeholders and the public since 2020. These reports include helpful data and insights on State Street’s pedestrian activity, hotel occupancy, office workers on-site, arts and cultural institutions attendance figures, retail vacancy rates and even investments in building redevelopments with enhancements to the public realm.
 
-###### ![Chicago Loop Alliance’s ambassadors help to keep State Street safe and clean](/images/features/2024/clean.jpg/)**Chicago Loop Alliance’s ambassadors help to keep State Street safe and clean** © Chicago Loop Alliance
+###### ![Chicago Loop Alliance’s ambassadors help to keep State Street safe and clean](/images/features/2024/clean.jpg)**Chicago Loop Alliance’s ambassadors help to keep State Street safe and clean** © Chicago Loop Alliance
 
 In addition, we have an active Board with approximately 45 members who come from diverse backgrounds and professions, from architects, to developers, retailers, property owners, bankers and theatre owners. Each of them brings great perspectives and ideas in making the BID better.  
 

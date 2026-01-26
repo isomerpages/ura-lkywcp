@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Phoenix, Montreal, Oslo, Cambridge MA, Essex
 
-###### ![Are our cities too bright?](/images/features/2021/bright-lights.jpg/)**Are our cities getting too bright?** © wirestock/ freepik.com
+###### ![Are our cities too bright?](/images/features/2021/bright-lights.jpg)**Are our cities getting too bright?** © wirestock/ freepik.com
 
 With their bright lights and affordable prices, LED lighting systems have been a boon for cities but a mixed blessing for the environment. They consume considerably less electricity than their predecessors, such as sodium vapour lights, enabling cities to slash their greenhouse gas emissions by making the switch to them. Their low cost, however, has led to their overuse in many cities. In the United States, the government has said that by 2027, [widespread use of LEDs could save 348 terawatts](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting), equivalent to the output of 44 large power plants. At the same time, the International Dark-Sky Association (IDA) [estimates that at least 30 percent of the nation’s outdoor lighting is wasted](https://www.darksky.org/light-pollution/energy-waste/), and responsible for 21 million tonnes of emissions yearly.
 
@@ -34,7 +34,7 @@ The city said that the smart LED system has cut its lighting energy use by 62 pe
 
 In Cambridge in the United States, on the other hand, [the LED street lights are programmed](https://www.echelon.com/assets/blt39b6475f3f7acf71/Cambridge%20Case%20Study.pdf) to emit 50 percent of their light at dusk, brighten at night, and then dim again to 30 percent of their output later when most people are at home, to save energy. The city also surveyed residents to create neighbourhood-specific lighting strategies, with the dimming beginning at 8 pm for some areas and 10 pm for others, depending on the feedback. The differentiated timing applies to other parts of the city too, with street lights on main thoroughfares kept bright until midnight while decorative lights in park dim at 10 pm. By adopting this approach along with LED bulbs, the city slashed its lighting energy use by 80 percent.
 
-###### ![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg/)**Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for their streets** © Zhao Jiankang/ 123rf.com
+###### ![Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for its streets.](/images/features/2021/bright-lights2.jpg)**Cities could put more thoughts on selecting the optimal colour temperature and lighting levels for their streets** © Zhao Jiankang/ 123rf.com
 
 #### **Switching off for sustainability**
 

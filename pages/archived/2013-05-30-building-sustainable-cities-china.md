@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Kunming, Wuxi, Tianjin
 
-###### ![Nanjing Road, Shanghai.](/images/features/2013/nanjing-road.jpg/)**Nanjing Road, Shanghai** © GlobalCitizen01
+###### ![Nanjing Road, Shanghai.](/images/features/2013/nanjing-road.jpg)**Nanjing Road, Shanghai** © GlobalCitizen01
 
 #### **Economic transition**
 

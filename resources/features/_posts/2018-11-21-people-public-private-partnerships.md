@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Tokyo
 
-###### ![The city of Tokyo against the backdrop of Mount Fuji](/images/features/2018/tokyo-mt-fuji.jpg/)**The city of Tokyo against the backdrop of Mount Fuji** © TCVB
+###### ![The city of Tokyo against the backdrop of Mount Fuji](/images/features/2018/tokyo-mt-fuji.jpg)**The city of Tokyo against the backdrop of Mount Fuji** © TCVB
 
 #### **Tackling challenges through urban renewal**
 
@@ -43,7 +43,7 @@ More recently, as the city has become more built-up and mature, the government a
 
 The ongoing Shibuya project, in particular, will not only improve its attractiveness as a tourist destination, but retrofit the district to be more resilient against natural disasters such as floods and earthquakes. The new skyscrapers in the district will be earthquake-resistant, and one of the buildings will be designated as a temporary evacuation site with emergency provisions. A 4,000-tonne catchment tank will also be installed underneath the renovated Shibuya Station to store rainwater, as flood protection against heavier storms that are expected due to climate change. 
 
-###### ![The rejuvenated Marunouchi district](/images/features/2018/tokyo-marunouchi.jpg/)**The rejuvenated Marunouchi district** © Tokyo Metropolitan Government
+###### ![The rejuvenated Marunouchi district](/images/features/2018/tokyo-marunouchi.jpg)**The rejuvenated Marunouchi district** © Tokyo Metropolitan Government
 
 Cooperation between the public and private sectors was also key to the completed transformation of the Otemachi, Marunouchi and Yurakucho (OMY) district. Many office buildings were constructed in the district during the 1950s and 1960s, when it was a major business hub for the city, but by the late 1980s the high-rises had become obsolete. The district was also deserted during weekends. In the early 1990s, the government decided to redevelop it to serve a wider range of citizens. 
 
@@ -66,7 +66,7 @@ Between 2007 and 2011, the government helmed a fund-raising campaign to offset t
 
 The government also founded the Umi-no-Mori Club for companies and citizens who want to help maintain and support the area on an ongoing basis. Ms Nami Murakami from the Port of Tokyo’s Marine Parks Department told The Japan Times in 2017: “Umi-no-Mori was created to turn something negative – the garbage from people’s everyday lives – into something positive. It will give birth to an area of trees that are planted and cared for by Tokyoites, making a beautiful forest.”
 
-###### ![Involving the citizens in the making of Umi-no-Mori](/images/features/2018/tokyo-umi-no-mori.jpg/)**Involving the citizens in the making of Umi-no-Mori** © Tokyo Metropolitan Government
+###### ![Involving the citizens in the making of Umi-no-Mori](/images/features/2018/tokyo-umi-no-mori.jpg)**Involving the citizens in the making of Umi-no-Mori** © Tokyo Metropolitan Government
 
 With the city facing increasingly complex challenges related to its ageing population and climate change, the government has also introduced subsidies, assistance schemes and other measures to enlist citizens and companies in carrying out critical infrastructural changes. It believes that by creating avenues for people to help themselves, it can achieve far more than if it were to try and go it alone. 
 

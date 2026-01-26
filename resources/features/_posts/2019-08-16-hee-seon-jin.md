@@ -8,7 +8,7 @@ published: false
 
 ##### How did Seoul transit from fast-paced urban development into a city co-created by the citizens? Seoul’s Deputy Mayor of Urban Regeneration Hee Seon Jin explains this remarkable shift – coined as 'Seoulistic urban regeneration', and the processes behind-the-scenes.
 
-###### ![Sewoon Makercity in Seoul](/images/features/2019/sewoon-makercity.jpg/)**Sewoon is an example of Seoul’s urban regeneration effort carried out in collaboration with residents** © Seoul Metropolitan Government
+###### ![Sewoon Makercity in Seoul](/images/features/2019/sewoon-makercity.jpg)**Sewoon is an example of Seoul’s urban regeneration effort carried out in collaboration with residents** © Seoul Metropolitan Government
 
 #### **Why is urban regeneration important to the city of Seoul?**
 
@@ -46,7 +46,7 @@ Centred on the seven building groups (multi-purpose buildings) constructed seque
 
 In the process of Seoul's rapid policy changes, the area surrounding Sewoon Shopping Centre has experienced a number of ups-and-downs, including a near-demolition. In line of the trend for development in 2009 to increase the value of real estate, the plan to establish a broad north-south green axis, demolish and redevelop the surrounding region was finalised but it was soon faced with various social problems such as the destruction of homes and workplaces of existing small traders and store owners, and subsequent conflicts among residents. 
 
-###### ![The rejuvenated Sewoon Shopping Centre](/images/features/2019/sewoon-shopping-centre.jpg/)**The rejuvenated Sewoon Shopping Centre** © Urban Redevelopment Authority Singapore
+###### ![The rejuvenated Sewoon Shopping Centre](/images/features/2019/sewoon-shopping-centre.jpg)**The rejuvenated Sewoon Shopping Centre** © Urban Redevelopment Authority Singapore
 
 As the construction business continued to shrink and the real estate market went into a recession, the need and duty to maintain the urban industrial ecosystem, respect the value of historic and cultural downtown, and reduce excessive burden on the residents reached a consensus and, therefore, the plan switched from the previous complete demolition and redevelopment to a sustainable urban regeneration in June 2013. 
 

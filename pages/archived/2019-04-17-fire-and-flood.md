@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Buenos Aires, Hong Kong, Woodside, Leeds, Patna, Ontario, Manizales
 
-###### ![Heavy flooding in Bangkok](/images/features/2019/flooding-bangkok.jpg/)**Heavy flooding in Bangkok, 2009** © Kampee Patisena/ 123rf.com
+###### ![Heavy flooding in Bangkok](/images/features/2019/flooding-bangkok.jpg)**Heavy flooding in Bangkok, 2009** © Kampee Patisena/ 123rf.com
 
 In April 2013, the city of Buenos Aires in Argentina was [battered by heavy storms](https://www.digitalistmag.com/improving-lives/2018/04/24/buenos-aires-deploys-internet-of-things-to-prevent-disaster-06091325), putting many parts of it underwater and affecting about 350,000 of its residents. Part of the problem was an outdated, paper-based system of dispatching drainage maintenance crews that had failed to identify blockages in the city’s storm drains in time, resulting in the disastrous floods. 
 
@@ -36,7 +36,7 @@ Drones were used to take photographs and measurements every 2.5cm along the corr
 
 Instead, SenSat surveyed and inspected the entire riverfront using drones in just two days, reducing the time that would have been needed via the traditional means by more than 95 percent. It then created the digital map using AI and delivered it shortly afterwards. 
 
-###### ![Housing in Hong Kong](/images/features/2019/housing-hongkong.jpg/)**Housing in Hong Kong** © Leonid Androno/ 123rf.com
+###### ![Housing in Hong Kong](/images/features/2019/housing-hongkong.jpg)**Housing in Hong Kong** © Leonid Androno/ 123rf.com
 
 #### **Alert and respond**
 

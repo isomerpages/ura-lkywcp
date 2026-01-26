@@ -12,7 +12,7 @@ published: false
 
 ##### In the midst of evolving challenges and contexts, placemaking expert Peter Smith reminds us on why we need to continue to create and manage memorable places and destinations for people.[^1]
 
-###### ![Peter Smith](/images/features/2021/peter-smith.jpg/)**Peter Smith** © Urban Redevelopment Authority Singapore
+###### ![Peter Smith](/images/features/2021/peter-smith.jpg)**Peter Smith** © Urban Redevelopment Authority Singapore
 
 Even while the ongoing Covid-19 pandemic is changing the way we use and share public places, it has reaffirmed the important role they play as social/community places in our neighbourhoods.
 
@@ -38,7 +38,7 @@ Places also mean and offer different things for different people. For some, it m
 
 Thus, when you think about placemaking in places around cities, it goes beyond just shaping their physical qualities, it is also about creating social, cultural, economic and environmental sustainability as well.
 
-###### ![The city of Adelaide](/images/features/2021/adelaide.jpg/)**The city of Adelaide** © dudlajzov/ 123rf.com
+###### ![The city of Adelaide](/images/features/2021/adelaide.jpg)**The city of Adelaide** © dudlajzov/ 123rf.com
 
 #### **How has your earlier encounters shaped your understanding of placemaking being a confluence of many elements?**
 
@@ -79,7 +79,7 @@ The thing about lighter, quicker, cheaper is that it shows to the community that
 
 What I have learnt is that any temporary activation is not an end in itself. Activation only creates foot traffic for the time that the activation is on. The challenge is how do you take the energy and the interest from the community that is created by that temporary activation and turn it into a deeper conversation around the community leading placemaking in future.
 
-###### ![New York City](/images/features/2021/times-square.jpg/)**New York City** © Vlad Alexandru Popa/ Pexels
+###### ![New York City](/images/features/2021/times-square.jpg)**New York City** © Vlad Alexandru Popa/ Pexels
 
 #### **Zooming out from activation of public spaces to larger precincts, how should we approach placemaking for these areas?**
 

@@ -19,7 +19,7 @@ description: Through training programmes and creating platforms for existing hom
 
 #### **In brief**
 
-###### ![Home-based shoe-making in Surabaya](/images/features/2021/surabaya-shoe-making.jpg/)**Home-based shoe-making in Surabaya** © rckyrzphlv/ Shutterstock.com
+###### ![Home-based shoe-making in Surabaya](/images/features/2021/surabaya-shoe-making.jpg)**Home-based shoe-making in Surabaya** © rckyrzphlv/ Shutterstock.com
 
 - To alleviate poverty and improve the economic status of lower income settlements as well as increase the competitiveness of small businesses, Surabaya developed several programmes to tap on existing resources within the kampungs (traditional neighbourhoods) to create a self-driven and sustainable local economy. 
 - The **Kampung Unggulan** (Prominent Kampung) programme seeks to empower the kampungs to improve their economic condition by transforming their subsistence economy into a sustainable and profitable one. 
@@ -33,7 +33,7 @@ description: Through training programmes and creating platforms for existing hom
 
 #### **Key issues before the project**
 
-###### ![Locations of urban farming projects in Surabaya](/images/features/2021/urban-farming-locations.jpg/)**Locations of urban farming projects in Surabaya (green - agriculture, blue - fishery)** © City of Surabaya
+###### ![Locations of urban farming projects in Surabaya](/images/features/2021/urban-farming-locations.jpg)**Locations of urban farming projects in Surabaya (green - agriculture, blue - fishery)** © City of Surabaya
 
 - General nation-wide lack of employment opportunities and income, especially in urban areas. 
 - Traditional methods of intervention, such as training for increased productivity, are conducted by bureaucrats and historically achieved little impacts. 
@@ -45,7 +45,7 @@ description: Through training programmes and creating platforms for existing hom
 
 #### **Leadership and governance**
 
-###### ![Surabaya Mayor Tri Rismaharini](/images/features/2021/surabay-mayor.jpg/)**Surabaya's former Mayor Tri Rismaharini** © Toto Santiko Budi/ Shutterstock.com
+###### ![Surabaya Mayor Tri Rismaharini](/images/features/2021/surabay-mayor.jpg)**Surabaya's former Mayor Tri Rismaharini** © Toto Santiko Budi/ Shutterstock.com
 
 - Under then-Mayor Tri Rismaharini’s leadership, Surabaya believed in creating an inclusive and people-centric city and in developing the potential of the people by giving them opportunities. 
 - Then-Mayor Rismaharini emphasises on integrity and heart, and on the interests of ordinary citizens. The city focuses on minimising corruption, and playing up on public participation and compassion for the people. 
@@ -58,7 +58,7 @@ description: Through training programmes and creating platforms for existing hom
 
 #### **Creativity and innovation**
 
-###### ![An urban farming project](/images/features/2021/surabaya-urban-farming3.jpg/)**An urban farming project** © City of Surabaya
+###### ![An urban farming project](/images/features/2021/surabaya-urban-farming3.jpg)**An urban farming project** © City of Surabaya
 
 - In the **Kampung Unggulan** programme, the city first sought to understand and include as many as possible the existing home-made products, and then support these activities by providing professional training and low-interest government loans to the people. 
 - The city also helped to enhance the uniqueness and quality of the products by making them more environmentally friendly and marketing them to more affluent consumers, as well as national and international buyers. 
@@ -71,7 +71,7 @@ description: Through training programmes and creating platforms for existing hom
 
 #### **Impacts**
 
-###### ![Impacts of the case study](/images/features/2021/icons-surabaya-case-study.png/)
+###### ![Impacts of the case study](/images/features/2021/icons-surabaya-case-study.png)
 
 - Surabaya has greatly improved its quality of life, especially for the lower-income groups, with an economic growth between 6-7 percent* that surpasses the East Java Province and national levels. 
 - The **Kampung Unggulan** programme saw the increase in the number of people participating, and increase in income generated from IDR 24,414 million (approx. USD $1.6 million) in 2011 to IDR 91,118 million (approx. USD $6.2 million) in 2016.
@@ -86,7 +86,7 @@ description: Through training programmes and creating platforms for existing hom
 
 #### **Replicable ideas**
 
-###### ![Tempe](/images/features/2021/surabaya-tempe.jpg/)**The making of tempe - a traditional soy product in Surabaya** © City of Surabaya
+###### ![Tempe](/images/features/2021/surabaya-tempe.jpg)**The making of tempe - a traditional soy product in Surabaya** © City of Surabaya
 
 - Rather than reinventing the wheel, cities could tap onto the existing capabilities of the people by giving them platforms to showcase their skills and products, thus creating a self-reliant and sustainable local economy. 
 - Strategic interventions, such as the push for urban farming as part of the city greening programme, can help to achieve multiple effects of improving local economy as well as improve the urban environment. **<font color="#967942">O</font>**

@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Suzhou, Medellín, Yokohama, Copenhagen, Malmö, Manchester, Manila, Bandung
 
-###### ![Mr Lee Yi Shyan](/images/features/2014/lee-yi-shyan.jpg/)**Then-Senior Minister of State for Trade & Industry and National Development, Mr Lee Yi Shyan delivering the opening address at World Cities Summit Mayors Forum 2014**
+###### ![Mr Lee Yi Shyan](/images/features/2014/lee-yi-shyan.jpg)**Then-Senior Minister of State for Trade & Industry and National Development, Mr Lee Yi Shyan delivering the opening address at World Cities Summit Mayors Forum 2014**
 
 “Year by year, cities have grown in importance. Urbanisation is proceeding at an unprecedented scale. \[Since 2012] more than 100 million people have moved into cities from the countryside,” said Singapore Prime Minister, Lee Hsien Loong in his speech at the joint opening ceremony for the 2014 World Cities Summit, Singapore International Water Week and CleanEnviro Summit Singapore. WCS provides a bi-annual platform for government leaders, industry experts, representatives of international organisations and academics to learn from their peers’ expertise and experiences in developing solutions for the global urban population.
 
@@ -30,7 +30,7 @@ The issues of sustainability and resilience were addressed by numerous speakers 
 
 #### **Why cities must be liveable**
 
-###### ![Mr Aníbal Gaviria](/images/features/2014/anibal-gaviria.jpg/)**Mr Aníbal Gaviria, then-Mayor of Medellín, Colombia sharing on the city’s significant urban transformation at the Lee Kuan Yew World City Prize Lecture, World Cities Summit 2014**
+###### ![Mr Aníbal Gaviria](/images/features/2014/anibal-gaviria.jpg)**Mr Aníbal Gaviria, then-Mayor of Medellín, Colombia sharing on the city’s significant urban transformation at the Lee Kuan Yew World City Prize Lecture, World Cities Summit 2014**
 
 The liveability of cities, especially in developing nations facing exponential growth and increasing socio-economic migration, was a key challenge and much-discussed topic at WCS. All attendees were united in their belief that cities must deliver liveability for all residents – whether that involved developing green, environmentally friendly urban spaces, building socially integrated societies, giving residents access to economic opportunities, or ensuring public safety.
 
@@ -38,7 +38,7 @@ At the Lee Kuan Yew World City Prize Forum, Mr Kazumi Kobayashi, then-Director G
 
 Managing a holistic and socially integrated city was another challenge discussed in detail at the WCS Mayors Forum and other plenaries. Mr Peter Ho, Chairman of Singapore’s Urban Redevelopment Authority emphasised that cities must uphold good governance in order to build equitable, inclusive societies. Suzhou’s approach was highlighted as an example of well-planned social integration. Despite the challenges of a population influx due to rural-to-urban migration, Suzhou integrated rural migrants through an innovative housing scheme. The city also ensured equal access to social welfare for both local residents and migrant workers, including free compulsory education and sustaining employment opportunities.
 
-###### ![Mr Kazumi Kobayashi](/images/features/2014/kazumi-kobayashi.jpg/)**Mr Kazumi Kobayashi, Director General of Policy Bureau, Yokohama, Japan at World Cities Summit 2014**
+###### ![Mr Kazumi Kobayashi](/images/features/2014/kazumi-kobayashi.jpg)**Mr Kazumi Kobayashi, Director General of Policy Bureau, Yokohama, Japan at World Cities Summit 2014**
 
 The importance of access to economic opportunities was a message echoed by Mr Angel Gurría, Secretary-General of the Organisation for Economic Co-operation and Development. “Cities have to make economic provisions for the poorest segments of society,” he said. He referenced 2012 Lee Kuan Yew World City Prize Special Mentions [Malmö and Copenhagen](/copenhagen-malmo/), as an example of inter-city cooperation that saw pooled resources and shared public infrastructure benefit both cities’ residents.
 

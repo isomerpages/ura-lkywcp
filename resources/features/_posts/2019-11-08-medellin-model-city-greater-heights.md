@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Medellín
 
-###### ![Medellín is today a model city of social innovation](/images/features/2019/medellin-today.jpg/)**Medellín is today a model city of social innovation** © ACI Medellín
+###### ![Medellín is today a model city of social innovation](/images/features/2019/medellin-today.jpg)**Medellín is today a model city of social innovation** © ACI Medellín
 
 The metamorphosis of Medellín has put the city on the world map. In 1991, it had 381 murders for every 100,000 inhabitants, making it one of the most dangerous cities in the world. Beginning in the 1990s, successive mayors implemented a series of measures to slash the crime rate, rehabilitate and integrate the city’s widespread informal settlements, and improve its social equity, economic competitiveness and sustainability. 
 
@@ -33,13 +33,13 @@ As global temperatures climb due to climate change, cities will suffer the brunt
 
 “When we decided to plant the 30 green corridors, we focused on areas which most lacked green spaces,” said Medellín’s then-Mayor Federico Gutiérrez. “With this intervention, we have managed to reduce the temperature by more than two degrees Celsius, and already citizens can feel it.” Along Avenue Oriental, the city centre’s main road, 2.3 kilometres of paving was replaced by gardens, lowering the ambient temperature there by up to three degrees Celsius.   
 
-###### ![30 Green Corridors project](/images/features/2019/medellin-green-corridor.jpg/)**'30 Green Corridors' project** © ACI Medellín
+###### ![30 Green Corridors project](/images/features/2019/medellin-green-corridor.jpg)**'30 Green Corridors' project** © ACI Medellín
 
 “In many parts of the city, there were rubbish dumps next to ravines. They had become places for drug use because they were abandoned and isolated. After we transformed them into gardens, the children returned, the families returned,” added then-Mayor Gutiérrez. The city has also trained 75 new gardeners to take care of the corridors, offering steady work to vulnerable residents from some of its poorer rural communities. 
 
 An even more ambitious project, called Parks of the Medellín River, will further enhance the city and solve a problem that plagues some other cities too. In the 1950s, the government built highways on both sides of the river that winds through the city, blocking residents’ access to the river. In 2014, the government launched an international design competition to create a new master plan for the entire length of the river that falls within the city and, in particular, the nine-kilometre stretch that spans the core of the city. 
 
-###### ![A completed segment of the Medellín River Parks project](/images/features/2019/medellin-river-park.jpg/)**A completed segment of the Medellín River Parks project** © ACI Medellín
+###### ![A completed segment of the Medellín River Parks project](/images/features/2019/medellin-river-park.jpg)**A completed segment of the Medellín River Parks project** © ACI Medellín
 
 The winning proposal envisioned a revitalised river with almost 20 kilometres of parks, pedestrian walkways, bicycle lanes, community spaces and other amenities alongside it, as well as pedestrian bridges to better connect the two halves of the city on either side of the river. As part of the ongoing works, which will take up to 15 years to complete, a nearly 400-metre section of one highway has already been turned into a tunnel with a public park on top of it. “With the river parks and others like the Green Belt and the parks along our feeder creeks, we will get all the ecological connectivity that the city needs,” said Mr Juan Pablo Lopez, the project’s operating director.
 
@@ -47,7 +47,7 @@ The winning proposal envisioned a revitalised river with almost 20 kilometres of
 
 Medellín’s award-winning public transport system is getting an eco-conscious upgrade too. In the past, the government invested in the cable car mass transport system, trains and a tram line so that more residents could travel across the city more easily for employment and recreation. Now, it is continuing those expansion efforts but also making the transport system more electric and thus healthier and more environmentally-friendly. 
 
-###### ![New tram line](/images/features/2019/medellin-tram.jpg/)**New tram line** © ACI Medellín
+###### ![New tram line](/images/features/2019/medellin-tram.jpg)**New tram line** © ACI Medellín
 
 The city is progressively replacing its public buses with low-emissions vehicles, such as those that meet Euro IV, V or VI standards or use natural gas or electricity. This will reduce emissions of harmful fine particulate matter and carbon dioxide equivalent gases by 5.4 tonnes and 4.066 tonnes per year respectively. By end-2019, the city will have 64 fully electric buses. 
 

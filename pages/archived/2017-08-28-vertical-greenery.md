@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Bangladesh, Sydney, Singapore, Malmö
 
-###### ![The Oasia Downtown Hotel by WOHA Architects](/images/features/2017/oasia-hotel-downtown.jpg/)**The Oasia Downtown Hotel by WOHA Architects** © Patrick Bingham-Hall
+###### ![The Oasia Downtown Hotel by WOHA Architects](/images/features/2017/oasia-hotel-downtown.jpg)**The Oasia Downtown Hotel by WOHA Architects** © Patrick Bingham-Hall
 
 Vertical greenery, such as sky gardens, green walls or screens, and elevated parks, is growing in popularity as builders and planners recognise and seek to address the desire of citizens to live and work close to pockets of nature amid a dense built environment. For these residents, access to vertical greenery can deliver benefits such as better air quality, cooler temperatures and improved mental well-being.
 
@@ -39,7 +39,7 @@ Vertical green cities, when well-designed, represent part of the solution to thi
 
 A number of urban projects have set out to reconcile these seemingly disparate elements, of high density and ample green spaces, within a built environment. In Bangladesh, BRAC University in Dhaka has integrated a dense educational facility with tropical wetlands with a campus that drew inspiration from the nearby Sundarbans mangrove forests. The campus floats on a lake that was previously a polluted swamp and is designed to minimise the need for air-conditioning. The building also mimics the diverse strata of a natural forest, with multiple levels of civic and community spaces below the lake, and several floors of sky gardens above that provide spaces for study and interaction.
 
-###### ![Sydney aims to increase its urban canopy target by 50 percent by 2030](/images/features/2018/sydney-tree-canopy.jpg/)**Sydney aims to increase its urban canopy target by 50 percent by 2030** © City of Sydney
+###### ![Sydney aims to increase its urban canopy target by 50 percent by 2030](/images/features/2018/sydney-tree-canopy.jpg)**Sydney aims to increase its urban canopy target by 50 percent by 2030** © City of Sydney
 
 Meanwhile, greenery and urban sustainability are core aspects of Sydney's Sustainable Sydney 2030 vision, which aims to make this Australian city one that is green, global and connected by 2030. The practical sides of this vision include the Greening Sydney Plan, which has since served as a blueprint for many other cities' greening plans. On the ground, the plan includes the planting of 800 to 1,000 trees annually to increase Sydney's urban canopy target by 50 percent by 2030, as well as sixteen other projects that have delivered benefits such as pollution filtration, improved air quality, cooler public parks and new community gardens and city farms.
 
@@ -47,7 +47,7 @@ One notable showcase is Sydney Park, a wetland and flood mitigation zone that is
 
 In Singapore, where high-rise homes dominated the cityscape, public housing developments are now starting to integrate vertical greenery while still maximising land-use. At [Kampung Admiralty](http://www.woha.net/#Kampung-Admiralty), a 'vertical village' is being built to house residences as well as public facilities and services all under one roof. Dominating the roofscape is a series of terraced Sky Gardens and a Community Park, which also serves as a 'village green' with studio apartments for senior citizens that facilitate mingling among neighbours. Another recent public housing project, [SkyVille@Dawson](http://www.archdaily.com/215386/skyville-dawson-woha), consists of twelve high-rise 'villages' with a sky garden shared by 80 households, which are also connected to commercial zones via vegetated linear parks.
 
-###### ![Kampung Admiralty by WOHA Architects](/images/features/2017/kampung-admiralty.jpg/)**Kampung Admiralty by WOHA Architects** © Patrick Bingham-Hall
+###### ![Kampung Admiralty by WOHA Architects](/images/features/2017/kampung-admiralty.jpg)**Kampung Admiralty by WOHA Architects** © Patrick Bingham-Hall
 
 #### **Planning for a garden city**
 

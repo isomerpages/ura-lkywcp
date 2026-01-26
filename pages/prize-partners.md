@@ -8,7 +8,7 @@ published: false
 
 ##### The Prize is proud to partner leading international organisations and think tanks to bring mutual benefits and cross-collaborations. 
 
-###### ![Prize Partners](/images/prize-partners.jpg/)**Illustration** © stories/ freepik.com
+###### ![Prize Partners](/images/prize-partners.jpg)**Illustration** © stories/ freepik.com
 
 The Prize's esteemed partners: 
 

@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Suzhou, Ahmedabad, Medellín
 
-###### ![Citizens in the Stone Lake District](/images/features/2014/stone-lake.jpg/)**Citizens in the Stone Lake District** © Suzhou Suyuan Management Co Ltd
+###### ![Citizens in the Stone Lake District](/images/features/2014/stone-lake.jpg)**Citizens in the Stone Lake District** © Suzhou Suyuan Management Co Ltd
 
 Cities are the drivers of national economies. They house workforces and act as centres of international trade and investment. How a city develops socially, economically and environmentally dictates the advancement of nations and their citizens.
 
@@ -53,7 +53,7 @@ Conversely, housing low-value industries does not automatically decrease a city�
 
 #### **The Suzhou story**
 
-###### ![Beautiful Stone Lake District](/images/features/2014/stone-lake2.jpg/)**Beautiful Stone Lake District** © Suzhou Suyuan Management Co Ltd
+###### ![Beautiful Stone Lake District](/images/features/2014/stone-lake2.jpg)**Beautiful Stone Lake District** © Suzhou Suyuan Management Co Ltd
 
 While there are no templates for success, the city of Suzhou’s vision to both house high-value industries and provide a highly liveable environment for its residents is exemplary. Its city leaders developed and then meticulously followed the 1996-2010 Master Plan to achieve both traits in less than 20 years.
 

@@ -12,7 +12,7 @@ published: false
 
 ***Like many developing cities, Medellín experienced a rapid surge in population from the 1950s. The proliferation of informal settlements brought along a host of issues from violence and inaccessibility to housing safety and lack of public infrastructure. What made Medellín stand out, however, was its bold, grounds-up approach to tackling informal settlements and their associated issues. Following two decades of sustained effort, Medellín today demonstrates the remarkable urban transformation that can be brought about with determination, vision and creativity, even in the face of limited resources.***
 
-![A network of escalators in Comuna 13](/images/features/2016/comuna13.jpg/)*A network of escalators in Comuna 13 San Javier helped improved vertical mobility in the neighbourhood © Carlos Escobar*
+![A network of escalators in Comuna 13](/images/features/2016/comuna13.jpg)*A network of escalators in Comuna 13 San Javier helped improved vertical mobility in the neighbourhood © Carlos Escobar*
 
 The story of Medellín’s population surge is one echoed across many developing cities in Latin America, Asia and Africa. Rapid urbanisation since the 1950s saw an increase in opportunities for work and education in the city, turning Medellín into a migration magnet. In 1940, Medellín’s population hovered around 170,000. By the end of the 1990s, it had burgeoned to almost 2 million<sup>1</sup>.
 
@@ -26,7 +26,7 @@ These challenges are not unique to Medellín. What sets this Latin American city
 
 In the early 1990s, Medellín began exploring solutions to integrate its informal settlements. Strapped by inaccessibility to funds, manpower and other resources, the city remained undeterred despite the considerable challenges for such an extensive undertaking.
 
-![The Circumvent Garden](/images/features/2016/circumvent-garden.jpg/)*The Circumvent Garden © Municipality of Medellín*
+![The Circumvent Garden](/images/features/2016/circumvent-garden.jpg)*The Circumvent Garden © Municipality of Medellín*
 
 “Informal settlements need new ideas,” recalls Jorge Alberto Pérez Jaramillo, Medellín’s Director of Planning from 2012 to 2015. “It is not possible to solve informalities with formal procedures, so we found new ways to intervene with a re-urbanisation methodology.”
 
@@ -40,7 +40,7 @@ Projects were planned and carried out to address specific needs and risks in eac
 
 Parque Biblioteca España, or the Spain Library Park, established in 2007, demonstrates how public facilities serve as important spaces for residents seeking refuge from gang violence and crime. Located in a park near a metro station, the library is frequented not just by residents in the vicinity, but also those living much further away.
 
-![Parque Biblioteca España](/images/features/2016/spanish-library.jpg/)*Parque Biblioteca España © Pepe Navarro*
+![Parque Biblioteca España](/images/features/2016/spanish-library.jpg)*Parque Biblioteca España © Pepe Navarro*
 
 At the same time, the city’s sprawl of informal settlements continued to edge up the surrounding mountains. To check the growth, the city created an encircling green belt, called the Circumvent Garden, in 2012. The garden performs several critical functions – it reduces soil erosion, serves as the city’s green lungs, hosts community facilities and even farms. “When you destroy the forests for informal settlements, you also destroy Medellín’s environment,” said Gaviria. “The garden limits the growth of the settlements and gives more public space for people in the city and the hilltop communities.”
 
@@ -58,7 +58,7 @@ Drawn by the ground-up approach, local organisations such as non-governmental or
 
 Even more remarkably, this co-operative spirit saw to Medellín’s commitment to its transformation over two decades. Despite several changes in local government, the city continued on its path to better its environment and the lives of its vulnerable communities.
 
-![Comuna 13](/images/features/2016/comuna13-2.jpg/)*Improved public spaces, pocket parks and wall mural artwork in Comuna 13 San Javier © Carlos Escobar*
+![Comuna 13](/images/features/2016/comuna13-2.jpg)*Improved public spaces, pocket parks and wall mural artwork in Comuna 13 San Javier © Carlos Escobar*
 
 #### **Forging ahead**
 

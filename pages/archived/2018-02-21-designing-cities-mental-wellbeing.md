@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Singapore, Vancouver BC, Tokyo, Toronto, São Paulo
 
-###### ![The New York High Line](/images/features/2018/nyc-high-line.jpg/)**The New York High Line** © maridav/ 123rf.com
+###### ![The New York High Line](/images/features/2018/nyc-high-line.jpg)**The New York High Line** © maridav/ 123rf.com
 
 In 2016, when the government of New York City in the United States updated its guiding principles for urban design, it made supporting its residents’ mental well-being one of its top priorities. “With healthy living as a guiding principle, we are widening our lens and encouraging design teams to think about aspects in the built environment that can aid mental health,” the Department of Design and Construction said in its [policy booklet](http://www1.nyc.gov/site/ddc/about/guiding-principles.page).
 
@@ -49,7 +49,7 @@ Other cities such as Sorocaba in São Paulo, Brazil, have seen great success in 
 
 #### **The ties that bind**
 
-###### ![New York Times Square](/images/features/2018/nyc-times-square.jpg/)**New York Times Square** © NYC Department of Transportation
+###### ![New York Times Square](/images/features/2018/nyc-times-square.jpg)**New York Times Square** © NYC Department of Transportation
 
 In 2010, the New York City government reconstructed Manhattan’s iconic Times Square, pedestrianising a large section of the area, widening the sidewalks and adding five plazas to coax more social interactions among residents and visitors. “Times Square encourages a multitude of activities, collective cultural experiences and social connections. Now, people can linger for coffee at moveable chairs and fixed benches, and move around more safely and comfortably,” it said in its latest booklet to outline [guiding principles for urban design](http://www1.nyc.gov/site/ddc/about/guiding-principles.page).
 

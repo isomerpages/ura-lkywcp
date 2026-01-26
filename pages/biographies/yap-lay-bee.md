@@ -1,7 +1,7 @@
 ---
 title: Biography — Yap Lay Bee
 permalink: /yap-lay-bee/
-image: /images/secretariat/yap-lay-bee.png/
+image: /images/secretariat/yap-lay-bee.png
 published: true 
 ---
 

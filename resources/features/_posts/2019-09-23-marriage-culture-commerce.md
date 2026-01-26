@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Suzhou
 
-###### ![The Gate of the Orient](/images/features/2019/suzhou-gate-orient.jpg/)**The Gate of the Orient** © Chen Yuhe
+###### ![The Gate of the Orient](/images/features/2019/suzhou-gate-orient.jpg)**The Gate of the Orient** © Chen Yuhe
 
 One of China’s oldest cities in the Yangtse River Basin, Suzhou has long mixed commerce with artistry. By the 14th century, it was the country’s leading producer of silk, and it has protected its cultural and built heritage even as it has evolved to meet the changing world and its residents’ needs. When the city was awarded the [2014 Lee Kuan Yew World City Prize](/suzhou/), the jury noted that it had “successfully transited from an agricultural, manufacturing, export-oriented economy to an innovative, high-value, service-oriented economy”. 
 
@@ -30,7 +30,7 @@ The city’s deft balancing act continues to serve it well. In recent years, the
 
 The Wujiang Taihu Lake New City in the southern part of the city is another incubator for the financial and other industries. The New City’s Financial Town has attracted over 250 financial institutes and organisations, including venture capitalist, investment and wealth management firms. The burgeoning financial centres in the north and south of Suzhou are also supported by the new Suzhou International Financial Square, a 450-metre-high skyscraper in the SIP that spans 393,208 square metres of built area.
 
-###### ![The new Suzhou International Financial Square](/images/features/2019/suzhou-international-financial-square.jpg/)**The new Suzhou International Financial Square** © Chen Yuhe
+###### ![The new Suzhou International Financial Square](/images/features/2019/suzhou-international-financial-square.jpg)**The new Suzhou International Financial Square** © Chen Yuhe
 
 The Qipao Town in the Taihu Lake New City, on the other hand, is another example of how Suzhou is utilising its unique history for the city’s future. Highlighting the city’s longstanding expertise in silk and silk products, the town has a Qipao Museum, Qipao Research Institute and Qipao Outdoor Performance Plaza to showcase the traditional Chinese costume, which is also called the cheongsam. With luxury qipao and silk brands such as Ji Xiang Zhai, Golden Scissor and Janchoo also putting down roots in the town, it is now a nexus of culture, business and tourism that is helping the city to flourish by spotlighting its past.
 
@@ -51,7 +51,7 @@ The canal is also a focal point of Suzhou’s wide-ranging efforts to upgrade it
 
 In 2015, the city also completed a 16-kilometre-long fitness trail along its ancient moat that similarly blends nature, recreation and flood protection. The trail connects eight historical city gates, several famous bridges and the Classical Gardens, and has dozens of sports squares along the way for residents to exercise while enjoying the beautiful scenery along the moat. Permeable concrete was also used to construct the trail to absorb rainfall and reduce the risks of floods in the city.  
 
-###### ![New fitness trail along the ancient moat](/images/features/2019/suzhou-fitness-track.jpg/)**New fitness trail along the ancient moat** © Suzhou
+###### ![New fitness trail along the ancient moat](/images/features/2019/suzhou-fitness-track.jpg)**New fitness trail along the ancient moat** © Suzhou
 
 Other concluded, ongoing and upcoming projects will safeguard the city’s traffic, power, water and telecommunications networks. In 2015, Suzhou was designated as one of China’s first pilot cities for underground pipe galleries, which are tunnels that carry pipes and cables necessary for urban living, including those for electricity, water, natural gas, heat, communications, cable television and circulation of reclaimed water. These advanced tunnels are also equipped with sensors and monitoring systems and have access points for maintenance and upgrades so that roads do not have to dug up for such works. Suzhou currently has three pipe galleries and plans to expand its network’s length from 34 kilometres in 2017 to 193 kilometres by 2030.
 

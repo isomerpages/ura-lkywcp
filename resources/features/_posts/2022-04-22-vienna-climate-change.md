@@ -24,7 +24,7 @@ The city’s commitment to the environment is one reason that it was awarded the
 
 #### **Channelling efforts against flood risks**
 
-###### ![Danube Island](/images/features/2022/danube-island.jpg/)**Recreational activities on Danube Island** © Bravavod161/ Shutterstock.com
+###### ![Danube Island](/images/features/2022/danube-island.jpg)**Recreational activities on Danube Island** © Bravavod161/ Shutterstock.com
 
 Even before the city implemented its first climate protection programme, it conducted studies and built defences to reduce its flood risks. One ambitious project, which consisted of excavating a flood control channel called the New Danube, and using the excavated soil to create a recreational island named the Danube Island, was finished in 1989. The undertaking both raised the city’s flood protection and added a centrally-located closed water body and large public park for outdoor activities.
 
@@ -34,7 +34,7 @@ With climate change accelerating since the city constructed the Danube Island, i
 
 #### **A green capital of the world**
 
-###### ![Vienna preserves over 50% of its land areas as green spaces](/images/features/2022/vienna-greenery.jpg/)**Vienna preserves over 50% of its land areas as green spaces** © Syed Zain Mujtaba/ Shutterstock.com
+###### ![Vienna preserves over 50% of its land areas as green spaces](/images/features/2022/vienna-greenery.jpg)**Vienna preserves over 50% of its land areas as green spaces** © Syed Zain Mujtaba/ Shutterstock.com
 
 Over the years, Vienna has also enacted plans to expand its green and open spaces, boost its affordable and sustainable housing, and reconfigure its transport system to favour public transport, walking, cycling and other environmentally friendly travel modes. Its STEP 2025 urban development plan, adopted in 2014, sets out targets and initiatives in all three areas.
 
@@ -46,7 +46,7 @@ It also continues to set aside land plots, and rehabilitate brownfield sites, in
 
 #### **A leader in sustainable housing**
 
-###### ![A new residential district in Vienna](/images/features/2022/aspern-seestadt.jpg/)**A new residential district in Vienna** © Chang Jun Biao
+###### ![A new residential district in Vienna](/images/features/2022/aspern-seestadt.jpg)**A new residential district in Vienna** © Chang Jun Biao
 
 As Vienna’s population grew, it introduced measures to keep housing affordable and sustainable too. Since the city completed its first municipal housing estate in 1925, it has erected about 220,000 low-rent public flats that house about 500,000 people, or a quarter of its population. Successful applicants, who must meet age, income and other criteria, also do not have to pay deposits, commissions or contract fees, making the flats the least costly form of housing in the city.
 

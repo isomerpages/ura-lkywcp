@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Jersey City, Singapore, Lagos, Yokohama, Songdo
 
-###### ![from-refuse-to-resource](/images/features/2016/from-refuse-to-resource.jpg/)**Urban waste management poses new challenges and opportunities**
+###### ![from-refuse-to-resource](/images/features/2016/from-refuse-to-resource.jpg)**Urban waste management poses new challenges and opportunities**
 
 For most city dwellers, waste management ends at the rubbish bin. For cities, however, the question of what to do with burgeoning volumes of solid waste is one that spans the challenges of optimising land-use, protecting public health and maintaining a quality environment. Long ago, cities simply dumped their waste into wetlands or wastelands, a method that was unsustainable and ecologically damaging. Open landfills then emerged to serve municipalities, but soon came under immense pressure as they rapidly filled up and became the scourge of communities who had to put up with the stench of these facilities.
 

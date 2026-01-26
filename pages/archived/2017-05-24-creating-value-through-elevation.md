@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Paris, Phoenix, Singapore, Tehran, Seattle, Chicago, Osaka, Seoul
 
-###### ![The High Line in New York City](/images/features/2017/nyc-high-line.jpg/)**The High Line in New York City**
+###### ![The High Line in New York City](/images/features/2017/nyc-high-line.jpg)**The High Line in New York City**
 
 When the much-anticipated High Line opened in New York City in 2009, its success story sparked intense interest across cities worldwide, spawning a number of similar projects. With over five million visitors a year, the High Line has revitalised a largely ignored neighbourhood in Manhattan, created economic benefits in terms of tax revenue, increased property value and some 12,000 jobs, and demonstrated the impact of good urban design and strong private-public partnerships[^1]. Gains aside, one of the most distinguishing features of the High Line lies in the fact that it is an elevated park coursing through the city, challenging the traditional notion of landed public parks.
 
@@ -22,7 +22,7 @@ This idea, however, of utilising space above existing urban infrastructure for p
 
 Stretching 4.7 kilometres over disused 19th century railway infrastructure, Promenade Plantée was the inspiration behind New York’s adaptive re-use of the High Line[^2], with key proponents for the High Line visiting Paris on study trips to understand how they could improve on the design. An elevated linear park, the project also integrates specialised commercial establishments and cycling pathways. In a way, Promenade Plantée is a product of urban design concerns and challenges of its time – the rising push for pedestrian-friendly cities and human-scaled design, competition for urban space among different stakeholders in cities, and the tensions between preserving older disused infrastructure versus redevelopment.
 
-###### ![Promenade Plantée in Paris](/images/features/2017/promenade-plantee.jpg/)**Promenade Plantée in Paris**
+###### ![Promenade Plantée in Paris](/images/features/2017/promenade-plantee.jpg)**Promenade Plantée in Paris**
 
 #### **Addressing urban development challenges through elevation**
 
@@ -34,7 +34,7 @@ Another major advantage of harnessing elevated spaces is the enrichment of a cit
 
 One example is Singapore’s use of elevated parkways, including canopy walks and bridges, to link several parks separated by busy motorways. The result is a series of connected park spaces called the Southern Ridges. In 2014, Tehran unveiled the award-winning Tabiat Bridge which spanned across a highway to connect two public parks in the city. Featuring three storeys of broad pedestrian paths, benches, cafes and landscaping, the bridge allows pedestrians to enjoy the two parks seamlessly while providing an attractive transit.
 
-###### ![The Tabiat Bridge in Tehran](/images/features/2017/tabiat-bridge.jpg/)**The Tabiat Bridge in Tehran**
+###### ![The Tabiat Bridge in Tehran](/images/features/2017/tabiat-bridge.jpg)**The Tabiat Bridge in Tehran**
 
 By introducing parks and linkages in elevated spaces, cities also increase the liveability of those areas considerably. Freeway cap parks not only provide aesthetic covers over giant, utilitarian highways and traffic, they are also effective in reducing noise pollution and raising air quality. Seattle’s Freeway Park, for instance, features a waterfall which drowns out traffic noise from the expressway under it.
 
@@ -57,7 +57,7 @@ Washburn continues, "So there’s this provision in New York that allows you to 
 
 #### **The future of elevated parks**
 
-###### ![Namba Parks in Osaka](/images/features/2017/namba-park.jpg/)**Namba Parks in Osaka**
+###### ![Namba Parks in Osaka](/images/features/2017/namba-park.jpg)**Namba Parks in Osaka**
 
 With more cities announcing their own version of the High Line and Promenade Plantée, elevated parks are here to stay. A longstanding challenge faced by cities, however, are development funds and long-term maintenance costs. For example, the High Line’s annual maintenance costs alone exceed USD $5 million.
 
