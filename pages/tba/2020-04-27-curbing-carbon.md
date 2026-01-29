@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Helsinki, Petaling Jaya, New York City, Melbourne, Frankfurt, Bristol, Shenzhen, Chicago, Copenhagen, Rotterdam
 
-###### ![Sustainable city](/images/features/2020/curbing-carbon.jpg/)**10 ways cities can cut their emissions** © batsheba/ 123rf.com
+###### ![Sustainable city](/images/features/2020/curbing-carbon.jpg)**10 ways cities can cut their emissions** © batsheba/ 123rf.com
 
 #### **01: Empower residents**
 
@@ -62,7 +62,7 @@ In 2010, it built on its commitment by requiring all city-owned buildings, inclu
 
 #### **06: Clean up transport**
 
-###### ![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg/)**Transport in Bristol** © bagwold/ 123rf.com
+###### ![Transport in Bristol](/images/features/2020/bristol-bridge-bus.jpg)**Transport in Bristol** © bagwold/ 123rf.com
 
 In transport, **Bristol** is leading the way in Britain. In 2019, the city’s council approved a [first-in-the-nation plan to minimise pollution from vehicles](https://www.bristolpost.co.uk/news/bristol-news/bristol-clean-air-zone-diesel-3481117). If given the green light by the central government, all private diesel vehicles except buses, taxis and emergency service vehicles will be banned from entering part of the city centre between 7 am and 3 pm from March 2021.
 

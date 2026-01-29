@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Auckland
 
-###### ![Khartoum Place](/images/features/2016/khartoum-place.jpg/)**Khartoum Place – a pedestrianised city square in Auckland – is one of the many public spaces in the city rejuvenated through design-led initiatives** © Auckland Council
+###### ![Khartoum Place](/images/features/2016/khartoum-place.jpg)**Khartoum Place – a pedestrianised city square in Auckland – is one of the many public spaces in the city rejuvenated through design-led initiatives** © Auckland Council
 
 Auckland today is well on its way to becoming one of the world’s most liveable cities, with urban design playing a leading role in its redevelopment. However, as recent as a decade ago, the city was defined by poor quality urban design – its form and function catering to vehicles rather than people. With one of the highest ownership of cars per capita in the world, the city of sails was more often dubbed 'the city of cars'.
 
@@ -39,7 +39,7 @@ Auckland’s drive for good design gained stronger momentum by 2010, when the ci
 
 In 2013, the city released the first Auckland Design Manual, a resource for stakeholders in design, building and development to share their guidance and best practices. Within the same year, Auckland approved its public art policy, aimed at incorporating art in public spaces. This string of initiatives within a few years propelled the city’s embrace of sound urban design.
 
-###### ![Lorne Street](/images/features/2016/lorne-street.jpg/)**Lorne Street is an example of shared spaces in the city – where pedestrians have the right of way** © Auckland Council
+###### ![Lorne Street](/images/features/2016/lorne-street.jpg)**Lorne Street is an example of shared spaces in the city – where pedestrians have the right of way** © Auckland Council
 
 #### **Reclaiming the city, project by project**
 

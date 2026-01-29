@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Milan, New York City, Brisbane, Seoul, London, Cambridge, Shanghai, Okayama, Luxembourg City, Copenhagen, Berlin, Toronto, Bangkok
 
-###### ![How can cities reduce their food wastage?](/images/features/2021/infographic-food-waste.png/)**How can cities reduce their food wastage?** © GoodStudio/ Shutterstock.com, additional text: Editor's own
+###### ![How can cities reduce their food wastage?](/images/features/2021/infographic-food-waste.png)**How can cities reduce their food wastage?** © GoodStudio/ Shutterstock.com, additional text: Editor's own
 
 Hunger could be a thing of the past if the world wasted less food. In 2019 alone, households, eateries and retailers threw away 931 million tonnes of food, amounting to 17 percent of the food produced that year, [the United Nations (UN) said in a March 2021 report](https://wedocs.unep.org/bitstream/handle/20.500.11822/35280/FoodWaste.pdf). It noted that [the COVID-19 pandemic has likely worsened the wastage](https://www.un.org/en/observances/end-food-waste-day), with food distributors stymied by closures in the hospitality industry, and people’s panic buying and stockpiling preventing supermarkets from donating to food banks, and probably resulting in more discarded food.
 
@@ -41,9 +41,9 @@ In the United States, [New York City developed a website](https://www1.nyc.gov/a
 
 #### **Making a difference with people**
 
-###### ![How can we curb wastefulness?](/images/features/2021/discard-food.jpg/)**How can we curb wastefulness?** © freepik.com
+###### ![How can we curb wastefulness?](/images/features/2021/discard-food.jpg)**How can we curb wastefulness?** © freepik.com
 
-With households responsible for over half of the food that is thrown away, cities are taking steps to curb their wastefulness too. Since 2017, Brisbane in Australia has [reduced household food waste by over 32 percent](https://www.brisbane.qld.gov.au/sites/default/files/documents/2020-10/Annual-Report-2019-20-Oct%202020.pdf) through a [‘Love Food Hate Waste’ campaign](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/reducing-waste-at-home/love-food-hate-waste) that shares tips on how to plan meals and shop thoughtfully to avoid waste, store food properly and make the most of leftovers. 
+With households responsible for over half of the food that is thrown away, cities are taking steps to curb their wastefulness too. Since 2017, Brisbane in Australia has [reduced household food waste by over 32 percent](https://www.brisbane.qld.gov.au/sites/default/files/documents/2020-10/annual-report-2019-20-oct%202020.pdf) through a [‘Love Food Hate Waste’ campaign](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/reducing-waste-at-home/love-food-hate-waste) that shares tips on how to plan meals and shop thoughtfully to avoid waste, store food properly and make the most of leftovers. 
 
 The city also has a [‘Six Week Food Challenge’](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/recycling-and-reducing-waste/love-food-hate-waste/six-week-food-waste-challenge) that residents can take by following instructions on its website. This includes downloading a food waste diary to track the household’s waste during the first week, and then learning how to reduce the amount through easy actions in the subsequent weeks. The Brisbane City Council [noted that the diary opens residents’ eyes to the scale of their waste](https://www.brisbane.qld.gov.au/clean-and-green/rubbish-tips-and-bins/recycling-and-reducing-waste/love-food-hate-waste/food-waste-in-brisbane): “Most people care about the amount of food that they waste, but significantly underestimate how much food goes into their bin. Food waste is the largest volume of avoidable material that goes into Brisbane’s landfill every year.”
 
@@ -53,7 +53,7 @@ Some cities also have ‘community fridges’, where residents can leave their s
 
 #### **The beauty of ugly food**
 
-###### ![How can cities reduce their food wastage?](/images/features/2021/ugly-food.jpg/)**Getting consumers to accept misshapen or 'ugly food' can help reduce food wastage** © j.chizhe/ Shutterstock.com
+###### ![How can cities reduce their food wastage?](/images/features/2021/ugly-food.jpg)**Getting consumers to accept misshapen or 'ugly food' can help reduce food wastage** © j.chizhe/ Shutterstock.com
 
 Some cities are shining a spotlight on ugly produce and other types of food that are often wasted. In Luxembourg City, the capital of Luxembourg, [‘social supermarkets’ sell surplus food](https://www.vdl.lu/en/living/aid-and-assistance/people-need/social-supermarkets), and food that is edible but rejected by grocers due to imperfections and other reasons, at steep discounts to needy residents. The city sources the food from bakeries, supermarkets, companies and others, and provides the residents with a card that gives them access to the stores, with large families and single-parent households having priority. Each recipient pays a token fee of two Euros (approximately 2.40 USD).
 

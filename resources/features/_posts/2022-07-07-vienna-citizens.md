@@ -26,7 +26,7 @@ For decades, Vienna has empowered citizens to shape its future. It has consulted
 
 #### **Co-creating spaces with communities**
 
-###### ![The Grätzloase programme invites citizens to revitalise public spaces](/images/features/2022/street-festival.jpg/)**The Grätzloase programme invites citizens to revitalise public spaces** © Stadt Wien
+###### ![The Grätzloase programme invites citizens to revitalise public spaces](/images/features/2022/street-festival.jpg)**The Grätzloase programme invites citizens to revitalise public spaces** © Stadt Wien
 
 For example, the city operates ‘Local Agenda 21’ (LA 21), district-level programmes where residents and public officials cooperate on projects to enhance their neighbourhoods. Each programme typically lasts four years and receives about 100,000 Euros (approximately 105,200 USD) in funding per year. 
 
@@ -59,7 +59,7 @@ In mobility, the city is piloting electric vehicle (EV)-sharing models that are 
 
 #### **A mass movement for mobility**
 
-###### ![Vienna promotes active mobility in the city](/images/features/2022/active-mobility.jpg/)**Vienna promotes active mobility in the city** © mirawonderland/ 123RF.com
+###### ![Vienna promotes active mobility in the city](/images/features/2022/active-mobility.jpg)**Vienna promotes active mobility in the city** © mirawonderland/ 123RF.com
 
 Constructed on a former airfield, Vienna’s new Aspern Seestadt district offers lessons in mobility and citizen participation. Over 13,200 people already live and work in the area. When it is fully completed in 2028, it will have homes for over 20,000 people and thousands of workplaces. Complementing its extensive public transit network, wide cycling paths and generous sidewalks, mobility suggestions from the public have helped to achieve 38 percent of trips by public transport, 28 percent on foot and seven percent by bicycle.
 

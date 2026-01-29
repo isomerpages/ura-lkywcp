@@ -1,7 +1,7 @@
 ---
 title: Fellowships
 permalink: /network/fellowships/
-image: /images/features/2024/lkywcp-network.png/
+image: /images/features/2024/lkywcp-network.png
 description: City Network for the Lee Kuan Yew World City Prize Fellowships
 ---
 

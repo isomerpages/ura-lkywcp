@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Rosario, Seoul, New York City, Atlanta, Calgary, Edmonton, La Paz, Mexico City, Manchester, Newcastle
 
-###### ![How can cities increase fresh food sources?](/images/features/2021/infographic-fresh-food.png/)**How can cities increase fresh food sources?** © vectormine/ Shutterstock.com, additional text: Editor's own
+###### ![How can cities increase fresh food sources?](/images/features/2021/infographic-fresh-food.png)**How can cities increase fresh food sources?** © vectormine/ Shutterstock.com, additional text: Editor's own
 
 Even as cities aim to end hunger, many are facing an uphill battle to provide citizens with budget-friendly and nutritious food. [In its latest report on the state of food security and nutrition in the world](http://www.fao.org/publications/sofi/2020/en/), the United Nations (UN) estimated that about two billion people already did not have regular access to safe, nutritious and sufficient food before the COVID-19 outbreak, and more people were going hungry each year since 2014. “There is no doubt that the pandemic will expose more people to food insecurity and accelerate the projected increase in the number of hungry people, unless immediate actions are taken,” it said. 
 
@@ -38,7 +38,7 @@ Seoul in South Korea, for its part, is [creating vegetable gardens throughout th
 
 In October 2020, [the city unveiled an even more ambitious plan](https://en.yna.co.kr/view/AEN20200923004300315) to spend 251.4 billion won (approximately USD $222 million) from 2021 to 2024 to expand its urban farming space from 202 hectares to 240 hectares. The city will use the funds to convert more buildings’ rooftops and walls into vegetable plots, set up farming support centres in all 25 wards, and operate exchange programmes for urban farmers to learn from professionals in rural areas. The city wants to increase its number of urban farmers from 647,000 in 2019 to one million by 2024, to enhance its food supply and provide jobs to its growing ranks of retiring baby boomers.
 
-###### ![Cities could look into increasing local produce through urban farming](/images/features/2021/rooftop-farming.jpg/)**Cities could look into increasing local produce through urban farming** © YuRi Photolife/ Shutterstock.com
+###### ![Cities could look into increasing local produce through urban farming](/images/features/2021/rooftop-farming.jpg)**Cities could look into increasing local produce through urban farming** © YuRi Photolife/ Shutterstock.com
 
 #### **Bringing fresh produce to the people**
 
@@ -52,7 +52,7 @@ In Canada, Calgary and Edmonton have taken a different approach. In 2018, [Calga
 
 #### **Plating up healthy meals**
 
-###### ![Prepared meals for the underprivileged](/images/features/2021/food-kitchen.jpg/)**Prepared meals for the underprivileged** © addkm/ Shutterstock.com
+###### ![Prepared meals for the underprivileged](/images/features/2021/food-kitchen.jpg)**Prepared meals for the underprivileged** © addkm/ Shutterstock.com
 
 As cities strive to help their residents eat well, some are preparing wholesome meals for key demographics and curtailing access to unhealthy food. In 2000, La Paz in Bolivia started [buying produce from local farmers to cook nutritious meals for the 140,000 children in its schools](http://www.ipsnews.net/2015/03/bolivias-school-meals-all-about-good-habits-and-eating-local/), after the previous practice of serving cheap chocolate, wafers and flavoured milk for breakfast led to health problems such as high rates of anaemia. The improved school meals, which include quinoa, wholegrains and fruit, [slashed the incidence of anaemia from 37 percent to 7 percent](https://www.milanurbanfoodpolicypact.org/wp-content/uploads/2020/12/SDN-La-Paz_2019.pdf), and continues to provide the farmers with a secure income stream.
 

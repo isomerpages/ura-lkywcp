@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Boulder, Cologne, Rotterdam, Jakarta, Ghent, Antwerp, London, Tampere, Oslo
 
-###### ![Child in the city](/images/features/2020/child-city.jpg/)**Creating more child-friendly cities** ©  bowie15/ 123rf.com
+###### ![Child in the city](/images/features/2020/child-city.jpg)**Creating more child-friendly cities** ©  bowie15/ 123rf.com
 
 In 2019, the city of Boulder in the United States [debuted a map of the city designed with and for its children](https://www.citylab.com/solutions/2019/12/kid-friendly-cities-map-growing-up-boulder-families-parents/603733/). The map was created by the city’s Growing Up Boulder group, which works with kids to include their input in urban planning, and in consultation with about 700 children, caregivers and teachers. It points the children to spaces where they can play and learn, such as cycling and walking trails that are appropriate for them, libraries, dog parks and museums, and has small icons for those who cannot read or read well yet. 
 
@@ -43,7 +43,7 @@ In Antwerp, city authorities have not only widened pavements and implemented cro
 
 For cities with limited space, temporary road closures can be an effective way to make more room for children. In London, Britain, the [“Play Streets” programme](https://www.london.gov.uk/sites/default/files/ggbd_making_london_child-friendly.pdf) encourages residents to apply to their local council for help in organising regular road closures, for example for three hours on the first Sunday of every month, to enable children to play in the street and become physically active and healthier. Residents have to get approval from at least 70 percent of the households on their street. If they are successful, the council provides road closure signs, high visibility vests for volunteers and play kit bags for free. In the Camden district alone, [12 streets have joined the programme](https://www.camden.gov.uk/play-streets), with the council noting that it has brought residents together.
 
-###### ![Making cities safer and more inclusive for children](/images/features/2020/child-cycling.jpg/)**Making cities safer and more inclusive for children** © Irina Schmidt/ 123rf.com
+###### ![Making cities safer and more inclusive for children](/images/features/2020/child-cycling.jpg)**Making cities safer and more inclusive for children** © Irina Schmidt/ 123rf.com
 
 #### **Children in charge** 
 

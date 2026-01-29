@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Auckland
 
-###### ![Diversity in Auckland](/images/features/2016/auckland-diversity.jpg/)**Auckland strives to integrate its diverse population and first peoples in all of its urban and social transformation plans**
+###### ![Diversity in Auckland](/images/features/2016/auckland-diversity.jpg)**Auckland strives to integrate its diverse population and first peoples in all of its urban and social transformation plans**
 
 Back in 2010, Auckland’s governance model was complex and cumbersome, with a regional council and seven city authorities. The fragmented structure hindered the growth of the city in many ways – decision-making in policies and operations was slow and onerous, planning outcomes were incoherent and there were infrastructure deficits.
 
@@ -37,7 +37,7 @@ The result of the consultations was the 30-year Auckland Plan, which laid out a 
 
 “This is a democracy with 1.6 million people, each with a very strong opinion on how things should go forward,” shares Brown. “We really try to respect our community and that changes are carried out with integrity. Integrity means that we listen to our community and that we will approve plans on the way to go forward on the basis that we have their mandate. It is not just about being a democracy, but really encouraging democratic involvement and participation, and honouring that has been right at the heart of how seamlessly the changes have gone through.”
 
-###### ![Diversity in Auckland](/images/features/2016/auckland-people-first.jpg/)**Placing people at the heart of Auckland’s urban and social transformation plans** © Auckland Council
+###### ![Diversity in Auckland](/images/features/2016/auckland-people-first.jpg)**Placing people at the heart of Auckland’s urban and social transformation plans** © Auckland Council
 
 #### **The people, the people, the people**
 

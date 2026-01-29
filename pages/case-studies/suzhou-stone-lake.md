@@ -18,7 +18,7 @@ description: This innovative relocation housing policy helped Suzhou restore the
 
 #### **In brief**
 
-###### ![Stone Lake District](/images/features/2020/stone-lake-map.jpg/)**Schematic map of Stone Lake District (in red) with its larger surroundings** © City of Suzhou
+###### ![Stone Lake District](/images/features/2020/stone-lake-map.jpg)**Schematic map of Stone Lake District (in red) with its larger surroundings** © City of Suzhou
 
 - The Stone Lake District project is located in the southwest region of Suzhou.
 - A main component of ‘four green elements’ designated in the 1986 Suzhou City Master Plan. 
@@ -54,7 +54,7 @@ description: This innovative relocation housing policy helped Suzhou restore the
 
 #### **Creativity and innovation**
 
-###### ![1 for 3 housing](/images/features/2020/1-for-3.jpg/)**1-for-3 housing policy** © City of Suzhou
+###### ![1 for 3 housing](/images/features/2020/1-for-3.jpg)**1-for-3 housing policy** © City of Suzhou
 
 - In addition to restoring and improving the quality of the natural waterbody, the number of residents is controlled within the scenic site. 
 - Rural farmers were relocated to urban areas as the pig farming activities were contaminating the existing lake. 
@@ -68,7 +68,7 @@ description: This innovative relocation housing policy helped Suzhou restore the
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2020/impacts-suzhou1.png/)
+###### ![Impacts](/images/features/2020/impacts-suzhou1.png)
 
 - More than 200 hectares of enclosed aquaculture facilities on the lake surface are dismantled, while land designated for cemeteries is reduced. This expanded the lake surface area and in turn improved the water quality and ecological environment. 
 - Increase in green and public spaces significantly enhanced the environment: over 30,000 trees planted in 11,000 hectares of land, forming a 6.6 kilometres of scenery belt around the lake. 
@@ -82,7 +82,7 @@ description: This innovative relocation housing policy helped Suzhou restore the
 
 #### **Replicable ideas**
 
-###### ![Stone Lake District](/images/features/2020/stone-lake.jpg/)**Stone Lake District** © kevinxp/ 123rf.com
+###### ![Stone Lake District](/images/features/2020/stone-lake.jpg)**Stone Lake District** © kevinxp/ 123rf.com
 
 - A commitment to investing in infrastructure as a way of planning for the future can help the city realise its twin goals of achieving economic growth while improving its quality of life. 
 - It is important to prioritise the planning of the project so as to enhance the co-existence of the ecological site with its surrounding urban communities. For example, prioritisation of ecological protection, planning of facilities according to suitable functions and construction of buildings in compliance with green building standards can help to minimise environmental impacts. **<font color="#967942">O</font>**

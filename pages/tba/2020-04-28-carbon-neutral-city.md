@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Vancouver BC, Cambridge MA, Oslo, London, Barcelona, Seoul, Singapore
 
-###### ![Carbon neutral city](/images/features/2020/carbon-neutral.jpg/)**What does a carbon neutral city look like?** © elenabsl/ 123rf.com
+###### ![Carbon neutral city](/images/features/2020/carbon-neutral.jpg)**What does a carbon neutral city look like?** © elenabsl/ 123rf.com
 
 The fight against climate change hinges on cities’ actions. Today, cities house more than half of the world’s population, and are [responsible for about three quarters of all greenhouse gas emissions](https://www.unenvironment.org/explore-topics/resource-efficiency/what-we-do/cities/cities-and-climate-change). By taking steps to reduce their emissions, they can limit climate change and its negative consequences for them, such as rising sea levels and more intense downpours that increase their risk of floods.
  
@@ -36,7 +36,7 @@ The city of Cambridge has set out similar zero emissions timelines for new build
 
 In 2019, the city announced another energy efficiency initiative, called the [‘Cambridge Building Energy Retrofit Programme’](https://www.cambridgema.gov/Services/buildingretrofitprogram), that is targeted at larger buildings with a gross floor area of more than 25,000 square feet (2,322 square metres) or over 50 units. Under the programme, owners, managers and tenants of such buildings can get help in collecting and analysing data about their energy use, finding technologies to reduce it, and financing the investments. The city is also considering other measures, such as an independently managed fund that would be financed by carbon offset purchases and used to support emissions-reduction projects.
 
-###### ![Electric car charging station in Oslo](/images/features/2020/electric-car-oslo.jpg/)**Electric car charging station in Oslo** © Iuliia Mazur/ 123rf.com
+###### ![Electric car charging station in Oslo](/images/features/2020/electric-car-oslo.jpg)**Electric car charging station in Oslo** © Iuliia Mazur/ 123rf.com
 
 #### **The road to greener transport**
 

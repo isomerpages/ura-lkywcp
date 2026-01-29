@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Santander, Singapore
 
-###### ![Big data](/images/features/2015/big-data.jpg/)**Image** © Kris Krüg 2013
+###### ![Big data](/images/features/2015/big-data.jpg)**Image** © Kris Krüg 2013
 
 Technology company IBM estimates that the world produces [some 2.5 quintillion bytes of data every day](http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html). Sensors, mobile phones, machines, wearable technology and social media – these are just some of the diverse sources feeding the data torrent. As technology and the Internet of Things become increasingly intertwined with work and life, the volume of data generation likewise is set to grow in tandem.
 

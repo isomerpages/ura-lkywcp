@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Utrecht, The Hague, Amsterdam, Toronto, Sydney, Paris, Berlin, London, San Francisco
 
-###### ![Aerial view of a train yard](/images/features/2020/out-of-thin-air.jpg/)**Cities are exploring the possibilities of making use of the airspace above their train yards** © Tewin Kijthamrongworakul/ 123rf.com
+###### ![Aerial view of a train yard](/images/features/2020/out-of-thin-air.jpg)**Cities are exploring the possibilities of making use of the airspace above their train yards** © Tewin Kijthamrongworakul/ 123rf.com
 
 In March 2020, New York City in the United States unveiled the masterplan for its proposed Sunnyside Yard neighbourhood that will be built on top of an active train yard in the Queens borough. The city plans to deck over about 80 percent of the yard to create 113 acres (approximately 465,400 square metres) of land that will be used for 12,000 affordable homes and 60 acres (approximately 243,000 square metres) of parks, schools, libraries, plazas and other social infrastructure.
 
@@ -32,7 +32,7 @@ For Sydney, Australia, the railyards next to its Central Station are the [key to
 
 The urban redevelopment project is the [largest-ever in the state of New South Wales (NSW)](https://www.smh.com.au/national/nsw/the-next-barangaroo-dramatic-makeover-of-central-to-hide-train-lines-20191026-p534gz.html). Transport for NSW, the agency that is leading the project, said: “The precinct will revitalise southern Central Sydney, improve connections to surrounding employment, education, health and cultural institutions, and foster economic growth through a new and well-connected commercial hub for Sydney.”
 
-###### ![plattenbau](/images/features/2020/plattenbau.jpg/)**Berlin is looking at vertical extensions above typical 'plattenbau' apartment buildings** © helloitsme/ 123rf.com
+###### ![plattenbau](/images/features/2020/plattenbau.jpg)**Berlin is looking at vertical extensions above typical 'plattenbau' apartment buildings** © helloitsme/ 123rf.com
 
 #### **Stacking up**
 

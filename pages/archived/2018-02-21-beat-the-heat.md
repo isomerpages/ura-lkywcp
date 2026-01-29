@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Ahmedabad, Sydney, Melbourne, Darwin, Penrith, Guiyang, Singapore, Cyberjaya
 
-###### ![Air-con compressors](/images/features/2018/beat-the-heat.jpg/)**How can cities cool themselves without worsening climate change?** © nordroden/ 123rf.com
+###### ![Air-con compressors](/images/features/2018/beat-the-heat.jpg)**How can cities cool themselves without worsening climate change?** © nordroden/ 123rf.com
 
 In January 2018, parts of Australia became so hot that a stretch of the asphalt highway connecting Sydney and Melbourne melted and blackouts occurred [because too many people switched on their air-conditioners](https://www.nytimes.com/2018/01/07/world/australia/heat-wave.html). The scariest part of the heatwave, however, was that it could become the norm for the country in the near future.
 
@@ -41,7 +41,7 @@ The city of Melbourne in Australia has also taken to greening its streets to bea
 
 #### **Keeping public spaces cool**
 
-###### ![Sydney aims to increase its tree canopy cover in the city by 50% by 2030](/images/features/2018/sydney-tree-canopy.jpg/)**Sydney aims to increase its tree canopy cover in the city by 50 percent by 2030** © City of Sydney
+###### ![Sydney aims to increase its tree canopy cover in the city by 50% by 2030](/images/features/2018/sydney-tree-canopy.jpg)**Sydney aims to increase its tree canopy cover in the city by 50 percent by 2030** © City of Sydney
 
 Other cities in Australia are looking into innovative ways to cool their streets, buildings and public spaces too. Apart from committing to a 50 percent increase in tree canopy cover by 2030, Sydney has begun to test the use of lighter-coloured pavement in one street to see if that will lower the street’s temperature by reducing its heat absorption.
 

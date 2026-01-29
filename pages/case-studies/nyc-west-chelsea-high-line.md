@@ -18,7 +18,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **In brief**
 
-###### ![The West Chelsea/High Line Plan](/images/features/2019/west-chelsea-plan.jpg/)**The West Chelsea/High Line Plan** © NYC Department of City Planning
+###### ![The West Chelsea/High Line Plan](/images/features/2019/west-chelsea-plan.jpg)**The West Chelsea/High Line Plan** © NYC Department of City Planning
 
 - The West Chelsea/High Line Plan is a Special Zoning District that adopts innovative regulatory and urban design framework for the development of new and affordable housing and preservation of the city’s premier art gallery district. 
 - The Plan centred on the transformation of the 2.4-kilometre High Line, an abandoned elevated rail line running though the district into a unique elevated linear park, features a Transfer of Development Rights (TDR) scheme that allows owners of property within the High Line Transfer Corridor to transfer their development rights to ‘designated’ receiving sites within the special district.
@@ -31,7 +31,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Key issues before the project**
 
-###### ![The High Line before its rejuvenation](/images/features/2019/highline-before.jpg/)**The High Line before its rejuvenation** © NYC Department of City Planning
+###### ![The High Line before its rejuvenation](/images/features/2019/highline-before.jpg)**The High Line before its rejuvenation** © NYC Department of City Planning
 
 - West Chelsea was dominated by underutilised buildings and parking lots, due to the area’s light manufacturing zoning. Hence, the vibrant residential core of Chelsea has not been able to expand to extend westwards.   
 - A critical need for new and affordable housing in the West Chelsea area.  
@@ -54,7 +54,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Creativity and innovation**
 
-###### ![Floor area transfer mechanism](/images/features/2019/floor-area-transfer-mechanism.png/)**Floor area transfer mechanism** © NYC Department of City Planning
+###### ![Floor area transfer mechanism](/images/features/2019/floor-area-transfer-mechanism.png)**Floor area transfer mechanism** © NYC Department of City Planning
 
 - The West Chelsea plan demonstrates that innovative zoning tools can be a powerful tool for unlocking development potential and creating new public assets that benefit the entire city.
 - The unique floor area transfer mechanism allows owners below the High Line to transfer their development rights to sites within a designated area, thus enabling these sites to realise their developmental potential and spur unrealised growth potential within the district. It also preserves light, air and views around the High Line open space.
@@ -68,7 +68,7 @@ description: The High Line in New York City needs no introduction. Its huge succ
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2019/impacts-nyc1.png/)
+###### ![Impacts](/images/features/2019/impacts-nyc1.png)
 
 - West Chelsea has transformed from an underutilised manufacturing area into a premier neighbourhood in the city.
 Quality of life of residents and business owners improved. 

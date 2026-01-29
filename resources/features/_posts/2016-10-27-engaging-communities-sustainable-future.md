@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Sydney
 
-###### ![Sydney Harbour](/images/features/2016/sydney-harbour.jpg/)**Sydney Harbour**
+###### ![Sydney Harbour](/images/features/2016/sydney-harbour.jpg)**Sydney Harbour**
 
 In 2007, the city of Sydney launched its blueprint, Sustainable Sydney 2030, to guide its development over the next two decades. Like other urban development blueprints, it maps out a clear vision of where the city wants to be by 2030, with measurable, aspirational goals in areas from environmental management to cultural capital and social equity. What makes Sydney’s blueprint remarkable, however, is how the plan was produced.
 
@@ -39,7 +39,7 @@ To get the conversation going on Sydney’s future, Kerr and her colleagues over
 
 The city spared no efforts to educate the public as extensively as possible, so that meaningful conversations on Sydney’s future could take place. Kerr shares, “We sent out a lot of information to different groups attending our events. There were pop-up stands and community events. We even distributed postcards that you could write on and post your message back to the future. There was radio advertising and programmes about Sydney 2030 on the radio stations. So we really just tried to determine what forms could reach out to the most people in the most appropriate ways, using traditional as well as non-traditional methods.”
 
-###### ![Cycling in Sydney](/images/features/2016/sydney-cycling.jpg/)**Sydney works together with its residents for the city’s sustainable future** © City of Sydney
+###### ![Cycling in Sydney](/images/features/2016/sydney-cycling.jpg)**Sydney works together with its residents for the city’s sustainable future** © City of Sydney
 
 #### **Reaching out to every community**
 

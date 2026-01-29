@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Seattle, Copenhagen, Aarhus, Sydney, Berlin, New York City, Stockholm, Paris, Barcelona, Washington DC, Reykjavik, Xiong’An
 
-###### ![Delivering the goods](/images/features/2020/delivering-the-goods.jpg/)**Increasing e-commerce in cities** © macrovector/ 123rf.com
+###### ![Delivering the goods](/images/features/2020/delivering-the-goods.jpg)**Increasing e-commerce in cities** © macrovector/ 123rf.com
 
 For online shoppers, buying a product may be as simple as clicking on a few buttons on a website and waiting for the delivery. For cities, however, coping with the traffic problems caused by e-commerce deliveries has become a complex issue in need of innovative solutions. In China, the number of express delivery parcels [soared from nine billion in 2013 to more than 60 billion in 2019](http://www.xinhuanet.com/english/2019-12/16/c_138635870.htm), with the figure expected to keep growing as more citizens join the middle class. In the United States, the urban traffic related to e-commerce doubled between 2009 and 2018, and is [slated to double again within five years](https://www.curbed.com/2019/1/10/18177399/amazon-delivery-traffic-online-shopping-e-commerce), by 2023. 
 
@@ -22,7 +22,7 @@ In a [recent report](https://www.weforum.org/reports/the-future-of-the-last-mile
 
 To reap the benefits of e-commerce while averting the problems caused by e-commerce deliveries, cities are experimenting with a range of infrastructural and legislative solutions. The following are some of the successful measures that have been implemented in cities ranging from Singapore to Sydney, and Shanghai to Seattle. 
 
-###### ![E-commerce](/images/features/2020/online-shopping.jpg/)**E-commerce brings convenience to consumers but puts constraints on city infrastructure** © georgejmclittle/ 123rf.com
+###### ![E-commerce](/images/features/2020/online-shopping.jpg)**E-commerce brings convenience to consumers but puts constraints on city infrastructure** © georgejmclittle/ 123rf.com
 
 #### **Reshaping the delivery landscape**
 
@@ -49,7 +49,7 @@ Many cities, including NYC, Stockholm in Sweden, Paris in France and Barcelona i
 
 Implementing curb-space reservations has also worked wonders for some cities. In a three-month trial in late 2019, Washington, DC, in the US required taxi and delivery companies to [use an app to reserve time slots to pick up and drop off passengers and packages at specific places](https://usa.streetsblog.org/2019/11/14/garcon-d-c-requires-curb-reservations-for-deliveries/). On-demand delivery services such as Uber Eats, followed by freight and parcel delivery companies, were the most frequent users of the app. “We saw that the drivers were able to save time from not having to circle the block multiple times to find a (parking) space”, improving traffic flow as well, [said the city’s Department of Transportation Director Jeff Marootian](https://www.smartcitiesdive.com/news/curbflow-pilot-reduced-double-parking-in-dc-by-64/567268/). Double-parking in the selected areas and nearby streets also fell by 64 percent.
 
-###### ![Drone](/images/features/2020/drone.jpg/)**Could drones be the future of small goods delivery?** © Kittipong Jirasukhanont/ 123rf.com
+###### ![Drone](/images/features/2020/drone.jpg)**Could drones be the future of small goods delivery?** © Kittipong Jirasukhanont/ 123rf.com
 
 #### **Into the air and under the ground**
 

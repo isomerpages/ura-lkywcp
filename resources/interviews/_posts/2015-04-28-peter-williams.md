@@ -12,7 +12,7 @@ published: false
 
 ##### Dr Peter Williams of IBM shares his views on how cities can best mitigate the effects of natural disasters. Addressing issues like climate change and substandard infrastructure, he argues that city and national governments will only become truly resilient when constituents and their leaders engage in two-way communication.
 
-###### ![Typhoon Haiyan](/images/features/2015/typhoon-haiyan.jpg/)**Typhoon Haiyan** © NASA 2013
+###### ![Typhoon Haiyan](/images/features/2015/typhoon-haiyan.jpg)**Typhoon Haiyan** © NASA 2013
 
 #### **What are the pre-eminent natural disasters facing today’s cities?**
 

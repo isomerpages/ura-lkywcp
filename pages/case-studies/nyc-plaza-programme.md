@@ -18,7 +18,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **In brief**
 
-###### ![Times Square before and after](/images/features/2020/times-square-before-after.jpg/)**Times Square before and after** © NYC Department of Transportation
+###### ![Times Square before and after](/images/features/2020/times-square-before-after.jpg)**Times Square before and after** © NYC Department of Transportation
 
 - A plan to repurpose and redistribute New York City (NYC)’s road spaces to walking, biking and new public spaces, while calming traffic and improving safety. 
 - Part of PlaNYC’s vision to encourage active living, reduce carbon emissions and create more walkable communities. 
@@ -31,7 +31,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **Key issues before the project**
 
-###### ![14th street before](/images/features/2020/14th-street-before.jpg/)**Broadway 14th Street before the transformation** © NYC Department of Transportation
+###### ![14th street before](/images/features/2020/14th-street-before.jpg)**Broadway 14th Street before the transformation** © NYC Department of Transportation
 
 - Increasing population in the city – projected increase of one million people by 2030. 
 - Congested, poorly designed, and visually unappealing streets and sidewalks in Times Square.
@@ -54,7 +54,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **Creativity and innovation**
 
-###### ![Broadway after](/images/features/2020/broadway-after.jpg/)**Broadway after the transformation** © NYC Department of Transportation
+###### ![Broadway after](/images/features/2020/broadway-after.jpg)**Broadway after the transformation** © NYC Department of Transportation
 
 - Instead of developing new sites, public spaces are reclaimed from existing infrastructure – a significant shift in the allocation and prioritisation of public spaces. 
 - Sections along Broadway are reclaimed to create 'instant public plazas' using paint, planters and seating – an effective and low-cost way to test public responses before longer-term plans. 
@@ -70,7 +70,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2020/impacts-nyc3.png/)
+###### ![Impacts](/images/features/2020/impacts-nyc3.png)
 
 - Pedestrian volume in Times Square increased by 11 percent, injuries to motorists and passengers decreased by 63 percent with and pedestrian injuries decreased 35 percent. 
 - Several new flagship stores opened in Times Square, with the average asking rent increased by 71 percent since 2009 despite a severe economic downturn.
@@ -84,7 +84,7 @@ description: Under its overall strategy to encourage active living, reduce carbo
 
 #### **Replicable ideas**
 
-###### ![Times Square](/images/features/2020/times-square-yoga.jpg/)**Mass yoga session at Times Square** © NYC Department of Transportation
+###### ![Times Square](/images/features/2020/times-square-yoga.jpg)**Mass yoga session at Times Square** © NYC Department of Transportation
 
 - Many cities face similar constraints as NYC, i.e. dense population and built-up infrastructure with minimal available land for new roads or public spaces.
 - NYC’s experiences offer replicable ideas, for example, audits of current conditions, community outreach, and using temporary and inexpensive pilots to test new ideas. 

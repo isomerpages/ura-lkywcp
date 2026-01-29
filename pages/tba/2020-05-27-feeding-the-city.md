@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Singapore, Seattle, Tokyo, Paris, London, Liverpool, Quito, Vancouver BC
 
-###### ![Urban agriculture](/images/features/2020/feeding-the-city.jpg/)**Man holding a bucket full of lettuce in front of his urban farm** © ferli/ 123rf.com
+###### ![Urban agriculture](/images/features/2020/feeding-the-city.jpg)**Man holding a bucket full of lettuce in front of his urban farm** © ferli/ 123rf.com
 
 By 2050, the world will need to produce up to 70 percent more food to feed about two billion more people, [according to projections by the United Nations and scientists](https://theconversation.com/we-dont-need-to-double-world-food-production-by-2050-heres-why-74211). While improving farming practices and minimising food waste are essential to meeting this challenge, growing more food in cities could also mean the difference between success and failure. 
 
@@ -24,7 +24,7 @@ Dr Robert Costanza, Professor of Public Policy at the Australian National Univer
 
 #### **Finding room for growth**
 
-###### ![A rooftop urban farm in Singapore](/images/features/2020/urban-farm-sg.jpg/)**A rooftop urban farm in Singapore** © thosewhowander/ Shutterstock.com
+###### ![A rooftop urban farm in Singapore](/images/features/2020/urban-farm-sg.jpg)**A rooftop urban farm in Singapore** © thosewhowander/ Shutterstock.com
 
 In land-scarce Singapore, the government is setting its sights on increasing the number of rooftop farms. In 2019, it worked with urban farming firm to construct a 1,800-square-metre farm on top of a multi-storey carpark and evaluate its productivity. The farm currently grows up to four tonnes of vegetables monthly which are sold in a nearby supermarket. With its success, the government will allow businesses to rent nine other publicly-owned carparks’ rooftop areas to farm vegetables and other crops. It also plans to lease more sites. 
 
@@ -58,7 +58,7 @@ In Britain, [London](https://www.theguardian.com/environment/2019/feb/10/urban-f
 
 To foster greater interest in urban agriculture, cities are also setting up community gardens where residents can rent small plots called allotments, bond over farming and learn from one another. Quito, Ecuador has over 4,000 allotments in rooftop terraces and municipal gardens that collectively produce over 1,200 kilograms of food annually, and the city also organises [monthly visits by experts to provide practical advice on growing crops](https://www.dw.com/en/the-gardens-of-quito-urban-farming-in-one-of-the-worlds-highest-cities/a-47913626) as well as weekly markets where the residents can sell their harvests. 
 
-Vancouver, Canada, also has [more than 110 community gardens in public parks, schoolyards and private properties](https://vancouver.ca/people-programs/community-gardens.aspx), and is increasing the number of allotments in them [from 4,423 in 2015 to 5,500 in 2020](https://sustain.ubc.ca/sites/default/files/2019-59_Evaluating%20and%20Assessing%20Food%20System%20Indicators_Lambie.pdf). Redeveloped sites that are more than 8,000 square metres in size or have a gross floor area of more than 45,000 square metres [must also have at least three food assets](https://vancouver.ca/files/cov/greenest-city-action-plan-implementation-update-2018-2019.pdf), which can include gardening plots, farms and community kitchens. “Developers now frequently include a shared garden space for residents to connect over growing food together,” the government said. 
+Vancouver, Canada, also has [more than 110 community gardens in public parks, schoolyards and private properties](https://vancouver.ca/people-programs/community-gardens.aspx), and is increasing the number of allotments in them [from 4,423 in 2015 to 5,500 in 2020](https://sustain.ubc.ca/sites/default/files/2019-59_evaluating%20and%20assessing%20food%20system%20indicators_lambie.pdf). Redeveloped sites that are more than 8,000 square metres in size or have a gross floor area of more than 45,000 square metres [must also have at least three food assets](https://vancouver.ca/files/cov/greenest-city-action-plan-implementation-update-2018-2019.pdf), which can include gardening plots, farms and community kitchens. “Developers now frequently include a shared garden space for residents to connect over growing food together,” the government said. 
 
 In the Philippines, the national government is [distributing free seed kits to households and working with local authorities to establish vegetable gardens](https://business.mb.com.ph/2020/05/06/growing-own-food-will-be-the-new-normal-after-covid-19/) in cities’ public areas, idle lands and schools. In the longer term, up to 15 percent of land in the Manila metropolitan area could be used for urban farming to strengthen the region’s food security. The government is also [considering a bill](https://senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-257) that would require unoccupied public lots and buildings and available land in universities and colleges to be tapped for growing crops and raising livestock, and urban agriculture to be taught in secondary schools and tertiary institutions. 
 

@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Rotterdam, Lingang, Mexico City, Vancouver BC, Singapore, Phoenix, London, Christchurch
 
-###### ![Drinking water is good for you](/images/features/2020/drink-water.jpg/)**A man drinking water** © gstockstudio/ 123rf.com
+###### ![Drinking water is good for you](/images/features/2020/drink-water.jpg)**A man drinking water** © gstockstudio/ 123rf.com
 
 Water is essential for life, but many cities may run out of it soon. In 2019, the World Resources Institute (WRI) warned in a report that 17 countries that are home to a quarter of the global population, including India, Iran and Israel, are using almost all of the water that they have, and [could face crises in the near future](https://www.wri.org/blog/2019/08/17-countries-home-one-quarter-world-population-face-extremely-high-water-stress). Several cities in these countries have already been in the headlines for acute water shortages, such as [São Paulo](https://www.nytimes.com/2015/02/17/world/americas/drought-pushes-sao-paulo-brazil-toward-water-crisis.html), Brazil’s most populous city, in 2015, [Cape Town](https://www.nytimes.com/2018/01/30/world/africa/cape-town-day-zero.html), South Africa in 2018, and [Chennai](https://www.nytimes.com/2019/07/11/world/asia/india-water-crisis.html), India in 2019.
 
@@ -34,7 +34,7 @@ Cities that cannot afford extensive infrastructural investments to collect and t
 
 The project is slated to cost just 200 million pesos (approximately USD $9 million), a small part of the city’s budget. [About 15,000 systems have been installed](https://islaurbana.org/english/urban-systems-2/) and harvested 600 million litres of rainwater in 2019, benefiting 90,000 residents. 
 
-###### ![Bishan-Ang Mo Kio Park](/images/features/2020/bishan-park.jpg/)**A water-retention system in Singapore's Bishan-Ang Mo Kio Park** © Dongli Zhang/ 123rf.com
+###### ![Bishan-Ang Mo Kio Park](/images/features/2020/bishan-park.jpg)**A water-retention system in Singapore's Bishan-Ang Mo Kio Park** © Dongli Zhang/ 123rf.com
 
 #### **Putting a dent in demand**
 

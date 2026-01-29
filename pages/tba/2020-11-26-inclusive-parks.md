@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Paris, Melbourne, Shanghai, London, Vancouver BC, Minneapolis, Washington DC, Los Angeles
 
-###### ![Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery](/images/features/2020/covid-parks.jpg/)**Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery** © Freepik/www.freepik.com
+###### ![Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery](/images/features/2020/covid-parks.jpg)**Inclusive parks and public spaces are some areas cities should look at for long-term COVID-19 recovery** © Freepik/www.freepik.com
 
 The COVID-19 pandemic has underscored the importance of public parks and open spaces for people's mental and physical health, but also highlighted inequalities in their provision across cities. In an [August 2020 study of 14,000 towns and cities in the United States](https://www.theguardian.com/us-news/2020/aug/05/us-parks-minority-neighborhoods-smaller-more-crowded), for example, researchers found that parks that serve mostly low-income households are, on average, four times smaller and four times more crowded than those in high-income neighbourhoods. An August 2020 survey of about 2,000 residents in Britain had similar findings: only 46 percent of respondents with an annual household income of under GBP 15,000 (approximately USD $20,000) lived within a five-minute walk of a green space, compared to 70 percent of those with an annual household income that exceeded GBP 70,000 (approximately USD $93,300).
 
@@ -30,7 +30,7 @@ Melbourne in Australia and Shanghai in China, on other hand, are changing underu
 
 #### **Putting fairness in funding**
 
-###### ![ities could step up efforts to ensure equitable access to their parks.](/images/features/2020/covid-equitable-park.jpg/)**Cities could step up efforts to ensure equitable access to their parks** © Satjawat Boontanataweepol/ 123rf.com
+###### ![ities could step up efforts to ensure equitable access to their parks.](/images/features/2020/covid-equitable-park.jpg)**Cities could step up efforts to ensure equitable access to their parks** © Satjawat Boontanataweepol/ 123rf.com
 
 As cities expand their provision of green spaces, some are setting aside funds to address inequalities, or adding more nuanced criteria to how budgets are allocated to erect new parks and upgrade existing ones. When London, Britain, established its ['Grow Back Greener Fund'](https://www.london.gov.uk/sites/default/files/grow_back_greener_fund_grants_guide.pdf) in August 2020 for the construction of green spaces in areas that lack them, the government noted that lower-income and ethnic minority residents, in particular, tend to have poorer access to parks, an inequality that was underlined during the capital's first COVID-19-related lockdown. As such, the fund, which will disburse up to GBP 650,000 (approximately USD $866,600) in grants of GBP 5,000 to GBP 50,000 (approximately USD $6,660 to USD $66,600) each by the end of 2020, will prioritise proposals led by or intended to benefit lower-income and ethnic minority Londoners. Future rounds of funding will be determined at a later date.
 

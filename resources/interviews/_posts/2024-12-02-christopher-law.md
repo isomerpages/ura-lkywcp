@@ -11,13 +11,13 @@ description: Part of the success of Chengdu’s Taikoo district in China lies in
 | ---: |
 | Serene Tng |
 
-###### ![Christopher Law](/images/features/2024/chris-law.jpg/)**Christopher Law (first from right) at the 2024 Place Management Seminar in Singapore** © Urban Redevelopment Authority Singapore
+###### ![Christopher Law](/images/features/2024/chris-law.jpg)**Christopher Law (first from right) at the 2024 Place Management Seminar in Singapore** © Urban Redevelopment Authority Singapore
 
 #### **You have shared that building a compelling narrative and telling great stories are critical for placemaking. Why is this important?**
 
 **Christopher:** Storytelling is often underestimated as a vehicle for placemaking efforts. It is a simple yet powerful way of communicating with and engaging people from different walks of life about a place. From the hawker, to the cleaner and even children, it is a universal medium that can make a place feel more relatable, endearing and come alive. 
 
-###### ![Storytelling was used strategically to engage and get stakeholders’ support for the revitalisation efforts of Chengdu’s Taikoo district](/images/features/2024/taikoo1.jpg/)**Storytelling was used strategically to engage and get stakeholders’ support for the revitalisation efforts of Chengdu’s Taikoo district.** © Oval Partnership
+###### ![Storytelling was used strategically to engage and get stakeholders’ support for the revitalisation efforts of Chengdu’s Taikoo district](/images/features/2024/taikoo1.jpg)**Storytelling was used strategically to engage and get stakeholders’ support for the revitalisation efforts of Chengdu’s Taikoo district.** © Oval Partnership
 
 Through stories about places, people can find their own resonance in relating places to their personal experiences, stories and interests. A book that may be of interest to placemakers is “The Seven Basic Plots: Why We Tell Stories (2004)” by the British journalist and author, Christopher Booker.  
 
@@ -27,7 +27,7 @@ While the book examines the basis of storytelling in literature and film, it rem
 
 **Christopher:** Every public space in our cities is different and they all play different roles. We need to plan and cater for a diverse range. A good public space should have essential qualities such as having good edges and a sense of enclosure. Many of the public spaces that we love tend to be engaging and vibrant.
 
-###### ![An example of the many diverse public spaces designed in Chengdu’s Taikoo district from vibrant ones to quieter spaces for people to relax in](/images/features/2024/taikoo2.jpg/)**An example of the many diverse public spaces designed in Chengdu’s Taikoo district from vibrant ones to quieter spaces for people to relax in** ©  Oval Partnership
+###### ![An example of the many diverse public spaces designed in Chengdu’s Taikoo district from vibrant ones to quieter spaces for people to relax in](/images/features/2024/taikoo2.jpg)**An example of the many diverse public spaces designed in Chengdu’s Taikoo district from vibrant ones to quieter spaces for people to relax in** ©  Oval Partnership
 
 But some public spaces can be impactful and profound without much embellishment or having a large crowd. You will notice that there are spaces in medieval monasteries or universities where they may have a lawn, courtyard or a quiet space in its central area.
 
@@ -37,17 +37,17 @@ Such an empty space can also create a strong sense of place. We can tell great s
 
 **Christopher:**  The district is anchored by its 1,300-year-old Buddhist Daci Temple. This meant that all the revitalisation efforts should be centred on how we can respect and honour the spiritual nature of the temple. We spent time understanding the temple and neighbourhood’s history and the stories and meaning behind the place as the basis on how we can interpret and add on the modern layers. One thing we noticed about such ancient places of worship, whether it is historic temples in China and Japan or medieval churches in Europe, there are usually vibrant markets located outside of them.  
 
-###### ![The charm of Chengdu’s Taikoo district lies in its careful juxtaposition of ancient temples and modern buildings, blending old and new elements beautifully](/images/features/2024/taikoo3.jpg/)**The charm of Chengdu’s Taikoo district lies in its careful juxtaposition of ancient temples and modern buildings, blending old and new elements beautifully** © Oval Partnership
+###### ![The charm of Chengdu’s Taikoo district lies in its careful juxtaposition of ancient temples and modern buildings, blending old and new elements beautifully](/images/features/2024/taikoo3.jpg)**The charm of Chengdu’s Taikoo district lies in its careful juxtaposition of ancient temples and modern buildings, blending old and new elements beautifully** © Oval Partnership
 
 Thus, in our master plan for the area, we wanted to continue with this thousand-year-old tradition of mixing the holy with commercial spaces. Just like in a good story, we all want to be provoked and surprised. It is the contrast of locating the spiritual temples alongside the commercial spaces that are more profane and secular in contrast, that makes this place more interesting and viable.
 
-###### ![The commercial spaces alongside the historic temples in Chengdu’s Taikoo district continues the thousand-year tradition of mixing sacred elements with commercial spaces](/images/features/2024/taikoo4.jpg/)**The commercial spaces alongside the historic temples in Chengdu’s Taikoo district continues the thousand-year tradition of mixing sacred elements with commercial spaces** © Oval Partnership
+###### ![The commercial spaces alongside the historic temples in Chengdu’s Taikoo district continues the thousand-year tradition of mixing sacred elements with commercial spaces](/images/features/2024/taikoo4.jpg)**The commercial spaces alongside the historic temples in Chengdu’s Taikoo district continues the thousand-year tradition of mixing sacred elements with commercial spaces** © Oval Partnership
 
 #### **For historic districts to continue to stay relevant, what should stakeholders focus on? Can we still retain our traditional businesses, while keeping up with the times?**
 
 **Christopher:** I believe the communities and stakeholders within historic districts have the wisdom to adapt their traditional businesses to keep up with the times while retaining the area’s rich heritage. One of the assets of such districts is its intangible heritage, which can be leveraged on to explore new business opportunities.  
 
-###### ![The Blue House in Hong Kong](/images/features/2024/blue-house.jpg/)**The Blue House in Hong Kong** © Oval Partnership
+###### ![The Blue House in Hong Kong](/images/features/2024/blue-house.jpg)**The Blue House in Hong Kong** © Oval Partnership
 
 For example, as the Chairman of the Blue House Steering Committee in Hong Kong for over 20 years, I’ve observed how communities have turned their intangible heritage into a viable business opportunity. The housewives in the Blue House area came together to bake special mooncakes which is an intangible heritage for the area. They used traditional recipes and ingredients to make the mooncakes, which make them unique to the area. They have become very popular and sell out quickly every year.
 

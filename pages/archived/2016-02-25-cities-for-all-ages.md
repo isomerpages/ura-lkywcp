@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Tokyo, Yukarigaoka
 
-###### ![Old and young](/images/features/2016/cities-for-all-ages.jpg/)**Let's imagine cities for all ages**
+###### ![Old and young](/images/features/2016/cities-for-all-ages.jpg)**Let's imagine cities for all ages**
 
 In 1990, the proportion of the world’s population aged 60 years and above was 9.2 percent. By 2013, it had grown to 11.7 percent, or some 841 million individuals. The United Nations estimates that by 2050, the world’s population will consist of more than two billion older persons.[^1]
 

@@ -19,7 +19,7 @@ published: false
 
 #### **In brief**
 
-###### ![Seoul Plan 2030](/images/features/2020/seoul-plan-2030.jpg/)**Seoul Plan 2030**
+###### ![Seoul Plan 2030](/images/features/2020/seoul-plan-2030.jpg)**Seoul Plan 2030**
 
 - An increasing vocal populace largely left of development decisions in the past opposed regularly to Seoul’s urban development since the 90s. Instead of taking the easy way out and tapering off controversial projects, the city took on the challenge of engaging its citizens. 
 - Extensive participatory planning efforts culminated in the Seoul Plan 2030, with a vision – “Happy City of Citizens with Communication & Consideration” decided by citizens.
@@ -31,7 +31,7 @@ published: false
 
 #### **Key issues before the project**
 
-###### ![A highway plies above the Cheonggyecheong stream pre-restoration](/images/features/2020/seoul-before.jpg/)**A highway plies above the Cheonggyecheong stream pre-restoration** © Seoul Metropolitan Government
+###### ![A highway plies above the Cheonggyecheong stream pre-restoration](/images/features/2020/seoul-before.jpg)**A highway plies above the Cheonggyecheong stream pre-restoration** © Seoul Metropolitan Government
 
 - Since the democratisation of Seoul in 1995, citizens increasingly desired to participate in local matters. With more expression of opinions on local matters, conflicts began to arise between different interest groups, NGOs and the public sector. 
 - Implementing large scale urban development projects became more challenging than before as the city would now need to engage multiple stakeholders and accommodate their demands from the start. 
@@ -45,7 +45,7 @@ published: false
 
 #### **Leadership and governance**
 
-###### ![The improved citizen engagement processes of Seoul](/images/features/2020/seoul-engagement-diagram.jpg/)**The improved citizen engagement processes of Seoul**
+###### ![The improved citizen engagement processes of Seoul](/images/features/2020/seoul-engagement-diagram.jpg)**The improved citizen engagement processes of Seoul**
 
 - Negotiation process began with a Conflict Mediation Division established in 2012 with the goal to avert and manage public conflicts. 
 - The governance structure under Seoul Plan 2030 became the model for which all planning processes must follow. Citizens’ participation became the norm in urban planning, and its impact has been shown in other planning efforts. 
@@ -59,7 +59,7 @@ published: false
 
 #### **Creativity and innovation**
 
-###### ![The planning processes of Seoul Plan 2030](/images/features/2020/seoul-plan-processes.jpg/)**The planning processes of Seoul Plan 2030**
+###### ![The planning processes of Seoul Plan 2030](/images/features/2020/seoul-plan-processes.jpg)**The planning processes of Seoul Plan 2030**
 
 - Seoul Plan 2030 is the city’s first master plan that allows citizens to propose its vision and action plans for the city. 
 - A Citizen Participatory Group comprising 100 members was convened to chart the future of Seoul, identify challenges and propose solutions, together with city officials, planning experts and local politicians. This helped to gain public support. 
@@ -75,7 +75,7 @@ published: false
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2020/impacts-seoul1.png/)
+###### ![Impacts](/images/features/2020/impacts-seoul1.png)
 
 - Seoul’s extensive citizen engagement processes allowed the city to push forward with unconventional urban solutions such as the removal of a highway to restore the Cheonggyecheon stream, conversion of the Seoul Station Overpass into Seoullo 7017, and rehabilitation of commercial superblocks into Sewoon Makercity. 
 - Through the regular monitoring and publishing of results in the press, Seoul has ensured transparency and managed to build trust with citizens. 
@@ -89,7 +89,7 @@ published: false
 
 #### **Replicable ideas**
 
-###### ![Extensive public engagement efforts led to a happier populace](/images/features/2020/seoul-happy-citizens.jpg/)**Extensive public engagement efforts led to a happier populace** © Seoul Metropolitan Government
+###### ![Extensive public engagement efforts led to a happier populace](/images/features/2020/seoul-happy-citizens.jpg)**Extensive public engagement efforts led to a happier populace** © Seoul Metropolitan Government
 
 - The governance structure created for Seoul Plan 2030 can serve as a platform to reach social consensus on follow-up plans, with citizens at the centre of processes. 
 - A city’s master plan can contain strategies for the better future ‘of the citizen’, ‘by the citizens’ and ‘for the citizens’. It is an important step for a city to progress not just in material prosperity but also in a way that the citizens desired. **<font color="#967942">O</font>**

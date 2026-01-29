@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> London, Singapore, Chicago
 
-###### ![Saskia Sassen](/images/features/2013/saskia-sassen.jpg/)**Professor Saskia Sassen** © TED Conference
+###### ![Saskia Sassen](/images/features/2013/saskia-sassen.jpg)**Professor Saskia Sassen** © TED Conference
 
 Given the direction of human demographics towards greater conglomerations of urban living, the megacity – widely defined as a built-up metropolitan area with a population of over 10 million inhabitants – is on the rise. Saskia Sassen, Professor of Sociology at Columbia University in New York City, argues that the future will see [“more megacities, with more poverty, more disease and more inequality of opportunities and life chances.”](http://www.saskiasassen.com/PDFs/publications/Looming-Disaster-and-Endless-Opportunity.pdf)
 

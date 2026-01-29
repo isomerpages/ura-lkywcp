@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Vienna
 
-###### ![The Danube](/images/features/2017/vienna-danube.jpg/)**The Danube** © City of Vienna
+###### ![The Danube](/images/features/2017/vienna-danube.jpg)**The Danube** © City of Vienna
 
 Mention Vienna and the graceful lilt of Johann Strauss Jr’s Blue Danube Waltz comes to mind. Indeed, the Danube, which flows through the capital of Austria, has defined Vienna’s history and landscape for centuries. The river connects the city to the wider European region and also serves as a scenic and historic waterway that attracts both residents and visitors from all over the world.
 
@@ -49,7 +49,7 @@ For instance, Ulli Sima, the City Councillor for the Environment, has been at th
 
 Kling compared Vienna’s environmental journey to a challenging jigsaw puzzle for which one needs to find bits that fit and know how to fit these pieces together. Simply copying other cities would not work. For instance, vertical gardens would not make sense in a city with long, cold winters. Nonetheless, Vienna has found inspiration in other cities such as Singapore. Kling recalled that a key lesson from Singapore was the importance of education and encouraging people to work together to achieve a clean environment.
 
-###### ![The Danube](/images/features/2017/vienna-danube2.jpg/)**The Danube is a river that unites a region** © City of Vienna
+###### ![The Danube](/images/features/2017/vienna-danube2.jpg)**The Danube is a river that unites a region** © City of Vienna
 
 #### **A river that unites a region**
 

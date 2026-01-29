@@ -12,7 +12,7 @@ published: false
 
 ##### Forecaster and urban planner Anthony Townsend has been writing, speaking and consulting on urbanisation, ubiquitous computing, technology-led innovation and economic development for many years. He talks about what it means to be a truly smart city addressing urban issues.[^1]
 
-###### ![Anthony Townsend](/images/features/2017/anthony-townsend.jpg/)**Applications of technology such as drones could include rescue missions, enhancing athletes’ trainings and humanitarian aid to rural areas**
+###### ![Anthony Townsend](/images/features/2017/anthony-townsend.jpg)**Applications of technology such as drones could include rescue missions, enhancing athletes’ trainings and humanitarian aid to rural areas**
 
 #### **What is a smart city?**
 

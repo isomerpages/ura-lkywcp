@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Seoul
 
-###### ![Seoullo 7017](/images/features/2018/seoullo-7017.jpg/)**Seoullo 7017 converted the former Seoul Station Overpass into a lush sky garden** © Seoul Metropolitan Government
+###### ![Seoullo 7017](/images/features/2018/seoullo-7017.jpg)**Seoullo 7017 converted the former Seoul Station Overpass into a lush sky garden** © Seoul Metropolitan Government
 
 Visit the Mapo Culture Depot in Seoul, South Korea, and you will find a spacious park filled with a multipurpose pavilion, an outdoor amphitheatre, exhibition spaces and a cafeteria for visitors. Just a few years ago, however, it was a disused oil storage facility that had been shut down since 2000 due to its potential risk to a nearby soccer stadium.
 
@@ -37,7 +37,7 @@ In 2014, the government broke new ground by creating the city’s first transit 
 
 Today, private vehicles are banned from passing through or stopping in the street. Vehicles entering the street for business purposes can do so only during restricted day-time hours and must obtain prior approval. On the other hand, vans carrying more than 16 passengers, emergency vehicles and bicycles are allowed in the street at all times. At the same time, the government has increased the number of bus routes and buses serving the area.
 
-###### ![The Yonsei-ro Transit Mall](/images/features/2018/yonsei-ro.jpg/)**The Yonsei-ro Transit Mall** © Urban Redevelopment Authority Singapore
+###### ![The Yonsei-ro Transit Mall](/images/features/2018/yonsei-ro.jpg)**The Yonsei-ro Transit Mall** © Urban Redevelopment Authority Singapore
 
 In a 2017 report on the role of governance in Seoul’s urban transformation, researchers at the Seoul Institute, the government’s official think-tank, noted that the transit mall has had a positive impact in many ways. After it was opened, the number of traffic accidents in the area fell by 35 percent in a six-month period compared to the same period in the previous year, and more people started using buses instead, the researchers said.
 
@@ -49,7 +49,7 @@ To make up for the highway, which transported more than 170,000 vehicles a day, 
 
 #### **New leases of life**
 
-###### ![The Dongdaemun Design Plaza](/images/features/2018/ddp.jpg/)**The Dongdaemun Design Plaza** © Urban Redevelopment Authority Singapore
+###### ![The Dongdaemun Design Plaza](/images/features/2018/ddp.jpg)**The Dongdaemun Design Plaza** © Urban Redevelopment Authority Singapore
 
 Seoul has also creatively revitalised several of its mature and deteriorating estates. In the 1960s and 1970s, the Dongdaemun district was a manufacturing hub where sewing factories and fashion outlets flourished. By 2006, the factories had moved abroad in search of cheaper labour, and vacancy rates in the area’s shopping malls were reaching as high as 50 percent due to the rise of online shopping.
 
@@ -67,7 +67,7 @@ Seoul’s Deputy Mayor Jin Hee Seon told the URA: “As the hub of 7,000 compani
 
 He added that Seoul has prioritised urban regeneration over urban development since 2013, and now has 133 ongoing urban regeneration projects throughout the city. “These changes in our urban policies have been applied elsewhere in South Korea, and can serve as a new model for urban regeneration for Asian cities,” he said.
 
-###### ![Makercity Sewoon](/images/features/2018/sewoon-makercity.jpg/)**New studios and retail units added along an elevated pedestrian walkway at Makercity Sewoon** © Urban Redevelopment Authority Singapore
+###### ![Makercity Sewoon](/images/features/2018/sewoon-makercity.jpg)**New studios and retail units added along an elevated pedestrian walkway at Makercity Sewoon** © Urban Redevelopment Authority Singapore
 
 #### **Preparing Seoul for the future**
 

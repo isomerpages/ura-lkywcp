@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Newtown, Birmingham, Chicago, Perth, St Louis, Helsinki, Seoul
 
-###### ![Vertical Greenery](/images/features/2015/building-better-environments.jpg/)**A vertical green façade on a building**
+###### ![Vertical Greenery](/images/features/2015/building-better-environments.jpg)**A vertical green façade on a building**
 
 On 14 December 2012, a gunman murdered 26 children and teachers at Sandy Hook Elementary School in Newtown, Connecticut, USA. In the aftermath of this 'terrible tragedy', the town sought to reconstruct the entire school in a way that would help the community to rebuild their lives. “The old school building was a very alienating construction,” recalled Professor Stephen R. Kellert, Tweedy Ordy Professor Emeritus of Social Ecology at Yale University, whom the town engaged as a consultant to redesign the school by taking inspiration from nature.
 

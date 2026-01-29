@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Bilbao
 
-###### ![Puente de la Merced, Bilbao](/images/features/2019/peunte-de-la-merced.jpg/)**Puente de la Merced, Bilbao** © Bilbao City Hall
+###### ![Puente de la Merced, Bilbao](/images/features/2019/peunte-de-la-merced.jpg)**Puente de la Merced, Bilbao** © Bilbao City Hall
 
 When the Lee Kuan Yew World City Prize was inaugurated in 2010, the city of Bilbao in Spain was a [compelling first winner](/bilbao/). In the 1970s and 1980s, the city was struck by twin disasters: a worldwide economic crisis devastated its heavy industry economy, causing it to lose nearly half of its industrial jobs and more than one-tenth of its population, while a major flood destroyed large parts of it. Undeterred, its government drew up an ambitious plan to bring the city back from the brink, and successfully executed it over the next few decades. 
 
@@ -49,7 +49,7 @@ BasqueGameLab, another one of the initiatives, is a collaborative workspace wher
 
 #### **A vision for the 21st century**
 
-###### ![Basque Y High Speed Rail, Bilbao](/images/features/2019/basque-y.jpg/)**Basque Y is the High-Speed Rail Network being built between the three cities of the Basque Country and it will also connect Bilbao with Madrid and Paris** © Bilbao City Hall
+###### ![Basque Y High Speed Rail, Bilbao](/images/features/2019/basque-y.jpg)**Basque Y is the High-Speed Rail Network being built between the three cities of the Basque Country and it will also connect Bilbao with Madrid and Paris** © Bilbao City Hall
 
 Three ongoing major infrastructure projects will also stand the city in good stead as it tackles the longer-term challenges of climate change and urbanisation. A research project between the government and a consortium of urban climate adaptation scientists had found that the city’s Nervión river will pose increasing flood risks due to climate change. By 2050, the city could experience ten percent more downpours, and the river could be 22 percent higher at its peak flow compared to its current levels. 
 

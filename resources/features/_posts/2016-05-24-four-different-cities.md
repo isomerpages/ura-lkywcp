@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Auckland, Sydney, Toronto, Vienna
 
-###### ![Auckland, Sydney, Toronto and Vienna](/images/features/2016/2016-special-mentions.jpg/)**Auckland, Sydney, Toronto and Vienna – the foour Special Mention Cities of the Lee Kuan Yew World City Prize 2016** © Urban Redevelopment Authority Singapore
+###### ![Auckland, Sydney, Toronto and Vienna](/images/features/2016/2016-special-mentions.jpg)**Auckland, Sydney, Toronto and Vienna – the foour Special Mention Cities of the Lee Kuan Yew World City Prize 2016** © Urban Redevelopment Authority Singapore
 
 Four cities from three global regions – Oceania, North America and Europe – are named Special Mentions of the Lee Kuan Yew World City Prize 2016: [Auckland](/auckland/), [Sydney](/sydney/), [Toronto](/toronto/) and [Vienna](/vienna/). These cities serve as cultural and commercial centres in very different parts of the world, but what they have in common is a commitment towards greater liveability that has made a real and enduring difference in the lives of their communities.
 
@@ -28,13 +28,13 @@ Many of Auckland’s Māori and Pacific Islanders, who make up a quarter of the 
 
 In Sydney, where the landmark Opera House defines the waterfront, culture forms an integral element in the city’s character and future. Sydney’s long-term strategic plan, Sustainable Sydney 2030, entails the making of a culturally alive city filled with theatres, libraries and cultural spaces. Aboriginal and Torres Strait Islander communities, which were historically marginalised, have also been extensively consulted for the strategic plan; one result of this is the decade-spanning Eora Journey, which aims to improve these communities’ access to education and employment opportunities as well as provide platforms for cultural expression and mutual understanding between the city’s diverse residents.
 
-###### ![A newcomers welcome info desk at a Toronto public library](/images/features/2016/toronto-newcomers.jpg/)**A newcomers welcome info desk at a Toronto public library** © Urban Redevelopment Authority Singapore
+###### ![A newcomers welcome info desk at a Toronto public library](/images/features/2016/toronto-newcomers.jpg)**A newcomers welcome info desk at a Toronto public library** © Urban Redevelopment Authority Singapore
 
 Toronto, meanwhile, owes its cultural diversity to a history of immigration, with nearly half of the population being non-native Canadians from over 170 countries and speaking more than 160 languages. For newcomers, the experience has increasingly become one of welcome and facilitated spaces: local libraries offer helpdesks with multi-lingual, empathetic staff as well as facilities that make it easier to integrate and understand life in the capital of Canada’s Ontario province. The city is also investing strongly in its cultural fabric with support for both downtown cultural institutions as well as Local Arts Service Organisations that make creative and cultural activities more inclusive and accessible in under-served neighbourhoods.
 
 Vienna, the city of Mozart and Freud, has no lack of cultural capital. But in remaking itself as a strategic hub between Eastern and Western Europe, Vienna has sought to preserve its historic centre but also move beyond the 'museum city' archetype with new facilities. Vienna’s Central Train Station, which opened in 2014 and replaced a former terminal station, is designed as a convenient through station with local and long-distance lines that have enhanced Vienna’s international connectivity, particularly with Eastern Europe. The station, which also houses a major shopping mall, has catalysed development in the surrounding Favoriten district.
 
-###### ![The new Danube](/images/features/2016/vienna-new-danube.jpg/)**The New Danube on the left and the Danube River on the right, with the 21km Danube Island in the middle** © City of Vienna
+###### ![The new Danube](/images/features/2016/vienna-new-danube.jpg)**The New Danube on the left and the Danube River on the right, with the 21km Danube Island in the middle** © City of Vienna
 
 #### **Green and public spaces**
 
@@ -46,7 +46,7 @@ The Danube River that flows through Vienna is also being tamed through a long-te
 
 Environmental sustainability also headlines Sydney’s vision to become a 'Green, Global and Connected City', which is being realised through programmes such as the Greening Sydney Plan for comprehensive urban greening initiatives and the Cycle Strategy and Action Plan 2007–2017. The latter aims to make cycling a first choice transport option, alongside walking and public transit, through a citywide cycleway network.
 
-###### ![Sydney aims to increase its urban canopy cover](/images/features/2016/sydney-tree.jpg/)**Sydney aims to increase its urban canopy cover** © City of Sydney
+###### ![Sydney aims to increase its urban canopy cover](/images/features/2016/sydney-tree.jpg)**Sydney aims to increase its urban canopy cover** © City of Sydney
 
 Meanwhile, the Greening Sydney Plan seeks to increase 50 percent of its urban canopy cover by 2030 by creating more tree-lined streets, acquiring land for parks and making greenery a requirement in new developments. Having more green spaces also contributes to better community relations and confidence, as seen in Redfern, a crime-ridden inner-city neighbourhood that turned around following an injection of public parks and playgrounds.
 
@@ -54,7 +54,7 @@ Over in Toronto, good urban design of common spaces is key towards attracting pe
 
 Auckland, too, has capitalised on its waterfront, by transforming its old wharves and harbour quarters into residential and commercial zones with attractive public spaces where people can dine, play and savour the maritime landscape. This vision also takes into consideration the traditional cultural significance of Auckland’s seafront, through support for Māori art and festivals, and strives to be a 'blue-green waterfront' that enhances the marine ecosystems upon which many Aucklanders depend for their livelihood.
 
-###### ![The revitalised Wynyard Quarter](/images/features/2016/wynyard-quarter2.jpg/)**The revitalised Wynyard Quarter along Auckland’s waterfront** © Jonny Davis
+###### ![The revitalised Wynyard Quarter](/images/features/2016/wynyard-quarter2.jpg)**The revitalised Wynyard Quarter along Auckland’s waterfront** © Jonny Davis
 
 #### **Long-term planning and leadership**
 

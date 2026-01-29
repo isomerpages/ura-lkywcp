@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Singapore, Medellín
 
-###### ![Shanghai stock exchange building](/images/features/2015/shanghai-stock-exchange.jpg/)**Shanghai stock exchange building** © Huerik 2005
+###### ![Shanghai stock exchange building](/images/features/2015/shanghai-stock-exchange.jpg)**Shanghai stock exchange building** © Huerik 2005
 
 While it is common knowledge that infrastructure has a major impact on the advancement of cities, its importance is still largely underplayed. Around the world, assets like transportation systems, energy and water provision, and communication networks – as well as social infrastructure like education and health services – have not been able to keep up with the pace of urbanisation.
 
@@ -56,11 +56,11 @@ According to McKinsey & Company, public entities around the world need more than
 
 #### **Sustainable funding**
 
-###### ![Medellín](/images/features/2015/medellin.jpg/)**The city of Medellín** © ACI Medellín
+###### ![Medellín](/images/features/2015/medellin.jpg)**The city of Medellín** © ACI Medellín
 
 Ultimately, cities must find sustainable sources of financing, which is highly challenging in today’s economic climate. Furthermore, banks and other financial services firms are facing increased pressure from shareholders and other stakeholders to invest in projects that not only reap healthy returns, but which are environmentally, socially and economically sound. An added challenge is that there are few forums globally that address today’s funding gap for cities, and best practices in this area are seldom discussed on a global scale.
 
-The biennial [World Cities Summit](https://www.worldcitiessummit.com.sg) is such an event that brings together city mayors and financiers. Staged in Singapore, the 2014 event saw representatives from the World Bank and Asian Development Bank meet with city leaders and the private sector, in order to encourage greater dialogue between the various stakeholders. More than USD $14.5 billion worth of deals between public and private sector entities were [announced at the Summit](https://www.worldcitiessummit.com.sg/sites/sites2.globalsignin.com.2.wcs-2014/files/WCS_Postshowreport_Latest.pdf).
+The biennial [World Cities Summit](https://www.worldcitiessummit.com.sg) is such an event that brings together city mayors and financiers. Staged in Singapore, the 2014 event saw representatives from the World Bank and Asian Development Bank meet with city leaders and the private sector, in order to encourage greater dialogue between the various stakeholders. More than USD $14.5 billion worth of deals between public and private sector entities were [announced at the Summit](https://www.worldcitiessummit.com.sg/sites/sites2.globalsignin.com.2.wcs-2014/files/wcs_postshowreport_latest.pdf).
 
 Sustainable funding can exist in new and somewhat novel forms. For instance, [2016 Lee Kuan Yew World City Prize Laureate](/medellin/), the city of Medellín in Colombia, developed a unique financing mechanism where the developer is also an investor. With the aim of enabling quality in the delivery of public projects, and against the backdrop of limited access to private funding, the developer-investor receives approximately 15 percent of the profits from the project, and ensures quality and timely delivery of the initiative.
 

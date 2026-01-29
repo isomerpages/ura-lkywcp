@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Copenhagen, Melbourne, New York City, Singapore, Auckland, Stockholm, Vancouver
 
-###### ![Ninth Avenue, New York City](/images/features/2014/nyc.jpg/)**Ninth Avenue, New York City** © NYC Department of Transportation
+###### ![Ninth Avenue, New York City](/images/features/2014/nyc.jpg)**Ninth Avenue, New York City** © NYC Department of Transportation
 
 The 1960s saw the rise of two phenomena in Western urban planning: the separating of spaces for business, industry and residential activities, and the widespread proliferation of the motorcar. Coupled with rapid globalisation among developed nations, these two occurrences also spread to emerging markets over the course of the next half-century.
 
@@ -40,7 +40,7 @@ Travel has become a necessity of the modern world, the professor acknowledges. H
 
 #### **Attractive cities**
 
-###### ![Argyle Square, Melbourne](/images/features/2014/argyle-street.jpg/)**Argyle Square, Melbourne** © City of Melbourne
+###### ![Argyle Square, Melbourne](/images/features/2014/argyle-street.jpg)**Argyle Square, Melbourne** © City of Melbourne
 
 Aesthetics are an added consideration for urban planners. Gehl notes that in the past, it was assumed that having developing cities spread over several kilometres made such places more liveable and visually pleasing for residents. However, the professor argues otherwise, claiming that good architecture can flourish in both compact and expansive settings – along with luscious greenery, culture and entertainment, and other recreational spaces. Furthermore, by interspersing green areas and places of recreation between residential and work districts, urban planners encourage work-life balance – a key component of liveable and sustainable cities.
 

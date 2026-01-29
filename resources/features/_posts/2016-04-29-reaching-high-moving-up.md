@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Medellín
 
-###### ![The MetroCable](/images/features/2016/medellion-metrocable.jpg/)**The MetroCable** © Municipality of Medellín
+###### ![The MetroCable](/images/features/2016/medellion-metrocable.jpg)**The MetroCable** © Municipality of Medellín
 
 Medellín in the 1990s, as former Mayor Aníbal Gaviria Correa recalled, was a place of “pain and a dark night”. It was “like a war,” said Gaviria of Colombia’s second-largest city, which was then wrecked by poverty and crime that made it “the most violent city in the world” with nearly 400 homicides per 100,000 residents. For Gaviria, who served as Medellín’s Mayor from 2012-2015, the pain is also personal; his elder brother, a former provincial governor, was kidnapped and later murdered by guerrillas during a march for peace that began in Medellín in 2003.
 
@@ -26,7 +26,7 @@ Medellín’s efforts to renew itself were recognised two years ago when the cit
 
 #### **Connecting communities through public transportation**
 
-###### ![Former Director of Planning of Medellín Jorge Pérez and former Mayor of Medellín Aníbal Gaviria Correa](/images/features/2016/jorge-perez-anibal-gaviria.jpg/)**Former Director of Planning of Medellín Jorge Pérez (left) and former Mayor of Medellín Aníbal Gaviria Correa (right)** © Marcus Ng
+###### ![Former Director of Planning of Medellín Jorge Pérez and former Mayor of Medellín Aníbal Gaviria Correa](/images/features/2016/jorge-perez-anibal-gaviria.jpg)**Former Director of Planning of Medellín Jorge Pérez (left) and former Mayor of Medellín Aníbal Gaviria Correa (right)** © Marcus Ng
 
 Geographically, Medellín is a landlocked city that lies in Colombia’s Aburrá Valley which runs between two mountain ranges at the northern end of the Andes. Over the decades, many migrants had set up homes on the slopes of these mountains, which became economically and socially isolated from other parts of the city. The uncontrolled spread of these barrios or urban neighbourhoods led to multiple problems, among them, landslides that killed many inhabitants and high crime due to the lack of opportunities and spaces for education and recreation.
 

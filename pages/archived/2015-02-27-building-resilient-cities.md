@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> San Francisco (Philippines), Singapore
 
-###### ![Punggol Eco-Town](/images/features/2015/punggol.jpg/)**Punggol Eco-Town** © Urban Redevelopment Authority Singapore
+###### ![Punggol Eco-Town](/images/features/2015/punggol.jpg)**Punggol Eco-Town** © Urban Redevelopment Authority Singapore
 
 The concept of protecting cities from acts of God and manmade threats is nothing new. Since prehistoric times, both formal and informal settlements have sought to guard their livelihoods from an array of risks, including droughts, famine, floods, social unrest, hostile enemies and more. In 12th century Cambodia, for instance, the Khmer Empire was at its height and its capital city of Angkor was a thriving metropolis of around 750,000 people. However, a series of mega-monsoons, interspersed with catastrophic droughts, contributed to the [decline and fall of an empire that had thrived for almost 700 years](http://archaeology.about.com/od/medieval/qt/Collapse-Of-Angkor.htm).
 

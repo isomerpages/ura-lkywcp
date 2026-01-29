@@ -23,7 +23,7 @@ published: false
 | 5 | Cities like Shenzhen, Pune, Oslo lead in clean energy adoption. |
 | 6 | Technology advances drive clean energy transition for improved urban air. |
 
-###### ![Once a polluted city, Shenzhen's air quality is among the top in China.](/images/features/2023/shenzhen-air.jpg/)**Once a polluted city, Shenzhen's air quality is among the top in China.** © zhaojiankangphoto/123RF
+###### ![Once a polluted city, Shenzhen's air quality is among the top in China.](/images/features/2023/shenzhen-air.jpg)**Once a polluted city, Shenzhen's air quality is among the top in China.** © zhaojiankangphoto/123RF
 
 As the world rapidly urbanises and city dwellers are estimated to comprise some 70% of the world population by 2050[^1], one of the biggest ongoing challenges is to ensure clean air in urban environments. In a recent report by the World Health Organization, data from some 6,000 cities shows that 99% of the world’s population still breathes in unhealthy levels of air pollutants[^2].
 
@@ -42,7 +42,7 @@ Emissions from internal combustion engine vehicles are a main source of air poll
 
 In 2017, Shenzhen, China became the first city in the world to fully electrify its bus fleet. The city began its pilot of electric vehicles in 2009 with substantial funding from the government. Over time, Shenzhen built more than 500 charging stations with some 8,000 outlets and ensured utility companies worked closely with bus companies to install charging outlets along bus routes. Today, the city has the world’s largest electric bus fleet — over 16,000 — as well as the largest electric taxi fleet[^4]. Coupled with other pollution control measures, Shenzhen cut air pollution by 50 percent within the same period and is known as one of the cleanest cities in China[^5]. Since then, more cities have been adopting electric buses. Pune, India, has converted some 20 percent of its fleet to electric buses in recent years while Santiago de Chile has converted 30 percent of its fleet with a goal of 100 percent electrification by 2035[^6].
 
-###### ![Oslo aims to fully electrify the city's vehicles by 2030](/images/features/2023/oslo-bus.jpg/)**Oslo aims to fully electrify the city's vehicles by 2030.** © mumemories/123RF
+###### ![Oslo aims to fully electrify the city's vehicles by 2030](/images/features/2023/oslo-bus.jpg)**Oslo aims to fully electrify the city's vehicles by 2030.** © mumemories/123RF
 
 Oslo, Norway, has taken electrification further with its goal of becoming the world’s first capital city with an all-electric system[^7]. The city has been converting its fleets of trains, trams, ferries, buses, construction machines and shared bicycles to electric ones. In 2022, 80 percent of Oslo’s new car sales were electric[^8]. Furthermore, much of the electricity powering the grid comes from hydropower[^9]. 
 
@@ -60,7 +60,7 @@ Beijing, China, also demonstrates how cities could dramatically improve their ai
 
 Advances in technology has made it increasingly viable for cities worldwide to switch from pollutive fossil fuels to cleaner, renewable energy. Conventionally, adoption of renewable energy used to be highly dependent on having the right geographical conditions such as geothermal activity. 
 
-###### ![India has been establishing solar parks such as this in Raichur, in a bid to combta air pollution and carbon emissions](/images/features/2023/raichur-solar.jpg/)**India has been establishing solar parks such as this in Raichur, in a bid to combat air pollution and carbon emissions.** © lakshmiprasad Sindhnur/123RF
+###### ![India has been establishing solar parks such as this in Raichur, in a bid to combta air pollution and carbon emissions](/images/features/2023/raichur-solar.jpg)**India has been establishing solar parks such as this in Raichur, in a bid to combat air pollution and carbon emissions.** © lakshmiprasad Sindhnur/123RF
 
 With solar panels becoming more high-performance and cost-effective over time[^24], countries have accelerated the building of solar parks with significant capacities, such as China’s Golmud Solar Park which generates over 2.8 gigawatts[^25] and India’s Bhadla Solar Park, which is capable of powering 4.5 million homes[^26]. Recognising that solar energy adopting would improve air quality, Indian cities have been pushing solar power adoption in recent years. Lucknow, capital of Uttar Pradesh, has set ambitious targets for electricity production through solar installations such as farms and rooftop systems. Since 2022, the city has provided substantial subsidies for households to install solar rooftops, organised public programmes to increase awareness of renewable energy solutions, and deployed solar systems on public buildings[^27].
 

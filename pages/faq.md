@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
-image: /images/FAQ.jpg
+image: /images/faq.jpg
 description: Frequently asked questions about the Lee Kuan Yew World City Prize. 
 ---
 

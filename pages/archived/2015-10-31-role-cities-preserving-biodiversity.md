@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Austin, Singapore, Vienna, Melbourne, Bangalore, San Francisco, Havana, Bogotá, Curitiba
 
-###### ![Melbourne](/images/features/2015/melboune.jpg/)**Melbourne aims to be a city in a forest with an ambitious urban forestry strategy**
+###### ![Melbourne](/images/features/2015/melboune.jpg)**Melbourne aims to be a city in a forest with an ambitious urban forestry strategy**
 
 We are not alone on this planet. It may seem unbelievable, but humanity shares the Earth with a spectacular biological diversity or biodiversity of [more than 1.2 million](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001127) known species of plants, animals and other living organisms. Cities, far from being barren concrete jungles, are emerging as havens for many species of plants and animals, which have learnt to survive in built-up environments or thrive in urban parks, gardens and other green lungs. Falcons and coyotes hunt between New York City’s skyscrapers, pumas lurk in the wooded valleys of San Francisco, while otters and hornbills occupy the parks of the island-city of Singapore.
 
@@ -35,7 +35,7 @@ Steffen Lehmann, Professor and Head of the School of Architecture at the School 
 
 Preserving biodiversity also makes good economic and business sense. Professor Beatley offers the example of Austin, capital of Texas in USA, where the city’s main bridge inadvertently became a roost for some 1.5 million bats after it was built in 1980. People were initially worried about health and thought of eradicating the colony. But after working with an environmental group called Bat Conservation International, Austin has become 'bats' over the animals. “Not only did they not eradicate the bats, they are celebrating them,” explains Professor Beatley, who points out that the bats now generate millions of tourism dollars as people from all over the country flock to the bridge every evening to see the spectacular flight of the bats, which also perform the added service of consuming agricultural pests. “There are even bat-watching cruises on the river,” he adds.
 
-###### ![Austin Texas](/images/features/2015/austin.jpg/)**Bat-watching in Austin, Texas, USA**
+###### ![Austin Texas](/images/features/2015/austin.jpg)**Bat-watching in Austin, Texas, USA**
 
 The challenge of preserving green spaces and their associated ecosystem services is compounded in many cities in developing regions, however. According to Professor Lehmann, who served as UNESCO’s Chair for Sustainable Urban Development for Asia and the Pacific from 2008-2010, “The track record for the preservation of substantial tracts of greenery and natural habitats in these cities has mostly been very poor or appalling.” One reason for this is that these cities are already struggling with long-term planning in general and the provision of basic needs such as infrastructure, transport and housing.
 

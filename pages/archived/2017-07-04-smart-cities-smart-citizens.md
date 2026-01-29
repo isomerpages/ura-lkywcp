@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Songdo, Bandung, Barcelona, Amsterdam, Higashimatsushima
 
-###### ![The South Korean city of Songdo](/images/features/2017/songdo.jpg/)**The South Korean city of Songdo has a citywide network of sensors**
+###### ![The South Korean city of Songdo](/images/features/2017/songdo.jpg)**The South Korean city of Songdo has a citywide network of sensors**
 
 The residents of Songdo in South Korea live in a city that is filled with so many sensors that a traffic accident, a stolen car or even a lost child could be detected in real time. In Indonesia, Bandung has become the sixth most active city on Twitter, a level of penetration that has allowed its Mayor, Ridwan Kamil, to employ social media as a tool for effective citizen communication and urban management. Over in Europe, Barcelona is rolling out Smart Citizen platforms such as Fab Lab Barcelona to boost citizen participation in urban planning processes, while Amsterdam Smart City is a multi-stakeholder platform that is harnessing the ideas of residents, companies and institutions to make this Dutch city smarter and futureproof.
 

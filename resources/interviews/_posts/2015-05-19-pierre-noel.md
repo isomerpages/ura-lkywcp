@@ -12,7 +12,7 @@ published: false
 
 ##### Mr Pierre Noel, Chief Security Officer, Asia, Microsoft, discusses the threats cities face from cyber-attacks, the fall-out from these, and what cities must do to become resilient to web-based threats.
 
-###### ![Data Centre](/images/features/2015/data-centre.jpg/)**Data Centre** © Robert Harker 2012
+###### ![Data Centre](/images/features/2015/data-centre.jpg)**Data Centre** © Robert Harker 2012
 
 #### **How threatening are cyber-attacks to cities, and to what extent can they disrupt the day-to-day functionality of municipal areas?**
 

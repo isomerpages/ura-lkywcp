@@ -14,7 +14,7 @@ description:  Antwerp's Scheldt Quays is a project to reconnect the city and its
 | **Type** | Urban regeneration, climate change adaptation |
 | **Location** | River Scheldt |
 
-###### ![Droogdokkenpark at the north side of the Scheldt Quays](/images/features/2023/droogdokkenpark.jpg/)**Droogdokkenpark at the north side of the Scheldt Quays** © City of Antwerp
+###### ![Droogdokkenpark at the north side of the Scheldt Quays](/images/features/2023/droogdokkenpark.jpg)**Droogdokkenpark at the north side of the Scheldt Quays** © City of Antwerp
 
 #### **In brief**
 

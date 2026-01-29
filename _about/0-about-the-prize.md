@@ -1,7 +1,7 @@
 ---
 title: About the Prize
 permalink: /about-the-prize/
-image: /images/medallion-1280.jpg/
+image: /images/medallion-1280.jpg
 description: A biennial international award that honours outstanding achievements and contributions to the creation of liveable, vibrant and sustainable urban communities around the world.
 ---
 

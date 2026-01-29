@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Singapore, Boston
 
-###### ![Mr Jeffrey Rhoda](/images/features/2014/jeffrey-rhoda.jpg/)**Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation speaks at the ‘The Future of Urban Living’ Conference Singapore[^1] in October 2013** © Novus Media Solutions
+###### ![Mr Jeffrey Rhoda](/images/features/2014/jeffrey-rhoda.jpg)**Mr Jeffrey Rhoda, General Manager (Global Government & Education) at IBM Corporation speaks at the ‘The Future of Urban Living’ Conference Singapore[^1] in October 2013** © Novus Media Solutions
 
 Cities are defined by their ability to respond to the unpredictable. Changes – be it environmental, economic, social or political – are often unexpected, and urban authorities can scramble to respond to events. This is often not through lack of preparedness or anticipation, but when faced with unprecedented change – be it financial collapse or natural disaster – a city’s response is often framed in or based on pre-determined contexts.
 

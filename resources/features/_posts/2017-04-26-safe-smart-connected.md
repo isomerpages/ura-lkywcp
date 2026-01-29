@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Medellín
 
-###### ![Medellín](/images/features/2017/medellin-children.jpg/)**Medellín puts behind its violent past and moves forward as a city of innovation** © ACI Medellín
+###### ![Medellín](/images/features/2017/medellin-children.jpg)**Medellín puts behind its violent past and moves forward as a city of innovation** © ACI Medellín
 
 “We went from being an unviable city to a city where people want to invest, where people want to go for walks, and where we have a citizenship that is working together to improve our quality of life every day.”
 
@@ -33,7 +33,7 @@ Security is another perennial issue, given Medellín’s former reputation as a 
 
 #### **Latin America’s 'capital of innovation'**
 
-##### ![The residents of Medellín enjoying the public spaces in the city](/images/features/2017/medellin-public-space.jpg/)**The residents of Medellín enjoying the public spaces in the city** © ACI Medellín
+##### ![The residents of Medellín enjoying the public spaces in the city](/images/features/2017/medellin-public-space.jpg)**The residents of Medellín enjoying the public spaces in the city** © ACI Medellín
 
 Certainly, safer neighbourhoods in Medellín today are giving peace of mind to both residents as well as investors. Free from the old climate of fear, the city is now reclaiming its historic role as a manufacturing centre in the Colombian state of Antioquia. According to Sergio Escobar, then-Executive Director of ACI Medellín[^1], Medellín is now on the road to becoming one of the 'most innovative and technology driven' cities in the Latin American region.
 
@@ -45,7 +45,7 @@ Technology is expected to be a major driver for Medellín’s future development
 
 #### **Linking people to help them level up**
 
-###### ![MetroCable system in Medellín](/images/features/2017/medellin-metrocable.jpg/)**Connecting hillside residents to the city – the MetroCable system in Medellín** © ACI Medellín
+###### ![MetroCable system in Medellín](/images/features/2017/medellin-metrocable.jpg)**Connecting hillside residents to the city – the MetroCable system in Medellín** © ACI Medellín
 
 Apart from safe streets and the vision of a knowledge economy, Medellín’s revival also stems from its investments in public spaces and accessibility. For Gutiérrez, affordable transport, especially for isolated communities, is a crucial pillar of Medellín’s drive towards economic equity. “If there is something that generates a social gap in Latin America, it is the way we move,” he observes. “Those who pay the most and spend the most time to move around the city are the poor.”
 

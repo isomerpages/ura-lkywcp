@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Singapore, São Paulo, London
 
-###### ![The High Line in New York City](/images/features/2014/nyc-high-line.jpg/)**The High Line in New York City is what Professor Susan Fainstein considers as equitable planning** © [Simon](https://www.flickr.com/photos/walhalla/6065043133)
+###### ![The High Line in New York City](/images/features/2014/nyc-high-line.jpg)**The High Line in New York City is what Professor Susan Fainstein considers as equitable planning** © [Simon](https://www.flickr.com/photos/walhalla/6065043133)
 
 The notion that economic competitiveness should solely dictate the way a city is planned is an increasingly tenuous one. Commercial development and success, while certainly crucial, do not always benefit city residents, particularly the less wealthy. Similarly, rapid urbanisation and urban migration – especially in Asia – mean competitiveness is arguably not the only key to building a better and more liveable city.
 

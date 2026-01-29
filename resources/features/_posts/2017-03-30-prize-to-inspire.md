@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Medellín, Copenhagen, Malmö, Freiburg im Breisgau
 
-###### ![Medellín transformed](/images/features/2017/medellin-transformed.jpg/)**Medellín – once among the most violent cities in the world – is today a transformed city that celebrates life and known for its urban innovation** © ACI Medellín
+###### ![Medellín transformed](/images/features/2017/medellin-transformed.jpg)**Medellín – once among the most violent cities in the world – is today a transformed city that celebrates life and known for its urban innovation** © ACI Medellín
 
 “The message – that participatory planning can usher in real change – should give hope to all those not living on the ‘sunny side’ of society,” declares Wulf Daseking. “Greater integration – not separation – of all parts of the population should be the way forward for cities.”
 
@@ -39,13 +39,13 @@ For the 2018 Prize, a new judging criterion is how cities include their wider me
 
 Daseking points out that the new criterion reflects the continuing trend of a “strong pattern of migration towards cities and metropolitan areas worldwide”, which had led to “terrible sprawls” around many megacities. Daseking observes that “in past times, planners were concerned almost exclusively with cities.” Now, he sees an urgent need for cities to be well-integrated with their surrounding region and to have coherent social, economic and environmental strategies that can traverse geographical distances as well as political differences.
 
-###### ![Øresund bridge](/images/features/2017/oresund-bridge.jpg/)**The bridge that links two cities – Copenhagen and Malmö – in the Øresund Region** © City of Copenhagen
+###### ![Øresund bridge](/images/features/2017/oresund-bridge.jpg)**The bridge that links two cities – Copenhagen and Malmö – in the Øresund Region** © City of Copenhagen
 
 This integration of city and regional planning is not an easy process, Daseking adds. One notable case, however, comes from the Øresund Region in north Europe that includes Copenhagen in Denmark and Malmö in Sweden \([joint Special Mention in 2012](/copenhagen-malmo/)). “This is an excellent example of collaboration across national frontiers, where different urban and national authorities have found a way to work together, especially in the sectors of public transport and housing,” remarks Daseking.
 
 Another success story is the 'Green City' of Freiburg im Breisgau in south Germany, which lies close to both the French and Swiss borders. In 2010, a team led by Daseking (then the city’s Chief Planning Officer) drafted the Freiburg Charter, which guides the city’s sustainable urban development and planning process, and regards cities and their regions as “inextricably interwoven and interdependent.” As Daseking explains, “City and region – even across country borders – must be regarded as a closely bound organism; they simply have to find a way to cooperate together.” This approach has led to collaborations with nearby municipalities in Basel \(Switzerland) and Mulhouse \(France), with all three cities sharing an international airport based near Mulhouse.
 
-###### ![Freiburg charter](/images/features/2017/freiburg-charter.jpg/)**Consideration for the wider region forms an integral part of the Freiburg Charter for Sustainable Urban Planning and Development, according to Professor Wulf Daseking** © Wulf Daseking
+###### ![Freiburg charter](/images/features/2017/freiburg-charter.jpg)**Consideration for the wider region forms an integral part of the Freiburg Charter for Sustainable Urban Planning and Development, according to Professor Wulf Daseking** © Wulf Daseking
 
 #### **Celebrating excellence in city planning**
 

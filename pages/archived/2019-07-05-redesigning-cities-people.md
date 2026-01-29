@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Toronto
 
-###### ![Public spaces in Toronto](/images/features/2019/public-spaces-toronto.jpg/)**Public spaces in Toronto** © City of Toronto
+###### ![Public spaces in Toronto](/images/features/2019/public-spaces-toronto.jpg)**Public spaces in Toronto** © City of Toronto
 
 #### **Tackling challenges through urban renewal**
 
@@ -41,7 +41,7 @@ A cautionary example she shares is the trend in North America to separate school
 
 #### **Redefining the use of streets**
 
-###### ![King Street transit pilot](/images/features/2019/king-street-toronto.jpg/)**The ongoing King Street transit pilot is giving priority to streetcars or trams over private vehicles** © City of Toronto
+###### ![King Street transit pilot](/images/features/2019/king-street-toronto.jpg)**The ongoing King Street transit pilot is giving priority to streetcars or trams over private vehicles** © City of Toronto
 
 Principles of density and mixed use do not only apply to neighbourhoods but to streets as well. Jennifer describes 'complete streets' based on the idea that streets can be designed to accommodate multiple users such as people who walk, cycle, take transit or drive, as well as multiple uses like sidewalk cafés, benches, greenery and shade, lighting, utilities and stormwater management. Whereas previously, the old street design model asked “How can we move cars through as quickly as possible?” she suggests that the redesign process begin by asking, “Who do we want to use this street?” and “How can we ensure the safety of all users, especially the most vulnerable ones?” 
 

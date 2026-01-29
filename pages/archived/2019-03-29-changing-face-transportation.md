@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Oslo, Barcelona, Auckland, Hamburg, Sydney, Belleville, Singapore, Curitiba, Kingston
 
-###### ![Cycling in Copenhagen](/images/features/2019/cycling-copenhagen.jpg/)**Cycling in Copenhagen** © William Perugini/ 123rf.com
+###### ![Cycling in Copenhagen](/images/features/2019/cycling-copenhagen.jpg)**Cycling in Copenhagen** © William Perugini/ 123rf.com
 
 By the end of this year, the capital of Oslo in Norway will [restrict the use of vehicles in its city centre](https://www.nytimes.com/2018/12/19/travel/oslo-restricts-cars-in-city-center.html), remove all 700 of the on-street parking spaces in the area and build new bicycle lanes and public transportation facilities in their stead. Explaining the decision, the city’s Vice Mayor for Urban Development Hanna Elise Marcussen said: “We’re doing this to give the streets back to the people.” 
 
@@ -37,7 +37,7 @@ In New Zealand, the city of Auckland is attempting a similar pedestrianisation p
 
 On the other side of the world, the city of Hamburg in Germany is carrying out an even more ambitious plan. By 2034, about 40 percent of the city’s land area will be [devoted to a green network](https://www.theguardian.com/sustainable-business/hamburg-answer-to-climate-change) that uses green corridors and paths to connect its plentiful parks, gardens, playgrounds, recreational areas and cemeteries. Sections of the connectors are being [built on top of existing motorways](https://www.fastcompany.com/3040310/theyre-going-to-bury-a-stretch-of-german-autobahn-and-cover-it-in-parks), restricting the latter’s noise and other pollution and reducing the land needed for the plan. “Our network will be unique in covering the city from its outskirts to the city centre. You’ll be able to explore the city exclusively on bike and foot,” said Ms Angelika Fritsch, a government spokeswoman. 
 
-###### ![People and tram near the Oslo City Hall](/images/features/2019/oslo-city-hall.jpg/)**People and tram near the Oslo City Hall** © ojimorena/ 123rf.com
+###### ![People and tram near the Oslo City Hall](/images/features/2019/oslo-city-hall.jpg)**People and tram near the Oslo City Hall** © ojimorena/ 123rf.com
 
 #### **Public transport at your command** 
 

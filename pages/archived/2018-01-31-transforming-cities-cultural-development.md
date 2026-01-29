@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Tokyo, Jeonju, Singapore, Leeuwarden, Ghent
 
-###### ![The Hanok Village in Jeonju, South Korea](/images/features/2018/jeonju-hanok-village.jpg/)**The Hanok Village in Jeonju, South Korea**
+###### ![The Hanok Village in Jeonju, South Korea](/images/features/2018/jeonju-hanok-village.jpg)**The Hanok Village in Jeonju, South Korea**
 
 Stimulating local economies and job creation, building communities, catalysing cultural vibrancy, and forging distinctive urban identities and image – when cities invest in cultural development, the outcomes are often far-reaching and transformative.
 
@@ -30,7 +30,7 @@ At the same time, Tokyo’s traditions serve to inspire cultural experimentation
 
 Another city that has successfully tapped on its cultural lineage for development is Jeonju, South Korea. One of South Korea’s major hubs for arts and culture, the city’s attractiveness and identity are a result of blending traditions with modernity. Recognised as a UNESCO City of Gastronomy in 2012, Jeonju pushes innovation in its gastronomy sector by collaborating with educational institutes to propagate knowledge of traditional Korean and Jeonju cuisines, food festivals and organisations to focus on preserving and promoting culinary knowledge.
 
-###### ![A traditional tea house in Tokyo](/images/features/2018/tokyo-tea.jpg/)**A traditional tea house in Tokyo** © Valerij Milanovic/ Shutterstock.com
+###### ![A traditional tea house in Tokyo](/images/features/2018/tokyo-tea.jpg)**A traditional tea house in Tokyo** © Valerij Milanovic/ Shutterstock.com
 
 #### **Engendering cultural development through inclusion**
 

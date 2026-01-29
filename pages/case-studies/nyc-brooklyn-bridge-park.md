@@ -18,7 +18,7 @@ description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East Riv
 
 #### **In brief**
 
-###### ![Brooklyn Bridge Park before](/images/features/2020/bbp-before.jpg/)![Brooklyn Bridge Park after](/images/features/2020/bbp-after.jpg/)**A visualisation to show the full build-out to Brooklyn Bridge Park before and after** © NYC Department of Parks & Recreation
+###### ![Brooklyn Bridge Park before](/images/features/2020/bbp-before.jpg)![Brooklyn Bridge Park after](/images/features/2020/bbp-after.jpg)**A visualisation to show the full build-out to Brooklyn Bridge Park before and after** © NYC Department of Parks & Recreation
 
 - Brooklyn Bridge Park is a 34-hectare sustainable waterfront park on Brooklyn’s East River shoreline. The park revitalises 2.1 kilometres of Brooklyn’s post-industrial waterfront from Atlantic Avenue, under the Brooklyn Bridge, to Jay Street north of the Manhattan Bridge. 
 - The site includes Brooklyn Piers 1 through 6, Fulton Ferry Landing, and two existing redesigned parks – Empire Fulton Ferry Park and Main Street Park. It also includes two Civil War-era structures, Empire Stores and the Tobacco Warehouse. 
@@ -32,7 +32,7 @@ description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East Riv
 
 #### **Key issues before the project**
 
-###### ![Pier 1 Bridge before the transformation](/images/features/2020/bbp-before2.jpg/)**Pier 1 Bridge before the transformation** © Julienne Schaer
+###### ![Pier 1 Bridge before the transformation](/images/features/2020/bbp-before2.jpg)**Pier 1 Bridge before the transformation** © Julienne Schaer
 
 - Decline of shipping industry; port and warehouse activities ceased to generate revenue.
 - The need to provide more publicly accessible open spaces in Brooklyn as no major park has been built since prospect park in the 1860s.
@@ -45,7 +45,7 @@ description: Brooklyn Bridge Park – a 34-hectare park on Brooklyn’s East Riv
 
 #### **Leadership and governance**
 
-###### ![Pier 1 during the construction](/images/features/2020/bbp-construction.jpg/)**Pier 1 during the construction** © Julienne Schaer
+###### ![Pier 1 during the construction](/images/features/2020/bbp-construction.jpg)**Pier 1 during the construction** © Julienne Schaer
 
 - Brooklyn Bridge Park was created through a partnership between the city and the state. 
 The park is governed by a 17-member board of directors appointed by the then-Mayor of New York City, the then-Governor of New York State and local elected officials.
@@ -59,7 +59,7 @@ The park is governed by a 17-member board of directors appointed by the then-May
 
 #### **Creativity and innovation**
 
-###### ![Pier 6 features a slide mountain that creates a dynamic play area emphasising interaction with the natural environment](/images/features/2020/bbp-mountain-slide.jpg/)**Pier 6 features a slide mountain that creates a dynamic play area emphasising interaction with the natural environment** © Julienne Schaer
+###### ![Pier 6 features a slide mountain that creates a dynamic play area emphasising interaction with the natural environment](/images/features/2020/bbp-mountain-slide.jpg)**Pier 6 features a slide mountain that creates a dynamic play area emphasising interaction with the natural environment** © Julienne Schaer
 
 - The project comprehensively incorporates sustainable practices in its planning, design, construction and operation to minimise environmental impacts with extensive reuse of on-site structures, fixtures and recycle materials. 
 - The design of the park is based on the structural capacity of the piers with heavier infrastructure-dependent elements being located on the uplands and lighter landscapes on the pile supported piers. 
@@ -71,7 +71,7 @@ The park is governed by a 17-member board of directors appointed by the then-May
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2020/impacts-nyc2.png/)
+###### ![Impacts](/images/features/2020/impacts-nyc2.png)
 
 - The project transformed a derelict industrial Brooklyn waterfront into an attractive and accessible urban park.  
 - Increase in sales of residential units of the neighbourhoods adjacent to the park.  
@@ -86,7 +86,7 @@ The park is governed by a 17-member board of directors appointed by the then-May
 
 #### **Replicable ideas**
 
-###### ![Brooklyn Bridge Park after revitalisation](/images/features/2020/brooklyn-bridge-park.jpg/)**Brooklyn Bridge Park after revitalisation** © Julienne Schaer
+###### ![Brooklyn Bridge Park after revitalisation](/images/features/2020/brooklyn-bridge-park.jpg)**Brooklyn Bridge Park after revitalisation** © Julienne Schaer
 
 - The park’s financial plan can serve as a model for other large-scale urban redevelopment projects where maintenance funds are scarce. 
 - The master plan design reflects many practical values that can be replicated including the site’s programmatic layout dictated by the piers’ structural capacity, the placement of the planted berms to mitigate noise impacts from the adjacent elevated highway; its self-sustaining measures including storm-water management, and its reuse of salvaged materials. **<font color="#967942">O</font>**

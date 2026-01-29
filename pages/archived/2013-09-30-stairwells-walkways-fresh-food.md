@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> New York City, Detroit, Los Angeles
 
-###### ![Cycling](/images/features/2013/healthy-cities.jpg/)**Promoting physical activity in the city** © Christopher Porter
+###### ![Cycling](/images/features/2013/healthy-cities.jpg)**Promoting physical activity in the city** © Christopher Porter
 
 According to the World Health Organisation (WHO), two-thirds of all deaths globally in 2011 were caused by non-communicable diseases, such as cardiovascular diseases, cancers, diabetes and chronic lung diseases – the vast majority of which stem from unhealthy eating, physical inactivity, tobacco use and alcohol consumption. According to Dr Karen Lee, Adjunct Professor at the schools of public health at universities of Alberta and Toronto, the design of today’s cities can significantly create supportive environments for the lifestyle behaviours needed to mitigate these threats.
 

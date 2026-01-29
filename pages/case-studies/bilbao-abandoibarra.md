@@ -18,7 +18,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 
 #### **In brief**
 
-###### ![Abandoibarra Map](/images/case-studies/abandoibarra-map.jpg/)**Map showing the outline of the Abandoibarra district** © Bilbao City Hall
+###### ![Abandoibarra Map](/images/case-studies/abandoibarra-map.jpg)**Map showing the outline of the Abandoibarra district** © Bilbao City Hall
 
 - The Abandoibarra district is a redevelopment of an obsolete and run-down port area adjacent to the River Nervion.
 - The relocation of the port from the city centre opened up the waterfront as a key area of transformation.
@@ -31,7 +31,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 
 #### **Key issues before the project**
 
-###### ![Abandoibarra before the transformation](/images/case-studies/abandoibarra-before.jpg/)**Abandoibarra before the transformation** © Bilbao City Hall
+###### ![Abandoibarra before the transformation](/images/case-studies/abandoibarra-before.jpg)**Abandoibarra before the transformation** © Bilbao City Hall
 
 - Decline of mining, steel and shipbuilding industries, which conditioned the urban structure along the river.
 - Rising unemployment of about 22.5 percent in the 1970s and 1980s, due to deindustrialisation and disinvestment both from abroad and other parts of Spain.
@@ -43,7 +43,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 
 #### **Leadership and governance**
 
-###### ![Land ownership of Abandoibarra](/images/case-studies/abandoibarra-land-ownership.png/)**Land ownership of Abandoibarra** © Bilbao City Hall
+###### ![Land ownership of Abandoibarra](/images/case-studies/abandoibarra-land-ownership.png)**Land ownership of Abandoibarra** © Bilbao City Hall
 
 - Abandoibarra was highlighted in the first General Urban Plan by Bilbao Town Hall in 1987, as the most representative ‘opportunity site’ left out by deindustrialisation and economic decline that could be redeveloped to lead the process of urban revitalisation.
 - Its operation inaugurates the shift from urban government to governance. The new mode of urban governance involves the transfer of planning and implementation powers traditionally held by local institutions to a new managing institution, Bilbao Ria 2000.
@@ -57,7 +57,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 
 #### **Creativity and innovation**
 
-###### ![Pedro Arrupe Walkway](/images/case-studies/pedro-arrupe-walkway.jpg/)**Pedro Arrupe Walkway** © Bilbao City Hall
+###### ![Pedro Arrupe Walkway](/images/case-studies/pedro-arrupe-walkway.jpg)**Pedro Arrupe Walkway** © Bilbao City Hall
 
 - Abandoibarra demonstrated that the use of culture, internationalisation and design excellence as key catalysts have enabled the successful regeneration of the city. Through constant re-invention and evolvement, the city progressed from an industrial to a knowledge-based economy.
 - Bilbao Guggenheim Museum – the symbol of transformation. It played an outstanding role as a driving force for shifting Bilbao’s personality towards a more cosmopolitan character with a closer relationship to contemporary culture.
@@ -72,7 +72,7 @@ description: This urban regeneration project that spanned some 14 years saw the 
 
 #### **Impacts**
 
-###### ![Impacts](/images/features/2019/impacts-bilbao1.png/)
+###### ![Impacts](/images/features/2019/impacts-bilbao1.png)
 
 - The Bilbao effect or Guggenheim effect – it is not just about achieving urban transformation, economic and social vibrancy through a few iconic buildings. Rather, it is about a strong leadership and a commitment to a systematic and long term plan, based on solid processes and supporting infrastructure.
 - Strong boost for tourist sector since the inauguration of Guggenheim Museum in 1997, attracting an average of one million visitors per year since its opening.
@@ -87,7 +87,7 @@ Guggenheim Museum has maintained 3,816 jobs during the first year, and increased
 
 #### **Replicable ideas**
 
-###### ![Abandoibarra after the transformation](/images/case-studies/abandoibarra-after.jpg/)**Abandoibarra after the transformation** © Bilbao City Hall
+###### ![Abandoibarra after the transformation](/images/case-studies/abandoibarra-after.jpg)**Abandoibarra after the transformation** © Bilbao City Hall
 
 - A city can be regenerated through the use of culture, internationalisation and design excellence.
 - The vision should not only focus on economic growth, but also look at the social and quality of life considerations.

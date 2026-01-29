@@ -6,7 +6,7 @@ description: In each cycle, cities with outstanding urban initiatives are select
 published: true
 ---
 
-![Special Mentions](/images/laureates/worldmap-special-mentions.jpg/)
+![Special Mentions](/images/laureates/worldmap-special-mentions.jpg)
 
 In each cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons. 
 

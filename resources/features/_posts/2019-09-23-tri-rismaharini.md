@@ -8,7 +8,7 @@ published: false
 
 ##### Without a big budget to finance every dream project, Surabaya could have taken the path of decline. Instead, the city creatively tapped onto its biggest resource, the people, for its many ground-up initiatives to become a clean and green city. Then-Mayor Tri Rismaharini shares how she overcame the biggest hurdles.
 
-###### ![Mayor Tri Rismaharini](/images/features/2019/interview-tri-rismaharini.jpg/)**Former Mayor of Surabaya Tri Rismaharini** © Urban Redevelopment Authority Singapore
+###### ![Mayor Tri Rismaharini](/images/features/2019/interview-tri-rismaharini.jpg)**Former Mayor of Surabaya Tri Rismaharini** © Urban Redevelopment Authority Singapore
 
 #### **What were the most pressing issues that you have to deal with?**
 
@@ -16,7 +16,7 @@ published: false
 
 In addition, the city government also helps to create a market in the kampungs (traditional villages) for them to sell their products in the comfort of their own homes. This initiative turns out to be a success, with a turnover rate of more than 1.6 billion rupiahs (approximately USD $112,500). As their businesses expand, neighbours are recruited, and this in turn creates the 'Kampung Unggulan' (Prominent Kampung) where each kampung focuses on producing one unique product such as embroidery, cookies, batiks, and handicrafts.
 
-###### ![A home-based business by the housewives](/images/features/2019/surabaya-economic-hero.jpg/)**A home-based business by the housewives** © City of Surabaya
+###### ![A home-based business by the housewives](/images/features/2019/surabaya-economic-hero.jpg)**A home-based business by the housewives** © City of Surabaya
 
 #### **How did you protect the heritage in the city and inject vibrancy into the urban environment?**
 
@@ -28,7 +28,7 @@ We have also converted a government building in a heritage area into a one-stop 
 
 #### **How did you get the community to come together?**
 
-###### ![Mundu Park – one of Surabaya’s many parks](/images/features/2019/surabaya-mundu-park.jpg/)**Mundu Park – one of Surabaya’s many parks** © City of Surabaya
+###### ![Mundu Park – one of Surabaya’s many parks](/images/features/2019/surabaya-mundu-park.jpg)**Mundu Park – one of Surabaya’s many parks** © City of Surabaya
 
 **TR:** Surabaya used to be a dirty city many years ago. With the limited budget allocated to Surabaya, the city government is unable to finance every environmental project in the city. I took the opportunity to invite the local community and other stakeholders such as private companies and the media to work with us in managing the city’s environment. This is how we were able to achieve the results of our environmental efforts despite the limited budget.
 

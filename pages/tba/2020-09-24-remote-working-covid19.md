@@ -14,7 +14,7 @@ published: false
 
 > ###### **Cities mentioned in this article:** <br> Austin, Singapore, Glasgow, Perth, Sydney, Los Angeles, Detroit, London
 
-###### ![With remote working becoming the new normal, cities could rethink the way we work](/images/features/2020/remote-working.jpg/)**With remote working becoming the new normal, cities could rethink the way we work** © diana.grytsku/ Freepik.com
+###### ![With remote working becoming the new normal, cities could rethink the way we work](/images/features/2020/remote-working.jpg)**With remote working becoming the new normal, cities could rethink the way we work** © diana.grytsku/ Freepik.com
 
 The COVID-19 crisis is transforming the future of work and offices in many cities. Since the start of the pandemic, a growing number of firms around the world have unveiled plans to allow more employees to work from home regularly or permanently, leading to new sustainability benefits and urban planning opportunities.  
 
@@ -26,7 +26,7 @@ As companies cut back on their office space, particularly in city centres where 
 
 #### **Changing the CBD**
 
-###### ![The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs](/images/features/2020/remote-working2.jpg/)**The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs** © prostooleh/ Freepik.com
+###### ![The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs](/images/features/2020/remote-working2.jpg)**The aftermath of COVID-19 presents an opportunity for cities to diversify their CBDs** © prostooleh/ Freepik.com
 
 While CBDs have contributed to cities’ economies, they can be inefficient uses of space, with many becoming deserted on weekends and after office hours. As firms scale back or exit their offices in these districts, the time is ripe to convert more of them into mixed-use residential, commercial and cultural areas to maximise their liveliness throughout the week, said urban planning experts. “If daytime working populations fall, new populations are likely to be needed to keep these areas buzzing and generating income,” [said Dr Tony Matthews](https://www.reuters.com/article/us-health-coronavirus-cities-trfn-idUSKBN23A065), a senior lecturer in urban and environmental planning at Australia’s Griffith University, about the impact of the COVID-19 pandemic. 
 
