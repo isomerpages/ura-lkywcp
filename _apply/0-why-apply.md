@@ -17,8 +17,8 @@ By applying for the Prize, you will get to:
 
 | | Prize Laureate | Special Mentions |
 |:---|:---:|:---:|
-| Cash Prize of Singapore Dollars $300,000 | ✓ |  |
-| Gold Medallion (valued at Singapore Dollars $50,000) | ✓ |  |
+| Cash Prize in Singapore Dollars | ✓ |  |
+| Gold Medallion | ✓ |  |
 | Crystal Trophy |  | ✓ |
 | Award Certificate | ✓ | ✓ |
 | Travel expenses covered to attend World Cities Summit in Singapore[^1] | ✓ | ✓ |
