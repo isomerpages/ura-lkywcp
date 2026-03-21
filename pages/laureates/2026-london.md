@@ -1,13 +1,13 @@
 ---
 title: 2026 Prize Laureate — London
 permalink: /london/
-image: /images/laureates/mexico-city.jpg
+image: /images/2026-london.jpg
 description: London is the 2026 Prize Laureate for demonstrating outstanding capacity to reinvent itself through resilient and innovative governance, transformative infrastructure, and creative public-private partnerships.  
 ---
 
 ##### London is the 2026 Prize Laureate for demonstrating outstanding capacity to reinvent itself through resilient and innovative governance, transformative infrastructure, and creative public-private partnerships. 
 
-###### ![An aerial view showing Parque Lineal Gran Canal and a metro station in Mexico City](/images/laureates/mexico-city.jpg)**An aerial view showing Parque Lineal Gran Canal (on the left) and a metro station (on the right) in Mexico City**  © Mexico City government 
+###### ![London demonstrates outstanding capacity to reinvent itself through resilient governance and transformative infrastructure across its complex system of 33 local authorities.](/images/2026-london.jpg)**London demonstrates outstanding capacity to reinvent itself through resilient governance and transformative infrastructure across its complex system of 33 local authorities.**  © London Mayor Office 
 
 <b><font color="#967942">LONDON</font></b> is the 2026 Prize Laureate for demonstrating outstanding capacity to reinvent itself through resilient and innovative governance, transformative infrastructure, and creative public-private partnerships. These efforts have sustained its position as a global magnet for investment, talent, and visitors, with the city standing out as an exceptional cosmopolitan centre due to its rich cultural tapestry and international character. London's leadership demonstrates remarkable capacity to forge alignment and deliver transformational change in navigating the complexities of governing nine million residents across a polycentric system of 32 boroughs and the City of London Corporation, as well as multiple levels of government. This, achieved through coordinated metropolitan strategies that provide critical oversight for both current and future challenges. The city’s strategic approach to urban development, anchored by world-class transport infrastructure and institutional partnerships, illustrates how historic cities can continue to evolve, balancing heritage with bold innovation through strategic leadership and a commitment to inclusive growth.
 
