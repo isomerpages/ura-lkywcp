@@ -2,14 +2,14 @@
 title: 2026 Special Mention - Budapest
 permalink: /budapest/
 image: /images/2026-budapest.jpg
-description: Antwerp is recognised for its exceptional demonstration of transformative urban governance through good foresight, long-term vision, institutional innovation, and systematic integration of climate resilience with community enhancement.  
+description: Budapest is recognised for demonstrating how meaningful urban transformation can be achieved with limited resources.   
 ---
 
-##### Antwerp is recognised for its exceptional demonstration of transformative urban governance through good foresight, long-term vision, institutional innovation, and systematic integration of climate resilience with community enhancement. 
+##### Budapest is recognised for demonstrating how meaningful urban transformation can be achieved with limited resources.  
 
-###### ![Antwerp converts infrastructure barriers into community connectors through long-term planning and climate resilience initiatives.](/images/2026-antwerp.jpg)**Antwerp converts infrastructure barriers into community connectors through long-term planning and climate resilience initiatives.**  © SKYVISION 
+###### ![Budapest is recognised for demonstrating how meaningful urban transformation can be achieved with limited resources.](/images/2026-budapest.jpg)**Budapest demonstrates meaningful urban transformation with limited resources through strategic innovation and community-centred planning.**  © Municipality of Budapest 
 
-<b><font color="#967942">ANTWERP</font></b> is recognised for its exceptional demonstration of transformative urban governance through good foresight, long-term vision, institutional innovation, and systematic integration of climate resilience with community enhancement. As a pocket-sized metropolis with big city ideas that punches above its weight, it navigates the complexities of balancing Europe's second-largest port with urban liveability for more than 560,000 residents. Antwerp’s governance framework is grounded in long-term planning and sustained coordination, effectively converting infrastructure barriers into community connectors through visionary planning and collaborative governance. The ongoing progress of the Big Link project, alongside comprehensive climate adaptation initiatives, reflects Antwerp’s ability to implement major projects across political cycles while maintaining strong citizen buy-in and achieving visible improvements to both environmental performance and quality of life.
+<b><font color="#967942">BUDAPEST</font></b>
 
 #### **Institutional Innovation for Long-term Transformation**
  
