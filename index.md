@@ -20,9 +20,9 @@ sections:
     - infopic:    
         title: 2026 Prize Laureate & Special Mention
         subtitle: Congratulations to all winners
-        description: We are proud to share that London has been conferred the Lee Kuan Yew World City Prize 2026. Antwerp, Budapest, Guangzhou, Taipei, and Tianjin are also recognised as Special Mentions. These cities offer rich lessons on overcoming complex urban challenges to make transformative changes that elevate people's quality of lives. They will be sharing their cities' stories at the World Cities Summit 2026 in Singapore,  14 to 16 June 2026. Watch this space! 
-        button: World Cities Summit 2026 Singapore
-        url: https://www.worldcitiessummit.com.sg/
+        description: We are proud to share that London has been conferred the Lee Kuan Yew World City Prize 2026. Antwerp, Budapest, Guangzhou, Taipei, and Tianjin are also recognised as Special Mentions. These cities offer rich lessons on overcoming complex urban challenges to make transformative changes that elevate people's quality of lives. 
+        button: Read the full press release here
+        url: https://www. to update
         image: /images/2026-winners-map.jpg
         alt:
     - infopic:    
