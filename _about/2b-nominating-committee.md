@@ -54,7 +54,7 @@ The Nominating Committee reviews and examines submissions, and recommends potent
 | **1** | **Prof Alan A. <u>Altshuler</u>** <br> Professor, Harvard Graduate School of Design | 
 | **2** | **Prof Wulf <u>Daseking</u>** <br> Professor, University of Freiburg |
 | **3** | **Late Sir Peter <u>Hall</u>** <br> Former Professor, The Bartlett, University College London | 
-| **4** | **Dr <u>Liu</u> Thai Ker** <br> Founder, Morrow Architects and Planners |
+| **4** | **Late Dr <u>Liu</u> Thai Ker** <br> Founder, Morrow Architects and Planners |
 | **5** | **Prof Kishore <u>Mahbubani</u>** <br> Distinguished Fellow, Asian Research Institute |
 | **6** | **Prof Marilyn Jordan <u>Taylor</u>** <br> Professor, Former Dean, School of Design, University of Pennsylvania |
 | **7** | **Dr Alfonso <u>Vegara</u>** <br> Founder & Honorary President, Fundación Metropoli |
