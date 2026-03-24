@@ -10,7 +10,7 @@ sections:
     - hero:
         title:
         subtitle: 
-        background: /images/2026-hero-banner.gif
+        background: /images/2026-hero-banner-v2.gif
         button: 
         url: 
         key_highlights:
