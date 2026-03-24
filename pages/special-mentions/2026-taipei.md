@@ -21,7 +21,7 @@ Taipei's strategic deployment of social infrastructure serves as a catalyst for 
 
 #### **Climate Resilience Through Innovation**
 
-Taipei's environmental strategy shows how citizen participation can amplify sustainability. The "No Trash Left On The Ground" policy achieved 25% household waste reduction and 67% general recycling rate through behavioural shifts anchored in community engagement, creating new social norms promoting environmental responsibility. Integrated water management systems have increased the city’s rainfall resilience, while projects like Jinrui Flood Management Park combine flood retention with ecological preservation and volunteer-led educational programmes, showing how climate adaptation infrastructure can serve both environmental and community-building roles.
+Taipei's environmental strategy shows how citizen participation can amplify sustainability. The "No Trash Left On The Ground" policy achieved 67% general recycling rate through behavioural shifts anchored in community engagement, creating new social norms promoting environmental responsibility. Integrated water management systems have increased the city’s rainfall resilience, while projects like Jinrui Flood Management Park combine flood retention with ecological preservation and volunteer-led educational programmes, showing how climate adaptation infrastructure can serve both environmental and community-building roles.
 
 #### **Accessible and Sustainable Transportation**
 
