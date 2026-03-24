@@ -18,7 +18,7 @@ By applying for the Prize, you will get to:
 | | Prize Laureate | Special Mentions |
 |:---|:---:|:---:|
 | Cash Prize in Singapore Dollars | ✓ |  |
-| Gold Medallion | ✓ |  |
+| Prize Medallion | ✓ |  |
 | Crystal Trophy |  | ✓ |
 | Award Certificate | ✓ | ✓ |
 | Travel expenses covered to attend World Cities Summit in Singapore[^1] | ✓ | ✓ |

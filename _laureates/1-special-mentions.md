@@ -6,7 +6,7 @@ description: In each cycle, cities with outstanding urban initiatives are select
 published: true
 ---
 
-![Special Mentions](/images/laureates/worldmap-special-mentions.jpg)
+![Special Mentions](/images/2026-worldmap-sm-english.jpg)
 
 In each cycle, cities with outstanding urban initiatives are selected as Special Mentions to further the sharing of these lessons. 
 
@@ -24,13 +24,17 @@ In each cycle, cities with outstanding urban initiatives are selected as Special
 #### **Asia**
 
 | **Ahmedabad** enjoys early successes in implementing a comprehensive city plan. | [Citation](/ahmedabad/) |
+| **Guangzhou** demonstrates community engagement and ecological sustainability alongside continued urban development. | [Citation](/guangzhou/) |
 | **Surabaya** is an emerging city that appreciates its culture and preserves its kampung neighbourhoods. | [Citation](/surabaya/) |
+| **Taipei** demonstrates people-centred solutions through collaborative governance and integrated sustainability strategies. | [Citation](/taipei/) |
+| **Tianjin** demonstrates sustainable urban development that balances growth with ecological preservation and historical revitalisation. | [Citation](/tianjin/) |
 | **Tokyo** is a well-managed megacity despite its large and seemingly ungovernable size. | [Citation](/tokyo/) |
 | **Yokohama** overcame urban challenges through excellent partnership with its citizens and stakeholders. | [Citation](/yokohama/) |
 
 #### **Europe**
 
-| **Antwerp** shows that its strategic urban interventions can help to rejuvenate the city. | [Citation](/antwerp/) |
+| **Antwerp** converts infrastructure barriers into community connectors through long-term planning and climate resilience initiatives. | [Citation](/antwerp/) |
+| **Budapest** demonstrates meaningful urban transformation with limited resources through strategic innovation and community-centred planning. | [Citation](/budapest/) |
 | **Copenhagen & Malmö** demonstrate close collaboration and a shared vision across borders. | [Citation](/copenhagen-malmo/) |
 | **Hamburg** is a port city that overcame planning challenges to become a welcoming city of opportunities. | [Citation](/hamburg/) |
 | **Kazan** overcame youth crimes and health issues to transform into a healthy and harmonious city. | [Citation](/kazan/) |

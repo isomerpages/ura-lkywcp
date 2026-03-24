@@ -8,23 +8,23 @@ published: true
 notification: 
 sections:
     - hero:
-        title: Thank you for your applications
+        title:
         subtitle: 
-        background: /images/herobanner.gif
+        background: /images/2026-hero-banner.gif
         button: 
         url: 
         key_highlights:
-            - title: Nominations for 2026 Prize is now closed
+            - title: 2026 Prize Laureate & Special Mentions
               description: 
-              url: /stage-a/
+              url:
     - infopic:    
-        title: Thank you for your applications!
-        subtitle: Nominations for 2026 Prize is now closed
-        description: Nominations for the 2026 Prize now closed. Look out for the next cycle application window in 2027. 
-        button: Nominations for 2026 Prize is now closed
-        url: /stage-a/
-        image: /images/features/2024/banner2026.gif
-        alt: Call for nominations for 2026 Prize is now closed
+        title: 2026 Prize Laureate & Special Mention
+        subtitle: Congratulations to all winners
+        description: We are proud to share that **London** has been conferred the Lee Kuan Yew World City Prize 2026. **Antwerp, Budapest, Guangzhou, Taipei, and Tianjin** *(in alphabetical order)* are also recognised as Special Mentions. These cities offer rich lessons on overcoming complex urban challenges to make transformative changes that elevate people's quality of lives. 
+        button: Read the full press release here
+        url: https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr26-20
+        image: /images/2026-london-medal.png
+        alt:
     - infopic:    
         title: Pedestrians are always first in Antwerp
         subtitle: Interview with Koen Kennis
