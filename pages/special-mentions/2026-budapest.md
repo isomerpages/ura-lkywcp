@@ -19,12 +19,6 @@ Multi-modal integration hubs such as Szell Kalman Square have been upgraded into
 
 The BudapestGO app serves over 1.4 million monthly users (78% of population) by integrating all transport modes and expanding beyond mobility to include broader city information services. This unified digital platform provides an instructive model for other cities seeking to integrate complex transport networks through technology while enhancing citizen experience across multiple municipal services.
 
-#### **Strategic Infrastructure Transformation: Envisioning Urban Connectors for Future Generations**
-
-This institutional innovation enables the systematic implementation of over 350 hectares of Ring Parks, including Ringpark West, Ringpark Het Schijn, and Ringpark Lobroekdok, delivering approximately 15km of cycling infrastructure while reconnecting previously divided neighbourhoods. Meticulous attention to detail such as narrower streets designed to slow traffic and physically separated bike lanes illustrate the city’s emphasis on safety and usability at a fine-grain level. 
-
-The ongoing Big Link project demonstrates how a long-contested infrastructure project can be reshaped to align with local priorities, with many groups that initially opposed the scheme now actively participating as its benefits become visible. The Via Sinjoor corridor improvements intend to integrate community priorities across Astridplein, Meir, Wapper, and Groenplaats, demonstrating how infrastructure can unite rather than divide urban areas.
-
 #### **Tactical Urbanism and Community-Driven Innovation**
 
 Budapest excels in adapting incremental, low-cost interventions to transform public spaces and quickly uplift neighbourhood environments. The city's approach centres on public space reclamation, converting streets and car parks into pedestrian-priority environments, balancing everyday functionality with opportunities for recreation and community use. The car-free Danube Embankment exemplifies this flexibility, incorporating dual-use functionality that allows for recreational use on weekends and during summer whilst maintaining suburban access on weekdays. Similarly, the Chain Bridge now prioritises public transport and cycling exclusively.
