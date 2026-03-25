@@ -19,12 +19,6 @@ The heritage district of Wudadao has undergone a successful revitalisation by re
 
 This progressive approach to transforming public space not only celebrates Tianjin's rich heritage but also nurtures community interaction and engagement, ensuring a high quality of urban life. Ongoing efforts to reclaim road space for pedestrians and expand walkable public realm further enhance the city’s accessibility and urban environment.
 
-#### **Cultural Preservation Through Adaptive Reuse and Technology**
-
-Efforts to preserve cultural heritage underpin Guangzhou’s broader regeneration strategy. Projects such as the restoration and revitalisation of Yongqingfang Historical and Cultural District and the Liwan District have carefully restored and repurposed historical landmarks for current use, fostering vibrant, sustainable growth and job creation while maintaining cultural integrity and identity within the area. 
-
-In Yongqingfang Historical and Cultural District, efforts to preserve intangible cultural heritage are supported through initiatives that promote local crafts, providing opportunities to artisans while strengthening the city's cultural fabric and economy. The city further promotes adaptive reuse of heritage spaces by supporting multifunctional zoning and business planning, ensuring these historic sites remain relevant, active, and integrated into today’s urban economy.
-
 #### **Ecological Mindset and Sustainable Initiatives**
 
 Tianjin has embraced a holistic, eco-conscious approach to urban planning, ensuring environmental preservation is integrated into every level of urban planning. In Sino-Singapore Tianjin Eco-City, the uninhabitable salt-farm wasteland has been transformed into a highly liveable, vibrant and valuable township. This transformation reflects the city’s commitment to protecting arable farmland from urbanisation while continuing to develop sustainable, high-value industries and homes. 
