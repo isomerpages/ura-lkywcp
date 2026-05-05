@@ -33,7 +33,16 @@ On 27 February 2026, CLC met with Ahmedabad city officials to learn more about t
 
 ###### ![Network](/images/features/2024/ahmedabad-1.jpeg)**CLC with Ahmedabad’s Municipal Commissioner Shri Banchhanidhi Pani (2nd from left), Mayor Pratibha Jain (centre) and Chairman of High-Level Committee on Urban Planning Shri Keshav Varma.** © Centre for Liveable Cities 
 
-###### ![Network](/images/features/2024/ahmedabad-2.jpeg)**CLC alongside members of the High-Level Committee on Urban Planning and Sabarmati Riverfront Development Corporation.** © Centre for Liveable Cities 
+###### ![Network](/images/features/2024/ahmedabad-2.jpeg)**CLC alongside members of the High-Level Committee on Urban Planning and Sabarmati Riverfront Development Corporation** © Centre for Liveable Cities 
+
+**Asia Smart Cities Conference 2025, Yokohama**
+
+From 25 to 27 November 2025, at the invitation Yokohama City Hall, CLC participated in the Asia Smart Cities Conference (ASCC) 2025 and met with Mayor of Yokohama to strengthen collaboration within the LKYWCP Network. 
+
+###### ![Network](/images/features/2024/yokohama-1.jpg)**Singapore and Yokohama, along with other Asian city leaders issued a joint open letter, calling on international organisations and other stakeholders to support the circular transition in Asian cities.** © Centre for Liveable Cities 
+
+###### ![Network](/images/features/2024/yokohama-2.JPG)**CLC discussed with Mayor Yamanaka Takeharu, Mayor of Yokohama on greater collaboration in the LKYWCP Network.** © Centre for Liveable Cities
+
 
 **Mayors Forum 2025 (Vienna, Austria)**
 
