@@ -17,11 +17,11 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 
 From 14 to 16 June 2026, the 10th edition of the World Cities Summit will be held in Singapore. This 3-day event comprises the main conference and other key events such as the Mayors Forum, WCS Young Leaders Symposium, the Lee Kuan Yew World City Prize and Network, the Science of Cities Symposium, and an exhibition. The theme for WCS 2026 is Liveable and Sustainable Cities: ACT Now!
 
+#### **Past Events**
+
 **3rd G-NETS Leaders Summit, Tokyo**
 
 From 27 to 29 April 2026, at the invitation of Tokyo Metropolitan Government, Centre for Liveable Cities will participate in the 3rd G-NETS Leaders Summit and Tokyo SusHi Tech Tokyo 2026.
-
-#### **Past Events**
 
 **Mayors Forum 2025 (Vienna, Austria)**
 
