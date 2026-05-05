@@ -33,6 +33,8 @@ On 27 February 2026, CLC met with Ahmedabad city officials to learn more about t
 
 ###### ![Network](/images/features/2024/ahmedabad-1.jpeg)**CLC with Ahmedabad’s Municipal Commissioner Shri Banchhanidhi Pani (2nd from left), Mayor Pratibha Jain (centre) and Chairman of High-Level Committee on Urban Planning Shri Keshav Varma.** © Centre for Liveable Cities 
 
+###### ![Network](/images/features/2024/ahmedabad-2.jpeg)**CLC alongside members of the High-Level Committee on Urban Planning and Sabarmati Riverfront Development Corporation.** © Centre for Liveable Cities 
+
 **Mayors Forum 2025 (Vienna, Austria)**
 
 **WCS Responsive Cities Session - 3 July 2025**
