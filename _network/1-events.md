@@ -1,5 +1,5 @@
 ---
-title:Calendar of Events
+title: Calendar of Events
 Upcoming Events
 permalink: /network/events/
 image: /images/features/2024/knowledge-forum.jpg
