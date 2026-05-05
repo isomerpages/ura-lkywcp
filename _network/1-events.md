@@ -31,7 +31,7 @@ In April 2026, as part of the 28th Executive Development & Growth Exchange (EDGE
 
 On 27 February 2026, CLC met with Ahmedabad city officials to learn more about the further advances the city has made, particularly the revitalisation of the Sabarmati Riverfront and heritage areas within the Walled City.
 
-###### ![Network](/images/features/2024/ahmedabad-1.jpg)**CLC with Ahmedabad’s Municipal Commissioner Shri Banchhanidhi Pani (2nd from left), Mayor Pratibha Jain (centre) and Chairman of High-Level Committee on Urban Planning Shri Keshav Varma.** © Centre for Liveable Cities 
+###### ![Network](/images/features/2024/ahmedabad-1.jpeg)**CLC with Ahmedabad’s Municipal Commissioner Shri Banchhanidhi Pani (2nd from left), Mayor Pratibha Jain (centre) and Chairman of High-Level Committee on Urban Planning Shri Keshav Varma.** © Centre for Liveable Cities 
 
 **Mayors Forum 2025 (Vienna, Austria)**
 
