@@ -1,16 +1,12 @@
 ---
-title: Fellowships
-permalink: /network/fellowships/
+title: Webinars
+permalink: /network/webinars/
 image: /images/features/2024/lkywcp-network.png
-description: City Network for the Lee Kuan Yew World City Prize Fellowships
+description: Webinars for the City Network for the Lee Kuan Yew World City Prize Fellowships
 ---
 
-#### **City Network for the Lee Kuan Yew World City Prize Fellowships**
+#### **Webinars for the City Network for the Lee Kuan Yew World City Prize Fellowships**
 
-**Research Fellowship**
+**LKYWCP Network Webinar Series #1 – From industrial decline to urban renaissance: What cities can learn from Bilbao’s urban transformation**
 
-The City Network for the Lee Kuan Yew World City Prize Research Fellowship is a new initiative to support member cities for joint research, aimed at co-creating transformative knowledge to shape the next generation of urban knowledge and innovation and encouraging mutual learning. This reflects the spirit and collaborative nature of the Network. 
-
-**Urban Leaders Fellowship**
-
-The City Network for the Lee Kuan Yew World City Prize Urban Leaders Fellowship is a programme for senior professionals from city halls and/or planning offices of member cities to be immersed in a one-to-two-week attachment stint in a host city, experiencing first-hand the ongoing work, best practices and solutions being implemented by the city.
+Few cities illustrate the power of long-term urban transformation as clearly as Bilbao. Asier Abaunza Robles, Councillor Delegate, Urban Planning, Strategic Projects and Public Space, Bilbao, shared insights at the inaugural webinar Lee Kuan Yew World City Prize Network on the city’s remarkable transformation, offering valuable lessons for cities’ regeneration and how the city continues to reinvent itself. 
