@@ -43,9 +43,11 @@ Laureate & Special Mention Cities:
 | :--- | :--- | :--- |
 | [Brisbane](/brisbane/) (Special Mention, 2012) | Committee for Brisbane, Brisbane | [https://committeeforbrisbane.org.au/](https://committeeforbrisbane.org.au) |
 | [Ahmedabad](/guangzhou/) (Special Mention, 2012) | CEPT University, Ahmedabad |
-| [Yokohama](/yokohama/) (Special Mention, 2014) | |               
+| [Yokohama](/yokohama/) (Special Mention, 2014) | |
+| [Surabaya](/surabaya/) (Special Mention, 2018) | Airlangga University (UNAIR), Surabaya | [https://unair.ac.id/en/](https://unair.ac.id/en/) |
 | [Boston](boston/) (Special Mention, 2020) | | |
-| [Cape Town](/cape-town/) (Special Mention, 2024) |	International Growth Centre (IGC), Cape Town | [https://www.theigc.org/](https://www.theigc.org/) | 
+| [Cape Town](/cape-town/) (Special Mention, 2024) |	International Growth Centre (IGC), Cape Town | [https://www.theigc.org/](https://www.theigc.org/) |
+| [Melbourne](/melbourne/) (Special Mention, 2024) | Melbourne Centre for Cities, Melbourne | [https://www.unimelb.edu.au/cities/]( https://www.unimelb.edu.au/cities/) |
 | [Rio de Janeiro](/rio-de-janeiro/) (Special Mention, 2024) | Institutos Passos Pereira (IPP), Rio de Janeiro | [https://ipp.prefeitura.rio/](https://ipp.prefeitura.rio/) |
 | [London](/london/) (Laureate, 2026) |
 | [Antwerp](/antwerp/) (Special Mention, 2026) |	Design Sciences Hub, University of Antwerp (DSH), Antwerp | [https://designscienceshub.com/](https://designscienceshub.com/) |
