@@ -21,7 +21,9 @@ From 14 to 16 June 2026, the 10th edition of the World Cities Summit will be hel
 
 From 27 to 29 April 2026, at the invitation of Tokyo Metropolitan Government, Centre for Liveable Cities will participate in the 3rd G-NETS Leaders Summit and Tokyo SusHi Tech Tokyo 2026.
 
-#### **Mayors Forum 2025 (Vienna, Austria)**
+#### **Past Events**
+
+**Mayors Forum 2025 (Vienna, Austria)**
 
 **WCS Responsive Cities Session - 3 July 2025**
 
