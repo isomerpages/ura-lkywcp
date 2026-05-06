@@ -16,6 +16,7 @@ To be kept updated on upcoming events, follow us on the Prize’s [LinkedIn page
 **World Cities Summit 2026, Singapore**
 
 From 14 to 16 June 2026, the 10th edition of the [World Cities Summit](http://www.worldcitiessummit.com.sg/) will be held in Singapore. This 3-day event comprises the main conference and other key events such as the Mayors Forum, WCS Young Leaders Symposium, the Lee Kuan Yew World City Prize and Network, the Science of Cities Symposium, and an exhibition. The theme for WCS 2026 is Liveable and Sustainable Cities: ACT Now!
+
 ---
 
 #### **Past Events**
