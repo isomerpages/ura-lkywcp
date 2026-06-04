@@ -48,12 +48,12 @@ sections:
         image: /images/features/2024/case-studies2.png
         alt: Case studies
     - infopic:    
-        title: Download our new eBook!
+        title: Download our new 2026 eBook!
         subtitle: 
-        description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2024, with exclusive interviews from the Mayors of the 2024 cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
+        description: Discover the visionary approaches of Lee Kuan Yew World City Prize cities from 2010-2026, with exclusive interviews from the Mayors of the 2026 Prize cities, in this comprehensive ebook showcasing exemplary leadership and sustainable urban development.
         button: Download the eBook
-        url: https://go.gov.sg/worldcityprize/
-        image: /images/features/2024/new-ebook-2024.jpg
+        url: https://go.gov.sg/lkywcp-2026
+        image: /images/features/2024/lkywcp-2026-pub.jpg
         alt: eBook
     - infopic:
         title: We are now on LinkedIn!
